@@ -14,8 +14,13 @@ Available Data/Schema:
 - Teams @ [Teams.csv](https://github.com/jokecamp/FootballData/blob/master/Teams.csv)
  - Name (full team name)
  - League (League Code) that team has recently been involved in
-- Players @ [Players-EPL.csv](https://github.com/jokecamp/FootballData/blob/master/Players-EPL.csv)
- - English Premier League 2013 only right now
- - Full Name - first and last
+
+### Country specific data ###
+- England
+ - Players
+  - English Premier League 2013 only right now
+  - Full Name - first and last
+ - Games
+   - A big file. Most league game results combined into one csv file.
 
 I hope to add more data including players and score history. Feel free to send pull requests with any data sets you have. Over time I hope to normalize the data and establish proper relationships.
