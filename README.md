@@ -1,4 +1,4 @@
-FootballData
+Football/Soccer Data for Everyone
 ============
 
 Football/Soccer data for anyone to use. The data is INCOMPLETE but should serve as a good starting point for anyone interested. The data includes most of the premier/first division leagues in the world. The teams attributed to leagues will mostly adhere to the last year's league tables.
