@@ -14,5 +14,8 @@ Available Data/Schema:
 - Teams @ [Teams.csv](https://github.com/jokecamp/FootballData/blob/master/Teams.csv)
  - Name (full team name)
  - League (League Code) that team has recently been involved in
+- Players @ [Players-EPL.csv](https://github.com/jokecamp/FootballData/blob/master/Players-EPL.csv)
+ - English Premier League 2013 only right now
+ - Full Name - first and last
 
 I hope to add more data including players and score history.
