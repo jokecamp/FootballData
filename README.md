@@ -8,10 +8,10 @@ When using the data some cleanup will be required. Some teams might show up twic
 Data is in **CSV** format.
 
 Available Data/Schema:
-- Leagues
+- Leagues @ [Leagues.csv](https://github.com/jokecamp/FootballData/blob/master/Leagues.csv)
    - Name (full name)
    - Code (5-6 alphanumeric abbreviation)
-- Teams
+- Teams @ [Teams.csv](https://github.com/jokecamp/FootballData/blob/master/Teams.csv)
  - Name (full team name)
  - League (League Code) that team has recently been involved in
 
