@@ -25,4 +25,8 @@ Available Data/Schema:
 
 I hope to add more data including players and score history. Feel free to send pull requests with any data sets you have. Over time I hope to normalize the data and establish proper relationships.
 
-Most of the data courtesy of [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+
+### Data Sources
+
+ - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+ 
