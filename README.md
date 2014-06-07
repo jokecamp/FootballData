@@ -28,22 +28,8 @@ I hope to add more data including players and score history. Feel free to send p
 
 ### Data Sources
 
- - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+- [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
 - Wikipedia for squad lists
 
 
 See http://jokecamp.wordpress.com/2014/03/08/guide-to-football-and-soccer-data-and-apis/ for list of soccer data repos.
-
-
-http://en.wikipedia.org/w/api.php?action=parse&page=2010 FIFA World Cup squads&format=json
-http://en.wikipedia.org/w/api.php?action=expandtemplates&page=2010 FIFA World Cup squads&format=json
-http://en.wikipedia.org/w/api.php?action=parse&text={{nat fs player|no=1|pos=GK|name=[[Moeneeb Josephs]]|age={{Birth date and age2|2010|6|11|1980|5|19|df=y}}|caps=17|club=[[Orlando Pirates FC|Orlando Pirates]]|clubnat=RSA}}
-
-http://en.wikipedia.org/w/api.php?action=par
-2010 FIFA World Cup squads
-
-?action=parse&page=2010 FIFA World Cup squads&format=json
-
-Scrapper params:
-//table[@class='sortable jquery-tablesorter']//tr
-td[1]
