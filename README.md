@@ -5,7 +5,7 @@ Football/Soccer data for anyone to use. The data is INCOMPLETE but should serve 
 
 When using the data some cleanup will be required. Some teams might show up twice in the team league. This will happen if the team was recently in multiple leagues/cups.
 
-Data is in **CSV** format.
+Data is in **CSV**, and **JSON** format.
 
 Available Data/Schema:
 - Leagues @ [Leagues.csv](https://github.com/jokecamp/FootballData/blob/master/Leagues.csv)
@@ -25,25 +25,28 @@ Available Data/Schema:
 
 I hope to add more data including players and score history. Feel free to send pull requests with any data sets you have. Over time I hope to normalize the data and establish proper relationships.
 
+### World Cup Data
+ - Started in 1930 with 13 teams in group format
+ - 1934, 1938 did not have groups. It was straight knockout style
+ - The 1942 and 1946 cups were canceled.
+ - Expanded to 24 teams in 1982
+ - Expanded to 32 teams in 1998
+ - Squad lists can be pulled from Wikipedia
+
 
 ### Data Sources
 
- - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+- [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+- Wikipedia for squad lists
 
 
-
-http://en.wikipedia.org/w/api.php?action=parse&page=2010 FIFA World Cup squads&format=json
-http://en.wikipedia.org/w/api.php?action=expandtemplates&page=2010 FIFA World Cup squads&format=json
-http://en.wikipedia.org/w/api.php?action=parse&text={{nat fs player|no=1|pos=GK|name=[[Moeneeb Josephs]]|age={{Birth date and age2|2010|6|11|1980|5|19|df=y}}|caps=17|club=[[Orlando Pirates FC|Orlando Pirates]]|clubnat=RSA}}
-
-http://en.wikipedia.org/w/api.php?action=par
-2010 FIFA World Cup squads
-
-?action=parse&page=2010 FIFA World Cup squads&format=json
-
+<<<<<<< HEAD
 Scrapper params:
 //table[@class='sortable jquery-tablesorter']//tr
 td[1]
 
 
 http://en.wikipedia.org/w/api.php?format=json&action=query&titles=2010%20FIFA%20World%20Cup%20squads&prop=revisions&rvprop=content
+=======
+See http://jokecamp.wordpress.com/2014/03/08/guide-to-football-and-soccer-data-and-apis/ for list of soccer data repos.
+>>>>>>> FETCH_HEAD
