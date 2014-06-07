@@ -39,14 +39,4 @@ I hope to add more data including players and score history. Feel free to send p
 - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
 - Wikipedia for squad lists
 
-
-<<<<<<< HEAD
-Scrapper params:
-//table[@class='sortable jquery-tablesorter']//tr
-td[1]
-
-
-http://en.wikipedia.org/w/api.php?format=json&action=query&titles=2010%20FIFA%20World%20Cup%20squads&prop=revisions&rvprop=content
-=======
 See http://jokecamp.wordpress.com/2014/03/08/guide-to-football-and-soccer-data-and-apis/ for list of soccer data repos.
->>>>>>> FETCH_HEAD
