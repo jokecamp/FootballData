@@ -44,3 +44,6 @@ http://en.wikipedia.org/w/api.php?action=par
 Scrapper params:
 //table[@class='sortable jquery-tablesorter']//tr
 td[1]
+
+
+http://en.wikipedia.org/w/api.php?format=json&action=query&titles=2010%20FIFA%20World%20Cup%20squads&prop=revisions&rvprop=content

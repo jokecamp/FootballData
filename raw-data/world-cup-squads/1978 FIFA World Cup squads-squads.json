@@ -1,0 +1,3522 @@
+[
+  {
+    "Team": "ARG",
+    "Number": "1",
+    "Position": "MF",
+    "FullName": "Norberto Alonso",
+    "Club": "Club AtlÃ©tico River Plate",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1953-1-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "2",
+    "Position": "MF",
+    "FullName": "Osvaldo Ardiles",
+    "Club": "Club AtlÃ©tico HuracÃ¡n",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1952-8-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "3",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Club AtlÃ©tico HuracÃ¡n",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1950-11-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "Daniel Bertoni",
+    "Club": "Club AtlÃ©tico Independiente",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1955-3-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "5",
+    "Position": "GK",
+    "FullName": "Ubaldo Fillol",
+    "Club": "Club AtlÃ©tico River Plate",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1950-7-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Newell's Old Bo",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1955-5-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "7",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Talleres de CÃ³rdo",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1948-2-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club AtlÃ©tico Independiente",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1952-4-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club AtlÃ©tico HuracÃ¡n",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1953-7-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "Mario Kempes",
+    "Club": "Valencia CF",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1954-7-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "11",
+    "Position": "DF",
+    "FullName": "Daniel Killer",
+    "Club": "Racing Club de Avellaneda",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1949-12-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "Omar Larrosa",
+    "Club": "Club AtlÃ©tico Independiente",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1947-11-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "13",
+    "Position": "GK",
+    "FullName": "Ricardo La Volpe",
+    "Club": "Club AtlÃ©tico San Lorenzo de Almagro",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1952-2-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "14",
+    "Position": "FW",
+    "FullName": "Leopoldo Luque",
+    "Club": "Club AtlÃ©tico River Plate",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1949-5-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club AtlÃ©tico San Lorenzo de Almagro",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1952-5-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "Oscar Alberto Ortiz",
+    "Club": "Club AtlÃ©tico River Plate",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1953-4-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "17",
+    "Position": "MF",
+    "FullName": "Miguel Oviedo",
+    "Club": "Talleres de CÃ³rdo",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1950-10-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "18",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club AtlÃ©tico Independiente",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1949-1-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "19",
+    "Position": "DF",
+    "FullName": "Daniel Passarella captain (association football)",
+    "Club": "Club AtlÃ©tico River Plate",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1953-5-25",
+    "IsCaptain": true
+  },
+  {
+    "Team": "ARG",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "Alberto Tarantini",
+    "Club": "Boca Junio",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1955-12-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "21",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Talleres de CÃ³rdo",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1955-10-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ARG",
+    "Number": "22",
+    "Position": "MF",
+    "FullName": "Ricardo Villa",
+    "Club": "Racing Club de Avellaneda",
+    "ClubCountry": "Argentina",
+    "DateOfBirth": "1952-8-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Dominique Baratelli",
+    "Club": "OGC Nice",
+    "ClubCountry": "France",
+    "DateOfBirth": "1947-12-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Patrick Battiston",
+    "Club": "FC Metz",
+    "ClubCountry": "France",
+    "DateOfBirth": "1957-3-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Maxime Bossis",
+    "Club": "FC Nantes Atlantique",
+    "ClubCountry": "France",
+    "DateOfBirth": "1955-6-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "AS Saint-Ã‰tienne",
+    "ClubCountry": "France",
+    "DateOfBirth": "1953-8-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Olympique de Marseille",
+    "ClubCountry": "France",
+    "DateOfBirth": "1951-11-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "Christian Lopez",
+    "Club": "AS Saint-Ã‰tienne",
+    "ClubCountry": "France",
+    "DateOfBirth": "1953-3-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "7",
+    "Position": "DF",
+    "FullName": "Patrice Rio",
+    "Club": "FC Nantes Atlantique",
+    "ClubCountry": "France",
+    "DateOfBirth": "1948-8-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "8",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Olympique de Marseille",
+    "ClubCountry": "France",
+    "DateOfBirth": "1950-1-15",
+    "IsCaptain": true
+  },
+  {
+    "Team": "FRA",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Dominique Bathenay",
+    "Club": "AS Saint-Ã‰tienne",
+    "ClubCountry": "France",
+    "DateOfBirth": "1954-2-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "Jean-Marc Guillou",
+    "Club": "OGC Nice",
+    "ClubCountry": "France",
+    "DateOfBirth": "1945-12-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Henri Michel",
+    "Club": "FC Nantes Atlantique",
+    "ClubCountry": "France",
+    "DateOfBirth": "1947-10-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "Claude Papi",
+    "Club": "Sporting Club de Bastia",
+    "ClubCountry": "France",
+    "DateOfBirth": "1949-4-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "13",
+    "Position": "MF",
+    "FullName": "Jean Petit",
+    "Club": "AS Monaco FC",
+    "ClubCountry": "France",
+    "DateOfBirth": "1949-9-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "14",
+    "Position": "FW",
+    "FullName": "Marc Berdoll",
+    "Club": "Olympique de Marseille",
+    "ClubCountry": "France",
+    "DateOfBirth": "1953-4-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "Michel Platini",
+    "Club": "AS Nancy",
+    "ClubCountry": "France",
+    "DateOfBirth": "1955-6-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Christian Dalger",
+    "Club": "AS Monaco FC",
+    "ClubCountry": "France",
+    "DateOfBirth": "1949-12-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "Bernard Lacombe",
+    "Club": "Olympique Lyonnais",
+    "ClubCountry": "France",
+    "DateOfBirth": "1952-8-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Dominique Rocheteau",
+    "Club": "AS Saint-Ã‰tienne",
+    "ClubCountry": "France",
+    "DateOfBirth": "1955-1-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "19",
+    "Position": "MF",
+    "FullName": "Didier Six",
+    "Club": "RC Lens",
+    "ClubCountry": "France",
+    "DateOfBirth": "1954-8-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "Olivier Rouyer",
+    "Club": "AS Nancy",
+    "ClubCountry": "France",
+    "DateOfBirth": "1955-12-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "Jean-Paul Bertrand-Demanes",
+    "Club": "FC Nantes Atlantique",
+    "ClubCountry": "France",
+    "DateOfBirth": "1952-5-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRA",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Dominique Dropsy",
+    "Club": "RC Strasbourg",
+    "ClubCountry": "France",
+    "DateOfBirth": "1951-12-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Budapest HonvÃ©d ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-11-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Vasas ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-4-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Budapest HonvÃ©d ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1949-10-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Ãšjpesti DÃ³zsa ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-12-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "5",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Vasas ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-10-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "HaladÃ¡s V",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1953-7-13",
+    "IsCaptain": true
+  },
+  {
+    "Team": "HUN",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Ãšjpesti DÃ³zsa ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1947-10-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "Tibor Nyilasi",
+    "Club": "FerencvÃ¡rosi Torna Club",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1955-1-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Ãšjpesti DÃ³zsa ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1955-5-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Budapest HonvÃ©d ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1950-7-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Vasas ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1953-4-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "12",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "FerencvÃ¡rosi Torna Club",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1949-12-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "13",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "TatabÃ¡nyai B",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1952-2-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "FerencvÃ¡rosi Torna Club",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1948-2-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "Tibor Rab",
+    "Club": "FerencvÃ¡rosi Torna Club",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1955-10-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "TatabÃ¡nyai B",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-10-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "FerencvÃ¡rosi Torna Club",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1946-3-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Ãšjpesti DÃ³zsa ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1949-10-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Ãšjpesti DÃ³zsa ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1949-9-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "20",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "MTK ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1955-2-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Vasas ",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1950-4-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "HUN",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Videoton F",
+    "ClubCountry": "Hungary",
+    "DateOfBirth": "1951-4-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Dino Zoff captain (association football)",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1942-2-28",
+    "IsCaptain": true
+  },
+  {
+    "Team": "ITA",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Mauro Bellugi",
+    "Club": "Bologna F.C. 1909",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1950-2-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Antonio Cabrini",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1957-10-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Antonello Cuccureddu",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1949-10-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Claudio Gentile",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1953-9-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "Aldo Maldera",
+    "Club": "A.C. Milan",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1953-10-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "7",
+    "Position": "DF",
+    "FullName": "Lionello Manfredonia",
+    "Club": "S.S. Lazio",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1956-11-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "8",
+    "Position": "DF",
+    "FullName": "Gaetano Scirea",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1953-5-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Giancarlo Antognoni",
+    "Club": "ACF Fiorentina",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1954-4-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "Romeo Benetti",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1945-10-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Eraldo Pecci",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1955-4-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "12",
+    "Position": "GK",
+    "FullName": "Paolo Conti",
+    "Club": "A.S. Roma",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1950-4-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "13",
+    "Position": "MF",
+    "FullName": "Patrizio Sala",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1955-6-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "14",
+    "Position": "MF",
+    "FullName": "Marco Tardelli",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1954-9-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "Renato Zaccarelli",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1951-1-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "Franco Causio",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1949-2-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "17",
+    "Position": "MF",
+    "FullName": "Claudio Sala",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1947-9-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "18",
+    "Position": "FW",
+    "FullName": "Roberto Bettega",
+    "Club": "Juventus F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1950-12-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Francesco Graziani",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1952-12-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "Paolo Pulici",
+    "Club": "Torino F.C.",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1950-4-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "21",
+    "Position": "FW",
+    "FullName": "Paolo Rossi",
+    "Club": "Vicenza Calcio",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1956-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ITA",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Ivano Bordon",
+    "Club": "F.C. Internazionale Milano",
+    "ClubCountry": "Italy",
+    "DateOfBirth": "1951-4-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "UANL Tigr",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1955-10-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club Universidad de Guadalajara",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-12-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Alfredo Tena",
+    "Club": "Club AmÃ©rica",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1956-11-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Eduardo Ramos (footballer)",
+    "Club": "Chivas de Guadalajara",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1949-11-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club Universidad Nacional",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1949-6-26",
+    "IsCaptain": true
+  },
+  {
+    "Team": "MEX",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club Deportivo Cruz Azul",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1954-10-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "7",
+    "Position": "MF",
+    "FullName": "Antonio de la Torre Villalpando",
+    "Club": "Club AmÃ©ri",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1951-9-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Club Universidad Nacional",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1957-10-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Chivas de Guadalajara",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1957-3-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club AmÃ©rica",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1956-7-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Club Universidad Nacional",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1958-7-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "12",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club AmÃ©rica",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-6-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Rigoberto Cisneros",
+    "Club": "Club Toluca",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1953-8-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Club LeÃ³n",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-8-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "Ignacio Flores Ocaranza",
+    "Club": "Club Deportivo Cruz Azul",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1953-7-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club Toluca",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-12-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "17",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club Universidad Nacional",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-1-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Atlante F.",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1955-3-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Club Santos Laguna",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1959-3-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "Mario Medina",
+    "Club": "Club Toluca",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-9-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "21",
+    "Position": "FW",
+    "FullName": "RaÃºl Isiordia",
+    "Club": "AtlÃ©tico EspaÃ±",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-12-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "MEX",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Pedro Soto",
+    "Club": "Club AmÃ©rica",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-10-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Jan Tomaszewski",
+    "Club": "ÅKS ÅÃ³d",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1948-1-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "2",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "ZagÅ‚Ä™bie Sosnowi",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1954-4-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Henryk Maculewicz",
+    "Club": "WisÅ‚a KrakÃ",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1950-4-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Antoni Szymanowski",
+    "Club": "WisÅ‚a KrakÃ",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1951-1-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "5",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "WisÅ‚a KrakÃ",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1957-10-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "GÃ³rnik Zabr",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1949-7-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "Andrzej Iwan",
+    "Club": "WisÅ‚a KrakÃ",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1959-11-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "Henryk Kasperczak",
+    "Club": "Stal Miel",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1946-7-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "9",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "ÅšlÄ…sk WrocÅ‚",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1954-6-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "10",
+    "Position": "DF",
+    "FullName": "Wojciech Rudy",
+    "Club": "ZagÅ‚Ä™bie Sosnowi",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1952-10-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Bohdan Masztaler",
+    "Club": "ÅKS ÅÃ³d",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1949-9-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "Kazimierz Deyna captain (association football)",
+    "Club": "Legia Warsza",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1947-10-23",
+    "IsCaptain": true
+  },
+  {
+    "Team": "POL",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Janusz Kupcewicz",
+    "Club": "Arka Gdyn",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1955-12-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Lech Pozna",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1948-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "Marek Kusto",
+    "Club": "Legia Warsza",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1954-4-29",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Grzegorz Lato",
+    "Club": "Stal Miel",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1950-4-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "Andrzej Szarmach",
+    "Club": "Stal Miel",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1950-10-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Zbigniew Boniek",
+    "Club": "Widzew ÅÃ³d",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1956-3-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "K.S.C. Lokeren Oost-Vlaanderen",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1947-2-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Odra Opo",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1958-1-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "Zygmunt Kukla",
+    "Club": "Stal Miel",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1948-1-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "POL",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "ZagÅ‚Ä™bie Sosnowi",
+    "ClubCountry": "Poland",
+    "DateOfBirth": "1955-10-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Sadok Sassi",
+    "Club": "Club Africa",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1945-11-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Mokhtar Dhouib",
+    "Club": "CS Sfaxi",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1952-3-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Ali Kaabi",
+    "Club": "COT Tun",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-11-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "Khaled Gasmi",
+    "Club": "Club Bizer",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-4-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Mohsen Labidi",
+    "Club": "Stade Tun",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1954-1-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Club Africa",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-3-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Al-Ittihad (Jeddah)",
+    "ClubCountry": "Saudi Arabia",
+    "DateOfBirth": "1949-1-1",
+    "IsCaptain": true
+  },
+  {
+    "Team": "TUN",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "Mohamed Ben Rehaiem",
+    "Club": "CS Sfaxi",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1951-3-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "Mohamed Akid",
+    "Club": "CS Sfaxi",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1949-7-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "Tarak Dhiab",
+    "Club": "EspÃ©rance Sportive de Tunis",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1954-7-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "Abderraouf Ben Aziza",
+    "Club": "Ã‰toile Sportive du Sah",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "Khemais Labidi",
+    "Club": "JS Kairou",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1950-8-30",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "13",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Stade Tun",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-6-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "14",
+    "Position": "FW",
+    "FullName": "Slah Karoui",
+    "Club": "Ã‰toile Sportive du Sah",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1951-9-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "15",
+    "Position": "FW",
+    "FullName": "Mohamed Ben Mouza",
+    "Club": "Club Africa",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1954-4-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Ohman Chehaibi",
+    "Club": "JS Kairou",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1954-12-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "17",
+    "Position": "DF",
+    "FullName": "Ridha El Louze",
+    "Club": "Sfax Railways Spor",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-4-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "18",
+    "Position": "DF",
+    "FullName": "Kamel Chebli",
+    "Club": "Club Africa",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1954-3-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Mokhtar Hasni",
+    "Club": "R.A.A. LouviÃ©roise",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1952-3-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "Amor Jebali",
+    "Club": "AS Mar",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1956-12-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "Lamine Ben Aziza",
+    "Club": "Ã‰toile Sportive du Sah",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1952-11-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "TUN",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Mokhtar Naili",
+    "Club": "Club Africa",
+    "ClubCountry": "Tunisia",
+    "DateOfBirth": "1953-9-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Sepp Maier",
+    "Club": "FC Bayern Munich",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1944-2-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Berti Vogts captain (association football)",
+    "Club": "Borussia MÃ¶nchengladba",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1946-12-30",
+    "IsCaptain": true
+  },
+  {
+    "Team": "FRG",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Bernard Dietz",
+    "Club": "MSV Duisbu",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1948-3-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "FC Schalke 04",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1950-10-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Manfred Kaltz",
+    "Club": "Hamburger ",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1953-1-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Rainer Bonhof",
+    "Club": "Borussia MÃ¶nchengladba",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1952-3-29",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "FC Schalke 04",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1956-2-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "Herbert Zimmermann (footballer)",
+    "Club": "1. FC KÃ¶ln",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1954-7-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "Klaus Fischer",
+    "Club": "FC Schalke 04",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1949-12-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "Heinz Flohe",
+    "Club": "1. FC KÃ¶ln",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1948-1-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "Karl-Heinz Rummenigge",
+    "Club": "FC Bayern Munich",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1955-9-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "12",
+    "Position": "DF",
+    "FullName": "Hans-Georg Schwarzenbeck",
+    "Club": "FC Bayern Munich",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1948-4-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Harald Konopka",
+    "Club": "1. FC KÃ¶ln",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1952-11-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "14",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "1. FC KÃ¶ln",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1954-4-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "Erich Beer",
+    "Club": "Hertha BSC Berlin",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1946-12-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "Bernhard Cullmann",
+    "Club": "1. FC KÃ¶ln",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1949-11-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Eintracht Frankfu",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1946-3-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Gerd Zewe",
+    "Club": "Fortuna DÃ¼sseldo",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1950-6-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Ronald Worm",
+    "Club": "MSV Duisbu",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1953-10-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "20",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "VfB Stuttga",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1957-7-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "Rudolf Kargus",
+    "Club": "Hamburger ",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1952-8-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "FRG",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Dieter Burdenski",
+    "Club": "Werder Brem",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1950-11-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Friedrich Koncilia",
+    "Club": "FC Wacker Innsbruck",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1948-2-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Robert Sara captain (association football)",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1946-6-9",
+    "IsCaptain": true
+  },
+  {
+    "Team": "AUT",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Erich Obermayer",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1953-1-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Gerhard Breitenberger",
+    "Club": "VÃ–EST Li",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1954-10-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Bruno Pezzey",
+    "Club": "FC Wacker Innsbruck",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1955-2-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Roland Hattenberger",
+    "Club": "VfB Stuttga",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1948-12-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "7",
+    "Position": "MF",
+    "FullName": "Josef Hickersberger",
+    "Club": "Fortuna DÃ¼sseldo",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1948-4-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "Herbert Prohaska",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1955-8-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "Hans Krankl",
+    "Club": "SK Rapid Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1953-2-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "Wilhelm Kreuz",
+    "Club": "Feyenoord Rotterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1949-5-29",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Kurt Jara",
+    "Club": "MSV Duisbu",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1950-10-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "Eduard Krieger",
+    "Club": "Club Brug",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1946-12-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "13",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Wiener Sportcl",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1952-1-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "Heinrich Strasser",
+    "Club": "VfB Admira Wacker MÃ¶dling",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1948-10-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "Heribert Weber",
+    "Club": "SK Sturm Gr",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1955-6-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "16",
+    "Position": "DF",
+    "FullName": "Peter Persidis",
+    "Club": "SK Rapid Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1947-3-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "Franz Oberacher",
+    "Club": "FC Wacker Innsbruck",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1954-3-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "18",
+    "Position": "FW",
+    "FullName": "Walter Schachner",
+    "Club": "DSV Leoben",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1957-2-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Hans Pirkner",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1946-3-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "20",
+    "Position": "MF",
+    "FullName": "Ernst Baumeister",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1957-1-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "Erwin Fuchsbichler",
+    "Club": "VÃ–EST Li",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1952-3-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "AUT",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Hubert Baumgartner",
+    "Club": "FK Austria Wien",
+    "ClubCountry": "Austria",
+    "DateOfBirth": "1955-2-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Sociedade Esportiva Palmeiras",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1949-7-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Clube de Regatas do Flamengo",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1948-6-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "AssociaÃ§Ã£o AtlÃ©tica Ponte Preta",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1954-6-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Sport Club Corinthians Paulista",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1954-12-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "5",
+    "Position": "MF",
+    "FullName": "Toninho Cerezo",
+    "Club": "Clube AtlÃ©tico Mineiro",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1955-4-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "Edino Nazareth Filho",
+    "Club": "Fluminense Football Club",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1955-6-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "SÃ£o Paulo FC",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1957-3-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "Zico",
+    "Club": "Clube de Regatas do Flamengo",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1953-3-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Clube AtlÃ©tico Mineiro",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1957-1-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "Roberto Rivelino",
+    "Club": "Fluminense Football Club",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1946-1-1",
+    "IsCaptain": true
+  },
+  {
+    "Team": "BRA",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Dirceu",
+    "Club": "CR Vasco da Gama",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1952-6-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "12",
+    "Position": "GK",
+    "FullName": "Carlos Roberto Gallo",
+    "Club": "AssociaÃ§Ã£o AtlÃ©tica Ponte Preta",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1956-3-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Nelinho",
+    "Club": "Cruzeiro Esporte Clube",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1950-7-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "Abel Braga",
+    "Club": "CR Vasco da Gama",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1952-9-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "AssociaÃ§Ã£o AtlÃ©tica Ponte Preta",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1955-10-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "16",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Botafogo de Futebol e Regatas",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1949-12-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "17",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Sport Club Internacional",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1955-3-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "18",
+    "Position": "FW",
+    "FullName": "Gilberto Alves",
+    "Club": "Botafogo de Futebol e Regatas",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1950-12-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Sociedade Esportiva Palmeiras",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1954-6-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "Roberto Dinamite",
+    "Club": "CR Vasco da Gama",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1954-4-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "21",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "SÃ£o Paulo FC",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1949-1-30",
+    "IsCaptain": false
+  },
+  {
+    "Team": "BRA",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Valdir Peres",
+    "Club": "SÃ£o Paulo FC",
+    "ClubCountry": "Brazil",
+    "DateOfBirth": "1951-2-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Luis Arconada",
+    "Club": "Real Socied",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1954-6-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Antonio de la Cruz",
+    "Club": "FC Barcelo",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1947-5-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "3",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Sporting de GijÃ",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1950-2-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "Juan Manuel Asensi",
+    "Club": "FC Barcelo",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1949-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Migueli",
+    "Club": "FC Barcelo",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1951-12-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "6",
+    "Position": "DF",
+    "FullName": "Antonio Biosca",
+    "Club": "Real Bet",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1949-12-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "Daniel Ruiz",
+    "Club": "Athletic Bilb",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1951-6-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Real Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1954-11-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "Quini",
+    "Club": "Sporting de GijÃ",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1949-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "Santillana (footballer)",
+    "Club": "Real Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1952-8-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Real Bet",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1949-10-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "12",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Rayo Valleca",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1953-12-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "13",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Real Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1947-12-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "14",
+    "Position": "MF",
+    "FullName": "Eugenio Leal",
+    "Club": "AtlÃ©tico Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1953-5-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "15",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "RCD Espanyol",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1948-7-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "16",
+    "Position": "DF",
+    "FullName": "Antonio Olmo",
+    "Club": "FC Barcelo",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1954-1-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "17",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "AtlÃ©tico Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1955-8-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "18",
+    "Position": "DF",
+    "FullName": "Pirri captain (association football)",
+    "Club": "Real Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1945-3-11",
+    "IsCaptain": true
+  },
+  {
+    "Team": "ESP",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Carles Rexach",
+    "Club": "FC Barcelo",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1947-1-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "AtlÃ©tico Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1951-2-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "21",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Real Madr",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1956-10-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "ESP",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Javier Urruticoechea",
+    "Club": "RCD Espanyol",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1952-2-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "1. FC Kaiserslaute",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1949-2-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Hasse Borg",
+    "Club": "Eintracht Braunschwe",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1953-8-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Roy Andersson (footballer)",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1949-8-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "4",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "IFK GÃ¶tebo",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1942-10-6",
+    "IsCaptain": true
+  },
+  {
+    "Team": "SWE",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Ingemar Erlandsson",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1957-11-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Staffan Tapper",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1948-7-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "7",
+    "Position": "MF",
+    "FullName": "Anders Linderoth",
+    "Club": "Olympique de Marseil",
+    "ClubCountry": "France",
+    "DateOfBirth": "1950-3-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "Bo Larsson",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1944-5-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Lennart Larsson (footballer)",
+    "Club": "FC Schalke ",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1953-7-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1952-7-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "Benny Wendt",
+    "Club": "1. FC Kaiserslaute",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1950-11-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "12",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Ã–sters ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1947-11-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Magnus Andersson (footballer born 1958)",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1958-4-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "14",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Ã–rebro ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1957-1-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "15",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "IFK GÃ¶tebo",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1954-7-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Conny Torstensson",
+    "Club": "Fussballclub ZÃ¼rich",
+    "ClubCountry": "Switzerland",
+    "DateOfBirth": "1949-8-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "17",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1953-9-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Olle Nordin",
+    "Club": "IFK GÃ¶tebo",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1949-11-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "19",
+    "Position": "DF",
+    "FullName": "Kent Karlsson",
+    "Club": "IFK Eskilstu",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1945-11-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "Roland Andersson",
+    "Club": "MalmÃ¶ ",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1950-3-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "21",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "AIK Fotbo",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1952-8-29",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SWE",
+    "Number": "22",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "IFK GÃ¶tebo",
+    "ClubCountry": "Sweden",
+    "DateOfBirth": "1952-10-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Nasser Hejazi",
+    "Club": "Shahbaz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1949-12-14",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "2",
+    "Position": "MF",
+    "FullName": "Iraj Danaeifard",
+    "Club": "Esteghlal F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1951-3-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "3",
+    "Position": "FW",
+    "FullName": "Behtash Fariba",
+    "Club": "Pas F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1955-2-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "4",
+    "Position": "FW",
+    "FullName": "Majid Bishkar",
+    "Club": "Shahbaz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1956-8-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Javad Allahverdi",
+    "Club": "Persepolis F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1954-7-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Hassan Nayebagha",
+    "Club": "Homa F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1950-9-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "7",
+    "Position": "MF",
+    "FullName": "Ali Parvin",
+    "Club": "Persepolis F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1946-10-12",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "Ebrahim Ghasempour",
+    "Club": "Shahbaz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1956-8-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Mohammad Sadeghi",
+    "Club": "Pas F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1951-3-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "10",
+    "Position": "FW",
+    "FullName": "Hassan Roshan",
+    "Club": "Esteghlal F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1955-6-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "11",
+    "Position": "DF",
+    "FullName": "Ali Reza Ghesghayan",
+    "Club": "Bargh Shiraz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1954-2-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "12",
+    "Position": "GK",
+    "FullName": "Bahram Mavaddat",
+    "Club": "Sepahan F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1950-1-30",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "13",
+    "Position": "FW",
+    "FullName": "Hamid Majd Teymouri",
+    "Club": "Shahbaz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1953-6-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "Hassan Nazari",
+    "Club": "Esteghlal F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1955-8-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "Andranik Eskandarian",
+    "Club": "Esteghlal F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1951-12-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Nasser Nouraei",
+    "Club": "Homa F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1956-7-9",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "Ghafour Jahani",
+    "Club": "Malavan F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1950-6-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "18",
+    "Position": "FW",
+    "FullName": "Hossein Faraki",
+    "Club": "Pas F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1956-4-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "19",
+    "Position": "MF",
+    "FullName": "Ali Shojaei",
+    "Club": "Sepahan F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1953-3-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "Nasrollah Abdollahi",
+    "Club": "Shahbaz F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1951-9-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "21",
+    "Position": "DF",
+    "FullName": "Hossein Kazerani",
+    "Club": "Pas F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1947-4-13",
+    "IsCaptain": false
+  },
+  {
+    "Team": "IRN",
+    "Number": "22",
+    "Position": "GK",
+    "FullName": "Rasoul Korbekandi",
+    "Club": "Zob Ahan F.C.",
+    "ClubCountry": "Iran",
+    "DateOfBirth": "1953-1-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Piet Schrijvers",
+    "Club": "Ajax Amsterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1946-12-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Jan Poortvliet",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1955-9-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "3",
+    "Position": "MF",
+    "FullName": "Dick Schoenaker",
+    "Club": "Ajax Amsterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1952-11-30",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Adrie van Kraay",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1953-8-1",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Ruud Krol captain (association football)",
+    "Club": "Ajax Amsterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1949-3-24",
+    "IsCaptain": true
+  },
+  {
+    "Team": "NED",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Wim Jansen",
+    "Club": "Feyenoord Rotterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1946-10-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "7",
+    "Position": "DF",
+    "FullName": "Piet Wildschut",
+    "Club": "FC Twente",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1957-10-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "8",
+    "Position": "GK",
+    "FullName": "Jan Jongbloed",
+    "Club": "Roda JC Kerkrade",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1940-11-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Arie Haan",
+    "Club": "R.S.C. Anderlecht",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1948-11-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1951-9-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Willy van de Kerkhof",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1951-9-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "12",
+    "Position": "FW",
+    "FullName": "Rob Rensenbrink",
+    "Club": "R.S.C. Anderlecht",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1947-7-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "13",
+    "Position": "MF",
+    "FullName": "Johan Neeskens",
+    "Club": "FC Barcelona",
+    "ClubCountry": "Spain",
+    "DateOfBirth": "1951-9-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "14",
+    "Position": "MF",
+    "FullName": "Johan Boskamp",
+    "Club": "R.W.D. Molenbeek",
+    "ClubCountry": "Belgium",
+    "DateOfBirth": "1948-10-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "15",
+    "Position": "DF",
+    "FullName": "Hugo Hovenkamp",
+    "Club": "AZ Alkmaar",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1950-10-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Johnny Rep",
+    "Club": "Sporting Club de Bastia",
+    "ClubCountry": "France",
+    "DateOfBirth": "1951-11-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "17",
+    "Position": "DF",
+    "FullName": "Wim Rijsbergen",
+    "Club": "Feyenoord Rotterdam",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1952-1-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "18",
+    "Position": "FW",
+    "FullName": "Dick Nanninga",
+    "Club": "Roda JC Kerkrade",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1949-1-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "19",
+    "Position": "GK",
+    "FullName": "Pim Doesburg",
+    "Club": "Sparta Rotterd",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1943-10-28",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "20",
+    "Position": "DF",
+    "FullName": "Wim Suurbier",
+    "Club": "FC Schalke 04",
+    "ClubCountry": "West Germany",
+    "DateOfBirth": "1945-1-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "21",
+    "Position": "FW",
+    "FullName": "Harry Lubse",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1951-9-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "NED",
+    "Number": "22",
+    "Position": "DF",
+    "FullName": "Ernie Brandts",
+    "Club": "PSV Eindhov",
+    "ClubCountry": "Netherlands",
+    "DateOfBirth": "1956-2-3",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Ottorino Sartor",
+    "Club": "Colegio Nacional de Iquit",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1945-9-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Jaime Duarte",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1955-2-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Rodolfo Manzo",
+    "Club": "Deportivo Municipal (Peru)",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1949-6-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1944-4-12",
+    "IsCaptain": true
+  },
+  {
+    "Team": "PER",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1952-4-17",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1952-6-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "7",
+    "Position": "FW",
+    "FullName": "",
+    "Club": "Club Universidad Nacional",
+    "ClubCountry": "Mexico",
+    "DateOfBirth": "1952-5-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "8",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1952-6-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "9",
+    "Position": "MF",
+    "FullName": "Percy Rojas",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1949-9-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1949-3-8",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "11",
+    "Position": "FW",
+    "FullName": "Juan Carlos Oblitas",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1951-2-16",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "12",
+    "Position": "FW",
+    "FullName": "Roberto Mosquera",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1956-6-21",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "13",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1949-12-27",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1948-9-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "",
+    "Club": "Deportivo Municipal (Peru)",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1954-1-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "16",
+    "Position": "MF",
+    "FullName": "RaÃºl Gorriti",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1956-10-10",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "17",
+    "Position": "MF",
+    "FullName": "Alfredo Quesada",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1949-9-22",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Ernesto Labarthe",
+    "Club": "Sport Bo",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1956-6-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "Guillermo La Rosa",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1952-6-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "20",
+    "Position": "FW",
+    "FullName": "Hugo Sotil",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1946-5-18",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "21",
+    "Position": "GK",
+    "FullName": "",
+    "Club": "Sporting Crist",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1950-7-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "PER",
+    "Number": "22",
+    "Position": "DF",
+    "FullName": "Roberto Rojas (Peruvian footballer)",
+    "Club": "Alianza Li",
+    "ClubCountry": "Peru",
+    "DateOfBirth": "1955-10-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "1",
+    "Position": "GK",
+    "FullName": "Alan Rough",
+    "Club": "Partick Thistle F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1951-11-25",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "2",
+    "Position": "DF",
+    "FullName": "Sandy Jardine",
+    "Club": "Rangers F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1948-12-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "3",
+    "Position": "DF",
+    "FullName": "Willie Donachie",
+    "Club": "Manchester City F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1951-10-5",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "4",
+    "Position": "DF",
+    "FullName": "Martin Buchan",
+    "Club": "Manchester United F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1949-3-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "5",
+    "Position": "DF",
+    "FullName": "Gordon McQueen",
+    "Club": "Manchester United F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1952-6-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "6",
+    "Position": "MF",
+    "FullName": "Bruce Rioch",
+    "Club": "Derby County F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1947-9-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "7",
+    "Position": "MF",
+    "FullName": "Don Masson",
+    "Club": "Derby County F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1949-8-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "8",
+    "Position": "FW",
+    "FullName": "Kenny Dalglish",
+    "Club": "Liverpool F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1951-3-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "9",
+    "Position": "FW",
+    "FullName": "Joe Jordan (footballer)",
+    "Club": "Manchester United F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1951-12-15",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "10",
+    "Position": "MF",
+    "FullName": "Asa Hartford",
+    "Club": "Manchester City F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1950-10-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "11",
+    "Position": "MF",
+    "FullName": "Willie Johnston",
+    "Club": "West Bromwich Albion F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1946-12-19",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "12",
+    "Position": "GK",
+    "FullName": "Jim Blyth",
+    "Club": "Coventry City F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1955-2-2",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "13",
+    "Position": "DF",
+    "FullName": "Stuart Kennedy",
+    "Club": "Aberdeen F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1953-5-31",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "14",
+    "Position": "DF",
+    "FullName": "Tom Forsyth",
+    "Club": "Rangers F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1949-1-23",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "15",
+    "Position": "MF",
+    "FullName": "Archie Gemmill",
+    "Club": "Nottingham Forest F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1947-3-24",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "16",
+    "Position": "FW",
+    "FullName": "Lou Macari",
+    "Club": "Manchester United F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1949-6-7",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "17",
+    "Position": "FW",
+    "FullName": "Derek Johnstone",
+    "Club": "Rangers F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1953-11-4",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "18",
+    "Position": "MF",
+    "FullName": "Graeme Souness",
+    "Club": "Liverpool F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1953-5-6",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "19",
+    "Position": "FW",
+    "FullName": "John Robertson (footballer born 1953)",
+    "Club": "Nottingham Forest F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1953-1-20",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "20",
+    "Position": "GK",
+    "FullName": "Bobby Clark (footballer)",
+    "Club": "Aberdeen F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1945-9-26",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "21",
+    "Position": "FW",
+    "FullName": "Joe Harper (footballer)",
+    "Club": "Aberdeen F.C.",
+    "ClubCountry": "Scotland",
+    "DateOfBirth": "1948-1-11",
+    "IsCaptain": false
+  },
+  {
+    "Team": "SCO",
+    "Number": "22",
+    "Position": "DF",
+    "FullName": "Kenny Burns",
+    "Club": "Nottingham Forest F.C.",
+    "ClubCountry": "England",
+    "DateOfBirth": "1953-9-23",
+    "IsCaptain": false
+  }
+]
