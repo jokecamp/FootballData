@@ -5,7 +5,7 @@ Football/Soccer data for anyone to use. The data is INCOMPLETE but should serve 
 
 When using the data some cleanup will be required. Some teams might show up twice in the team league. This will happen if the team was recently in multiple leagues/cups.
 
-Data is in **CSV** format.
+Data is in **CSV**, and **JSON** format.
 
 Available Data/Schema:
 - Leagues @ [Leagues.csv](https://github.com/jokecamp/FootballData/blob/master/Leagues.csv)
