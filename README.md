@@ -29,7 +29,10 @@ I hope to add more data including players and score history. Feel free to send p
 ### Data Sources
 
  - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
+- Wikipedia for squad lists
 
+
+See http://jokecamp.wordpress.com/2014/03/08/guide-to-football-and-soccer-data-and-apis/ for list of soccer data repos.
 
 
 http://en.wikipedia.org/w/api.php?action=parse&page=2010 FIFA World Cup squads&format=json
