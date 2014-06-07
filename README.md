@@ -25,6 +25,10 @@ Available Data/Schema:
 
 I hope to add more data including players and score history. Feel free to send pull requests with any data sets you have. Over time I hope to normalize the data and establish proper relationships.
 
+### World Cup Data
+ - The 1942 and 1946 cups were canceled.
+ - Squad lists can be pulled from Wikipedia
+
 
 ### Data Sources
 
