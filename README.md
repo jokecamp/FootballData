@@ -7,6 +7,8 @@ When using the data some cleanup will be required. Some teams might show up twic
 
 Data is in **CSV**, and **JSON** format.
 
+**Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
+
 Available Data/Schema:
 - See [openFootballData](https://github.com/jokecamp/FootballData/tree/master/openFootballData) for OpenFootball JSON and CSV datasets
   - the most useful is probably openFootballData/games.json
