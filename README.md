@@ -45,5 +45,6 @@ I hope to add more data including players and score history. Feel free to send p
 - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
 - Wikipedia for squad lists
 - <https://github.com/openfootball/>
+- [ESPN API](http://developer.espn.com/blog/read/publicretirement) -> Retired
 
 See http://jokecamp.wordpress.com/2014/03/08/guide-to-football-and-soccer-data-and-apis/ for list of soccer data repos.
