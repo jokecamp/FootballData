@@ -18,6 +18,8 @@ Available Data/Schema:
 - Teams @ [Teams.csv](https://github.com/jokecamp/FootballData/blob/master/Teams.csv)
  - Name (full team name)
  - League (League Code) that team has recently been involved in
+- EPL Players in JSON in [espn](https://github.com/jokecamp/FootballData/tree/master/espn) dir
+ - now that the ESPN API is retired for the public here is a cache of 2014 EPL Players
 
 ### Country specific data ###
 - England
