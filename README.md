@@ -32,7 +32,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - Wikipedia for squad lists
 - <https://github.com/openfootball/>
 - [ESPN API](http://developer.espn.com/blog/read/publicretirement) -> Retired
-- [opisthokonta.net](http://opisthokonta.net/?cat=34>
+- [opisthokonta.net](http://opisthokonta.net/?cat=34)
 
 ### World Cup Meta Data
  - Started in 1930 with 13 teams in group format
