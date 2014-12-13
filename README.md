@@ -1,15 +1,14 @@
-Football/Soccer Data for Everyone
+Football (Soccer) Data for Everyone
 ============
 
-Football/Soccer data for anyone to use. I save them here as I find them or build the files.
+Football/Soccer data for anyone to use. I save them here as I find them or build the files. Data is in mostly csv and json formats.
 
 See <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/> for a more complete list of soccer data available online.
 
-Data is in **CSV**, and **JSON** format but will accept any structured format file for contribution.
-
 **Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
 
-Available Data/Schema:
+## Files
+
 - JSON Port of [openFootballData](https://github.com/jokecamp/FootballData/tree/master/openFootballData) text files
   - work in progress. The most useful is probably openFootballData/games.json
 - [All Leagues](https://github.com/jokecamp/FootballData/blob/master/Leagues.csv)
@@ -23,6 +22,8 @@ Available Data/Schema:
 - Fork the project
 - Add your raw data files no matter how small or specific!
 - Send a pull request. 
+
+If you use and clean up a file. Please re-add it so everyone can benefit.
 
 ### Data Sources
 
@@ -39,3 +40,6 @@ Available Data/Schema:
  - Expanded to 24 teams in 1982
  - Expanded to 32 teams in 1998
  - Squad lists can be pulled from Wikipedia
+ - 
+ 
+One day someone will make a free and public API that exposes all this data....
