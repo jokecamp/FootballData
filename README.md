@@ -3,7 +3,7 @@ Football (Soccer) Data for Everyone
 
 Football/Soccer data for anyone to use. I save them here as I find them or build the files. Data is in mostly csv and json formats.
 
-See <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/> for a more complete list of soccer data available online.
+See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) for a more complete list of soccer data available online.
 
 **Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
 
@@ -27,6 +27,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 
 ### Data Sources
 
+- [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
 - Wikipedia for squad lists
 - <https://github.com/openfootball/>
