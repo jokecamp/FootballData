@@ -7,6 +7,8 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 **Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
 
+**Please add your data sets. We need more data.**
+
 ## Files
 
 - JSON Port of [openFootballData](https://github.com/jokecamp/FootballData/tree/master/openFootballData) text files
@@ -41,6 +43,5 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
  - Expanded to 24 teams in 1982
  - Expanded to 32 teams in 1998
  - Squad lists can be pulled from Wikipedia
- - 
  
 One day someone will make a free and public API that exposes all this data....
