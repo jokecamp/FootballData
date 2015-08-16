@@ -31,7 +31,6 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 Special Thanks to:
 
-- jokecamp
 - rahulkadukar
 - sauravj
 - aqsmith08
@@ -49,7 +48,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - readable JSON is preferred.
 
-### Data Sources
+## Data Sources
 
 - Wikipedia
 - [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
