@@ -26,6 +26,17 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - Video Game data
  -  [FIFA 2012 Ultimate Team Player Data](video-game-data/fifa-soccer-12-ultimate-team-data-player-database.csv)
 
+
+## Contributors
+
+Special Thanks to:
+
+- jokecamp
+- rahulkadukar
+- sauravj
+- aqsmith08
+
+
 ### To Contribute
 
 - Fork the project
