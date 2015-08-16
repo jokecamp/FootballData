@@ -1,4 +1,5 @@
 # footballStats
+
 An open database with historical data of major football leagues. Initially will cover the following
 
 1. English Premier League
@@ -43,7 +44,7 @@ For the matches node we have further nodes as described below
  * **away** *(The name of the away team)*
  * **homeScore** *(Goals scored by the home team)*
  * **awayScore** *(Goals scored by the away team)*
- 
+
 * benchHome ***Names of the players on the bench for the home team***
 
 * benchAway ***Names of the players on the bench for the away team***

@@ -2,6 +2,7 @@ This is the folder with all the EPL data from 1992-93 season. The data is
 in the form of JSON files with the structure as given below
 
 # Data format
+
 The data will be stored as JSON files and will have the following structure
 
     -- league
@@ -38,7 +39,7 @@ For the matches node we have further nodes as described below
  * **away** *(The name of the away team)*
  * **homeScore** *(Goals scored by the home team)*
  * **awayScore** *(Goals scored by the away team)*
- 
+
 * benchHome ***Names of the players on the bench for the home team***
 
 * benchAway ***Names of the players on the bench for the away team***
@@ -77,4 +78,3 @@ For the matches node we have further nodes as described below
  * **card** *(Type of card either Red or Yellow)*
  * **type** *(The reason for receiving the said card)*
  * **time** *(Time when the player received the card)*
-

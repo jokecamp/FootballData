@@ -11,17 +11,14 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 ## Files
 
-- [FA Premier League Tables (1992 to 2015)](tables/)
-- JSON Port of [openFootballData](https://github.com/jokecamp/FootballData/tree/master/openFootballData) text files
-  - work in progress. The most useful is probably openFootballData/games.json
-- [All Leagues](Leagues.csv)
-- [All Teams/Clubs](Teams.csv)
-- [EPL Players in JSON](espn) - ESPN
- - now that the ESPN API is retired for the public here is a cache of 2014 EPL Players
-- [Football stadiums with geographic coordinates](stadiums-with-GPS-coordinates.csv) -  [source](http://opisthokonta.net/?p=619)
-- [Euro 2012](Euro 2012/) - players, teams and stats
-- [World Cup 2010](World Cups/world-cup-2010)
-- [World Cup 2015 - Women](/World Cups/womens_world_cup_2015_games)
+- [FA English Premier League (EPL) 1992 to 2015](EPL - 1992 - 2015/)
+- [ESPN Player Data](ESPN/)
+- [Euro 2012](Euro 2012/)
+- [football-data.co.uk](football-data.co.uk) - massive dump of csv files for historical results and betting odds Data
+- [footballStats](footballStats)
+- [Major League Soccer (MLS)](MLS/) - players, salaries and fixtures
+- [openFootballData](openFootballData) JSON Port of openFootballData text files
+- [World Cups](World Cups/) - very limited datset
 
 ### To Contribute
 
@@ -39,7 +36,3 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - <https://github.com/openfootball/>
 - [ESPN API](http://developer.espn.com/blog/read/publicretirement) -> Retired
 - [opisthokonta.net](http://opisthokonta.net/?cat=34)
-
-
-
-One day someone will make a free and public API that exposes all this data....
