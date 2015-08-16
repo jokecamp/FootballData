@@ -19,11 +19,11 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
  - now that the ESPN API is retired for the public here is a cache of 2014 EPL Players
 - [Football stadiums with geographic coordinates](https://github.com/jokecamp/FootballData/blob/master/stadiums-with-GPS-coordinates.csv) -  [source](http://opisthokonta.net/?p=619)
 
-### To Contribute 
+### To Contribute
 
 - Fork the project
 - Add your raw data files no matter how small or specific!
-- Send a pull request. 
+- Send a pull request.
 
 If you use and clean up a file. Please re-add it so everyone can benefit.
 
@@ -43,5 +43,11 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
  - Expanded to 24 teams in 1982
  - Expanded to 32 teams in 1998
  - Squad lists can be pulled from Wikipedia
- 
+
+ # How to Contribute
+
+ - Parse data from Wikipedia using this formula in Google spreadsheets `=importHTML("https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League","table", 5)` then use a Spreadsheet add-on called "Power Tools" to convert to JSON. (Extra credit: Use a JSON formatter for readability. Just paste in the JSON and use the formatted output at https://jsonformatter.curiousconcept.com/)
+
+See http://opendata.stackexchange.com/questions/823/wikipedia-table-to-json-or-other-machine-readable-format
+
 One day someone will make a free and public API that exposes all this data....
