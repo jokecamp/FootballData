@@ -19,6 +19,9 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - [EPL Players in JSON](espn) - ESPN
  - now that the ESPN API is retired for the public here is a cache of 2014 EPL Players
 - [Football stadiums with geographic coordinates](stadiums-with-GPS-coordinates.csv) -  [source](http://opisthokonta.net/?p=619)
+- [Euro 2012](Euro 2012/) - players, teams and stats
+- [World Cup 2010](World Cups/world-cup-2010)
+- [World Cup 2015 - Women](/World Cups/womens_world_cup_2015_games)
 
 ### To Contribute
 
