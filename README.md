@@ -19,6 +19,12 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - [Major League Soccer (MLS)](MLS/) - players, salaries and fixtures
 - [openFootballData](openFootballData) JSON Port of openFootballData text files
 - [World Cups](World Cups/) - very limited datset
+- Other
+ - All Leagues [csv](other/leagues.csv) | [json](other/leagues.json)
+ - All Teams [csv](other/teams.csv) | [json](other/teams.json)
+ - [Stadiums with GPS Coords](other/stadiums-with-GPS-coordinates.csv)
+- Video Game data
+ -  [FIFA 2012 Ultimate Team Player Data](video-game-data/fifa-soccer-12-ultimate-team-data-player-database.csv)
 
 ### To Contribute
 
@@ -27,6 +33,10 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - Send a pull request.
 
 If you use and clean up a file. Please re-add it so everyone can benefit.
+
+#### Contributor Resources
+
+- [JSON Formatter](https://jsonformatter.curiousconcept.com/) - readable JSON is preferred.
 
 ### Data Sources
 
