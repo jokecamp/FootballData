@@ -11,13 +11,14 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 ## Files
 
+- [FA Premier League Tables (1992 to 2015)](tables/)
 - JSON Port of [openFootballData](https://github.com/jokecamp/FootballData/tree/master/openFootballData) text files
   - work in progress. The most useful is probably openFootballData/games.json
-- [All Leagues](https://github.com/jokecamp/FootballData/blob/master/Leagues.csv)
-- [All Teams/Clubs](https://github.com/jokecamp/FootballData/blob/master/Teams.csv)
-- [EPL Players in JSON](https://github.com/jokecamp/FootballData/tree/master/espn) - ESPN
+- [All Leagues](Leagues.csv)
+- [All Teams/Clubs](Teams.csv)
+- [EPL Players in JSON](espn) - ESPN
  - now that the ESPN API is retired for the public here is a cache of 2014 EPL Players
-- [Football stadiums with geographic coordinates](https://github.com/jokecamp/FootballData/blob/master/stadiums-with-GPS-coordinates.csv) -  [source](http://opisthokonta.net/?p=619)
+- [Football stadiums with geographic coordinates](stadiums-with-GPS-coordinates.csv) -  [source](http://opisthokonta.net/?p=619)
 
 ### To Contribute
 
@@ -29,25 +30,13 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 
 ### Data Sources
 
+- Wikipedia
 - [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
-- Wikipedia for squad lists
 - <https://github.com/openfootball/>
 - [ESPN API](http://developer.espn.com/blog/read/publicretirement) -> Retired
 - [opisthokonta.net](http://opisthokonta.net/?cat=34)
 
-### World Cup Meta Data
- - Started in 1930 with 13 teams in group format
- - 1934, 1938 did not have groups. It was straight knockout style
- - The 1942 and 1946 cups were canceled.
- - Expanded to 24 teams in 1982
- - Expanded to 32 teams in 1998
- - Squad lists can be pulled from Wikipedia
 
- # How to Contribute
-
- - Parse data from Wikipedia using this formula in Google spreadsheets `=importHTML("https://en.wikipedia.org/wiki/2002%E2%80%9303_FA_Premier_League","table", 5)` then use a Spreadsheet add-on called "Power Tools" to convert to JSON. (Extra credit: Use a JSON formatter for readability. Just paste in the JSON and use the formatted output at https://jsonformatter.curiousconcept.com/)
-
-See http://opendata.stackexchange.com/questions/823/wikipedia-table-to-json-or-other-machine-readable-format
 
 One day someone will make a free and public API that exposes all this data....
