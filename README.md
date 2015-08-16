@@ -11,8 +11,8 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 ## Files
 
-- [FA English Premier League (EPL) 1992 to 2015](EPL - 1992 - 2015/)
-- [ESPN Player Data](ESPN/)
+- [FA English Premier League (EPL) 1992 to 2015](EPL%201992%20-%202015)
+- [ESPN Player Data](espn/)
 - [Euro 2012](Euro 2012/)
 - [football-data.co.uk](football-data.co.uk) - massive dump of csv files for historical results and betting odds Data
 - [footballStats](footballStats)
