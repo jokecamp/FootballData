@@ -1,4 +1,3 @@
-// parser.js for http://www.livegoals.com/
 var _ = require('underscore');
 var fs = require('fs');
 
@@ -14,25 +13,21 @@ _.each(files, function(f) {
     var filename = path + f;
     console.log(filename);
     var items = JSON.parse(fs.readFileSync(filename, 'utf8'));
-    console.log(items.length + " items")
 
     // exclude games that have not been played
     var played = _.filter(items, function(i) { return i.score != 'v'; });
-    console.log(played.length + " item played")
+    console.log(items.length + " items vs " + played.length + " item played")
     data = _.union(data, played);
   }
 });
-
-console.log(data.length + " total items");
 
 var matches = _.uniq(data, function(n) {
   // these 3 fields create a unique key
   return n.date + n.home + n.away;
 });
 
-console.log(matches.length + " unique");
+console.log(matches.length + " unique vs "+ data.length + " total items");
 
-var fs = require('fs');
 var filename = path + "../2015-results.json";
 fs.writeFile(filename, JSON.stringify(matches, null, 2), function(err) {
   if(err) {
