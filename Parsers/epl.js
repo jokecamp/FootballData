@@ -28,11 +28,11 @@ var matches = _.uniq(data, function(n) {
 
 console.log(matches.length + " unique vs "+ data.length + " total items");
 
-var filename = path + "../2015-results.json";
-fs.writeFile(filename, JSON.stringify(matches, null, 2), function(err) {
+var outputFile = path + "../2015-results.json";
+fs.writeFile(outputFile, JSON.stringify(matches, null, 2), function(err) {
   if(err) {
     console.log(err);
   } else {
-    console.log("The file was saved as " + filename);
+    console.log("The file was saved as " + outputFile);
   }
 });
