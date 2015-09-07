@@ -1,0 +1,623 @@
+############################
+# Premier League 2008-2009
+
+Matchday 1
+
+[Sat Jan/11]
+	15.00		Chelsea	5-0	Sunderland
+	15.00		Everton	1-0	Fulham
+	15.00		Man United	4-3	Hull
+	15.00		Middlesbrough	1-1	West Ham
+	15.00		Portsmouth	1-2	Wigan
+	15.00		Stoke	2-1	Arsenal
+	15.00		Tottenham	2-1	Liverpool
+	15.00		West Brom	2-2	Blackburn
+[Sun Jan/12]
+	15.00		Liverpool	0-0	West Ham
+[Tue Feb/11]
+	15.00		Bolton	2-0	Man City
+
+Matchday 2
+
+[Wed Mar/11]
+	15.00		Newcastle	2-0	Aston Villa
+[Fri Apr/10]
+	15.00		Blackburn	0-2	Man United
+	15.00		Sunderland	1-1	Arsenal
+	15.00		West Brom	1-0	Fulham
+	15.00		Wigan	0-1	Middlesbrough
+[Sun May/10]
+	15.00		Chelsea	2-0	Aston Villa
+	15.00		Everton	2-2	Newcastle
+	15.00		Man City	2-3	Liverpool
+	15.00		Portsmouth	2-1	Stoke
+	15.00		Tottenham	0-1	Hull
+
+Matchday 3
+
+[Sun May/10]
+	15.00		West Ham	1-3	Bolton
+[Fri Jun/12]
+	15.00		Arsenal	1-0	Wigan
+	15.00		Blackburn	1-3	Liverpool
+	15.00		Bolton	0-2	Chelsea
+	15.00		Fulham	1-1	Man City
+	15.00		Hull	2-1	Middlesbrough
+	15.00		Man United	1-0	Sunderland
+	15.00		Newcastle	2-2	Stoke
+[Sun Jul/12]
+	15.00		Everton	2-3	Aston Villa
+	15.00		West Brom	1-1	Portsmouth
+
+Matchday 4
+
+[Tue Aug/11]
+	15.00		Arsenal	2-1	Man United
+	15.00		Hull	0-1	Bolton
+	15.00		Liverpool	3-0	West Brom
+	15.00		Sunderland	1-2	Portsmouth
+	15.00		West Ham	1-3	Everton
+	15.00		Wigan	0-0	Stoke
+[Wed Aug/12]
+	15.00		West Ham	0-2	Tottenham
+[Fri Sep/11]
+	15.00		Aston Villa	1-2	Middlesbrough
+	15.00		Blackburn	0-2	Chelsea
+	15.00		Fulham	2-1	Newcastle
+
+Matchday 5
+
+[Fri Sep/11]
+	15.00		Man City	1-2	Tottenham
+[Sat Jan/02]
+	15.00		Liverpool	2-0	Chelsea
+	15.00		Newcastle	1-1	Sunderland
+[Sun Jan/03]
+	15.00		Aston Villa	2-2	Stoke
+	15.00		Bolton	1-0	Newcastle
+	15.00		Hull	1-2	Blackburn
+	15.00		West Ham	1-0	Man City
+[Sat Jan/09]
+	15.00		Blackburn	0-4	Arsenal
+	15.00		Fulham	2-1	Bolton
+	15.00		Liverpool	2-1	Man United
+
+Matchday 6
+
+[Sat Jan/09]
+	15.00		Man City	1-3	Chelsea
+	15.00		Newcastle	1-2	Hull
+	15.00		Portsmouth	2-1	Middlesbrough
+	15.00		West Brom	3-2	West Ham
+	15.00		Wigan	1-1	Sunderland
+[Tue Jan/12]
+	15.00		Aston Villa	4-2	Bolton
+	15.00		Liverpool	2-2	Hull
+	15.00		Man City	0-1	Everton
+	15.00		Middlesbrough	1-1	Arsenal
+	15.00		Stoke	0-0	Fulham
+
+Matchday 7
+
+[Tue Jan/12]
+	15.00		Sunderland	4-0	West Brom
+	15.00		Tottenham	0-0	Man United
+	15.00		Wigan	3-0	Blackburn
+[Fri Feb/05]
+	15.00		Chelsea	3-1	Fulham
+	15.00		Man City	3-1	Blackburn
+	15.00		Middlesbrough	0-2	Man United
+	15.00		Portsmouth	0-3	Arsenal
+	15.00		Stoke	0-1	West Ham
+	15.00		Tottenham	1-0	West Brom
+	15.00		Wigan	0-0	Bolton
+
+Matchday 8
+
+[Tue Feb/09]
+	15.00		Stoke	2-3	Everton
+[Fri Feb/12]
+	15.00		Chelsea	1-1	West Ham
+	15.00		Portsmouth	0-3	Newcastle
+[Wed Mar/03]
+	15.00		Liverpool	2-0	Sunderland
+	15.00		Portsmouth	0-1	Chelsea
+	15.00		West Brom	1-3	Arsenal
+[Fri Mar/05]
+	15.00		Liverpool	3-0	Newcastle
+	15.00		Sunderland	0-2	Everton
+[Tue Mar/09]
+	15.00		Tottenham	1-2	Aston Villa
+[Thu Mar/11]
+	15.00		Arsenal	0-2	Aston Villa
+
+Matchday 9
+
+[Thu Mar/11]
+	15.00		Blackburn	1-2	Sunderland
+	15.00		Bolton	0-2	Liverpool
+	15.00		Fulham	2-1	Tottenham
+	15.00		Man United	5-0	Stoke
+	15.00		Newcastle	2-2	Wigan
+	15.00		West Brom	0-3	Chelsea
+	15.00		West Ham	0-0	Portsmouth
+[Sat Apr/03]
+	15.00		Blackburn	0-0	Everton
+	15.00		Fulham	0-1	Hull
+	15.00		Man City	2-0	Aston Villa
+
+Matchday 10
+
+[Sat Apr/03]
+	15.00		Newcastle	1-2	Man United
+	15.00		Stoke	2-0	Bolton
+	15.00		Tottenham	4-0	Middlesbrough
+	15.00		Wigan	0-1	West Ham
+[Sun Apr/04]
+	15.00		Arsenal	2-0	Man City
+	15.00		Blackburn	2-1	Tottenham
+	15.00		Bolton	4-1	Middlesbrough
+	15.00		Fulham	0-1	Liverpool
+	15.00		Hull	0-0	Portsmouth
+	15.00		Newcastle	0-2	Chelsea
+
+Matchday 11
+
+[Sun Apr/04]
+	15.00		West Brom	0-2	Stoke
+	15.00		West Ham	2-0	Sunderland
+[Mon Apr/05]
+	15.00		Aston Villa	1-0	Hull
+[Thu Apr/08]
+	15.00		Arsenal	1-0	West Brom
+	15.00		Bolton	3-1	Stoke
+	15.00		Everton	2-3	Blackburn
+	15.00		Hull	2-1	Fulham
+	15.00		Middlesbrough	2-1	Tottenham
+	15.00		Sunderland	0-1	Liverpool
+	15.00		West Ham	2-1	Wigan
+
+Matchday 12
+
+[Sun Apr/11]
+	15.00		Everton	1-1	Middlesbrough
+	15.00		Hull	2-2	Man City
+[Tue May/04]
+	15.00		Everton	4-0	Wigan
+	15.00		Man United	3-2	Aston Villa
+[Sat May/08]
+	15.00		Aston Villa	4-2	Man City
+	15.00		Chelsea	4-0	Portsmouth
+	15.00		Man United	1-1	Newcastle
+[Thu Jun/10]
+	15.00		Arsenal	3-1	Everton
+	15.00		Aston Villa	0-0	Portsmouth
+	15.00		Bolton	0-0	Blackburn
+
+Matchday 13
+
+[Thu Jun/10]
+	15.00		Fulham	0-0	Sunderland
+	15.00		Liverpool	3-2	Wigan
+	15.00		Man United	4-0	West Brom
+	15.00		Middlesbrough	0-5	Chelsea
+[Fri Jul/02]
+	15.00		Blackburn	0-2	Aston Villa
+	15.00		Chelsea	0-0	Hull
+	15.00		Everton	3-0	Bolton
+	15.00		Man City	1-0	Middlesbrough
+	15.00		Portsmouth	2-3	Liverpool
+	15.00		Sunderland	2-0	Stoke
+
+Matchday 14
+
+[Fri Jul/02]
+	15.00		West Brom	2-3	Newcastle
+	15.00		Wigan	0-0	Fulham
+[Sat Jul/03]
+	15.00		Sunderland	1-1	Tottenham
+[Sat Jul/10]
+	15.00		Hull	1-0	West Ham
+	15.00		Stoke	2-1	Tottenham
+[Mon Aug/02]
+	15.00		Tottenham	0-0	Arsenal
+	15.00		West Ham	0-1	Man United
+[Mon Aug/09]
+	15.00		Blackburn	1-0	Fulham
+	15.00		Bolton	1-3	Arsenal
+	15.00		Liverpool	0-0	Stoke
+
+Matchday 15
+
+[Mon Aug/09]
+	15.00		Sunderland	2-0	Middlesbrough
+	15.00		West Ham	3-1	Newcastle
+[Tue Aug/10]
+	15.00		Newcastle	2-2	Man City
+[Thu Aug/12]
+	15.00		Blackburn	3-0	Stoke
+	15.00		Bolton	2-1	Portsmouth
+	15.00		Fulham	3-0	Middlesbrough
+	15.00		Hull	1-4	Sunderland
+	15.00		West Ham	0-1	Aston Villa
+[Sun Sep/05]
+	15.00		Blackburn	2-0	Portsmouth
+	15.00		Bolton	0-0	Sunderland
+
+Matchday 16
+
+[Sun Sep/05]
+	15.00		Everton	0-0	Tottenham
+	15.00		Fulham	3-1	Aston Villa
+	15.00		Hull	1-2	Stoke
+	15.00		West Brom	3-1	Wigan
+	15.00		West Ham	0-3	Liverpool
+[Thu Sep/09]
+	15.00		Chelsea	1-1	Man United
+	15.00		Hull	2-2	Everton
+	15.00		Man City	6-0	Portsmouth
+	15.00		Tottenham	0-0	Wigan
+	15.00		West Brom	1-2	Aston Villa
+
+Matchday 17
+
+[Sun Sep/12]
+	15.00		Arsenal	1-1	Liverpool
+	15.00		Newcastle	2-1	Tottenham
+	15.00		West Brom	2-1	Man City
+[Fri Oct/01]
+	15.00		Arsenal	1-0	Bolton
+	15.00		Aston Villa	2-1	West Brom
+	15.00		Everton	2-0	Hull
+	15.00		Middlesbrough	1-1	Sunderland
+	15.00		Newcastle	2-2	West Ham
+	15.00		Stoke	0-0	Liverpool
+[Tue Oct/05]
+	15.00		Arsenal	1-4	Chelsea
+
+Matchday 18
+
+[Tue Oct/05]
+	15.00		Man United	2-0	Man City
+[Mon Oct/11]
+	15.00		Aston Villa	0-0	Man United
+	15.00		Chelsea	0-0	Newcastle
+	15.00		Liverpool	0-0	Fulham
+	15.00		Man City	3-0	Arsenal
+	15.00		Middlesbrough	1-3	Bolton
+	15.00		Portsmouth	2-2	Hull
+	15.00		Stoke	1-0	West Brom
+[Tue Oct/12]
+	15.00		Everton	0-0	Chelsea
+[Mon Nov/01]
+	15.00		Man United	3-0	Chelsea
+
+Matchday 19
+
+[Mon Nov/01]
+	15.00		Wigan	1-0	Tottenham
+[Wed Nov/03]
+	15.00		Fulham	1-2	Blackburn
+[Thu Nov/04]
+	15.00		Chelsea	4-3	Bolton
+	15.00		Liverpool	4-0	Blackburn
+	15.00		Middlesbrough	3-1	Hull
+	15.00		Portsmouth	2-2	West Brom
+	15.00		Stoke	1-1	Newcastle
+	15.00		Sunderland	1-2	Man United
+	15.00		Tottenham	1-0	West Ham
+	15.00		Wigan	1-4	Arsenal
+
+Matchday 20
+
+[Fri Nov/05]
+	15.00		Newcastle	3-1	Middlesbrough
+[Mon Nov/08]
+	15.00		Blackburn	1-1	Hull
+	15.00		Fulham	1-0	Arsenal
+	15.00		Liverpool	2-1	Middlesbrough
+	15.00		Newcastle	1-0	Bolton
+	15.00		Stoke	3-2	Aston Villa
+	15.00		Tottenham	1-2	Sunderland
+	15.00		West Brom	1-2	Everton
+[Thu Nov/11]
+	15.00		Sunderland	0-1	West Ham
+	15.00		Tottenham	1-0	Blackburn
+
+Matchday 21
+
+[Sat Dec/04]
+	15.00		Aston Villa	3-3	Everton
+	15.00		Man City	1-3	Fulham
+[Wed Dec/08]
+	15.00		Man City	3-0	West Ham
+	15.00		Wigan	0-1	Chelsea
+[Sat Dec/11]
+	15.00		Wigan	1-0	Everton
+[Wed Jan/05]
+	15.00		Wigan	1-2	Man United
+[Sat Jan/08]
+	15.00		Portsmouth	0-1	Man United
+[Mon Jan/10]
+	15.00		Blackburn	1-1	Middlesbrough
+	15.00		Everton	1-1	Man United
+	15.00		Sunderland	2-1	Newcastle
+
+Matchday 22
+
+[Mon Jan/10]
+	15.00		West Brom	0-3	Hull
+[Tue Feb/01]
+	15.00		Man United	1-0	Wigan
+[Wed Feb/02]
+	15.00		Portsmouth	2-0	Man City
+[Thu Feb/03]
+	15.00		Arsenal	4-0	Blackburn
+	15.00		Bolton	1-3	Fulham
+	15.00		Everton	3-1	Stoke
+	15.00		Hull	1-1	Newcastle
+	15.00		Man United	1-4	Liverpool
+	15.00		Middlesbrough	1-1	Portsmouth
+	15.00		Sunderland	1-2	Wigan
+
+Matchday 23
+
+[Thu Feb/10]
+	15.00		Chelsea	0-1	Liverpool
+	15.00		Man City	3-0	Stoke
+	15.00		Portsmouth	1-1	Fulham
+	15.00		Tottenham	2-0	Bolton
+	15.00		West Ham	0-2	Arsenal
+	15.00		Wigan	0-4	Aston Villa
+[Sat Feb/12]
+	15.00		Aston Villa	2-2	Arsenal
+	15.00		Chelsea	2-0	West Brom
+	15.00		Liverpool	3-0	Bolton
+	15.00		Man City	5-1	Hull
+
+Matchday 24
+
+[Sat Feb/12]
+	15.00		Middlesbrough	0-1	Everton
+	15.00		Portsmouth	1-4	West Ham
+	15.00		Stoke	0-1	Man United
+	15.00		Sunderland	0-0	Blackburn
+	15.00		Tottenham	0-0	Fulham
+	15.00		Wigan	2-1	Newcastle
+[Thu Mar/03]
+	15.00		Aston Villa	1-2	Tottenham
+	15.00		Chelsea	1-0	Man City
+[Wed Mar/09]
+	15.00		Arsenal	1-2	Hull
+	15.00		Aston Villa	2-1	Sunderland
+
+Matchday 25
+
+[Wed Mar/09]
+	15.00		Everton	0-2	Liverpool
+	15.00		Fulham	1-2	West Ham
+	15.00		Man United	2-0	Bolton
+	15.00		Middlesbrough	0-1	West Brom
+	15.00		Newcastle	1-2	Blackburn
+	15.00		Stoke	0-2	Chelsea
+[Sun Apr/03]
+	15.00		West Ham	0-0	West Brom
+[Tue Apr/05]
+	15.00		Bolton	1-1	Hull
+	15.00		Everton	3-1	West Ham
+	15.00		Man United	0-0	Arsenal
+
+Matchday 26
+
+[Tue Apr/05]
+	15.00		Middlesbrough	1-1	Aston Villa
+	15.00		Newcastle	0-1	Fulham
+	15.00		Stoke	2-0	Wigan
+	15.00		Tottenham	2-1	Man City
+[Sat Apr/09]
+	15.00		Portsmouth	2-0	Tottenham
+	15.00		Wigan	2-1	Man City
+[Sun Apr/10]
+	15.00		Newcastle	2-1	West Brom
+[Tue Apr/12]
+	15.00		Arsenal	1-0	Portsmouth
+	15.00		Blackburn	2-2	Man City
+	15.00		Bolton	0-1	Wigan
+
+Matchday 27
+
+[Tue Apr/12]
+	15.00		Everton	3-0	Sunderland
+	15.00		Fulham	2-2	Chelsea
+	15.00		Newcastle	1-5	Liverpool
+	15.00		West Brom	2-0	Tottenham
+	15.00		West Ham	2-1	Stoke
+[Sun May/01]
+	15.00		Blackburn	3-0	Newcastle
+	15.00		Bolton	0-1	Man United
+	15.00		Chelsea	2-1	Stoke
+	15.00		Hull	1-3	Arsenal
+	15.00		Man City	1-0	Wigan
+
+Matchday 28
+
+[Sun May/01]
+	15.00		Sunderland	1-2	Aston Villa
+	15.00		West Brom	3-0	Middlesbrough
+[Thu May/05]
+	15.00		Chelsea	2-0	Blackburn
+	15.00		West Brom	0-2	Liverpool
+[Tue May/10]
+	15.00		Arsenal	4-4	Tottenham
+	15.00		Aston Villa	3-2	Blackburn
+	15.00		Bolton	0-1	Everton
+	15.00		Fulham	2-0	Wigan
+	15.00		Hull	0-3	Chelsea
+	15.00		Liverpool	1-0	Portsmouth
+
+Matchday 29
+
+[Tue May/10]
+	15.00		Man United	2-0	West Ham
+	15.00		Middlesbrough	2-0	Man City
+	15.00		Stoke	1-0	Sunderland
+[Wed May/11]
+	15.00		Aston Villa	0-0	Fulham
+	15.00		Middlesbrough	0-0	Newcastle
+	15.00		Stoke	1-1	Hull
+	15.00		Sunderland	1-4	Bolton
+	15.00		Wigan	2-1	West Brom
+[Thu May/12]
+	15.00		Man United	1-0	Middlesbrough
+[Wed Jun/01]
+	15.00		Tottenham	1-1	Portsmouth
+
+Matchday 30
+
+[Wed Jun/01]
+	15.00		West Ham	3-1	Fulham
+[Thu Jun/02]
+	15.00		Man United	3-0	Fulham
+[Sat Jun/04]
+	15.00		Aston Villa	1-1	West Ham
+	15.00		Middlesbrough	0-0	Fulham
+	15.00		Portsmouth	1-0	Bolton
+	15.00		Stoke	1-0	Blackburn
+	15.00		Sunderland	1-0	Hull
+[Sun Jun/05]
+	15.00		Portsmouth	3-1	Sunderland
+[Wed Jun/08]
+	15.00		Arsenal	3-0	Newcastle
+	15.00		Bolton	0-0	West Brom
+
+Matchday 31
+
+[Wed Jun/08]
+	15.00		Everton	0-3	Portsmouth
+	15.00		Hull	0-5	Wigan
+	15.00		Middlesbrough	2-1	Stoke
+	15.00		West Ham	4-1	Blackburn
+[Sat Jun/11]
+	15.00		Chelsea	1-2	Arsenal
+	15.00		Man City	0-1	Man United
+	15.00		Portsmouth	3-2	Blackburn
+	15.00		Tottenham	0-1	Everton
+[Sun Jun/12]
+	15.00		Hull	0-1	Aston Villa
+[Fri Jul/01]
+	15.00		Liverpool	1-1	Everton
+
+Matchday 32
+
+[Mon Jul/04]
+	15.00		Man City	4-2	West Brom
+	15.00		Tottenham	1-0	Newcastle
+[Fri Jul/08]
+	15.00		Aston Villa	0-0	Liverpool
+	15.00		Chelsea	1-1	Tottenham
+	15.00		Sunderland	0-3	Man City
+[Fri Sep/02]
+	15.00		Arsenal	0-0	Sunderland
+	15.00		Aston Villa	0-1	Chelsea
+	15.00		Bolton	2-1	West Ham
+	15.00		Man United	2-1	Blackburn
+	15.00		Middlesbrough	0-0	Wigan
+
+Matchday 33
+
+[Fri Sep/02]
+	15.00		Stoke	2-2	Portsmouth
+[Sat Sep/03]
+	15.00		Blackburn	1-1	West Ham
+	15.00		Fulham	2-0	Man United
+	15.00		Newcastle	1-3	Arsenal
+	15.00		Portsmouth	2-1	Everton
+	15.00		Stoke	1-0	Middlesbrough
+	15.00		Tottenham	1-0	Chelsea
+	15.00		West Brom	1-1	Bolton
+[Sun Sep/04]
+	15.00		Liverpool	4-4	Arsenal
+[Sun Oct/02]
+	15.00		Fulham	2-0	West Brom
+
+Matchday 34
+
+[Sun Oct/02]
+	15.00		Liverpool	1-1	Man City
+	15.00		Newcastle	0-0	Everton
+[Mon Oct/03]
+	15.00		Liverpool	5-0	Aston Villa
+	15.00		Man City	1-0	Sunderland
+	15.00		Wigan	1-0	Hull
+[Tue Oct/04]
+	15.00		Chelsea	0-0	Everton
+	15.00		Man United	2-0	Portsmouth
+[Wed Nov/02]
+	15.00		Hull	1-2	Tottenham
+[Mon Dec/05]
+	15.00		Arsenal	4-1	Stoke
+	15.00		Aston Villa	1-0	Newcastle
+
+Matchday 35
+
+[Mon Dec/05]
+	15.00		Blackburn	0-0	West Brom
+	15.00		Fulham	0-2	Everton
+	15.00		Hull	0-1	Man United
+	15.00		Liverpool	3-1	Tottenham
+	15.00		Man City	1-0	Bolton
+	15.00		Sunderland	2-3	Chelsea
+	15.00		West Ham	2-1	Middlesbrough
+	15.00		Wigan	1-0	Portsmouth
+[Wed Jan/04]
+	15.00		Bolton	1-1	Aston Villa
+	15.00		Everton	1-2	Man City
+
+Matchday 36
+
+[Wed Jan/04]
+	15.00		Fulham	1-0	Stoke
+	15.00		Hull	1-3	Liverpool
+	15.00		Man United	5-2	Tottenham
+	15.00		West Brom	3-0	Sunderland
+	15.00		West Ham	0-1	Chelsea
+[Sat Feb/04]
+	15.00		Arsenal	2-0	Middlesbrough
+	15.00		Blackburn	2-0	Wigan
+[Wed Mar/01]
+	15.00		Portsmouth	0-1	Aston Villa
+	15.00		Sunderland	1-0	Fulham
+	15.00		Tottenham	3-1	Stoke
+
+Matchday 37
+
+[Wed Mar/01]
+	15.00		West Brom	0-5	Man United
+[Sat Mar/04]
+	15.00		Newcastle	0-0	Portsmouth
+[Sat Apr/01]
+	15.00		Blackburn	2-2	Bolton
+	15.00		Chelsea	2-0	Middlesbrough
+	15.00		Everton	1-1	Arsenal
+	15.00		Man City	2-1	Newcastle
+	15.00		West Ham	2-0	Hull
+	15.00		Wigan	1-1	Liverpool
+[Sun Apr/02]
+	15.00		Arsenal	0-0	Fulham
+	15.00		Chelsea	2-1	Wigan
+
+Matchday 38
+
+[Sun Apr/02]
+	15.00		Everton	2-0	West Brom
+	15.00		Middlesbrough	2-0	Liverpool
+[Sat Jul/01]
+	15.00		Arsenal	0-0	West Ham
+	15.00		Aston Villa	0-0	Wigan
+	15.00		Bolton	3-2	Tottenham
+	15.00		Fulham	3-1	Portsmouth
+	15.00		Hull	2-2	West Brom
+	15.00		Man United	1-0	Everton
+	15.00		Middlesbrough	0-0	Blackburn
+	15.00		Stoke	1-0	Man City
+

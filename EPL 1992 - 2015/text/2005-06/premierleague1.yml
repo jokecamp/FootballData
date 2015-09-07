@@ -1,0 +1,36 @@
+############################
+# Premier League 2005-2006
+
+league: en
+season: 2005/06
+start_at: 2005-8-1
+
+fixtures:
+- premierleague1.txt
+
+24 teams:
+- Brighton
+- Burnley
+- Cardiff
+- Coventry
+- Crewe
+- Crystal Palace
+- Derby
+- Hull
+- Ipswich
+- Leeds
+- Leicester
+- Luton
+- Millwall
+- Norwich
+- Plymouth
+- Preston
+- QPR
+- Reading
+- Sheffield United
+- Sheffield Weds
+- Southampton
+- Stoke
+- Watford
+- Wolves
+

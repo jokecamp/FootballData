@@ -1,0 +1,815 @@
+############################
+# Premier League 2003-2004
+
+Matchday 1
+
+[Fri Jan/09]
+	15.00		Wycombe	1-2	Sheffield Weds
+[Sat Jan/10]
+	15.00		Sheffield Weds	2-1	Notts County
+	15.00		Swindon	2-2	Luton
+[Sun Jan/11]
+	15.00		Brentford	2-1	Barnsley
+	15.00		Bristol City	1-1	Luton
+	15.00		Chesterfield	1-0	Port Vale
+	15.00		Notts County	1-0	Hartlepool
+	15.00		Peterboro	2-2	Brighton
+	15.00		Plymouth	2-2	Oldham
+	15.00		Rushden & D	3-1	Grimsby
+	15.00		Sheffield Weds	0-1	Blackpool
+	15.00		Stockport	1-2	QPR
+
+Matchday 2
+
+[Sun Jan/11]
+	15.00		Swindon	2-0	Wycombe
+	15.00		Tranmere	1-1	Bournemouth
+[Fri Apr/10]
+	15.00		Barnsley	2-0	Rushden & D
+	15.00		Bournemouth	2-2	Hartlepool
+	15.00		Brentford	0-3	Sheffield Weds
+	15.00		Brighton	3-0	Blackpool
+	15.00		Bristol City	2-1	Swindon
+	15.00		Grimsby	0-1	QPR
+	15.00		Notts County	3-0	Colchester
+	15.00		Peterboro	2-2	Oldham
+	15.00		Stockport	0-0	Chesterfield
+	15.00		Wrexham	2-1	Port Vale
+
+Matchday 3
+
+[Fri Apr/10]
+	15.00		Wycombe	0-0	Plymouth
+[Tue Jun/09]
+	15.00		Bournemouth	0-0	Bristol City
+	15.00		Brentford	1-3	Plymouth
+	15.00		Brighton	2-2	Swindon
+	15.00		Chesterfield	0-2	Barnsley
+	15.00		Colchester	2-2	QPR
+	15.00		Grimsby	1-1	Peterboro
+	15.00		Hartlepool	0-0	Oldham
+	15.00		Notts County	1-1	Luton
+	15.00		Rushden & D	2-0	Wycombe
+	15.00		Sheffield Weds	2-0	Tranmere
+	15.00		Stockport	2-2	Port Vale
+
+Matchday 4
+
+[Wed Jun/10]
+	15.00		Luton	3-1	Tranmere
+[Tue Sep/08]
+	15.00		Barnsley	1-0	Colchester
+	15.00		Bristol City	5-0	Notts County
+	15.00		Luton	3-1	Rushden & D
+	15.00		Oldham	1-3	Brighton
+	15.00		Peterboro	3-4	Hartlepool
+	15.00		Plymouth	2-2	Grimsby
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		QPR	5-0	Blackpool
+	15.00		Swindon	2-3	Sheffield Weds
+	15.00		Tranmere	4-1	Brentford
+	15.00		Wrexham	0-0	Chesterfield
+
+Matchday 5
+
+[Tue Sep/08]
+	15.00		Wycombe	1-0	Stockport
+[Sat Oct/10]
+	15.00		Bristol City	1-1	Peterboro
+	15.00		Hartlepool	1-1	Sheffield Weds
+[Tue Nov/10]
+	15.00		Brighton	3-0	Grimsby
+	15.00		Colchester	1-1	Blackpool
+	15.00		Luton	3-1	Wycombe
+	15.00		Notts County	0-1	Bournemouth
+	15.00		Oldham	2-1	Port Vale
+	15.00		Plymouth	6-0	Tranmere
+	15.00		Rushden & D	2-1	Chesterfield
+	15.00		Swindon	1-2	Stockport
+[Wed Nov/11]
+	15.00		Blackpool	0-1	Wrexham
+
+Matchday 6
+
+[Wed Nov/11]
+	15.00		QPR	1-0	Brentford
+[Wed Dec/09]
+	15.00		Hartlepool	8-1	Grimsby
+[Sat Dec/12]
+	15.00		Brighton	1-1	Port Vale
+[Tue Jan/05]
+	15.00		Blackpool	1-4	Peterboro
+	15.00		Bournemouth	0-0	Stockport
+	15.00		Brighton	1-0	Notts County
+	15.00		Colchester	2-0	Rushden & D
+	15.00		Grimsby	1-0	Brentford
+	15.00		Hartlepool	1-3	Plymouth
+	15.00		Luton	3-2	Sheffield Weds
+	15.00		Oldham	2-0	Chesterfield
+	15.00		Port Vale	2-1	Tranmere
+
+Matchday 7
+
+[Tue Jan/05]
+	15.00		QPR	1-0	Swindon
+	15.00		Wycombe	1-1	Wrexham
+[Sat Jan/09]
+	15.00		Blackpool	1-2	Bournemouth
+	15.00		Chesterfield	0-1	Notts County
+	15.00		Colchester	1-0	Brighton
+	15.00		Oldham	1-1	Bristol City
+	15.00		Plymouth	2-1	Luton
+	15.00		Port Vale	3-1	Barnsley
+	15.00		QPR	0-0	Wycombe
+	15.00		Rushden & D	0-1	Brentford
+	15.00		Sheffield Weds	2-2	Stockport
+	15.00		Swindon	1-0	Wrexham
+
+Matchday 8
+
+[Sat Jan/09]
+	15.00		Tranmere	0-0	Peterboro
+[Tue Jan/12]
+	15.00		Barnsley	1-1	Sheffield Weds
+	15.00		Blackpool	0-1	Luton
+	15.00		Bournemouth	0-0	Grimsby
+	15.00		Chesterfield	2-2	Tranmere
+	15.00		Colchester	2-1	Oldham
+	15.00		Notts County	1-1	Wycombe
+	15.00		QPR	4-1	Hartlepool
+	15.00		Rushden & D	1-1	Bristol City
+	15.00		Stockport	1-1	Brentford
+	15.00		Swindon	2-3	Plymouth
+	15.00		Wrexham	2-0	Peterboro
+
+Matchday 9
+
+[Wed Feb/03]
+	15.00		Barnsley	0-1	Peterboro
+	15.00		Brighton	1-0	Brentford
+	15.00		Bristol City	1-1	Wycombe
+	15.00		Colchester	2-1	Stockport
+	15.00		Hartlepool	2-0	Chesterfield
+	15.00		Notts County	3-1	Grimsby
+	15.00		Plymouth	2-0	Sheffield Weds
+	15.00		QPR	3-2	Port Vale
+	15.00		Rushden & D	0-0	Blackpool
+[Fri Feb/05]
+	15.00		Barnsley	0-1	Bristol City
+[Tue Mar/01]
+	15.00		Oldham	1-1	Brentford
+	15.00		Plymouth	7-0	Chesterfield
+
+Matchday 10
+
+[Tue Mar/01]
+	15.00		QPR	1-0	Rushden & D
+	15.00		Swindon	2-1	Bournemouth
+	15.00		Wrexham	1-2	Sheffield Weds
+	15.00		Wycombe	4-1	Grimsby
+[Thu Mar/03]
+	15.00		Swindon	2-0	Tranmere
+[Fri Mar/04]
+	15.00		Barnsley	1-0	Plymouth
+	15.00		Bournemouth	1-1	Colchester
+	15.00		Brentford	1-1	Chesterfield
+	15.00		Brighton	2-0	Hartlepool
+	15.00		Bristol City	1-0	QPR
+	15.00		Grimsby	2-0	Sheffield Weds
+	15.00		Luton	1-1	Oldham
+
+Matchday 11
+
+[Fri Mar/04]
+	15.00		Notts County	4-1	Blackpool
+	15.00		Peterboro	4-2	Swindon
+	15.00		Stockport	2-1	Rushden & D
+	15.00		Wrexham	0-1	Tranmere
+	15.00		Wycombe	2-1	Port Vale
+[Tue Mar/08]
+	15.00		Colchester	0-1	Swindon
+[Fri Mar/11]
+	15.00		Barnsley	2-0	Tranmere
+	15.00		Blackpool	1-0	Chesterfield
+	15.00		Bournemouth	1-2	Peterboro
+	15.00		Brighton	1-4	Bristol City
+	15.00		Colchester	3-1	Sheffield Weds
+	15.00		Grimsby	1-1	Stockport
+
+Matchday 12
+
+[Fri Mar/11]
+	15.00		Hartlepool	2-1	Rushden & D
+	15.00		Luton	3-2	Wrexham
+	15.00		Oldham	0-1	Swindon
+	15.00		Port Vale	1-0	Notts County
+	15.00		QPR	3-0	Plymouth
+	15.00		Wycombe	1-2	Brentford
+[Fri Apr/08]
+	15.00		Blackpool	3-2	Wycombe
+	15.00		Bournemouth	2-2	Barnsley
+	15.00		Brentford	0-3	Peterboro
+	15.00		Chesterfield	1-1	Bristol City
+	15.00		Grimsby	1-2	Port Vale
+	15.00		Hartlepool	0-0	Tranmere
+
+Matchday 13
+
+[Fri Apr/08]
+	15.00		Notts County	0-1	Wrexham
+	15.00		Rushden & D	2-1	Plymouth
+	15.00		Sheffield Weds	2-2	Oldham
+	15.00		Stockport	1-2	Luton
+[Sat Apr/09]
+	15.00		Barnsley	1-1	Oldham
+	15.00		Bournemouth	1-0	Sheffield Weds
+	15.00		Brentford	0-0	Blackpool
+	15.00		Brighton	1-0	Chesterfield
+	15.00		Bristol City	2-0	Tranmere
+	15.00		Grimsby	1-2	Swindon
+	15.00		Luton	2-0	Port Vale
+	15.00		Notts County	1-3	Rushden & D
+
+Matchday 14
+
+[Sat Apr/09]
+	15.00		Peterboro	2-2	Plymouth
+	15.00		Stockport	1-2	Hartlepool
+	15.00		Wrexham	0-2	QPR
+	15.00		Wycombe	1-2	Colchester
+[Wed Jun/01]
+	15.00		Peterboro	5-2	Notts County
+[Fri Jun/03]
+	15.00		Barnsley	0-0	Luton
+	15.00		Blackpool	2-1	Port Vale
+	15.00		Bournemouth	1-0	Wycombe
+	15.00		Colchester	1-2	Hartlepool
+	15.00		Notts County	0-0	Plymouth
+	15.00		QPR	1-1	Oldham
+	15.00		Rushden & D	0-1	Peterboro
+
+Matchday 15
+
+[Fri Jun/03]
+	15.00		Stockport	2-0	Bristol City
+	15.00		Swindon	2-1	Brentford
+	15.00		Wrexham	3-0	Grimsby
+[Sat Jun/04]
+	15.00		Hartlepool	4-3	Luton
+	15.00		Tranmere	0-0	QPR
+[Wed Jun/08]
+	15.00		Brighton	2-1	QPR
+[Fri Jun/10]
+	15.00		Blackpool	4-0	Hartlepool
+	15.00		Bournemouth	1-0	Brighton
+	15.00		Brentford	4-2	Luton
+	15.00		Chesterfield	3-0	Swindon
+	15.00		Grimsby	2-0	Colchester
+	15.00		Peterboro	0-0	QPR
+
+Matchday 16
+
+[Fri Jun/10]
+	15.00		Port Vale	1-5	Plymouth
+	15.00		Sheffield Weds	0-0	Rushden & D
+	15.00		Stockport	2-2	Notts County
+	15.00		Tranmere	2-1	Oldham
+	15.00		Wrexham	0-0	Bristol City
+	15.00		Wycombe	1-2	Barnsley
+[Sat Jul/02]
+	15.00		Barnsley	2-2	Hartlepool
+	15.00		Bristol City	3-1	Brentford
+	15.00		Luton	1-0	Colchester
+	15.00		Peterboro	0-2	Chesterfield
+	15.00		Plymouth	0-0	Bournemouth
+	15.00		Port Vale	3-0	Sheffield Weds
+
+Matchday 17
+
+[Sat Jul/02]
+	15.00		QPR	3-2	Notts County
+	15.00		Swindon	4-2	Rushden & D
+	15.00		Tranmere	1-1	Blackpool
+	15.00		Wrexham	0-0	Stockport
+	15.00		Wycombe	1-1	Brighton
+[Sun Jul/03]
+	15.00		Chesterfield	3-1	Sheffield Weds
+[Tue Aug/02]
+	15.00		Oldham	6-0	Grimsby
+[Fri Aug/05]
+	15.00		Brentford	1-0	Bournemouth
+	15.00		Bristol City	2-1	Blackpool
+	15.00		Chesterfield	1-0	Luton
+	15.00		Notts County	1-1	Oldham
+	15.00		Peterboro	1-1	Wycombe
+
+Matchday 18
+
+[Fri Aug/05]
+	15.00		Plymouth	2-0	Colchester
+	15.00		Rushden & D	0-2	Port Vale
+	15.00		Sheffield Weds	1-3	QPR
+	15.00		Stockport	2-3	Barnsley
+	15.00		Swindon	1-1	Hartlepool
+	15.00		Tranmere	2-1	Grimsby
+	15.00		Wrexham	0-2	Brighton
+[Tue Aug/09]
+	15.00		Barnsley	1-1	Swindon
+	15.00		Bournemouth	2-1	Rushden & D
+	15.00		Brentford	2-1	Hartlepool
+	15.00		Brighton	2-0	Sheffield Weds
+	15.00		Bristol City	0-1	Port Vale
+
+Matchday 19
+
+[Tue Aug/09]
+	15.00		Grimsby	4-0	Chesterfield
+	15.00		Luton	1-1	QPR
+	15.00		Notts County	2-2	Tranmere
+	15.00		Peterboro	1-2	Colchester
+	15.00		Stockport	1-3	Blackpool
+	15.00		Wrexham	2-2	Plymouth
+	15.00		Wycombe	2-5	Oldham
+[Fri Aug/12]
+	15.00		Brentford	0-2	Swindon
+	15.00		Bristol City	1-0	Stockport
+	15.00		Hartlepool	0-0	Colchester
+	15.00		Luton	0-1	Barnsley
+	15.00		Oldham	2-1	QPR
+
+Matchday 20
+
+[Fri Aug/12]
+	15.00		Peterboro	3-1	Rushden & D
+	15.00		Plymouth	3-0	Notts County
+	15.00		Sheffield Weds	0-0	Chesterfield
+	15.00		Tranmere	1-0	Brighton
+	15.00		Wycombe	2-0	Bournemouth
+[Sat Sep/10]
+	15.00		Blackpool	2-3	Rushden & D
+	15.00		Bournemouth	6-3	Luton
+	15.00		Brentford	4-0	Brighton
+	15.00		Chesterfield	1-2	Hartlepool
+	15.00		Grimsby	2-0	Notts County
+	15.00		Peterboro	2-3	Barnsley
+	15.00		Port Vale	2-0	QPR
+
+Matchday 21
+
+[Sat Sep/10]
+	15.00		Stockport	1-3	Colchester
+	15.00		Tranmere	1-0	Swindon
+	15.00		Wrexham	4-0	Oldham
+	15.00		Wycombe	3-0	Bristol City
+[Sat Oct/01]
+	15.00		Blackpool	0-1	QPR
+	15.00		Bournemouth	2-1	Port Vale
+	15.00		Brentford	2-2	Tranmere
+	15.00		Brighton	0-0	Oldham
+	15.00		Chesterfield	2-1	Wrexham
+	15.00		Colchester	1-1	Barnsley
+	15.00		Grimsby	0-0	Plymouth
+	15.00		Hartlepool	1-0	Peterboro
+
+Matchday 22
+
+[Sat Oct/01]
+	15.00		Notts County	1-2	Bristol City
+	15.00		Rushden & D	2-2	Luton
+	15.00		Sheffield Weds	1-1	Swindon
+	15.00		Stockport	2-0	Wycombe
+[Sun Oct/02]
+	15.00		Luton	2-0	Brighton
+[Mon Oct/03]
+	15.00		Brighton	3-0	Tranmere
+[Tue Oct/04]
+	15.00		Blackpool	3-1	Brighton
+	15.00		Chesterfield	0-3	Stockport
+	15.00		Colchester	4-1	Notts County
+	15.00		Hartlepool	2-1	Bournemouth
+	15.00		Oldham	1-1	Peterboro
+	15.00		Plymouth	2-1	Wycombe
+
+Matchday 23
+
+[Tue Oct/04]
+	15.00		Port Vale	1-0	Wrexham
+	15.00		QPR	3-0	Grimsby
+	15.00		Rushden & D	2-3	Barnsley
+	15.00		Sheffield Weds	1-1	Brentford
+	15.00		Swindon	1-1	Bristol City
+	15.00		Tranmere	1-0	Luton
+[Mon Oct/10]
+	15.00		Sheffield Weds	1-3	Plymouth
+[Tue Oct/11]
+	15.00		Brentford	1-3	Grimsby
+	15.00		Bristol City	2-1	Barnsley
+	15.00		Chesterfield	1-1	Oldham
+	15.00		Notts County	1-2	Brighton
+	15.00		Peterboro	0-1	Blackpool
+
+Matchday 24
+
+[Tue Oct/11]
+	15.00		Plymouth	2-0	Hartlepool
+	15.00		Rushden & D	4-0	Colchester
+	15.00		Sheffield Weds	0-0	Luton
+	15.00		Stockport	3-2	Bournemouth
+	15.00		Swindon	1-1	QPR
+	15.00		Tranmere	1-0	Port Vale
+	15.00		Wrexham	0-0	Wycombe
+[Tue Nov/08]
+	15.00		Barnsley	1-0	Brighton
+	15.00		Bristol City	1-1	Hartlepool
+	15.00		Luton	1-2	Grimsby
+	15.00		Oldham	2-3	Blackpool
+	15.00		Peterboro	0-1	Sheffield Weds
+
+Matchday 25
+
+[Tue Nov/08]
+	15.00		Plymouth	3-1	Stockport
+	15.00		Port Vale	4-3	Colchester
+	15.00		QPR	1-0	Bournemouth
+	15.00		Swindon	4-0	Notts County
+	15.00		Tranmere	1-2	Rushden & D
+	15.00		Wrexham	1-0	Brentford
+	15.00		Wycombe	3-3	Chesterfield
+[Sat Dec/03]
+	15.00		Bristol City	1-0	Rushden & D
+[Sun Dec/04]
+	15.00		Barnsley	3-3	QPR
+	15.00		Bournemouth	2-2	Chesterfield
+	15.00		Brentford	3-2	Colchester
+	15.00		Brighton	0-0	Rushden & D
+
+Matchday 26
+
+[Sun Dec/04]
+	15.00		Grimsby	0-2	Blackpool
+	15.00		Luton	0-3	Swindon
+	15.00		Notts County	0-0	Sheffield Weds
+	15.00		Peterboro	3-1	Port Vale
+	15.00		Stockport	1-1	Oldham
+	15.00		Wrexham	1-2	Hartlepool
+	15.00		Wycombe	1-2	Tranmere
+[Tue Jan/03]
+	15.00		Brentford	0-2	Stockport
+	15.00		Grimsby	1-1	Bournemouth
+	15.00		Hartlepool	1-4	QPR
+	15.00		Luton	3-2	Blackpool
+	15.00		Oldham	0-0	Colchester
+
+Matchday 27
+
+[Tue Jan/03]
+	15.00		Peterboro	6-1	Wrexham
+	15.00		Plymouth	2-1	Swindon
+	15.00		Port Vale	1-1	Brighton
+	15.00		Sheffield Weds	2-1	Barnsley
+	15.00		Tranmere	2-3	Chesterfield
+	15.00		Wycombe	1-1	Notts County
+[Wed Jan/04]
+	15.00		Bristol City	1-0	Plymouth
+[Sun Jan/08]
+	15.00		Blackpool	0-2	Barnsley
+	15.00		Bournemouth	2-2	Swindon
+	15.00		Brentford	2-1	Oldham
+	15.00		Brighton	2-0	Luton
+	15.00		Chesterfield	1-1	Plymouth
+
+Matchday 28
+
+[Sun Jan/08]
+	15.00		Grimsby	3-1	Wycombe
+	15.00		Hartlepool	2-0	Port Vale
+	15.00		Notts County	0-1	Peterboro
+	15.00		Rushden & D	3-3	QPR
+	15.00		Sheffield Weds	2-3	Wrexham
+	15.00		Stockport	1-1	Tranmere
+[Tue Jan/10]
+	15.00		Barnsley	0-0	Grimsby
+	15.00		Brighton	0-1	Stockport
+	15.00		Bristol City	1-1	Sheffield Weds
+	15.00		Colchester	1-0	Chesterfield
+	15.00		Hartlepool	1-1	Wycombe
+	15.00		Luton	1-1	Peterboro
+
+Matchday 29
+
+[Tue Jan/10]
+	15.00		Notts County	2-0	Brentford
+	15.00		Oldham	1-1	Bournemouth
+	15.00		Plymouth	1-0	Blackpool
+	15.00		QPR	1-1	Tranmere
+	15.00		Rushden & D	2-3	Wrexham
+	15.00		Swindon	0-0	Port Vale
+[Wed Feb/01]
+	15.00		Port Vale	2-1	Blackpool
+[Thu Feb/02]
+	15.00		Bournemouth	1-0	Notts County
+	15.00		Brentford	1-1	QPR
+	15.00		Chesterfield	2-0	Rushden & D
+	15.00		Grimsby	2-1	Brighton
+	15.00		Peterboro	0-1	Bristol City
+
+Matchday 30
+
+[Thu Feb/02]
+	15.00		Port Vale	1-0	Oldham
+	15.00		Sheffield Weds	1-0	Hartlepool
+	15.00		Stockport	2-4	Swindon
+	15.00		Wrexham	1-0	Barnsley
+	15.00		Wycombe	0-0	Luton
+[Wed Feb/08]
+	15.00		Colchester	2-1	Bristol City
+[Sun Feb/12]
+	15.00		Blackpool	2-1	Tranmere
+	15.00		Bournemouth	0-2	Plymouth
+	15.00		Brentford	1-2	Bristol City
+	15.00		Brighton	4-0	Wycombe
+	15.00		Chesterfield	2-1	Peterboro
+	15.00		Colchester	1-1	Luton
+
+Matchday 31
+
+[Sun Feb/12]
+	15.00		Grimsby	3-3	Oldham
+	15.00		Hartlepool	1-2	Barnsley
+	15.00		Notts County	3-3	QPR
+	15.00		Rushden & D	2-0	Swindon
+	15.00		Sheffield Weds	2-3	Port Vale
+	15.00		Stockport	0-1	Wrexham
+[Thu Mar/09]
+	15.00		Blackpool	2-1	Notts County
+	15.00		Chesterfield	1-2	Brentford
+	15.00		Colchester	1-0	Bournemouth
+	15.00		Hartlepool	0-0	Brighton
+	15.00		Oldham	3-0	Luton
+	15.00		Plymouth	2-0	Barnsley
+
+Matchday 32
+
+[Thu Mar/09]
+	15.00		Port Vale	1-1	Wycombe
+	15.00		QPR	1-1	Bristol City
+	15.00		Rushden & D	2-2	Stockport
+	15.00		Sheffield Weds	0-0	Grimsby
+	15.00		Swindon	2-0	Peterboro
+	15.00		Tranmere	1-2	Wrexham
+[Mon Apr/03]
+	15.00		Blackpool	1-1	Brentford
+	15.00		Chesterfield	0-2	Brighton
+	15.00		Colchester	1-1	Wycombe
+	15.00		Hartlepool	2-2	Stockport
+	15.00		Oldham	1-1	Barnsley
+	15.00		Plymouth	2-0	Peterboro
+
+Matchday 33
+
+[Mon Apr/03]
+	15.00		Port Vale	1-0	Luton
+	15.00		QPR	2-0	Wrexham
+	15.00		Rushden & D	2-1	Notts County
+[Mon Apr/10]
+	15.00		Barnsley	2-1	Wrexham
+[Wed Apr/12]
+	15.00		Barnsley	0-1	Chesterfield
+	15.00		Bristol City	2-0	Bournemouth
+	15.00		Luton	2-0	Notts County
+	15.00		Oldham	0-2	Hartlepool
+	15.00		Peterboro	0-0	Grimsby
+	15.00		Plymouth	2-0	Brentford
+	15.00		Port Vale	2-2	Stockport
+	15.00		QPR	2-0	Colchester
+
+Matchday 34
+
+[Wed Apr/12]
+	15.00		Swindon	2-1	Brighton
+	15.00		Tranmere	2-2	Sheffield Weds
+	15.00		Wrexham	4-2	Blackpool
+	15.00		Wycombe	0-2	Rushden & D
+[Mon May/01]
+	15.00		Barnsley	1-1	Bournemouth
+	15.00		Bristol City	4-0	Chesterfield
+	15.00		Luton	2-2	Stockport
+	15.00		Oldham	1-0	Sheffield Weds
+	15.00		Peterboro	0-0	Brentford
+	15.00		Plymouth	3-0	Rushden & D
+	15.00		Port Vale	5-1	Grimsby
+	15.00		QPR	2-1	Brighton
+
+Matchday 35
+
+[Mon May/01]
+	15.00		Swindon	2-0	Colchester
+	15.00		Tranmere	0-0	Hartlepool
+	15.00		Wrexham	0-1	Notts County
+	15.00		Wycombe	0-3	Blackpool
+[Tue May/02]
+	15.00		Grimsby	1-2	Bristol City
+	15.00		Tranmere	3-0	Plymouth
+[Wed May/03]
+	15.00		Sheffield Weds	0-2	Bournemouth
+	15.00		Swindon	2-0	Grimsby
+[Thu May/04]
+	15.00		Barnsley	0-2	Brentford
+	15.00		Blackpool	4-1	Sheffield Weds
+	15.00		Bournemouth	1-5	Tranmere
+	15.00		Brighton	1-0	Peterboro
+
+Matchday 36
+
+[Thu May/04]
+	15.00		Colchester	3-1	Wrexham
+	15.00		Grimsby	1-0	Rushden & D
+	15.00		Hartlepool	4-0	Notts County
+	15.00		Luton	3-2	Bristol City
+	15.00		Oldham	4-1	Plymouth
+	15.00		Port Vale	1-1	Chesterfield
+	15.00		QPR	1-1	Stockport
+	15.00		Wycombe	0-3	Swindon
+[Thu May/11]
+	15.00		Barnsley	3-3	Stockport
+	15.00		Blackpool	1-0	Bristol City
+	15.00		Bournemouth	1-0	Brentford
+	15.00		Brighton	2-0	Wrexham
+
+Matchday 37
+
+[Thu May/11]
+	15.00		Colchester	0-2	Plymouth
+	15.00		Grimsby	0-1	Tranmere
+	15.00		Hartlepool	2-0	Swindon
+	15.00		Luton	1-0	Chesterfield
+	15.00		Oldham	0-1	Notts County
+	15.00		Port Vale	1-1	Rushden & D
+	15.00		QPR	3-0	Sheffield Weds
+	15.00		Wycombe	1-2	Peterboro
+[Thu Jun/08]
+	15.00		Barnsley	1-1	Notts County
+	15.00		Bristol City	1-0	Grimsby
+	15.00		Luton	3-2	Hartlepool
+	15.00		Oldham	3-2	Rushden & D
+
+Matchday 38
+
+[Thu Jun/08]
+	15.00		Peterboro	1-2	Stockport
+	15.00		Plymouth	3-3	Brighton
+	15.00		Port Vale	1-0	Brentford
+	15.00		QPR	3-0	Chesterfield
+	15.00		Swindon	2-2	Blackpool
+	15.00		Tranmere	1-1	Colchester
+	15.00		Wrexham	0-1	Bournemouth
+[Fri Jun/09]
+	15.00		Blackpool	0-1	Grimsby
+	15.00		Chesterfield	1-1	Bournemouth
+	15.00		Colchester	1-1	Brentford
+	15.00		Hartlepool	2-0	Wrexham
+	15.00		Oldham	2-0	Stockport
+
+Matchday 39
+
+[Fri Jun/09]
+	15.00		Plymouth	0-1	Bristol City
+	15.00		Port Vale	3-0	Peterboro
+	15.00		QPR	4-0	Barnsley
+	15.00		Rushden & D	1-3	Brighton
+	15.00		Tranmere	2-1	Wycombe
+[Mon Jul/10]
+	15.00		Wrexham	0-1	Colchester
+[Tue Aug/01]
+	15.00		Grimsby	1-3	Wrexham
+[Wed Aug/02]
+	15.00		Hartlepool	1-1	Blackpool
+	15.00		QPR	1-1	Peterboro
+[Thu Aug/03]
+	15.00		Barnsley	0-0	Port Vale
+	15.00		Brentford	3-2	Rushden & D
+	15.00		Brighton	2-1	Colchester
+
+Matchday 40
+
+[Thu Aug/03]
+	15.00		Bristol City	0-2	Oldham
+	15.00		Grimsby	0-2	Hartlepool
+	15.00		Luton	1-1	Plymouth
+	15.00		Notts County	1-1	Chesterfield
+	15.00		Peterboro	0-0	Tranmere
+	15.00		Stockport	1-0	Sheffield Weds
+	15.00		Wrexham	3-2	Swindon
+	15.00		Wycombe	2-2	QPR
+[Fri Aug/04]
+	15.00		Luton	1-1	Bournemouth
+	15.00		Oldham	1-1	Wrexham
+[Sat Sep/02]
+	15.00		Barnsley	0-0	Wycombe
+	15.00		Brighton	3-0	Bournemouth
+
+Matchday 41
+
+[Sat Sep/02]
+	15.00		Bristol City	1-0	Wrexham
+	15.00		Colchester	2-0	Grimsby
+	15.00		Luton	4-1	Brentford
+	15.00		Notts County	4-1	Stockport
+	15.00		Oldham	1-1	Tranmere
+	15.00		Plymouth	2-1	Port Vale
+	15.00		Rushden & D	1-2	Sheffield Weds
+	15.00		Swindon	2-0	Chesterfield
+[Fri Nov/03]
+	15.00		Chesterfield	1-2	Colchester
+[Fri Dec/01]
+	15.00		Blackpool	1-1	Oldham
+	15.00		Bournemouth	1-0	QPR
+	15.00		Brentford	0-1	Wrexham
+
+Matchday 42
+
+[Fri Dec/01]
+	15.00		Brighton	1-0	Barnsley
+	15.00		Chesterfield	2-2	Wycombe
+	15.00		Hartlepool	1-2	Bristol City
+	15.00		Notts County	1-2	Swindon
+	15.00		Sheffield Weds	2-0	Peterboro
+	15.00		Stockport	0-2	Plymouth
+[Sat Dec/02]
+	15.00		Bournemouth	6-0	Wrexham
+	15.00		Colchester	1-4	Port Vale
+	15.00		Grimsby	3-2	Luton
+	15.00		Rushden & D	2-1	Tranmere
+[Sun Dec/03]
+	15.00		Bournemouth	1-2	Blackpool
+	15.00		Tranmere	1-0	Bristol City
+
+Matchday 43
+
+[Mon Dec/04]
+	15.00		Brentford	1-1	Wycombe
+	15.00		Bristol City	0-0	Brighton
+	15.00		Chesterfield	1-0	Blackpool
+	15.00		Notts County	1-2	Port Vale
+	15.00		Peterboro	0-1	Bournemouth
+	15.00		Plymouth	2-0	QPR
+	15.00		Rushden & D	0-2	Hartlepool
+	15.00		Sheffield Weds	0-1	Colchester
+	15.00		Stockport	2-1	Grimsby
+	15.00		Swindon	1-2	Oldham
+	15.00		Tranmere	2-0	Barnsley
+	15.00		Wrexham	2-1	Luton
+
+Matchday 44
+
+[Thu Mar/01]
+	15.00		Barnsley	3-0	Blackpool
+	15.00		Bristol City	1-0	Colchester
+	15.00		Port Vale	2-5	Hartlepool
+	15.00		Tranmere	3-2	Stockport
+[Sat Mar/03]
+	15.00		Blackpool	1-1	Stockport
+	15.00		Chesterfield	4-4	Grimsby
+	15.00		Colchester	0-0	Peterboro
+	15.00		Hartlepool	1-2	Brentford
+	15.00		Oldham	2-3	Wycombe
+	15.00		Plymouth	0-0	Wrexham
+	15.00		Port Vale	2-1	Bristol City
+	15.00		QPR	1-1	Luton
+
+Matchday 45
+
+[Sat Mar/03]
+	15.00		Rushden & D	0-3	Bournemouth
+	15.00		Sheffield Weds	2-1	Brighton
+	15.00		Swindon	1-1	Barnsley
+	15.00		Tranmere	4-0	Notts County
+[Mon Apr/02]
+	15.00		Blackpool	0-1	Plymouth
+	15.00		Bournemouth	1-0	Oldham
+	15.00		Brentford	2-3	Notts County
+	15.00		Grimsby	6-1	Barnsley
+	15.00		Peterboro	1-2	Luton
+	15.00		Sheffield Weds	1-0	Bristol City
+	15.00		Stockport	1-1	Brighton
+	15.00		Wrexham	1-1	Rushden & D
+
+Matchday 46
+
+[Mon Apr/02]
+	15.00		Wycombe	3-4	Hartlepool
+[Fri Jun/01]
+	15.00		Sheffield Weds	1-1	Wycombe
+[Sun Jun/03]
+	15.00		Blackpool	0-0	Colchester
+	15.00		Port Vale	3-3	Swindon
+[Sun Jul/01]
+	15.00		Blackpool	2-2	Swindon
+	15.00		Brentford	3-2	Port Vale
+	15.00		Brighton	2-1	Plymouth
+	15.00		Chesterfield	4-2	QPR
+	15.00		Colchester	1-1	Tranmere
+	15.00		Notts County	1-1	Barnsley
+	15.00		Rushden & D	4-1	Oldham
+	15.00		Stockport	2-2	Peterboro
+

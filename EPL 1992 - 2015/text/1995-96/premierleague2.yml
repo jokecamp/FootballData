@@ -1,0 +1,36 @@
+############################
+# Premier League 1995-1996
+
+league: en
+season: 1995/96
+start_at: 1995-8-1
+
+fixtures:
+- premierleague2.txt
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Brighton
+- Bristol City
+- Bristol Rvs
+- Burnley
+- Carlisle
+- Chesterfield
+- Crewe
+- Hull
+- Notts County
+- Oxford
+- Peterboro
+- Rotherham
+- Shrewsbury
+- Stockport
+- Swansea
+- Swindon
+- Walsall
+- Wrexham
+- Wycombe
+- York
+

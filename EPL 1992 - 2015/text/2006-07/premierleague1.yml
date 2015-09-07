@@ -1,0 +1,36 @@
+############################
+# Premier League 2006-2007
+
+league: en
+season: 2006/07
+start_at: 2006-8-1
+
+fixtures:
+- premierleague1.txt
+
+24 teams:
+- Barnsley
+- Birmingham
+- Burnley
+- Cardiff
+- Colchester
+- Coventry
+- Crystal Palace
+- Derby
+- Hull
+- Ipswich
+- Leeds
+- Leicester
+- Luton
+- Norwich
+- Plymouth
+- Preston
+- QPR
+- Sheffield Weds
+- Southampton
+- Southend
+- Stoke
+- Sunderland
+- West Brom
+- Wolves
+

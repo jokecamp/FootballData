@@ -1,0 +1,844 @@
+############################
+# Premier League 2000-2001
+
+Matchday 1
+
+[Tue Jan/09]
+	15.00		Tranmere	2-1	Stockport
+[Wed Jan/10]
+	15.00		Watford	2-0	Birmingham
+[Fri Feb/09]
+	15.00		Gillingham	1-0	Wolves
+	15.00		Preston	1-0	Portsmouth
+[Mon Feb/12]
+	15.00		Burnley	1-0	Nott'm Forest
+	15.00		Gillingham	1-2	Birmingham
+	15.00		Grimsby	2-2	Crystal Palace
+	15.00		Huddersfield	3-1	Crewe
+	15.00		Portsmouth	2-0	Norwich
+	15.00		Preston	1-1	Fulham
+	15.00		Sheffield Weds	5-2	QPR
+	15.00		Stockport	0-2	Sheffield United
+
+Matchday 2
+
+[Mon Feb/12]
+	15.00		Tranmere	1-1	Blackburn
+	15.00		Wimbledon	0-1	West Brom
+	15.00		Wolves	2-0	Barnsley
+[Fri Mar/09]
+	15.00		West Brom	1-0	Crystal Palace
+[Mon Mar/12]
+	15.00		Bolton	2-1	Watford
+[Wed Apr/11]
+	15.00		Birmingham	1-1	Bolton
+	15.00		Blackburn	2-1	Stockport
+	15.00		Crewe	2-0	Wolves
+	15.00		Crystal Palace	4-1	Sheffield Weds
+	15.00		Fulham	3-0	Huddersfield
+	15.00		Norwich	1-0	Tranmere
+	15.00		Nott'm Forest	3-1	Preston
+
+Matchday 3
+
+[Wed Apr/11]
+	15.00		QPR	1-1	Portsmouth
+	15.00		Sheffield United	1-2	Gillingham
+	15.00		Watford	4-0	Grimsby
+	15.00		West Brom	1-1	Burnley
+[Fri May/11]
+	15.00		Barnsley	0-1	Wimbledon
+[Sat May/12]
+	15.00		Crystal Palace	3-1	Wimbledon
+[Sun Jun/10]
+	15.00		Gillingham	2-2	Bolton
+	15.00		Huddersfield	1-1	Barnsley
+	15.00		Tranmere	2-3	Burnley
+[Wed Jul/11]
+	15.00		Norwich	1-0	Birmingham
+	15.00		Watford	1-3	Sheffield Weds
+[Fri Aug/10]
+	15.00		Crewe	0-2	Birmingham
+
+Matchday 4
+
+[Fri Aug/10]
+	15.00		Sheffield Weds	1-2	West Brom
+	15.00		Stockport	1-1	Portsmouth
+[Sat Aug/11]
+	15.00		Barnsley	1-2	Blackburn
+[Sun Sep/09]
+	15.00		Birmingham	1-0	Sheffield United
+	15.00		Blackburn	3-0	Nott'm Forest
+	15.00		Crewe	0-0	Norwich
+	15.00		Crystal Palace	0-1	Burnley
+	15.00		Grimsby	1-0	Gillingham
+	15.00		Huddersfield	2-3	Bolton
+	15.00		Portsmouth	1-3	Watford
+	15.00		QPR	0-0	Preston
+	15.00		Sheffield Weds	0-5	Wimbledon
+
+Matchday 5
+
+[Sun Sep/09]
+	15.00		Stockport	0-0	West Brom
+	15.00		Wolves	1-2	Tranmere
+[Wed Sep/12]
+	15.00		Barnsley	0-0	Sheffield United
+	15.00		Birmingham	0-3	Wimbledon
+	15.00		Blackburn	0-0	QPR
+	15.00		Bolton	4-1	Crewe
+	15.00		Crystal Palace	1-0	Watford
+	15.00		Huddersfield	3-0	Wolves
+	15.00		Norwich	1-0	Gillingham
+	15.00		Nott'm Forest	2-0	Portsmouth
+	15.00		Preston	2-1	Burnley
+	15.00		Sheffield Weds	2-4	Stockport
+
+Matchday 6
+
+[Wed Sep/12]
+	15.00		Tranmere	2-0	Grimsby
+	15.00		West Brom	1-3	Fulham
+[Tue Oct/09]
+	15.00		Fulham	5-1	Barnsley
+[Thu Oct/11]
+	15.00		Preston	2-1	Crewe
+[Sun Nov/11]
+	15.00		Bolton	2-0	Barnsley
+	15.00		Burnley	2-0	Sheffield United
+	15.00		Huddersfield	0-2	West Brom
+	15.00		Portsmouth	2-2	Blackburn
+	15.00		Sheffield Weds	3-2	Norwich
+	15.00		Stockport	2-2	QPR
+	15.00		Tranmere	2-0	Watford
+	15.00		Wimbledon	0-3	Fulham
+
+Matchday 7
+
+[Sun Nov/11]
+	15.00		Wolves	1-3	Crystal Palace
+[Sat Dec/08]
+	15.00		Barnsley	1-0	Norwich
+	15.00		Blackburn	2-0	Crystal Palace
+	15.00		Bolton	1-1	Burnley
+	15.00		Fulham	2-0	Crewe
+	15.00		Gillingham	1-3	Stockport
+	15.00		Grimsby	1-2	Preston
+	15.00		Huddersfield	1-2	Watford
+	15.00		Nott'm Forest	1-0	West Brom
+	15.00		QPR	0-0	Birmingham
+	15.00		Sheffield United	2-0	Portsmouth
+	15.00		Wimbledon	0-0	Tranmere
+
+Matchday 8
+
+[Sun Dec/09]
+	15.00		Birmingham	3-1	Preston
+	15.00		Blackburn	3-4	Watford
+	15.00		Crewe	0-1	West Brom
+	15.00		Crystal Palace	1-0	Barnsley
+	15.00		Fulham	3-1	Burnley
+	15.00		Grimsby	0-1	Bolton
+	15.00		Huddersfield	0-2	Wimbledon
+	15.00		Portsmouth	2-0	Tranmere
+	15.00		Stockport	1-3	Norwich
+	15.00		Wolves	0-0	Sheffield United
+[Tue Dec/11]
+	15.00		Gillingham	1-3	Nott'm Forest
+[Tue Jan/01]
+	15.00		Birmingham	0-2	Nott'm Forest
+
+Matchday 9
+
+[Tue Jan/01]
+	15.00		Burnley	1-2	Wolves
+	15.00		Norwich	1-1	Blackburn
+	15.00		Portsmouth	0-0	Gillingham
+	15.00		Preston	0-2	Bolton
+	15.00		Sheffield Weds	1-0	Grimsby
+	15.00		Stockport	2-0	Fulham
+	15.00		Tranmere	1-0	Sheffield United
+	15.00		West Brom	1-0	Barnsley
+[Fri Jan/04]
+	15.00		Birmingham	0-1	Wolves
+	15.00		Blackburn	5-0	Burnley
+	15.00		Sheffield Weds	1-2	Sheffield United
+[Sat Jan/05]
+	15.00		Gillingham	0-3	Watford
+
+Matchday 10
+
+[Sat Jan/05]
+	15.00		Wimbledon	1-1	Huddersfield
+	15.00		Wolves	0-2	Bolton
+[Tue Jan/08]
+	15.00		Wolves	1-1	Sheffield Weds
+[Wed Jan/09]
+	15.00		QPR	2-2	Gillingham
+	15.00		Sheffield Weds	0-1	Nott'm Forest
+[Sat Jan/12]
+	15.00		Nott'm Forest	1-3	Huddersfield
+	15.00		Wimbledon	2-2	Grimsby
+[Fri Feb/01]
+	15.00		Watford	3-1	Wimbledon
+[Sun Feb/03]
+	15.00		Birmingham	2-0	Watford
+[Tue Feb/05]
+	15.00		Portsmouth	2-4	Crystal Palace
+	15.00		Preston	0-1	Blackburn
+[Sun Feb/10]
+	15.00		Barnsley	3-4	Nott'm Forest
+
+Matchday 11
+
+[Sun Feb/10]
+	15.00		Birmingham	2-1	Crystal Palace
+	15.00		Bolton	2-1	Wolves
+	15.00		Burnley	2-1	Stockport
+	15.00		Grimsby	1-0	Huddersfield
+	15.00		Portsmouth	2-1	Sheffield Weds
+	15.00		Preston	1-0	Tranmere
+	15.00		Sheffield United	1-0	Crewe
+	15.00		Watford	3-1	QPR
+	15.00		West Brom	2-3	Norwich
+	15.00		Wimbledon	4-4	Gillingham
+[Sat Mar/02]
+	15.00		Birmingham	2-1	Norwich
+	15.00		Blackburn	0-0	Barnsley
+
+Matchday 12
+
+[Sat Mar/02]
+	15.00		Crewe	4-2	Burnley
+	15.00		Crystal Palace	2-2	West Brom
+	15.00		Huddersfield	1-1	Nott'm Forest
+	15.00		Portsmouth	0-1	Preston
+	15.00		QPR	1-1	Bolton
+	15.00		Sheffield Weds	2-3	Watford
+	15.00		Stockport	1-1	Tranmere
+	15.00		Wolves	1-1	Gillingham
+[Sun Mar/03]
+	15.00		Blackburn	1-0	West Brom
+	15.00		Crewe	3-1	Tranmere
+	15.00		Crystal Palace	0-2	Preston
+	15.00		Grimsby	0-2	Barnsley
+
+Matchday 13
+
+[Sun Mar/03]
+	15.00		Huddersfield	2-0	Norwich
+	15.00		Portsmouth	2-0	Burnley
+	15.00		QPR	1-3	Sheffield United
+	15.00		Sheffield Weds	2-1	Gillingham
+	15.00		Stockport	2-2	Wimbledon
+	15.00		Wolves	2-0	Nott'm Forest
+[Mon Mar/04]
+	15.00		Bolton	1-1	Stockport
+	15.00		Crystal Palace	0-0	Huddersfield
+	15.00		Watford	3-0	Nott'm Forest
+[Sat Mar/09]
+	15.00		Sheffield United	2-0	Blackburn
+[Sun Mar/10]
+	15.00		Fulham	2-1	Blackburn
+[Tue Apr/02]
+	15.00		Fulham	1-1	Sheffield United
+
+Matchday 14
+
+[Wed Apr/03]
+	15.00		Fulham	1-1	Bolton
+[Thu Apr/04]
+	15.00		Blackburn	1-1	Sheffield United
+	15.00		Wolves	0-1	Wimbledon
+[Tue Apr/09]
+	15.00		Barnsley	4-2	QPR
+	15.00		Bolton	2-0	Portsmouth
+	15.00		Burnley	1-1	Grimsby
+	15.00		Gillingham	2-1	Huddersfield
+	15.00		Norwich	0-0	Crystal Palace
+	15.00		Nott'm Forest	0-3	Fulham
+	15.00		Preston	1-1	Stockport
+	15.00		Tranmere	2-0	Sheffield Weds
+	15.00		Watford	3-0	Crewe
+
+Matchday 15
+
+[Tue Apr/09]
+	15.00		Wimbledon	1-1	Wolves
+[Fri Apr/12]
+	15.00		Crewe	1-1	Crystal Palace
+	15.00		Fulham	3-1	Tranmere
+	15.00		Gillingham	4-0	Preston
+	15.00		Grimsby	2-0	Norwich
+	15.00		Portsmouth	1-1	Huddersfield
+	15.00		QPR	1-0	Nott'm Forest
+	15.00		Sheffield United	1-1	Sheffield Weds
+	15.00		Stockport	2-0	Barnsley
+	15.00		Watford	3-3	West Brom
+	15.00		Wimbledon	0-1	Bolton
+[Thu May/09]
+	15.00		West Brom	1-1	Birmingham
+
+Matchday 16
+
+[Fri May/10]
+	15.00		Barnsley	1-1	Tranmere
+	15.00		Birmingham	4-0	Stockport
+	15.00		Bolton	0-0	Nott'm Forest
+	15.00		Burnley	1-0	Sheffield Weds
+	15.00		Grimsby	3-1	QPR
+	15.00		Portsmouth	2-1	Crewe
+	15.00		Preston	1-0	Norwich
+	15.00		Sheffield United	3-0	Huddersfield
+	15.00		Watford	0-0	Gillingham
+	15.00		West Brom	1-0	Wolves
+[Sun May/12]
+	15.00		Burnley	0-2	Blackburn
+	15.00		Wolves	0-1	Birmingham
+
+Matchday 17
+
+[Mon Jun/03]
+	15.00		Crewe	1-0	Sheffield United
+	15.00		Crystal Palace	1-2	Birmingham
+	15.00		Gillingham	0-0	Wimbledon
+	15.00		Huddersfield	0-0	Grimsby
+	15.00		Norwich	0-1	West Brom
+	15.00		Stockport	0-0	Burnley
+	15.00		Tranmere	1-1	Preston
+[Tue Jun/04]
+	15.00		Burnley	3-0	Preston
+[Wed Jun/05]
+	15.00		Bolton	1-1	Sheffield United
+	15.00		Burnley	2-0	Watford
+	15.00		Gillingham	1-1	Blackburn
+	15.00		Grimsby	1-0	Fulham
+
+Matchday 18
+
+[Wed Jun/05]
+	15.00		Huddersfield	1-2	Birmingham
+	15.00		Portsmouth	3-0	Barnsley
+	15.00		Preston	2-1	West Brom
+	15.00		Sheffield Weds	0-0	Crewe
+	15.00		Stockport	0-1	Crystal Palace
+	15.00		Tranmere	2-2	Nott'm Forest
+	15.00		Wimbledon	0-0	Norwich
+	15.00		Wolves	1-1	QPR
+[Sat Jun/08]
+	15.00		Birmingham	1-3	Fulham
+[Mon Jun/10]
+	15.00		Fulham	3-1	Crystal Palace
+	15.00		Wimbledon	0-2	Blackburn
+[Tue Jun/11]
+	15.00		Barnsley	1-0	Sheffield Weds
+
+Matchday 19
+
+[Tue Jun/11]
+	15.00		Birmingham	3-2	Burnley
+	15.00		Blackburn	1-0	Wolves
+	15.00		Crewe	1-2	Stockport
+	15.00		Crystal Palace	3-2	Tranmere
+	15.00		Fulham	3-1	Portsmouth
+	15.00		Norwich	0-2	Bolton
+	15.00		Nott'm Forest	1-2	Wimbledon
+	15.00		QPR	1-1	Huddersfield
+	15.00		Sheffield United	3-2	Grimsby
+	15.00		Watford	2-3	Preston
+	15.00		West Brom	3-1	Gillingham
+[Wed Jul/03]
+	15.00		Nott'm Forest	1-0	Barnsley
+
+Matchday 20
+
+[Wed Jul/03]
+	15.00		QPR	1-1	Watford
+	15.00		Sheffield Weds	0-0	Portsmouth
+[Thu Jul/04]
+	15.00		Fulham	0-0	West Brom
+	15.00		Gillingham	4-3	Norwich
+	15.00		Grimsby	3-1	Tranmere
+	15.00		Portsmouth	0-2	Nott'm Forest
+	15.00		QPR	1-3	Blackburn
+	15.00		Sheffield United	1-2	Barnsley
+	15.00		Stockport	2-1	Sheffield Weds
+	15.00		Watford	2-2	Crystal Palace
+	15.00		Wimbledon	3-1	Birmingham
+	15.00		Wolves	0-1	Huddersfield
+
+Matchday 21
+
+[Mon Jul/08]
+	15.00		Burnley	1-0	Wimbledon
+	15.00		Crewe	0-0	Blackburn
+	15.00		Norwich	0-0	Nott'm Forest
+	15.00		Portsmouth	1-1	Grimsby
+	15.00		Preston	3-0	Sheffield United
+	15.00		Sheffield Weds	2-3	Huddersfield
+	15.00		Stockport	1-1	Wolves
+	15.00		Tranmere	3-2	Gillingham
+	15.00		Watford	1-0	Barnsley
+	15.00		West Brom	0-2	Bolton
+[Thu Aug/08]
+	15.00		Crystal Palace	1-1	QPR
+[Tue Sep/10]
+	15.00		Blackburn	2-0	Grimsby
+
+Matchday 22
+
+[Tue Sep/10]
+	15.00		Crewe	0-4	Wimbledon
+	15.00		Crystal Palace	2-3	Portsmouth
+	15.00		Gillingham	0-0	Barnsley
+	15.00		Huddersfield	0-0	Preston
+	15.00		Norwich	4-2	Sheffield United
+	15.00		Nott'm Forest	0-2	Watford
+	15.00		QPR	0-1	Burnley
+	15.00		Stockport	4-3	Bolton
+	15.00		Tranmere	2-2	West Brom
+	15.00		Wolves	0-0	Fulham
+[Wed Sep/11]
+	15.00		Burnley	2-0	Norwich
+	15.00		Sheffield United	1-1	Fulham
+
+Matchday 23
+
+[Wed Sep/11]
+	15.00		Wolves	2-0	Grimsby
+[Tue Oct/01]
+	15.00		Blackburn	3-2	Preston
+[Wed Oct/02]
+	15.00		Barnsley	0-0	Fulham
+	15.00		Bolton	2-2	Huddersfield
+	15.00		Burnley	1-2	Crystal Palace
+	15.00		Gillingham	1-0	Grimsby
+	15.00		Norwich	1-1	Crewe
+	15.00		Nott'm Forest	2-1	Blackburn
+	15.00		Preston	5-0	QPR
+	15.00		Sheffield United	3-1	Birmingham
+	15.00		Tranmere	0-2	Wolves
+	15.00		Watford	2-2	Portsmouth
+
+Matchday 24
+
+[Wed Oct/02]
+	15.00		West Brom	1-1	Stockport
+	15.00		Wimbledon	4-1	Sheffield Weds
+[Thu Oct/03]
+	15.00		Barnsley	3-1	Huddersfield
+	15.00		Birmingham	2-0	Crewe
+	15.00		Bolton	3-3	Gillingham
+	15.00		Fulham	2-0	QPR
+	15.00		Grimsby	0-2	Wolves
+	15.00		Portsmouth	2-1	Stockport
+	15.00		Sheffield United	1-3	Nott'm Forest
+	15.00		Watford	4-1	Norwich
+	15.00		West Brom	1-2	Sheffield Weds
+	15.00		Wimbledon	1-0	Crystal Palace
+
+Matchday 25
+
+[Fri Oct/04]
+	15.00		Crewe	2-2	QPR
+	15.00		Preston	0-0	Huddersfield
+	15.00		Sheffield United	1-1	Norwich
+	15.00		Tranmere	1-0	Birmingham
+	15.00		Wimbledon	0-2	Burnley
+[Thu Oct/10]
+	15.00		Sheffield Weds	1-0	Birmingham
+[Sat Oct/12]
+	15.00		Crystal Palace	2-3	Blackburn
+	15.00		Stockport	2-2	Gillingham
+[Mon Nov/04]
+	15.00		Blackburn	1-2	Fulham
+[Sat Nov/09]
+	15.00		Birmingham	2-0	Tranmere
+	15.00		Blackburn	1-1	Bolton
+	15.00		Crewe	2-2	Barnsley
+
+Matchday 26
+
+[Sat Nov/09]
+	15.00		Crystal Palace	0-1	Sheffield United
+	15.00		Fulham	3-0	Gillingham
+	15.00		Grimsby	0-2	Nott'm Forest
+	15.00		Huddersfield	0-1	Burnley
+	15.00		Portsmouth	0-1	West Brom
+	15.00		QPR	2-1	Wimbledon
+	15.00		Sheffield Weds	1-3	Preston
+	15.00		Stockport	2-3	Watford
+[Tue Nov/12]
+	15.00		Birmingham	0-0	QPR
+	15.00		Burnley	0-2	Bolton
+	15.00		Crewe	1-2	Fulham
+	15.00		Norwich	0-0	Barnsley
+
+Matchday 27
+
+[Tue Nov/12]
+	15.00		Portsmouth	0-0	Sheffield United
+	15.00		Preston	1-2	Grimsby
+	15.00		Sheffield Weds	0-1	Wolves
+	15.00		Tranmere	0-4	Wimbledon
+	15.00		Watford	1-2	Huddersfield
+	15.00		West Brom	3-0	Nott'm Forest
+[Mon Dec/09]
+	15.00		Wolves	4-0	Norwich
+[Tue Dec/10]
+	15.00		Barnsley	1-2	Wolves
+	15.00		Crewe	1-0	Huddersfield
+	15.00		Crystal Palace	0-1	Grimsby
+	15.00		Fulham	0-1	Preston
+	15.00		Norwich	0-0	Portsmouth
+
+Matchday 28
+
+[Tue Dec/10]
+	15.00		Sheffield United	1-0	Stockport
+	15.00		Watford	1-0	Bolton
+	15.00		West Brom	3-1	Wimbledon
+[Wed Jan/01]
+	15.00		Barnsley	2-3	Birmingham
+	15.00		Blackburn	2-0	Sheffield Weds
+	15.00		Bolton	2-0	Tranmere
+	15.00		Fulham	2-0	Norwich
+	15.00		Gillingham	0-0	Burnley
+	15.00		Grimsby	1-3	Crewe
+	15.00		Huddersfield	0-0	Stockport
+	15.00		QPR	2-0	West Brom
+	15.00		Sheffield United	0-1	Watford
+
+Matchday 29
+
+[Wed Jan/01]
+	15.00		Wimbledon	3-1	Preston
+	15.00		Wolves	1-1	Portsmouth
+[Thu Jan/02]
+	15.00		Portsmouth	1-2	Bolton
+	15.00		Sheffield Weds	1-0	Tranmere
+	15.00		Stockport	0-1	Preston
+[Fri Jan/03]
+	15.00		Crewe	1-0	Nott'm Forest
+	15.00		Grimsby	1-1	Wimbledon
+	15.00		Watford	0-1	Burnley
+[Sat Jan/04]
+	15.00		Bolton	2-2	Birmingham
+[Wed Jan/08]
+	15.00		Gillingham	1-1	Portsmouth
+[Fri Jan/10]
+	15.00		Birmingham	1-0	Gillingham
+	15.00		Blackburn	3-2	Tranmere
+
+Matchday 30
+
+[Fri Jan/10]
+	15.00		Nott'm Forest	5-0	Burnley
+	15.00		QPR	1-2	Sheffield Weds
+[Sat Jan/11]
+	15.00		Barnsley	1-0	Portsmouth
+	15.00		Birmingham	2-1	Huddersfield
+	15.00		Blackburn	1-2	Gillingham
+	15.00		Crewe	1-0	Sheffield Weds
+	15.00		Crystal Palace	2-2	Stockport
+	15.00		Fulham	2-1	Grimsby
+	15.00		Norwich	1-2	Wimbledon
+	15.00		Nott'm Forest	3-1	Tranmere
+	15.00		QPR	2-2	Wolves
+	15.00		Sheffield United	1-0	Bolton
+
+Matchday 31
+
+[Sat Jan/11]
+	15.00		West Brom	3-1	Preston
+[Sat Feb/01]
+	15.00		Nott'm Forest	0-3	Crystal Palace
+[Mon Feb/03]
+	15.00		Birmingham	0-2	Blackburn
+	15.00		Preston	2-0	Wolves
+	15.00		Tranmere	1-1	Portsmouth
+[Tue Feb/04]
+	15.00		Burnley	1-1	West Brom
+	15.00		Gillingham	4-1	Sheffield United
+	15.00		Grimsby	2-1	Watford
+	15.00		Huddersfield	1-2	Fulham
+	15.00		Portsmouth	1-1	QPR
+	15.00		Preston	1-1	Nott'm Forest
+	15.00		Sheffield Weds	4-1	Crystal Palace
+
+Matchday 32
+
+[Tue Feb/04]
+	15.00		Stockport	0-0	Blackburn
+	15.00		Tranmere	0-1	Norwich
+	15.00		Wimbledon	1-1	Barnsley
+	15.00		Wolves	0-0	Crewe
+[Sat Feb/08]
+	15.00		Barnsley	4-1	West Brom
+	15.00		Blackburn	3-2	Norwich
+	15.00		Bolton	2-0	Preston
+	15.00		Fulham	4-1	Stockport
+	15.00		Grimsby	0-1	Sheffield Weds
+	15.00		Huddersfield	1-2	Crystal Palace
+	15.00		Nott'm Forest	1-2	Birmingham
+	15.00		QPR	1-0	Crewe
+
+Matchday 33
+
+[Sat Feb/08]
+	15.00		Sheffield United	2-0	Tranmere
+	15.00		Wimbledon	0-0	Watford
+	15.00		Wolves	1-0	Burnley
+[Wed Feb/12]
+	15.00		Barnsley	1-0	Burnley
+	15.00		Blackburn	2-1	Birmingham
+	15.00		Bolton	2-0	Sheffield Weds
+	15.00		Fulham	5-0	Watford
+	15.00		Gillingham	4-1	Crystal Palace
+	15.00		Grimsby	1-1	Stockport
+	15.00		Huddersfield	3-0	Tranmere
+	15.00		Nott'm Forest	1-0	Crewe
+	15.00		QPR	2-3	Norwich
+
+Matchday 34
+
+[Wed Feb/12]
+	15.00		Sheffield United	2-0	West Brom
+	15.00		Wimbledon	1-1	Portsmouth
+	15.00		Wolves	0-1	Preston
+[Mon Mar/10]
+	15.00		Preston	1-2	Barnsley
+[Fri Apr/04]
+	15.00		Barnsley	0-4	Preston
+	15.00		Birmingham	0-0	Portsmouth
+	15.00		Blackburn	2-0	Huddersfield
+	15.00		Crewe	2-1	Gillingham
+	15.00		Crystal Palace	0-2	Bolton
+	15.00		Fulham	1-1	Sheffield Weds
+	15.00		Norwich	2-3	Burnley
+	15.00		Nott'm Forest	1-0	Stockport
+
+Matchday 35
+
+[Fri Apr/04]
+	15.00		QPR	2-0	Tranmere
+	15.00		West Brom	0-1	Grimsby
+[Tue Apr/08]
+	15.00		Birmingham	4-1	Barnsley
+	15.00		Burnley	1-1	Gillingham
+	15.00		Crystal Palace	2-3	Nott'm Forest
+	15.00		Norwich	0-1	Fulham
+	15.00		Portsmouth	3-1	Wolves
+	15.00		Preston	1-1	Wimbledon
+	15.00		Sheffield Weds	1-1	Blackburn
+	15.00		Stockport	0-0	Huddersfield
+	15.00		Tranmere	0-1	Bolton
+	15.00		Watford	4-1	Sheffield United
+
+Matchday 36
+
+[Tue Apr/08]
+	15.00		West Brom	2-1	QPR
+[Thu Apr/10]
+	15.00		Bolton	3-3	Crystal Palace
+	15.00		Gillingham	0-1	Crewe
+	15.00		Huddersfield	0-1	Blackburn
+	15.00		Portsmouth	1-1	Birmingham
+	15.00		Sheffield Weds	3-3	Fulham
+	15.00		Stockport	1-2	Nott'm Forest
+	15.00		Tranmere	1-1	QPR
+	15.00		Wimbledon	0-0	Sheffield United
+	15.00		Wolves	2-2	Watford
+[Fri May/02]
+	15.00		Birmingham	2-1	West Brom
+	15.00		Crewe	2-0	Watford
+
+Matchday 37
+
+[Fri May/02]
+	15.00		Crystal Palace	1-1	Norwich
+	15.00		Fulham	1-0	Nott'm Forest
+	15.00		Grimsby	1-0	Burnley
+	15.00		Huddersfield	2-3	Gillingham
+	15.00		QPR	2-0	Barnsley
+[Sat May/03]
+	15.00		Blackburn	1-1	Wimbledon
+	15.00		Crewe	1-0	Portsmouth
+	15.00		Crystal Palace	0-2	Fulham
+	15.00		Huddersfield	2-1	Sheffield United
+	15.00		Norwich	1-2	Preston
+	15.00		Nott'm Forest	0-2	Bolton
+	15.00		QPR	0-1	Grimsby
+
+Matchday 38
+
+[Sat May/03]
+	15.00		Sheffield Weds	2-0	Burnley
+	15.00		Stockport	2-0	Birmingham
+	15.00		Tranmere	2-3	Barnsley
+[Sun May/04]
+	15.00		Sheffield United	0-1	Wimbledon
+	15.00		Watford	3-2	Wolves
+[Thu May/08]
+	15.00		Crewe	2-0	Grimsby
+[Sat May/10]
+	15.00		Grimsby	2-0	West Brom
+[Sun May/11]
+	15.00		Nott'm Forest	2-0	Sheffield United
+[Mon May/12]
+	15.00		Barnsley	0-1	Watford
+[Tue Jun/03]
+	15.00		Wolves	3-1	West Brom
+[Wed Jun/04]
+	15.00		Crewe	2-1	Bolton
+[Mon Jun/09]
+	15.00		Barnsley	2-0	Grimsby
+
+Matchday 39
+
+[Mon Jun/09]
+	15.00		Bolton	0-2	Fulham
+	15.00		Burnley	1-1	Portsmouth
+	15.00		Gillingham	2-0	Sheffield Weds
+	15.00		Norwich	1-1	Huddersfield
+	15.00		Nott'm Forest	0-0	Wolves
+	15.00		Preston	2-0	Crystal Palace
+	15.00		Sheffield United	1-1	QPR
+	15.00		Tranmere	1-3	Crewe
+	15.00		West Brom	1-0	Blackburn
+	15.00		Wimbledon	2-0	Stockport
+[Thu Jun/12]
+	15.00		Blackburn	1-0	Crewe
+	15.00		Bolton	0-1	West Brom
+
+Matchday 40
+
+[Thu Jun/12]
+	15.00		Huddersfield	0-0	Sheffield Weds
+	15.00		Nott'm Forest	0-0	Norwich
+	15.00		QPR	1-1	Crystal Palace
+	15.00		Sheffield United	3-2	Preston
+	15.00		Wolves	3-2	Stockport
+[Thu Jul/10]
+	15.00		Bolton	3-1	QPR
+	15.00		Burnley	1-0	Crewe
+[Fri Aug/01]
+	15.00		Burnley	2-1	Barnsley
+	15.00		Crystal Palace	2-2	Gillingham
+	15.00		Norwich	1-0	QPR
+	15.00		Portsmouth	2-1	Wimbledon
+	15.00		Sheffield Weds	0-3	Bolton
+
+Matchday 41
+
+[Fri Aug/01]
+	15.00		Stockport	1-1	Grimsby
+	15.00		Watford	1-3	Fulham
+	15.00		West Brom	2-1	Sheffield United
+[Sat Aug/02]
+	15.00		Barnsley	1-0	Crystal Palace
+	15.00		Bolton	2-2	Grimsby
+	15.00		Burnley	2-1	Fulham
+	15.00		Gillingham	0-1	QPR
+	15.00		Norwich	4-0	Stockport
+	15.00		Preston	0-2	Birmingham
+	15.00		Sheffield United	1-0	Wolves
+	15.00		Watford	0-1	Blackburn
+	15.00		West Brom	2-2	Crewe
+
+Matchday 42
+
+[Sun Aug/03]
+	15.00		Gillingham	2-1	Tranmere
+	15.00		Grimsby	1-1	Birmingham
+[Tue Sep/02]
+	15.00		Nott'm Forest	0-1	Sheffield Weds
+[Thu Sep/04]
+	15.00		Bolton	1-0	Norwich
+	15.00		Burnley	0-0	Birmingham
+	15.00		Gillingham	1-2	West Brom
+	15.00		Grimsby	0-1	Sheffield United
+	15.00		Huddersfield	2-1	QPR
+	15.00		Portsmouth	1-1	Fulham
+	15.00		Sheffield Weds	2-1	Barnsley
+	15.00		Stockport	3-0	Crewe
+	15.00		Tranmere	1-1	Crystal Palace
+
+Matchday 43
+
+[Thu Sep/04]
+	15.00		Wimbledon	2-1	Nott'm Forest
+	15.00		Wolves	0-0	Blackburn
+[Sat Oct/04]
+	15.00		Preston	3-2	Watford
+[Sun Nov/02]
+	15.00		Bolton	1-4	Blackburn
+[Tue Dec/02]
+	15.00		Barnsley	3-0	Crewe
+	15.00		Burnley	1-0	Huddersfield
+	15.00		Gillingham	0-2	Fulham
+	15.00		Norwich	1-0	Wolves
+	15.00		Nott'm Forest	3-1	Grimsby
+	15.00		Preston	2-0	Sheffield Weds
+	15.00		Sheffield United	1-0	Crystal Palace
+	15.00		Watford	2-2	Stockport
+
+Matchday 44
+
+[Tue Dec/02]
+	15.00		West Brom	2-0	Portsmouth
+	15.00		Wimbledon	5-0	QPR
+[Wed Dec/03]
+	15.00		Birmingham	1-2	Sheffield Weds
+	15.00		Burnley	2-1	QPR
+[Thu Dec/04]
+	15.00		Burnley	2-1	Tranmere
+	15.00		Fulham	2-0	Wolves
+	15.00		Grimsby	1-4	Blackburn
+	15.00		Wimbledon	3-3	Crewe
+[Sat Jan/03]
+	15.00		Barnsley	3-1	Gillingham
+	15.00		West Brom	2-1	Tranmere
+[Sun Mar/01]
+	15.00		Fulham	0-1	Birmingham
+	15.00		Grimsby	2-1	Portsmouth
+
+Matchday 45
+
+[Sun Mar/01]
+	15.00		Norwich	2-1	Watford
+[Mon Mar/02]
+	15.00		Tranmere	2-0	Huddersfield
+[Sat Apr/04]
+	15.00		Barnsley	0-1	Bolton
+	15.00		Birmingham	1-0	Grimsby
+	15.00		Crewe	1-3	Preston
+	15.00		Crystal Palace	0-2	Wolves
+	15.00		Fulham	1-1	Wimbledon
+	15.00		Norwich	1-0	Sheffield Weds
+	15.00		Nott'm Forest	0-1	Gillingham
+	15.00		QPR	0-3	Stockport
+	15.00		Sheffield United	2-0	Burnley
+	15.00		Watford	1-1	Tranmere
+
+Matchday 46
+
+[Sat Apr/04]
+	15.00		West Brom	1-1	Huddersfield
+[Mon May/04]
+	15.00		Blackburn	3-1	Portsmouth
+[Wed Jun/03]
+	15.00		Tranmere	1-4	Fulham
+[Wed Jul/01]
+	15.00		QPR	0-2	Fulham
+[Fri Jul/03]
+	15.00		Barnsley	0-2	Stockport
+	15.00		Bolton	2-2	Wimbledon
+	15.00		Crystal Palace	1-0	Crewe
+	15.00		Huddersfield	4-1	Portsmouth
+	15.00		Norwich	2-1	Grimsby
+	15.00		Nott'm Forest	1-1	QPR
+	15.00		Preston	0-0	Gillingham
+	15.00		West Brom	3-0	Watford
+

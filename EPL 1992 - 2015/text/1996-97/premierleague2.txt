@@ -1,0 +1,815 @@
+############################
+# Premier League 1996-1997
+
+Matchday 1
+
+[Wed Jan/10]
+	15.00		Bournemouth	0-1	Walsall
+	15.00		Bristol City	1-2	Brentford
+	15.00		Bury	1-0	Burnley
+	15.00		Chesterfield	2-1	Shrewsbury
+	15.00		Crewe	3-2	Blackpool
+	15.00		Gillingham	1-0	Notts County
+	15.00		Plymouth	1-1	Peterboro
+	15.00		Watford	1-0	Preston
+	15.00		Wycombe	4-2	Rotherham
+	15.00		York	2-2	Bristol Rvs
+[Sat Feb/10]
+	15.00		Millwall	3-4	Stockport
+[Sun Feb/11]
+	15.00		Bournemouth	1-1	Bury
+
+Matchday 2
+
+[Sun Feb/11]
+	15.00		Bristol Rvs	0-0	Gillingham
+	15.00		Crewe	3-0	Wycombe
+	15.00		Millwall	1-0	Walsall
+	15.00		Notts County	1-2	Shrewsbury
+	15.00		Peterboro	0-0	Blackpool
+	15.00		Plymouth	3-3	Luton
+	15.00		Preston	0-0	Rotherham
+	15.00		Stockport	1-1	Bristol City
+	15.00		Watford	2-0	Brentford
+	15.00		Wrexham	3-2	Chesterfield
+	15.00		York	1-0	Burnley
+[Tue Mar/12]
+	15.00		Blackpool	2-2	Plymouth
+
+Matchday 3
+
+[Tue Mar/12]
+	15.00		Brentford	2-0	Notts County
+	15.00		Bristol City	1-1	Watford
+	15.00		Burnley	2-0	Wrexham
+	15.00		Bury	3-0	Preston
+	15.00		Chesterfield	2-1	Peterboro
+	15.00		Gillingham	2-1	Crewe
+	15.00		Luton	2-0	York
+	15.00		Rotherham	0-1	Stockport
+	15.00		Shrewsbury	1-1	Bournemouth
+	15.00		Walsall	1-0	Bristol Rvs
+	15.00		Wycombe	1-0	Millwall
+[Wed Apr/10]
+	15.00		Bristol Rvs	2-0	Crewe
+
+Matchday 4
+
+[Fri May/10]
+	15.00		Brentford	4-2	Rotherham
+	15.00		Burnley	5-2	Stockport
+	15.00		Bury	1-0	Blackpool
+	15.00		Chesterfield	1-1	Bristol City
+	15.00		Gillingham	1-1	Bournemouth
+	15.00		Luton	3-1	Walsall
+	15.00		Plymouth	0-0	Millwall
+	15.00		Preston	3-4	Peterboro
+	15.00		Wycombe	1-0	Notts County
+	15.00		York	1-2	Watford
+[Tue Jul/09]
+	15.00		Blackpool	2-1	Walsall
+	15.00		Bournemouth	0-1	Crewe
+
+Matchday 5
+
+[Tue Jul/09]
+	15.00		Bristol City	2-1	Preston
+	15.00		Bury	3-1	Rotherham
+	15.00		Chesterfield	0-2	Brentford
+	15.00		Gillingham	1-0	Burnley
+	15.00		Millwall	2-0	Bristol Rvs
+	15.00		Plymouth	0-0	Notts County
+	15.00		Watford	1-0	Stockport
+	15.00		Wrexham	1-1	Peterboro
+	15.00		Wycombe	0-1	Luton
+	15.00		York	0-0	Shrewsbury
+[Sat Aug/10]
+	15.00		Peterboro	1-3	Notts County
+	15.00		Wrexham	2-1	Shrewsbury
+
+Matchday 6
+
+[Wed Sep/11]
+	15.00		Blackpool	1-1	Bournemouth
+	15.00		Brentford	2-2	Stockport
+	15.00		Bristol City	1-1	Millwall
+	15.00		Burnley	2-0	Crewe
+	15.00		Bury	4-1	York
+	15.00		Chesterfield	2-1	Preston
+	15.00		Gillingham	1-2	Wrexham
+	15.00		Luton	2-0	Notts County
+	15.00		Rotherham	0-0	Watford
+	15.00		Walsall	4-0	Peterboro
+	15.00		Wycombe	2-1	Plymouth
+[Wed Oct/09]
+	15.00		Brentford	3-2	Plymouth
+
+Matchday 7
+
+[Wed Oct/09]
+	15.00		Bristol Rvs	3-2	Bournemouth
+	15.00		Burnley	2-0	Blackpool
+	15.00		Crewe	2-0	Bury
+	15.00		Luton	2-1	Gillingham
+	15.00		Notts County	2-3	Watford
+	15.00		Peterboro	3-3	Millwall
+	15.00		Preston	1-0	York
+	15.00		Rotherham	0-1	Chesterfield
+	15.00		Shrewsbury	1-0	Bristol City
+	15.00		Stockport	0-2	Wrexham
+	15.00		Walsall	2-2	Wycombe
+[Sun Nov/10]
+	15.00		Bristol City	2-0	York
+
+Matchday 8
+
+[Tue Dec/10]
+	15.00		Blackpool	2-0	Gillingham
+	15.00		Bournemouth	2-1	Wycombe
+	15.00		Crewe	2-0	Brentford
+	15.00		Millwall	2-1	Chesterfield
+	15.00		Notts County	1-1	Bristol Rvs
+	15.00		Peterboro	1-2	Bury
+	15.00		Rotherham	1-0	Burnley
+	15.00		Shrewsbury	0-3	Luton
+	15.00		Stockport	1-0	Preston
+	15.00		Walsall	0-1	Plymouth
+	15.00		Watford	1-1	Wrexham
+[Wed Dec/11]
+	15.00		Shrewsbury	2-0	Bristol Rvs
+
+Matchday 9
+
+[Wed Jan/01]
+	15.00		Shrewsbury	1-3	Blackpool
+[Thu Jan/02]
+	15.00		Bournemouth	0-0	Blackpool
+	15.00		Bristol Rvs	2-0	Shrewsbury
+	15.00		Crewe	1-1	Burnley
+	15.00		Millwall	0-2	Bristol City
+	15.00		Notts County	1-2	Luton
+	15.00		Peterboro	0-1	Walsall
+	15.00		Plymouth	0-0	Wycombe
+	15.00		Preston	0-1	Chesterfield
+	15.00		Stockport	1-2	Brentford
+	15.00		Watford	2-0	Rotherham
+	15.00		Wrexham	1-1	Gillingham
+
+Matchday 10
+
+[Thu Jan/02]
+	15.00		York	0-2	Bury
+[Fri Jan/03]
+	15.00		Bournemouth	0-0	Shrewsbury
+	15.00		Bristol Rvs	0-1	Walsall
+	15.00		Crewe	3-2	Gillingham
+	15.00		Millwall	2-1	Wycombe
+	15.00		Notts County	1-1	Brentford
+	15.00		Peterboro	1-1	Chesterfield
+	15.00		Plymouth	0-1	Blackpool
+	15.00		Preston	3-1	Bury
+	15.00		Stockport	0-0	Rotherham
+	15.00		Watford	3-0	Bristol City
+	15.00		Wrexham	0-0	Burnley
+
+Matchday 11
+
+[Fri Jan/03]
+	15.00		York	1-1	Luton
+[Sat Jan/04]
+	15.00		Bournemouth	0-0	Stockport
+	15.00		Luton	2-2	Bristol City
+	15.00		Shrewsbury	2-1	Burnley
+	15.00		Walsall	1-1	Chesterfield
+[Sun Jan/12]
+	15.00		Preston	3-0	Blackpool
+[Tue Feb/04]
+	15.00		Millwall	1-1	York
+[Sun Feb/09]
+	15.00		Brentford	1-1	Blackpool
+	15.00		Bristol Rvs	0-1	Watford
+	15.00		Burnley	2-1	Wycombe
+	15.00		Crewe	3-1	Wrexham
+	15.00		Luton	0-1	Chesterfield
+
+Matchday 12
+
+[Sun Feb/09]
+	15.00		Notts County	1-2	Millwall
+	15.00		Peterboro	2-2	York
+	15.00		Preston	0-1	Bournemouth
+	15.00		Rotherham	2-2	Bristol City
+	15.00		Shrewsbury	1-1	Bury
+	15.00		Stockport	3-1	Plymouth
+	15.00		Walsall	1-0	Gillingham
+[Wed Feb/12]
+	15.00		Bournemouth	1-1	Millwall
+	15.00		Burnley	1-2	Brentford
+	15.00		Gillingham	2-2	Bury
+	15.00		Luton	6-0	Crewe
+	15.00		Notts County	0-0	Rotherham
+
+Matchday 13
+
+[Wed Feb/12]
+	15.00		Plymouth	2-2	Shrewsbury
+	15.00		Stockport	0-0	Peterboro
+	15.00		Walsall	1-1	Watford
+	15.00		Wycombe	1-0	Chesterfield
+	15.00		York	1-0	Wrexham
+[Wed Mar/05]
+	15.00		Brentford	0-1	Peterboro
+	15.00		Bristol Rvs	1-2	Rotherham
+	15.00		Burnley	4-1	Watford
+	15.00		Bury	2-0	Millwall
+	15.00		Chesterfield	1-0	Notts County
+	15.00		Gillingham	2-0	Shrewsbury
+	15.00		Luton	1-1	Stockport
+
+Matchday 14
+
+[Wed Mar/05]
+	15.00		Plymouth	0-0	Bournemouth
+	15.00		Preston	2-0	Walsall
+	15.00		Wrexham	2-1	Blackpool
+	15.00		Wycombe	2-0	Bristol City
+	15.00		York	1-1	Crewe
+[Mon Mar/10]
+	15.00		Blackpool	3-3	Wrexham
+	15.00		Bournemouth	1-0	Plymouth
+	15.00		Bristol City	3-0	Wycombe
+	15.00		Crewe	0-1	York
+	15.00		Notts County	0-0	Chesterfield
+	15.00		Peterboro	0-1	Brentford
+	15.00		Rotherham	0-0	Bristol Rvs
+
+Matchday 15
+
+[Mon Mar/10]
+	15.00		Shrewsbury	1-2	Gillingham
+	15.00		Stockport	1-1	Luton
+	15.00		Walsall	1-0	Preston
+	15.00		Watford	2-2	Burnley
+[Wed Mar/12]
+	15.00		Bristol City	1-1	Bristol Rvs
+[Wed Apr/02]
+	15.00		Notts County	0-2	Bournemouth
+[Thu Apr/03]
+	15.00		Brentford	0-0	Wycombe
+	15.00		Bury	2-0	Shrewsbury
+	15.00		Chesterfield	1-1	Luton
+	15.00		Peterboro	2-1	Watford
+	15.00		Walsall	2-0	Bristol City
+[Thu Apr/10]
+	15.00		Millwall	1-0	Bury
+
+Matchday 16
+
+[Sun May/04]
+	15.00		Brentford	0-0	Shrewsbury
+	15.00		Bristol City	1-0	Bury
+	15.00		Burnley	1-0	Millwall
+	15.00		Chesterfield	2-2	Gillingham
+	15.00		Peterboro	3-1	Bournemouth
+	15.00		Preston	1-1	Plymouth
+	15.00		Rotherham	0-3	Luton
+	15.00		Stockport	1-0	Bristol Rvs
+	15.00		Watford	0-1	Crewe
+	15.00		Wrexham	1-2	Walsall
+	15.00		Wycombe	1-0	Blackpool
+	15.00		York	1-2	Notts County
+
+Matchday 17
+
+[Thu May/08]
+	15.00		Blackpool	0-1	Chesterfield
+	15.00		Bournemouth	1-2	Watford
+	15.00		Bristol Rvs	1-0	Peterboro
+	15.00		Bury	1-1	Brentford
+	15.00		Crewe	1-0	Stockport
+	15.00		Gillingham	3-2	Bristol City
+	15.00		Luton	1-2	Burnley
+	15.00		Millwall	1-1	Wrexham
+	15.00		Notts County	2-1	Preston
+	15.00		Plymouth	2-1	York
+	15.00		Walsall	1-1	Rotherham
+[Fri May/09]
+	15.00		Wrexham	1-0	Bristol Rvs
+
+Matchday 18
+
+[Sun Jun/08]
+	15.00		Shrewsbury	1-1	Wycombe
+[Thu Jun/12]
+	15.00		Millwall	0-1	Luton
+[Wed Jul/02]
+	15.00		Bristol City	1-1	Stockport
+[Thu Jul/10]
+	15.00		Brentford	1-1	Walsall
+	15.00		Bristol Rvs	0-0	Blackpool
+	15.00		Burnley	1-0	Notts County
+	15.00		Bury	1-1	Watford
+	15.00		Chesterfield	1-0	Crewe
+	15.00		Gillingham	2-3	Millwall
+	15.00		Luton	3-0	Peterboro
+	15.00		Plymouth	0-0	Bristol City
+	15.00		Preston	2-1	Shrewsbury
+
+Matchday 19
+
+[Thu Jul/10]
+	15.00		Wrexham	2-0	Bournemouth
+	15.00		Wycombe	0-2	Stockport
+	15.00		York	2-1	Rotherham
+[Fri Jul/11]
+	15.00		Bournemouth	2-1	Brentford
+	15.00		Bristol Rvs	1-2	Burnley
+	15.00		Peterboro	0-1	Gillingham
+	15.00		Plymouth	0-3	Chesterfield
+	15.00		Preston	3-2	Luton
+	15.00		Stockport	1-0	Blackpool
+	15.00		Watford	1-0	Wycombe
+[Sat Aug/02]
+	15.00		Blackpool	5-1	Peterboro
+	15.00		Brentford	1-1	Watford
+
+Matchday 20
+
+[Sat Aug/02]
+	15.00		Burnley	1-2	York
+	15.00		Bury	2-1	Bournemouth
+	15.00		Chesterfield	0-0	Wrexham
+	15.00		Gillingham	1-0	Bristol Rvs
+	15.00		Luton	2-2	Plymouth
+	15.00		Rotherham	0-1	Preston
+	15.00		Shrewsbury	2-1	Notts County
+	15.00		Walsall	2-1	Millwall
+	15.00		Wycombe	2-0	Crewe
+[Sun Aug/03]
+	15.00		Burnley	5-0	Peterboro
+	15.00		Gillingham	3-1	Watford
+	15.00		Luton	0-2	Millwall
+
+Matchday 21
+
+[Sun Aug/03]
+	15.00		Notts County	0-1	Crewe
+	15.00		Plymouth	1-0	Rotherham
+	15.00		Preston	1-0	Brentford
+	15.00		Stockport	2-1	Bury
+	15.00		Walsall	2-2	Shrewsbury
+	15.00		Wycombe	2-0	Bristol Rvs
+	15.00		York	1-0	Blackpool
+[Mon Aug/04]
+	15.00		Bristol Rvs	1-0	Millwall
+	15.00		Bury	2-1	Walsall
+	15.00		Chesterfield	0-0	Watford
+	15.00		Luton	0-0	Wycombe
+	15.00		Plymouth	0-0	Stockport
+
+Matchday 22
+
+[Mon Aug/04]
+	15.00		Wrexham	1-0	Rotherham
+	15.00		York	1-0	Peterboro
+[Mon Aug/11]
+	15.00		Millwall	2-1	Shrewsbury
+[Tue Aug/12]
+	15.00		Crewe	3-0	Notts County
+	15.00		Peterboro	3-2	Burnley
+	15.00		Shrewsbury	2-2	Walsall
+[Tue Sep/09]
+	15.00		Blackpool	1-1	Shrewsbury
+	15.00		Bournemouth	0-1	Notts County
+	15.00		Bristol City	4-1	Walsall
+	15.00		Bury	0-0	Luton
+	15.00		Chesterfield	0-0	Burnley
+	15.00		Gillingham	3-1	Rotherham
+
+Matchday 23
+
+[Tue Sep/09]
+	15.00		Millwall	2-0	Crewe
+	15.00		Plymouth	0-1	Bristol Rvs
+	15.00		Watford	0-0	Peterboro
+	15.00		Wrexham	1-0	Preston
+	15.00		Wycombe	0-1	Brentford
+	15.00		York	1-2	Stockport
+[Fri Sep/12]
+	15.00		Blackpool	3-0	York
+	15.00		Brentford	0-0	Preston
+	15.00		Bristol Rvs	3-4	Wycombe
+	15.00		Bury	0-0	Stockport
+	15.00		Chesterfield	1-1	Bournemouth
+	15.00		Rotherham	1-2	Plymouth
+
+Matchday 24
+
+[Fri Sep/12]
+	15.00		Watford	0-0	Gillingham
+	15.00		Wrexham	2-1	Bristol City
+[Sat Nov/01]
+	15.00		Bournemouth	1-1	Rotherham
+	15.00		Bristol City	2-1	Burnley
+	15.00		Chesterfield	1-0	Bristol Rvs
+	15.00		Millwall	3-2	Preston
+	15.00		Plymouth	1-0	Crewe
+	15.00		Wrexham	3-3	Notts County
+	15.00		York	2-4	Brentford
+[Sun Nov/02]
+	15.00		Bournemouth	2-0	Preston
+	15.00		Peterboro	0-1	Wrexham
+	15.00		York	0-2	Walsall
+
+Matchday 25
+
+[Mon Nov/03]
+	15.00		Bournemouth	3-0	Chesterfield
+[Tue Nov/04]
+	15.00		Rotherham	0-1	Brentford
+[Tue Nov/11]
+	15.00		Blackpool	1-0	Notts County
+	15.00		Brentford	2-0	Wrexham
+	15.00		Bristol City	2-0	Peterboro
+	15.00		Burnley	1-0	Bournemouth
+	15.00		Bury	1-0	Plymouth
+	15.00		Gillingham	0-1	York
+	15.00		Luton	2-1	Bristol Rvs
+	15.00		Rotherham	0-0	Millwall
+	15.00		Shrewsbury	3-2	Stockport
+	15.00		Walsall	1-0	Crewe
+
+Matchday 26
+
+[Tue Nov/11]
+	15.00		Wycombe	0-1	Preston
+[Wed Dec/03]
+	15.00		Wrexham	2-1	Luton
+[Thu Dec/04]
+	15.00		Blackpool	2-0	Bury
+	15.00		Bournemouth	2-2	Gillingham
+	15.00		Crewe	1-0	Bristol Rvs
+	15.00		Millwall	0-0	Plymouth
+	15.00		Notts County	1-2	Wycombe
+	15.00		Peterboro	2-0	Preston
+	15.00		Shrewsbury	0-1	Wrexham
+	15.00		Stockport	1-0	Burnley
+	15.00		Walsall	3-2	Luton
+	15.00		Watford	4-0	York
+
+Matchday 27
+
+[Mon Dec/08]
+	15.00		Brentford	3-2	Luton
+	15.00		Bristol City	0-1	Blackpool
+	15.00		Burnley	2-1	Walsall
+	15.00		Chesterfield	1-2	Bury
+	15.00		Peterboro	2-2	Crewe
+	15.00		Preston	0-0	Bristol Rvs
+	15.00		Rotherham	1-2	Shrewsbury
+	15.00		Stockport	0-0	Notts County
+	15.00		Watford	0-2	Millwall
+	15.00		Wrexham	4-4	Plymouth
+	15.00		Wycombe	1-1	Gillingham
+	15.00		York	1-2	Bournemouth
+
+Matchday 28
+
+[Tue Dec/09]
+	15.00		Walsall	0-1	Wrexham
+[Wed Feb/04]
+	15.00		Stockport	1-0	Watford
+[Tue Feb/10]
+	15.00		Blackpool	1-1	Watford
+	15.00		Brentford	0-0	Millwall
+	15.00		Bristol City	4-0	Notts County
+	15.00		Burnley	2-1	Plymouth
+	15.00		Bury	2-1	Bristol Rvs
+	15.00		Chesterfield	2-0	York
+	15.00		Gillingham	1-1	Preston
+	15.00		Luton	2-0	Bournemouth
+	15.00		Rotherham	2-0	Peterboro
+	15.00		Shrewsbury	0-1	Crewe
+
+Matchday 29
+
+[Tue Feb/10]
+	15.00		Walsall	1-1	Stockport
+	15.00		Wycombe	0-0	Wrexham
+[Thu Feb/12]
+	15.00		Bournemouth	1-0	Bristol Rvs
+	15.00		Bristol City	3-2	Shrewsbury
+	15.00		Gillingham	1-2	Luton
+	15.00		Millwall	0-2	Peterboro
+	15.00		Plymouth	1-4	Brentford
+	15.00		Watford	0-0	Notts County
+	15.00		Wrexham	2-3	Stockport
+	15.00		Wycombe	0-2	Walsall
+[Mon Mar/02]
+	15.00		Bournemouth	0-0	Burnley
+	15.00		Bristol Rvs	3-2	Luton
+
+Matchday 30
+
+[Mon Mar/02]
+	15.00		Crewe	1-0	Walsall
+	15.00		Millwall	2-0	Rotherham
+	15.00		Notts County	1-1	Blackpool
+	15.00		Peterboro	3-1	Bristol City
+	15.00		Plymouth	2-0	Bury
+	15.00		Preston	2-1	Wycombe
+	15.00		Stockport	3-1	Shrewsbury
+	15.00		York	2-3	Gillingham
+[Tue Mar/03]
+	15.00		Blackpool	2-1	Preston
+	15.00		Brentford	0-3	Burnley
+	15.00		Bury	3-0	Gillingham
+	15.00		Chesterfield	4-2	Wycombe
+
+Matchday 31
+
+[Tue Mar/03]
+	15.00		Crewe	0-0	Luton
+	15.00		Millwall	0-1	Bournemouth
+	15.00		Peterboro	0-2	Stockport
+	15.00		Rotherham	2-2	Notts County
+	15.00		Shrewsbury	2-3	Plymouth
+	15.00		Watford	1-0	Walsall
+	15.00		Wrexham	0-0	York
+[Wed Mar/04]
+	15.00		Blackpool	0-0	Luton
+	15.00		Brentford	1-0	Chesterfield
+	15.00		Bristol City	2-1	Wrexham
+	15.00		Bury	1-0	Crewe
+	15.00		Notts County	2-1	Plymouth
+
+Matchday 32
+
+[Wed Mar/04]
+	15.00		Wycombe	5-0	Burnley
+[Sun Mar/08]
+	15.00		Brentford	2-0	Gillingham
+	15.00		Bristol City	5-0	Luton
+	15.00		Burnley	1-3	Shrewsbury
+	15.00		Chesterfield	1-0	Walsall
+	15.00		Preston	2-1	Crewe
+	15.00		Rotherham	1-2	Blackpool
+	15.00		Stockport	0-1	Bournemouth
+	15.00		Watford	0-2	Plymouth
+	15.00		Wycombe	0-1	Bury
+	15.00		York	3-2	Millwall
+[Fri Apr/03]
+	15.00		Bristol Rvs	1-2	Bristol City
+
+Matchday 33
+
+[Sat Apr/04]
+	15.00		Gillingham	1-0	Stockport
+[Thu Apr/09]
+	15.00		Brentford	3-3	York
+	15.00		Bristol Rvs	2-0	Chesterfield
+	15.00		Burnley	2-3	Bristol City
+	15.00		Crewe	3-0	Plymouth
+	15.00		Luton	1-0	Blackpool
+	15.00		Notts County	0-0	Wrexham
+	15.00		Peterboro	6-3	Wycombe
+	15.00		Preston	2-1	Millwall
+	15.00		Rotherham	1-0	Bournemouth
+	15.00		Shrewsbury	1-0	Watford
+	15.00		Stockport	2-1	Gillingham
+
+Matchday 34
+
+[Thu Apr/09]
+	15.00		Walsall	3-1	Bury
+[Sun Apr/12]
+	15.00		Burnley	5-1	Gillingham
+	15.00		Crewe	2-0	Bournemouth
+	15.00		Preston	0-2	Bristol City
+	15.00		Rotherham	1-1	Bury
+	15.00		Shrewsbury	2-0	York
+[Fri May/01]
+	15.00		Burnley	3-1	Bury
+[Sun May/10]
+	15.00		Bournemouth	0-2	Bristol City
+	15.00		Bristol Rvs	2-1	Brentford
+	15.00		Crewe	1-0	Rotherham
+	15.00		Notts County	2-0	Walsall
+	15.00		Peterboro	2-2	Shrewsbury
+
+Matchday 35
+
+[Sun May/10]
+	15.00		Plymouth	2-0	Gillingham
+	15.00		Preston	1-1	Burnley
+	15.00		Stockport	1-0	Chesterfield
+	15.00		Watford	1-1	Luton
+	15.00		Wrexham	1-1	Bury
+	15.00		York	2-0	Wycombe
+[Mon May/11]
+	15.00		Millwall	0-0	Brentford
+[Mon Jun/01]
+	15.00		Blackpool	1-2	Crewe
+	15.00		Brentford	0-0	Bristol City
+	15.00		Bristol Rvs	1-1	York
+	15.00		Luton	0-0	Wrexham
+	15.00		Notts County	1-1	Gillingham
+
+Matchday 36
+
+[Mon Jun/01]
+	15.00		Peterboro	0-0	Plymouth
+	15.00		Preston	1-1	Watford
+	15.00		Rotherham	2-1	Wycombe
+	15.00		Shrewsbury	2-0	Chesterfield
+	15.00		Stockport	5-1	Millwall
+	15.00		Walsall	2-1	Bournemouth
+[Tue Jun/02]
+	15.00		Chesterfield	1-1	Rotherham
+[Wed Jun/03]
+	15.00		Bristol City	0-2	Rotherham
+	15.00		Crewe	0-0	Millwall
+	15.00		Preston	2-1	Wrexham
+	15.00		Walsall	1-1	Blackpool
+	15.00		Watford	1-0	Bristol Rvs
+
+Matchday 37
+
+[Mon Jun/08]
+	15.00		Plymouth	2-1	Preston
+[Wed Jun/10]
+	15.00		Millwall	2-1	Blackpool
+[Thu Jun/11]
+	15.00		Bournemouth	3-2	Luton
+	15.00		Bristol Rvs	4-3	Bury
+	15.00		Crewe	5-1	Shrewsbury
+	15.00		Notts County	2-0	Bristol City
+	15.00		Peterboro	6-2	Rotherham
+	15.00		Plymouth	0-0	Burnley
+	15.00		Preston	1-0	Gillingham
+	15.00		Stockport	2-0	Walsall
+	15.00		Watford	2-2	Blackpool
+	15.00		Wrexham	2-0	Wycombe
+
+Matchday 38
+
+[Thu Jun/11]
+	15.00		York	0-0	Chesterfield
+[Sat Jul/04]
+	15.00		Brentford	0-2	Crewe
+	15.00		Burnley	3-3	Rotherham
+	15.00		Bury	1-0	Peterboro
+	15.00		Chesterfield	1-0	Millwall
+	15.00		Gillingham	2-3	Blackpool
+	15.00		Luton	2-0	Shrewsbury
+	15.00		Plymouth	2-0	Walsall
+	15.00		Preston	1-0	Stockport
+	15.00		Wrexham	3-1	Watford
+	15.00		Wycombe	1-1	Bournemouth
+	15.00		York	0-3	Bristol City
+
+Matchday 39
+
+[Wed Jul/08]
+	15.00		Blackpool	0-0	Wycombe
+	15.00		Bournemouth	1-2	Peterboro
+	15.00		Bristol Rvs	1-1	Stockport
+	15.00		Bury	4-0	Bristol City
+	15.00		Crewe	0-2	Watford
+	15.00		Gillingham	0-1	Chesterfield
+	15.00		Luton	1-0	Rotherham
+	15.00		Millwall	2-1	Burnley
+	15.00		Notts County	0-1	York
+	15.00		Shrewsbury	0-3	Brentford
+[Tue Aug/04]
+	15.00		Bristol Rvs	1-0	Notts County
+[Tue Sep/01]
+	15.00		Brentford	0-0	Bristol Rvs
+
+Matchday 40
+
+[Thu Sep/03]
+	15.00		Luton	1-0	Brentford
+[Fri Oct/02]
+	15.00		Blackpool	2-1	Stockport
+	15.00		Brentford	1-0	Bournemouth
+	15.00		Bristol City	3-0	Crewe
+	15.00		Burnley	2-2	Bristol Rvs
+	15.00		Bury	2-0	Notts County
+	15.00		Chesterfield	1-2	Plymouth
+	15.00		Gillingham	2-1	Peterboro
+	15.00		Luton	5-1	Preston
+	15.00		Rotherham	0-0	Wrexham
+	15.00		Shrewsbury	1-1	Millwall
+	15.00		Walsall	1-1	York
+
+Matchday 41
+
+[Fri Oct/02]
+	15.00		Wycombe	0-0	Watford
+[Sat Oct/03]
+	15.00		Blackpool	1-0	Bristol City
+	15.00		Bournemouth	1-1	York
+	15.00		Bury	1-0	Chesterfield
+	15.00		Crewe	1-1	Peterboro
+	15.00		Gillingham	1-0	Wycombe
+	15.00		Millwall	0-1	Watford
+	15.00		Notts County	1-2	Stockport
+	15.00		Plymouth	0-1	Wrexham
+	15.00		Shrewsbury	0-2	Rotherham
+	15.00		Walsall	1-3	Burnley
+[Sun Oct/04]
+	15.00		Blackpool	1-0	Brentford
+
+Matchday 42
+
+[Sun Oct/04]
+	15.00		Luton	0-0	Bury
+	15.00		Stockport	2-1	York
+	15.00		Wrexham	1-1	Crewe
+[Tue Nov/03]
+	15.00		Bristol Rvs	1-0	Preston
+[Fri Dec/04]
+	15.00		Watford	0-2	Chesterfield
+[Fri Jan/01]
+	15.00		Blackpool	3-0	Millwall
+	15.00		Bristol City	0-1	Bournemouth
+	15.00		Burnley	1-2	Preston
+	15.00		Gillingham	4-1	Plymouth
+	15.00		Rotherham	1-4	Crewe
+	15.00		Shrewsbury	2-2	Peterboro
+	15.00		Walsall	3-1	Notts County
+
+Matchday 43
+
+[Fri Jan/01]
+	15.00		Wycombe	3-1	York
+[Sat Jan/02]
+	15.00		Blackpool	1-3	Burnley
+	15.00		Bristol Rvs	2-0	Plymouth
+	15.00		Bury	0-0	Wrexham
+	15.00		Millwall	1-0	Notts County
+	15.00		Watford	2-0	Shrewsbury
+	15.00		Wycombe	2-0	Peterboro
+	15.00		York	3-1	Preston
+[Sun Jan/03]
+	15.00		Crewe	1-2	Bristol City
+	15.00		Notts County	0-1	Bury
+	15.00		Rotherham	1-2	Gillingham
+	15.00		Wrexham	0-2	Brentford
+
+Matchday 44
+
+[Thu Feb/04]
+	15.00		Blackpool	3-2	Bristol Rvs
+	15.00		Bournemouth	2-1	Wrexham
+	15.00		Bristol City	3-1	Plymouth
+	15.00		Crewe	1-2	Chesterfield
+	15.00		Millwall	0-2	Gillingham
+	15.00		Notts County	1-1	Burnley
+	15.00		Peterboro	0-1	Luton
+	15.00		Rotherham	0-2	York
+	15.00		Shrewsbury	0-2	Preston
+	15.00		Stockport	2-1	Wycombe
+	15.00		Walsall	1-0	Brentford
+	15.00		Watford	0-0	Bury
+
+Matchday 45
+
+[Mon Mar/01]
+	15.00		Luton	0-0	Watford
+[Thu Apr/01]
+	15.00		Burnley	0-0	Chesterfield
+[Sat Apr/03]
+	15.00		Wrexham	3-3	Millwall
+[Sun Apr/04]
+	15.00		Chesterfield	0-1	Stockport
+[Mon May/03]
+	15.00		Brentford	0-2	Bury
+	15.00		Bristol City	0-1	Gillingham
+	15.00		Burnley	0-2	Luton
+	15.00		Chesterfield	0-0	Blackpool
+	15.00		Peterboro	1-2	Bristol Rvs
+	15.00		Preston	2-0	Notts County
+	15.00		Rotherham	1-2	Walsall
+	15.00		Stockport	1-0	Crewe
+
+Matchday 46
+
+[Mon May/03]
+	15.00		Watford	0-1	Bournemouth
+	15.00		Wycombe	3-0	Shrewsbury
+	15.00		York	1-1	Plymouth
+[Tue May/04]
+	15.00		Gillingham	2-0	Walsall
+[Fri Jun/04]
+	15.00		Bristol City	2-0	Chesterfield
+[Sat Jul/03]
+	15.00		Blackpool	4-1	Rotherham
+	15.00		Bristol Rvs	2-0	Wrexham
+	15.00		Bury	2-0	Wycombe
+	15.00		Crewe	1-0	Preston
+	15.00		Gillingham	1-2	Brentford
+	15.00		Notts County	0-0	Peterboro
+	15.00		Plymouth	0-0	Watford
+

@@ -1,0 +1,819 @@
+############################
+# Premier League 2006-2007
+
+Matchday 1
+
+[Tue Jan/09]
+	15.00		Gillingham	0-2	Scunthorpe
+	15.00		Rotherham	1-2	Northampton
+	15.00		Swansea	1-1	Yeovil
+[Fri Feb/09]
+	15.00		Bournemouth	3-2	Oldham
+	15.00		Brentford	2-1	Bradford
+	15.00		Bristol City	1-0	Brighton
+	15.00		Crewe	2-0	Huddersfield
+	15.00		Millwall	0-0	Blackpool
+	15.00		Nott'm Forest	4-0	Chesterfield
+	15.00		Tranmere	3-0	Leyton Orient
+[Mon Feb/12]
+	15.00		Rotherham	3-2	Yeovil
+[Fri Mar/09]
+	15.00		Carlisle	2-0	Cheltenham
+
+Matchday 2
+
+[Fri Mar/09]
+	15.00		Port Vale	1-2	Doncaster
+[Sun Mar/11]
+	15.00		Swansea	4-2	Bournemouth
+	15.00		Tranmere	3-1	Millwall
+[Wed Apr/11]
+	15.00		Bradford	2-3	Brighton
+	15.00		Carlisle	1-1	Rotherham
+	15.00		Cheltenham	1-2	Oldham
+	15.00		Crewe	2-1	Port Vale
+	15.00		Doncaster	0-0	Leyton Orient
+	15.00		Gillingham	2-1	Chesterfield
+	15.00		Huddersfield	1-1	Scunthorpe
+	15.00		Northampton	1-1	Blackpool
+	15.00		Nott'm Forest	2-0	Brentford
+
+Matchday 3
+
+[Wed Apr/11]
+	15.00		Yeovil	2-1	Bristol City
+[Tue May/08]
+	15.00		Bournemouth	0-3	Chesterfield
+	15.00		Brentford	1-0	Blackpool
+	15.00		Bristol City	1-0	Scunthorpe
+	15.00		Carlisle	1-0	Doncaster
+	15.00		Crewe	2-2	Northampton
+	15.00		Gillingham	2-1	Huddersfield
+	15.00		Millwall	1-1	Yeovil
+	15.00		Nott'm Forest	1-0	Bradford
+	15.00		Port Vale	3-0	Leyton Orient
+	15.00		Rotherham	0-1	Brighton
+	15.00		Swansea	1-2	Cheltenham
+
+Matchday 4
+
+[Tue May/08]
+	15.00		Tranmere	1-0	Oldham
+[Sat May/12]
+	15.00		Blackpool	2-1	Cheltenham
+	15.00		Bournemouth	2-0	Nott'm Forest
+	15.00		Brentford	0-4	Doncaster
+	15.00		Brighton	3-2	Swansea
+	15.00		Bristol City	1-0	Carlisle
+	15.00		Leyton Orient	1-2	Bradford
+	15.00		Millwall	0-0	Huddersfield
+	15.00		Oldham	1-0	Crewe
+	15.00		Port Vale	2-0	Gillingham
+	15.00		Scunthorpe	1-1	Tranmere
+[Sun Jun/10]
+	15.00		Bournemouth	0-0	Northampton
+
+Matchday 5
+
+[Sun Jun/10]
+	15.00		Doncaster	1-1	Oldham
+	15.00		Swansea	0-0	Tranmere
+	15.00		Yeovil	0-1	Cheltenham
+[Tue Jun/12]
+	15.00		Chesterfield	0-0	Northampton
+[Tue Jul/10]
+	15.00		Bradford	0-1	Huddersfield
+	15.00		Brentford	1-1	Bristol City
+	15.00		Carlisle	1-2	Millwall
+	15.00		Crewe	4-3	Gillingham
+	15.00		Leyton Orient	0-0	Chesterfield
+	15.00		Nott'm Forest	0-4	Scunthorpe
+[Wed Aug/08]
+	15.00		Blackpool	0-2	Nott'm Forest
+	15.00		Bradford	2-1	Bristol City
+
+Matchday 6
+
+[Wed Aug/08]
+	15.00		Brighton	1-0	Gillingham
+	15.00		Cheltenham	1-0	Tranmere
+	15.00		Doncaster	3-1	Crewe
+	15.00		Huddersfield	3-0	Rotherham
+	15.00		Leyton Orient	2-0	Millwall
+	15.00		Northampton	0-1	Brentford
+	15.00		Oldham	0-1	Port Vale
+	15.00		Scunthorpe	2-2	Swansea
+	15.00		Yeovil	0-0	Bournemouth
+[Thu Aug/09]
+	15.00		Tranmere	1-0	Bristol City
+[Fri Aug/10]
+	15.00		Brighton	0-3	Blackpool
+	15.00		Port Vale	1-3	Rotherham
+
+Matchday 7
+
+[Sat Sep/08]
+	15.00		Chesterfield	0-0	Carlisle
+[Sun Sep/09]
+	15.00		Bournemouth	1-0	Crewe
+	15.00		Carlisle	1-1	Northampton
+	15.00		Cheltenham	2-1	Huddersfield
+	15.00		Chesterfield	2-1	Rotherham
+	15.00		Doncaster	1-2	Gillingham
+	15.00		Leyton Orient	1-1	Brentford
+	15.00		Millwall	0-1	Brighton
+	15.00		Oldham	1-0	Scunthorpe
+	15.00		Port Vale	2-1	Blackpool
+	15.00		Swansea	1-0	Bradford
+	15.00		Yeovil	0-1	Nott'm Forest
+
+Matchday 8
+
+[Wed Sep/12]
+	15.00		Blackpool	1-1	Swansea
+	15.00		Bournemouth	0-4	Port Vale
+	15.00		Brentford	1-1	Tranmere
+	15.00		Brighton	2-1	Cheltenham
+	15.00		Carlisle	0-2	Scunthorpe
+	15.00		Chesterfield	2-1	Oldham
+	15.00		Crewe	1-4	Nott'm Forest
+	15.00		Leyton Orient	1-0	Huddersfield
+	15.00		Millwall	2-0	Bradford
+	15.00		Northampton	0-2	Doncaster
+	15.00		Rotherham	1-1	Bristol City
+	15.00		Yeovil	2-0	Gillingham
+
+Matchday 9
+
+[Sat Dec/08]
+	15.00		Blackpool	0-1	Rotherham
+	15.00		Bradford	4-2	Gillingham
+	15.00		Brighton	2-2	Brentford
+	15.00		Cheltenham	0-1	Port Vale
+	15.00		Chesterfield	5-1	Millwall
+	15.00		Doncaster	0-0	Tranmere
+	15.00		Huddersfield	2-1	Bristol City
+	15.00		Leyton Orient	3-2	Bournemouth
+	15.00		Northampton	0-1	Nott'm Forest
+	15.00		Oldham	1-0	Swansea
+	15.00		Scunthorpe	2-2	Crewe
+	15.00		Yeovil	2-1	Carlisle
+
+Matchday 10
+
+[Sun Dec/09]
+	15.00		Blackpool	1-1	Chesterfield
+	15.00		Bradford	1-1	Carlisle
+	15.00		Brentford	0-2	Swansea
+	15.00		Brighton	2-2	Bournemouth
+	15.00		Bristol City	2-1	Leyton Orient
+	15.00		Crewe	3-1	Cheltenham
+	15.00		Gillingham	2-1	Millwall
+	15.00		Huddersfield	0-0	Doncaster
+	15.00		Northampton	1-1	Yeovil
+	15.00		Nott'm Forest	0-2	Oldham
+	15.00		Rotherham	2-1	Tranmere
+	15.00		Scunthorpe	3-0	Port Vale
+
+Matchday 11
+
+[Tue Jan/01]
+	15.00		Bournemouth	1-0	Brighton
+	15.00		Carlisle	1-0	Bradford
+	15.00		Chesterfield	2-0	Blackpool
+	15.00		Doncaster	3-0	Huddersfield
+	15.00		Leyton Orient	1-1	Bristol City
+	15.00		Millwall	4-1	Gillingham
+	15.00		Oldham	5-0	Nott'm Forest
+	15.00		Port Vale	0-0	Scunthorpe
+	15.00		Swansea	2-0	Brentford
+	15.00		Tranmere	2-1	Rotherham
+	15.00		Yeovil	0-0	Northampton
+[Thu Jan/10]
+	15.00		Northampton	0-0	Bradford
+
+Matchday 12
+
+[Thu Jan/10]
+	15.00		Tranmere	1-2	Port Vale
+[Fri Feb/01]
+	15.00		Cheltenham	1-1	Crewe
+[Sun Feb/03]
+	15.00		Tranmere	2-0	Chesterfield
+[Sun Feb/10]
+	15.00		Blackpool	1-1	Yeovil
+	15.00		Bristol City	2-1	Crewe
+	15.00		Cheltenham	0-2	Doncaster
+	15.00		Chesterfield	2-3	Swansea
+	15.00		Gillingham	0-1	Nott'm Forest
+	15.00		Huddersfield	2-1	Carlisle
+	15.00		Millwall	1-0	Bournemouth
+	15.00		Oldham	3-3	Leyton Orient
+	15.00		Rotherham	2-0	Brentford
+
+Matchday 13
+
+[Sun Feb/10]
+	15.00		Scunthorpe	1-2	Brighton
+[Sat Mar/02]
+	15.00		Blackpool	1-3	Brentford
+	15.00		Bradford	2-2	Nott'm Forest
+	15.00		Brighton	0-0	Rotherham
+	15.00		Cheltenham	2-1	Swansea
+	15.00		Chesterfield	0-1	Bournemouth
+	15.00		Doncaster	1-2	Carlisle
+	15.00		Huddersfield	3-1	Gillingham
+	15.00		Leyton Orient	2-1	Port Vale
+	15.00		Northampton	1-2	Crewe
+	15.00		Oldham	1-0	Tranmere
+	15.00		Yeovil	0-1	Millwall
+
+Matchday 14
+
+[Sun Mar/03]
+	15.00		Bournemouth	2-0	Doncaster
+	15.00		Brentford	0-2	Scunthorpe
+	15.00		Bristol City	1-0	Northampton
+	15.00		Carlisle	1-1	Oldham
+	15.00		Crewe	1-1	Brighton
+	15.00		Gillingham	2-2	Blackpool
+	15.00		Millwall	2-0	Cheltenham
+	15.00		Nott'm Forest	5-1	Huddersfield
+	15.00		Port Vale	4-2	Yeovil
+	15.00		Rotherham	4-1	Bradford
+	15.00		Swansea	0-0	Leyton Orient
+[Tue Mar/12]
+	15.00		Scunthorpe	1-3	Blackpool
+
+Matchday 15
+
+[Tue Apr/09]
+	15.00		Blackpool	2-2	Oldham
+	15.00		Bradford	2-0	Port Vale
+	15.00		Brentford	0-0	Bournemouth
+	15.00		Brighton	4-1	Leyton Orient
+	15.00		Bristol City	3-1	Chesterfield
+	15.00		Crewe	1-0	Millwall
+	15.00		Gillingham	3-1	Swansea
+	15.00		Huddersfield	2-3	Yeovil
+	15.00		Northampton	1-3	Tranmere
+	15.00		Nott'm Forest	0-0	Carlisle
+	15.00		Rotherham	0-0	Doncaster
+	15.00		Scunthorpe	1-0	Cheltenham
+
+Matchday 16
+
+[Fri Apr/12]
+	15.00		Bradford	1-0	Chesterfield
+	15.00		Bristol City	1-0	Millwall
+	15.00		Cheltenham	2-0	Rotherham
+	15.00		Gillingham	1-1	Bournemouth
+	15.00		Huddersfield	1-1	Northampton
+	15.00		Nott'm Forest	1-3	Leyton Orient
+	15.00		Oldham	1-1	Brighton
+	15.00		Port Vale	1-0	Brentford
+	15.00		Swansea	5-0	Carlisle
+[Wed May/01]
+	15.00		Yeovil	3-1	Huddersfield
+[Thu May/02]
+	15.00		Scunthorpe	1-0	Bristol City
+[Sun May/05]
+	15.00		Bradford	2-2	Millwall
+
+Matchday 17
+
+[Sun May/05]
+	15.00		Bristol City	3-1	Rotherham
+	15.00		Cheltenham	1-1	Brighton
+	15.00		Doncaster	2-2	Northampton
+	15.00		Gillingham	0-2	Yeovil
+	15.00		Huddersfield	3-1	Leyton Orient
+	15.00		Nott'm Forest	0-0	Crewe
+	15.00		Oldham	1-0	Chesterfield
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		Scunthorpe	3-0	Carlisle
+	15.00		Swansea	3-6	Blackpool
+	15.00		Tranmere	3-1	Brentford
+[Sat Jun/01]
+	15.00		Bournemouth	1-0	Brentford
+
+Matchday 18
+
+[Sat Jun/01]
+	15.00		Port Vale	0-1	Bradford
+	15.00		Tranmere	1-1	Northampton
+[Sun Jun/02]
+	15.00		Port Vale	1-0	Northampton
+[Mon Jun/03]
+	15.00		Blackpool	2-0	Bournemouth
+	15.00		Nott'm Forest	0-1	Doncaster
+	15.00		Port Vale	1-1	Cheltenham
+[Tue Jun/04]
+	15.00		Scunthorpe	1-0	Yeovil
+[Tue Jun/11]
+	15.00		Blackpool	3-1	Huddersfield
+	15.00		Bournemouth	0-1	Carlisle
+	15.00		Brentford	0-4	Crewe
+	15.00		Brighton	0-1	Tranmere
+	15.00		Bristol City	3-1	Gillingham
+
+Matchday 19
+
+[Tue Jun/11]
+	15.00		Chesterfield	1-0	Cheltenham
+	15.00		Leyton Orient	0-0	Yeovil
+	15.00		Millwall	2-2	Doncaster
+	15.00		Oldham	2-0	Bradford
+	15.00		Port Vale	0-2	Swansea
+	15.00		Rotherham	1-1	Nott'm Forest
+	15.00		Scunthorpe	1-0	Northampton
+[Wed Jul/03]
+	15.00		Chesterfield	1-3	Bristol City
+[Thu Jul/04]
+	15.00		Blackpool	3-2	Tranmere
+	15.00		Bournemouth	1-1	Bradford
+	15.00		Brentford	0-2	Cheltenham
+	15.00		Brighton	0-2	Doncaster
+
+Matchday 20
+
+[Thu Jul/04]
+	15.00		Bristol City	0-0	Swansea
+	15.00		Chesterfield	2-1	Crewe
+	15.00		Leyton Orient	0-2	Northampton
+	15.00		Millwall	1-0	Nott'm Forest
+	15.00		Oldham	1-1	Huddersfield
+	15.00		Port Vale	0-2	Carlisle
+	15.00		Rotherham	3-2	Gillingham
+[Mon Jul/08]
+	15.00		Bournemouth	2-1	Cheltenham
+	15.00		Brentford	2-2	Huddersfield
+	15.00		Bristol City	2-4	Blackpool
+	15.00		Carlisle	3-1	Leyton Orient
+	15.00		Crewe	0-3	Bradford
+
+Matchday 21
+
+[Mon Jul/08]
+	15.00		Gillingham	0-1	Northampton
+	15.00		Millwall	1-0	Oldham
+	15.00		Nott'm Forest	2-1	Brighton
+	15.00		Port Vale	3-2	Chesterfield
+	15.00		Rotherham	2-1	Scunthorpe
+	15.00		Swansea	2-0	Doncaster
+	15.00		Tranmere	2-1	Yeovil
+[Fri Jul/12]
+	15.00		Northampton	0-1	Leyton Orient
+[Wed Sep/04]
+	15.00		Bradford	1-1	Oldham
+	15.00		Carlisle	3-1	Bournemouth
+	15.00		Cheltenham	0-0	Chesterfield
+	15.00		Crewe	3-1	Brentford
+
+Matchday 22
+
+[Wed Sep/04]
+	15.00		Doncaster	1-2	Millwall
+	15.00		Gillingham	1-0	Bristol City
+	15.00		Huddersfield	0-2	Blackpool
+	15.00		Northampton	2-1	Scunthorpe
+	15.00		Nott'm Forest	1-1	Rotherham
+	15.00		Swansea	3-0	Port Vale
+	15.00		Tranmere	2-1	Brighton
+	15.00		Yeovil	2-1	Leyton Orient
+[Tue Sep/10]
+	15.00		Bournemouth	1-3	Rotherham
+	15.00		Bradford	0-1	Scunthorpe
+	15.00		Brentford	2-2	Gillingham
+	15.00		Brighton	1-1	Northampton
+
+Matchday 23
+
+[Tue Sep/10]
+	15.00		Carlisle	1-0	Tranmere
+	15.00		Crewe	1-2	Blackpool
+	15.00		Doncaster	1-0	Chesterfield
+	15.00		Leyton Orient	2-0	Cheltenham
+	15.00		Nott'm Forest	1-0	Bristol City
+	15.00		Port Vale	1-2	Huddersfield
+	15.00		Yeovil	1-0	Oldham
+[Wed Oct/02]
+	15.00		Bournemouth	5-0	Leyton Orient
+	15.00		Brentford	1-0	Brighton
+	15.00		Bristol City	1-1	Huddersfield
+	15.00		Carlisle	1-4	Yeovil
+	15.00		Gillingham	1-0	Bradford
+
+Matchday 24
+
+[Wed Oct/02]
+	15.00		Millwall	2-1	Chesterfield
+	15.00		Nott'm Forest	1-0	Northampton
+	15.00		Swansea	0-1	Oldham
+	15.00		Tranmere	1-0	Doncaster
+[Thu Oct/03]
+	15.00		Blackpool	0-0	Brighton
+	15.00		Bristol City	1-0	Brentford
+	15.00		Cheltenham	1-2	Yeovil
+	15.00		Chesterfield	0-1	Leyton Orient
+	15.00		Gillingham	1-0	Crewe
+	15.00		Huddersfield	2-0	Bradford
+	15.00		Millwall	2-0	Carlisle
+	15.00		Northampton	3-1	Bournemouth
+
+Matchday 25
+
+[Thu Oct/03]
+	15.00		Rotherham	1-5	Port Vale
+	15.00		Scunthorpe	1-1	Nott'm Forest
+	15.00		Tranmere	0-2	Swansea
+[Thu Oct/10]
+	15.00		Swansea	2-0	Millwall
+[Sat Oct/12]
+	15.00		Millwall	0-1	Scunthorpe
+[Sun Nov/03]
+	15.00		Oldham	4-0	Doncaster
+[Sat Nov/09]
+	15.00		Bournemouth	1-1	Scunthorpe
+	15.00		Carlisle	3-1	Brighton
+	15.00		Cheltenham	1-2	Bradford
+	15.00		Chesterfield	3-1	Brentford
+	15.00		Doncaster	0-0	Blackpool
+	15.00		Leyton Orient	2-3	Rotherham
+
+Matchday 26
+
+[Sat Nov/09]
+	15.00		Millwall	0-1	Northampton
+	15.00		Oldham	4-1	Gillingham
+	15.00		Port Vale	0-2	Bristol City
+	15.00		Swansea	1-2	Huddersfield
+	15.00		Tranmere	0-0	Nott'm Forest
+	15.00		Yeovil	2-0	Crewe
+[Tue Nov/12]
+	15.00		Bournemouth	1-3	Blackpool
+	15.00		Carlisle	2-0	Brentford
+	15.00		Cheltenham	2-2	Bristol City
+	15.00		Chesterfield	0-0	Huddersfield
+	15.00		Doncaster	1-0	Nott'm Forest
+	15.00		Leyton Orient	1-1	Crewe
+
+Matchday 27
+
+[Tue Nov/12]
+	15.00		Oldham	3-0	Northampton
+	15.00		Port Vale	2-1	Brighton
+	15.00		Swansea	1-1	Rotherham
+	15.00		Tranmere	2-3	Gillingham
+	15.00		Yeovil	0-0	Bradford
+[Wed Dec/11]
+	15.00		Cheltenham	2-0	Brentford
+	15.00		Tranmere	2-0	Blackpool
+[Wed Jan/01]
+	15.00		Blackpool	2-1	Port Vale
+	15.00		Bradford	2-2	Swansea
+	15.00		Brentford	2-2	Leyton Orient
+	15.00		Brighton	0-1	Millwall
+	15.00		Bristol City	3-2	Tranmere
+
+Matchday 28
+
+[Wed Jan/01]
+	15.00		Crewe	2-0	Bournemouth
+	15.00		Gillingham	0-2	Doncaster
+	15.00		Huddersfield	2-0	Cheltenham
+	15.00		Northampton	3-2	Carlisle
+	15.00		Nott'm Forest	1-0	Yeovil
+	15.00		Rotherham	0-1	Chesterfield
+	15.00		Scunthorpe	1-1	Oldham
+[Thu Jan/02]
+	15.00		Leyton Orient	1-4	Brighton
+[Fri Jan/03]
+	15.00		Bristol City	2-3	Bradford
+	15.00		Millwall	2-2	Crewe
+[Sat Jan/11]
+	15.00		Bradford	0-0	Bournemouth
+	15.00		Carlisle	3-2	Port Vale
+
+Matchday 29
+
+[Sat Jan/11]
+	15.00		Crewe	2-2	Chesterfield
+	15.00		Doncaster	1-0	Brighton
+	15.00		Gillingham	1-0	Rotherham
+	15.00		Huddersfield	0-3	Oldham
+	15.00		Nott'm Forest	3-1	Millwall
+	15.00		Yeovil	0-2	Scunthorpe
+[Tue Feb/04]
+	15.00		Blackpool	4-1	Northampton
+	15.00		Bournemouth	2-2	Swansea
+	15.00		Brentford	2-4	Nott'm Forest
+	15.00		Brighton	0-1	Bradford
+	15.00		Bristol City	2-0	Yeovil
+	15.00		Chesterfield	0-1	Gillingham
+
+Matchday 30
+
+[Tue Feb/04]
+	15.00		Leyton Orient	1-1	Doncaster
+	15.00		Millwall	2-2	Tranmere
+	15.00		Oldham	0-2	Cheltenham
+	15.00		Port Vale	3-0	Crewe
+	15.00		Rotherham	0-1	Carlisle
+	15.00		Scunthorpe	2-0	Huddersfield
+[Sat Feb/08]
+	15.00		Blackpool	1-1	Gillingham
+	15.00		Bradford	1-1	Rotherham
+	15.00		Cheltenham	3-2	Millwall
+	15.00		Chesterfield	0-2	Tranmere
+	15.00		Doncaster	1-1	Bournemouth
+	15.00		Huddersfield	1-1	Nott'm Forest
+
+Matchday 31
+
+[Sat Feb/08]
+	15.00		Leyton Orient	0-1	Swansea
+	15.00		Scunthorpe	1-1	Brentford
+	15.00		Yeovil	1-0	Port Vale
+[Sun Feb/09]
+	15.00		Bournemouth	0-1	Bristol City
+	15.00		Carlisle	2-0	Blackpool
+	15.00		Cheltenham	0-2	Northampton
+	15.00		Doncaster	3-3	Bradford
+	15.00		Leyton Orient	3-3	Gillingham
+	15.00		Millwall	1-1	Brentford
+	15.00		Oldham	2-1	Rotherham
+	15.00		Port Vale	1-1	Nott'm Forest
+	15.00		Swansea	2-1	Crewe
+
+Matchday 32
+
+[Sun Feb/09]
+	15.00		Tranmere	2-2	Huddersfield
+	15.00		Yeovil	2-0	Brighton
+[Tue Feb/11]
+	15.00		Swansea	0-0	Bristol City
+[Wed Feb/12]
+	15.00		Blackpool	2-1	Carlisle
+	15.00		Bradford	0-1	Doncaster
+	15.00		Brentford	1-4	Millwall
+	15.00		Brighton	1-3	Yeovil
+	15.00		Bristol City	2-2	Bournemouth
+	15.00		Crewe	1-3	Swansea
+	15.00		Gillingham	2-1	Leyton Orient
+	15.00		Huddersfield	2-2	Tranmere
+	15.00		Northampton	2-0	Cheltenham
+
+Matchday 33
+
+[Wed Feb/12]
+	15.00		Nott'm Forest	3-0	Port Vale
+	15.00		Rotherham	2-3	Oldham
+	15.00		Scunthorpe	1-0	Chesterfield
+[Sun Mar/08]
+	15.00		Brighton	1-4	Crewe
+	15.00		Oldham	0-0	Carlisle
+[Mon Mar/09]
+	15.00		Chesterfield	0-1	Scunthorpe
+[Wed Apr/01]
+	15.00		Cheltenham	1-1	Scunthorpe
+	15.00		Tranmere	1-0	Crewe
+[Thu Apr/02]
+	15.00		Northampton	1-1	Gillingham
+[Fri Apr/03]
+	15.00		Swansea	2-0	Chesterfield
+[Fri Apr/10]
+	15.00		Blackpool	4-1	Bradford
+	15.00		Bristol City	1-0	Doncaster
+
+Matchday 34
+
+[Fri Apr/10]
+	15.00		Cheltenham	0-2	Nott'm Forest
+	15.00		Chesterfield	1-1	Yeovil
+	15.00		Gillingham	2-0	Carlisle
+	15.00		Huddersfield	0-3	Brighton
+	15.00		Millwall	1-1	Port Vale
+	15.00		Northampton	1-0	Swansea
+	15.00		Oldham	3-0	Brentford
+	15.00		Rotherham	5-1	Crewe
+	15.00		Scunthorpe	3-1	Leyton Orient
+	15.00		Tranmere	1-0	Bournemouth
+[Sat May/02]
+	15.00		Blackpool	0-1	Bristol City
+	15.00		Bradford	0-1	Crewe
+
+Matchday 35
+
+[Sat May/02]
+	15.00		Brighton	2-1	Nott'm Forest
+	15.00		Cheltenham	1-0	Bournemouth
+	15.00		Chesterfield	3-0	Port Vale
+	15.00		Doncaster	2-2	Swansea
+	15.00		Huddersfield	0-2	Brentford
+	15.00		Leyton Orient	1-1	Carlisle
+	15.00		Oldham	1-2	Millwall
+	15.00		Scunthorpe	1-0	Rotherham
+	15.00		Yeovil	0-2	Tranmere
+[Sun May/03]
+	15.00		Bournemouth	1-0	Millwall
+	15.00		Bradford	1-2	Northampton
+	15.00		Brentford	0-1	Rotherham
+
+Matchday 36
+
+[Sun May/03]
+	15.00		Brighton	1-1	Scunthorpe
+	15.00		Carlisle	1-1	Huddersfield
+	15.00		Crewe	0-1	Bristol City
+	15.00		Doncaster	0-2	Cheltenham
+	15.00		Leyton Orient	2-2	Oldham
+	15.00		Nott'm Forest	1-0	Gillingham
+	15.00		Port Vale	2-3	Tranmere
+	15.00		Yeovil	0-1	Blackpool
+[Fri May/08]
+	15.00		Northampton	1-3	Bristol City
+[Tue Jun/09]
+	15.00		Blackpool	3-0	Leyton Orient
+	15.00		Bradford	2-0	Tranmere
+	15.00		Brentford	1-2	Yeovil
+
+Matchday 37
+
+[Tue Jun/09]
+	15.00		Brighton	1-2	Chesterfield
+	15.00		Bristol City	0-0	Oldham
+	15.00		Crewe	5-1	Carlisle
+	15.00		Gillingham	2-1	Cheltenham
+	15.00		Huddersfield	2-2	Bournemouth
+	15.00		Northampton	0-2	Port Vale
+	15.00		Nott'm Forest	3-1	Swansea
+	15.00		Rotherham	2-3	Millwall
+	15.00		Scunthorpe	2-0	Doncaster
+[Fri Jun/12]
+	15.00		Blackpool	3-1	Doncaster
+	15.00		Bradford	2-2	Cheltenham
+	15.00		Brentford	2-1	Chesterfield
+
+Matchday 38
+
+[Fri Jun/12]
+	15.00		Brighton	1-2	Carlisle
+	15.00		Bristol City	2-1	Port Vale
+	15.00		Crewe	2-3	Yeovil
+	15.00		Gillingham	0-3	Oldham
+	15.00		Huddersfield	3-2	Swansea
+	15.00		Nott'm Forest	1-1	Tranmere
+	15.00		Rotherham	2-2	Leyton Orient
+	15.00		Scunthorpe	3-2	Bournemouth
+[Wed Jul/01]
+	15.00		Tranmere	1-1	Bradford
+[Thu Jul/02]
+	15.00		Brentford	0-1	Northampton
+[Sat Aug/01]
+	15.00		Bournemouth	1-2	Huddersfield
+	15.00		Carlisle	0-2	Crewe
+
+Matchday 39
+
+[Sat Aug/01]
+	15.00		Cheltenham	1-1	Gillingham
+	15.00		Chesterfield	0-1	Brighton
+	15.00		Doncaster	2-2	Scunthorpe
+	15.00		Leyton Orient	0-1	Blackpool
+	15.00		Millwall	4-0	Rotherham
+	15.00		Oldham	0-3	Bristol City
+	15.00		Swansea	0-0	Nott'm Forest
+	15.00		Yeovil	1-0	Brentford
+[Sun Aug/02]
+	15.00		Bournemouth	0-2	Yeovil
+	15.00		Carlisle	0-0	Chesterfield
+	15.00		Crewe	2-1	Doncaster
+	15.00		Gillingham	0-1	Brighton
+
+Matchday 40
+
+[Sun Aug/02]
+	15.00		Millwall	2-5	Leyton Orient
+	15.00		Nott'm Forest	1-1	Blackpool
+	15.00		Port Vale	3-0	Oldham
+	15.00		Rotherham	2-3	Huddersfield
+	15.00		Swansea	0-2	Scunthorpe
+	15.00		Tranmere	2-2	Cheltenham
+[Thu Sep/03]
+	15.00		Chesterfield	1-1	Doncaster
+[Fri Sep/04]
+	15.00		Bradford	0-2	Leyton Orient
+	15.00		Carlisle	1-3	Bristol City
+	15.00		Cheltenham	1-2	Blackpool
+	15.00		Crewe	2-1	Oldham
+	15.00		Doncaster	3-0	Brentford
+
+Matchday 41
+
+[Fri Sep/04]
+	15.00		Gillingham	3-2	Port Vale
+	15.00		Huddersfield	4-2	Millwall
+	15.00		Northampton	1-0	Chesterfield
+	15.00		Nott'm Forest	3-0	Bournemouth
+	15.00		Swansea	2-1	Brighton
+	15.00		Tranmere	0-2	Scunthorpe
+	15.00		Yeovil	1-0	Rotherham
+[Sun Nov/01]
+	15.00		Northampton	3-0	Millwall
+	15.00		Swansea	2-0	Gillingham
+[Wed Dec/02]
+	15.00		Blackpool	0-1	Millwall
+	15.00		Bradford	1-1	Brentford
+	15.00		Brighton	0-2	Bristol City
+
+Matchday 42
+
+[Wed Dec/02]
+	15.00		Cheltenham	0-1	Carlisle
+	15.00		Chesterfield	1-2	Nott'm Forest
+	15.00		Doncaster	1-0	Port Vale
+	15.00		Huddersfield	1-2	Crewe
+	15.00		Leyton Orient	3-1	Tranmere
+	15.00		Northampton	3-0	Rotherham
+	15.00		Oldham	1-2	Bournemouth
+	15.00		Scunthorpe	3-1	Gillingham
+	15.00		Yeovil	1-0	Swansea
+[Thu Dec/03]
+	15.00		Bournemouth	2-0	Tranmere
+	15.00		Bradford	1-3	Blackpool
+	15.00		Brighton	0-0	Huddersfield
+
+Matchday 43
+
+[Thu Dec/03]
+	15.00		Carlisle	5-0	Gillingham
+	15.00		Crewe	1-0	Rotherham
+	15.00		Doncaster	0-1	Bristol City
+	15.00		Leyton Orient	2-2	Scunthorpe
+	15.00		Nott'm Forest	3-0	Cheltenham
+	15.00		Port Vale	2-0	Millwall
+	15.00		Swansea	2-1	Northampton
+	15.00		Yeovil	1-0	Chesterfield
+[Sun Jan/03]
+	15.00		Brentford	2-2	Oldham
+[Mon Feb/01]
+	15.00		Gillingham	2-0	Tranmere
+[Mon Mar/01]
+	15.00		Bradford	0-2	Yeovil
+	15.00		Brentford	0-0	Carlisle
+
+Matchday 44
+
+[Mon Mar/01]
+	15.00		Brighton	0-0	Port Vale
+	15.00		Crewe	0-4	Leyton Orient
+	15.00		Doncaster	3-2	Rotherham
+	15.00		Huddersfield	1-1	Chesterfield
+	15.00		Scunthorpe	3-0	Millwall
+[Tue Mar/02]
+	15.00		Crewe	1-3	Scunthorpe
+	15.00		Doncaster	0-0	Yeovil
+	15.00		Oldham	0-1	Blackpool
+	15.00		Rotherham	1-2	Swansea
+[Wed Mar/03]
+	15.00		Rotherham	1-0	Blackpool
+[Thu Mar/04]
+	15.00		Northampton	1-1	Huddersfield
+[Thu Apr/01]
+	15.00		Northampton	2-3	Oldham
+
+Matchday 45
+
+[Sun Apr/04]
+	15.00		Blackpool	3-1	Scunthorpe
+	15.00		Bournemouth	1-1	Gillingham
+	15.00		Brentford	4-3	Port Vale
+	15.00		Brighton	1-2	Oldham
+	15.00		Carlisle	1-2	Swansea
+	15.00		Chesterfield	3-0	Bradford
+	15.00		Crewe	1-1	Tranmere
+	15.00		Leyton Orient	1-3	Nott'm Forest
+	15.00		Millwall	1-0	Bristol City
+	15.00		Rotherham	2-4	Cheltenham
+	15.00		Yeovil	1-0	Doncaster
+[Thu Jun/03]
+	15.00		Tranmere	0-2	Carlisle
+
+Matchday 46
+
+[Thu Jul/01]
+	15.00		Bristol City	0-1	Cheltenham
+	15.00		Carlisle	1-0	Nott'm Forest
+[Sat Jul/03]
+	15.00		Blackpool	2-1	Crewe
+	15.00		Bristol City	1-1	Nott'm Forest
+	15.00		Cheltenham	2-1	Leyton Orient
+	15.00		Gillingham	2-1	Brentford
+	15.00		Huddersfield	2-2	Port Vale
+	15.00		Millwall	2-0	Swansea
+	15.00		Northampton	0-2	Brighton
+	15.00		Oldham	1-0	Yeovil
+	15.00		Rotherham	0-2	Bournemouth
+	15.00		Scunthorpe	2-0	Bradford
+

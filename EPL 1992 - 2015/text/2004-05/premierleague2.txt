@@ -1,0 +1,823 @@
+############################
+# Premier League 2004-2005
+
+Matchday 1
+
+[Wed Feb/10]
+	15.00		Blackpool	3-3	Bournemouth
+	15.00		Bradford	1-0	Barnsley
+	15.00		Brentford	2-0	Oldham
+	15.00		Chesterfield	2-2	Bristol City
+	15.00		Colchester	2-1	Port Vale
+	15.00		Doncaster	0-0	Wrexham
+	15.00		Hartlepool	2-0	Hull
+	15.00		Huddersfield	3-1	Walsall
+	15.00		Peterboro	1-1	Torquay
+	15.00		Sheffield Weds	1-1	Milton Keynes Dons
+	15.00		Stockport	3-3	Swindon
+	15.00		Tranmere	1-1	Luton
+
+Matchday 2
+
+[Sat Apr/09]
+	15.00		Bradford	0-2	Port Vale
+	15.00		Brentford	2-1	Bournemouth
+	15.00		Chesterfield	2-2	Milton Keynes Dons
+	15.00		Colchester	0-1	Swindon
+	15.00		Doncaster	3-1	Walsall
+	15.00		Hartlepool	1-1	Barnsley
+	15.00		Peterboro	0-1	Bristol City
+	15.00		Sheffield Weds	0-0	Luton
+	15.00		Stockport	0-2	Torquay
+[Mon May/09]
+	15.00		Huddersfield	4-0	Hull
+[Sat Jun/11]
+	15.00		Barnsley	1-2	Port Vale
+	15.00		Bradford	2-2	Colchester
+
+Matchday 3
+
+[Sat Jun/11]
+	15.00		Bristol City	4-1	Milton Keynes Dons
+	15.00		Chesterfield	1-0	Blackpool
+	15.00		Hartlepool	2-1	Doncaster
+	15.00		Hull	3-1	Walsall
+	15.00		Luton	5-1	Wrexham
+	15.00		Peterboro	0-1	Bournemouth
+	15.00		Stockport	0-3	Sheffield Weds
+	15.00		Torquay	2-0	Oldham
+	15.00		Tranmere	2-1	Swindon
+[Fri Jul/08]
+	15.00		Bristol City	1-1	Torquay
+	15.00		Chesterfield	3-1	Brentford
+	15.00		Doncaster	2-0	Blackpool
+
+Matchday 4
+
+[Fri Jul/08]
+	15.00		Hartlepool	2-1	Bradford
+	15.00		Hull	1-0	Bournemouth
+	15.00		Luton	2-1	Oldham
+	15.00		Milton Keynes Dons	1-1	Barnsley
+	15.00		Peterboro	1-0	Tranmere
+	15.00		Sheffield Weds	0-3	Colchester
+	15.00		Stockport	2-3	Huddersfield
+	15.00		Walsall	3-2	Port Vale
+	15.00		Wrexham	2-1	Swindon
+[Mon Jul/11]
+	15.00		Huddersfield	1-1	Brentford
+[Tue Jul/12]
+	15.00		Blackpool	4-0	Torquay
+	15.00		Bournemouth	2-0	Bradford
+
+Matchday 5
+
+[Tue Jul/12]
+	15.00		Brentford	2-0	Luton
+	15.00		Colchester	0-2	Barnsley
+	15.00		Doncaster	1-1	Bristol City
+	15.00		Milton Keynes Dons	1-1	Peterboro
+	15.00		Oldham	4-1	Chesterfield
+	15.00		Port Vale	3-1	Tranmere
+	15.00		Walsall	2-1	Hartlepool
+	15.00		Wrexham	2-1	Stockport
+[Wed Aug/10]
+	15.00		Bournemouth	2-1	Stockport
+	15.00		Luton	3-0	Hartlepool
+	15.00		Milton Keynes Dons	1-2	Bradford
+	15.00		Port Vale	2-0	Doncaster
+
+Matchday 6
+
+[Fri Aug/12]
+	15.00		Sheffield Weds	2-4	Hull
+	15.00		Swindon	1-2	Huddersfield
+[Sat Sep/10]
+	15.00		Barnsley	0-0	Brentford
+	15.00		Torquay	2-1	Huddersfield
+	15.00		Walsall	2-1	Colchester
+[Sun Sep/11]
+	15.00		Blackpool	2-1	Wrexham
+	15.00		Bristol City	4-0	Tranmere
+[Sat Oct/08]
+	15.00		Barnsley	2-1	Bristol City
+	15.00		Blackpool	1-2	Sheffield Weds
+	15.00		Bournemouth	2-2	Walsall
+	15.00		Bradford	2-2	Peterboro
+	15.00		Brentford	4-3	Doncaster
+
+Matchday 7
+
+[Sat Oct/08]
+	15.00		Colchester	3-2	Stockport
+	15.00		Huddersfield	0-0	Chesterfield
+	15.00		Oldham	2-3	Wrexham
+	15.00		Port Vale	3-2	Milton Keynes Dons
+	15.00		Torquay	0-3	Hull
+	15.00		Tranmere	2-1	Hartlepool
+[Mon Oct/10]
+	15.00		Hull	1-0	Chesterfield
+	15.00		Oldham	1-2	Blackpool
+[Wed Oct/12]
+	15.00		Tranmere	2-0	Bournemouth
+[Tue Nov/08]
+	15.00		Swindon	2-3	Luton
+[Wed Nov/09]
+	15.00		Barnsley	0-0	Tranmere
+	15.00		Bournemouth	1-3	Colchester
+
+Matchday 8
+
+[Wed Nov/09]
+	15.00		Bristol City	5-0	Stockport
+	15.00		Hull	2-1	Blackpool
+	15.00		Luton	1-0	Chesterfield
+	15.00		Milton Keynes Dons	0-1	Doncaster
+	15.00		Oldham	3-2	Hartlepool
+	15.00		Port Vale	0-3	Huddersfield
+	15.00		Swindon	0-1	Peterboro
+	15.00		Torquay	2-2	Brentford
+	15.00		Walsall	1-1	Sheffield Weds
+	15.00		Wrexham	1-0	Bradford
+[Sat Nov/12]
+	15.00		Blackpool	1-1	Bristol City
+	15.00		Bradford	1-1	Walsall
+
+Matchday 9
+
+[Sat Nov/12]
+	15.00		Colchester	1-2	Hull
+	15.00		Hartlepool	3-1	Stockport
+	15.00		Luton	1-0	Port Vale
+	15.00		Milton Keynes Dons	3-0	Wrexham
+	15.00		Oldham	2-1	Huddersfield
+	15.00		Peterboro	1-2	Chesterfield
+	15.00		Sheffield Weds	1-2	Brentford
+	15.00		Swindon	1-1	Doncaster
+	15.00		Torquay	0-1	Barnsley
+[Sun Jan/01]
+	15.00		Barnsley	0-0	Hartlepool
+	15.00		Bournemouth	3-2	Brentford
+	15.00		Bristol City	2-0	Peterboro
+
+Matchday 10
+
+[Sun Jan/01]
+	15.00		Hull	2-1	Huddersfield
+	15.00		Luton	1-1	Sheffield Weds
+	15.00		Milton Keynes Dons	1-1	Chesterfield
+	15.00		Oldham	2-2	Tranmere
+	15.00		Port Vale	0-1	Bradford
+	15.00		Swindon	0-3	Colchester
+	15.00		Torquay	1-2	Stockport
+	15.00		Walsall	1-1	Doncaster
+	15.00		Wrexham	1-2	Blackpool
+[Mon Jan/02]
+	15.00		Chesterfield	1-1	Hull
+	15.00		Stockport	2-2	Bournemouth
+[Wed Jan/04]
+	15.00		Doncaster	1-1	Colchester
+
+Matchday 11
+
+[Sat Feb/04]
+	15.00		Bristol City	2-0	Port Vale
+	15.00		Chesterfield	0-0	Bradford
+	15.00		Hartlepool	3-0	Swindon
+	15.00		Hull	2-1	Barnsley
+	15.00		Luton	1-0	Blackpool
+	15.00		Milton Keynes Dons	1-1	Oldham
+	15.00		Peterboro	1-2	Huddersfield
+	15.00		Sheffield Weds	1-2	Tranmere
+	15.00		Stockport	1-2	Brentford
+	15.00		Walsall	1-1	Torquay
+	15.00		Wrexham	1-2	Bournemouth
+[Wed Feb/08]
+	15.00		Barnsley	3-4	Luton
+
+Matchday 12
+
+[Wed Feb/08]
+	15.00		Blackpool	0-4	Stockport
+	15.00		Bournemouth	2-2	Bristol City
+	15.00		Bradford	2-0	Doncaster
+	15.00		Brentford	1-0	Wrexham
+	15.00		Colchester	2-1	Peterboro
+	15.00		Oldham	5-3	Walsall
+	15.00		Port Vale	3-2	Hull
+	15.00		Swindon	2-1	Milton Keynes Dons
+	15.00		Torquay	2-4	Sheffield Weds
+	15.00		Tranmere	1-0	Chesterfield
+[Thu Feb/09]
+	15.00		Tranmere	2-0	Oldham
+[Wed Mar/01]
+	15.00		Blackpool	0-2	Port Vale
+
+Matchday 13
+
+[Wed Mar/01]
+	15.00		Bradford	1-2	Swindon
+	15.00		Brentford	1-0	Walsall
+	15.00		Chesterfield	2-2	Barnsley
+	15.00		Colchester	0-0	Oldham
+	15.00		Doncaster	1-1	Bournemouth
+	15.00		Hartlepool	5-0	Milton Keynes Dons
+	15.00		Huddersfield	2-2	Bristol City
+	15.00		Peterboro	2-2	Luton
+	15.00		Sheffield Weds	4-0	Wrexham
+	15.00		Stockport	1-3	Hull
+	15.00		Tranmere	4-1	Torquay
+[Sun Mar/05]
+	15.00		Wrexham	1-2	Brentford
+
+Matchday 14
+
+[Sat Apr/08]
+	15.00		Huddersfield	0-2	Hartlepool
+[Mon Apr/10]
+	15.00		Blackpool	1-1	Colchester
+	15.00		Bournemouth	4-0	Port Vale
+	15.00		Bristol City	3-1	Hull
+	15.00		Doncaster	2-2	Torquay
+	15.00		Hartlepool	3-2	Chesterfield
+	15.00		Luton	1-2	Huddersfield
+	15.00		Milton Keynes Dons	0-0	Brentford
+	15.00		Stockport	1-0	Peterboro
+	15.00		Swindon	1-0	Oldham
+	15.00		Tranmere	4-5	Bradford
+	15.00		Wrexham	1-1	Walsall
+
+Matchday 15
+
+[Tue May/02]
+	15.00		Barnsley	0-0	Sheffield Weds
+	15.00		Bradford	1-1	Tranmere
+	15.00		Brentford	1-0	Milton Keynes Dons
+	15.00		Chesterfield	0-1	Hartlepool
+	15.00		Colchester	0-1	Blackpool
+	15.00		Huddersfield	1-1	Luton
+	15.00		Hull	1-1	Bristol City
+	15.00		Oldham	1-2	Swindon
+	15.00		Peterboro	2-1	Stockport
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		Torquay	2-1	Doncaster
+	15.00		Walsall	2-2	Wrexham
+
+Matchday 16
+
+[Wed May/03]
+	15.00		Blackpool	2-0	Walsall
+	15.00		Bradford	2-0	Huddersfield
+	15.00		Colchester	0-1	Brentford
+	15.00		Hartlepool	4-6	Wrexham
+	15.00		Luton	5-0	Bristol City
+	15.00		Milton Keynes Dons	2-1	Stockport
+	15.00		Oldham	3-0	Port Vale
+	15.00		Peterboro	1-3	Barnsley
+	15.00		Swindon	0-3	Bournemouth
+	15.00		Torquay	2-2	Chesterfield
+	15.00		Tranmere	1-3	Hull
+[Thu May/04]
+	15.00		Barnsley	2-2	Wrexham
+
+Matchday 17
+
+[Thu May/04]
+	15.00		Bristol City	0-2	Bournemouth
+	15.00		Hartlepool	2-2	Peterboro
+[Wed May/10]
+	15.00		Sheffield Weds	1-0	Barnsley
+[Sat Jun/03]
+	15.00		Sheffield Weds	2-0	Doncaster
+[Fri Jun/09]
+	15.00		Blackpool	1-1	Swindon
+	15.00		Bradford	4-1	Bristol City
+	15.00		Brentford	1-0	Port Vale
+	15.00		Chesterfield	1-0	Walsall
+	15.00		Colchester	0-1	Milton Keynes Dons
+	15.00		Doncaster	1-1	Oldham
+	15.00		Hartlepool	4-1	Torquay
+	15.00		Huddersfield	0-2	Barnsley
+
+Matchday 18
+
+[Fri Jun/09]
+	15.00		Peterboro	2-3	Hull
+	15.00		Sheffield Weds	0-1	Bournemouth
+	15.00		Stockport	1-3	Luton
+	15.00		Tranmere	1-1	Wrexham
+[Mon Jun/12]
+	15.00		Barnsley	4-0	Peterboro
+	15.00		Bournemouth	2-1	Swindon
+	15.00		Brentford	1-0	Colchester
+	15.00		Bristol City	1-2	Luton
+	15.00		Chesterfield	1-1	Torquay
+	15.00		Huddersfield	0-1	Bradford
+	15.00		Hull	6-1	Tranmere
+	15.00		Port Vale	3-1	Oldham
+
+Matchday 19
+
+[Mon Jun/12]
+	15.00		Stockport	3-1	Milton Keynes Dons
+	15.00		Walsall	3-2	Blackpool
+	15.00		Wrexham	1-5	Hartlepool
+[Wed Jul/05]
+	15.00		Blackpool	0-2	Barnsley
+	15.00		Bournemouth	2-2	Hartlepool
+	15.00		Brentford	2-1	Hull
+	15.00		Colchester	2-1	Torquay
+	15.00		Doncaster	3-3	Luton
+	15.00		Milton Keynes Dons	2-1	Tranmere
+	15.00		Oldham	2-1	Bradford
+	15.00		Port Vale	1-0	Peterboro
+	15.00		Sheffield Weds	2-3	Bristol City
+
+Matchday 20
+
+[Wed Jul/05]
+	15.00		Swindon	1-1	Chesterfield
+	15.00		Walsall	3-0	Stockport
+	15.00		Wrexham	0-1	Huddersfield
+[Mon Jul/10]
+	15.00		Bradford	2-1	Blackpool
+	15.00		Brentford	2-1	Hartlepool
+	15.00		Colchester	1-2	Wrexham
+	15.00		Huddersfield	1-3	Tranmere
+	15.00		Oldham	0-0	Bristol City
+	15.00		Peterboro	1-1	Sheffield Weds
+	15.00		Port Vale	1-0	Swindon
+	15.00		Torquay	1-2	Bournemouth
+	15.00		Walsall	2-0	Luton
+
+Matchday 21
+
+[Wed Jul/12]
+	15.00		Doncaster	0-4	Sheffield Weds
+[Tue Aug/01]
+	15.00		Doncaster	2-0	Port Vale
+	15.00		Huddersfield	1-1	Torquay
+	15.00		Sheffield Weds	2-0	Swindon
+[Wed Aug/02]
+	15.00		Blackpool	2-0	Oldham
+	15.00		Bradford	1-4	Milton Keynes Dons
+[Thu Aug/03]
+	15.00		Bournemouth	2-3	Blackpool
+	15.00		Hull	1-0	Hartlepool
+	15.00		Port Vale	0-0	Colchester
+[Fri Aug/04]
+	15.00		Tranmere	1-0	Stockport
+[Thu Aug/10]
+	15.00		Barnsley	1-3	Doncaster
+	15.00		Chesterfield	4-0	Stockport
+
+Matchday 22
+
+[Thu Aug/10]
+	15.00		Hull	3-2	Milton Keynes Dons
+[Fri Aug/11]
+	15.00		Blackpool	0-1	Tranmere
+	15.00		Bournemouth	0-0	Chesterfield
+	15.00		Brentford	1-2	Bradford
+	15.00		Colchester	0-0	Huddersfield
+	15.00		Doncaster	3-1	Stockport
+	15.00		Milton Keynes Dons	1-4	Luton
+	15.00		Oldham	3-2	Barnsley
+	15.00		Port Vale	1-2	Torquay
+	15.00		Sheffield Weds	2-0	Hartlepool
+	15.00		Swindon	4-2	Hull
+	15.00		Walsall	2-1	Peterboro
+
+Matchday 23
+
+[Fri Aug/11]
+	15.00		Wrexham	1-3	Bristol City
+[Mon Sep/04]
+	15.00		Blackpool	0-1	Peterboro
+	15.00		Bournemouth	0-1	Luton
+	15.00		Brentford	1-0	Bristol City
+	15.00		Colchester	1-1	Hartlepool
+	15.00		Huddersfield	3-1	Doncaster
+	15.00		Oldham	1-1	Sheffield Weds
+	15.00		Port Vale	1-0	Chesterfield
+	15.00		Swindon	1-2	Walsall
+	15.00		Torquay	1-0	Milton Keynes Dons
+[Fri Sep/08]
+	15.00		Bristol City	1-2	Swindon
+	15.00		Chesterfield	2-1	Colchester
+
+Matchday 24
+
+[Fri Sep/08]
+	15.00		Doncaster	0-0	Tranmere
+	15.00		Hartlepool	1-1	Blackpool
+	15.00		Hull	2-0	Oldham
+	15.00		Luton	1-0	Torquay
+	15.00		Milton Keynes Dons	1-3	Bournemouth
+	15.00		Peterboro	3-0	Brentford
+	15.00		Sheffield Weds	1-0	Huddersfield
+	15.00		Stockport	0-1	Bradford
+	15.00		Walsall	2-2	Barnsley
+	15.00		Wrexham	1-1	Port Vale
+[Sun Oct/01]
+	15.00		Tranmere	0-1	Bristol City
+[Wed Oct/04]
+	15.00		Bradford	0-2	Hull
+
+Matchday 25
+
+[Wed Nov/01]
+	15.00		Peterboro	2-2	Wrexham
+[Thu Nov/02]
+	15.00		Bristol City	0-1	Walsall
+[Fri Nov/10]
+	15.00		Barnsley	2-2	Swindon
+	15.00		Bradford	3-1	Sheffield Weds
+	15.00		Brentford	0-3	Blackpool
+	15.00		Chesterfield	0-0	Doncaster
+	15.00		Colchester	1-2	Tranmere
+	15.00		Huddersfield	3-1	Milton Keynes Dons
+	15.00		Hull	3-0	Luton
+	15.00		Oldham	1-2	Bournemouth
+	15.00		Peterboro	3-0	Hartlepool
+	15.00		Port Vale	0-0	Stockport
+
+Matchday 26
+
+[Fri Nov/10]
+	15.00		Walsall	1-2	Bristol City
+[Sat Nov/11]
+	15.00		Torquay	1-0	Wrexham
+[Sat Dec/02]
+	15.00		Bournemouth	4-0	Oldham
+	15.00		Doncaster	0-1	Chesterfield
+	15.00		Luton	1-0	Hull
+	15.00		Milton Keynes Dons	2-1	Huddersfield
+	15.00		Sheffield Weds	1-2	Bradford
+	15.00		Stockport	1-2	Port Vale
+	15.00		Swindon	2-1	Barnsley
+	15.00		Tranmere	1-1	Colchester
+	15.00		Wrexham	1-1	Torquay
+[Sun Dec/03]
+	15.00		Bristol City	0-0	Barnsley
+
+Matchday 27
+
+[Sun Dec/03]
+	15.00		Chesterfield	2-1	Huddersfield
+	15.00		Doncaster	0-0	Brentford
+	15.00		Hartlepool	0-1	Tranmere
+	15.00		Hull	2-0	Torquay
+	15.00		Luton	3-1	Swindon
+	15.00		Milton Keynes Dons	1-1	Port Vale
+	15.00		Peterboro	2-2	Bradford
+	15.00		Sheffield Weds	3-2	Blackpool
+	15.00		Stockport	1-2	Colchester
+	15.00		Walsall	1-2	Bournemouth
+	15.00		Wrexham	1-0	Oldham
+[Mon Dec/04]
+	15.00		Brentford	1-0	Tranmere
+
+Matchday 28
+
+[Mon Dec/04]
+	15.00		Stockport	0-1	Blackpool
+[Thu Jan/04]
+	15.00		Swindon	0-0	Bristol City
+[Tue Jan/09]
+	15.00		Barnsley	1-0	Chesterfield
+	15.00		Bournemouth	5-0	Doncaster
+	15.00		Bristol City	3-3	Huddersfield
+	15.00		Hull	0-0	Stockport
+	15.00		Luton	2-1	Peterboro
+	15.00		Milton Keynes Dons	4-2	Hartlepool
+	15.00		Oldham	1-1	Colchester
+	15.00		Port Vale	0-3	Blackpool
+	15.00		Swindon	1-0	Bradford
+	15.00		Torquay	1-2	Tranmere
+
+Matchday 29
+
+[Tue Jan/09]
+	15.00		Walsall	0-1	Brentford
+	15.00		Wrexham	0-3	Sheffield Weds
+[Sat Feb/10]
+	15.00		Wrexham	1-1	Peterboro
+[Mon Feb/12]
+	15.00		Blackpool	0-2	Hull
+	15.00		Bradford	1-1	Wrexham
+	15.00		Brentford	1-3	Torquay
+	15.00		Chesterfield	0-1	Luton
+	15.00		Doncaster	3-0	Milton Keynes Dons
+	15.00		Hartlepool	2-1	Oldham
+	15.00		Huddersfield	2-1	Port Vale
+	15.00		Peterboro	0-2	Swindon
+	15.00		Sheffield Weds	3-2	Walsall
+
+Matchday 30
+
+[Mon Feb/12]
+	15.00		Stockport	1-2	Bristol City
+	15.00		Tranmere	1-1	Barnsley
+[Thu Mar/01]
+	15.00		Barnsley	4-2	Huddersfield
+	15.00		Bournemouth	1-1	Sheffield Weds
+	15.00		Bristol City	0-0	Bradford
+	15.00		Hull	2-2	Peterboro
+	15.00		Luton	3-0	Stockport
+	15.00		Milton Keynes Dons	2-0	Colchester
+	15.00		Oldham	1-2	Doncaster
+	15.00		Port Vale	0-1	Brentford
+	15.00		Swindon	2-2	Blackpool
+	15.00		Torquay	1-2	Hartlepool
+
+Matchday 31
+
+[Thu Mar/01]
+	15.00		Walsall	3-0	Chesterfield
+	15.00		Wrexham	1-5	Tranmere
+[Fri Mar/02]
+	15.00		Colchester	3-1	Bournemouth
+	15.00		Hartlepool	2-3	Luton
+	15.00		Torquay	2-1	Peterboro
+[Sat Mar/03]
+	15.00		Oldham	0-2	Brentford
+[Sun Mar/04]
+	15.00		Hartlepool	3-0	Sheffield Weds
+[Thu Mar/08]
+	15.00		Tranmere	4-2	Sheffield Weds
+[Sat Mar/10]
+	15.00		Swindon	3-2	Sheffield Weds
+[Sun Mar/11]
+	15.00		Barnsley	1-0	Blackpool
+	15.00		Bradford	1-3	Oldham
+	15.00		Bristol City	1-4	Sheffield Weds
+
+Matchday 32
+
+[Sun Mar/11]
+	15.00		Chesterfield	1-0	Swindon
+	15.00		Hartlepool	3-2	Bournemouth
+	15.00		Huddersfield	1-2	Wrexham
+	15.00		Hull	2-0	Brentford
+	15.00		Luton	1-1	Doncaster
+	15.00		Peterboro	4-0	Port Vale
+	15.00		Stockport	0-1	Walsall
+	15.00		Torquay	1-3	Colchester
+	15.00		Tranmere	2-0	Milton Keynes Dons
+[Wed Apr/04]
+	15.00		Barnsley	2-2	Oldham
+	15.00		Bradford	4-1	Brentford
+	15.00		Bristol City	1-0	Wrexham
+
+Matchday 33
+
+[Wed Apr/04]
+	15.00		Chesterfield	2-3	Bournemouth
+	15.00		Huddersfield	2-2	Colchester
+	15.00		Hull	0-0	Swindon
+	15.00		Luton	1-0	Milton Keynes Dons
+	15.00		Peterboro	0-2	Walsall
+	15.00		Stockport	2-4	Doncaster
+	15.00		Torquay	1-0	Port Vale
+	15.00		Tranmere	0-0	Blackpool
+[Sun Apr/08]
+	15.00		Barnsley	1-2	Hull
+	15.00		Blackpool	1-3	Luton
+	15.00		Bournemouth	1-0	Wrexham
+	15.00		Bradford	2-3	Chesterfield
+
+Matchday 34
+
+[Sun Apr/08]
+	15.00		Brentford	3-0	Stockport
+	15.00		Colchester	4-1	Doncaster
+	15.00		Huddersfield	2-1	Peterboro
+	15.00		Oldham	3-0	Milton Keynes Dons
+	15.00		Port Vale	3-0	Bristol City
+	15.00		Swindon	3-0	Hartlepool
+	15.00		Torquay	0-0	Walsall
+[Thu Apr/12]
+	15.00		Barnsley	3-3	Stockport
+	15.00		Bournemouth	2-2	Huddersfield
+	15.00		Bristol City	0-0	Hartlepool
+	15.00		Luton	2-2	Colchester
+	15.00		Milton Keynes Dons	3-1	Blackpool
+
+Matchday 35
+
+[Thu Apr/12]
+	15.00		Oldham	2-1	Peterboro
+	15.00		Port Vale	0-2	Sheffield Weds
+	15.00		Swindon	3-0	Brentford
+	15.00		Torquay	0-0	Bradford
+	15.00		Walsall	0-2	Tranmere
+	15.00		Wrexham	3-1	Chesterfield
+[Sat May/12]
+	15.00		Hull	2-1	Doncaster
+[Sun Jun/03]
+	15.00		Tranmere	5-0	Peterboro
+[Fri Jun/08]
+	15.00		Bristol City	4-1	Brentford
+	15.00		Doncaster	2-1	Huddersfield
+	15.00		Hartlepool	2-1	Colchester
+	15.00		Luton	1-0	Bournemouth
+
+Matchday 36
+
+[Fri Jun/08]
+	15.00		Milton Keynes Dons	1-0	Torquay
+	15.00		Peterboro	0-0	Blackpool
+	15.00		Sheffield Weds	1-1	Oldham
+	15.00		Stockport	1-1	Tranmere
+	15.00		Walsall	3-2	Swindon
+	15.00		Wrexham	2-1	Barnsley
+[Sun Jun/10]
+	15.00		Blackpool	1-1	Huddersfield
+	15.00		Bournemouth	1-3	Barnsley
+	15.00		Bristol City	0-0	Colchester
+	15.00		Doncaster	2-1	Peterboro
+	15.00		Hartlepool	1-0	Port Vale
+	15.00		Luton	4-0	Bradford
+
+Matchday 37
+
+[Sun Jun/10]
+	15.00		Milton Keynes Dons	1-1	Walsall
+	15.00		Sheffield Weds	2-2	Chesterfield
+	15.00		Stockport	1-2	Oldham
+	15.00		Swindon	3-3	Torquay
+	15.00		Tranmere	1-0	Brentford
+	15.00		Wrexham	2-2	Hull
+[Mon Jul/02]
+	15.00		Barnsley	0-1	Bournemouth
+	15.00		Bradford	0-1	Luton
+	15.00		Chesterfield	1-3	Sheffield Weds
+	15.00		Colchester	0-2	Bristol City
+	15.00		Huddersfield	1-0	Blackpool
+	15.00		Hull	2-1	Wrexham
+
+Matchday 38
+
+[Mon Jul/02]
+	15.00		Oldham	1-2	Stockport
+	15.00		Peterboro	0-2	Doncaster
+	15.00		Port Vale	0-1	Hartlepool
+	15.00		Torquay	2-2	Swindon
+	15.00		Walsall	0-0	Milton Keynes Dons
+[Tue Jul/03]
+	15.00		Barnsley	1-1	Milton Keynes Dons
+	15.00		Blackpool	1-1	Doncaster
+	15.00		Bournemouth	0-4	Hull
+	15.00		Bradford	1-2	Hartlepool
+	15.00		Brentford	2-2	Chesterfield
+	15.00		Colchester	1-1	Sheffield Weds
+	15.00		Huddersfield	5-3	Stockport
+
+Matchday 39
+
+[Tue Jul/03]
+	15.00		Oldham	2-2	Luton
+	15.00		Port Vale	2-0	Walsall
+	15.00		Swindon	4-2	Wrexham
+	15.00		Torquay	0-4	Bristol City
+[Sun Jul/08]
+	15.00		Chesterfield	1-0	Port Vale
+	15.00		Hull	0-1	Bradford
+[Sat Sep/01]
+	15.00		Sheffield Weds	1-0	Port Vale
+[Mon Oct/01]
+	15.00		Blackpool	1-0	Milton Keynes Dons
+	15.00		Bradford	2-2	Torquay
+	15.00		Brentford	2-1	Swindon
+	15.00		Chesterfield	2-4	Wrexham
+	15.00		Colchester	0-0	Luton
+
+Matchday 40
+
+[Mon Oct/01]
+	15.00		Doncaster	1-0	Hull
+	15.00		Hartlepool	2-1	Bristol City
+	15.00		Huddersfield	3-2	Bournemouth
+	15.00		Peterboro	1-2	Oldham
+	15.00		Stockport	2-2	Barnsley
+	15.00		Tranmere	2-1	Walsall
+[Tue Oct/02]
+	15.00		Blackpool	2-1	Bradford
+	15.00		Bournemouth	3-0	Torquay
+	15.00		Bristol City	5-1	Oldham
+	15.00		Doncaster	4-0	Barnsley
+	15.00		Hartlepool	3-1	Brentford
+	15.00		Luton	1-0	Walsall
+
+Matchday 41
+
+[Tue Oct/02]
+	15.00		Milton Keynes Dons	1-1	Hull
+	15.00		Stockport	1-2	Chesterfield
+	15.00		Tranmere	3-0	Huddersfield
+	15.00		Wrexham	2-2	Colchester
+[Wed Oct/03]
+	15.00		Blackpool	2-1	Brentford
+[Fri Nov/02]
+	15.00		Sheffield Weds	2-1	Peterboro
+	15.00		Swindon	1-0	Port Vale
+[Sun Nov/04]
+	15.00		Blackpool	1-0	Chesterfield
+	15.00		Bournemouth	0-1	Peterboro
+	15.00		Brentford	0-1	Huddersfield
+	15.00		Colchester	0-0	Bradford
+	15.00		Doncaster	2-0	Hartlepool
+
+Matchday 42
+
+[Sun Nov/04]
+	15.00		Milton Keynes Dons	1-2	Bristol City
+	15.00		Oldham	1-2	Torquay
+	15.00		Port Vale	5-0	Barnsley
+	15.00		Sheffield Weds	0-0	Stockport
+	15.00		Swindon	2-1	Tranmere
+	15.00		Walsall	3-0	Hull
+	15.00		Wrexham	1-2	Luton
+[Mon Dec/03]
+	15.00		Doncaster	1-1	Bradford
+[Tue Jan/01]
+	15.00		Brentford	1-1	Barnsley
+	15.00		Colchester	5-0	Walsall
+[Thu Jan/03]
+	15.00		Hartlepool	0-1	Huddersfield
+	15.00		Luton	1-3	Barnsley
+
+Matchday 43
+
+[Thu Jan/03]
+	15.00		Milton Keynes Dons	1-1	Swindon
+	15.00		Peterboro	0-3	Colchester
+[Sat Feb/02]
+	15.00		Barnsley	4-1	Torquay
+	15.00		Bournemouth	1-1	Tranmere
+	15.00		Brentford	3-3	Sheffield Weds
+	15.00		Bristol City	1-1	Blackpool
+	15.00		Chesterfield	1-3	Peterboro
+	15.00		Doncaster	1-1	Swindon
+	15.00		Huddersfield	2-1	Oldham
+	15.00		Hull	2-0	Colchester
+	15.00		Port Vale	3-1	Luton
+	15.00		Stockport	1-0	Hartlepool
+
+Matchday 44
+
+[Sat Feb/02]
+	15.00		Walsall	1-1	Bradford
+	15.00		Wrexham	0-0	Milton Keynes Dons
+[Sun Feb/03]
+	15.00		Chesterfield	2-2	Tranmere
+	15.00		Hull	2-2	Port Vale
+	15.00		Sheffield Weds	2-2	Torquay
+	15.00		Walsall	0-1	Oldham
+[Mon Feb/04]
+	15.00		Port Vale	0-2	Wrexham
+[Mon Apr/01]
+	15.00		Bristol City	2-3	Chesterfield
+[Wed Apr/03]
+	15.00		Barnsley	3-2	Walsall
+	15.00		Blackpool	2-2	Hartlepool
+	15.00		Bournemouth	0-1	Milton Keynes Dons
+	15.00		Bradford	3-1	Stockport
+
+Matchday 45
+
+[Wed Apr/03]
+	15.00		Brentford	0-0	Peterboro
+	15.00		Colchester	1-0	Chesterfield
+	15.00		Oldham	1-0	Hull
+	15.00		Torquay	1-4	Luton
+	15.00		Tranmere	2-4	Doncaster
+[Wed May/01]
+	15.00		Luton	1-1	Tranmere
+	15.00		Milton Keynes Dons	2-2	Sheffield Weds
+	15.00		Swindon	3-0	Stockport
+	15.00		Walsall	4-3	Huddersfield
+	15.00		Wrexham	0-0	Doncaster
+[Fri May/03]
+	15.00		Huddersfield	1-0	Sheffield Weds
+[Sat May/04]
+	15.00		Tranmere	1-0	Port Vale
+
+Matchday 46
+
+[Tue Jun/04]
+	15.00		Barnsley	1-1	Colchester
+	15.00		Bradford	4-2	Bournemouth
+	15.00		Bristol City	2-2	Doncaster
+	15.00		Chesterfield	1-0	Oldham
+	15.00		Hartlepool	1-3	Walsall
+	15.00		Huddersfield	4-0	Swindon
+	15.00		Hull	1-2	Sheffield Weds
+	15.00		Luton	4-2	Brentford
+	15.00		Peterboro	0-3	Milton Keynes Dons
+	15.00		Stockport	1-4	Wrexham
+	15.00		Torquay	2-0	Blackpool
+[Mon Jul/01]
+	15.00		Barnsley	2-2	Bradford
+

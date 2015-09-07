@@ -1,0 +1,861 @@
+############################
+# Premier League 1996-1997
+
+Matchday 1
+
+[Tue Jan/09]
+	15.00		QPR	1-2	Bolton
+[Wed Jan/10]
+	15.00		Grimsby	1-4	Norwich
+	15.00		Ipswich	1-1	Barnsley
+	15.00		Oldham	1-1	West Brom
+	15.00		Portsmouth	2-2	Crystal Palace
+	15.00		Southend	3-2	Sheffield United
+	15.00		Tranmere	0-0	Oxford
+[Fri Jan/12]
+	15.00		Wolves	3-0	Man City
+[Sat Feb/10]
+	15.00		Bradford	2-1	Swindon
+	15.00		QPR	1-2	Port Vale
+	15.00		Wolves	1-2	Bolton
+[Sun Feb/11]
+	15.00		Bolton	2-0	Huddersfield
+
+Matchday 2
+
+[Sun Feb/11]
+	15.00		Bradford	0-3	Oldham
+	15.00		Norwich	1-2	Charlton
+	15.00		Oxford	3-1	Ipswich
+	15.00		Port Vale	3-0	Birmingham
+	15.00		Portsmouth	4-0	West Brom
+	15.00		QPR	1-1	Stoke
+	15.00		Southend	2-1	Reading
+	15.00		Swindon	2-0	Man City
+	15.00		Tranmere	1-3	Crystal Palace
+	15.00		Wolves	3-3	Barnsley
+[Sat Mar/09]
+	15.00		Man City	2-1	Charlton
+[Mon Mar/11]
+	15.00		Grimsby	2-4	Sheffield United
+
+Matchday 3
+
+[Tue Mar/12]
+	15.00		Birmingham	0-0	Barnsley
+	15.00		Reading	2-0	Tranmere
+	15.00		Sheffield United	3-1	Huddersfield
+[Wed Apr/10]
+	15.00		Tranmere	4-3	Portsmouth
+[Fri Apr/12]
+	15.00		Stoke	1-0	Charlton
+[Fri May/10]
+	15.00		Bradford	0-0	Southend
+	15.00		Grimsby	2-0	QPR
+	15.00		Oldham	3-0	Port Vale
+	15.00		Wolves	0-1	Reading
+[Sun Jun/09]
+	15.00		Wolves	1-0	Charlton
+[Tue Jul/09]
+	15.00		Bradford	0-2	Norwich
+	15.00		Grimsby	2-1	Swindon
+
+Matchday 4
+
+[Tue Jul/09]
+	15.00		Ipswich	1-3	Huddersfield
+	15.00		Man City	1-2	Barnsley
+	15.00		Oldham	0-2	Sheffield United
+	15.00		Portsmouth	1-1	Port Vale
+	15.00		QPR	0-2	West Brom
+	15.00		Southend	5-2	Bolton
+	15.00		Stoke	2-2	Crystal Palace
+	15.00		Tranmere	1-0	Birmingham
+[Fri Jul/12]
+	15.00		Barnsley	3-0	Southend
+	15.00		Birmingham	0-0	Grimsby
+	15.00		Charlton	2-0	Swindon
+	15.00		Crystal Palace	2-2	Oxford
+
+Matchday 5
+
+[Fri Jul/12]
+	15.00		Huddersfield	2-0	Norwich
+	15.00		Ipswich	0-0	Wolves
+	15.00		Man City	3-2	Bradford
+	15.00		Oldham	0-2	QPR
+	15.00		Reading	0-1	Port Vale
+	15.00		Sheffield United	1-0	Portsmouth
+	15.00		Stoke	2-0	Tranmere
+[Fri Aug/09]
+	15.00		Reading	2-0	Oxford
+[Sat Aug/10]
+	15.00		Huddersfield	3-0	Birmingham
+[Sun Aug/11]
+	15.00		Huddersfield	3-3	Bradford
+[Mon Aug/12]
+	15.00		West Brom	2-2	Bolton
+[Wed Sep/11]
+	15.00		Ipswich	1-1	Southend
+
+Matchday 6
+
+[Wed Sep/11]
+	15.00		Oldham	0-0	Portsmouth
+	15.00		West Brom	1-1	Port Vale
+[Wed Oct/09]
+	15.00		Barnsley	3-0	Stoke
+	15.00		Birmingham	0-0	Oldham
+	15.00		Bolton	6-1	Grimsby
+	15.00		Charlton	2-0	Southend
+	15.00		Crystal Palace	0-0	Ipswich
+	15.00		Huddersfield	0-1	Tranmere
+	15.00		Oxford	1-1	Wolves
+	15.00		Port Vale	0-2	Man City
+	15.00		Sheffield United	3-0	Bradford
+	15.00		West Brom	3-2	Reading
+
+Matchday 7
+
+[Fri Oct/11]
+	15.00		Crystal Palace	3-0	QPR
+[Sat Nov/09]
+	15.00		Norwich	1-1	QPR
+	15.00		Swindon	0-1	Portsmouth
+[Sun Nov/10]
+	15.00		Norwich	3-1	Ipswich
+[Tue Dec/10]
+	15.00		Barnsley	0-0	Crystal Palace
+	15.00		Birmingham	3-0	Bradford
+	15.00		Bolton	3-1	Oldham
+	15.00		Portsmouth	2-0	Charlton
+	15.00		QPR	2-2	Man City
+	15.00		Reading	1-1	Grimsby
+	15.00		Sheffield United	0-0	Tranmere
+	15.00		Swindon	1-0	Oxford
+
+Matchday 8
+
+[Tue Dec/10]
+	15.00		West Brom	1-1	Huddersfield
+[Wed Dec/11]
+	15.00		Barnsley	3-1	Norwich
+[Wed Jan/01]
+	15.00		Bolton	2-1	Bradford
+	15.00		Charlton	1-1	Ipswich
+	15.00		Huddersfield	2-1	Stoke
+	15.00		Norwich	1-0	Portsmouth
+	15.00		West Brom	1-2	Tranmere
+[Thu Jan/02]
+	15.00		Bolton	2-1	Birmingham
+	15.00		Bradford	1-1	Huddersfield
+	15.00		Grimsby	2-0	Charlton
+	15.00		Norwich	1-1	Barnsley
+	15.00		Port Vale	2-2	West Brom
+
+Matchday 9
+
+[Thu Jan/02]
+	15.00		Portsmouth	1-0	Oldham
+	15.00		QPR	0-1	Crystal Palace
+	15.00		Southend	0-0	Ipswich
+	15.00		Swindon	2-1	Sheffield United
+	15.00		Tranmere	2-2	Reading
+	15.00		Wolves	2-0	Stoke
+[Fri Jan/03]
+	15.00		Bradford	1-3	Man City
+	15.00		Grimsby	1-2	Birmingham
+	15.00		Norwich	2-0	Huddersfield
+	15.00		Oxford	1-4	Crystal Palace
+	15.00		Port Vale	1-0	Reading
+	15.00		Portsmouth	1-1	Sheffield United
+
+Matchday 10
+
+[Fri Jan/03]
+	15.00		QPR	0-1	Oldham
+	15.00		Southend	1-2	Barnsley
+	15.00		Swindon	1-0	Charlton
+	15.00		Wolves	0-0	Ipswich
+[Sun Jan/05]
+	15.00		Bradford	1-0	Charlton
+[Thu Jan/09]
+	15.00		Huddersfield	3-2	Oldham
+[Fri Jan/10]
+	15.00		Port Vale	1-1	Stoke
+	15.00		Southend	1-1	Wolves
+[Sat Jan/11]
+	15.00		Birmingham	3-1	Bolton
+	15.00		Man City	2-3	Oxford
+	15.00		West Brom	1-2	Sheffield United
+[Sun Feb/02]
+	15.00		Oxford	1-4	Man City
+
+Matchday 11
+
+[Mon Feb/03]
+	15.00		Bolton	1-0	West Brom
+[Sun Feb/09]
+	15.00		Barnsley	1-3	QPR
+	15.00		Birmingham	3-1	Stoke
+	15.00		Bolton	2-0	Portsmouth
+	15.00		Charlton	1-0	Reading
+	15.00		Crystal Palace	3-1	Man City
+	15.00		Norwich	0-0	Southend
+	15.00		Oxford	2-0	Bradford
+	15.00		Port Vale	1-1	Grimsby
+	15.00		Sheffield United	1-3	Ipswich
+	15.00		Swindon	2-1	Tranmere
+[Wed Feb/12]
+	15.00		Barnsley	3-0	Tranmere
+
+Matchday 12
+
+[Wed Feb/12]
+	15.00		Bolton	1-2	Ipswich
+	15.00		Charlton	1-3	Port Vale
+	15.00		Norwich	1-1	Crystal Palace
+	15.00		Oxford	4-1	Sheffield United
+	15.00		Portsmouth	3-1	Huddersfield
+	15.00		QPR	4-0	Southend
+	15.00		Stoke	2-0	Swindon
+	15.00		Wolves	0-1	Oldham
+[Wed Mar/05]
+	15.00		Man City	3-2	Reading
+[Sun Mar/09]
+	15.00		West Brom	2-4	Wolves
+[Mon Mar/10]
+	15.00		Barnsley	0-0	Oxford
+	15.00		Birmingham	1-0	Ipswich
+
+Matchday 13
+
+[Mon Mar/10]
+	15.00		Bolton	1-0	Tranmere
+	15.00		Portsmouth	0-2	Wolves
+	15.00		Reading	2-0	Man City
+	15.00		Sheffield United	3-0	Charlton
+[Tue Mar/11]
+	15.00		Tranmere	1-1	Oldham
+[Wed Apr/02]
+	15.00		Birmingham	2-3	West Brom
+[Thu Apr/03]
+	15.00		Barnsley	1-1	Swindon
+	15.00		Birmingham	1-2	Wolves
+	15.00		Charlton	2-1	QPR
+	15.00		Crystal Palace	1-1	Bolton
+	15.00		Huddersfield	1-0	Oxford
+	15.00		Ipswich	3-2	Bradford
+
+Matchday 14
+
+[Thu Apr/03]
+	15.00		Oldham	1-2	Tranmere
+	15.00		Reading	2-1	Norwich
+	15.00		Sheffield United	3-0	Port Vale
+[Fri Apr/04]
+	15.00		Tranmere	3-0	Bradford
+[Sat Apr/05]
+	15.00		Bradford	3-0	QPR
+	15.00		Charlton	0-0	Sheffield United
+	15.00		Crystal Palace	1-1	Port Vale
+	15.00		Grimsby	4-0	Southend
+	15.00		Huddersfield	0-0	Swindon
+	15.00		Ipswich	1-1	Birmingham
+	15.00		Oldham	3-0	Norwich
+	15.00		Oxford	5-1	Barnsley
+
+Matchday 15
+
+[Sat Apr/05]
+	15.00		Stoke	2-1	West Brom
+	15.00		Tranmere	2-2	Bolton
+	15.00		Wolves	0-1	Portsmouth
+[Tue Apr/08]
+	15.00		Man City	1-0	Ipswich
+[Thu Apr/10]
+	15.00		Norwich	2-0	Oldham
+	15.00		Port Vale	0-2	Crystal Palace
+	15.00		QPR	1-0	Bradford
+	15.00		Southend	1-0	Grimsby
+	15.00		Swindon	6-0	Huddersfield
+	15.00		West Brom	0-2	Stoke
+[Fri Apr/11]
+	15.00		Bolton	2-2	Crystal Palace
+	15.00		Bradford	2-1	Ipswich
+
+Matchday 16
+
+[Fri Apr/11]
+	15.00		Grimsby	1-1	Stoke
+	15.00		Norwich	1-1	Reading
+	15.00		Oxford	1-0	Huddersfield
+	15.00		Port Vale	0-0	Sheffield United
+	15.00		Portsmouth	2-1	Man City
+	15.00		QPR	1-2	Charlton
+	15.00		Southend	2-3	West Brom
+	15.00		Swindon	3-0	Barnsley
+[Fri May/02]
+	15.00		Swindon	1-1	QPR
+[Sat May/03]
+	15.00		Man City	1-1	Portsmouth
+	15.00		Stoke	3-1	Grimsby
+	15.00		West Brom	4-0	Southend
+
+Matchday 17
+
+[Sun May/04]
+	15.00		Barnsley	0-1	Birmingham
+	15.00		Bolton	2-1	QPR
+	15.00		Charlton	1-1	Man City
+	15.00		Crystal Palace	1-1	Huddersfield
+	15.00		Ipswich	4-0	Oldham
+	15.00		Oxford	0-2	Port Vale
+	15.00		Portsmouth	1-0	Grimsby
+	15.00		Sheffield United	1-2	West Brom
+	15.00		Stoke	1-1	Reading
+	15.00		Swindon	0-0	Southend
+	15.00		Wolves	3-2	Norwich
+[Thu May/08]
+	15.00		Bradford	3-1	Portsmouth
+
+Matchday 18
+
+[Thu May/08]
+	15.00		Grimsby	1-3	Wolves
+	15.00		Huddersfield	2-0	Charlton
+	15.00		Norwich	2-0	Swindon
+	15.00		Oldham	1-2	Stoke
+	15.00		Port Vale	1-1	Bolton
+	15.00		QPR	2-1	Oxford
+	15.00		Reading	1-0	Sheffield United
+	15.00		Southend	1-1	Tranmere
+	15.00		West Brom	1-2	Barnsley
+[Sun May/11]
+	15.00		Wolves	1-2	Birmingham
+[Mon May/12]
+	15.00		Bradford	0-0	Reading
+	15.00		Crystal Palace	0-1	Sheffield United
+
+Matchday 19
+
+[Sun Jun/08]
+	15.00		Birmingham	1-0	Crystal Palace
+[Tue Jun/10]
+	15.00		Oxford	0-0	Birmingham
+[Thu Jun/12]
+	15.00		West Brom	5-1	Norwich
+[Wed Jul/02]
+	15.00		Charlton	3-1	Tranmere
+	15.00		Stoke	2-1	Oxford
+[Thu Jul/03]
+	15.00		Barnsley	2-0	Sheffield United
+[Thu Jul/10]
+	15.00		Bradford	2-2	Barnsley
+	15.00		Charlton	3-3	Bolton
+	15.00		Crystal Palace	1-2	Swindon
+	15.00		Grimsby	1-1	West Brom
+	15.00		Huddersfield	0-0	Southend
+	15.00		Ipswich	1-1	Portsmouth
+
+Matchday 20
+
+[Thu Jul/10]
+	15.00		Man City	2-1	Norwich
+	15.00		Oldham	1-1	Reading
+	15.00		Stoke	0-4	Sheffield United
+	15.00		Wolves	0-1	Port Vale
+[Fri Jul/11]
+	15.00		Ipswich	3-2	Swindon
+	15.00		Man City	0-0	Huddersfield
+	15.00		Oxford	0-0	Bolton
+[Sat Aug/02]
+	15.00		Barnsley	1-0	Port Vale
+	15.00		Birmingham	0-3	Portsmouth
+	15.00		Crystal Palace	3-1	Bradford
+	15.00		Huddersfield	0-2	Wolves
+	15.00		Ipswich	2-0	QPR
+
+Matchday 21
+
+[Sat Aug/02]
+	15.00		Man City	3-0	Southend
+	15.00		Oldham	0-3	Grimsby
+	15.00		Reading	3-2	Bolton
+	15.00		West Brom	1-2	Swindon
+[Sun Aug/03]
+	15.00		Birmingham	2-1	Southend
+	15.00		Bolton	7-0	Swindon
+	15.00		Bradford	3-4	Grimsby
+	15.00		Charlton	2-1	Crystal Palace
+	15.00		Man City	1-0	Oldham
+	15.00		Norwich	1-1	Port Vale
+	15.00		Oxford	1-0	West Brom
+	15.00		QPR	2-0	Huddersfield
+
+Matchday 22
+
+[Sun Aug/03]
+	15.00		Stoke	0-1	Ipswich
+	15.00		Wolves	3-2	Tranmere
+[Mon Aug/04]
+	15.00		Oldham	2-2	Birmingham
+[Fri Aug/08]
+	15.00		Bolton	1-0	Man City
+[Sat Aug/09]
+	15.00		Ipswich	2-1	Charlton
+[Sun Aug/10]
+	15.00		Tranmere	2-3	QPR
+[Mon Aug/11]
+	15.00		Charlton	2-1	Birmingham
+[Tue Aug/12]
+	15.00		Southend	1-1	Birmingham
+[Tue Sep/02]
+	15.00		Sheffield United	2-3	Norwich
+[Thu Sep/04]
+	15.00		Charlton	2-1	Huddersfield
+	15.00		Man City	1-2	Bolton
+	15.00		West Brom	1-0	Crystal Palace
+
+Matchday 23
+
+[Tue Sep/09]
+	15.00		Bradford	2-4	Bolton
+	15.00		Grimsby	0-2	Oxford
+	15.00		Man City	1-0	Birmingham
+	15.00		Oldham	0-1	Barnsley
+	15.00		Portsmouth	0-1	Norwich
+	15.00		QPR	1-1	Swindon
+	15.00		Reading	1-6	Crystal Palace
+	15.00		Southend	0-0	Port Vale
+	15.00		Tranmere	2-3	West Brom
+	15.00		Wolves	1-2	Sheffield United
+[Fri Sep/12]
+	15.00		Crystal Palace	1-0	Charlton
+	15.00		Grimsby	1-1	Bradford
+
+Matchday 24
+
+[Fri Sep/12]
+	15.00		Huddersfield	1-2	QPR
+	15.00		Ipswich	1-1	Stoke
+	15.00		Oldham	2-1	Man City
+	15.00		Port Vale	6-1	Norwich
+	15.00		Reading	0-0	Portsmouth
+	15.00		Sheffield United	0-1	Barnsley
+	15.00		Tranmere	0-2	Wolves
+	15.00		West Brom	3-3	Oxford
+[Wed Oct/01]
+	15.00		Stoke	1-0	Birmingham
+	15.00		Tranmere	2-1	Swindon
+[Thu Oct/09]
+	15.00		Stoke	3-2	Huddersfield
+[Sat Oct/11]
+	15.00		Sheffield United	1-1	Bolton
+
+Matchday 25
+
+[Sun Oct/12]
+	15.00		Swindon	2-2	Bolton
+[Sat Nov/01]
+	15.00		Bradford	2-0	Oxford
+	15.00		Grimsby	1-1	Port Vale
+	15.00		Man City	1-1	Crystal Palace
+	15.00		Portsmouth	0-3	Bolton
+	15.00		QPR	3-1	Barnsley
+	15.00		Reading	2-2	Charlton
+[Mon Nov/03]
+	15.00		Birmingham	2-0	Man City
+[Sat Nov/08]
+	15.00		Portsmouth	1-2	QPR
+	15.00		Tranmere	3-2	Grimsby
+[Tue Nov/11]
+	15.00		Barnsley	3-2	Portsmouth
+	15.00		Birmingham	1-0	Swindon
+
+Matchday 26
+
+[Tue Nov/11]
+	15.00		Charlton	0-2	Bradford
+	15.00		Crystal Palace	2-3	Wolves
+	15.00		Huddersfield	2-0	Grimsby
+	15.00		Ipswich	2-1	Port Vale
+	15.00		Man City	1-2	Tranmere
+	15.00		Oldham	2-1	Oxford
+	15.00		Reading	2-1	QPR
+	15.00		Stoke	1-2	Southend
+[Mon Dec/01]
+	15.00		Wolves	2-0	West Brom
+[Wed Dec/03]
+	15.00		QPR	0-2	Reading
+[Thu Dec/04]
+	15.00		Barnsley	4-0	Charlton
+	15.00		Birmingham	1-0	Huddersfield
+
+Matchday 27
+
+[Thu Dec/04]
+	15.00		Bolton	4-0	Oxford
+	15.00		Norwich	2-0	Stoke
+	15.00		Port Vale	3-2	Oldham
+	15.00		Portsmouth	1-3	Tranmere
+	15.00		QPR	3-0	Grimsby
+	15.00		Reading	2-1	Wolves
+	15.00		Sheffield United	3-0	Crystal Palace
+	15.00		Southend	1-1	Bradford
+	15.00		Swindon	0-4	Ipswich
+	15.00		West Brom	1-3	Man City
+[Mon Dec/08]
+	15.00		Bolton	3-1	Norwich
+	15.00		Charlton	1-1	West Brom
+
+Matchday 28
+
+[Mon Dec/08]
+	15.00		Crystal Palace	3-1	Oldham
+	15.00		Ipswich	5-2	Reading
+	15.00		Oxford	5-0	Southend
+	15.00		Sheffield United	4-4	Birmingham
+	15.00		Stoke	2-1	Man City
+	15.00		Swindon	1-1	Port Vale
+	15.00		Wolves	1-0	Bradford
+[Thu Jan/08]
+	15.00		Barnsley	3-1	Huddersfield
+[Sat Jan/10]
+	15.00		Barnsley	2-2	Bolton
+[Tue Feb/10]
+	15.00		Birmingham	2-3	Norwich
+	15.00		Charlton	2-0	Oxford
+	15.00		Crystal Palace	3-0	Grimsby
+
+Matchday 29
+
+[Tue Feb/10]
+	15.00		Huddersfield	0-1	Port Vale
+	15.00		Ipswich	0-2	Tranmere
+	15.00		Oldham	0-0	Southend
+	15.00		Reading	2-0	Swindon
+	15.00		Sheffield United	1-1	QPR
+	15.00		Stoke	3-1	Portsmouth
+	15.00		West Brom	0-0	Bradford
+[Wed Feb/11]
+	15.00		Charlton	1-3	Grimsby
+	15.00		Reading	0-0	Birmingham
+	15.00		Sheffield United	2-0	Swindon
+[Thu Feb/12]
+	15.00		Bradford	1-2	Sheffield United
+	15.00		Grimsby	1-2	Bolton
+
+Matchday 30
+
+[Thu Feb/12]
+	15.00		Ipswich	3-1	Crystal Palace
+	15.00		Man City	0-1	Port Vale
+	15.00		Portsmouth	0-1	Swindon
+	15.00		QPR	3-2	Norwich
+	15.00		Reading	2-2	West Brom
+	15.00		Southend	0-2	Charlton
+	15.00		Stoke	1-0	Barnsley
+	15.00		Tranmere	1-1	Huddersfield
+	15.00		Wolves	3-1	Oxford
+[Mon Mar/02]
+	15.00		Bolton	2-2	Sheffield United
+	15.00		Charlton	2-2	Barnsley
+	15.00		Grimsby	2-2	Huddersfield
+
+Matchday 31
+
+[Mon Mar/02]
+	15.00		Norwich	2-4	West Brom
+	15.00		Oxford	3-1	Oldham
+	15.00		Port Vale	2-2	Ipswich
+	15.00		Southend	2-1	Stoke
+	15.00		Wolves	0-3	Crystal Palace
+[Tue Mar/03]
+	15.00		Crystal Palace	2-0	Norwich
+	15.00		Grimsby	1-1	Man City
+	15.00		Huddersfield	1-3	Portsmouth
+	15.00		Ipswich	0-1	Bolton
+	15.00		Oldham	3-2	Wolves
+	15.00		Port Vale	2-0	Charlton
+	15.00		Reading	0-0	Bradford
+
+Matchday 32
+
+[Tue Mar/03]
+	15.00		Sheffield United	3-1	Oxford
+	15.00		Southend	0-1	QPR
+	15.00		Swindon	1-0	Stoke
+	15.00		Tranmere	1-1	Barnsley
+[Wed Mar/04]
+	15.00		Barnsley	2-0	Oldham
+	15.00		Birmingham	0-0	Tranmere
+	15.00		Crystal Palace	2-0	Stoke
+[Sun Mar/08]
+	15.00		Crystal Palace	0-0	West Brom
+	15.00		Ipswich	1-1	Grimsby
+	15.00		Oxford	0-1	Norwich
+	15.00		Portsmouth	1-0	Southend
+	15.00		Tranmere	2-0	Port Vale
+
+Matchday 33
+
+[Mon Mar/09]
+	15.00		Swindon	1-2	Wolves
+[Tue Mar/10]
+	15.00		Man City	0-1	Wolves
+[Wed Mar/11]
+	15.00		Man City	3-2	West Brom
+[Fri Apr/03]
+	15.00		West Brom	2-0	Birmingham
+[Sat Apr/04]
+	15.00		Man City	3-0	Grimsby
+[Wed Apr/08]
+	15.00		Barnsley	3-0	Reading
+	15.00		Stoke	1-0	Bradford
+	15.00		Swindon	1-0	Oldham
+	15.00		Wolves	1-1	QPR
+[Thu Apr/09]
+	15.00		Barnsley	1-3	Grimsby
+	15.00		Birmingham	0-0	QPR
+	15.00		Bolton	1-1	Stoke
+
+Matchday 34
+
+[Thu Apr/09]
+	15.00		Charlton	1-0	Oldham
+	15.00		Crystal Palace	6-1	Southend
+	15.00		Huddersfield	1-0	Reading
+	15.00		Norwich	1-1	Tranmere
+	15.00		Oxford	2-0	Portsmouth
+	15.00		Sheffield United	2-0	Man City
+	15.00		West Brom	0-0	Ipswich
+[Sun Apr/12]
+	15.00		Barnsley	2-0	Man City
+	15.00		Bolton	3-1	Southend
+	15.00		Charlton	0-0	Wolves
+	15.00		Huddersfield	2-0	Ipswich
+	15.00		Norwich	2-0	Bradford
+
+Matchday 35
+
+[Sun Apr/12]
+	15.00		Oxford	2-1	Reading
+	15.00		Port Vale	0-2	Portsmouth
+	15.00		Sheffield United	2-2	Oldham
+	15.00		West Brom	4-1	QPR
+[Sat May/09]
+	15.00		Port Vale	1-1	Bradford
+[Sun May/10]
+	15.00		Bolton	2-1	Reading
+	15.00		Bradford	0-4	Crystal Palace
+	15.00		Grimsby	0-3	Oldham
+	15.00		Oxford	4-1	Stoke
+	15.00		Port Vale	1-3	Barnsley
+	15.00		Portsmouth	1-1	Birmingham
+	15.00		Southend	2-3	Man City
+
+Matchday 36
+
+[Sun May/10]
+	15.00		Tranmere	4-0	Charlton
+[Mon Jun/01]
+	15.00		Barnsley	1-2	Ipswich
+	15.00		Birmingham	4-1	Reading
+	15.00		Bolton	3-0	Wolves
+	15.00		Charlton	1-2	Stoke
+	15.00		Crystal Palace	1-2	Portsmouth
+	15.00		Huddersfield	1-1	Man City
+	15.00		Norwich	2-1	Grimsby
+	15.00		Oxford	2-1	Tranmere
+	15.00		Sheffield United	3-0	Southend
+	15.00		Swindon	1-1	Bradford
+	15.00		West Brom	1-1	Oldham
+
+Matchday 37
+
+[Wed Jun/03]
+	15.00		Bolton	4-2	Port Vale
+	15.00		Ipswich	3-1	Sheffield United
+	15.00		Oldham	1-1	Charlton
+	15.00		Oxford	3-2	Grimsby
+	15.00		Stoke	1-0	Wolves
+	15.00		Tranmere	1-1	Man City
+[Thu Jun/04]
+	15.00		Ipswich	2-0	Norwich
+[Wed Jun/10]
+	15.00		Norwich	1-1	Sheffield United
+	15.00		QPR	0-1	Ipswich
+	15.00		Swindon	2-3	West Brom
+	15.00		Wolves	0-0	Huddersfield
+[Thu Jun/11]
+	15.00		Bolton	2-2	Barnsley
+
+Matchday 38
+
+[Thu Jun/11]
+	15.00		Bradford	1-1	West Brom
+	15.00		Grimsby	2-1	Crystal Palace
+	15.00		Norwich	0-1	Birmingham
+	15.00		Oxford	0-2	Charlton
+	15.00		Port Vale	0-0	Huddersfield
+	15.00		Portsmouth	1-0	Stoke
+	15.00		QPR	1-0	Sheffield United
+	15.00		Southend	1-1	Oldham
+	15.00		Swindon	3-1	Reading
+	15.00		Tranmere	3-0	Ipswich
+[Wed Jul/01]
+	15.00		Port Vale	4-4	QPR
+[Sat Jul/04]
+	15.00		Bradford	0-2	Birmingham
+
+Matchday 39
+
+[Sat Jul/04]
+	15.00		Charlton	2-1	Portsmouth
+	15.00		Crystal Palace	1-1	Barnsley
+	15.00		Grimsby	2-0	Reading
+	15.00		Huddersfield	0-0	West Brom
+	15.00		Man City	0-3	QPR
+	15.00		Oldham	0-0	Bolton
+	15.00		Oxford	2-0	Swindon
+	15.00		Tranmere	1-1	Sheffield United
+	15.00		Wolves	4-1	Southend
+[Wed Jul/08]
+	15.00		Bradford	1-0	Tranmere
+	15.00		Grimsby	0-1	Portsmouth
+	15.00		Huddersfield	1-1	Crystal Palace
+
+Matchday 40
+
+[Wed Jul/08]
+	15.00		Norwich	1-0	Wolves
+	15.00		Oldham	3-3	Ipswich
+	15.00		Port Vale	2-0	Oxford
+	15.00		Reading	2-2	Stoke
+	15.00		Southend	1-3	Swindon
+[Tue Aug/04]
+	15.00		Stoke	2-0	Port Vale
+[Thu Oct/01]
+	15.00		Stoke	1-2	Norwich
+[Fri Oct/02]
+	15.00		Barnsley	1-3	Wolves
+	15.00		Charlton	4-4	Norwich
+	15.00		Crystal Palace	0-1	Tranmere
+	15.00		Huddersfield	1-2	Bolton
+	15.00		Ipswich	2-1	Oxford
+
+Matchday 41
+
+[Fri Oct/02]
+	15.00		Man City	3-0	Swindon
+	15.00		Oldham	1-2	Bradford
+	15.00		Reading	3-2	Southend
+	15.00		Sheffield United	3-1	Grimsby
+	15.00		Stoke	0-0	QPR
+	15.00		West Brom	0-2	Portsmouth
+[Sat Oct/03]
+	15.00		Birmingham	1-1	Sheffield United
+	15.00		Bradford	2-1	Wolves
+	15.00		Grimsby	0-0	Tranmere
+	15.00		Huddersfield	0-0	Barnsley
+	15.00		Man City	2-0	Stoke
+	15.00		Norwich	0-1	Bolton
+
+Matchday 42
+
+[Sat Oct/03]
+	15.00		Port Vale	1-0	Swindon
+	15.00		QPR	2-1	Portsmouth
+	15.00		Reading	1-0	Ipswich
+	15.00		Southend	2-2	Oxford
+	15.00		West Brom	1-2	Charlton
+[Sun Oct/04]
+	15.00		Ipswich	1-0	Man City
+	15.00		Portsmouth	4-2	Barnsley
+[Mon Nov/02]
+	15.00		Birmingham	1-2	Port Vale
+[Tue Nov/03]
+	15.00		Oldham	0-1	Crystal Palace
+[Wed Nov/04]
+	15.00		Crystal Palace	3-2	Reading
+	15.00		Wolves	1-1	Grimsby
+[Tue Dec/01]
+	15.00		Sheffield United	2-3	Wolves
+
+Matchday 43
+
+[Fri Jan/01]
+	15.00		Ipswich	5-0	West Brom
+	15.00		Oldham	1-2	Huddersfield
+	15.00		Port Vale	2-1	Southend
+	15.00		Swindon	3-3	Grimsby
+[Sat Jan/02]
+	15.00		Southend	1-1	Norwich
+[Sun Jan/03]
+	15.00		Portsmouth	1-0	Reading
+[Mon Jan/04]
+	15.00		Bolton	4-1	Charlton
+	15.00		Norwich	0-0	Man City
+	15.00		Portsmouth	0-1	Ipswich
+	15.00		Sheffield United	1-0	Stoke
+[Tue Feb/02]
+	15.00		Swindon	3-1	Birmingham
+[Thu Feb/04]
+	15.00		Barnsley	2-0	Bradford
+
+Matchday 44
+
+[Thu Feb/04]
+	15.00		Birmingham	2-0	Oxford
+	15.00		QPR	2-0	Tranmere
+	15.00		Reading	2-0	Oldham
+	15.00		Southend	1-2	Huddersfield
+	15.00		Swindon	0-2	Crystal Palace
+	15.00		West Brom	2-0	Grimsby
+[Thu Mar/04]
+	15.00		Port Vale	1-2	Wolves
+[Thu Apr/01]
+	15.00		Bradford	1-0	Port Vale
+	15.00		Grimsby	2-3	Barnsley
+	15.00		Portsmouth	2-1	Oxford
+	15.00		Reading	4-1	Huddersfield
+	15.00		Southend	2-1	Crystal Palace
+
+Matchday 45
+
+[Thu Apr/01]
+	15.00		Tranmere	3-1	Norwich
+[Fri Apr/02]
+	15.00		Tranmere	0-0	Stoke
+[Sat Apr/03]
+	15.00		Barnsley	2-0	West Brom
+	15.00		Tranmere	2-0	Southend
+[Sat May/01]
+	15.00		Man City	0-0	Sheffield United
+	15.00		QPR	1-1	Birmingham
+	15.00		Stoke	1-2	Bolton
+	15.00		Wolves	1-0	Swindon
+[Mon May/03]
+	15.00		Crystal Palace	0-1	Birmingham
+	15.00		Oxford	2-3	QPR
+	15.00		Portsmouth	3-1	Bradford
+	15.00		Sheffield United	2-0	Reading
+
+Matchday 46
+
+[Mon May/03]
+	15.00		Stoke	2-1	Oldham
+	15.00		Swindon	0-3	Norwich
+[Sat Jul/03]
+	15.00		Birmingham	0-0	Charlton
+	15.00		Bradford	1-0	Stoke
+	15.00		Grimsby	2-1	Ipswich
+	15.00		Huddersfield	2-1	Sheffield United
+	15.00		Norwich	1-1	Oxford
+	15.00		Oldham	5-1	Swindon
+	15.00		Port Vale	2-1	Tranmere
+	15.00		QPR	2-2	Wolves
+	15.00		Reading	1-2	Barnsley
+	15.00		Southend	2-1	Portsmouth
+
