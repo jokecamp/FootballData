@@ -3,10 +3,10 @@
 
 league: en
 season: 2009/10
-start_at: 2009-8-1
+start_at: 1909-08-15
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

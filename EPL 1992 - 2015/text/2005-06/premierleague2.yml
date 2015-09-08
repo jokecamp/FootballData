@@ -3,10 +3,10 @@
 
 league: en
 season: 2005/06
-start_at: 2005-8-1
+start_at: 1905-08-06
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Barnsley

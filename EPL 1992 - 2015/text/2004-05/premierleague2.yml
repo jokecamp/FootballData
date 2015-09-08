@@ -3,10 +3,10 @@
 
 league: en
 season: 2004/05
-start_at: 2004-8-1
+start_at: 1904-08-07
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Barnsley

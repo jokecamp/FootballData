@@ -3,10 +3,10 @@
 
 league: en
 season: 2008/09
-start_at: 2008-8-1
+start_at: 1908-08-09
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Brighton

@@ -3,10 +3,10 @@
 
 league: en
 season: 1994/95
-start_at: 1994-8-1
+start_at: 1994-08-20
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 22 teams:
 - Arsenal

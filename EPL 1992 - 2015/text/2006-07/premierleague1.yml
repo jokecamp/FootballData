@@ -3,10 +3,10 @@
 
 league: en
 season: 2006/07
-start_at: 2006-8-1
+start_at: 1906-08-05
 
 fixtures:
-- premierleague1.txt
+- premierleague1
 
 24 teams:
 - Barnsley

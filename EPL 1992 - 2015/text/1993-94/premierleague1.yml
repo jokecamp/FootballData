@@ -3,10 +3,10 @@
 
 league: en
 season: 1993/94
-start_at: 1993-8-1
+start_at: 1993-08-14
 
 fixtures:
-- premierleague1.txt
+- premierleague1
 
 24 teams:
 - Barnsley

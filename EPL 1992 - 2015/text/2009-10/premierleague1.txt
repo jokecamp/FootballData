@@ -3,69 +3,9 @@
 
 Matchday 1
 
-[Mon Jan/11]
-	15.00		Cardiff	1-1	Nott'm Forest
-[Thu Feb/11]
-	15.00		Sheffield United	0-1	Newcastle
-[Wed Mar/10]
-	15.00		Barnsley	2-1	Ipswich
-	15.00		Coventry	1-1	Leicester
-	15.00		Crystal Palace	4-1	Blackpool
-	15.00		Derby	3-0	Sheffield Weds
-	15.00		Newcastle	0-0	Bristol City
-	15.00		Peterboro	1-2	Nott'm Forest
-	15.00		Plymouth	2-1	Scunthorpe
-	15.00		Preston	0-0	West Brom
-	15.00		Reading	0-2	Middlesbrough
-	15.00		Sheffield United	1-1	Doncaster
-
-Matchday 2
-
-[Wed Mar/10]
-	15.00		Swansea	2-0	QPR
-	15.00		Watford	0-4	Cardiff
-[Thu Mar/11]
-	15.00		QPR	1-1	Crystal Palace
-[Wed May/12]
-	15.00		Blackpool	1-2	Barnsley
-	15.00		Bristol City	0-0	Ipswich
-	15.00		Cardiff	1-0	Preston
-	15.00		Crystal Palace	0-3	Doncaster
-	15.00		Derby	2-2	West Brom
-	15.00		Newcastle	2-0	Watford
-	15.00		Nott'm Forest	5-1	Leicester
-	15.00		Peterboro	2-2	Swansea
-	15.00		Plymouth	0-1	Sheffield United
-
-Matchday 3
-
-[Wed May/12]
-	15.00		QPR	1-5	Middlesbrough
-	15.00		Sheffield Weds	0-2	Reading
-[Fri Jun/11]
-	15.00		Derby	2-1	Coventry
-[Sat Jun/12]
-	15.00		Scunthorpe	1-0	Coventry
-[Thu Jul/08]
+[1909-08-07]
 	15.00		Middlesbrough	0-0	Sheffield United
-[Sun Jul/11]
-	15.00		Blackpool	4-1	Scunthorpe
-	15.00		Crystal Palace	1-0	Middlesbrough
-	15.00		Leicester	1-2	West Brom
-	15.00		Newcastle	3-1	Peterboro
-	15.00		Nott'm Forest	1-1	Bristol City
-	15.00		Plymouth	2-1	Doncaster
-	15.00		Reading	1-1	Ipswich
-
-Matchday 4
-
-[Sun Jul/11]
-	15.00		Sheffield Weds	1-2	QPR
-	15.00		Swansea	3-2	Cardiff
-	15.00		Watford	2-0	Preston
-[Mon Jul/12]
-	15.00		Watford	3-1	QPR
-[Sun Aug/08]
+[1909-08-08]
 	15.00		Cardiff	4-0	Scunthorpe
 	15.00		Crystal Palace	1-1	Plymouth
 	15.00		Derby	2-1	Peterboro
@@ -74,211 +14,30 @@ Matchday 4
 	15.00		QPR	1-1	Blackpool
 	15.00		Reading	0-0	Nott'm Forest
 	15.00		Sheffield Weds	2-2	Barnsley
-
-Matchday 5
-
-[Sun Aug/08]
 	15.00		Watford	1-1	Doncaster
 	15.00		West Brom	1-1	Newcastle
-[Thu Aug/12]
-	15.00		Doncaster	1-0	Sheffield Weds
-	15.00		Ipswich	0-0	Peterboro
-	15.00		Leicester	1-3	Bristol City
-	15.00		Middlesbrough	0-3	Blackpool
-	15.00		Preston	0-0	Derby
-	15.00		Reading	2-4	Crystal Palace
-	15.00		Sheffield United	0-0	Nott'm Forest
-	15.00		Swansea	1-0	Plymouth
-	15.00		West Brom	0-2	Cardiff
-[Wed Sep/08]
+[1909-08-09]
 	15.00		Coventry	2-1	Ipswich
 
-Matchday 6
+Matchday 2
 
-[Sat Sep/11]
-	15.00		Barnsley	2-2	Sheffield United
-[Sun Sep/12]
-	15.00		Barnsley	1-1	Scunthorpe
-	15.00		Coventry	0-2	Newcastle
-[Thu Dec/09]
-	15.00		Coventry	1-1	Bristol City
-	15.00		Crystal Palace	0-4	Scunthorpe
-	15.00		Derby	0-1	Sheffield United
-	15.00		Leicester	2-1	Blackpool
-	15.00		Middlesbrough	3-1	Ipswich
-	15.00		Preston	2-0	Swansea
-	15.00		QPR	1-1	Peterboro
-	15.00		Reading	0-0	Doncaster
-	15.00		Sheffield Weds	1-1	Nott'm Forest
-
-Matchday 7
-
-[Thu Dec/09]
-	15.00		Watford	1-0	Barnsley
-	15.00		West Brom	3-1	Plymouth
-[Sun Dec/12]
-	15.00		Barnsley	2-2	Newcastle
-	15.00		Coventry	3-2	Peterboro
-	15.00		Doncaster	1-0	Bristol City
-	15.00		Ipswich	3-1	Blackpool
-	15.00		Leicester	3-0	Sheffield Weds
-	15.00		Preston	2-0	Plymouth
-	15.00		Reading	1-1	Scunthorpe
-	15.00		Sheffield United	2-0	Crystal Palace
-	15.00		Swansea	0-1	Nott'm Forest
-	15.00		Watford	0-1	Derby
-
-Matchday 8
-
-[Sun Jan/09]
-	15.00		Cardiff	0-1	Newcastle
-[Wed Jan/12]
-	15.00		Middlesbrough	0-1	Cardiff
-[Wed Feb/02]
-	15.00		Preston	1-4	Barnsley
-	15.00		Watford	3-0	Sheffield United
-[Fri Feb/04]
-	15.00		Scunthorpe	2-4	Blackpool
-	15.00		West Brom	3-0	Leicester
-[Sat Feb/05]
-	15.00		Blackpool	1-1	Bristol City
-	15.00		Coventry	0-4	Watford
-	15.00		Derby	2-0	Cardiff
-	15.00		Ipswich	0-3	Sheffield United
-	15.00		Leicester	2-0	Middlesbrough
-	15.00		Plymouth	1-2	Peterboro
-
-Matchday 9
-
-[Sat Feb/05]
-	15.00		QPR	0-1	Newcastle
-	15.00		Reading	4-1	Preston
-	15.00		Scunthorpe	2-2	Nott'm Forest
-	15.00		Sheffield Weds	2-2	Crystal Palace
-	15.00		Swansea	0-0	Doncaster
-	15.00		West Brom	1-1	Barnsley
-[Sat Feb/12]
-	15.00		West Brom	2-2	QPR
-[Wed Mar/02]
-	15.00		Blackpool	2-3	West Brom
-[Fri Mar/04]
-	15.00		Bristol City	1-1	Nott'm Forest
-	15.00		Cardiff	2-1	Swansea
-	15.00		Coventry	0-1	Derby
-	15.00		Doncaster	1-2	Plymouth
-
-Matchday 10
-
-[Fri Mar/04]
-	15.00		Ipswich	2-1	Reading
-	15.00		Middlesbrough	1-1	Crystal Palace
-	15.00		Peterboro	2-3	Newcastle
-	15.00		Preston	1-1	Watford
-	15.00		QPR	1-1	Sheffield Weds
-	15.00		Sheffield United	0-0	Barnsley
-[Tue Mar/08]
+[1909-08-15]
 	15.00		Barnsley	0-2	Coventry
 	15.00		Blackpool	1-1	Cardiff
 	15.00		Bristol City	1-0	Crystal Palace
 	15.00		Doncaster	1-1	Preston
 	15.00		Ipswich	0-0	Leicester
 	15.00		Newcastle	3-0	Reading
-
-Matchday 11
-
-[Tue Mar/08]
 	15.00		Nott'm Forest	0-1	West Brom
 	15.00		Peterboro	1-1	Sheffield Weds
 	15.00		Plymouth	1-1	QPR
 	15.00		Scunthorpe	3-2	Derby
 	15.00		Sheffield United	2-0	Watford
 	15.00		Swansea	0-3	Middlesbrough
-[Wed Mar/09]
-	15.00		Coventry	3-2	Sheffield United
-	15.00		Derby	2-3	Barnsley
-	15.00		Ipswich	1-1	Nott'm Forest
-	15.00		Leicester	1-1	Peterboro
-	15.00		Plymouth	0-1	Watford
-	15.00		Scunthorpe	3-1	Preston
 
-Matchday 12
+Matchday 3
 
-[Wed Mar/09]
-	15.00		Sheffield Weds	1-3	Middlesbrough
-	15.00		Swansea	0-0	Bristol City
-	15.00		West Brom	3-1	Doncaster
-[Sat Apr/09]
-	15.00		Blackpool	2-1	Newcastle
-	15.00		Reading	0-1	Cardiff
-[Mon May/02]
-	15.00		Newcastle	5-1	Cardiff
-[Wed May/04]
-	15.00		Barnsley	2-2	Peterboro
-	15.00		Blackpool	2-0	Doncaster
-	15.00		Crystal Palace	3-1	Preston
-	15.00		Derby	1-3	Ipswich
-	15.00		Leicester	4-0	QPR
-	15.00		Newcastle	2-1	Sheffield United
-
-Matchday 13
-
-[Wed May/04]
-	15.00		Nott'm Forest	0-0	Cardiff
-	15.00		Plymouth	0-2	Middlesbrough
-	15.00		Reading	3-0	Coventry
-	15.00		Sheffield Weds	0-1	Bristol City
-	15.00		Swansea	3-0	Scunthorpe
-	15.00		Watford	1-1	West Brom
-[Tue May/10]
-	15.00		Blackpool	2-0	Plymouth
-	15.00		Bristol City	1-1	Peterboro
-	15.00		Cardiff	1-1	Crystal Palace
-	15.00		Doncaster	0-1	Barnsley
-	15.00		Ipswich	1-1	Swansea
-	15.00		Leicester	0-0	Derby
-
-Matchday 14
-
-[Tue May/10]
-	15.00		Middlesbrough	0-1	Watford
-	15.00		Nott'm Forest	1-0	Newcastle
-	15.00		QPR	4-0	Preston
-	15.00		Scunthorpe	3-1	Sheffield United
-	15.00		Sheffield Weds	2-0	Coventry
-	15.00		West Brom	3-1	Reading
-[Thu Jun/02]
-	15.00		Barnsley	1-0	Watford
-	15.00		Blackpool	1-2	Leicester
-	15.00		Bristol City	1-1	Coventry
-	15.00		Doncaster	1-2	Reading
-	15.00		Ipswich	1-1	Middlesbrough
-	15.00		Nott'm Forest	2-1	Sheffield Weds
-
-Matchday 15
-
-[Thu Jun/02]
-	15.00		Peterboro	1-0	QPR
-	15.00		Plymouth	0-1	West Brom
-	15.00		Scunthorpe	1-2	Crystal Palace
-	15.00		Sheffield United	1-1	Derby
-	15.00		Swansea	2-0	Preston
-[Fri Jun/03]
-	15.00		Blackpool	1-0	Ipswich
-	15.00		Bristol City	2-5	Doncaster
-	15.00		Cardiff	1-0	Middlesbrough
-	15.00		Crystal Palace	1-0	Sheffield United
-	15.00		Derby	2-0	Watford
-	15.00		Newcastle	6-1	Barnsley
-	15.00		Nott'm Forest	1-0	Swansea
-
-Matchday 16
-
-[Fri Jun/03]
-	15.00		Peterboro	0-1	Coventry
-	15.00		Plymouth	1-1	Preston
-	15.00		QPR	3-1	West Brom
-	15.00		Sheffield Weds	2-0	Leicester
-[Wed Jun/08]
+[1909-08-18]
 	15.00		Barnsley	0-3	Preston
 	15.00		Blackpool	0-0	Derby
 	15.00		Bristol City	1-0	QPR
@@ -287,137 +46,15 @@ Matchday 16
 	15.00		Nott'm Forest	2-4	Watford
 	15.00		Peterboro	2-3	West Brom
 	15.00		Plymouth	1-3	Cardiff
-
-Matchday 17
-
-[Wed Jun/08]
 	15.00		Scunthorpe	0-2	Middlesbrough
 	15.00		Sheffield United	1-1	Leicester
 	15.00		Swansea	0-0	Reading
-[Thu Jun/09]
-	15.00		Sheffield United	3-2	Sheffield Weds
-[Fri Jul/08]
+[1909-08-19]
 	15.00		Newcastle	1-0	Sheffield Weds
-[Sat Jul/09]
-	15.00		Barnsley	0-0	Swansea
-	15.00		Bristol City	1-1	Scunthorpe
-	15.00		Cardiff	0-2	QPR
-	15.00		Crystal Palace	1-0	Derby
-	15.00		Doncaster	3-3	Ipswich
-	15.00		Middlesbrough	0-5	West Brom
-	15.00		Newcastle	3-1	Plymouth
 
-Matchday 18
+Matchday 4
 
-[Sat Jul/09]
-	15.00		Nott'm Forest	0-1	Blackpool
-	15.00		Peterboro	3-2	Reading
-	15.00		Preston	3-2	Coventry
-	15.00		Watford	3-3	Leicester
-[Tue Jul/12]
-	15.00		Bristol City	1-1	Reading
-	15.00		Crystal Palace	1-1	Barnsley
-	15.00		Derby	0-2	Doncaster
-	15.00		Nott'm Forest	3-0	Preston
-	15.00		Peterboro	2-1	Watford
-	15.00		Plymouth	0-1	Coventry
-	15.00		QPR	1-1	Sheffield United
-	15.00		Sheffield Weds	0-2	Swansea
-
-Matchday 19
-
-[Mon Aug/01]
-	15.00		West Brom	1-3	Nott'm Forest
-[Wed Aug/10]
-	15.00		Blackpool	3-0	Sheffield United
-	15.00		Bristol City	3-1	Plymouth
-	15.00		Cardiff	2-0	Coventry
-	15.00		Doncaster	3-1	Peterboro
-	15.00		Ipswich	1-1	Watford
-	15.00		Leicester	2-0	Crystal Palace
-	15.00		Middlesbrough	2-0	Derby
-	15.00		Nott'm Forest	1-0	Barnsley
-	15.00		QPR	4-1	Reading
-	15.00		Scunthorpe	2-1	Newcastle
-	15.00		Sheffield Weds	1-2	Preston
-
-Matchday 20
-
-[Wed Aug/10]
-	15.00		West Brom	0-1	Swansea
-[Thu Aug/11]
-	15.00		Swansea	1-0	Derby
-[Fri Aug/12]
-	15.00		Newcastle	2-0	Middlesbrough
-[Thu Sep/01]
-	15.00		Cardiff	1-1	Blackpool
-	15.00		Coventry	3-1	Barnsley
-	15.00		Derby	1-4	Scunthorpe
-[Fri Sep/02]
-	15.00		Cardiff	2-0	Peterboro
-	15.00		Coventry	1-0	Nott'm Forest
-	15.00		Crystal Palace	0-1	Swansea
-	15.00		Derby	3-0	Newcastle
-	15.00		Leicester	0-0	Doncaster
-	15.00		Middlesbrough	2-1	Barnsley
-
-Matchday 21
-
-[Fri Sep/02]
-	15.00		Preston	2-1	Sheffield United
-	15.00		QPR	1-2	Ipswich
-	15.00		Reading	2-1	Plymouth
-	15.00		Sheffield Weds	2-0	Blackpool
-	15.00		Watford	2-0	Bristol City
-	15.00		West Brom	2-0	Scunthorpe
-[Sat Sep/03]
-	15.00		Crystal Palace	0-1	Bristol City
-	15.00		Ipswich	2-0	Cardiff
-	15.00		Peterboro	1-0	Sheffield United
-	15.00		Preston	1-1	Doncaster
-	15.00		QPR	2-0	Plymouth
-	15.00		Watford	0-1	Swansea
-
-Matchday 22
-
-[Sat Sep/03]
-	15.00		West Brom	1-0	Sheffield Weds
-[Sun Sep/11]
-	15.00		Barnsley	1-0	Cardiff
-	15.00		Coventry	1-1	Crystal Palace
-	15.00		Doncaster	2-0	QPR
-	15.00		Ipswich	0-0	Sheffield Weds
-	15.00		Leicester	1-0	Plymouth
-	15.00		Middlesbrough	1-1	Nott'm Forest
-	15.00		Reading	2-1	Blackpool
-	15.00		Sheffield United	1-0	Peterboro
-	15.00		Watford	3-0	Scunthorpe
-	15.00		West Brom	4-1	Bristol City
-[Sat Oct/01]
-	15.00		Leicester	1-1	Ipswich
-
-Matchday 23
-
-[Mon Oct/03]
-	15.00		Reading	4-1	Derby
-[Tue Oct/04]
-	15.00		Barnsley	0-0	Derby
-	15.00		Bristol City	1-0	Swansea
-	15.00		Cardiff	0-0	Reading
-	15.00		Crystal Palace	0-2	QPR
-	15.00		Doncaster	2-3	West Brom
-	15.00		Middlesbrough	1-0	Sheffield Weds
-	15.00		Newcastle	4-1	Blackpool
-	15.00		Nott'm Forest	3-0	Ipswich
-	15.00		Peterboro	1-2	Leicester
-	15.00		Preston	3-2	Scunthorpe
-	15.00		Sheffield United	1-0	Coventry
-
-Matchday 24
-
-[Tue Oct/04]
-	15.00		Watford	1-0	Plymouth
-[Sat Oct/08]
+[1909-08-22]
 	15.00		Coventry	0-1	Swansea
 	15.00		Crystal Palace	0-2	Newcastle
 	15.00		Derby	2-1	Plymouth
@@ -429,189 +66,12 @@ Matchday 24
 	15.00		Sheffield Weds	4-0	Scunthorpe
 	15.00		Watford	2-2	Blackpool
 	15.00		West Brom	2-0	Ipswich
-
-Matchday 25
-
-[Tue Nov/08]
+[1909-08-23]
 	15.00		Cardiff	3-0	Bristol City
-[Thu Nov/10]
-	15.00		Watford	4-1	Sheffield Weds
-[Fri Nov/11]
-	15.00		Preston	0-1	Newcastle
-[Sat Dec/10]
-	15.00		Barnsley	2-3	Bristol City
-	15.00		Coventry	0-0	West Brom
-	15.00		Crystal Palace	1-1	Nott'm Forest
-	15.00		Derby	2-4	QPR
-	15.00		Newcastle	2-1	Doncaster
-	15.00		Peterboro	3-0	Scunthorpe
-	15.00		Plymouth	1-1	Ipswich
-	15.00		Preston	2-2	Middlesbrough
-	15.00		Sheffield United	3-4	Cardiff
 
-Matchday 26
+Matchday 5
 
-[Sat Dec/10]
-	15.00		Swansea	0-0	Blackpool
-[Mon Jan/02]
-	15.00		Barnsley	1-3	Plymouth
-	15.00		Coventry	1-0	QPR
-	15.00		Doncaster	1-0	Nott'm Forest
-	15.00		Leicester	5-1	Scunthorpe
-	15.00		Middlesbrough	1-0	Peterboro
-	15.00		Preston	0-0	Blackpool
-	15.00		Sheffield United	2-0	Bristol City
-	15.00		Swansea	1-1	Newcastle
-[Tue Jan/03]
-	15.00		Barnsley	0-0	Crystal Palace
-	15.00		Coventry	1-1	Plymouth
-	15.00		Doncaster	2-1	Derby
-
-Matchday 27
-
-[Tue Jan/03]
-	15.00		Ipswich	1-0	Scunthorpe
-	15.00		Leicester	1-0	Cardiff
-	15.00		Middlesbrough	2-2	Newcastle
-	15.00		Preston	3-2	Nott'm Forest
-	15.00		Reading	2-0	Bristol City
-	15.00		Sheffield United	1-1	QPR
-	15.00		Swansea	0-0	Sheffield Weds
-	15.00		Watford	0-1	Peterboro
-	15.00		West Brom	3-2	Blackpool
-[Wed Jan/04]
-	15.00		Reading	1-2	Newcastle
-[Thu Feb/09]
-	15.00		Blackpool	2-0	Peterboro
-	15.00		Coventry	2-2	Middlesbrough
-
-Matchday 28
-
-[Thu Feb/09]
-	15.00		Derby	1-0	Bristol City
-	15.00		Ipswich	0-4	Newcastle
-	15.00		Leicester	1-2	Preston
-	15.00		QPR	5-2	Barnsley
-	15.00		Reading	1-1	Watford
-	15.00		Scunthorpe	2-2	Doncaster
-	15.00		Sheffield Weds	3-1	Cardiff
-	15.00		Swansea	2-1	Sheffield United
-	15.00		West Brom	0-1	Crystal Palace
-[Fri Feb/10]
-	15.00		Reading	0-1	Leicester
-[Sun Feb/12]
-	15.00		Cardiff	0-1	Plymouth
-	15.00		Coventry	1-0	Doncaster
-
-Matchday 29
-
-[Sun Feb/12]
-	15.00		Crystal Palace	3-1	Ipswich
-	15.00		Derby	0-2	Blackpool
-	15.00		Leicester	2-1	Sheffield United
-	15.00		Middlesbrough	3-0	Scunthorpe
-	15.00		QPR	2-1	Bristol City
-	15.00		Reading	1-1	Swansea
-	15.00		Sheffield Weds	2-2	Newcastle
-	15.00		Watford	0-0	Nott'm Forest
-	15.00		West Brom	2-0	Peterboro
-[Thu Mar/09]
-	15.00		Plymouth	0-1	Nott'm Forest
-[Sat Apr/01]
-	15.00		Barnsley	1-2	Sheffield Weds
-	15.00		Blackpool	2-2	QPR
-
-Matchday 30
-
-[Sat Apr/01]
-	15.00		Bristol City	4-2	Preston
-	15.00		Doncaster	2-1	Watford
-	15.00		Ipswich	3-2	Coventry
-	15.00		Nott'm Forest	2-1	Reading
-	15.00		Peterboro	0-3	Derby
-	15.00		Plymouth	0-1	Crystal Palace
-	15.00		Scunthorpe	1-1	Cardiff
-	15.00		Sheffield United	1-0	Middlesbrough
-	15.00		Swansea	1-0	Leicester
-[Sun Apr/02]
-	15.00		Blackpool	2-0	Middlesbrough
-	15.00		Bristol City	1-1	Leicester
-	15.00		Cardiff	1-1	West Brom
-
-Matchday 31
-
-[Sun Apr/02]
-	15.00		Derby	5-3	Preston
-	15.00		Nott'm Forest	1-0	Sheffield United
-	15.00		Peterboro	3-1	Ipswich
-	15.00		Plymouth	1-1	Swansea
-	15.00		Scunthorpe	2-1	Barnsley
-	15.00		Sheffield Weds	0-2	Doncaster
-[Mon Apr/03]
-	15.00		Barnsley	2-1	Nott'm Forest
-	15.00		Coventry	1-2	Cardiff
-	15.00		Crystal Palace	0-1	Leicester
-	15.00		Derby	2-2	Middlesbrough
-	15.00		Peterboro	1-2	Doncaster
-	15.00		Plymouth	3-2	Bristol City
-
-Matchday 32
-
-[Mon Apr/03]
-	15.00		Preston	2-2	Sheffield Weds
-	15.00		Reading	1-0	QPR
-	15.00		Sheffield United	3-0	Blackpool
-	15.00		Swansea	0-2	West Brom
-	15.00		Watford	2-1	Ipswich
-[Tue Apr/11]
-	15.00		Bristol City	2-3	Sheffield United
-	15.00		Crystal Palace	3-0	Watford
-	15.00		Derby	2-1	Reading
-	15.00		Newcastle	3-0	Swansea
-	15.00		Nott'm Forest	4-1	Doncaster
-	15.00		Peterboro	2-2	Middlesbrough
-	15.00		QPR	2-2	Coventry
-
-Matchday 33
-
-[Tue Apr/11]
-	15.00		Scunthorpe	1-1	Leicester
-	15.00		Sheffield Weds	0-4	West Brom
-[Wed Apr/12]
-	15.00		Barnsley	2-1	Middlesbrough
-	15.00		Bristol City	2-2	Watford
-	15.00		Ipswich	3-0	QPR
-	15.00		Newcastle	0-0	Derby
-	15.00		Nott'm Forest	2-0	Coventry
-	15.00		Peterboro	4-4	Cardiff
-	15.00		Plymouth	4-1	Reading
-	15.00		Scunthorpe	1-3	West Brom
-	15.00		Sheffield United	1-0	Preston
-	15.00		Swansea	0-0	Crystal Palace
-
-Matchday 34
-
-[Tue May/02]
-	15.00		Crystal Palace	1-3	Reading
-	15.00		Newcastle	4-1	Coventry
-[Wed May/03]
-	15.00		Newcastle	3-0	Scunthorpe
-[Thu May/04]
-	15.00		Blackpool	3-1	Nott'm Forest
-	15.00		Coventry	1-1	Preston
-	15.00		Derby	1-1	Crystal Palace
-	15.00		Ipswich	1-1	Doncaster
-	15.00		Leicester	4-1	Watford
-	15.00		QPR	0-1	Cardiff
-	15.00		Reading	6-0	Peterboro
-	15.00		Scunthorpe	3-0	Bristol City
-	15.00		Swansea	3-1	Barnsley
-
-Matchday 35
-
-[Thu May/04]
-	15.00		West Brom	2-0	Middlesbrough
-[Mon May/08]
+[1909-08-29]
 	15.00		Barnsley	1-3	Reading
 	15.00		Blackpool	3-0	Coventry
 	15.00		Bristol City	2-1	Middlesbrough
@@ -622,12 +82,83 @@ Matchday 35
 	15.00		Scunthorpe	0-1	QPR
 	15.00		Sheffield United	2-2	West Brom
 	15.00		Swansea	1-1	Watford
-[Tue May/09]
+[1909-08-31]
+	15.00		Newcastle	1-0	Leicester
+	15.00		Peterboro	1-1	Crystal Palace
+
+Matchday 6
+
+[1909-09-12]
+	15.00		Coventry	1-1	Bristol City
+	15.00		Crystal Palace	0-4	Scunthorpe
+	15.00		Derby	0-1	Sheffield United
+	15.00		Leicester	2-1	Blackpool
+	15.00		Middlesbrough	3-1	Ipswich
+	15.00		Preston	2-0	Swansea
+	15.00		QPR	1-1	Peterboro
+	15.00		Reading	0-0	Doncaster
+	15.00		Sheffield Weds	1-1	Nott'm Forest
+	15.00		Watford	1-0	Barnsley
+	15.00		West Brom	3-1	Plymouth
+[1909-09-13]
+	15.00		Cardiff	0-1	Newcastle
+
+Matchday 7
+
+[1909-09-15]
+	15.00		Coventry	3-2	Sheffield United
+	15.00		Derby	2-3	Barnsley
+	15.00		Ipswich	1-1	Nott'm Forest
+	15.00		Leicester	1-1	Peterboro
+	15.00		Plymouth	0-1	Watford
+	15.00		Scunthorpe	3-1	Preston
+	15.00		Sheffield Weds	1-3	Middlesbrough
+	15.00		Swansea	0-0	Bristol City
+	15.00		West Brom	3-1	Doncaster
+[1909-09-16]
+	15.00		Blackpool	2-1	Newcastle
+	15.00		Reading	0-1	Cardiff
+[1909-09-18]
+	15.00		Sheffield United	3-2	Sheffield Weds
+
+Matchday 8
+
+[1909-09-19]
+	15.00		Barnsley	0-0	Swansea
+	15.00		Bristol City	1-1	Scunthorpe
+	15.00		Cardiff	0-2	QPR
+	15.00		Crystal Palace	1-0	Derby
+	15.00		Doncaster	3-3	Ipswich
+	15.00		Middlesbrough	0-5	West Brom
+	15.00		Newcastle	3-1	Plymouth
+	15.00		Nott'm Forest	0-1	Blackpool
+	15.00		Peterboro	3-2	Reading
+	15.00		Preston	3-2	Coventry
+	15.00		Watford	3-3	Leicester
+[1909-09-26]
+	15.00		Blackpool	2-0	Peterboro
+
+Matchday 9
+
+[1909-09-26]
+	15.00		Coventry	2-2	Middlesbrough
+	15.00		Derby	1-0	Bristol City
+	15.00		Ipswich	0-4	Newcastle
+	15.00		Leicester	1-2	Preston
+	15.00		QPR	5-2	Barnsley
+	15.00		Reading	1-1	Watford
+	15.00		Scunthorpe	2-2	Doncaster
+	15.00		Sheffield Weds	3-1	Cardiff
+	15.00		Swansea	2-1	Sheffield United
+	15.00		West Brom	0-1	Crystal Palace
+[1909-09-27]
+	15.00		Plymouth	0-1	Nott'm Forest
+[1909-09-29]
 	15.00		Barnsley	3-1	West Brom
 
-Matchday 36
+Matchday 10
 
-[Tue May/09]
+[1909-09-29]
 	15.00		Bristol City	2-0	Blackpool
 	15.00		Cardiff	6-1	Derby
 	15.00		Crystal Palace	0-0	Sheffield Weds
@@ -637,129 +168,292 @@ Matchday 36
 	15.00		Preston	1-2	Reading
 	15.00		Sheffield United	3-3	Ipswich
 	15.00		Watford	2-3	Coventry
-[Thu May/11]
-	15.00		Cardiff	1-2	Ipswich
-[Thu Jun/01]
-	15.00		Newcastle	2-2	West Brom
-[Sun Jun/04]
-	15.00		Sheffield Weds	1-1	Sheffield United
-
-Matchday 37
-
-[Fri Jun/09]
+[1909-09-30]
 	15.00		Newcastle	1-1	QPR
 	15.00		Nott'm Forest	2-0	Scunthorpe
-[Sat Jun/10]
+[1909-10-03]
+	15.00		Barnsley	2-1	Ipswich
+
+Matchday 11
+
+[1909-10-03]
+	15.00		Coventry	1-1	Leicester
+	15.00		Crystal Palace	4-1	Blackpool
+	15.00		Derby	3-0	Sheffield Weds
+	15.00		Newcastle	0-0	Bristol City
+	15.00		Peterboro	1-2	Nott'm Forest
+	15.00		Plymouth	2-1	Scunthorpe
+	15.00		Preston	0-0	West Brom
+	15.00		Reading	0-2	Middlesbrough
+	15.00		Sheffield United	1-1	Doncaster
+	15.00		Swansea	2-0	QPR
+	15.00		Watford	0-4	Cardiff
+[1909-10-17]
+	15.00		Blackpool	2-0	Plymouth
+
+Matchday 12
+
+[1909-10-17]
+	15.00		Bristol City	1-1	Peterboro
+	15.00		Cardiff	1-1	Crystal Palace
+	15.00		Doncaster	0-1	Barnsley
+	15.00		Ipswich	1-1	Swansea
+	15.00		Leicester	0-0	Derby
+	15.00		Middlesbrough	0-1	Watford
+	15.00		Nott'm Forest	1-0	Newcastle
+	15.00		QPR	4-0	Preston
+	15.00		Scunthorpe	3-1	Sheffield United
+	15.00		Sheffield Weds	2-0	Coventry
+	15.00		West Brom	3-1	Reading
+[1909-10-20]
+	15.00		Blackpool	3-0	Sheffield United
+
+Matchday 13
+
+[1909-10-20]
+	15.00		Bristol City	3-1	Plymouth
+	15.00		Cardiff	2-0	Coventry
+	15.00		Doncaster	3-1	Peterboro
+	15.00		Ipswich	1-1	Watford
+	15.00		Leicester	2-0	Crystal Palace
+	15.00		Middlesbrough	2-0	Derby
+	15.00		Nott'm Forest	1-0	Barnsley
+	15.00		QPR	4-1	Reading
+	15.00		Scunthorpe	2-1	Newcastle
+	15.00		Sheffield Weds	1-2	Preston
+	15.00		West Brom	0-1	Swansea
+[1909-10-23]
+	15.00		Watford	4-1	Sheffield Weds
+
+Matchday 14
+
+[1909-10-24]
+	15.00		Barnsley	2-3	Bristol City
+	15.00		Coventry	0-0	West Brom
+	15.00		Crystal Palace	1-1	Nott'm Forest
+	15.00		Derby	2-4	QPR
+	15.00		Newcastle	2-1	Doncaster
+	15.00		Peterboro	3-0	Scunthorpe
+	15.00		Plymouth	1-1	Ipswich
+	15.00		Preston	2-2	Middlesbrough
+	15.00		Sheffield United	3-4	Cardiff
+	15.00		Swansea	0-0	Blackpool
+[1909-10-26]
+	15.00		Reading	0-1	Leicester
+[1909-10-30]
 	15.00		QPR	1-2	Leicester
-[Sun Jun/11]
-	15.00		Blackpool	1-1	Preston
-[Sat Jul/01]
-	15.00		Blackpool	1-2	Sheffield Weds
-[Tue Jul/04]
-	15.00		Plymouth	0-2	Newcastle
-[Sat Jul/08]
-	15.00		Newcastle	1-0	Leicester
-	15.00		Peterboro	1-1	Crystal Palace
-[Mon Jul/10]
+
+Matchday 15
+
+[1909-10-31]
 	15.00		Bristol City	1-1	Sheffield Weds
 	15.00		Coventry	1-3	Reading
 	15.00		Doncaster	3-3	Blackpool
 	15.00		Ipswich	1-0	Derby
-
-Matchday 38
-
-[Mon Jul/10]
 	15.00		Middlesbrough	0-1	Plymouth
 	15.00		Peterboro	1-2	Barnsley
 	15.00		Preston	1-1	Crystal Palace
 	15.00		Scunthorpe	0-2	Swansea
 	15.00		West Brom	5-0	Watford
-[Wed Aug/02]
-	15.00		Blackpool	2-0	Reading
-	15.00		Cardiff	0-2	Barnsley
-	15.00		Crystal Palace	0-1	Coventry
-	15.00		Derby	0-1	Swansea
-	15.00		Newcastle	3-0	Preston
-	15.00		Nott'm Forest	1-0	Middlesbrough
-	15.00		Plymouth	1-1	Leicester
+[1909-11-01]
+	15.00		Cardiff	1-1	Nott'm Forest
+[1909-11-02]
+	15.00		Sheffield United	0-1	Newcastle
+[1909-11-03]
+	15.00		QPR	1-1	Crystal Palace
 
-Matchday 39
+Matchday 16
 
-[Wed Aug/02]
-	15.00		QPR	2-1	Doncaster
-	15.00		Scunthorpe	2-2	Watford
-	15.00		Sheffield Weds	0-1	Ipswich
-[Thu Aug/03]
-	15.00		Blackpool	2-2	Crystal Palace
-	15.00		Bristol City	2-2	Newcastle
-	15.00		Doncaster	1-1	Sheffield United
-	15.00		Ipswich	1-0	Barnsley
-	15.00		Middlesbrough	1-1	Reading
-	15.00		Nott'm Forest	1-0	Peterboro
-	15.00		QPR	1-1	Swansea
-	15.00		Scunthorpe	2-1	Plymouth
-	15.00		Sheffield Weds	0-0	Derby
+[1909-11-06]
+	15.00		Derby	2-1	Coventry
+[1909-11-07]
+	15.00		Blackpool	4-1	Scunthorpe
+	15.00		Crystal Palace	1-0	Middlesbrough
+	15.00		Leicester	1-2	West Brom
+	15.00		Newcastle	3-1	Peterboro
+	15.00		Nott'm Forest	1-1	Bristol City
+	15.00		Plymouth	2-1	Doncaster
+	15.00		Reading	1-1	Ipswich
+	15.00		Sheffield Weds	1-2	QPR
+	15.00		Swansea	3-2	Cardiff
+	15.00		Watford	2-0	Preston
+[1909-11-09]
+	15.00		Barnsley	2-2	Sheffield United
 
-Matchday 40
+Matchday 17
 
-[Thu Aug/03]
-	15.00		West Brom	3-2	Preston
-[Fri Aug/04]
-	15.00		QPR	1-0	Watford
-	15.00		Scunthorpe	2-2	Reading
-[Sat Sep/02]
-	15.00		Bristol City	2-1	West Brom
-[Sun Sep/03]
-	15.00		Cardiff	3-1	Watford
-	15.00		Leicester	2-2	Coventry
-[Wed Nov/01]
+[1909-11-20]
+	15.00		Swansea	1-0	Derby
+[1909-11-21]
+	15.00		Barnsley	1-0	Cardiff
+	15.00		Coventry	1-1	Crystal Palace
+	15.00		Doncaster	2-0	QPR
+	15.00		Ipswich	0-0	Sheffield Weds
+	15.00		Leicester	1-0	Plymouth
+	15.00		Middlesbrough	1-1	Nott'm Forest
+	15.00		Reading	2-1	Blackpool
+	15.00		Sheffield United	1-0	Peterboro
+	15.00		Watford	3-0	Scunthorpe
+	15.00		West Brom	4-1	Bristol City
+[1909-11-23]
+	15.00		Preston	0-1	Newcastle
+
+Matchday 18
+
+[1909-11-28]
+	15.00		Bristol City	2-3	Sheffield United
+	15.00		Crystal Palace	3-0	Watford
+	15.00		Derby	2-1	Reading
+	15.00		Newcastle	3-0	Swansea
+	15.00		Nott'm Forest	4-1	Doncaster
+	15.00		Peterboro	2-2	Middlesbrough
+	15.00		QPR	2-2	Coventry
+	15.00		Scunthorpe	1-1	Leicester
+	15.00		Sheffield Weds	0-4	West Brom
+[1909-11-29]
+	15.00		Cardiff	1-2	Ipswich
+[1909-11-30]
+	15.00		Blackpool	1-1	Preston
+[1909-12-05]
+	15.00		Blackpool	1-2	Barnsley
+
+Matchday 19
+
+[1909-12-05]
+	15.00		Bristol City	0-0	Ipswich
+	15.00		Cardiff	1-0	Preston
+	15.00		Crystal Palace	0-3	Doncaster
+	15.00		Derby	2-2	West Brom
+	15.00		Newcastle	2-0	Watford
+	15.00		Nott'm Forest	5-1	Leicester
+	15.00		Peterboro	2-2	Swansea
+	15.00		Plymouth	0-1	Sheffield United
+	15.00		QPR	1-5	Middlesbrough
+	15.00		Sheffield Weds	0-2	Reading
+[1909-12-06]
+	15.00		Scunthorpe	1-0	Coventry
+[1909-12-07]
+	15.00		Watford	3-1	QPR
+
+Matchday 20
+
+[1909-12-08]
+	15.00		Doncaster	1-0	Sheffield Weds
+	15.00		Ipswich	0-0	Peterboro
+	15.00		Leicester	1-3	Bristol City
+	15.00		Middlesbrough	0-3	Blackpool
+	15.00		Preston	0-0	Derby
+	15.00		Reading	2-4	Crystal Palace
+	15.00		Sheffield United	0-0	Nott'm Forest
+	15.00		Swansea	1-0	Plymouth
+	15.00		West Brom	0-2	Cardiff
+[1909-12-09]
+	15.00		Barnsley	1-1	Scunthorpe
+	15.00		Coventry	0-2	Newcastle
+[1909-12-12]
+	15.00		Barnsley	2-2	Newcastle
+
+Matchday 21
+
+[1909-12-12]
+	15.00		Coventry	3-2	Peterboro
+	15.00		Doncaster	1-0	Bristol City
+	15.00		Ipswich	3-1	Blackpool
+	15.00		Leicester	3-0	Sheffield Weds
+	15.00		Preston	2-0	Plymouth
+	15.00		Reading	1-1	Scunthorpe
+	15.00		Sheffield United	2-0	Crystal Palace
+	15.00		Swansea	0-1	Nott'm Forest
+	15.00		Watford	0-1	Derby
+[1909-12-13]
+	15.00		Middlesbrough	0-1	Cardiff
+[1909-12-14]
+	15.00		West Brom	2-2	QPR
+[1909-12-19]
+	15.00		Bristol City	1-1	Reading
+
+Matchday 22
+
+[1909-12-19]
+	15.00		Crystal Palace	1-1	Barnsley
+	15.00		Derby	0-2	Doncaster
+	15.00		Nott'm Forest	3-0	Preston
+	15.00		Peterboro	2-1	Watford
+	15.00		Plymouth	0-1	Coventry
+	15.00		QPR	1-1	Sheffield United
+	15.00		Sheffield Weds	0-2	Swansea
+[1909-12-20]
+	15.00		Newcastle	2-0	Middlesbrough
+[1909-12-26]
+	15.00		Cardiff	0-1	Plymouth
+	15.00		Coventry	1-0	Doncaster
+	15.00		Crystal Palace	3-1	Ipswich
+	15.00		Derby	0-2	Blackpool
+
+Matchday 23
+
+[1909-12-26]
+	15.00		Leicester	2-1	Sheffield United
+	15.00		Middlesbrough	3-0	Scunthorpe
+	15.00		QPR	2-1	Bristol City
+	15.00		Reading	1-1	Swansea
+	15.00		Sheffield Weds	2-2	Newcastle
+	15.00		Watford	0-0	Nott'm Forest
+	15.00		West Brom	2-0	Peterboro
+[1909-12-28]
+	15.00		Barnsley	2-1	Middlesbrough
+	15.00		Bristol City	2-2	Watford
+	15.00		Ipswich	3-0	QPR
+	15.00		Newcastle	0-0	Derby
+	15.00		Nott'm Forest	2-0	Coventry
+
+Matchday 24
+
+[1909-12-28]
+	15.00		Peterboro	4-4	Cardiff
+	15.00		Plymouth	4-1	Reading
+	15.00		Scunthorpe	1-3	West Brom
+	15.00		Sheffield United	1-0	Preston
+	15.00		Swansea	0-0	Crystal Palace
+[1910-01-08]
+	15.00		West Brom	1-3	Nott'm Forest
+[1910-01-09]
+	15.00		Cardiff	1-1	Blackpool
+	15.00		Coventry	3-1	Barnsley
+	15.00		Derby	1-4	Scunthorpe
+[1910-01-10]
+	15.00		Leicester	1-1	Ipswich
+[1910-01-16]
+	15.00		Barnsley	1-2	Sheffield Weds
+	15.00		Blackpool	2-2	QPR
+
+Matchday 25
+
+[1910-01-16]
+	15.00		Bristol City	4-2	Preston
+	15.00		Doncaster	2-1	Watford
+	15.00		Ipswich	3-2	Coventry
+	15.00		Nott'm Forest	2-1	Reading
+	15.00		Peterboro	0-3	Derby
+	15.00		Plymouth	0-1	Crystal Palace
+	15.00		Scunthorpe	1-1	Cardiff
+	15.00		Sheffield United	1-0	Middlesbrough
+	15.00		Swansea	1-0	Leicester
+[1910-01-18]
+	15.00		Newcastle	2-2	West Brom
+[1910-01-19]
+	15.00		Blackpool	1-2	Sheffield Weds
+[1910-01-23]
 	15.00		Blackpool	3-2	Watford
+
+Matchday 26
+
+[1910-01-23]
 	15.00		Middlesbrough	1-1	Swansea
 	15.00		Sheffield Weds	2-1	Peterboro
-[Thu Nov/02]
-	15.00		Doncaster	0-1	Leicester
-	15.00		Scunthorpe	1-1	Ipswich
-[Fri Nov/03]
-	15.00		Blackpool	5-1	Swansea
-
-Matchday 41
-
-[Fri Nov/03]
-	15.00		Bristol City	5-3	Barnsley
-	15.00		Doncaster	0-1	Newcastle
-	15.00		Ipswich	0-2	Plymouth
-	15.00		Middlesbrough	2-0	Preston
-	15.00		Nott'm Forest	2-0	Crystal Palace
-	15.00		QPR	1-1	Derby
-	15.00		Scunthorpe	4-0	Peterboro
-[Sun Dec/03]
-	15.00		Cardiff	1-1	Sheffield United
-	15.00		Leicester	1-2	Reading
-	15.00		Sheffield Weds	2-1	Watford
-	15.00		West Brom	1-0	Coventry
-[Mon Dec/04]
-	15.00		Barnsley	0-1	QPR
-
-Matchday 42
-
-[Mon Dec/04]
-	15.00		Bristol City	2-1	Derby
-	15.00		Cardiff	3-2	Sheffield Weds
-	15.00		Doncaster	4-3	Scunthorpe
-	15.00		Middlesbrough	1-1	Coventry
-	15.00		Newcastle	2-2	Ipswich
-	15.00		Nott'm Forest	3-0	Plymouth
-	15.00		Peterboro	0-1	Blackpool
-	15.00		Preston	0-1	Leicester
-	15.00		Sheffield United	2-0	Swansea
-	15.00		Watford	3-0	Reading
-[Thu Feb/01]
+[1910-01-26]
 	15.00		Barnsley	1-0	Leicester
 	15.00		Bristol City	0-6	Cardiff
-
-Matchday 43
-
-[Thu Feb/01]
 	15.00		Doncaster	1-4	Middlesbrough
 	15.00		Ipswich	1-1	West Brom
 	15.00		Nott'm Forest	5-0	QPR
@@ -767,18 +461,121 @@ Matchday 43
 	15.00		Plymouth	1-0	Derby
 	15.00		Sheffield United	3-0	Reading
 	15.00		Swansea	0-0	Coventry
-[Sun Feb/04]
-	15.00		Crystal Palace	1-1	West Brom
-[Fri Mar/01]
+[1910-01-27]
 	15.00		Newcastle	2-0	Crystal Palace
+
+Matchday 27
+
+[1910-01-27]
 	15.00		Scunthorpe	2-0	Sheffield Weds
-[Sat Mar/02]
+[1910-01-30]
+	15.00		Cardiff	2-1	Doncaster
+	15.00		Coventry	1-1	Blackpool
+	15.00		Crystal Palace	2-0	Peterboro
+	15.00		Derby	1-0	Nott'm Forest
+	15.00		Leicester	0-0	Newcastle
+	15.00		Middlesbrough	0-0	Bristol City
+	15.00		Preston	2-0	Ipswich
+	15.00		QPR	0-1	Scunthorpe
+	15.00		Reading	1-0	Barnsley
+	15.00		Sheffield Weds	2-1	Plymouth
+	15.00		West Brom	3-1	Sheffield United
+
+Matchday 28
+
+[1910-02-02]
+	15.00		Preston	1-4	Barnsley
+	15.00		Watford	3-0	Sheffield United
+[1910-02-03]
+	15.00		Blackpool	2-3	West Brom
+[1910-02-05]
+	15.00		Newcastle	5-1	Cardiff
+[1910-02-06]
+	15.00		Barnsley	1-0	Watford
+	15.00		Blackpool	1-2	Leicester
+	15.00		Bristol City	1-1	Coventry
+	15.00		Doncaster	1-2	Reading
+	15.00		Ipswich	1-1	Middlesbrough
+	15.00		Nott'm Forest	2-1	Sheffield Weds
+	15.00		Peterboro	1-0	QPR
+	15.00		Plymouth	0-1	West Brom
+
+Matchday 29
+
+[1910-02-06]
+	15.00		Scunthorpe	1-2	Crystal Palace
+	15.00		Sheffield United	1-1	Derby
+	15.00		Swansea	2-0	Preston
+[1910-02-09]
+	15.00		Cardiff	2-0	Peterboro
+	15.00		Coventry	1-0	Nott'm Forest
+	15.00		Crystal Palace	0-1	Swansea
+	15.00		Derby	3-0	Newcastle
+	15.00		Leicester	0-0	Doncaster
+	15.00		Middlesbrough	2-1	Barnsley
+	15.00		Preston	2-1	Sheffield United
+	15.00		QPR	1-2	Ipswich
+	15.00		Reading	2-1	Plymouth
+
+Matchday 30
+
+[1910-02-09]
+	15.00		Sheffield Weds	2-0	Blackpool
+	15.00		Watford	2-0	Bristol City
+	15.00		West Brom	2-0	Scunthorpe
+[1910-02-13]
+	15.00		Barnsley	1-3	Plymouth
+	15.00		Coventry	1-0	QPR
+	15.00		Doncaster	1-0	Nott'm Forest
+	15.00		Leicester	5-1	Scunthorpe
+	15.00		Middlesbrough	1-0	Peterboro
+	15.00		Preston	0-0	Blackpool
+	15.00		Sheffield United	2-0	Bristol City
+	15.00		Swansea	1-1	Newcastle
+[1910-02-16]
+	15.00		Blackpool	2-0	Middlesbrough
+
+Matchday 31
+
+[1910-02-16]
+	15.00		Bristol City	1-1	Leicester
+	15.00		Cardiff	1-1	West Brom
+	15.00		Derby	5-3	Preston
+	15.00		Nott'm Forest	1-0	Sheffield United
+	15.00		Peterboro	3-1	Ipswich
+	15.00		Plymouth	1-1	Swansea
+	15.00		Scunthorpe	2-1	Barnsley
+	15.00		Sheffield Weds	0-2	Doncaster
+[1910-02-17]
+	15.00		Crystal Palace	1-3	Reading
+	15.00		Newcastle	4-1	Coventry
+[1910-02-20]
+	15.00		Blackpool	2-0	Reading
+	15.00		Cardiff	0-2	Barnsley
+
+Matchday 32
+
+[1910-02-20]
+	15.00		Crystal Palace	0-1	Coventry
+	15.00		Derby	0-1	Swansea
+	15.00		Newcastle	3-0	Preston
+	15.00		Nott'm Forest	1-0	Middlesbrough
+	15.00		Plymouth	1-1	Leicester
+	15.00		QPR	2-1	Doncaster
+	15.00		Scunthorpe	2-2	Watford
+	15.00		Sheffield Weds	0-1	Ipswich
+[1910-02-21]
+	15.00		Bristol City	2-1	West Brom
+[1910-02-23]
+	15.00		Doncaster	0-1	Leicester
+	15.00		Scunthorpe	1-1	Ipswich
+[1910-02-27]
 	15.00		Barnsley	1-0	Blackpool
+
+Matchday 33
+
+[1910-02-27]
 	15.00		Coventry	2-1	Scunthorpe
-
-Matchday 44
-
-[Sat Mar/02]
 	15.00		Doncaster	1-1	Crystal Palace
 	15.00		Ipswich	0-0	Bristol City
 	15.00		Leicester	3-0	Nott'm Forest
@@ -789,43 +586,237 @@ Matchday 44
 	15.00		Swansea	1-0	Peterboro
 	15.00		Watford	1-2	Newcastle
 	15.00		West Brom	3-1	Derby
-[Sun Mar/03]
+[1910-03-06]
+	15.00		Blackpool	1-0	Ipswich
+
+Matchday 34
+
+[1910-03-06]
+	15.00		Bristol City	2-5	Doncaster
+	15.00		Cardiff	1-0	Middlesbrough
+	15.00		Crystal Palace	1-0	Sheffield United
+	15.00		Derby	2-0	Watford
+	15.00		Newcastle	6-1	Barnsley
+	15.00		Nott'm Forest	1-0	Swansea
+	15.00		Peterboro	0-1	Coventry
+	15.00		Plymouth	1-1	Preston
+	15.00		QPR	3-1	West Brom
+	15.00		Sheffield Weds	2-0	Leicester
+[1910-03-09]
+	15.00		Crystal Palace	0-1	Bristol City
+	15.00		Ipswich	2-0	Cardiff
+
+Matchday 35
+
+[1910-03-09]
+	15.00		Peterboro	1-0	Sheffield United
+	15.00		Preston	1-1	Doncaster
+	15.00		QPR	2-0	Plymouth
+	15.00		Watford	0-1	Swansea
+	15.00		West Brom	1-0	Sheffield Weds
+[1910-03-10]
+	15.00		Reading	4-1	Derby
+[1910-03-13]
+	15.00		Barnsley	0-0	Crystal Palace
+	15.00		Coventry	1-1	Plymouth
+	15.00		Doncaster	2-1	Derby
+	15.00		Ipswich	1-0	Scunthorpe
+	15.00		Leicester	1-0	Cardiff
+	15.00		Middlesbrough	2-2	Newcastle
+
+Matchday 36
+
+[1910-03-13]
+	15.00		Preston	3-2	Nott'm Forest
+	15.00		Reading	2-0	Bristol City
+	15.00		Sheffield United	1-1	QPR
+	15.00		Swansea	0-0	Sheffield Weds
+	15.00		Watford	0-1	Peterboro
+	15.00		West Brom	3-2	Blackpool
+[1910-03-16]
+	15.00		Barnsley	2-1	Nott'm Forest
+	15.00		Coventry	1-2	Cardiff
+	15.00		Crystal Palace	0-1	Leicester
+	15.00		Derby	2-2	Middlesbrough
+	15.00		Peterboro	1-2	Doncaster
+	15.00		Plymouth	3-2	Bristol City
+
+Matchday 37
+
+[1910-03-16]
+	15.00		Preston	2-2	Sheffield Weds
+	15.00		Reading	1-0	QPR
+	15.00		Sheffield United	3-0	Blackpool
+	15.00		Swansea	0-2	West Brom
+	15.00		Watford	2-1	Ipswich
+[1910-03-17]
+	15.00		Newcastle	3-0	Scunthorpe
+[1910-03-20]
+	15.00		Blackpool	2-2	Crystal Palace
+	15.00		Bristol City	2-2	Newcastle
+	15.00		Doncaster	1-1	Sheffield United
+	15.00		Ipswich	1-0	Barnsley
+	15.00		Middlesbrough	1-1	Reading
+	15.00		Nott'm Forest	1-0	Peterboro
+
+Matchday 38
+
+[1910-03-20]
+	15.00		QPR	1-1	Swansea
+	15.00		Scunthorpe	2-1	Plymouth
+	15.00		Sheffield Weds	0-0	Derby
+	15.00		West Brom	3-2	Preston
+[1910-03-21]
+	15.00		Cardiff	3-1	Watford
+	15.00		Leicester	2-2	Coventry
+[1910-03-23]
+	15.00		Blackpool	5-1	Swansea
+	15.00		Bristol City	5-3	Barnsley
+	15.00		Doncaster	0-1	Newcastle
+	15.00		Ipswich	0-2	Plymouth
+	15.00		Middlesbrough	2-0	Preston
+	15.00		Nott'm Forest	2-0	Crystal Palace
+
+Matchday 39
+
+[1910-03-23]
+	15.00		QPR	1-1	Derby
+	15.00		Scunthorpe	4-0	Peterboro
+[1910-03-24]
+	15.00		Cardiff	1-1	Sheffield United
+	15.00		Leicester	1-2	Reading
+	15.00		Sheffield Weds	2-1	Watford
+	15.00		West Brom	1-0	Coventry
+[1910-03-27]
 	15.00		Barnsley	0-1	Doncaster
 	15.00		Coventry	1-1	Sheffield Weds
-
-Matchday 45
-
-[Sun Mar/03]
 	15.00		Crystal Palace	1-2	Cardiff
 	15.00		Derby	1-0	Leicester
 	15.00		Peterboro	0-1	Bristol City
 	15.00		Plymouth	0-2	Blackpool
+
+Matchday 40
+
+[1910-03-27]
 	15.00		Preston	2-2	QPR
 	15.00		Reading	1-1	West Brom
 	15.00		Swansea	0-0	Ipswich
 	15.00		Watford	1-1	Middlesbrough
-[Wed Apr/03]
+[1910-03-28]
 	15.00		Sheffield United	0-1	Scunthorpe
-[Fri May/03]
+[1910-03-29]
 	15.00		Newcastle	2-0	Nott'm Forest
-[Sat Jun/01]
-	15.00		Cardiff	2-1	Doncaster
-	15.00		Coventry	1-1	Blackpool
-
-Matchday 46
-
-[Sat Jun/01]
-	15.00		Crystal Palace	2-0	Peterboro
-	15.00		Derby	1-0	Nott'm Forest
-	15.00		Leicester	0-0	Newcastle
-	15.00		Middlesbrough	0-0	Bristol City
-	15.00		Preston	2-0	Ipswich
-	15.00		QPR	0-1	Scunthorpe
-	15.00		Reading	1-0	Barnsley
-	15.00		Sheffield Weds	2-1	Plymouth
-	15.00		West Brom	3-1	Sheffield United
-[Mon Jun/03]
+[1910-03-30]
 	15.00		Cardiff	2-1	Leicester
 	15.00		Plymouth	0-0	Barnsley
 	15.00		Watford	1-3	Crystal Palace
+[1910-04-02]
+	15.00		Scunthorpe	2-4	Blackpool
+	15.00		West Brom	3-0	Leicester
+[1910-04-03]
+	15.00		Bristol City	1-1	Nott'm Forest
+
+Matchday 41
+
+[1910-04-03]
+	15.00		Cardiff	2-1	Swansea
+	15.00		Coventry	0-1	Derby
+	15.00		Doncaster	1-2	Plymouth
+	15.00		Ipswich	2-1	Reading
+	15.00		Middlesbrough	1-1	Crystal Palace
+	15.00		Peterboro	2-3	Newcastle
+	15.00		Preston	1-1	Watford
+	15.00		QPR	1-1	Sheffield Weds
+	15.00		Sheffield United	0-0	Barnsley
+[1910-04-05]
+	15.00		Barnsley	2-2	Peterboro
+	15.00		Blackpool	2-0	Doncaster
+	15.00		Crystal Palace	3-1	Preston
+
+Matchday 42
+
+[1910-04-05]
+	15.00		Derby	1-3	Ipswich
+	15.00		Leicester	4-0	QPR
+	15.00		Newcastle	2-1	Sheffield United
+	15.00		Nott'm Forest	0-0	Cardiff
+	15.00		Plymouth	0-2	Middlesbrough
+	15.00		Reading	3-0	Coventry
+	15.00		Sheffield Weds	0-1	Bristol City
+	15.00		Swansea	3-0	Scunthorpe
+	15.00		Watford	1-1	West Brom
+[1910-04-10]
+	15.00		Barnsley	0-0	Derby
+	15.00		Bristol City	1-0	Swansea
+	15.00		Cardiff	0-0	Reading
+
+Matchday 43
+
+[1910-04-10]
+	15.00		Crystal Palace	0-2	QPR
+	15.00		Doncaster	2-3	West Brom
+	15.00		Middlesbrough	1-0	Sheffield Weds
+	15.00		Newcastle	4-1	Blackpool
+	15.00		Nott'm Forest	3-0	Ipswich
+	15.00		Peterboro	1-2	Leicester
+	15.00		Preston	3-2	Scunthorpe
+	15.00		Sheffield United	1-0	Coventry
+	15.00		Watford	1-0	Plymouth
+[1910-04-13]
+	15.00		Reading	1-2	Newcastle
+[1910-04-17]
+	15.00		Blackpool	3-1	Nott'm Forest
+	15.00		Coventry	1-1	Preston
+
+Matchday 44
+
+[1910-04-17]
+	15.00		Derby	1-1	Crystal Palace
+	15.00		Ipswich	1-1	Doncaster
+	15.00		Leicester	4-1	Watford
+	15.00		QPR	0-1	Cardiff
+	15.00		Reading	6-0	Peterboro
+	15.00		Scunthorpe	3-0	Bristol City
+	15.00		Swansea	3-1	Barnsley
+	15.00		West Brom	2-0	Middlesbrough
+[1910-04-18]
+	15.00		Sheffield Weds	1-1	Sheffield United
+[1910-04-19]
+	15.00		Plymouth	0-2	Newcastle
+[1910-04-20]
+	15.00		QPR	1-0	Watford
+	15.00		Scunthorpe	2-2	Reading
+
+Matchday 45
+
+[1910-04-24]
+	15.00		Barnsley	0-1	QPR
+	15.00		Bristol City	2-1	Derby
+	15.00		Cardiff	3-2	Sheffield Weds
+	15.00		Doncaster	4-3	Scunthorpe
+	15.00		Middlesbrough	1-1	Coventry
+	15.00		Newcastle	2-2	Ipswich
+	15.00		Nott'm Forest	3-0	Plymouth
+	15.00		Peterboro	0-1	Blackpool
+	15.00		Preston	0-1	Leicester
+	15.00		Sheffield United	2-0	Swansea
+	15.00		Watford	3-0	Reading
+[1910-04-26]
+	15.00		Crystal Palace	1-1	West Brom
+
+Matchday 46
+
+[1910-05-02]
+	15.00		Blackpool	1-1	Bristol City
+	15.00		Coventry	0-4	Watford
+	15.00		Derby	2-0	Cardiff
+	15.00		Ipswich	0-3	Sheffield United
+	15.00		Leicester	2-0	Middlesbrough
+	15.00		Plymouth	1-2	Peterboro
+	15.00		QPR	0-1	Newcastle
+	15.00		Reading	4-1	Preston
+	15.00		Scunthorpe	2-2	Nott'm Forest
+	15.00		Sheffield Weds	2-2	Crystal Palace
+	15.00		Swansea	0-0	Doncaster
+	15.00		West Brom	1-1	Barnsley
 

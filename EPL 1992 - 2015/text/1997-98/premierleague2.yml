@@ -3,10 +3,10 @@
 
 league: en
 season: 1997/98
-start_at: 1997-8-1
+start_at: 1997-08-09
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Blackpool

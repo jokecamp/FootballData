@@ -3,10 +3,10 @@
 
 league: en
 season: 2007/08
-start_at: 2007-8-1
+start_at: 1907-08-11
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

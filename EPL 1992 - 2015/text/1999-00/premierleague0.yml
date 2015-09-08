@@ -3,10 +3,10 @@
 
 league: en
 season: 1999/00
-start_at: 1999-8-1
+start_at: 1900-01-03
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

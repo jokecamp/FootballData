@@ -3,10 +3,10 @@
 
 league: en
 season: 1996/97
-start_at: 1996-8-1
+start_at: 1996-08-17
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

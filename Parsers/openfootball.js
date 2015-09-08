@@ -17,10 +17,8 @@ divs.push({ file: '1-premierleague-iii', div: 'E2'})
 var data = {
   country: 'en',
   title: 'Premier League',
-  startingDate: '',
   outputPath: '../EPL 1992 - 2015/text/',
   inputPath: '../football-data.co.uk/england/games.json',
-  matchDaySize: 10
 };
 
 // load data once
@@ -32,7 +30,6 @@ for(var year = 1992; year < 2015; year++){
 
     data.start = year.toString();
     data.end = (year + 1).toString();
-    data.startingDate = data.start + "-8-1";
     data.division = d.div;
 
     football.loadData(data);

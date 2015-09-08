@@ -3,10 +3,10 @@
 
 league: en
 season: 2011/12
-start_at: 2011-8-1
+start_at: 1911-08-06
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Bournemouth

@@ -3,27 +3,182 @@
 
 Matchday 1
 
-[Tue Jan/10]
-	15.00		Everton	1-3	Newcastle
-	15.00		Man United	2-2	Liverpool
-[Fri Feb/10]
-	15.00		Southampton	0-0	West Ham
-[Sun Feb/12]
-	15.00		Aston Villa	1-1	Arsenal
-	15.00		Blackburn	4-2	West Ham
-	15.00		Bolton	1-1	Nott'm Forest
-	15.00		Leeds	0-1	Man City
-	15.00		Liverpool	1-1	Southampton
-	15.00		Man United	1-1	Chelsea
-	15.00		QPR	1-1	Middlesbrough
+[1995-08-19]
+	15.00		Aston Villa	3-1	Man United
+	15.00		Blackburn	1-0	QPR
+	15.00		Chelsea	0-0	Everton
+	15.00		Liverpool	1-0	Sheffield Weds
+	15.00		Man City	1-1	Tottenham
+	15.00		Newcastle	3-0	Coventry
+	15.00		Southampton	3-4	Nott'm Forest
+	15.00		West Ham	1-2	Leeds
+	15.00		Wimbledon	3-2	Bolton
+[1995-08-20]
+	15.00		Arsenal	1-1	Middlesbrough
 
 Matchday 2
 
-[Sun Feb/12]
-	15.00		Tottenham	0-0	Everton
-[Sun Mar/12]
-	15.00		Wimbledon	3-3	Newcastle
-[Tue Apr/11]
+[1995-08-21]
+	15.00		Leeds	1-0	Liverpool
+[1995-08-22]
+	15.00		Bolton	1-3	Newcastle
+[1995-08-23]
+	15.00		Coventry	2-1	Man City
+	15.00		Everton	0-2	Arsenal
+	15.00		Man United	2-1	West Ham
+	15.00		Nott'm Forest	0-0	Chelsea
+	15.00		QPR	0-3	Wimbledon
+	15.00		Sheffield Weds	2-1	Blackburn
+	15.00		Tottenham	0-1	Aston Villa
+[1995-08-26]
+	15.00		Bolton	2-1	Blackburn
+
+Matchday 3
+
+[1995-08-26]
+	15.00		Coventry	0-0	Arsenal
+	15.00		Everton	2-0	Southampton
+	15.00		Leeds	2-0	Aston Villa
+	15.00		Man United	3-1	Wimbledon
+	15.00		Middlesbrough	2-0	Chelsea
+	15.00		Nott'm Forest	1-1	West Ham
+	15.00		QPR	1-0	Man City
+	15.00		Tottenham	1-3	Liverpool
+[1995-08-27]
+	15.00		Sheffield Weds	0-2	Newcastle
+[1995-08-28]
+	15.00		Blackburn	1-2	Man United
+
+Matchday 4
+
+[1995-08-29]
+	15.00		Arsenal	1-1	Nott'm Forest
+[1995-08-30]
+	15.00		Aston Villa	1-0	Bolton
+	15.00		Chelsea	2-2	Coventry
+	15.00		Liverpool	1-0	QPR
+	15.00		Man City	0-2	Everton
+	15.00		Newcastle	1-0	Middlesbrough
+	15.00		Southampton	1-1	Leeds
+	15.00		West Ham	1-1	Tottenham
+	15.00		Wimbledon	2-2	Sheffield Weds
+[1995-09-09]
+	15.00		Blackburn	1-1	Aston Villa
+
+Matchday 5
+
+[1995-09-09]
+	15.00		Bolton	1-1	Middlesbrough
+	15.00		Coventry	1-1	Nott'm Forest
+	15.00		Everton	2-3	Man United
+	15.00		QPR	0-3	Sheffield Weds
+	15.00		Southampton	1-0	Newcastle
+	15.00		Tottenham	2-1	Leeds
+	15.00		Wimbledon	1-0	Liverpool
+[1995-09-10]
+	15.00		Man City	0-1	Arsenal
+[1995-09-11]
+	15.00		West Ham	1-3	Chelsea
+[1995-09-12]
+	15.00		Middlesbrough	0-0	Southampton
+
+Matchday 6
+
+[1995-09-16]
+	15.00		Arsenal	1-0	West Ham
+	15.00		Aston Villa	2-0	Wimbledon
+	15.00		Chelsea	3-0	Southampton
+	15.00		Leeds	1-3	QPR
+	15.00		Liverpool	3-0	Blackburn
+	15.00		Man United	3-0	Bolton
+	15.00		Middlesbrough	2-1	Coventry
+	15.00		Newcastle	3-1	Man City
+	15.00		Sheffield Weds	1-3	Tottenham
+[1995-09-17]
+	15.00		Nott'm Forest	3-2	Everton
+
+Matchday 7
+
+[1995-09-23]
+	15.00		Arsenal	4-2	Southampton
+	15.00		Aston Villa	1-1	Nott'm Forest
+	15.00		Blackburn	5-1	Coventry
+	15.00		Liverpool	5-2	Bolton
+	15.00		Man City	0-1	Middlesbrough
+	15.00		Sheffield Weds	0-0	Man United
+	15.00		West Ham	2-1	Everton
+	15.00		Wimbledon	2-4	Leeds
+[1995-09-24]
+	15.00		Newcastle	2-0	Chelsea
+[1995-09-25]
+	15.00		QPR	2-3	Tottenham
+
+Matchday 8
+
+[1995-09-30]
+	15.00		Bolton	0-1	QPR
+	15.00		Chelsea	1-0	Arsenal
+	15.00		Coventry	0-3	Aston Villa
+	15.00		Leeds	2-0	Sheffield Weds
+	15.00		Middlesbrough	2-0	Blackburn
+	15.00		Nott'm Forest	3-0	Man City
+	15.00		Tottenham	3-1	Wimbledon
+[1995-10-01]
+	15.00		Everton	1-3	Newcastle
+	15.00		Man United	2-2	Liverpool
+[1995-10-02]
+	15.00		Southampton	0-0	West Ham
+
+Matchday 9
+
+[1995-10-14]
+	15.00		Aston Villa	0-1	Chelsea
+	15.00		Blackburn	2-1	Southampton
+	15.00		Bolton	1-1	Everton
+	15.00		Leeds	0-3	Arsenal
+	15.00		Liverpool	0-0	Coventry
+	15.00		Man United	1-0	Man City
+	15.00		QPR	2-3	Newcastle
+	15.00		Tottenham	0-1	Nott'm Forest
+[1995-10-15]
+	15.00		Sheffield Weds	0-1	Middlesbrough
+[1995-10-16]
+	15.00		Wimbledon	0-1	West Ham
+
+Matchday 10
+
+[1995-10-21]
+	15.00		Arsenal	2-0	Aston Villa
+	15.00		Chelsea	1-4	Man United
+	15.00		Coventry	0-1	Sheffield Weds
+	15.00		Man City	0-0	Leeds
+	15.00		Middlesbrough	1-0	QPR
+	15.00		Newcastle	6-1	Wimbledon
+	15.00		Nott'm Forest	3-2	Bolton
+	15.00		West Ham	1-1	Blackburn
+[1995-10-22]
+	15.00		Everton	1-1	Tottenham
+	15.00		Southampton	1-3	Liverpool
+
+Matchday 11
+
+[1995-10-28]
+	15.00		Aston Villa	1-0	Everton
+	15.00		Blackburn	3-0	Chelsea
+	15.00		Leeds	3-1	Coventry
+	15.00		Liverpool	6-0	Man City
+	15.00		Man United	2-0	Middlesbrough
+	15.00		QPR	1-1	Nott'm Forest
+	15.00		Sheffield Weds	0-1	West Ham
+	15.00		Wimbledon	1-2	Southampton
+[1995-10-29]
+	15.00		Tottenham	1-1	Newcastle
+[1995-10-30]
+	15.00		Bolton	1-0	Arsenal
+
+Matchday 12
+
+[1995-11-04]
 	15.00		Arsenal	1-0	Man United
 	15.00		Chelsea	0-0	Sheffield Weds
 	15.00		Coventry	2-3	Tottenham
@@ -32,32 +187,81 @@ Matchday 2
 	15.00		Newcastle	2-1	Liverpool
 	15.00		Southampton	2-0	QPR
 	15.00		West Ham	1-4	Aston Villa
-
-Matchday 3
-
-[Wed Apr/12]
-	15.00		Sheffield Weds	4-3	Coventry
-[Thu May/11]
+[1995-11-05]
 	15.00		Everton	1-0	Blackburn
-[Sun Jun/11]
+[1995-11-06]
 	15.00		Nott'm Forest	4-1	Wimbledon
-[Fri Aug/11]
+
+Matchday 13
+
+[1995-11-08]
 	15.00		Newcastle	1-0	Blackburn
-[Sat Sep/09]
-	15.00		Blackburn	1-1	Aston Villa
-	15.00		Bolton	1-1	Middlesbrough
-	15.00		Coventry	1-1	Nott'm Forest
-	15.00		Everton	2-3	Man United
-	15.00		QPR	0-3	Sheffield Weds
-	15.00		Southampton	1-0	Newcastle
+[1995-11-18]
+	15.00		Aston Villa	1-1	Newcastle
+	15.00		Blackburn	7-0	Nott'm Forest
+	15.00		Bolton	0-3	West Ham
+	15.00		Leeds	1-0	Chelsea
+	15.00		Liverpool	1-2	Everton
+	15.00		Man United	4-1	Southampton
+	15.00		Sheffield Weds	1-1	Man City
+	15.00		Tottenham	2-1	Arsenal
+	15.00		Wimbledon	0-0	Middlesbrough
 
-Matchday 4
+Matchday 14
 
-[Sat Sep/09]
-	15.00		Tottenham	2-1	Leeds
-	15.00		Wimbledon	1-0	Liverpool
-[Tue Sep/12]
+[1995-11-19]
+	15.00		QPR	1-1	Coventry
+[1995-11-20]
+	15.00		Southampton	0-1	Aston Villa
+[1995-11-21]
+	15.00		Arsenal	4-2	Sheffield Weds
+	15.00		Middlesbrough	0-1	Tottenham
+[1995-11-22]
+	15.00		Chelsea	3-2	Bolton
+	15.00		Coventry	0-4	Man United
+	15.00		Everton	2-0	QPR
+	15.00		Man City	1-0	Wimbledon
+	15.00		West Ham	0-0	Liverpool
+[1995-11-25]
+	15.00		Chelsea	0-0	Tottenham
+
+Matchday 15
+
+[1995-11-25]
+	15.00		Coventry	3-3	Wimbledon
+	15.00		Everton	2-2	Sheffield Weds
+	15.00		Man City	1-0	Aston Villa
+	15.00		Middlesbrough	2-1	Liverpool
+	15.00		Newcastle	2-1	Leeds
+	15.00		Southampton	1-0	Bolton
+	15.00		West Ham	1-0	QPR
+[1995-11-26]
+	15.00		Arsenal	0-0	Blackburn
+[1995-11-27]
+	15.00		Nott'm Forest	1-1	Man United
+[1995-12-02]
+	15.00		Aston Villa	1-1	Arsenal
+
+Matchday 16
+
+[1995-12-02]
+	15.00		Blackburn	4-2	West Ham
+	15.00		Bolton	1-1	Nott'm Forest
+	15.00		Leeds	0-1	Man City
+	15.00		Liverpool	1-1	Southampton
+	15.00		Man United	1-1	Chelsea
+	15.00		QPR	1-1	Middlesbrough
+	15.00		Tottenham	0-0	Everton
+[1995-12-03]
+	15.00		Wimbledon	3-3	Newcastle
+[1995-12-04]
+	15.00		Sheffield Weds	4-3	Coventry
+[1995-12-09]
 	15.00		Bolton	0-1	Liverpool
+
+Matchday 17
+
+[1995-12-09]
 	15.00		Chelsea	1-0	Newcastle
 	15.00		Coventry	5-0	Blackburn
 	15.00		Leeds	1-1	Wimbledon
@@ -65,97 +269,348 @@ Matchday 4
 	15.00		Middlesbrough	4-1	Man City
 	15.00		Southampton	0-0	Arsenal
 	15.00		Tottenham	1-0	QPR
-
-Matchday 5
-
-[Mon Oct/09]
-	15.00		Man City	0-1	Arsenal
-[Thu Oct/12]
+[1995-12-10]
 	15.00		Nott'm Forest	1-1	Aston Villa
-[Thu Nov/09]
-	15.00		West Ham	1-3	Chelsea
-[Sun Nov/12]
+[1995-12-11]
 	15.00		Everton	3-0	West Ham
-[Sat Dec/09]
-	15.00		Middlesbrough	0-0	Southampton
-[Mon Jan/01]
+[1995-12-16]
+	15.00		Arsenal	1-1	Chelsea
+
+Matchday 18
+
+[1995-12-16]
+	15.00		Aston Villa	4-1	Coventry
+	15.00		Blackburn	1-0	Middlesbrough
+	15.00		Newcastle	1-0	Everton
+	15.00		QPR	2-1	Bolton
+	15.00		Sheffield Weds	6-2	Leeds
+	15.00		West Ham	2-1	Southampton
+	15.00		Wimbledon	0-1	Tottenham
+[1995-12-17]
+	15.00		Liverpool	2-0	Man United
+[1995-12-18]
+	15.00		Man City	1-1	Nott'm Forest
+[1995-12-23]
+	15.00		Coventry	2-1	Everton
+
+Matchday 19
+
+[1995-12-23]
+	15.00		Liverpool	3-1	Arsenal
+	15.00		Man City	0-1	Chelsea
+	15.00		Middlesbrough	4-2	West Ham
+	15.00		Newcastle	3-1	Nott'm Forest
+	15.00		QPR	1-0	Aston Villa
+	15.00		Sheffield Weds	2-2	Southampton
+	15.00		Tottenham	2-2	Bolton
+	15.00		Wimbledon	1-1	Blackburn
+[1995-12-24]
+	15.00		Leeds	3-1	Man United
+[1995-12-26]
+	15.00		Arsenal	3-0	QPR
+
+Matchday 20
+
+[1995-12-26]
+	15.00		Blackburn	2-0	Man City
+	15.00		Chelsea	1-2	Wimbledon
+	15.00		Everton	4-0	Middlesbrough
+	15.00		Nott'm Forest	1-0	Sheffield Weds
+	15.00		Southampton	0-0	Tottenham
+[1995-12-27]
+	15.00		Bolton	0-2	Leeds
+	15.00		Man United	2-0	Newcastle
+[1995-12-30]
+	15.00		Arsenal	1-3	Wimbledon
+	15.00		Blackburn	2-1	Tottenham
+	15.00		Bolton	1-2	Coventry
+
+Matchday 21
+
+[1995-12-30]
+	15.00		Chelsea	2-2	Liverpool
+	15.00		Everton	2-0	Leeds
+	15.00		Man United	2-1	QPR
+	15.00		Nott'm Forest	1-0	Middlesbrough
+[1996-01-01]
 	15.00		Coventry	1-1	Southampton
 	15.00		Leeds	0-0	Blackburn
 	15.00		Liverpool	4-2	Nott'm Forest
 	15.00		Man City	2-1	West Ham
 	15.00		Middlesbrough	0-2	Aston Villa
-
-Matchday 6
-
-[Mon Jan/01]
 	15.00		Sheffield Weds	4-2	Bolton
+
+Matchday 22
+
+[1996-01-01]
 	15.00		Tottenham	4-1	Man United
 	15.00		Wimbledon	2-3	Everton
-[Fri Jan/05]
-	15.00		Arsenal	0-0	Liverpool
-[Thu Feb/01]
+[1996-01-02]
 	15.00		Newcastle	2-0	Arsenal
 	15.00		QPR	1-2	Chelsea
-[Sat Feb/03]
-	15.00		Coventry	2-2	West Ham
-	15.00		Leeds	0-1	Bolton
-	15.00		Man City	1-1	Blackburn
-	15.00		Middlesbrough	0-2	Everton
+[1996-01-13]
+	15.00		Bolton	1-0	Wimbledon
+	15.00		Everton	1-1	Chelsea
+	15.00		Leeds	2-0	West Ham
+	15.00		Man United	0-0	Aston Villa
+	15.00		Middlesbrough	2-3	Arsenal
+	15.00		Nott'm Forest	1-0	Southampton
 
-Matchday 7
+Matchday 23
 
-[Sat Feb/03]
-	15.00		QPR	1-1	Arsenal
-	15.00		Sheffield Weds	1-3	Nott'm Forest
-	15.00		Tottenham	1-0	Southampton
-	15.00		Wimbledon	1-1	Chelsea
-[Mon Feb/05]
-	15.00		Leeds	1-3	Tottenham
-	15.00		Nott'm Forest	1-1	Newcastle
-[Sat Feb/10]
-	15.00		Aston Villa	0-1	Chelsea
-	15.00		Blackburn	2-1	Southampton
-	15.00		Bolton	1-1	Everton
-	15.00		Leeds	0-3	Arsenal
+[1996-01-13]
+	15.00		QPR	0-1	Blackburn
+	15.00		Sheffield Weds	1-1	Liverpool
+	15.00		Tottenham	1-0	Man City
+[1996-01-14]
+	15.00		Coventry	0-1	Newcastle
+[1996-01-20]
+	15.00		Arsenal	1-2	Everton
+	15.00		Blackburn	3-0	Sheffield Weds
+	15.00		Chelsea	1-0	Nott'm Forest
+	15.00		Liverpool	5-0	Leeds
+	15.00		Man City	1-1	Coventry
+	15.00		Newcastle	2-1	Bolton
 
-Matchday 8
+Matchday 24
 
-[Sat Feb/10]
-	15.00		Liverpool	0-0	Coventry
-	15.00		Man United	1-0	Man City
-	15.00		QPR	2-3	Newcastle
-	15.00		Tottenham	0-1	Nott'm Forest
-[Sat Mar/02]
+[1996-01-20]
+	15.00		Southampton	2-1	Middlesbrough
+	15.00		Wimbledon	2-1	QPR
+[1996-01-21]
+	15.00		Aston Villa	2-1	Tottenham
+[1996-01-23]
+	15.00		West Ham	0-1	Man United
+[1996-01-31]
+	15.00		Aston Villa	0-2	Liverpool
+	15.00		Nott'm Forest	2-1	Leeds
+	15.00		Southampton	1-1	Man City
+	15.00		West Ham	3-2	Coventry
+[1996-02-03]
 	15.00		Arsenal	1-1	Coventry
 	15.00		Aston Villa	3-0	Leeds
+
+Matchday 25
+
+[1996-02-03]
 	15.00		Blackburn	3-1	Bolton
 	15.00		Liverpool	0-0	Tottenham
 	15.00		Man City	2-0	QPR
 	15.00		Newcastle	2-0	Sheffield Weds
-
-Matchday 9
-
-[Sat Mar/02]
 	15.00		Southampton	2-2	Everton
 	15.00		West Ham	1-0	Nott'm Forest
 	15.00		Wimbledon	2-4	Man United
-[Sun Mar/03]
-	15.00		Liverpool	3-0	Aston Villa
-[Mon Mar/04]
-	15.00		Leeds	1-0	Southampton
-	15.00		Liverpool	4-3	Newcastle
-[Sun Mar/10]
-	15.00		Sheffield Weds	0-1	Middlesbrough
-[Tue Apr/02]
+[1996-02-04]
 	15.00		Chelsea	5-0	Middlesbrough
-[Wed Apr/03]
+[1996-02-10]
+	15.00		Bolton	0-2	Aston Villa
+	15.00		Coventry	1-0	Chelsea
+
+Matchday 26
+
+[1996-02-10]
+	15.00		Everton	2-0	Man City
+	15.00		Man United	1-0	Blackburn
+	15.00		Middlesbrough	1-2	Newcastle
+	15.00		Nott'm Forest	0-1	Arsenal
+	15.00		Sheffield Weds	2-1	Wimbledon
+[1996-02-11]
+	15.00		QPR	1-2	Liverpool
+[1996-02-12]
+	15.00		Tottenham	0-1	West Ham
+[1996-02-17]
+	15.00		Chelsea	1-2	West Ham
+	15.00		Middlesbrough	1-4	Bolton
+	15.00		Sheffield Weds	1-3	QPR
+
+Matchday 27
+
+[1996-02-21]
+	15.00		Man United	2-0	Everton
+	15.00		West Ham	2-0	Newcastle
+[1996-02-24]
+	15.00		Blackburn	2-3	Liverpool
+	15.00		Coventry	0-0	Middlesbrough
+	15.00		Everton	3-0	Nott'm Forest
+	15.00		Man City	3-3	Newcastle
+	15.00		Southampton	2-3	Chelsea
+	15.00		Tottenham	1-0	Sheffield Weds
+	15.00		West Ham	0-1	Arsenal
+	15.00		Wimbledon	3-3	Aston Villa
+
+Matchday 28
+
+[1996-02-25]
+	15.00		Bolton	0-6	Man United
+[1996-02-28]
+	15.00		Aston Villa	2-0	Blackburn
+[1996-03-02]
+	15.00		Coventry	2-2	West Ham
+	15.00		Leeds	0-1	Bolton
+	15.00		Man City	1-1	Blackburn
+	15.00		Middlesbrough	0-2	Everton
+	15.00		QPR	1-1	Arsenal
+	15.00		Sheffield Weds	1-3	Nott'm Forest
+	15.00		Tottenham	1-0	Southampton
+	15.00		Wimbledon	1-1	Chelsea
+
+Matchday 29
+
+[1996-03-03]
+	15.00		Liverpool	3-0	Aston Villa
+[1996-03-04]
 	15.00		Newcastle	0-1	Man United
-[Fri Apr/05]
+[1996-03-05]
+	15.00		Arsenal	3-1	Man City
+[1996-03-06]
+	15.00		Aston Villa	3-2	Sheffield Weds
+	15.00		QPR	1-2	Leeds
+[1996-03-09]
+	15.00		Aston Villa	4-2	QPR
+	15.00		Everton	2-2	Coventry
+	15.00		West Ham	2-0	Middlesbrough
+[1996-03-12]
+	15.00		Chelsea	1-1	Man City
+[1996-03-13]
+	15.00		Blackburn	1-0	Leeds
+
+Matchday 30
+
+[1996-03-13]
+	15.00		Liverpool	2-2	Wimbledon
+[1996-03-16]
+	15.00		Coventry	0-2	Bolton
+	15.00		Liverpool	2-0	Chelsea
+	15.00		Man City	2-1	Southampton
+	15.00		Middlesbrough	1-1	Nott'm Forest
+	15.00		QPR	1-1	Man United
+	15.00		Sheffield Weds	2-0	Aston Villa
+	15.00		Tottenham	2-3	Blackburn
+	15.00		Wimbledon	0-3	Arsenal
+[1996-03-17]
+	15.00		Leeds	2-2	Everton
+
+Matchday 31
+
+[1996-03-18]
+	15.00		Newcastle	3-0	West Ham
+[1996-03-19]
+	15.00		Aston Villa	0-0	Middlesbrough
+[1996-03-20]
+	15.00		Bolton	2-3	Tottenham
+	15.00		Man United	1-0	Arsenal
+	15.00		Southampton	0-1	Sheffield Weds
+[1996-03-23]
+	15.00		Arsenal	2-0	Newcastle
+	15.00		Bolton	2-1	Sheffield Weds
+	15.00		Chelsea	1-1	QPR
+	15.00		Everton	2-4	Wimbledon
+	15.00		Nott'm Forest	1-0	Liverpool
+
+Matchday 32
+
+[1996-03-23]
+	15.00		West Ham	4-2	Man City
+[1996-03-24]
+	15.00		Man United	1-0	Tottenham
+[1996-03-25]
+	15.00		Southampton	1-0	Coventry
+[1996-03-30]
+	15.00		Blackburn	0-3	Everton
+	15.00		Bolton	1-1	Man City
+	15.00		Leeds	0-1	Middlesbrough
+	15.00		QPR	3-0	Southampton
+	15.00		Tottenham	3-1	Coventry
+	15.00		Wimbledon	1-0	Nott'm Forest
+[1996-04-03]
+	15.00		Leeds	1-0	Southampton
+
+Matchday 33
+
+[1996-04-03]
+	15.00		Liverpool	4-3	Newcastle
+[1996-04-05]
+	15.00		Middlesbrough	3-1	Sheffield Weds
+[1996-04-06]
+	15.00		Arsenal	2-1	Leeds
+	15.00		Chelsea	1-2	Aston Villa
+	15.00		Coventry	1-0	Liverpool
+	15.00		Everton	3-0	Bolton
+	15.00		Man City	2-3	Man United
+	15.00		Newcastle	2-1	QPR
+	15.00		Nott'm Forest	2-1	Tottenham
+	15.00		Southampton	1-0	Blackburn
+
+Matchday 34
+
+[1996-04-06]
+	15.00		West Ham	1-1	Wimbledon
+[1996-04-08]
+	15.00		Aston Villa	3-0	Southampton
+	15.00		Blackburn	2-1	Newcastle
+	15.00		Bolton	2-1	Chelsea
+	15.00		Leeds	1-3	Nott'm Forest
+	15.00		Liverpool	2-0	West Ham
+	15.00		Man United	1-0	Coventry
+	15.00		QPR	3-1	Everton
+	15.00		Sheffield Weds	1-0	Arsenal
+	15.00		Tottenham	1-1	Middlesbrough
+
+Matchday 35
+
+[1996-04-08]
+	15.00		Wimbledon	3-0	Man City
+[1996-04-13]
+	15.00		Chelsea	4-1	Leeds
+	15.00		Coventry	1-0	QPR
+	15.00		Man City	1-0	Sheffield Weds
+	15.00		Middlesbrough	1-2	Wimbledon
+	15.00		Nott'm Forest	1-5	Blackburn
+	15.00		Southampton	3-1	Man United
+	15.00		West Ham	1-0	Bolton
+[1996-04-14]
+	15.00		Newcastle	1-0	Aston Villa
+[1996-04-15]
+	15.00		Arsenal	0-0	Tottenham
+
+Matchday 36
+
+[1996-04-16]
+	15.00		Everton	1-1	Liverpool
+[1996-04-17]
+	15.00		Aston Villa	1-1	West Ham
+	15.00		Blackburn	3-2	Wimbledon
+	15.00		Man United	1-0	Leeds
+	15.00		Newcastle	1-0	Southampton
+	15.00		Nott'm Forest	0-0	Coventry
+	15.00		Sheffield Weds	0-0	Chelsea
+[1996-04-27]
+	15.00		Aston Villa	0-1	Man City
+	15.00		Blackburn	1-1	Arsenal
+	15.00		Bolton	0-1	Southampton
+
+Matchday 37
+
+[1996-04-27]
+	15.00		Liverpool	1-0	Middlesbrough
+	15.00		QPR	3-0	West Ham
+	15.00		Sheffield Weds	2-5	Everton
+	15.00		Tottenham	1-1	Chelsea
+	15.00		Wimbledon	0-2	Coventry
+[1996-04-28]
+	15.00		Man United	5-0	Nott'm Forest
+[1996-04-29]
+	15.00		Leeds	0-1	Newcastle
+[1996-05-01]
+	15.00		Arsenal	0-0	Liverpool
+[1996-05-02]
+	15.00		Leeds	1-3	Tottenham
+	15.00		Nott'm Forest	1-1	Newcastle
+
+Matchday 38
+
+[1996-05-04]
 	15.00		Arsenal	2-1	Bolton
-
-Matchday 10
-
-[Fri Apr/05]
 	15.00		Chelsea	2-3	Blackburn
 	15.00		Coventry	0-0	Leeds
 	15.00		Everton	1-0	Aston Villa
@@ -165,464 +620,4 @@ Matchday 10
 	15.00		Nott'm Forest	3-0	QPR
 	15.00		Southampton	0-0	Wimbledon
 	15.00		West Ham	1-1	Sheffield Weds
-[Tue Apr/09]
-	15.00		Arsenal	1-0	West Ham
-
-Matchday 11
-
-[Tue Apr/09]
-	15.00		Aston Villa	2-0	Wimbledon
-	15.00		Chelsea	3-0	Southampton
-	15.00		Leeds	1-3	QPR
-	15.00		Liverpool	3-0	Blackburn
-	15.00		Man United	3-0	Bolton
-	15.00		Middlesbrough	2-1	Coventry
-	15.00		Newcastle	3-1	Man City
-	15.00		Sheffield Weds	1-3	Tottenham
-[Wed Apr/10]
-	15.00		Wimbledon	0-1	West Ham
-[Fri Apr/12]
-	15.00		Arsenal	1-1	Chelsea
-
-Matchday 12
-
-[Fri Apr/12]
-	15.00		Aston Villa	4-1	Coventry
-	15.00		Blackburn	1-0	Middlesbrough
-	15.00		Newcastle	1-0	Everton
-	15.00		QPR	2-1	Bolton
-	15.00		Sheffield Weds	6-2	Leeds
-	15.00		West Ham	2-1	Southampton
-	15.00		Wimbledon	0-1	Tottenham
-[Fri May/03]
-	15.00		Arsenal	3-1	Man City
-[Sat May/04]
-	15.00		Middlesbrough	3-1	Sheffield Weds
-[Thu May/09]
-	15.00		Nott'm Forest	3-2	Everton
-
-Matchday 13
-
-[Sun May/12]
-	15.00		Liverpool	2-0	Man United
-[Mon Jun/03]
-	15.00		Aston Villa	3-2	Sheffield Weds
-	15.00		QPR	1-2	Leeds
-[Tue Jun/04]
-	15.00		Arsenal	2-1	Leeds
-	15.00		Chelsea	1-2	Aston Villa
-	15.00		Coventry	1-0	Liverpool
-	15.00		Everton	3-0	Bolton
-	15.00		Man City	2-3	Man United
-	15.00		Newcastle	2-1	QPR
-	15.00		Nott'm Forest	2-1	Tottenham
-
-Matchday 14
-
-[Tue Jun/04]
-	15.00		Southampton	1-0	Blackburn
-	15.00		West Ham	1-1	Wimbledon
-[Tue Jun/11]
-	15.00		Aston Villa	1-1	Newcastle
-	15.00		Blackburn	7-0	Nott'm Forest
-	15.00		Bolton	0-3	West Ham
-	15.00		Leeds	1-0	Chelsea
-	15.00		Liverpool	1-2	Everton
-	15.00		Man United	4-1	Southampton
-	15.00		Sheffield Weds	1-1	Man City
-	15.00		Tottenham	2-1	Arsenal
-
-Matchday 15
-
-[Tue Jun/11]
-	15.00		Wimbledon	0-0	Middlesbrough
-[Wed Jun/12]
-	15.00		Man City	1-1	Nott'm Forest
-[Mon Jul/08]
-	15.00		Aston Villa	3-1	Man United
-	15.00		Blackburn	1-0	QPR
-	15.00		Chelsea	0-0	Everton
-	15.00		Liverpool	1-0	Sheffield Weds
-	15.00		Man City	1-1	Tottenham
-	15.00		Newcastle	3-0	Coventry
-	15.00		Southampton	3-4	Nott'm Forest
-	15.00		West Ham	1-2	Leeds
-
-Matchday 16
-
-[Mon Jul/08]
-	15.00		Wimbledon	3-2	Bolton
-[Thu Jul/11]
-	15.00		QPR	1-1	Coventry
-[Sun Aug/04]
-	15.00		Aston Villa	3-0	Southampton
-	15.00		Blackburn	2-1	Newcastle
-	15.00		Bolton	2-1	Chelsea
-	15.00		Leeds	1-3	Nott'm Forest
-	15.00		Liverpool	2-0	West Ham
-	15.00		Man United	1-0	Coventry
-	15.00		QPR	3-1	Everton
-	15.00		Sheffield Weds	1-0	Arsenal
-
-Matchday 17
-
-[Sun Aug/04]
-	15.00		Tottenham	1-1	Middlesbrough
-	15.00		Wimbledon	3-0	Man City
-[Thu Aug/08]
-	15.00		Arsenal	1-1	Middlesbrough
-[Sun Aug/11]
-	15.00		Southampton	0-1	Aston Villa
-[Tue Sep/03]
-	15.00		Aston Villa	4-2	QPR
-	15.00		Everton	2-2	Coventry
-	15.00		West Ham	2-0	Middlesbrough
-[Sun Sep/08]
-	15.00		Leeds	1-0	Liverpool
-[Tue Sep/10]
-	15.00		Arsenal	2-0	Aston Villa
-	15.00		Chelsea	1-4	Man United
-
-Matchday 18
-
-[Tue Sep/10]
-	15.00		Coventry	0-1	Sheffield Weds
-	15.00		Man City	0-0	Leeds
-	15.00		Middlesbrough	1-0	QPR
-	15.00		Newcastle	6-1	Wimbledon
-	15.00		Nott'm Forest	3-2	Bolton
-	15.00		West Ham	1-1	Blackburn
-[Wed Sep/11]
-	15.00		Arsenal	4-2	Sheffield Weds
-	15.00		Middlesbrough	0-1	Tottenham
-[Wed Oct/02]
-	15.00		Bolton	0-2	Aston Villa
-	15.00		Coventry	1-0	Chelsea
-
-Matchday 19
-
-[Wed Oct/02]
-	15.00		Everton	2-0	Man City
-	15.00		Man United	1-0	Blackburn
-	15.00		Middlesbrough	1-2	Newcastle
-	15.00		Nott'm Forest	0-1	Arsenal
-	15.00		Sheffield Weds	2-1	Wimbledon
-[Tue Oct/08]
-	15.00		Bolton	1-3	Newcastle
-[Thu Oct/10]
-	15.00		Everton	1-1	Tottenham
-	15.00		Southampton	1-3	Liverpool
-[Fri Oct/11]
-	15.00		Chelsea	3-2	Bolton
-	15.00		Coventry	0-4	Man United
-
-Matchday 20
-
-[Fri Oct/11]
-	15.00		Everton	2-0	QPR
-	15.00		Man City	1-0	Wimbledon
-	15.00		West Ham	0-0	Liverpool
-[Sat Nov/02]
-	15.00		QPR	1-2	Liverpool
-[Fri Nov/08]
-	15.00		Coventry	2-1	Man City
-	15.00		Everton	0-2	Arsenal
-	15.00		Man United	2-1	West Ham
-	15.00		Nott'm Forest	0-0	Chelsea
-	15.00		QPR	0-3	Wimbledon
-	15.00		Sheffield Weds	2-1	Blackburn
-
-Matchday 21
-
-[Fri Nov/08]
-	15.00		Tottenham	0-1	Aston Villa
-[Sat Nov/09]
-	15.00		Arsenal	4-2	Southampton
-	15.00		Aston Villa	1-1	Nott'm Forest
-	15.00		Blackburn	5-1	Coventry
-	15.00		Liverpool	5-2	Bolton
-	15.00		Man City	0-1	Middlesbrough
-	15.00		Sheffield Weds	0-0	Man United
-	15.00		West Ham	2-1	Everton
-	15.00		Wimbledon	2-4	Leeds
-[Tue Nov/12]
-	15.00		Coventry	2-1	Everton
-
-Matchday 22
-
-[Tue Nov/12]
-	15.00		Liverpool	3-1	Arsenal
-	15.00		Man City	0-1	Chelsea
-	15.00		Middlesbrough	4-2	West Ham
-	15.00		Newcastle	3-1	Nott'm Forest
-	15.00		QPR	1-0	Aston Villa
-	15.00		Sheffield Weds	2-2	Southampton
-	15.00		Tottenham	2-2	Bolton
-	15.00		Wimbledon	1-1	Blackburn
-[Mon Dec/02]
-	15.00		Tottenham	0-1	West Ham
-[Tue Dec/03]
-	15.00		Chelsea	1-1	Man City
-
-Matchday 23
-
-[Mon Dec/09]
-	15.00		Newcastle	2-0	Chelsea
-[Thu Dec/12]
-	15.00		Leeds	3-1	Man United
-[Wed Jan/01]
-	15.00		Bolton	1-0	Wimbledon
-	15.00		Everton	1-1	Chelsea
-	15.00		Leeds	2-0	West Ham
-	15.00		Man United	0-0	Aston Villa
-	15.00		Middlesbrough	2-3	Arsenal
-	15.00		Nott'm Forest	1-0	Southampton
-	15.00		QPR	0-1	Blackburn
-	15.00		Sheffield Weds	1-1	Liverpool
-
-Matchday 24
-
-[Wed Jan/01]
-	15.00		Tottenham	1-0	Man City
-[Fri Jan/03]
-	15.00		Blackburn	1-0	Leeds
-	15.00		Liverpool	2-2	Wimbledon
-[Sat Jan/04]
-	15.00		Chelsea	4-1	Leeds
-	15.00		Coventry	1-0	QPR
-	15.00		Man City	1-0	Sheffield Weds
-	15.00		Middlesbrough	1-2	Wimbledon
-	15.00		Nott'm Forest	1-5	Blackburn
-	15.00		Southampton	3-1	Man United
-	15.00		West Ham	1-0	Bolton
-
-Matchday 25
-
-[Thu Jan/09]
-	15.00		QPR	2-3	Tottenham
-[Sat Jan/11]
-	15.00		Chelsea	0-0	Tottenham
-	15.00		Coventry	3-3	Wimbledon
-	15.00		Everton	2-2	Sheffield Weds
-	15.00		Man City	1-0	Aston Villa
-	15.00		Middlesbrough	2-1	Liverpool
-	15.00		Newcastle	2-1	Leeds
-	15.00		Southampton	1-0	Bolton
-	15.00		West Ham	1-0	QPR
-[Sat Feb/01]
-	15.00		Coventry	0-1	Newcastle
-
-Matchday 26
-
-[Tue Feb/04]
-	15.00		Newcastle	1-0	Aston Villa
-[Sat Feb/08]
-	15.00		Bolton	2-1	Blackburn
-	15.00		Coventry	0-0	Arsenal
-	15.00		Everton	2-0	Southampton
-	15.00		Leeds	2-0	Aston Villa
-	15.00		Man United	3-1	Wimbledon
-	15.00		Middlesbrough	2-0	Chelsea
-	15.00		Nott'm Forest	1-1	West Ham
-	15.00		QPR	1-0	Man City
-	15.00		Tottenham	1-3	Liverpool
-
-Matchday 27
-
-[Tue Feb/11]
-	15.00		Arsenal	0-0	Blackburn
-[Wed Feb/12]
-	15.00		Arsenal	3-0	QPR
-	15.00		Blackburn	2-0	Man City
-	15.00		Chelsea	1-2	Wimbledon
-	15.00		Everton	4-0	Middlesbrough
-	15.00		Nott'm Forest	1-0	Sheffield Weds
-	15.00		Southampton	0-0	Tottenham
-[Tue Mar/04]
-	15.00		Arsenal	0-0	Tottenham
-[Sat Mar/08]
-	15.00		Sheffield Weds	0-2	Newcastle
-[Tue Mar/11]
-	15.00		Nott'm Forest	1-1	Man United
-
-Matchday 28
-
-[Wed Mar/12]
-	15.00		Bolton	0-2	Leeds
-	15.00		Man United	2-0	Newcastle
-[Thu Apr/03]
-	15.00		Coventry	0-2	Bolton
-	15.00		Liverpool	2-0	Chelsea
-	15.00		Man City	2-1	Southampton
-	15.00		Middlesbrough	1-1	Nott'm Forest
-	15.00		QPR	1-1	Man United
-	15.00		Sheffield Weds	2-0	Aston Villa
-	15.00		Tottenham	2-3	Blackburn
-	15.00		Wimbledon	0-3	Arsenal
-
-Matchday 29
-
-[Fri Apr/04]
-	15.00		Everton	1-1	Liverpool
-[Tue Apr/08]
-	15.00		Blackburn	1-2	Man United
-[Thu Apr/10]
-	15.00		Aston Villa	1-0	Everton
-	15.00		Blackburn	3-0	Chelsea
-	15.00		Leeds	3-1	Coventry
-	15.00		Liverpool	6-0	Man City
-	15.00		Man United	2-0	Middlesbrough
-	15.00		QPR	1-1	Nott'm Forest
-	15.00		Sheffield Weds	0-1	West Ham
-	15.00		Wimbledon	1-2	Southampton
-
-Matchday 30
-
-[Fri May/02]
-	15.00		Chelsea	1-2	West Ham
-	15.00		Middlesbrough	1-4	Bolton
-	15.00		Sheffield Weds	1-3	QPR
-[Sat May/03]
-	15.00		Leeds	2-2	Everton
-[Sun May/04]
-	15.00		Aston Villa	1-1	West Ham
-	15.00		Blackburn	3-2	Wimbledon
-	15.00		Man United	1-0	Leeds
-	15.00		Newcastle	1-0	Southampton
-	15.00		Nott'm Forest	0-0	Coventry
-	15.00		Sheffield Weds	0-0	Chelsea
-
-Matchday 31
-
-[Thu May/08]
-	15.00		Arsenal	1-1	Nott'm Forest
-[Sat May/10]
-	15.00		Tottenham	1-1	Newcastle
-[Tue Jun/03]
-	15.00		Newcastle	3-0	West Ham
-[Sun Jun/08]
-	15.00		Aston Villa	1-0	Bolton
-	15.00		Chelsea	2-2	Coventry
-	15.00		Liverpool	1-0	QPR
-	15.00		Man City	0-2	Everton
-	15.00		Newcastle	1-0	Middlesbrough
-	15.00		Southampton	1-1	Leeds
-	15.00		West Ham	1-1	Tottenham
-
-Matchday 32
-
-[Sun Jun/08]
-	15.00		Wimbledon	2-2	Sheffield Weds
-[Mon Jun/09]
-	15.00		Bolton	0-1	QPR
-	15.00		Chelsea	1-0	Arsenal
-	15.00		Coventry	0-3	Aston Villa
-	15.00		Leeds	2-0	Sheffield Weds
-	15.00		Middlesbrough	2-0	Blackburn
-	15.00		Nott'm Forest	3-0	Man City
-	15.00		Tottenham	3-1	Wimbledon
-[Tue Jun/10]
-	15.00		Bolton	1-0	Arsenal
-[Thu Jun/12]
-	15.00		Arsenal	1-3	Wimbledon
-
-Matchday 33
-
-[Thu Jun/12]
-	15.00		Blackburn	2-1	Tottenham
-	15.00		Bolton	1-2	Coventry
-	15.00		Chelsea	2-2	Liverpool
-	15.00		Everton	2-0	Leeds
-	15.00		Man United	2-1	QPR
-	15.00		Nott'm Forest	1-0	Middlesbrough
-[Thu Jul/03]
-	15.00		Aston Villa	0-0	Middlesbrough
-[Fri Aug/01]
-	15.00		Arsenal	1-2	Everton
-	15.00		Blackburn	3-0	Sheffield Weds
-	15.00		Chelsea	1-0	Nott'm Forest
-
-Matchday 34
-
-[Fri Aug/01]
-	15.00		Liverpool	5-0	Leeds
-	15.00		Man City	1-1	Coventry
-	15.00		Newcastle	2-1	Bolton
-	15.00		Southampton	2-1	Middlesbrough
-	15.00		Wimbledon	2-1	QPR
-[Sun Aug/03]
-	15.00		Bolton	2-3	Tottenham
-	15.00		Man United	1-0	Arsenal
-	15.00		Southampton	0-1	Sheffield Weds
-[Mon Sep/01]
-	15.00		Aston Villa	2-1	Tottenham
-[Tue Sep/02]
-	15.00		Man United	2-0	Everton
-
-Matchday 35
-
-[Tue Sep/02]
-	15.00		West Ham	2-0	Newcastle
-[Sat Nov/01]
-	15.00		West Ham	0-1	Man United
-[Mon Nov/03]
-	15.00		Arsenal	2-0	Newcastle
-	15.00		Bolton	2-1	Sheffield Weds
-	15.00		Chelsea	1-1	QPR
-	15.00		Everton	2-4	Wimbledon
-	15.00		Nott'm Forest	1-0	Liverpool
-	15.00		West Ham	4-2	Man City
-[Tue Dec/02]
-	15.00		Blackburn	2-3	Liverpool
-	15.00		Coventry	0-0	Middlesbrough
-
-Matchday 36
-
-[Tue Dec/02]
-	15.00		Everton	3-0	Nott'm Forest
-	15.00		Man City	3-3	Newcastle
-	15.00		Southampton	2-3	Chelsea
-	15.00		Tottenham	1-0	Sheffield Weds
-	15.00		West Ham	0-1	Arsenal
-	15.00		Wimbledon	3-3	Aston Villa
-[Wed Dec/03]
-	15.00		Man United	1-0	Tottenham
-[Fri Jan/02]
-	15.00		Bolton	0-6	Man United
-[Sat Jan/03]
-	15.00		Southampton	1-0	Coventry
-[Wed Mar/04]
-	15.00		Aston Villa	0-1	Man City
-
-Matchday 37
-
-[Wed Mar/04]
-	15.00		Blackburn	1-1	Arsenal
-	15.00		Bolton	0-1	Southampton
-	15.00		Liverpool	1-0	Middlesbrough
-	15.00		QPR	3-0	West Ham
-	15.00		Sheffield Weds	2-5	Everton
-	15.00		Tottenham	1-1	Chelsea
-	15.00		Wimbledon	0-2	Coventry
-[Thu Apr/02]
-	15.00		Aston Villa	2-0	Blackburn
-[Sat Apr/04]
-	15.00		Man United	5-0	Nott'm Forest
-[Mon May/04]
-	15.00		Leeds	0-1	Newcastle
-
-Matchday 38
-
-[Wed Jun/03]
-	15.00		Blackburn	0-3	Everton
-	15.00		Bolton	1-1	Man City
-	15.00		Leeds	0-1	Middlesbrough
-	15.00		QPR	3-0	Southampton
-	15.00		Tottenham	3-1	Coventry
-	15.00		Wimbledon	1-0	Nott'm Forest
-[Wed Jul/01]
-	15.00		Aston Villa	0-2	Liverpool
-	15.00		Nott'm Forest	2-1	Leeds
-	15.00		Southampton	1-1	Man City
-	15.00		West Ham	3-2	Coventry
 

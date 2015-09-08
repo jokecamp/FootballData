@@ -3,470 +3,43 @@
 
 Matchday 1
 
-[Sat Jan/11]
-	15.00		Bradford	0-0	West Brom
-	15.00		Charlton	3-0	Ipswich
-	15.00		Huddersfield	3-1	Stoke
-	15.00		Norwich	2-2	Bury
-	15.00		Nott'm Forest	3-1	Crewe
-	15.00		Oxford	0-0	Man City
-	15.00		Port Vale	0-0	Reading
-	15.00		QPR	1-1	Birmingham
-	15.00		Sheffield United	2-1	Tranmere
-	15.00		Stockport	1-1	Sunderland
-	15.00		Wolves	1-0	Middlesbrough
-[Sun Feb/09]
-	15.00		Crewe	1-2	Bury
-
-Matchday 2
-
-[Sun Feb/09]
-	15.00		Huddersfield	1-2	Bradford
-	15.00		Ipswich	2-1	Swindon
-	15.00		Portsmouth	1-1	Norwich
-	15.00		Reading	1-2	QPR
-	15.00		Stockport	1-1	Middlesbrough
-	15.00		Sunderland	3-1	Oxford
-	15.00		Tranmere	0-3	Birmingham
-[Wed Feb/12]
-	15.00		Ipswich	1-1	Middlesbrough
-	15.00		Sheffield United	3-2	Stoke
-	15.00		West Brom	0-1	Man City
-[Sun Mar/09]
-	15.00		Nott'm Forest	1-3	Man City
-	15.00		Stoke	0-0	West Brom
-
-Matchday 3
-
-[Sun Mar/09]
-	15.00		Wolves	1-1	Port Vale
-[Mon Mar/10]
-	15.00		Huddersfield	0-2	Nott'm Forest
-[Wed Mar/12]
-	15.00		QPR	1-1	Norwich
-[Thu Apr/10]
-	15.00		Birmingham	0-1	Crewe
-	15.00		Bradford	2-0	Wolves
-	15.00		Ipswich	1-0	Man City
-	15.00		QPR	2-4	Charlton
-	15.00		Reading	4-0	Sunderland
-	15.00		Stockport	3-1	Portsmouth
-	15.00		Stoke	3-2	Bury
-	15.00		Swindon	4-2	Port Vale
-	15.00		Tranmere	2-0	Norwich
-
-Matchday 4
-
-[Thu Apr/10]
-	15.00		West Brom	1-2	Oxford
-[Fri Apr/11]
-	15.00		Birmingham	0-0	Bradford
-	15.00		Bury	2-0	Nott'm Forest
-	15.00		Crewe	0-2	Wolves
-	15.00		Ipswich	0-2	Stockport
-	15.00		Man City	2-3	Port Vale
-	15.00		Reading	0-1	Sheffield United
-	15.00		Stoke	0-0	Oxford
-	15.00		Sunderland	0-0	Charlton
-	15.00		Tranmere	1-0	Huddersfield
-	15.00		West Brom	1-0	Norwich
-[Fri May/09]
-	15.00		Bradford	0-4	Sunderland
-
-Matchday 5
-
-[Sat May/10]
-	15.00		Middlesbrough	1-2	Sheffield United
-[Sun May/11]
-	15.00		Middlesbrough	1-1	Portsmouth
-	15.00		Swindon	3-1	QPR
-[Thu Jun/12]
-	15.00		Bury	0-1	Middlesbrough
-	15.00		Crewe	2-5	Huddersfield
-	15.00		Man City	0-1	Wolves
-	15.00		Norwich	2-1	Sheffield United
-	15.00		Nott'm Forest	2-2	Bradford
-	15.00		Port Vale	0-1	Birmingham
-	15.00		Portsmouth	2-0	Stoke
-	15.00		QPR	0-1	Sunderland
-	15.00		Reading	2-0	Charlton
-
-Matchday 6
-
-[Thu Jun/12]
-	15.00		Swindon	4-1	Oxford
-	15.00		Tranmere	1-1	Ipswich
-	15.00		West Brom	3-2	Stockport
-[Wed Jul/09]
-	15.00		Bury	1-0	Tranmere
-	15.00		Oxford	3-0	Wolves
-	15.00		Swindon	0-0	Nott'm Forest
-	15.00		West Brom	1-0	Reading
-[Fri Jul/11]
-	15.00		Man City	0-1	Huddersfield
-[Mon Aug/11]
-	15.00		Birmingham	1-2	Norwich
-	15.00		Bury	0-2	Portsmouth
-	15.00		Crewe	2-1	Oxford
-	15.00		Middlesbrough	3-0	QPR
-
-Matchday 7
-
-[Mon Aug/11]
-	15.00		Reading	1-0	Stockport
-	15.00		Stoke	3-0	Wolves
-	15.00		Sunderland	1-1	Nott'm Forest
-	15.00		Swindon	1-0	Bradford
-	15.00		Tranmere	1-2	Port Vale
-	15.00		West Brom	1-0	Charlton
-[Mon Sep/08]
+[1997-08-09]
 	15.00		Birmingham	2-0	Stoke
 	15.00		Bradford	2-1	Stockport
 	15.00		Bury	1-1	Reading
 	15.00		Man City	2-2	Portsmouth
 	15.00		Middlesbrough	2-1	Charlton
 	15.00		Norwich	0-2	Wolves
-
-Matchday 8
-
-[Mon Sep/08]
 	15.00		Oxford	2-0	Huddersfield
 	15.00		Port Vale	0-1	Nott'm Forest
 	15.00		QPR	0-0	Ipswich
 	15.00		Swindon	2-0	Crewe
 	15.00		West Brom	2-1	Tranmere
-[Tue Sep/09]
-	15.00		Huddersfield	0-1	Birmingham
-	15.00		Port Vale	2-1	Stockport
-[Thu Sep/11]
-	15.00		Ipswich	2-2	Sheffield United
-[Fri Sep/12]
-	15.00		Charlton	2-1	Sheffield United
-	15.00		Portsmouth	3-2	Wolves
-[Wed Oct/08]
+[1997-08-10]
 	15.00		Sheffield United	2-0	Sunderland
-[Mon Nov/10]
-	15.00		Reading	3-3	Crewe
 
-Matchday 9
+Matchday 2
 
-[Mon Nov/10]
-	15.00		Stockport	3-2	Oxford
-	15.00		Swindon	3-1	Bury
-[Wed Dec/10]
-	15.00		Birmingham	1-0	Wolves
-	15.00		Stoke	2-1	Port Vale
-[Fri Dec/12]
-	15.00		Oxford	3-1	QPR
-[Fri Jan/02]
-	15.00		Stoke	1-2	Middlesbrough
-[Sat Jan/03]
-	15.00		Nott'm Forest	4-0	Middlesbrough
-	15.00		Port Vale	0-0	Stoke
-[Sun Jan/04]
-	15.00		Nott'm Forest	3-0	Sheffield United
-	15.00		QPR	0-0	Wolves
-[Fri Jan/09]
-	15.00		Bradford	2-2	Middlesbrough
-	15.00		Bury	1-1	Man City
-
-Matchday 10
-
-[Fri Jan/09]
-	15.00		Huddersfield	2-2	Ipswich
-	15.00		Norwich	1-0	Port Vale
-	15.00		Portsmouth	2-3	Crewe
-	15.00		QPR	2-0	West Brom
-	15.00		Reading	2-1	Oxford
-	15.00		Sheffield United	1-0	Nott'm Forest
-	15.00		Stoke	2-1	Stockport
-	15.00		Swindon	2-1	Tranmere
-	15.00		Wolves	3-1	Charlton
-[Mon Jan/12]
-	15.00		Birmingham	2-1	Man City
-	15.00		Bradford	1-0	Bury
-	15.00		Charlton	1-0	Port Vale
-
-Matchday 11
-
-[Mon Jan/12]
-	15.00		Huddersfield	1-3	Norwich
-	15.00		Ipswich	2-0	Portsmouth
-	15.00		Middlesbrough	4-0	Reading
-	15.00		Sheffield United	2-1	Swindon
-	15.00		Stockport	3-1	Tranmere
-	15.00		Stoke	0-2	Crewe
-	15.00		Sunderland	2-0	West Brom
-[Mon Feb/09]
-	15.00		Birmingham	0-1	Sunderland
-[Tue Feb/10]
-	15.00		Huddersfield	0-3	Charlton
-[Thu Feb/12]
-	15.00		Wolves	2-1	Nott'm Forest
-[Tue Mar/03]
-	15.00		Charlton	5-0	West Brom
-	15.00		Huddersfield	1-3	Man City
-
-Matchday 12
-
-[Tue Mar/03]
-	15.00		Oxford	0-0	Crewe
-	15.00		Portsmouth	1-1	Bury
-	15.00		Sheffield United	0-1	Ipswich
-	15.00		Stockport	5-1	Reading
-[Wed Mar/04]
-	15.00		Tranmere	0-2	Sunderland
-[Thu Mar/05]
-	15.00		Birmingham	0-0	Charlton
-	15.00		Bradford	1-3	Portsmouth
-	15.00		Huddersfield	0-4	Port Vale
-	15.00		Ipswich	3-2	Crewe
-	15.00		Middlesbrough	4-1	Oxford
-	15.00		QPR	0-1	Bury
-	15.00		Reading	0-1	Norwich
-
-Matchday 13
-
-[Thu Mar/05]
-	15.00		Stockport	1-0	Sheffield United
-	15.00		Stoke	2-5	Man City
-	15.00		Swindon	1-2	Sunderland
-	15.00		Tranmere	2-1	Wolves
-	15.00		West Brom	1-1	Nott'm Forest
-[Sun Mar/08]
+[1997-08-15]
 	15.00		Bradford	0-0	Stoke
 	15.00		Nott'm Forest	4-1	Norwich
 	15.00		Sunderland	3-1	Man City
 	15.00		Tranmere	2-1	QPR
-[Wed Mar/11]
-	15.00		Bradford	0-1	Tranmere
-	15.00		Charlton	3-2	Crewe
-	15.00		Huddersfield	1-0	Reading
-
-Matchday 14
-
-[Wed Mar/11]
-	15.00		Norwich	1-3	Middlesbrough
-	15.00		Nott'm Forest	1-0	Birmingham
-	15.00		Oxford	1-1	Bury
-	15.00		Port Vale	1-2	West Brom
-	15.00		Portsmouth	1-4	Sunderland
-	15.00		QPR	1-1	Stoke
-	15.00		Sheffield United	1-1	Man City
-	15.00		Stockport	4-2	Swindon
-	15.00		Wolves	1-1	Ipswich
-[Thu Apr/02]
-	15.00		Middlesbrough	3-0	Tranmere
-[Fri Apr/03]
-	15.00		Norwich	3-3	Birmingham
-	15.00		Nott'm Forest	0-3	Sunderland
-
-Matchday 15
-
-[Fri Apr/03]
-	15.00		Port Vale	0-1	Tranmere
-	15.00		QPR	5-0	Middlesbrough
-	15.00		Wolves	1-1	Stoke
-[Sat Apr/04]
-	15.00		Bury	2-2	Huddersfield
-	15.00		Man City	4-1	Stockport
-	15.00		Norwich	2-3	Bradford
-	15.00		Port Vale	3-0	Oxford
-	15.00		Portsmouth	1-1	Birmingham
-	15.00		Reading	2-0	Stoke
-	15.00		Swindon	0-1	Charlton
-	15.00		West Brom	2-1	Middlesbrough
-[Wed Apr/08]
+[1997-08-16]
 	15.00		Charlton	3-2	Oxford
-
-Matchday 16
-
-[Wed Apr/08]
 	15.00		Crewe	2-3	West Brom
 	15.00		Portsmouth	3-1	Port Vale
 	15.00		Reading	0-1	Swindon
 	15.00		Stockport	0-0	Bury
 	15.00		Wolves	0-0	Sheffield United
-[Thu Apr/09]
-	15.00		Crewe	0-1	Port Vale
-[Mon May/04]
-	15.00		Nott'm Forest	2-1	Ipswich
-[Sat May/09]
-	15.00		Norwich	0-4	Charlton
-[Wed Jun/10]
-	15.00		Bury	2-1	Birmingham
-	15.00		Crewe	1-1	Middlesbrough
-	15.00		Man City	0-0	Reading
-	15.00		Norwich	1-1	Stockport
-
-Matchday 17
-
-[Wed Jun/10]
-	15.00		Nott'm Forest	2-2	Tranmere
-	15.00		Oxford	1-0	Ipswich
-	15.00		Port Vale	0-0	Bradford
-	15.00		Portsmouth	2-3	West Brom
-	15.00		Sheffield United	2-2	QPR
-	15.00		Sunderland	3-1	Huddersfield
-	15.00		Wolves	3-1	Swindon
-[Thu Jun/11]
-	15.00		Bradford	1-1	Sheffield United
-[Thu Jul/02]
-	15.00		Birmingham	1-1	Middlesbrough
-	15.00		Bradford	1-0	Charlton
-	15.00		Bury	2-2	Port Vale
-	15.00		Huddersfield	1-0	Stockport
-
-Matchday 18
-
-[Thu Jul/02]
-	15.00		Norwich	0-0	Man City
-	15.00		Portsmouth	0-1	Nott'm Forest
-	15.00		QPR	3-2	Crewe
-	15.00		Reading	1-3	Tranmere
-	15.00		Sheffield United	1-0	Oxford
-	15.00		Stoke	1-1	Ipswich
-	15.00		Swindon	0-2	West Brom
-	15.00		Wolves	0-1	Sunderland
-[Fri Jul/03]
-	15.00		Birmingham	1-0	QPR
-	15.00		Bury	1-0	Norwich
-	15.00		Crewe	1-4	Nott'm Forest
-	15.00		Ipswich	3-1	Charlton
-
-Matchday 19
-
-[Fri Jul/03]
-	15.00		Man City	0-2	Oxford
-	15.00		Reading	0-3	Port Vale
-	15.00		Stoke	1-2	Huddersfield
-	15.00		Sunderland	4-1	Stockport
-	15.00		Swindon	0-1	Portsmouth
-	15.00		West Brom	1-1	Bradford
-[Sat Jul/04]
-	15.00		Charlton	1-0	Wolves
-	15.00		Sheffield United	1-0	Middlesbrough
-	15.00		Tranmere	2-2	Portsmouth
-[Fri Jul/10]
-	15.00		Charlton	1-1	Stoke
-[Sun Aug/09]
-	15.00		Crewe	2-3	QPR
-	15.00		Ipswich	2-3	Stoke
-
-Matchday 20
-
-[Sun Aug/09]
-	15.00		Man City	1-2	Norwich
-	15.00		Middlesbrough	3-1	Birmingham
-	15.00		Nott'm Forest	1-0	Portsmouth
-	15.00		Oxford	2-4	Sheffield United
-	15.00		Port Vale	1-1	Bury
-	15.00		Stockport	3-0	Huddersfield
-	15.00		Sunderland	1-1	Wolves
-	15.00		Tranmere	6-0	Reading
-	15.00		West Brom	0-0	Swindon
-[Wed Aug/12]
-	15.00		Bury	1-1	Sheffield United
-	15.00		Crewe	0-3	Sunderland
-	15.00		Man City	2-0	Middlesbrough
-
-Matchday 21
-
-[Wed Aug/12]
-	15.00		Norwich	0-0	Stoke
-	15.00		Nott'm Forest	2-1	Stockport
-	15.00		Port Vale	1-3	Ipswich
-	15.00		Portsmouth	0-2	Charlton
-	15.00		Reading	0-0	Wolves
-	15.00		Swindon	1-1	Birmingham
-	15.00		Tranmere	0-2	Oxford
-	15.00		West Brom	0-2	Huddersfield
-[Tue Sep/01]
-	15.00		Tranmere	0-0	West Brom
-[Wed Sep/09]
-	15.00		Charlton	4-1	Bradford
-[Thu Sep/10]
-	15.00		Bury	1-1	QPR
-	15.00		Crewe	0-0	Ipswich
-
-Matchday 22
-
-[Thu Sep/10]
-	15.00		Norwich	0-0	Reading
-	15.00		Nott'm Forest	1-0	West Brom
-	15.00		Oxford	1-4	Middlesbrough
-	15.00		Port Vale	4-1	Huddersfield
-	15.00		Portsmouth	1-1	Bradford
-	15.00		Sheffield United	5-1	Stockport
-	15.00		Sunderland	0-0	Swindon
-[Sat Sep/12]
-	15.00		QPR	1-0	Bradford
-[Thu Oct/01]
-	15.00		Charlton	3-0	Middlesbrough
-	15.00		Huddersfield	5-1	Oxford
-	15.00		Ipswich	0-0	QPR
-	15.00		Nott'm Forest	2-1	Port Vale
-
-Matchday 23
-
-[Thu Oct/01]
-	15.00		Portsmouth	0-3	Man City
-	15.00		Reading	1-1	Bury
-	15.00		Stockport	1-2	Bradford
-	15.00		Stoke	0-7	Birmingham
-	15.00		Sunderland	4-2	Sheffield United
-	15.00		Wolves	5-0	Norwich
-[Fri Oct/02]
-	15.00		Tranmere	3-0	Swindon
-[Sat Oct/03]
-	15.00		Sunderland	1-1	Birmingham
-[Sun Oct/04]
-	15.00		Charlton	3-0	Reading
-	15.00		Sunderland	2-2	QPR
-[Thu Oct/08]
+[1997-08-22]
 	15.00		Man City	1-1	Tranmere
-[Sat Oct/10]
-	15.00		Charlton	1-1	Birmingham
-
-Matchday 24
-
-[Sat Oct/10]
-	15.00		Man City	0-1	Stoke
-	15.00		Wolves	2-1	Tranmere
-[Sun Oct/11]
-	15.00		Bury	1-1	Sunderland
-	15.00		Crewe	0-1	Stockport
-	15.00		Man City	1-0	Bradford
-	15.00		Norwich	2-1	Oxford
-	15.00		Nott'm Forest	5-2	Charlton
-	15.00		Port Vale	0-0	Sheffield United
-	15.00		QPR	2-1	Huddersfield
-	15.00		Reading	0-4	Ipswich
-	15.00		Swindon	1-2	Middlesbrough
-	15.00		Tranmere	3-1	Stoke
-
-Matchday 25
-
-[Sun Nov/01]
-	15.00		Crewe	2-0	Swindon
-[Tue Nov/03]
-	15.00		Middlesbrough	6-0	Swindon
-[Wed Nov/04]
-	15.00		Birmingham	1-1	Port Vale
-	15.00		Bradford	0-3	Nott'm Forest
-	15.00		Huddersfield	2-0	Crewe
-	15.00		Ipswich	0-0	Tranmere
-	15.00		Middlesbrough	4-0	Bury
-	15.00		Oxford	2-1	Swindon
-	15.00		Sheffield United	2-2	Norwich
-	15.00		Stockport	2-1	West Brom
-	15.00		Stoke	2-1	Portsmouth
-	15.00		Wolves	2-2	Man City
-
-Matchday 26
-
-[Sun Nov/08]
+[1997-08-23]
 	15.00		Birmingham	3-0	Reading
+
+Matchday 3
+
+[1997-08-23]
 	15.00		Bradford	2-1	Ipswich
 	15.00		Bury	0-0	Charlton
 	15.00		Middlesbrough	0-1	Stoke
@@ -476,34 +49,185 @@ Matchday 26
 	15.00		QPR	2-1	Stockport
 	15.00		Sheffield United	2-1	Portsmouth
 	15.00		Swindon	1-1	Huddersfield
-[Wed Nov/11]
-	15.00		West Brom	1-0	Birmingham
-[Tue Dec/08]
+[1997-08-24]
 	15.00		West Brom	1-0	Wolves
+[1997-08-29]
+	15.00		Stockport	2-2	Birmingham
+[1997-08-30]
+	15.00		Charlton	2-1	Man City
 
-Matchday 27
+Matchday 4
 
-[Wed Dec/09]
+[1997-08-30]
+	15.00		Huddersfield	0-0	Sheffield United
+	15.00		Ipswich	1-1	West Brom
+	15.00		Nott'm Forest	4-0	QPR
+	15.00		Portsmouth	2-1	Oxford
+	15.00		Reading	0-3	Bradford
+	15.00		Stoke	1-2	Swindon
+	15.00		Sunderland	0-1	Norwich
+	15.00		Tranmere	0-2	Middlesbrough
+	15.00		Wolves	4-2	Bury
+[1997-09-02]
+	15.00		Crewe	1-2	Bury
+	15.00		Huddersfield	1-2	Bradford
+	15.00		Ipswich	2-1	Swindon
+
+Matchday 5
+
+[1997-09-02]
+	15.00		Portsmouth	1-1	Norwich
+	15.00		Reading	1-2	QPR
+	15.00		Stockport	1-1	Middlesbrough
+	15.00		Sunderland	3-1	Oxford
+	15.00		Tranmere	0-3	Birmingham
+[1997-09-03]
+	15.00		Nott'm Forest	1-3	Man City
+	15.00		Stoke	0-0	West Brom
+	15.00		Wolves	1-1	Port Vale
+[1997-09-05]
+	15.00		Bradford	0-4	Sunderland
+[1997-09-07]
+	15.00		Bury	1-0	Tranmere
+	15.00		Oxford	3-0	Wolves
+	15.00		Swindon	0-0	Nott'm Forest
+
+Matchday 6
+
+[1997-09-07]
+	15.00		West Brom	1-0	Reading
+[1997-09-09]
+	15.00		Huddersfield	0-1	Birmingham
+	15.00		Port Vale	2-1	Stockport
+[1997-09-13]
+	15.00		Bradford	2-2	Middlesbrough
+	15.00		Bury	1-1	Man City
+	15.00		Huddersfield	2-2	Ipswich
+	15.00		Norwich	1-0	Port Vale
+	15.00		Portsmouth	2-3	Crewe
+	15.00		QPR	2-0	West Brom
+	15.00		Reading	2-1	Oxford
+	15.00		Sheffield United	1-0	Nott'm Forest
+	15.00		Stoke	2-1	Stockport
+
+Matchday 7
+
+[1997-09-13]
+	15.00		Swindon	2-1	Tranmere
+	15.00		Wolves	3-1	Charlton
+[1997-09-14]
+	15.00		Birmingham	0-1	Sunderland
+[1997-09-16]
+	15.00		Crewe	0-1	Port Vale
+[1997-09-17]
+	15.00		Norwich	0-4	Charlton
+[1997-09-20]
+	15.00		Crewe	2-3	QPR
+	15.00		Ipswich	2-3	Stoke
+	15.00		Man City	1-2	Norwich
+	15.00		Middlesbrough	3-1	Birmingham
+	15.00		Nott'm Forest	1-0	Portsmouth
+	15.00		Oxford	2-4	Sheffield United
+	15.00		Port Vale	1-1	Bury
+
+Matchday 8
+
+[1997-09-20]
+	15.00		Stockport	3-0	Huddersfield
+	15.00		Sunderland	1-1	Wolves
+	15.00		Tranmere	6-0	Reading
+	15.00		West Brom	0-0	Swindon
+[1997-09-21]
+	15.00		Charlton	4-1	Bradford
+[1997-09-24]
 	15.00		QPR	1-0	Portsmouth
-[Thu Dec/10]
+[1997-09-26]
+	15.00		Norwich	2-1	Ipswich
+[1997-09-27]
+	15.00		Bury	1-3	West Brom
+	15.00		Charlton	1-3	Stockport
+	15.00		Crewe	2-1	Tranmere
+	15.00		Man City	6-0	Swindon
+	15.00		Nott'm Forest	1-0	Stoke
+
+Matchday 9
+
+[1997-09-27]
+	15.00		Oxford	0-0	Bradford
+	15.00		Port Vale	2-0	QPR
+	15.00		Portsmouth	0-2	Reading
+	15.00		Sheffield United	0-0	Birmingham
+	15.00		Wolves	1-1	Huddersfield
+[1997-09-28]
+	15.00		Sunderland	1-2	Middlesbrough
+[1997-10-03]
+	15.00		Huddersfield	0-2	Nott'm Forest
+[1997-10-04]
+	15.00		Birmingham	0-1	Crewe
+	15.00		Bradford	2-0	Wolves
+	15.00		Ipswich	1-0	Man City
+	15.00		QPR	2-4	Charlton
+	15.00		Reading	4-0	Sunderland
+
+Matchday 10
+
+[1997-10-04]
+	15.00		Stockport	3-1	Portsmouth
+	15.00		Stoke	3-2	Bury
+	15.00		Swindon	4-2	Port Vale
+	15.00		Tranmere	2-0	Norwich
+	15.00		West Brom	1-2	Oxford
+[1997-10-05]
+	15.00		Middlesbrough	1-2	Sheffield United
+[1997-10-11]
+	15.00		Reading	3-3	Crewe
+	15.00		Stockport	3-2	Oxford
+	15.00		Swindon	3-1	Bury
+[1997-10-12]
+	15.00		Birmingham	1-0	Wolves
+	15.00		Stoke	2-1	Port Vale
+[1997-10-14]
+	15.00		Huddersfield	0-3	Charlton
+
+Matchday 11
+
+[1997-10-18]
+	15.00		Bury	2-1	Birmingham
+	15.00		Crewe	1-1	Middlesbrough
+	15.00		Man City	0-0	Reading
+	15.00		Norwich	1-1	Stockport
+	15.00		Nott'm Forest	2-2	Tranmere
+	15.00		Oxford	1-0	Ipswich
+	15.00		Port Vale	0-0	Bradford
+	15.00		Portsmouth	2-3	West Brom
+	15.00		Sheffield United	2-2	QPR
+	15.00		Sunderland	3-1	Huddersfield
+	15.00		Wolves	3-1	Swindon
+[1997-10-19]
+	15.00		Charlton	1-1	Stoke
+
+Matchday 12
+
+[1997-10-21]
+	15.00		Bury	1-1	QPR
+	15.00		Crewe	0-0	Ipswich
+	15.00		Norwich	0-0	Reading
+	15.00		Nott'm Forest	1-0	West Brom
+	15.00		Oxford	1-4	Middlesbrough
+	15.00		Port Vale	4-1	Huddersfield
+	15.00		Portsmouth	1-1	Bradford
+	15.00		Sheffield United	5-1	Stockport
+	15.00		Sunderland	0-0	Swindon
+[1997-10-22]
+	15.00		Charlton	1-1	Birmingham
+	15.00		Man City	0-1	Stoke
+	15.00		Wolves	2-1	Tranmere
+
+Matchday 13
+
+[1997-10-24]
 	15.00		Reading	3-3	Nott'm Forest
-[Mon Jan/04]
-	15.00		Bury	2-0	Bradford
-	15.00		Crewe	2-0	Stoke
-	15.00		Man City	0-1	Birmingham
-	15.00		Norwich	5-0	Huddersfield
-	15.00		Nott'm Forest	3-0	Wolves
-	15.00		Port Vale	0-1	Charlton
-	15.00		Portsmouth	0-1	Ipswich
-	15.00		Reading	0-1	Middlesbrough
-	15.00		Swindon	1-1	Sheffield United
-	15.00		Tranmere	3-0	Stockport
-
-Matchday 28
-
-[Mon Jan/04]
-	15.00		West Brom	3-3	Sunderland
-[Sun Jan/10]
+[1997-10-25]
 	15.00		Birmingham	0-0	Oxford
 	15.00		Bradford	1-0	Crewe
 	15.00		Huddersfield	1-1	Portsmouth
@@ -514,50 +238,198 @@ Matchday 28
 	15.00		Swindon	1-0	Norwich
 	15.00		Tranmere	2-2	Charlton
 	15.00		West Brom	2-0	Sheffield United
-[Tue Feb/02]
-	15.00		Crewe	3-1	Portsmouth
-
-Matchday 29
-
-[Tue Feb/02]
-	15.00		Ipswich	5-1	Huddersfield
-	15.00		Man City	0-1	Bury
-	15.00		Middlesbrough	1-0	Bradford
-	15.00		Port Vale	2-2	Norwich
-	15.00		Stockport	1-0	Stoke
-	15.00		West Brom	1-1	QPR
-[Wed Feb/03]
-	15.00		Bradford	0-0	Birmingham
-	15.00		Huddersfield	3-0	Tranmere
-	15.00		Norwich	1-1	West Brom
-	15.00		Nott'm Forest	3-0	Bury
-	15.00		Oxford	5-1	Stoke
-	15.00		Port Vale	2-1	Man City
-
-Matchday 30
-
-[Wed Feb/03]
-	15.00		Portsmouth	0-0	Middlesbrough
-	15.00		QPR	1-2	Swindon
-	15.00		Sheffield United	4-0	Reading
-	15.00		Stockport	0-1	Ipswich
-	15.00		Wolves	1-0	Crewe
-[Thu Feb/04]
-	15.00		QPR	1-1	Oxford
-[Tue Feb/09]
-	15.00		Norwich	2-1	Ipswich
-[Wed Feb/10]
+[1997-10-26]
 	15.00		QPR	2-0	Man City
-[Thu Feb/11]
+
+Matchday 14
+
+[1997-10-28]
+	15.00		Birmingham	1-1	Ipswich
+	15.00		Middlesbrough	3-0	Huddersfield
+[1997-10-29]
+	15.00		Man City	1-0	Crewe
+[1997-10-31]
+	15.00		Portsmouth	0-1	Swindon
+[1997-11-01]
+	15.00		Bradford	0-0	West Brom
+	15.00		Charlton	3-0	Ipswich
+	15.00		Huddersfield	3-1	Stoke
+	15.00		Norwich	2-2	Bury
+	15.00		Nott'm Forest	3-1	Crewe
+	15.00		Oxford	0-0	Man City
+	15.00		Port Vale	0-0	Reading
+	15.00		QPR	1-1	Birmingham
+
+Matchday 15
+
+[1997-11-01]
+	15.00		Sheffield United	2-1	Tranmere
+	15.00		Stockport	1-1	Sunderland
+	15.00		Wolves	1-0	Middlesbrough
+[1997-11-04]
+	15.00		Birmingham	0-0	Bradford
+	15.00		Bury	2-0	Nott'm Forest
+	15.00		Crewe	0-2	Wolves
+	15.00		Ipswich	0-2	Stockport
+	15.00		Man City	2-3	Port Vale
+	15.00		Reading	0-1	Sheffield United
+	15.00		Stoke	0-0	Oxford
+	15.00		Sunderland	0-0	Charlton
+	15.00		Tranmere	1-0	Huddersfield
+
+Matchday 16
+
+[1997-11-04]
+	15.00		West Brom	1-0	Norwich
+[1997-11-05]
+	15.00		Middlesbrough	1-1	Portsmouth
+	15.00		Swindon	3-1	QPR
+[1997-11-07]
+	15.00		Man City	0-1	Huddersfield
+[1997-11-08]
+	15.00		Birmingham	1-2	Norwich
+	15.00		Bury	0-2	Portsmouth
+	15.00		Crewe	2-1	Oxford
+	15.00		Middlesbrough	3-0	QPR
+	15.00		Reading	1-0	Stockport
+	15.00		Stoke	3-0	Wolves
+	15.00		Sunderland	1-1	Nott'm Forest
+	15.00		Swindon	1-0	Bradford
+
+Matchday 17
+
+[1997-11-08]
+	15.00		Tranmere	1-2	Port Vale
+	15.00		West Brom	1-0	Charlton
+[1997-11-09]
+	15.00		Ipswich	2-2	Sheffield United
+[1997-11-15]
+	15.00		Bradford	0-1	Tranmere
+	15.00		Charlton	3-2	Crewe
+	15.00		Huddersfield	1-0	Reading
+	15.00		Norwich	1-3	Middlesbrough
+	15.00		Nott'm Forest	1-0	Birmingham
+	15.00		Oxford	1-1	Bury
+	15.00		Port Vale	1-2	West Brom
+	15.00		Portsmouth	1-4	Sunderland
+	15.00		QPR	1-1	Stoke
+
+Matchday 18
+
+[1997-11-15]
+	15.00		Sheffield United	1-1	Man City
+	15.00		Stockport	4-2	Swindon
+	15.00		Wolves	1-1	Ipswich
+[1997-11-18]
+	15.00		Bradford	1-1	Sheffield United
+[1997-11-22]
+	15.00		Bury	1-1	Sunderland
+	15.00		Crewe	0-1	Stockport
+	15.00		Man City	1-0	Bradford
+	15.00		Norwich	2-1	Oxford
+	15.00		Nott'm Forest	5-2	Charlton
+	15.00		Port Vale	0-0	Sheffield United
+	15.00		QPR	2-1	Huddersfield
+	15.00		Reading	0-4	Ipswich
+
+Matchday 19
+
+[1997-11-22]
+	15.00		Swindon	1-2	Middlesbrough
+	15.00		Tranmere	3-1	Stoke
+[1997-11-23]
+	15.00		West Brom	1-0	Birmingham
+[1997-11-26]
 	15.00		Middlesbrough	0-0	Nott'm Forest
-[Fri Feb/12]
+[1997-11-28]
+	15.00		Charlton	3-0	Swindon
+[1997-11-29]
+	15.00		Birmingham	2-1	Portsmouth
+	15.00		Bradford	2-1	Norwich
+	15.00		Huddersfield	2-0	Bury
+	15.00		Ipswich	0-1	Nott'm Forest
+	15.00		Middlesbrough	1-0	West Brom
+	15.00		Oxford	2-0	Port Vale
+	15.00		Sheffield United	1-0	Crewe
+
+Matchday 20
+
+[1997-11-29]
+	15.00		Stockport	3-1	Man City
+	15.00		Stoke	1-2	Reading
+	15.00		Sunderland	3-0	Tranmere
+	15.00		Wolves	3-2	QPR
+[1997-12-02]
+	15.00		Ipswich	1-1	Middlesbrough
+	15.00		Sheffield United	3-2	Stoke
+	15.00		West Brom	0-1	Man City
+[1997-12-03]
+	15.00		QPR	1-1	Norwich
+[1997-12-06]
+	15.00		Bury	0-1	Middlesbrough
+	15.00		Crewe	2-5	Huddersfield
+	15.00		Man City	0-1	Wolves
+	15.00		Norwich	2-1	Sheffield United
+
+Matchday 21
+
+[1997-12-06]
+	15.00		Nott'm Forest	2-2	Bradford
+	15.00		Port Vale	0-1	Birmingham
+	15.00		Portsmouth	2-0	Stoke
+	15.00		QPR	0-1	Sunderland
+	15.00		Reading	2-0	Charlton
+	15.00		Swindon	4-1	Oxford
+	15.00		Tranmere	1-1	Ipswich
+	15.00		West Brom	3-2	Stockport
+[1997-12-09]
+	15.00		Charlton	2-1	Sheffield United
+	15.00		Portsmouth	3-2	Wolves
+[1997-12-12]
+	15.00		Oxford	3-1	QPR
+[1997-12-13]
+	15.00		Birmingham	2-1	Man City
+
+Matchday 22
+
+[1997-12-13]
+	15.00		Bradford	1-0	Bury
+	15.00		Charlton	1-0	Port Vale
+	15.00		Huddersfield	1-3	Norwich
+	15.00		Ipswich	2-0	Portsmouth
+	15.00		Middlesbrough	4-0	Reading
+	15.00		Sheffield United	2-1	Swindon
+	15.00		Stockport	3-1	Tranmere
+	15.00		Stoke	0-2	Crewe
+	15.00		Sunderland	2-0	West Brom
+[1997-12-14]
+	15.00		Wolves	2-1	Nott'm Forest
+[1997-12-20]
+	15.00		Bury	1-1	Sheffield United
+	15.00		Crewe	0-3	Sunderland
+
+Matchday 23
+
+[1997-12-20]
+	15.00		Man City	2-0	Middlesbrough
+	15.00		Norwich	0-0	Stoke
+	15.00		Nott'm Forest	2-1	Stockport
+	15.00		Port Vale	1-3	Ipswich
+	15.00		Portsmouth	0-2	Charlton
+	15.00		Reading	0-0	Wolves
+	15.00		Swindon	1-1	Birmingham
+	15.00		Tranmere	0-2	Oxford
+	15.00		West Brom	0-2	Huddersfield
+[1997-12-21]
+	15.00		QPR	1-0	Bradford
+[1997-12-26]
 	15.00		Charlton	2-1	Norwich
 	15.00		Crewe	1-0	Man City
+
+Matchday 24
+
+[1997-12-26]
 	15.00		Huddersfield	0-1	Middlesbrough
-
-Matchday 31
-
-[Fri Feb/12]
 	15.00		Ipswich	0-1	Birmingham
 	15.00		Nott'm Forest	3-0	Swindon
 	15.00		Portsmouth	3-1	QPR
@@ -567,38 +439,13 @@ Matchday 31
 	15.00		Sunderland	2-0	Bradford
 	15.00		Tranmere	0-0	Bury
 	15.00		Wolves	1-0	Oxford
-[Wed Mar/03]
-	15.00		Charlton	1-1	Sunderland
-[Tue Mar/09]
-	15.00		Bury	1-3	West Brom
-	15.00		Charlton	1-3	Stockport
-
-Matchday 32
-
-[Tue Mar/09]
-	15.00		Crewe	2-1	Tranmere
-	15.00		Man City	6-0	Swindon
-	15.00		Nott'm Forest	1-0	Stoke
-	15.00		Oxford	0-0	Bradford
-	15.00		Port Vale	2-0	QPR
-	15.00		Portsmouth	0-2	Reading
-	15.00		Sheffield United	0-0	Birmingham
-	15.00		Wolves	1-1	Huddersfield
-[Thu Apr/01]
-	15.00		Stoke	2-1	Bradford
-[Fri Apr/09]
-	15.00		Sunderland	1-2	Middlesbrough
-[Sat Apr/10]
-	15.00		Birmingham	1-1	Ipswich
-	15.00		Middlesbrough	3-0	Huddersfield
-
-Matchday 33
-
-[Sun Apr/11]
-	15.00		Charlton	3-0	Swindon
-[Mon Apr/12]
+[1997-12-28]
 	15.00		Birmingham	0-0	Tranmere
 	15.00		Bradford	1-1	Huddersfield
+
+Matchday 25
+
+[1997-12-28]
 	15.00		Bury	1-1	Crewe
 	15.00		Man City	2-3	Nott'm Forest
 	15.00		Middlesbrough	3-1	Stockport
@@ -608,11 +455,35 @@ Matchday 33
 	15.00		Sheffield United	4-1	Charlton
 	15.00		Swindon	0-2	Ipswich
 	15.00		West Brom	1-1	Stoke
+[1997-12-30]
+	15.00		Norwich	2-0	Portsmouth
+[1998-01-09]
+	15.00		Tranmere	0-0	West Brom
+[1998-01-10]
+	15.00		Charlton	3-0	Middlesbrough
 
-Matchday 34
+Matchday 26
 
-[Sat May/01]
+[1998-01-10]
+	15.00		Huddersfield	5-1	Oxford
+	15.00		Ipswich	0-0	QPR
+	15.00		Nott'm Forest	2-1	Port Vale
+	15.00		Portsmouth	0-3	Man City
+	15.00		Reading	1-1	Bury
+	15.00		Stockport	1-2	Bradford
+	15.00		Stoke	0-7	Birmingham
+	15.00		Sunderland	4-2	Sheffield United
+	15.00		Wolves	5-0	Norwich
+[1998-01-11]
+	15.00		Crewe	2-0	Swindon
+[1998-01-16]
+	15.00		Stoke	2-1	Bradford
+[1998-01-17]
 	15.00		Birmingham	0-0	Huddersfield
+
+Matchday 27
+
+[1998-01-17]
 	15.00		Man City	0-1	Sunderland
 	15.00		Middlesbrough	1-1	Ipswich
 	15.00		Norwich	1-0	Nott'm Forest
@@ -622,217 +493,34 @@ Matchday 34
 	15.00		Sheffield United	1-0	Wolves
 	15.00		Swindon	0-2	Reading
 	15.00		West Brom	0-1	Crewe
-[Sun May/02]
-	15.00		Bury	0-0	Stoke
-	15.00		Charlton	1-1	QPR
-
-Matchday 35
-
-[Sun May/02]
-	15.00		Crewe	0-2	Birmingham
-	15.00		Nott'm Forest	3-0	Huddersfield
-	15.00		Oxford	2-1	West Brom
-	15.00		Port Vale	0-1	Swindon
-	15.00		Portsmouth	1-0	Stockport
-	15.00		Sunderland	4-1	Reading
-[Mon May/03]
-	15.00		Oxford	3-0	Reading
-[Tue May/04]
-	15.00		Middlesbrough	1-0	Man City
-[Sat May/08]
-	15.00		Stockport	2-2	Birmingham
-[Mon May/10]
-	15.00		Man City	1-0	Crewe
-[Tue May/11]
-	15.00		Birmingham	2-1	Portsmouth
-	15.00		Bradford	2-1	Norwich
-
-Matchday 36
-
-[Tue May/11]
-	15.00		Huddersfield	2-0	Bury
-	15.00		Ipswich	0-1	Nott'm Forest
-	15.00		Middlesbrough	1-0	West Brom
-	15.00		Oxford	2-0	Port Vale
-	15.00		Sheffield United	1-0	Crewe
-	15.00		Stockport	3-1	Man City
-	15.00		Stoke	1-2	Reading
-	15.00		Sunderland	3-0	Tranmere
-	15.00		Wolves	3-2	QPR
-[Tue Jun/01]
+[1998-01-18]
 	15.00		Bury	0-1	Stockport
-[Wed Jun/02]
-	15.00		Man City	1-2	Ipswich
-	15.00		Norwich	0-2	Tranmere
-
-Matchday 37
-
-[Wed Jun/02]
-	15.00		Wolves	2-1	Bradford
-[Thu Jun/03]
-	15.00		Swindon	0-0	Wolves
-[Fri Jun/04]
-	15.00		Birmingham	3-0	Swindon
-	15.00		Charlton	1-0	Portsmouth
-	15.00		Huddersfield	1-0	West Brom
-	15.00		Ipswich	5-1	Port Vale
-	15.00		Oxford	1-1	Tranmere
-	15.00		Sheffield United	3-0	Bury
-	15.00		Stockport	2-2	Nott'm Forest
-	15.00		Stoke	2-0	Norwich
-	15.00		Sunderland	2-1	Crewe
-	15.00		Wolves	3-1	Reading
-
-Matchday 38
-
-[Tue Jun/08]
-	15.00		Charlton	2-1	Man City
-	15.00		Huddersfield	0-0	Sheffield United
-	15.00		Ipswich	1-1	West Brom
-	15.00		Nott'm Forest	4-0	QPR
-	15.00		Portsmouth	2-1	Oxford
-	15.00		Reading	0-3	Bradford
-	15.00		Stoke	1-2	Swindon
-	15.00		Sunderland	0-1	Norwich
-	15.00		Tranmere	0-2	Middlesbrough
-	15.00		Wolves	4-2	Bury
-[Sat Jun/12]
-	15.00		Norwich	2-0	Portsmouth
-[Sun Jul/04]
-	15.00		Bradford	1-1	QPR
-
-Matchday 39
-
-[Sat Jul/10]
-	15.00		Portsmouth	0-1	Swindon
-[Thu Sep/02]
-	15.00		Bradford	0-0	Oxford
-	15.00		Huddersfield	1-0	Wolves
-	15.00		Ipswich	5-0	Norwich
-	15.00		Middlesbrough	3-1	Sunderland
-	15.00		QPR	0-1	Port Vale
-	15.00		Reading	0-1	Portsmouth
-	15.00		Stockport	3-0	Charlton
-	15.00		Stoke	1-1	Nott'm Forest
-	15.00		Swindon	1-3	Man City
-	15.00		Tranmere	0-3	Crewe
-	15.00		West Brom	1-1	Bury
-
-Matchday 40
-
-[Fri Sep/03]
-	15.00		Birmingham	1-2	Nott'm Forest
-	15.00		Bury	1-0	Oxford
-	15.00		Crewe	0-3	Charlton
-	15.00		Ipswich	3-0	Wolves
-	15.00		Man City	0-0	Sheffield United
-	15.00		Reading	0-2	Huddersfield
-	15.00		Stoke	2-1	QPR
-	15.00		Sunderland	2-1	Portsmouth
-	15.00		Swindon	1-1	Stockport
-	15.00		Tranmere	3-1	Bradford
-	15.00		West Brom	2-2	Port Vale
-[Sat Oct/02]
-	15.00		Birmingham	2-0	Sheffield United
-
-Matchday 41
-
-[Sun Oct/03]
-	15.00		Middlesbrough	3-0	Norwich
-[Wed Dec/01]
+[1998-01-24]
 	15.00		Bradford	1-1	Swindon
 	15.00		Oxford	1-0	Portsmouth
+
+Matchday 28
+
+[1998-01-24]
 	15.00		Port Vale	2-3	Crewe
 	15.00		QPR	0-1	Nott'm Forest
-[Thu Dec/02]
-	15.00		Bradford	2-1	Port Vale
-	15.00		Huddersfield	2-3	Sunderland
-	15.00		Ipswich	5-2	Oxford
-	15.00		Reading	3-0	Man City
-	15.00		Stockport	2-2	Norwich
-	15.00		Tranmere	0-0	Nott'm Forest
-	15.00		West Brom	0-3	Portsmouth
-
-Matchday 42
-
-[Sat Dec/04]
-	15.00		Port Vale	0-1	Middlesbrough
-[Sun Jan/02]
-	15.00		Birmingham	1-3	Bury
-	15.00		Middlesbrough	1-0	Crewe
-	15.00		QPR	2-2	Sheffield United
-	15.00		Stoke	1-2	Charlton
-[Tue Jan/04]
-	15.00		Bury	0-1	Ipswich
-	15.00		Charlton	2-0	Tranmere
-	15.00		Crewe	5-0	Bradford
-	15.00		Man City	2-2	QPR
-	15.00		Norwich	5-0	Swindon
-	15.00		Oxford	0-2	Birmingham
-	15.00		Portsmouth	3-0	Huddersfield
-
-Matchday 43
-
-[Tue Jan/04]
-	15.00		Sheffield United	2-4	West Brom
-	15.00		Sunderland	3-0	Stoke
-	15.00		Wolves	3-4	Stockport
-[Fri Feb/04]
-	15.00		Nott'm Forest	1-0	Reading
-[Wed Mar/01]
+[1998-01-27]
 	15.00		Birmingham	4-1	Stockport
 	15.00		Bradford	4-1	Reading
 	15.00		Bury	1-3	Wolves
 	15.00		Sheffield United	1-1	Huddersfield
 	15.00		West Brom	2-3	Ipswich
-[Sat Apr/01]
+[1998-01-28]
 	15.00		Man City	2-2	Charlton
 	15.00		Norwich	2-1	Sunderland
 	15.00		Swindon	1-0	Stoke
-
-Matchday 44
-
-[Sun Apr/02]
-	15.00		Bury	1-0	Swindon
-	15.00		Charlton	1-0	Huddersfield
-	15.00		Crewe	1-0	Reading
-	15.00		Man City	1-0	West Brom
-	15.00		Norwich	0-0	QPR
-	15.00		Oxford	3-0	Stockport
-	15.00		Portsmouth	1-0	Tranmere
-	15.00		Sheffield United	2-1	Bradford
-	15.00		Sunderland	2-2	Ipswich
-	15.00		Wolves	1-3	Birmingham
-[Mon Apr/03]
-	15.00		Birmingham	1-0	West Brom
-	15.00		Bradford	2-1	Man City
-
-Matchday 45
-
-[Mon Apr/03]
-	15.00		Charlton	4-2	Nott'm Forest
-	15.00		Huddersfield	1-1	QPR
-	15.00		Ipswich	1-0	Reading
-	15.00		Oxford	2-0	Norwich
-	15.00		Sheffield United	2-1	Port Vale
-	15.00		Stockport	0-1	Crewe
-	15.00		Stoke	0-3	Tranmere
-	15.00		Sunderland	2-1	Bury
-[Tue Apr/04]
-	15.00		Ipswich	2-0	Sunderland
-	15.00		Tranmere	3-3	Sheffield United
-[Wed May/03]
-	15.00		Wolves	2-0	Portsmouth
-[Thu May/04]
-	15.00		Middlesbrough	1-1	Wolves
-
-Matchday 46
-
-[Sun Jun/04]
-	15.00		Crewe	2-1	Sheffield United
-[Sat Jul/01]
+[1998-01-31]
 	15.00		Charlton	0-0	Bury
 	15.00		Crewe	1-0	Norwich
+
+Matchday 29
+
+[1998-01-31]
 	15.00		Huddersfield	0-0	Swindon
 	15.00		Ipswich	2-1	Bradford
 	15.00		Nott'm Forest	1-3	Oxford
@@ -842,4 +530,322 @@ Matchday 46
 	15.00		Sunderland	4-2	Port Vale
 	15.00		Tranmere	0-0	Man City
 	15.00		Wolves	0-1	West Brom
+[1998-02-01]
+	15.00		Stoke	1-2	Middlesbrough
+[1998-02-04]
+	15.00		Middlesbrough	3-0	Tranmere
+[1998-02-07]
+	15.00		Birmingham	1-1	Middlesbrough
+
+Matchday 30
+
+[1998-02-07]
+	15.00		Bradford	1-0	Charlton
+	15.00		Bury	2-2	Port Vale
+	15.00		Huddersfield	1-0	Stockport
+	15.00		Norwich	0-0	Man City
+	15.00		Portsmouth	0-1	Nott'm Forest
+	15.00		QPR	3-2	Crewe
+	15.00		Reading	1-3	Tranmere
+	15.00		Sheffield United	1-0	Oxford
+	15.00		Stoke	1-1	Ipswich
+	15.00		Swindon	0-2	West Brom
+	15.00		Wolves	0-1	Sunderland
+[1998-02-10]
+	15.00		Tranmere	3-0	Swindon
+
+Matchday 31
+
+[1998-02-14]
+	15.00		Crewe	3-1	Portsmouth
+	15.00		Ipswich	5-1	Huddersfield
+	15.00		Man City	0-1	Bury
+	15.00		Middlesbrough	1-0	Bradford
+	15.00		Port Vale	2-2	Norwich
+	15.00		Stockport	1-0	Stoke
+	15.00		West Brom	1-1	QPR
+[1998-02-17]
+	15.00		Bury	0-0	Stoke
+	15.00		Charlton	1-1	QPR
+	15.00		Crewe	0-2	Birmingham
+	15.00		Nott'm Forest	3-0	Huddersfield
+	15.00		Oxford	2-1	West Brom
+
+Matchday 32
+
+[1998-02-17]
+	15.00		Port Vale	0-1	Swindon
+	15.00		Portsmouth	1-0	Stockport
+	15.00		Sunderland	4-1	Reading
+[1998-02-18]
+	15.00		Man City	1-2	Ipswich
+	15.00		Norwich	0-2	Tranmere
+	15.00		Wolves	2-1	Bradford
+[1998-02-21]
+	15.00		Bradford	0-0	Oxford
+	15.00		Huddersfield	1-0	Wolves
+	15.00		Ipswich	5-0	Norwich
+	15.00		Middlesbrough	3-1	Sunderland
+	15.00		QPR	0-1	Port Vale
+	15.00		Reading	0-1	Portsmouth
+
+Matchday 33
+
+[1998-02-21]
+	15.00		Stockport	3-0	Charlton
+	15.00		Stoke	1-1	Nott'm Forest
+	15.00		Swindon	1-3	Man City
+	15.00		Tranmere	0-3	Crewe
+	15.00		West Brom	1-1	Bury
+[1998-02-22]
+	15.00		Birmingham	2-0	Sheffield United
+[1998-02-24]
+	15.00		Bradford	2-1	Port Vale
+	15.00		Huddersfield	2-3	Sunderland
+	15.00		Ipswich	5-2	Oxford
+	15.00		Reading	3-0	Man City
+	15.00		Stockport	2-2	Norwich
+	15.00		Tranmere	0-0	Nott'm Forest
+
+Matchday 34
+
+[1998-02-24]
+	15.00		West Brom	0-3	Portsmouth
+[1998-02-25]
+	15.00		Birmingham	1-3	Bury
+	15.00		Middlesbrough	1-0	Crewe
+	15.00		QPR	2-2	Sheffield United
+	15.00		Stoke	1-2	Charlton
+[1998-02-28]
+	15.00		Bury	1-0	Swindon
+	15.00		Charlton	1-0	Huddersfield
+	15.00		Crewe	1-0	Reading
+	15.00		Man City	1-0	West Brom
+	15.00		Norwich	0-0	QPR
+	15.00		Oxford	3-0	Stockport
+	15.00		Portsmouth	1-0	Tranmere
+
+Matchday 35
+
+[1998-02-28]
+	15.00		Sheffield United	2-1	Bradford
+	15.00		Sunderland	2-2	Ipswich
+	15.00		Wolves	1-3	Birmingham
+[1998-03-01]
+	15.00		Nott'm Forest	4-0	Middlesbrough
+	15.00		Port Vale	0-0	Stoke
+[1998-03-03]
+	15.00		Charlton	5-0	West Brom
+	15.00		Huddersfield	1-3	Man City
+	15.00		Oxford	0-0	Crewe
+	15.00		Portsmouth	1-1	Bury
+	15.00		Sheffield United	0-1	Ipswich
+	15.00		Stockport	5-1	Reading
+[1998-03-04]
+	15.00		Norwich	3-3	Birmingham
+
+Matchday 36
+
+[1998-03-04]
+	15.00		Nott'm Forest	0-3	Sunderland
+	15.00		Port Vale	0-1	Tranmere
+	15.00		QPR	5-0	Middlesbrough
+	15.00		Wolves	1-1	Stoke
+[1998-03-07]
+	15.00		Birmingham	1-0	QPR
+	15.00		Bury	1-0	Norwich
+	15.00		Crewe	1-4	Nott'm Forest
+	15.00		Ipswich	3-1	Charlton
+	15.00		Man City	0-2	Oxford
+	15.00		Reading	0-3	Port Vale
+	15.00		Stoke	1-2	Huddersfield
+	15.00		Sunderland	4-1	Stockport
+
+Matchday 37
+
+[1998-03-07]
+	15.00		Swindon	0-1	Portsmouth
+	15.00		West Brom	1-1	Bradford
+[1998-03-10]
+	15.00		Sunderland	1-1	Birmingham
+[1998-03-11]
+	15.00		Middlesbrough	6-0	Swindon
+[1998-03-14]
+	15.00		Bradford	0-0	Birmingham
+	15.00		Huddersfield	3-0	Tranmere
+	15.00		Norwich	1-1	West Brom
+	15.00		Nott'm Forest	3-0	Bury
+	15.00		Oxford	5-1	Stoke
+	15.00		Port Vale	2-1	Man City
+	15.00		Portsmouth	0-0	Middlesbrough
+	15.00		QPR	1-2	Swindon
+
+Matchday 38
+
+[1998-03-14]
+	15.00		Sheffield United	4-0	Reading
+	15.00		Stockport	0-1	Ipswich
+	15.00		Wolves	1-0	Crewe
+[1998-03-15]
+	15.00		Charlton	1-1	Sunderland
+[1998-03-17]
+	15.00		Oxford	3-0	Reading
+[1998-03-18]
+	15.00		Swindon	0-0	Wolves
+[1998-03-21]
+	15.00		Birmingham	1-2	Nott'm Forest
+	15.00		Bury	1-0	Oxford
+	15.00		Crewe	0-3	Charlton
+	15.00		Ipswich	3-0	Wolves
+	15.00		Man City	0-0	Sheffield United
+	15.00		Reading	0-2	Huddersfield
+
+Matchday 39
+
+[1998-03-21]
+	15.00		Stoke	2-1	QPR
+	15.00		Sunderland	2-1	Portsmouth
+	15.00		Swindon	1-1	Stockport
+	15.00		Tranmere	3-1	Bradford
+	15.00		West Brom	2-2	Port Vale
+[1998-03-22]
+	15.00		Middlesbrough	3-0	Norwich
+[1998-03-28]
+	15.00		Birmingham	1-0	West Brom
+	15.00		Bradford	2-1	Man City
+	15.00		Charlton	4-2	Nott'm Forest
+	15.00		Huddersfield	1-1	QPR
+	15.00		Ipswich	1-0	Reading
+	15.00		Oxford	2-0	Norwich
+
+Matchday 40
+
+[1998-03-28]
+	15.00		Sheffield United	2-1	Port Vale
+	15.00		Stockport	0-1	Crewe
+	15.00		Stoke	0-3	Tranmere
+	15.00		Sunderland	2-1	Bury
+[1998-03-29]
+	15.00		Wolves	2-0	Portsmouth
+[1998-04-01]
+	15.00		Nott'm Forest	3-0	Sheffield United
+	15.00		QPR	0-0	Wolves
+[1998-04-03]
+	15.00		Tranmere	0-2	Sunderland
+[1998-04-04]
+	15.00		Bury	2-2	Huddersfield
+	15.00		Man City	4-1	Stockport
+	15.00		Norwich	2-3	Bradford
+	15.00		Port Vale	3-0	Oxford
+
+Matchday 41
+
+[1998-04-04]
+	15.00		Portsmouth	1-1	Birmingham
+	15.00		Reading	2-0	Stoke
+	15.00		Swindon	0-1	Charlton
+	15.00		West Brom	2-1	Middlesbrough
+[1998-04-05]
+	15.00		Nott'm Forest	2-1	Ipswich
+[1998-04-07]
+	15.00		Charlton	1-0	Wolves
+	15.00		Sheffield United	1-0	Middlesbrough
+	15.00		Tranmere	2-2	Portsmouth
+[1998-04-10]
+	15.00		Charlton	3-0	Reading
+	15.00		Sunderland	2-2	QPR
+[1998-04-11]
+	15.00		Birmingham	1-1	Port Vale
+	15.00		Bradford	0-3	Nott'm Forest
+
+Matchday 42
+
+[1998-04-11]
+	15.00		Huddersfield	2-0	Crewe
+	15.00		Ipswich	0-0	Tranmere
+	15.00		Middlesbrough	4-0	Bury
+	15.00		Oxford	2-1	Swindon
+	15.00		Sheffield United	2-2	Norwich
+	15.00		Stockport	2-1	West Brom
+	15.00		Stoke	2-1	Portsmouth
+	15.00		Wolves	2-2	Man City
+[1998-04-13]
+	15.00		Bury	2-0	Bradford
+	15.00		Crewe	2-0	Stoke
+	15.00		Man City	0-1	Birmingham
+	15.00		Norwich	5-0	Huddersfield
+
+Matchday 43
+
+[1998-04-13]
+	15.00		Nott'm Forest	3-0	Wolves
+	15.00		Port Vale	0-1	Charlton
+	15.00		Portsmouth	0-1	Ipswich
+	15.00		Reading	0-1	Middlesbrough
+	15.00		Swindon	1-1	Sheffield United
+	15.00		Tranmere	3-0	Stockport
+	15.00		West Brom	3-3	Sunderland
+[1998-04-14]
+	15.00		QPR	1-1	Oxford
+[1998-04-17]
+	15.00		Middlesbrough	1-0	Man City
+[1998-04-18]
+	15.00		Birmingham	3-0	Swindon
+	15.00		Charlton	1-0	Portsmouth
+	15.00		Huddersfield	1-0	West Brom
+
+Matchday 44
+
+[1998-04-18]
+	15.00		Ipswich	5-1	Port Vale
+	15.00		Oxford	1-1	Tranmere
+	15.00		Sheffield United	3-0	Bury
+	15.00		Stockport	2-2	Nott'm Forest
+	15.00		Stoke	2-0	Norwich
+	15.00		Sunderland	2-1	Crewe
+	15.00		Wolves	3-1	Reading
+[1998-04-19]
+	15.00		Bradford	1-1	QPR
+[1998-04-24]
+	15.00		Port Vale	0-1	Middlesbrough
+[1998-04-25]
+	15.00		Bury	0-1	Ipswich
+	15.00		Charlton	2-0	Tranmere
+	15.00		Crewe	5-0	Bradford
+
+Matchday 45
+
+[1998-04-25]
+	15.00		Man City	2-2	QPR
+	15.00		Norwich	5-0	Swindon
+	15.00		Oxford	0-2	Birmingham
+	15.00		Portsmouth	3-0	Huddersfield
+	15.00		Sheffield United	2-4	West Brom
+	15.00		Sunderland	3-0	Stoke
+	15.00		Wolves	3-4	Stockport
+[1998-04-26]
+	15.00		Nott'm Forest	1-0	Reading
+[1998-04-28]
+	15.00		Ipswich	2-0	Sunderland
+	15.00		Tranmere	3-3	Sheffield United
+[1998-04-29]
+	15.00		Middlesbrough	1-1	Wolves
+[1998-04-30]
+	15.00		Crewe	2-1	Sheffield United
+
+Matchday 46
+
+[1998-05-03]
+	15.00		Birmingham	0-0	Charlton
+	15.00		Bradford	1-3	Portsmouth
+	15.00		Huddersfield	0-4	Port Vale
+	15.00		Ipswich	3-2	Crewe
+	15.00		Middlesbrough	4-1	Oxford
+	15.00		QPR	0-1	Bury
+	15.00		Reading	0-1	Norwich
+	15.00		Stockport	1-0	Sheffield United
+	15.00		Stoke	2-5	Man City
+	15.00		Swindon	1-2	Sunderland
+	15.00		Tranmere	2-1	Wolves
+	15.00		West Brom	1-1	Nott'm Forest
 

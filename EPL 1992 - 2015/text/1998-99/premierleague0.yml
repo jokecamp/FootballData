@@ -3,10 +3,10 @@
 
 league: en
 season: 1998/99
-start_at: 1998-8-1
+start_at: 1998-08-15
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

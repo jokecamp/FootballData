@@ -3,10 +3,10 @@
 
 league: en
 season: 2009/10
-start_at: 2009-8-1
+start_at: 1909-08-08
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Brentford

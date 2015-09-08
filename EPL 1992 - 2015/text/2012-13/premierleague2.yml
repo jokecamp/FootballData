@@ -3,10 +3,10 @@
 
 league: en
 season: 2012/13
-start_at: 2012-8-1
+start_at: 1912-08-18
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Bournemouth

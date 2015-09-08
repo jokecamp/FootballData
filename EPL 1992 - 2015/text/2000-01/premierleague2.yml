@@ -3,10 +3,10 @@
 
 league: en
 season: 2000/01
-start_at: 2000-8-1
+start_at: 1900-08-12
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Bournemouth

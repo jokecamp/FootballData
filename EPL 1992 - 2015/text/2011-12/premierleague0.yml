@@ -3,10 +3,10 @@
 
 league: en
 season: 2011/12
-start_at: 2011-8-1
+start_at: 1911-08-13
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

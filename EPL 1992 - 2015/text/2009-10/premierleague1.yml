@@ -3,10 +3,10 @@
 
 league: en
 season: 2009/10
-start_at: 2009-8-1
+start_at: 1909-08-07
 
 fixtures:
-- premierleague1.txt
+- premierleague1
 
 24 teams:
 - Barnsley

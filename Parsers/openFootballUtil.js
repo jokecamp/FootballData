@@ -11,10 +11,10 @@ var getGames = function(data) {
 
   items.forEach(function(g) {
     var parts = g.Date.split('/');
-    g.Date = new Date(parts[2], parts[0]-1, parts[1]);
+    g.Date = new Date(parts[2], parts[1]-1, parts[0]);
   });
 
-  return _.sortBy(items, 'Date');
+  return _.sortBy(items, function(o) { return -o.Date.dateTime; });
 }
 
 var getGamesByMatchdays =  function(data){
@@ -23,7 +23,8 @@ var getGamesByMatchdays =  function(data){
   console.log(util.format("%s %s %s teams -> %s matchday size",
     data.division,
     data.start + "-"+ data.end,
-    data.teams.length, size))
+    data.teams.length, size));
+
   var matchdays = _.groupBy(items, function(element, index){
     return Math.floor(index/size);
   });
@@ -77,9 +78,9 @@ var saveToFile = function(file, text){
 }
 
 var getFileName = function(data, ext){
-  var title = (data.title.replace(" ", '') + data.division.substring(1)).toLowerCase() + "." + ext;
+  var title = (data.title.replace(" ", '') + data.division.substring(1)).toLowerCase();
   if (ext == "txt") data.files.push(title);
-  return data.outputPath + data.years + '/' + title;
+  return data.outputPath + data.years + '/' + title + "." + ext;
 }
 
 var createYaml = function(data){
@@ -110,7 +111,7 @@ var createFixtues = function(data) {
     matchdays[d].forEach(function(g) {
 
       if (lastDate.getTime() != g.Date.getTime()) {
-        text += g.Date.format("[D M/d]") + "\n";
+        text += g.Date.format("[Y-m-d]") + "\n";
         lastDate = g.Date;
       }
 
@@ -130,6 +131,10 @@ var createFixtues = function(data) {
 var loadData = function(data) {
   data.games = getGames(data);
   data.teams = getUniqueTeams(data);
+
+  if (data.games.length > 0) {
+    data.startingDate = _.min(_.pluck(data.games, 'Date')).format('Y-m-d');
+  }
   data.files = [];
   data.years = util.format("%s-%s", data.start, data.end.substring(2));
   data.yearsKey = util.format("%s %s", data.start.substring(2), data.end.substring(2));

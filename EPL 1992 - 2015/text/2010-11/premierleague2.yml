@@ -3,10 +3,10 @@
 
 league: en
 season: 2010/11
-start_at: 2010-8-1
+start_at: 1910-08-07
 
 fixtures:
-- premierleague2.txt
+- premierleague2
 
 24 teams:
 - Bournemouth

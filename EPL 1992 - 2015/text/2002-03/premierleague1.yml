@@ -3,10 +3,10 @@
 
 league: en
 season: 2002/03
-start_at: 2002-8-1
+start_at: 1902-08-10
 
 fixtures:
-- premierleague1.txt
+- premierleague1
 
 24 teams:
 - Bradford

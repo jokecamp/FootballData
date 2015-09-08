@@ -3,10 +3,10 @@
 
 league: en
 season: 2003/04
-start_at: 2003-8-1
+start_at: 1903-08-16
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal

@@ -3,10 +3,10 @@
 
 league: en
 season: 2002/03
-start_at: 2002-8-1
+start_at: 2002-08-17
 
 fixtures:
-- premierleague0.txt
+- premierleague0
 
 20 teams:
 - Arsenal
