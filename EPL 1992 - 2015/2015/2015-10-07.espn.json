@@ -1,0 +1,22 @@
+[
+  { "home": "New York Red Bulls", "away": "Montreal Impact", "homescore": "2", "awayscore": "1" },
+  { "home": "Vancouver Whitecaps", "away": "FC Dallas" },
+  { "home": "Atlanta Silverbacks", "away": "New York Cosmos", "homescore": "0", "awayscore": "3" },
+  { "home": "FC Goa", "away": "Atlético de Kolkata", "homescore": "1", "awayscore": "1" },
+  { "home": "Tanzania", "away": "Malawi", "homescore": "2", "awayscore": "0" },
+  { "home": "Mauritius", "away": "Kenya", "homescore": "2", "awayscore": "5" },
+  { "home": "Comoros Islands", "away": "Lesotho", "homescore": "0", "awayscore": "0" },
+  { "home": "Seychelles", "away": "Burundi", "homescore": "0", "awayscore": "1" },
+  { "home": "Tanzania", "away": "Malawi", "homescore": "2", "awayscore": "0" },
+  { "home": "Mauritius", "away": "Kenya", "homescore": "2", "awayscore": "5" },
+  { "home": "Stevenage", "away": "Dagenham &amp; Redbridge", "homescore": "1", "awayscore": "2" },
+  { "home": "Aldershot Town", "away": "Forest Green Rovers", "homescore": "0", "awayscore": "3" },
+  { "home": "Ballinamallard Utd", "away": "Glenavon", "homescore": "0", "awayscore": "1" },
+  { "home": "New York Red Bulls", "away": "Montreal Impact", "homescore": "2", "awayscore": "1" },
+  { "home": "Vancouver Whitecaps", "away": "FC Dallas" },
+  { "home": "Atlanta Silverbacks", "away": "New York Cosmos", "homescore": "0", "awayscore": "3" },
+  { "home": "Atlas", "away": "Argentino Rosario", "homescore": "1", "awayscore": "0" },
+  { "home": "Millonarios", "away": "Deportes Tolima", "homescore": "1", "awayscore": "0" },
+  { "home": "Santa Tecla", "away": "Atletico Marte" },
+  { "home": "FC Goa", "away": "Atlético de Kolkata", "homescore": "1", "awayscore": "1" }
+]
