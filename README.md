@@ -37,6 +37,7 @@ Special Thanks to:
 - sauravj
 - aqsmith08
 - niudd
+- @michaelkunc
 
 
 ### To Contribute
