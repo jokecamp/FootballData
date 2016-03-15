@@ -61,3 +61,5 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - [ESPN API](http://developer.espn.com/blog/read/publicretirement) -> Retired
 - [opisthokonta.net](http://opisthokonta.net/?cat=34)
 - [https://github.com/alexrockt/bundesliga](https://github.com/alexrockt/bundesliga)
+- <https://github.com/anuvrat/soccerstats>
+- <http://overlays.nbcsports.com/services/midttl/pl.asmx>
