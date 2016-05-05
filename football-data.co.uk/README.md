@@ -132,3 +132,7 @@ RSSSF Archive - http://www.rsssf.com/
 Current results (full time, half time)
 TBWSport - http://www.tbwsport.com
 Livescore- http://www.livescore.com
+
+------------------------
+
+Please note that the odds are collected for the downloadable weekend fixtures on Fridays afternoons not later than 17:00 British Standard Time. Odds for midweek fixtures are collected Tuesdays not later than 15:00 British Standard Time.
