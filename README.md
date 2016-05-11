@@ -27,7 +27,7 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
  - [Stadiums with GPS Coords](other/stadiums-with-GPS-coordinates.csv)
 - Video Game data
  -  [FIFA 2012 Ultimate Team Player Data](video-game-data/fifa-soccer-12-ultimate-team-data-player-database.csv)
-
+- [Huge set of 22 countries](https://github.com/jokecamp/FootballData/tree/master/Football-results%20(22%20countries)) - sqlite db file, csv and xls files
 
 ## Contributors
 
@@ -37,7 +37,8 @@ Special Thanks to:
 - sauravj
 - aqsmith08
 - niudd
-- @michaelkunc
+- [@michaelkunc](https://github.com/michaelkunc)
+- [@ArtemBernatskyy](https://github.com/ArtemBernatskyy)
 
 
 ### To Contribute
