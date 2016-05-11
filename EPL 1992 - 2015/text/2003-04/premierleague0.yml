@@ -1,0 +1,32 @@
+############################
+# Premier League 2003-2004
+
+league: en
+season: 2003/04
+start_at: 1903-08-16
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Everton
+- Fulham
+- Leeds
+- Leicester
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Portsmouth
+- Southampton
+- Tottenham
+- Wolves
+

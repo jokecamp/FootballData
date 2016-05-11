@@ -1,0 +1,803 @@
+############################
+# Premier League 1997-1998
+
+Matchday 1
+
+[1997-08-09]
+	15.00		Blackpool	1-0	Luton
+	15.00		Bristol Rvs	1-1	Plymouth
+	15.00		Chesterfield	3-1	Walsall
+	15.00		Fulham	1-0	Wrexham
+	15.00		Gillingham	0-0	Preston
+	15.00		Grimsby	1-1	Bristol City
+	15.00		Millwall	3-0	Brentford
+	15.00		Northampton	0-2	Bournemouth
+	15.00		Oldham	3-1	York
+	15.00		Southend	1-1	Carlisle
+	15.00		Watford	1-0	Burnley
+	15.00		Wigan	5-2	Wycombe
+
+Matchday 2
+
+[1997-08-16]
+	15.00		Bournemouth	1-0	Wigan
+	15.00		Brentford	0-0	Chesterfield
+	15.00		Bristol City	2-0	Blackpool
+	15.00		Burnley	0-0	Gillingham
+	15.00		Carlisle	0-2	Watford
+	15.00		Plymouth	2-2	Grimsby
+	15.00		Preston	2-1	Millwall
+	15.00		Walsall	1-1	Fulham
+	15.00		Wrexham	3-1	Oldham
+	15.00		Wycombe	0-0	Northampton
+	15.00		York	0-1	Bristol Rvs
+[1997-08-18]
+	15.00		Luton	1-0	Southend
+
+Matchday 3
+
+[1997-08-23]
+	15.00		Blackpool	2-4	Wycombe
+	15.00		Bristol Rvs	3-1	Carlisle
+	15.00		Chesterfield	3-2	Preston
+	15.00		Fulham	0-0	Luton
+	15.00		Gillingham	2-1	Walsall
+	15.00		Grimsby	0-0	Wrexham
+	15.00		Millwall	2-3	York
+	15.00		Northampton	2-1	Bristol City
+	15.00		Oldham	2-1	Bournemouth
+	15.00		Southend	1-0	Burnley
+	15.00		Watford	3-1	Brentford
+	15.00		Wigan	1-1	Plymouth
+
+Matchday 4
+
+[1997-08-30]
+	15.00		Bournemouth	2-0	Blackpool
+	15.00		Brentford	3-1	Grimsby
+	15.00		Bristol City	3-0	Wigan
+	15.00		Burnley	0-0	Bristol Rvs
+	15.00		Carlisle	0-2	Northampton
+	15.00		Luton	1-1	Oldham
+	15.00		Plymouth	1-1	Chesterfield
+	15.00		Preston	2-0	Watford
+	15.00		Walsall	3-1	Southend
+	15.00		Wycombe	2-0	Fulham
+	15.00		York	2-1	Gillingham
+[1997-09-02]
+	15.00		Bournemouth	1-1	Bristol Rvs
+
+Matchday 5
+
+[1997-09-02]
+	15.00		Brentford	2-0	Gillingham
+	15.00		Bristol City	0-2	Fulham
+	15.00		Burnley	0-0	Oldham
+	15.00		Carlisle	1-0	Wigan
+	15.00		Luton	0-2	Millwall
+	15.00		Plymouth	0-1	Watford
+	15.00		Preston	2-0	Grimsby
+	15.00		Walsall	0-2	Northampton
+	15.00		Wrexham	3-4	Blackpool
+	15.00		Wycombe	4-1	Southend
+	15.00		York	0-1	Chesterfield
+[1997-09-05]
+	15.00		Gillingham	2-1	Bournemouth
+
+Matchday 6
+
+[1997-09-05]
+	15.00		Southend	3-1	Brentford
+[1997-09-07]
+	15.00		Blackpool	2-1	Carlisle
+	15.00		Chesterfield	1-0	Burnley
+	15.00		Watford	2-1	Wycombe
+[1997-09-08]
+	15.00		Wigan	3-2	Wrexham
+[1997-09-09]
+	15.00		Bristol Rvs	2-0	Walsall
+	15.00		Fulham	2-0	Plymouth
+	15.00		Grimsby	0-0	York
+	15.00		Northampton	1-0	Luton
+	15.00		Oldham	1-0	Preston
+[1997-09-13]
+	15.00		Bournemouth	1-1	Luton
+	15.00		Bristol Rvs	1-2	Gillingham
+
+Matchday 7
+
+[1997-09-13]
+	15.00		Fulham	0-2	Grimsby
+	15.00		Millwall	3-1	Southend
+	15.00		Oldham	2-2	Northampton
+	15.00		Plymouth	0-0	Brentford
+	15.00		Preston	0-0	Walsall
+	15.00		Watford	2-1	Chesterfield
+	15.00		Wigan	3-0	Blackpool
+	15.00		Wrexham	2-1	Bristol City
+	15.00		Wycombe	1-4	Carlisle
+	15.00		York	3-1	Burnley
+[1997-09-19]
+	15.00		Brentford	1-1	Wycombe
+[1997-09-20]
+	15.00		Blackpool	2-2	Oldham
+
+Matchday 8
+
+[1997-09-20]
+	15.00		Bristol City	1-1	Bournemouth
+	15.00		Burnley	1-1	Preston
+	15.00		Carlisle	2-2	Plymouth
+	15.00		Chesterfield	0-0	Bristol Rvs
+	15.00		Gillingham	2-2	Watford
+	15.00		Grimsby	0-1	Millwall
+	15.00		Luton	2-5	Wrexham
+	15.00		Northampton	1-0	Wigan
+	15.00		Southend	1-0	Fulham
+	15.00		Walsall	2-0	York
+[1997-09-27]
+	15.00		Blackpool	3-0	Southend
+	15.00		Bournemouth	0-1	Grimsby
+
+Matchday 9
+
+[1997-09-27]
+	15.00		Brentford	2-1	Burnley
+	15.00		Bristol City	3-0	Luton
+	15.00		Carlisle	2-1	Gillingham
+	15.00		Northampton	2-0	Millwall
+	15.00		Oldham	4-4	Bristol Rvs
+	15.00		Plymouth	2-1	Walsall
+	15.00		Watford	1-1	York
+	15.00		Wigan	2-1	Fulham
+	15.00		Wrexham	0-0	Chesterfield
+	15.00		Wycombe	0-0	Preston
+[1997-10-04]
+	15.00		Bristol Rvs	1-0	Wrexham
+	15.00		Burnley	2-2	Wycombe
+
+Matchday 10
+
+[1997-10-04]
+	15.00		Chesterfield	1-1	Bournemouth
+	15.00		Fulham	3-1	Oldham
+	15.00		Gillingham	2-0	Bristol City
+	15.00		Grimsby	2-1	Wigan
+	15.00		Luton	0-4	Watford
+	15.00		Millwall	2-1	Blackpool
+	15.00		Preston	2-1	Brentford
+	15.00		Southend	0-0	Northampton
+	15.00		Walsall	3-1	Carlisle
+	15.00		York	1-0	Plymouth
+[1997-10-11]
+	15.00		Burnley	3-1	Carlisle
+	15.00		Chesterfield	2-3	Wigan
+
+Matchday 11
+
+[1997-10-11]
+	15.00		Fulham	1-0	Blackpool
+	15.00		Gillingham	1-0	Wycombe
+	15.00		Grimsby	1-0	Northampton
+	15.00		Luton	3-0	Plymouth
+	15.00		Millwall	2-1	Oldham
+	15.00		Preston	0-1	Bournemouth
+	15.00		Southend	0-2	Bristol City
+	15.00		Walsall	3-0	Wrexham
+	15.00		York	3-1	Brentford
+[1997-10-14]
+	15.00		Bristol Rvs	1-2	Watford
+[1997-10-17]
+	15.00		Bristol City	2-1	York
+	15.00		Carlisle	0-2	Preston
+
+Matchday 12
+
+[1997-10-18]
+	15.00		Blackpool	2-2	Grimsby
+	15.00		Bournemouth	2-1	Fulham
+	15.00		Brentford	3-0	Walsall
+	15.00		Northampton	2-1	Gillingham
+	15.00		Oldham	2-0	Chesterfield
+	15.00		Plymouth	2-3	Southend
+	15.00		Watford	0-1	Millwall
+	15.00		Wigan	1-1	Luton
+	15.00		Wrexham	0-0	Burnley
+	15.00		Wycombe	1-0	Bristol Rvs
+[1997-10-21]
+	15.00		Blackpool	2-1	Chesterfield
+	15.00		Bournemouth	0-0	Millwall
+
+Matchday 13
+
+[1997-10-21]
+	15.00		Brentford	2-3	Bristol Rvs
+	15.00		Bristol City	2-1	Preston
+	15.00		Carlisle	0-1	Luton
+	15.00		Northampton	1-1	York
+	15.00		Oldham	2-0	Grimsby
+	15.00		Plymouth	2-2	Burnley
+	15.00		Watford	2-0	Fulham
+	15.00		Wigan	1-4	Gillingham
+	15.00		Wrexham	3-1	Southend
+	15.00		Wycombe	4-2	Walsall
+[1997-10-25]
+	15.00		Bristol Rvs	0-3	Blackpool
+	15.00		Burnley	2-2	Bournemouth
+
+Matchday 14
+
+[1997-10-25]
+	15.00		Chesterfield	1-0	Wycombe
+	15.00		Fulham	1-1	Northampton
+	15.00		Gillingham	2-1	Plymouth
+	15.00		Grimsby	0-1	Watford
+	15.00		Luton	2-0	Brentford
+	15.00		Millwall	1-1	Wigan
+	15.00		Preston	0-1	Wrexham
+	15.00		Southend	1-1	Oldham
+	15.00		Walsall	0-0	Bristol City
+	15.00		York	4-3	Carlisle
+[1997-10-29]
+	15.00		Millwall	0-2	Bristol City
+[1997-11-01]
+	15.00		Bournemouth	0-0	Brentford
+
+Matchday 15
+
+[1997-11-01]
+	15.00		Bristol City	1-0	Oldham
+	15.00		Burnley	2-1	Walsall
+	15.00		Carlisle	2-2	Wrexham
+	15.00		Fulham	1-1	Chesterfield
+	15.00		Gillingham	1-3	Millwall
+	15.00		Grimsby	5-1	Southend
+	15.00		Northampton	1-1	Bristol Rvs
+	15.00		Preston	0-1	Plymouth
+	15.00		Watford	4-1	Blackpool
+	15.00		Wigan	1-1	York
+	15.00		Wycombe	2-2	Luton
+[1997-11-04]
+	15.00		Blackpool	1-1	Northampton
+
+Matchday 16
+
+[1997-11-04]
+	15.00		Brentford	0-1	Carlisle
+	15.00		Bristol Rvs	1-2	Bristol City
+	15.00		Chesterfield	1-1	Gillingham
+	15.00		Luton	2-3	Burnley
+	15.00		Millwall	1-1	Fulham
+	15.00		Oldham	3-1	Wigan
+	15.00		Plymouth	4-2	Wycombe
+	15.00		Southend	0-3	Watford
+	15.00		Walsall	0-0	Grimsby
+	15.00		Wrexham	2-1	Bournemouth
+	15.00		York	1-0	Preston
+[1997-11-07]
+	15.00		Oldham	3-1	Gillingham
+
+Matchday 17
+
+[1997-11-08]
+	15.00		Blackpool	2-1	Burnley
+	15.00		Brentford	1-4	Bristol City
+	15.00		Bristol Rvs	2-3	Fulham
+	15.00		Chesterfield	1-0	Grimsby
+	15.00		Luton	1-3	Preston
+	15.00		Millwall	1-1	Carlisle
+	15.00		Plymouth	3-0	Bournemouth
+	15.00		Southend	1-0	Wigan
+	15.00		Walsall	0-0	Watford
+	15.00		Wrexham	1-0	Northampton
+	15.00		York	2-0	Wycombe
+[1997-11-18]
+	15.00		Bournemouth	2-1	Southend
+
+Matchday 18
+
+[1997-11-18]
+	15.00		Bristol City	2-1	Plymouth
+	15.00		Burnley	1-2	Millwall
+	15.00		Carlisle	0-2	Chesterfield
+	15.00		Fulham	1-1	York
+	15.00		Gillingham	1-1	Blackpool
+	15.00		Northampton	4-0	Brentford
+	15.00		Preston	1-2	Bristol Rvs
+	15.00		Watford	2-1	Oldham
+	15.00		Wycombe	0-0	Wrexham
+[1997-11-21]
+	15.00		Fulham	3-0	Gillingham
+[1997-11-22]
+	15.00		Blackpool	1-0	York
+	15.00		Bournemouth	3-2	Carlisle
+
+Matchday 19
+
+[1997-11-22]
+	15.00		Bristol City	3-1	Wycombe
+	15.00		Grimsby	4-1	Burnley
+	15.00		Luton	0-1	Walsall
+	15.00		Millwall	1-1	Chesterfield
+	15.00		Northampton	0-1	Watford
+	15.00		Oldham	1-1	Brentford
+	15.00		Southend	1-1	Bristol Rvs
+	15.00		Wigan	1-4	Preston
+	15.00		Wrexham	1-1	Plymouth
+[1997-11-29]
+	15.00		Brentford	1-1	Wrexham
+	15.00		Bristol Rvs	2-1	Millwall
+	15.00		Burnley	2-1	Northampton
+
+Matchday 20
+
+[1997-11-29]
+	15.00		Carlisle	0-3	Bristol City
+	15.00		Chesterfield	1-0	Southend
+	15.00		Gillingham	0-2	Grimsby
+	15.00		Plymouth	0-2	Oldham
+	15.00		Preston	3-1	Fulham
+	15.00		Walsall	2-1	Blackpool
+	15.00		Watford	2-1	Wigan
+	15.00		Wycombe	1-1	Bournemouth
+	15.00		York	1-2	Luton
+[1997-12-02]
+	15.00		Blackpool	0-0	Plymouth
+	15.00		Bournemouth	0-0	York
+	15.00		Bristol City	3-1	Burnley
+
+Matchday 21
+
+[1997-12-02]
+	15.00		Fulham	1-1	Brentford
+	15.00		Grimsby	0-0	Wycombe
+	15.00		Luton	2-2	Gillingham
+	15.00		Northampton	0-0	Chesterfield
+	15.00		Oldham	3-1	Carlisle
+	15.00		Southend	3-2	Preston
+	15.00		Wigan	3-0	Bristol Rvs
+	15.00		Wrexham	1-1	Watford
+[1997-12-03]
+	15.00		Millwall	0-1	Walsall
+[1997-12-12]
+	15.00		Bristol Rvs	0-4	Grimsby
+[1997-12-13]
+	15.00		Brentford	3-1	Blackpool
+	15.00		Burnley	0-2	Wigan
+
+Matchday 22
+
+[1997-12-13]
+	15.00		Carlisle	2-0	Fulham
+	15.00		Chesterfield	0-0	Luton
+	15.00		Gillingham	1-2	Southend
+	15.00		Plymouth	3-0	Millwall
+	15.00		Preston	1-0	Northampton
+	15.00		Walsall	2-1	Bournemouth
+	15.00		Watford	1-1	Bristol City
+	15.00		Wycombe	2-1	Oldham
+	15.00		York	1-0	Wrexham
+[1997-12-19]
+	15.00		Fulham	1-0	Burnley
+	15.00		Oldham	0-0	Walsall
+	15.00		Southend	4-4	York
+
+Matchday 23
+
+[1997-12-20]
+	15.00		Blackpool	2-1	Preston
+	15.00		Bournemouth	0-1	Watford
+	15.00		Bristol City	1-0	Chesterfield
+	15.00		Grimsby	1-0	Carlisle
+	15.00		Luton	2-4	Bristol Rvs
+	15.00		Millwall	1-0	Wycombe
+	15.00		Northampton	2-1	Plymouth
+	15.00		Wigan	4-0	Brentford
+	15.00		Wrexham	0-0	Gillingham
+[1997-12-26]
+	15.00		Bournemouth	4-0	Gillingham
+	15.00		Brentford	1-1	Southend
+	15.00		Bristol City	4-1	Millwall
+
+Matchday 24
+
+[1997-12-26]
+	15.00		Burnley	0-0	Chesterfield
+	15.00		Carlisle	1-1	Blackpool
+	15.00		Luton	2-2	Northampton
+	15.00		Plymouth	1-4	Fulham
+	15.00		Preston	1-1	Oldham
+	15.00		Walsall	0-1	Bristol Rvs
+	15.00		Wrexham	2-2	Wigan
+	15.00		Wycombe	0-0	Watford
+	15.00		York	0-0	Grimsby
+[1997-12-28]
+	15.00		Blackpool	1-2	Wrexham
+	15.00		Bristol Rvs	5-3	Bournemouth
+	15.00		Chesterfield	1-1	York
+
+Matchday 25
+
+[1997-12-28]
+	15.00		Fulham	1-0	Bristol City
+	15.00		Grimsby	3-1	Preston
+	15.00		Millwall	0-2	Luton
+	15.00		Northampton	3-2	Walsall
+	15.00		Southend	1-2	Wycombe
+	15.00		Watford	1-1	Plymouth
+	15.00		Wigan	0-2	Carlisle
+[1997-12-29]
+	15.00		Gillingham	3-1	Brentford
+[1998-01-03]
+	15.00		Chesterfield	0-0	Brentford
+	15.00		Gillingham	2-0	Burnley
+	15.00		Southend	1-2	Luton
+[1998-01-10]
+	15.00		Bournemouth	3-0	Northampton
+
+Matchday 26
+
+[1998-01-10]
+	15.00		Brentford	2-1	Millwall
+	15.00		Bristol City	4-1	Grimsby
+	15.00		Burnley	2-0	Watford
+	15.00		Carlisle	5-0	Southend
+	15.00		Luton	3-0	Blackpool
+	15.00		Plymouth	1-2	Bristol Rvs
+	15.00		Preston	1-3	Gillingham
+	15.00		Walsall	3-2	Chesterfield
+	15.00		Wrexham	0-3	Fulham
+	15.00		Wycombe	1-2	Wigan
+	15.00		York	0-0	Oldham
+[1998-01-17]
+	15.00		Blackpool	1-0	Bournemouth
+
+Matchday 27
+
+[1998-01-17]
+	15.00		Bristol Rvs	1-0	Burnley
+	15.00		Chesterfield	2-1	Plymouth
+	15.00		Fulham	0-0	Wycombe
+	15.00		Gillingham	0-0	York
+	15.00		Grimsby	4-0	Brentford
+	15.00		Millwall	0-1	Wrexham
+	15.00		Northampton	2-1	Carlisle
+	15.00		Oldham	2-1	Luton
+	15.00		Southend	0-1	Walsall
+	15.00		Watford	3-1	Preston
+	15.00		Wigan	0-3	Bristol City
+[1998-01-24]
+	15.00		Bournemouth	0-0	Oldham
+
+Matchday 28
+
+[1998-01-24]
+	15.00		Brentford	1-2	Watford
+	15.00		Bristol City	0-0	Northampton
+	15.00		Burnley	1-0	Southend
+	15.00		Carlisle	3-1	Bristol Rvs
+	15.00		Luton	1-4	Fulham
+	15.00		Plymouth	3-2	Wigan
+	15.00		Preston	0-0	Chesterfield
+	15.00		Wycombe	2-1	Blackpool
+	15.00		York	2-3	Millwall
+[1998-01-27]
+	15.00		Oldham	3-0	Wrexham
+[1998-01-31]
+	15.00		Blackpool	0-2	Wigan
+	15.00		Brentford	3-1	Plymouth
+
+Matchday 29
+
+[1998-01-31]
+	15.00		Bristol City	1-1	Wrexham
+	15.00		Burnley	7-2	York
+	15.00		Carlisle	0-0	Wycombe
+	15.00		Chesterfield	0-1	Watford
+	15.00		Gillingham	1-1	Bristol Rvs
+	15.00		Grimsby	1-1	Fulham
+	15.00		Luton	1-2	Bournemouth
+	15.00		Northampton	0-0	Oldham
+	15.00		Southend	0-0	Millwall
+	15.00		Walsall	1-1	Preston
+[1998-02-03]
+	15.00		Blackpool	2-2	Bristol City
+[1998-02-07]
+	15.00		Bournemouth	1-0	Bristol City
+
+Matchday 30
+
+[1998-02-07]
+	15.00		Bristol Rvs	3-1	Chesterfield
+	15.00		Fulham	2-0	Southend
+	15.00		Millwall	0-1	Grimsby
+	15.00		Oldham	0-1	Blackpool
+	15.00		Plymouth	2-1	Carlisle
+	15.00		Preston	2-3	Burnley
+	15.00		Wigan	1-1	Northampton
+	15.00		Wrexham	2-1	Luton
+	15.00		Wycombe	0-0	Brentford
+	15.00		York	1-0	Walsall
+[1998-02-08]
+	15.00		Watford	0-2	Gillingham
+[1998-02-10]
+	15.00		Northampton	2-0	Wycombe
+
+Matchday 31
+
+[1998-02-14]
+	15.00		Blackpool	3-0	Millwall
+	15.00		Bournemouth	2-0	Chesterfield
+	15.00		Brentford	0-0	Preston
+	15.00		Bristol City	0-2	Gillingham
+	15.00		Carlisle	1-1	Walsall
+	15.00		Northampton	3-1	Southend
+	15.00		Oldham	1-0	Fulham
+	15.00		Plymouth	0-0	York
+	15.00		Watford	1-1	Luton
+	15.00		Wigan	0-2	Grimsby
+	15.00		Wrexham	1-0	Bristol Rvs
+	15.00		Wycombe	2-1	Burnley
+
+Matchday 32
+
+[1998-02-21]
+	15.00		Bristol Rvs	3-1	Oldham
+	15.00		Burnley	1-1	Brentford
+	15.00		Chesterfield	3-1	Wrexham
+	15.00		Fulham	2-0	Wigan
+	15.00		Gillingham	1-0	Carlisle
+	15.00		Grimsby	2-1	Bournemouth
+	15.00		Luton	0-0	Bristol City
+	15.00		Millwall	0-0	Northampton
+	15.00		Preston	1-1	Wycombe
+	15.00		Southend	2-1	Blackpool
+	15.00		Walsall	0-1	Plymouth
+	15.00		York	1-1	Watford
+
+Matchday 33
+
+[1998-02-24]
+	15.00		Bristol Rvs	3-1	Wycombe
+	15.00		Burnley	1-2	Wrexham
+	15.00		Chesterfield	2-1	Oldham
+	15.00		Fulham	0-1	Bournemouth
+	15.00		Gillingham	1-0	Northampton
+	15.00		Grimsby	1-0	Blackpool
+	15.00		Luton	1-1	Wigan
+	15.00		Preston	0-3	Carlisle
+	15.00		Southend	3-0	Plymouth
+	15.00		Walsall	0-0	Brentford
+	15.00		York	0-1	Bristol City
+[1998-02-25]
+	15.00		Millwall	1-1	Watford
+
+Matchday 34
+
+[1998-02-28]
+	15.00		Blackpool	2-1	Fulham
+	15.00		Bournemouth	0-2	Preston
+	15.00		Brentford	1-2	York
+	15.00		Bristol City	1-0	Southend
+	15.00		Carlisle	2-1	Burnley
+	15.00		Northampton	2-1	Grimsby
+	15.00		Oldham	1-1	Millwall
+	15.00		Plymouth	0-2	Luton
+	15.00		Watford	3-2	Bristol Rvs
+	15.00		Wigan	2-1	Chesterfield
+	15.00		Wrexham	2-1	Walsall
+	15.00		Wycombe	1-0	Gillingham
+
+Matchday 35
+
+[1998-03-03]
+	15.00		Bournemouth	3-3	Plymouth
+	15.00		Bristol City	2-2	Brentford
+	15.00		Carlisle	1-0	Millwall
+	15.00		Fulham	1-0	Bristol Rvs
+	15.00		Gillingham	2-1	Oldham
+	15.00		Grimsby	0-0	Chesterfield
+	15.00		Northampton	0-1	Wrexham
+	15.00		Preston	1-0	Luton
+	15.00		Watford	1-2	Walsall
+	15.00		Wycombe	1-0	York
+[1998-03-07]
+	15.00		Blackpool	1-1	Watford
+	15.00		Brentford	3-2	Bournemouth
+
+Matchday 36
+
+[1998-03-07]
+	15.00		Bristol Rvs	0-2	Northampton
+	15.00		Chesterfield	0-2	Fulham
+	15.00		Luton	0-0	Wycombe
+	15.00		Millwall	1-0	Gillingham
+	15.00		Plymouth	2-0	Preston
+	15.00		Southend	0-1	Grimsby
+	15.00		Walsall	0-0	Burnley
+	15.00		Wrexham	2-2	Carlisle
+	15.00		York	2-2	Wigan
+[1998-03-10]
+	15.00		Bristol Rvs	1-2	York
+[1998-03-14]
+	15.00		Bournemouth	0-1	Wrexham
+	15.00		Bristol City	2-0	Bristol Rvs
+
+Matchday 37
+
+[1998-03-14]
+	15.00		Burnley	1-1	Luton
+	15.00		Carlisle	1-2	Brentford
+	15.00		Fulham	1-2	Millwall
+	15.00		Gillingham	1-0	Chesterfield
+	15.00		Grimsby	3-0	Walsall
+	15.00		Northampton	2-0	Blackpool
+	15.00		Preston	3-2	York
+	15.00		Watford	1-1	Southend
+	15.00		Wigan	1-0	Oldham
+	15.00		Wycombe	5-1	Plymouth
+[1998-03-17]
+	15.00		Watford	2-1	Carlisle
+	15.00		Wigan	1-3	Southend
+
+Matchday 38
+
+[1998-03-17]
+	15.00		Wrexham	1-0	Millwall
+[1998-03-21]
+	15.00		Blackpool	2-1	Gillingham
+	15.00		Brentford	0-0	Northampton
+	15.00		Bristol Rvs	2-2	Preston
+	15.00		Chesterfield	2-1	Carlisle
+	15.00		Luton	2-2	Grimsby
+	15.00		Millwall	1-0	Burnley
+	15.00		Oldham	2-2	Watford
+	15.00		Plymouth	2-0	Bristol City
+	15.00		Southend	5-3	Bournemouth
+	15.00		Walsall	1-0	Wigan
+	15.00		Wrexham	2-0	Wycombe
+
+Matchday 39
+
+[1998-03-21]
+	15.00		York	0-1	Fulham
+[1998-03-24]
+	15.00		Grimsby	1-0	Plymouth
+[1998-03-25]
+	15.00		Millwall	0-1	Preston
+[1998-03-27]
+	15.00		Bristol Rvs	2-0	Southend
+[1998-03-28]
+	15.00		Brentford	2-1	Oldham
+	15.00		Burnley	2-1	Grimsby
+	15.00		Carlisle	0-1	Bournemouth
+	15.00		Chesterfield	3-1	Millwall
+	15.00		Gillingham	2-0	Fulham
+	15.00		Plymouth	2-0	Wrexham
+	15.00		Preston	1-1	Wigan
+	15.00		Walsall	2-3	Luton
+
+Matchday 40
+
+[1998-03-28]
+	15.00		Watford	1-1	Northampton
+	15.00		Wycombe	1-2	Bristol City
+	15.00		York	1-1	Blackpool
+[1998-03-31]
+	15.00		Oldham	1-2	Bristol City
+	15.00		Walsall	1-0	Gillingham
+	15.00		Wrexham	0-0	Grimsby
+[1998-04-03]
+	15.00		Southend	0-2	Chesterfield
+[1998-04-04]
+	15.00		Blackpool	1-0	Walsall
+	15.00		Bournemouth	0-0	Wycombe
+	15.00		Bristol City	1-0	Carlisle
+	15.00		Fulham	2-1	Preston
+	15.00		Grimsby	0-0	Gillingham
+
+Matchday 41
+
+[1998-04-04]
+	15.00		Luton	3-0	York
+	15.00		Millwall	1-1	Bristol Rvs
+	15.00		Northampton	0-1	Burnley
+	15.00		Oldham	2-0	Plymouth
+	15.00		Wigan	3-2	Watford
+	15.00		Wrexham	2-2	Brentford
+[1998-04-07]
+	15.00		Burnley	1-2	Blackpool
+	15.00		Fulham	1-1	Walsall
+	15.00		Grimsby	0-1	Luton
+	15.00		Wigan	1-0	Bournemouth
+[1998-04-10]
+	15.00		Bristol Rvs	5-0	Wigan
+	15.00		Wycombe	1-1	Grimsby
+
+Matchday 42
+
+[1998-04-11]
+	15.00		Brentford	0-2	Fulham
+	15.00		Burnley	1-0	Bristol City
+	15.00		Carlisle	3-1	Oldham
+	15.00		Chesterfield	2-1	Northampton
+	15.00		Gillingham	2-1	Luton
+	15.00		Plymouth	3-1	Blackpool
+	15.00		Preston	1-0	Southend
+	15.00		Walsall	2-0	Millwall
+	15.00		Watford	1-0	Wrexham
+	15.00		York	0-1	Bournemouth
+[1998-04-13]
+	15.00		Blackpool	1-2	Brentford
+	15.00		Bristol City	1-1	Watford
+
+Matchday 43
+
+[1998-04-13]
+	15.00		Fulham	5-0	Carlisle
+	15.00		Grimsby	1-2	Bristol Rvs
+	15.00		Millwall	1-1	Plymouth
+	15.00		Northampton	2-2	Preston
+	15.00		Oldham	0-1	Wycombe
+	15.00		Southend	0-0	Gillingham
+	15.00		Wigan	5-1	Burnley
+	15.00		Wrexham	1-2	York
+[1998-04-14]
+	15.00		Bournemouth	1-0	Walsall
+	15.00		Luton	3-0	Chesterfield
+[1998-04-18]
+	15.00		Brentford	0-2	Wigan
+	15.00		Bristol Rvs	2-1	Luton
+
+Matchday 44
+
+[1998-04-18]
+	15.00		Burnley	2-1	Fulham
+	15.00		Chesterfield	1-0	Bristol City
+	15.00		Gillingham	1-1	Wrexham
+	15.00		Plymouth	1-3	Northampton
+	15.00		Preston	3-3	Blackpool
+	15.00		Walsall	0-0	Oldham
+	15.00		Wycombe	0-0	Millwall
+	15.00		York	1-1	Southend
+[1998-04-21]
+	15.00		Carlisle	0-1	Grimsby
+	15.00		Wigan	2-0	Walsall
+[1998-04-24]
+	15.00		Wigan	0-0	Millwall
+[1998-04-25]
+	15.00		Blackpool	1-0	Bristol Rvs
+
+Matchday 45
+
+[1998-04-25]
+	15.00		Bournemouth	2-1	Burnley
+	15.00		Brentford	2-2	Luton
+	15.00		Bristol City	2-1	Walsall
+	15.00		Carlisle	1-2	York
+	15.00		Northampton	1-0	Fulham
+	15.00		Oldham	2-0	Southend
+	15.00		Plymouth	0-1	Gillingham
+	15.00		Watford	0-0	Grimsby
+	15.00		Wrexham	0-0	Preston
+	15.00		Wycombe	1-1	Chesterfield
+[1998-04-28]
+	15.00		Oldham	3-3	Burnley
+	15.00		Watford	2-1	Bournemouth
+
+Matchday 46
+
+[1998-05-02]
+	15.00		Bristol Rvs	2-1	Brentford
+	15.00		Burnley	2-1	Plymouth
+	15.00		Chesterfield	1-1	Blackpool
+	15.00		Fulham	1-2	Watford
+	15.00		Gillingham	0-0	Wigan
+	15.00		Grimsby	0-2	Oldham
+	15.00		Luton	3-2	Carlisle
+	15.00		Millwall	1-2	Bournemouth
+	15.00		Preston	2-1	Bristol City
+	15.00		Southend	1-3	Wrexham
+	15.00		Walsall	0-1	Wycombe
+	15.00		York	0-0	Northampton
+

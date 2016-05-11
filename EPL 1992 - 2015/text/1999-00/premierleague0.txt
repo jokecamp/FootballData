@@ -1,0 +1,633 @@
+############################
+# Premier League 1999-2000
+
+Matchday 1
+
+[1999-08-07]
+	15.00		Arsenal	2-1	Leicester
+	15.00		Chelsea	4-0	Sunderland
+	15.00		Coventry	0-1	Southampton
+	15.00		Leeds	0-0	Derby
+	15.00		Middlesbrough	0-1	Bradford
+	15.00		Newcastle	0-1	Aston Villa
+	15.00		Sheffield Weds	1-2	Liverpool
+	15.00		Watford	2-3	Wimbledon
+	15.00		West Ham	1-0	Tottenham
+[1999-08-08]
+	15.00		Everton	1-1	Man United
+
+Matchday 2
+
+[1999-08-09]
+	15.00		Tottenham	3-1	Newcastle
+[1999-08-10]
+	15.00		Derby	1-2	Arsenal
+	15.00		Sunderland	2-0	Watford
+	15.00		Wimbledon	2-3	Middlesbrough
+[1999-08-11]
+	15.00		Aston Villa	3-0	Everton
+	15.00		Leicester	1-0	Coventry
+	15.00		Man United	4-0	Sheffield Weds
+	15.00		Southampton	0-3	Leeds
+[1999-08-14]
+	15.00		Bradford	1-1	Sheffield Weds
+	15.00		Derby	1-3	Middlesbrough
+
+Matchday 3
+
+[1999-08-14]
+	15.00		Leicester	2-2	Chelsea
+	15.00		Liverpool	0-1	Watford
+	15.00		Man United	2-0	Leeds
+	15.00		Sunderland	0-0	Arsenal
+	15.00		Tottenham	3-2	Everton
+	15.00		Wimbledon	1-1	Coventry
+[1999-08-15]
+	15.00		Southampton	4-2	Newcastle
+[1999-08-16]
+	15.00		Aston Villa	2-2	West Ham
+[1999-08-21]
+	15.00		Chelsea	1-0	Aston Villa
+	15.00		Coventry	2-0	Derby
+
+Matchday 4
+
+[1999-08-21]
+	15.00		Everton	4-1	Southampton
+	15.00		Leeds	2-1	Sunderland
+	15.00		Middlesbrough	1-0	Liverpool
+	15.00		Newcastle	3-3	Wimbledon
+	15.00		Sheffield Weds	1-2	Tottenham
+	15.00		Watford	1-0	Bradford
+	15.00		West Ham	2-1	Leicester
+[1999-08-22]
+	15.00		Arsenal	1-2	Man United
+[1999-08-23]
+	15.00		Leeds	1-2	Liverpool
+[1999-08-24]
+	15.00		Middlesbrough	0-3	Leicester
+
+Matchday 5
+
+[1999-08-24]
+	15.00		Watford	0-1	Aston Villa
+[1999-08-25]
+	15.00		Arsenal	2-0	Bradford
+	15.00		Coventry	1-2	Man United
+	15.00		Everton	4-0	Wimbledon
+	15.00		Newcastle	1-2	Sunderland
+	15.00		Sheffield Weds	0-2	Derby
+[1999-08-28]
+	15.00		Aston Villa	1-0	Middlesbrough
+	15.00		Bradford	0-3	West Ham
+	15.00		Derby	1-0	Everton
+	15.00		Liverpool	2-0	Arsenal
+
+Matchday 6
+
+[1999-08-28]
+	15.00		Southampton	2-0	Sheffield Weds
+	15.00		Tottenham	1-2	Leeds
+	15.00		Wimbledon	0-1	Chelsea
+[1999-08-29]
+	15.00		Sunderland	1-1	Coventry
+[1999-08-30]
+	15.00		Leicester	1-0	Watford
+	15.00		Man United	5-1	Newcastle
+[1999-09-11]
+	15.00		Arsenal	3-1	Aston Villa
+	15.00		Chelsea	1-0	Newcastle
+	15.00		Coventry	3-4	Leeds
+	15.00		Liverpool	2-3	Man United
+
+Matchday 7
+
+[1999-09-11]
+	15.00		Middlesbrough	3-2	Southampton
+	15.00		Sheffield Weds	0-2	Everton
+	15.00		Sunderland	2-0	Leicester
+	15.00		West Ham	1-0	Watford
+	15.00		Wimbledon	2-2	Derby
+[1999-09-12]
+	15.00		Bradford	1-1	Tottenham
+[1999-09-18]
+	15.00		Aston Villa	1-0	Bradford
+	15.00		Derby	0-5	Sunderland
+	15.00		Leicester	2-2	Liverpool
+	15.00		Man United	1-1	Wimbledon
+
+Matchday 8
+
+[1999-09-18]
+	15.00		Southampton	0-1	Arsenal
+	15.00		Watford	1-0	Chelsea
+[1999-09-19]
+	15.00		Everton	1-0	West Ham
+	15.00		Leeds	2-0	Middlesbrough
+	15.00		Newcastle	8-0	Sheffield Weds
+	15.00		Tottenham	3-2	Coventry
+[1999-09-25]
+	15.00		Arsenal	1-0	Watford
+	15.00		Coventry	1-0	West Ham
+	15.00		Derby	0-1	Bradford
+	15.00		Leeds	3-2	Newcastle
+
+Matchday 9
+
+[1999-09-25]
+	15.00		Leicester	3-1	Aston Villa
+	15.00		Man United	3-3	Southampton
+	15.00		Middlesbrough	0-1	Chelsea
+	15.00		Sunderland	1-0	Sheffield Weds
+[1999-09-26]
+	15.00		Wimbledon	1-1	Tottenham
+[1999-09-27]
+	15.00		Liverpool	0-1	Everton
+[1999-10-02]
+	15.00		Aston Villa	0-0	Liverpool
+	15.00		Bradford	0-4	Sunderland
+	15.00		Everton	1-1	Coventry
+	15.00		Sheffield Weds	5-1	Wimbledon
+
+Matchday 10
+
+[1999-10-03]
+	15.00		Chelsea	5-0	Man United
+	15.00		Newcastle	2-1	Middlesbrough
+	15.00		Tottenham	2-3	Leicester
+	15.00		Watford	1-2	Leeds
+	15.00		West Ham	2-1	Arsenal
+[1999-10-04]
+	15.00		Southampton	3-3	Derby
+[1999-10-16]
+	15.00		Arsenal	4-1	Everton
+	15.00		Coventry	4-1	Newcastle
+	15.00		Derby	0-1	Tottenham
+	15.00		Leeds	2-0	Sheffield Weds
+
+Matchday 11
+
+[1999-10-16]
+	15.00		Leicester	2-1	Southampton
+	15.00		Liverpool	1-0	Chelsea
+	15.00		Man United	4-1	Watford
+	15.00		Wimbledon	3-2	Bradford
+[1999-10-17]
+	15.00		Middlesbrough	2-0	West Ham
+[1999-10-18]
+	15.00		Sunderland	2-1	Aston Villa
+[1999-10-23]
+	15.00		Aston Villa	1-1	Wimbledon
+	15.00		Bradford	3-1	Leicester
+	15.00		Chelsea	2-3	Arsenal
+	15.00		Sheffield Weds	0-0	Coventry
+
+Matchday 12
+
+[1999-10-23]
+	15.00		Southampton	1-1	Liverpool
+	15.00		Tottenham	3-1	Man United
+[1999-10-24]
+	15.00		Everton	4-4	Leeds
+	15.00		Watford	1-3	Middlesbrough
+	15.00		West Ham	1-1	Sunderland
+[1999-10-25]
+	15.00		Newcastle	2-0	Derby
+[1999-10-27]
+	15.00		Liverpool	1-0	West Ham
+[1999-10-30]
+	15.00		Arsenal	0-0	Newcastle
+	15.00		Derby	3-1	Chelsea
+	15.00		Leeds	1-0	West Ham
+
+Matchday 13
+
+[1999-10-30]
+	15.00		Leicester	3-0	Sheffield Weds
+	15.00		Man United	3-0	Aston Villa
+	15.00		Middlesbrough	2-1	Everton
+	15.00		Wimbledon	1-1	Southampton
+[1999-10-31]
+	15.00		Coventry	4-0	Watford
+	15.00		Sunderland	2-1	Tottenham
+[1999-11-01]
+	15.00		Liverpool	3-1	Bradford
+[1999-11-06]
+	15.00		Aston Villa	0-1	Southampton
+	15.00		Bradford	1-1	Coventry
+	15.00		Liverpool	2-0	Derby
+
+Matchday 14
+
+[1999-11-06]
+	15.00		Man United	2-0	Leicester
+	15.00		Middlesbrough	1-1	Sunderland
+	15.00		Sheffield Weds	2-2	Watford
+[1999-11-07]
+	15.00		Chelsea	0-0	West Ham
+	15.00		Newcastle	1-1	Everton
+	15.00		Tottenham	2-1	Arsenal
+	15.00		Wimbledon	2-0	Leeds
+[1999-11-20]
+	15.00		Arsenal	5-1	Middlesbrough
+	15.00		Derby	1-2	Man United
+	15.00		Everton	1-1	Chelsea
+
+Matchday 15
+
+[1999-11-20]
+	15.00		Leeds	2-1	Bradford
+	15.00		Leicester	2-1	Wimbledon
+	15.00		Southampton	0-1	Tottenham
+	15.00		Sunderland	0-2	Liverpool
+	15.00		Watford	1-1	Newcastle
+[1999-11-21]
+	15.00		West Ham	4-3	Sheffield Weds
+[1999-11-22]
+	15.00		Coventry	2-1	Aston Villa
+[1999-11-27]
+	15.00		Coventry	0-1	Leicester
+	15.00		Everton	0-0	Aston Villa
+	15.00		Middlesbrough	0-0	Wimbledon
+
+Matchday 16
+
+[1999-11-27]
+	15.00		Watford	2-3	Sunderland
+	15.00		West Ham	1-0	Liverpool
+[1999-11-28]
+	15.00		Arsenal	2-1	Derby
+	15.00		Chelsea	1-0	Bradford
+	15.00		Leeds	1-0	Southampton
+	15.00		Newcastle	2-1	Tottenham
+[1999-12-04]
+	15.00		Aston Villa	0-1	Newcastle
+	15.00		Bradford	1-1	Middlesbrough
+	15.00		Leicester	0-3	Arsenal
+	15.00		Man United	5-1	Everton
+
+Matchday 17
+
+[1999-12-04]
+	15.00		Southampton	0-0	Coventry
+	15.00		Sunderland	4-1	Chelsea
+	15.00		Wimbledon	5-0	Watford
+[1999-12-05]
+	15.00		Derby	0-1	Leeds
+	15.00		Liverpool	4-1	Sheffield Weds
+[1999-12-06]
+	15.00		Tottenham	0-0	West Ham
+[1999-12-18]
+	15.00		Arsenal	1-1	Wimbledon
+	15.00		Aston Villa	2-1	Sheffield Weds
+	15.00		Bradford	2-0	Newcastle
+	15.00		Leicester	0-1	Derby
+
+Matchday 18
+
+[1999-12-18]
+	15.00		Liverpool	2-0	Coventry
+	15.00		Middlesbrough	2-1	Tottenham
+	15.00		Sunderland	2-0	Southampton
+	15.00		Watford	1-3	Everton
+	15.00		West Ham	2-4	Man United
+[1999-12-19]
+	15.00		Chelsea	0-2	Leeds
+[1999-12-26]
+	15.00		Coventry	3-2	Arsenal
+	15.00		Derby	0-2	Aston Villa
+	15.00		Everton	5-0	Sunderland
+	15.00		Leeds	2-1	Leicester
+
+Matchday 19
+
+[1999-12-26]
+	15.00		Man United	4-0	Bradford
+	15.00		Newcastle	2-2	Liverpool
+	15.00		Sheffield Weds	1-0	Middlesbrough
+	15.00		Southampton	1-2	Chelsea
+	15.00		Tottenham	4-0	Watford
+	15.00		Wimbledon	2-2	West Ham
+[1999-12-28]
+	15.00		Arsenal	2-0	Leeds
+	15.00		Bradford	0-0	Everton
+	15.00		Leicester	1-2	Newcastle
+	15.00		Liverpool	3-1	Wimbledon
+
+Matchday 20
+
+[1999-12-28]
+	15.00		Sunderland	2-2	Man United
+	15.00		Watford	3-2	Southampton
+	15.00		West Ham	1-1	Derby
+[1999-12-29]
+	15.00		Aston Villa	1-1	Tottenham
+	15.00		Chelsea	3-0	Sheffield Weds
+[1900-01-03]
+	15.00		Derby	2-0	Watford
+	15.00		Everton	2-2	Leicester
+	15.00		Leeds	1-2	Aston Villa
+	15.00		Newcastle	2-2	West Ham
+	15.00		Sheffield Weds	1-1	Arsenal
+
+Matchday 21
+
+[1900-01-03]
+	15.00		Southampton	1-0	Bradford
+	15.00		Tottenham	1-0	Liverpool
+	15.00		Wimbledon	1-0	Sunderland
+[1900-01-04]
+	15.00		Coventry	2-2	Chelsea
+[1900-01-08]
+	15.00		Bradford	1-1	Chelsea
+[1900-01-12]
+	15.00		Chelsea	1-0	Tottenham
+[1900-01-15]
+	15.00		Arsenal	4-1	Sunderland
+	15.00		Chelsea	1-1	Leicester
+	15.00		Coventry	2-0	Wimbledon
+	15.00		Everton	2-2	Tottenham
+
+Matchday 22
+
+[1900-01-15]
+	15.00		Middlesbrough	1-4	Derby
+	15.00		Sheffield Weds	2-0	Bradford
+	15.00		Watford	2-3	Liverpool
+	15.00		West Ham	1-1	Aston Villa
+[1900-01-16]
+	15.00		Newcastle	5-0	Southampton
+[1900-01-22]
+	15.00		Aston Villa	0-0	Chelsea
+	15.00		Bradford	3-2	Watford
+	15.00		Derby	0-0	Coventry
+	15.00		Leicester	1-3	West Ham
+	15.00		Liverpool	0-0	Middlesbrough
+
+Matchday 23
+
+[1900-01-22]
+	15.00		Southampton	2-0	Everton
+	15.00		Tottenham	0-1	Sheffield Weds
+	15.00		Wimbledon	2-0	Newcastle
+[1900-01-23]
+	15.00		Sunderland	1-2	Leeds
+[1900-01-24]
+	15.00		Man United	1-1	Arsenal
+[1900-01-29]
+	15.00		Man United	1-0	Middlesbrough
+[1900-02-02]
+	15.00		Sheffield Weds	0-1	Man United
+[1900-02-05]
+	15.00		Aston Villa	4-0	Watford
+	15.00		Bradford	2-1	Arsenal
+	15.00		Derby	3-3	Sheffield Weds
+
+Matchday 24
+
+[1900-02-05]
+	15.00		Leicester	2-1	Middlesbrough
+	15.00		Liverpool	3-1	Leeds
+	15.00		Man United	3-2	Coventry
+	15.00		Southampton	2-1	West Ham
+	15.00		Sunderland	2-2	Newcastle
+	15.00		Tottenham	0-1	Chelsea
+[1900-02-06]
+	15.00		Wimbledon	0-3	Everton
+[1900-02-12]
+	15.00		Chelsea	3-1	Wimbledon
+	15.00		Coventry	3-2	Sunderland
+	15.00		Everton	2-1	Derby
+
+Matchday 25
+
+[1900-02-12]
+	15.00		Leeds	1-0	Tottenham
+	15.00		Newcastle	3-0	Man United
+	15.00		Sheffield Weds	0-1	Southampton
+	15.00		Watford	1-1	Leicester
+	15.00		West Ham	5-4	Bradford
+[1900-02-13]
+	15.00		Arsenal	0-1	Liverpool
+[1900-02-14]
+	15.00		Middlesbrough	0-4	Aston Villa
+[1900-02-19]
+	15.00		Middlesbrough	2-0	Coventry
+[1900-02-20]
+	15.00		Leeds	0-1	Man United
+[1900-02-26]
+	15.00		Arsenal	3-1	Southampton
+
+Matchday 26
+
+[1900-02-26]
+	15.00		Bradford	1-1	Aston Villa
+	15.00		Chelsea	2-1	Watford
+	15.00		Coventry	0-1	Tottenham
+	15.00		Middlesbrough	0-0	Leeds
+	15.00		Sheffield Weds	0-2	Newcastle
+	15.00		Sunderland	1-1	Derby
+	15.00		West Ham	0-4	Everton
+	15.00		Wimbledon	2-2	Man United
+[1900-03-04]
+	15.00		Derby	4-0	Wimbledon
+	15.00		Everton	1-1	Sheffield Weds
+
+Matchday 27
+
+[1900-03-04]
+	15.00		Man United	1-1	Liverpool
+	15.00		Newcastle	0-1	Chelsea
+	15.00		Southampton	1-1	Middlesbrough
+	15.00		Tottenham	1-1	Bradford
+	15.00		Watford	1-2	West Ham
+[1900-03-05]
+	15.00		Aston Villa	1-1	Arsenal
+	15.00		Leeds	3-0	Coventry
+	15.00		Leicester	5-2	Sunderland
+[1900-03-08]
+	15.00		West Ham	2-0	Southampton
+[1900-03-11]
+	15.00		Aston Villa	1-0	Coventry
+
+Matchday 28
+
+[1900-03-11]
+	15.00		Chelsea	1-1	Everton
+	15.00		Liverpool	1-1	Sunderland
+	15.00		Man United	3-1	Derby
+	15.00		Newcastle	1-0	Watford
+	15.00		Sheffield Weds	3-1	West Ham
+	15.00		Tottenham	7-2	Southampton
+	15.00		Wimbledon	2-1	Leicester
+[1900-03-12]
+	15.00		Bradford	1-2	Leeds
+	15.00		Middlesbrough	2-1	Arsenal
+[1900-03-15]
+	15.00		Coventry	1-0	Everton
+
+Matchday 29
+
+[1900-03-15]
+	15.00		Liverpool	0-0	Aston Villa
+[1900-03-18]
+	15.00		Coventry	4-0	Bradford
+	15.00		Derby	0-2	Liverpool
+	15.00		Leicester	0-2	Man United
+	15.00		Southampton	2-0	Aston Villa
+	15.00		Sunderland	1-1	Middlesbrough
+	15.00		Watford	1-0	Sheffield Weds
+	15.00		West Ham	0-0	Chelsea
+[1900-03-19]
+	15.00		Arsenal	2-1	Tottenham
+	15.00		Everton	0-2	Newcastle
+
+Matchday 30
+
+[1900-03-19]
+	15.00		Leeds	4-1	Wimbledon
+[1900-03-25]
+	15.00		Aston Villa	2-0	Derby
+	15.00		Bradford	0-4	Man United
+	15.00		Chelsea	1-1	Southampton
+	15.00		Liverpool	2-1	Newcastle
+	15.00		Middlesbrough	1-0	Sheffield Weds
+	15.00		Sunderland	2-1	Everton
+	15.00		Watford	1-1	Tottenham
+[1900-03-26]
+	15.00		Arsenal	3-0	Coventry
+	15.00		Leicester	2-1	Leeds
+
+Matchday 31
+
+[1900-03-26]
+	15.00		West Ham	2-1	Wimbledon
+[1900-04-01]
+	15.00		Coventry	0-3	Liverpool
+	15.00		Everton	4-2	Watford
+	15.00		Leeds	0-1	Chelsea
+	15.00		Man United	7-1	West Ham
+	15.00		Newcastle	2-0	Bradford
+	15.00		Southampton	1-2	Sunderland
+	15.00		Wimbledon	1-3	Arsenal
+[1900-04-02]
+	15.00		Derby	3-0	Leicester
+[1900-04-03]
+	15.00		Tottenham	2-3	Middlesbrough
+
+Matchday 32
+
+[1900-04-05]
+	15.00		Sheffield Weds	0-1	Aston Villa
+[1900-04-08]
+	15.00		Bradford	1-2	Southampton
+	15.00		Leicester	1-1	Everton
+	15.00		Sunderland	2-1	Wimbledon
+	15.00		Watford	0-0	Derby
+[1900-04-09]
+	15.00		Aston Villa	1-0	Leeds
+	15.00		Liverpool	2-0	Tottenham
+[1900-04-10]
+	15.00		Middlesbrough	3-4	Man United
+[1900-04-12]
+	15.00		Chelsea	2-1	Coventry
+	15.00		West Ham	2-1	Newcastle
+
+Matchday 33
+
+[1900-04-12]
+	15.00		Wimbledon	0-2	Sheffield Weds
+[1900-04-15]
+	15.00		Coventry	2-1	Middlesbrough
+	15.00		Derby	1-2	West Ham
+	15.00		Everton	4-0	Bradford
+	15.00		Man United	4-0	Sunderland
+	15.00		Newcastle	0-2	Leicester
+	15.00		Sheffield Weds	1-0	Chelsea
+	15.00		Southampton	2-0	Watford
+	15.00		Tottenham	2-4	Aston Villa
+[1900-04-16]
+	15.00		Leeds	0-4	Arsenal
+
+Matchday 34
+
+[1900-04-16]
+	15.00		Wimbledon	1-2	Liverpool
+[1900-04-19]
+	15.00		Leicester	0-1	Tottenham
+[1900-04-21]
+	15.00		Bradford	4-4	Derby
+	15.00		Everton	0-0	Liverpool
+[1900-04-22]
+	15.00		Aston Villa	2-2	Leicester
+	15.00		Chelsea	1-1	Middlesbrough
+	15.00		Sheffield Weds	0-2	Sunderland
+	15.00		Southampton	1-3	Man United
+	15.00		Tottenham	2-0	Wimbledon
+	15.00		West Ham	5-0	Coventry
+
+Matchday 35
+
+[1900-04-23]
+	15.00		Newcastle	2-2	Leeds
+	15.00		Watford	2-3	Arsenal
+[1900-04-24]
+	15.00		Derby	2-0	Southampton
+	15.00		Man United	3-2	Chelsea
+	15.00		Sunderland	0-1	Bradford
+[1900-04-29]
+	15.00		Aston Villa	1-1	Sunderland
+	15.00		Chelsea	2-0	Liverpool
+	15.00		Everton	0-1	Arsenal
+	15.00		Newcastle	2-0	Coventry
+	15.00		Southampton	1-2	Leicester
+
+Matchday 36
+
+[1900-04-29]
+	15.00		Tottenham	1-1	Derby
+	15.00		Watford	2-3	Man United
+	15.00		West Ham	0-1	Middlesbrough
+[1900-04-30]
+	15.00		Bradford	3-0	Wimbledon
+	15.00		Sheffield Weds	0-3	Leeds
+[1900-05-02]
+	15.00		Arsenal	2-1	West Ham
+	15.00		Middlesbrough	2-2	Newcastle
+[1900-05-03]
+	15.00		Leeds	3-1	Watford
+	15.00		Liverpool	0-2	Leicester
+[1900-05-06]
+	15.00		Arsenal	2-1	Chelsea
+
+Matchday 37
+
+[1900-05-06]
+	15.00		Coventry	4-1	Sheffield Weds
+	15.00		Derby	0-0	Newcastle
+	15.00		Leicester	3-0	Bradford
+	15.00		Man United	3-1	Tottenham
+	15.00		Middlesbrough	1-1	Watford
+	15.00		Sunderland	1-0	West Ham
+	15.00		Wimbledon	2-2	Aston Villa
+[1900-05-07]
+	15.00		Liverpool	0-0	Southampton
+[1900-05-08]
+	15.00		Leeds	1-1	Everton
+[1900-05-09]
+	15.00		Arsenal	3-3	Sheffield Weds
+
+Matchday 38
+
+[1900-05-14]
+	15.00		Aston Villa	0-1	Man United
+	15.00		Bradford	1-0	Liverpool
+	15.00		Chelsea	4-0	Derby
+	15.00		Everton	0-2	Middlesbrough
+	15.00		Newcastle	4-2	Arsenal
+	15.00		Sheffield Weds	4-0	Leicester
+	15.00		Southampton	2-0	Wimbledon
+	15.00		Tottenham	3-1	Sunderland
+	15.00		Watford	1-0	Coventry
+	15.00		West Ham	0-0	Leeds
+

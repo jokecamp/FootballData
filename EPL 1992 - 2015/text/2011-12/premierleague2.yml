@@ -1,0 +1,36 @@
+############################
+# Premier League 2011-2012
+
+league: en
+season: 2011/12
+start_at: 1911-08-06
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Bournemouth
+- Brentford
+- Bury
+- Carlisle
+- Charlton
+- Chesterfield
+- Colchester
+- Exeter
+- Hartlepool
+- Huddersfield
+- Leyton Orient
+- Milton Keynes Dons
+- Notts County
+- Oldham
+- Preston
+- Rochdale
+- Scunthorpe
+- Sheffield United
+- Sheffield Weds
+- Stevenage
+- Tranmere
+- Walsall
+- Wycombe
+- Yeovil
+

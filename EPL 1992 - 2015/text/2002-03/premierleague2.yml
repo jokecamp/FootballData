@@ -1,0 +1,36 @@
+############################
+# Premier League 2002-2003
+
+league: en
+season: 2002/03
+start_at: 1902-08-10
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Barnsley
+- Blackpool
+- Brentford
+- Bristol City
+- Cardiff
+- Cheltenham
+- Chesterfield
+- Colchester
+- Crewe
+- Huddersfield
+- Luton
+- Mansfield
+- Northampton
+- Notts County
+- Oldham
+- Peterboro
+- Plymouth
+- Port Vale
+- QPR
+- Stockport
+- Swindon
+- Tranmere
+- Wigan
+- Wycombe
+

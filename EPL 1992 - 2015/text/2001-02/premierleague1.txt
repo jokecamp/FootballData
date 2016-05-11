@@ -1,0 +1,859 @@
+############################
+# Premier League 2001-2002
+
+Matchday 1
+
+[1901-08-11]
+	15.00		Bradford	4-0	Barnsley
+	15.00		Gillingham	5-0	Preston
+	15.00		Grimsby	1-0	Crewe
+	15.00		Man City	3-0	Watford
+	15.00		Millwall	4-0	Norwich
+	15.00		Nott'm Forest	1-1	Sheffield United
+	15.00		Rotherham	2-3	Crystal Palace
+	15.00		Stockport	0-2	Coventry
+	15.00		Walsall	2-1	West Brom
+	15.00		Wimbledon	3-1	Birmingham
+	15.00		Wolves	2-2	Portsmouth
+[1901-08-12]
+	15.00		Sheffield Weds	0-2	Burnley
+
+Matchday 2
+
+[1901-08-18]
+	15.00		Barnsley	2-1	Nott'm Forest
+	15.00		Burnley	3-2	Wimbledon
+	15.00		Crewe	0-2	Sheffield Weds
+	15.00		Crystal Palace	4-1	Stockport
+	15.00		Norwich	2-0	Man City
+	15.00		Portsmouth	0-1	Bradford
+	15.00		Preston	1-1	Walsall
+	15.00		Sheffield United	0-0	Gillingham
+	15.00		Watford	3-2	Rotherham
+	15.00		West Brom	0-1	Grimsby
+[1901-08-19]
+	15.00		Birmingham	4-0	Millwall
+	15.00		Coventry	0-1	Wolves
+
+Matchday 3
+
+[1901-08-23]
+	15.00		Rotherham	1-1	Sheffield United
+[1901-08-24]
+	15.00		Bradford	2-1	Coventry
+[1901-08-25]
+	15.00		Gillingham	3-0	Barnsley
+	15.00		Grimsby	2-2	Preston
+	15.00		Man City	5-2	Crewe
+	15.00		Millwall	0-2	Burnley
+	15.00		Nott'm Forest	4-2	Crystal Palace
+	15.00		Sheffield Weds	1-1	West Brom
+	15.00		Stockport	0-1	Portsmouth
+	15.00		Walsall	1-2	Birmingham
+	15.00		Wimbledon	0-1	Norwich
+	15.00		Wolves	1-0	Watford
+
+Matchday 4
+
+[1901-08-27]
+	15.00		Barnsley	1-1	Rotherham
+	15.00		Birmingham	2-1	Stockport
+	15.00		Burnley	2-4	Man City
+	15.00		Coventry	0-0	Nott'm Forest
+	15.00		Norwich	2-0	Sheffield Weds
+	15.00		Portsmouth	4-2	Grimsby
+	15.00		Preston	1-1	Wimbledon
+	15.00		Sheffield United	2-2	Wolves
+	15.00		Watford	2-1	Walsall
+	15.00		West Brom	1-0	Gillingham
+[1901-08-28]
+	15.00		Crewe	1-0	Millwall
+[1901-09-01]
+	15.00		Grimsby	1-0	Barnsley
+
+Matchday 5
+
+[1901-09-02]
+	15.00		Bradford	2-3	Burnley
+[1901-09-08]
+	15.00		Barnsley	2-2	Stockport
+	15.00		Birmingham	2-0	Sheffield Weds
+	15.00		Burnley	3-0	Rotherham
+	15.00		Coventry	0-1	Grimsby
+	15.00		Crewe	2-1	Walsall
+	15.00		Crystal Palace	1-3	Millwall
+	15.00		Norwich	1-0	Nott'm Forest
+	15.00		Portsmouth	2-1	Gillingham
+	15.00		Preston	1-2	Wolves
+	15.00		Sheffield United	2-2	Bradford
+	15.00		West Brom	4-0	Man City
+
+Matchday 6
+
+[1901-09-09]
+	15.00		Watford	3-0	Wimbledon
+[1901-09-12]
+	15.00		Wimbledon	3-3	Portsmouth
+[1901-09-14]
+	15.00		Bradford	5-1	Gillingham
+[1901-09-15]
+	15.00		Barnsley	2-0	Crewe
+	15.00		Burnley	5-2	Walsall
+	15.00		Grimsby	0-0	Nott'm Forest
+	15.00		Man City	3-0	Birmingham
+	15.00		Portsmouth	4-2	Crystal Palace
+	15.00		Preston	1-0	Millwall
+	15.00		Rotherham	1-1	Norwich
+	15.00		Sheffield United	0-1	Coventry
+	15.00		Watford	1-2	West Brom
+
+Matchday 7
+
+[1901-09-15]
+	15.00		Wimbledon	1-1	Sheffield Weds
+	15.00		Wolves	2-2	Stockport
+[1901-09-17]
+	15.00		Nott'm Forest	2-0	Rotherham
+	15.00		Sheffield Weds	1-1	Bradford
+[1901-09-18]
+	15.00		Birmingham	2-3	Burnley
+	15.00		Crewe	0-4	Wimbledon
+	15.00		Crystal Palace	5-0	Grimsby
+	15.00		Gillingham	2-3	Wolves
+	15.00		Millwall	3-1	Barnsley
+	15.00		Norwich	3-1	Watford
+	15.00		Stockport	1-2	Sheffield United
+	15.00		Walsall	0-0	Portsmouth
+
+Matchday 8
+
+[1901-09-18]
+	15.00		West Brom	2-0	Preston
+[1901-09-19]
+	15.00		Coventry	4-3	Man City
+[1901-09-20]
+	15.00		Nott'm Forest	1-0	Bradford
+[1901-09-21]
+	15.00		Walsall	0-3	Wolves
+[1901-09-22]
+	15.00		Coventry	2-0	Portsmouth
+	15.00		Crewe	1-0	Watford
+	15.00		Crystal Palace	1-0	Barnsley
+	15.00		Gillingham	2-1	Rotherham
+	15.00		Millwall	2-0	Sheffield United
+	15.00		Norwich	2-1	Burnley
+	15.00		Sheffield Weds	2-6	Man City
+	15.00		Stockport	3-3	Grimsby
+
+Matchday 9
+
+[1901-09-22]
+	15.00		West Brom	0-1	Wimbledon
+[1901-09-23]
+	15.00		Birmingham	0-1	Preston
+[1901-09-25]
+	15.00		Barnsley	1-1	Coventry
+	15.00		Bradford	2-4	Stockport
+	15.00		Burnley	3-3	Crewe
+	15.00		Grimsby	1-2	Gillingham
+	15.00		Man City	3-0	Walsall
+	15.00		Portsmouth	1-2	West Brom
+	15.00		Rotherham	1-1	Sheffield Weds
+	15.00		Sheffield United	1-3	Crystal Palace
+	15.00		Wimbledon	2-2	Millwall
+	15.00		Wolves	1-0	Nott'm Forest
+
+Matchday 10
+
+[1901-09-26]
+	15.00		Preston	4-0	Norwich
+	15.00		Watford	3-3	Birmingham
+[1901-09-28]
+	15.00		Barnsley	1-4	Portsmouth
+[1901-09-29]
+	15.00		Bradford	3-2	Grimsby
+	15.00		Crewe	0-0	Birmingham
+	15.00		Crystal Palace	4-1	Sheffield Weds
+	15.00		Gillingham	1-2	Coventry
+	15.00		Man City	0-4	Wimbledon
+	15.00		Nott'm Forest	2-1	Stockport
+	15.00		Rotherham	0-3	Wolves
+	15.00		Sheffield United	2-1	Norwich
+	15.00		Walsall	0-0	Millwall
+
+Matchday 11
+
+[1901-09-29]
+	15.00		West Brom	1-0	Burnley
+[1901-09-30]
+	15.00		Watford	1-1	Preston
+[1901-10-05]
+	15.00		Grimsby	0-2	Rotherham
+[1901-10-07]
+	15.00		Sheffield Weds	0-0	Sheffield United
+[1901-10-09]
+	15.00		Walsall	2-0	Norwich
+[1901-10-11]
+	15.00		West Brom	0-2	Millwall
+[1901-10-12]
+	15.00		Rotherham	2-1	Portsmouth
+[1901-10-13]
+	15.00		Barnsley	1-3	Birmingham
+	15.00		Bradford	0-3	Wolves
+	15.00		Crewe	2-1	Preston
+	15.00		Crystal Palace	4-0	Wimbledon
+	15.00		Gillingham	0-2	Norwich
+
+Matchday 12
+
+[1901-10-13]
+	15.00		Man City	2-2	Stockport
+	15.00		Nott'm Forest	1-0	Burnley
+	15.00		Sheffield United	3-1	Grimsby
+	15.00		Watford	3-1	Sheffield Weds
+[1901-10-14]
+	15.00		Walsall	0-1	Coventry
+[1901-10-16]
+	15.00		Crystal Palace	2-0	Bradford
+	15.00		Man City	0-0	Sheffield United
+	15.00		Sheffield Weds	1-2	Preston
+	15.00		Stockport	1-2	West Brom
+	15.00		Wolves	0-1	Crewe
+[1901-10-17]
+	15.00		Nott'm Forest	0-0	Birmingham
+	15.00		Rotherham	0-0	Coventry
+
+Matchday 13
+
+[1901-10-19]
+	15.00		Norwich	2-0	West Brom
+[1901-10-20]
+	15.00		Birmingham	4-0	Bradford
+	15.00		Burnley	3-3	Barnsley
+	15.00		Grimsby	0-3	Watford
+	15.00		Millwall	3-3	Nott'm Forest
+	15.00		Portsmouth	1-0	Sheffield United
+	15.00		Sheffield Weds	2-1	Walsall
+	15.00		Stockport	0-1	Rotherham
+	15.00		Wimbledon	3-1	Gillingham
+	15.00		Wolves	0-1	Crystal Palace
+[1901-10-21]
+	15.00		Coventry	1-0	Crewe
+	15.00		Preston	2-1	Man City
+
+Matchday 14
+
+[1901-10-23]
+	15.00		Birmingham	2-1	Gillingham
+	15.00		Burnley	1-0	Crystal Palace
+	15.00		Man City	4-0	Grimsby
+	15.00		Millwall	3-1	Bradford
+	15.00		Norwich	0-0	Portsmouth
+	15.00		Preston	3-0	Sheffield United
+	15.00		Walsall	3-2	Rotherham
+	15.00		Watford	1-2	Nott'm Forest
+[1901-10-24]
+	15.00		Crewe	0-0	Stockport
+	15.00		Sheffield Weds	3-1	Barnsley
+	15.00		Wimbledon	0-1	Coventry
+[1901-10-25]
+	15.00		West Brom	1-1	Wolves
+
+Matchday 15
+
+[1901-10-26]
+	15.00		Grimsby	3-1	Birmingham
+[1901-10-27]
+	15.00		Bradford	4-3	Watford
+	15.00		Coventry	2-0	Sheffield Weds
+	15.00		Gillingham	2-0	Walsall
+	15.00		Portsmouth	0-1	Preston
+	15.00		Rotherham	3-2	Wimbledon
+	15.00		Sheffield United	1-0	Crewe
+	15.00		Stockport	0-4	Millwall
+[1901-10-28]
+	15.00		Barnsley	3-2	West Brom
+	15.00		Crystal Palace	3-2	Norwich
+	15.00		Nott'm Forest	1-1	Man City
+	15.00		Wolves	3-0	Burnley
+
+Matchday 16
+
+[1901-10-30]
+	15.00		Bradford	3-3	Wimbledon
+	15.00		Gillingham	2-2	Burnley
+	15.00		Grimsby	0-2	Norwich
+	15.00		Portsmouth	1-1	Birmingham
+	15.00		Rotherham	2-2	Crewe
+	15.00		Sheffield United	0-2	Watford
+	15.00		Stockport	0-2	Walsall
+[1901-10-31]
+	15.00		Barnsley	0-3	Man City
+	15.00		Coventry	2-2	Preston
+	15.00		Crystal Palace	0-1	West Brom
+	15.00		Nott'm Forest	0-1	Sheffield Weds
+	15.00		Wolves	1-0	Millwall
+
+Matchday 17
+
+[1901-11-02]
+	15.00		Crewe	2-2	Bradford
+[1901-11-03]
+	15.00		Man City	4-1	Gillingham
+	15.00		Millwall	3-2	Coventry
+	15.00		Norwich	2-0	Wolves
+	15.00		Preston	6-0	Stockport
+	15.00		Sheffield Weds	2-3	Portsmouth
+	15.00		Walsall	2-2	Crystal Palace
+	15.00		Watford	3-0	Barnsley
+	15.00		Wimbledon	2-1	Grimsby
+[1901-11-04]
+	15.00		Birmingham	2-2	Rotherham
+	15.00		Burnley	2-0	Sheffield United
+	15.00		West Brom	1-0	Nott'm Forest
+
+Matchday 18
+
+[1901-11-07]
+	15.00		Birmingham	0-1	West Brom
+[1901-11-08]
+	15.00		Preston	2-2	Barnsley
+[1901-11-09]
+	15.00		Millwall	1-0	Rotherham
+	15.00		Wimbledon	1-1	Sheffield United
+[1901-11-10]
+	15.00		Burnley	1-1	Portsmouth
+	15.00		Crewe	0-0	Gillingham
+	15.00		Norwich	1-4	Bradford
+	15.00		Sheffield Weds	0-0	Grimsby
+	15.00		Watford	1-1	Stockport
+[1901-11-11]
+	15.00		Walsall	2-0	Nott'm Forest
+[1901-11-13]
+	15.00		Burnley	1-0	Watford
+[1901-11-15]
+	15.00		Stockport	2-1	Norwich
+
+Matchday 19
+
+[1901-11-17]
+	15.00		Barnsley	1-1	Wimbledon
+	15.00		Bradford	2-0	Walsall
+	15.00		Coventry	0-2	Burnley
+	15.00		Crystal Palace	4-1	Crewe
+	15.00		Grimsby	2-2	Millwall
+	15.00		Nott'm Forest	1-1	Preston
+	15.00		Portsmouth	2-1	Man City
+	15.00		Rotherham	2-1	West Brom
+	15.00		Sheffield United	4-0	Birmingham
+[1901-11-18]
+	15.00		Gillingham	0-0	Watford
+	15.00		Wolves	0-0	Sheffield Weds
+[1901-11-20]
+	15.00		Norwich	2-2	Crewe
+
+Matchday 20
+
+[1901-11-20]
+	15.00		Preston	1-1	Bradford
+	15.00		Wimbledon	2-2	Walsall
+[1901-11-21]
+	15.00		Gillingham	3-0	Crystal Palace
+[1901-11-23]
+	15.00		Burnley	1-0	Grimsby
+[1901-11-24]
+	15.00		Crewe	0-3	Nott'm Forest
+	15.00		Man City	2-1	Rotherham
+	15.00		Millwall	1-2	Gillingham
+	15.00		Norwich	2-1	Barnsley
+	15.00		Preston	2-1	Crystal Palace
+	15.00		Sheffield Weds	5-0	Stockport
+	15.00		Walsall	1-2	Sheffield United
+	15.00		West Brom	1-0	Bradford
+
+Matchday 21
+
+[1901-11-24]
+	15.00		Wimbledon	0-1	Wolves
+[1901-11-25]
+	15.00		Birmingham	2-0	Coventry
+	15.00		Watford	3-0	Portsmouth
+[1901-11-27]
+	15.00		Stockport	0-2	Gillingham
+	15.00		Wolves	4-1	Barnsley
+[1901-11-28]
+	15.00		Coventry	2-0	Crystal Palace
+	15.00		Portsmouth	3-2	Nott'm Forest
+[1901-11-30]
+	15.00		Gillingham	1-1	Birmingham
+[1901-12-01]
+	15.00		Bradford	1-2	Millwall
+	15.00		Coventry	3-1	Wimbledon
+	15.00		Crystal Palace	1-2	Burnley
+	15.00		Grimsby	0-2	Man City
+
+Matchday 22
+
+[1901-12-01]
+	15.00		Nott'm Forest	0-0	Watford
+	15.00		Rotherham	2-0	Walsall
+	15.00		Sheffield United	2-2	Preston
+	15.00		Stockport	0-1	Crewe
+[1901-12-02]
+	15.00		Barnsley	3-0	Sheffield Weds
+	15.00		Portsmouth	1-2	Norwich
+	15.00		Wolves	0-1	West Brom
+[1901-12-04]
+	15.00		Millwall	2-3	Man City
+[1901-12-07]
+	15.00		Grimsby	1-1	Wolves
+[1901-12-08]
+	15.00		Barnsley	4-1	Walsall
+	15.00		Birmingham	4-0	Norwich
+	15.00		Bradford	3-1	Rotherham
+
+Matchday 23
+
+[1901-12-08]
+	15.00		Crystal Palace	2-1	Man City
+	15.00		Nott'm Forest	2-2	Gillingham
+	15.00		Portsmouth	2-4	Crewe
+	15.00		Sheffield Weds	1-1	Millwall
+	15.00		Stockport	1-2	Wimbledon
+	15.00		West Brom	0-1	Sheffield United
+[1901-12-09]
+	15.00		Coventry	0-2	Watford
+	15.00		Preston	2-3	Burnley
+[1901-12-11]
+	15.00		Birmingham	1-0	Crystal Palace
+	15.00		Man City	1-0	Wolves
+[1901-12-12]
+	15.00		West Brom	1-0	Coventry
+[1901-12-13]
+	15.00		Millwall	1-0	Portsmouth
+
+Matchday 24
+
+[1901-12-14]
+	15.00		Sheffield United	1-1	Barnsley
+[1901-12-15]
+	15.00		Burnley	3-2	Stockport
+	15.00		Crewe	1-1	West Brom
+	15.00		Gillingham	2-1	Sheffield Weds
+	15.00		Norwich	2-0	Coventry
+	15.00		Rotherham	1-0	Preston
+	15.00		Walsall	4-0	Grimsby
+	15.00		Watford	1-0	Crystal Palace
+[1901-12-16]
+	15.00		Man City	3-1	Bradford
+	15.00		Wimbledon	1-0	Nott'm Forest
+	15.00		Wolves	2-1	Birmingham
+[1901-12-20]
+	15.00		Crystal Palace	1-1	Nott'm Forest
+
+Matchday 25
+
+[1901-12-22]
+	15.00		Barnsley	4-1	Gillingham
+	15.00		Birmingham	1-0	Walsall
+	15.00		Burnley	0-0	Millwall
+[1901-12-23]
+	15.00		Coventry	4-0	Bradford
+[1901-12-22]
+	15.00		Norwich	2-1	Wimbledon
+	15.00		Portsmouth	2-0	Stockport
+	15.00		Preston	0-0	Grimsby
+	15.00		Sheffield United	2-2	Rotherham
+	15.00		Watford	1-1	Wolves
+	15.00		West Brom	1-1	Sheffield Weds
+[1901-12-26]
+	15.00		Bradford	1-2	Sheffield United
+	15.00		Gillingham	2-0	Portsmouth
+
+Matchday 26
+
+[1901-12-26]
+	15.00		Grimsby	0-1	Coventry
+	15.00		Man City	0-0	West Brom
+	15.00		Millwall	3-0	Crystal Palace
+	15.00		Nott'm Forest	2-0	Norwich
+	15.00		Sheffield Weds	0-1	Birmingham
+	15.00		Stockport	1-3	Barnsley
+	15.00		Walsall	2-1	Crewe
+	15.00		Wolves	2-3	Preston
+[1901-12-29]
+	15.00		Bradford	1-2	Crystal Palace
+	15.00		Gillingham	2-1	West Brom
+	15.00		Grimsby	3-1	Portsmouth
+	15.00		Man City	5-1	Burnley
+
+Matchday 27
+
+[1901-12-29]
+	15.00		Millwall	2-0	Crewe
+	15.00		Nott'm Forest	2-1	Coventry
+	15.00		Rotherham	1-1	Barnsley
+	15.00		Sheffield Weds	0-5	Norwich
+	15.00		Stockport	0-3	Birmingham
+	15.00		Walsall	0-3	Watford
+	15.00		Wimbledon	2-0	Preston
+	15.00		Wolves	1-0	Sheffield United
+[1902-01-01]
+	15.00		Barnsley	0-0	Grimsby
+	15.00		Birmingham	1-1	Nott'm Forest
+	15.00		Norwich	1-1	Walsall
+	15.00		Sheffield United	1-3	Man City
+
+Matchday 28
+
+[1902-01-01]
+	15.00		Watford	1-4	Millwall
+	15.00		West Brom	4-0	Stockport
+[1902-01-10]
+	15.00		Millwall	1-1	Birmingham
+[1902-01-12]
+	15.00		Bradford	3-1	Portsmouth
+	15.00		Gillingham	0-1	Sheffield United
+	15.00		Grimsby	0-0	West Brom
+	15.00		Nott'm Forest	0-0	Barnsley
+	15.00		Rotherham	1-1	Watford
+	15.00		Sheffield Weds	1-0	Crewe
+	15.00		Walsall	1-2	Preston
+	15.00		Wimbledon	0-0	Burnley
+[1902-01-13]
+	15.00		Man City	3-1	Norwich
+
+Matchday 29
+
+[1902-01-13]
+	15.00		Stockport	0-1	Crystal Palace
+	15.00		Wolves	3-1	Coventry
+[1902-01-15]
+	15.00		Millwall	1-0	Watford
+[1902-01-16]
+	15.00		Crystal Palace	3-1	Gillingham
+[1902-01-17]
+	15.00		Portsmouth	2-3	Wolves
+[1902-01-19]
+	15.00		Barnsley	3-3	Bradford
+	15.00		Birmingham	0-2	Wimbledon
+	15.00		Burnley	1-2	Sheffield Weds
+	15.00		Coventry	0-0	Stockport
+	15.00		Crewe	2-0	Grimsby
+	15.00		Crystal Palace	2-0	Rotherham
+	15.00		Preston	0-2	Gillingham
+
+Matchday 30
+
+[1902-01-19]
+	15.00		Sheffield United	0-0	Nott'm Forest
+[1902-01-20]
+	15.00		Norwich	0-0	Millwall
+	15.00		Watford	1-2	Man City
+	15.00		West Brom	1-0	Walsall
+[1902-01-29]
+	15.00		Barnsley	1-0	Wolves
+	15.00		Bradford	0-1	Preston
+	15.00		Crewe	1-0	Norwich
+	15.00		Crystal Palace	1-3	Coventry
+	15.00		Gillingham	3-3	Stockport
+	15.00		Rotherham	1-1	Grimsby
+	15.00		Sheffield United	0-0	Sheffield Weds
+	15.00		Walsall	2-1	Wimbledon
+
+Matchday 31
+
+[1902-01-29]
+	15.00		West Brom	1-0	Birmingham
+[1902-01-30]
+	15.00		Man City	2-0	Millwall
+	15.00		Nott'm Forest	0-1	Portsmouth
+[1902-01-31]
+	15.00		Preston	1-1	Watford
+[1902-02-02]
+	15.00		Coventry	1-2	Gillingham
+	15.00		Grimsby	0-1	Bradford
+	15.00		Millwall	2-2	Walsall
+	15.00		Portsmouth	4-4	Barnsley
+	15.00		Sheffield Weds	1-3	Crystal Palace
+	15.00		Stockport	1-3	Nott'm Forest
+	15.00		Wolves	2-1	Rotherham
+[1902-02-03]
+	15.00		Burnley	0-2	West Brom
+
+Matchday 32
+
+[1902-02-03]
+	15.00		Norwich	2-1	Sheffield United
+	15.00		Wimbledon	2-1	Man City
+[1902-02-05]
+	15.00		Preston	4-2	Sheffield Weds
+[1902-02-06]
+	15.00		Coventry	2-0	Rotherham
+	15.00		Watford	1-2	Burnley
+[1902-02-07]
+	15.00		Crystal Palace	0-2	Wolves
+[1902-02-09]
+	15.00		Barnsley	1-1	Burnley
+	15.00		Crewe	1-6	Coventry
+	15.00		Gillingham	0-0	Wimbledon
+	15.00		Nott'm Forest	1-2	Millwall
+	15.00		Rotherham	3-2	Stockport
+	15.00		Sheffield United	4-3	Portsmouth
+
+Matchday 33
+
+[1902-02-09]
+	15.00		Walsall	0-3	Sheffield Weds
+[1902-02-10]
+	15.00		Man City	3-2	Preston
+	15.00		Watford	2-0	Grimsby
+	15.00		West Brom	1-0	Norwich
+[1902-02-12]
+	15.00		Rotherham	1-1	Burnley
+[1902-02-16]
+	15.00		Birmingham	1-0	Barnsley
+	15.00		Burnley	1-1	Nott'm Forest
+	15.00		Grimsby	1-0	Sheffield United
+	15.00		Portsmouth	0-0	Rotherham
+	15.00		Sheffield Weds	2-1	Watford
+	15.00		Wimbledon	1-1	Crystal Palace
+	15.00		Wolves	3-1	Bradford
+
+Matchday 34
+
+[1902-02-19]
+	15.00		Coventry	2-1	Walsall
+	15.00		Millwall	1-0	West Brom
+	15.00		Wimbledon	0-0	Watford
+[1902-02-20]
+	15.00		Crewe	1-4	Wolves
+[1902-02-22]
+	15.00		Norwich	3-0	Preston
+[1902-02-23]
+	15.00		Birmingham	3-2	Watford
+	15.00		Coventry	4-0	Barnsley
+	15.00		Crewe	1-2	Burnley
+	15.00		Crystal Palace	0-1	Sheffield United
+	15.00		Gillingham	0-4	Bradford
+	15.00		Millwall	0-1	Wimbledon
+	15.00		Nott'm Forest	0-0	Grimsby
+
+Matchday 35
+
+[1902-02-23]
+	15.00		Sheffield Weds	1-2	Rotherham
+	15.00		Stockport	1-4	Wolves
+	15.00		Walsall	0-0	Man City
+	15.00		West Brom	5-0	Portsmouth
+[1902-02-26]
+	15.00		Barnsley	1-4	Crystal Palace
+	15.00		Bradford	2-1	Nott'm Forest
+	15.00		Burnley	0-1	Birmingham
+	15.00		Grimsby	3-1	Stockport
+	15.00		Portsmouth	1-0	Coventry
+	15.00		Preston	1-0	West Brom
+	15.00		Rotherham	3-2	Gillingham
+	15.00		Watford	2-1	Norwich
+
+Matchday 36
+
+[1902-02-26]
+	15.00		Wolves	3-0	Walsall
+[1902-02-27]
+	15.00		Man City	4-0	Sheffield Weds
+[1902-03-02]
+	15.00		Barnsley	1-1	Millwall
+	15.00		Bradford	0-2	Sheffield Weds
+	15.00		Burnley	1-1	Norwich
+	15.00		Grimsby	5-2	Crystal Palace
+	15.00		Portsmouth	1-1	Walsall
+	15.00		Preston	1-0	Birmingham
+	15.00		Rotherham	1-2	Nott'm Forest
+	15.00		Sheffield United	3-0	Stockport
+	15.00		Watford	0-1	Crewe
+	15.00		Wimbledon	0-1	West Brom
+
+Matchday 37
+
+[1902-03-02]
+	15.00		Wolves	2-0	Gillingham
+[1902-03-03]
+	15.00		Man City	4-2	Coventry
+[1902-03-05]
+	15.00		Birmingham	1-2	Man City
+	15.00		Crewe	2-0	Barnsley
+	15.00		Crystal Palace	0-0	Portsmouth
+	15.00		Gillingham	2-1	Grimsby
+	15.00		Millwall	2-1	Preston
+	15.00		Norwich	0-0	Rotherham
+	15.00		Stockport	1-0	Bradford
+	15.00		Walsall	1-0	Burnley
+	15.00		West Brom	1-1	Watford
+[1902-03-06]
+	15.00		Coventry	1-0	Sheffield United
+
+Matchday 38
+
+[1902-03-06]
+	15.00		Nott'm Forest	2-2	Wolves
+	15.00		Sheffield Weds	1-2	Wimbledon
+[1902-03-08]
+	15.00		Bradford	0-2	Man City
+[1902-03-09]
+	15.00		Barnsley	1-1	Sheffield United
+	15.00		Birmingham	2-2	Wolves
+	15.00		Coventry	2-1	Norwich
+	15.00		Crystal Palace	0-2	Watford
+	15.00		Grimsby	2-2	Walsall
+	15.00		Nott'm Forest	0-0	Wimbledon
+	15.00		Portsmouth	3-0	Millwall
+	15.00		Preston	2-1	Rotherham
+	15.00		Sheffield Weds	0-0	Gillingham
+
+Matchday 39
+
+[1902-03-09]
+	15.00		Stockport	0-2	Burnley
+[1902-03-12]
+	15.00		Bradford	1-3	Birmingham
+	15.00		Crewe	1-3	Man City
+	15.00		Portsmouth	1-2	Wimbledon
+[1902-03-15]
+	15.00		Norwich	0-1	Birmingham
+[1902-03-16]
+	15.00		Crewe	1-1	Portsmouth
+	15.00		Gillingham	3-1	Nott'm Forest
+	15.00		Man City	1-0	Crystal Palace
+	15.00		Millwall	1-2	Sheffield Weds
+	15.00		Rotherham	1-1	Bradford
+	15.00		Sheffield United	0-3	West Brom
+	15.00		Walsall	2-1	Barnsley
+
+Matchday 40
+
+[1902-03-16]
+	15.00		Watford	3-0	Coventry
+	15.00		Wimbledon	3-1	Stockport
+	15.00		Wolves	0-1	Grimsby
+[1902-03-17]
+	15.00		Burnley	2-1	Preston
+[1902-03-19]
+	15.00		Norwich	2-1	Gillingham
+	15.00		Sheffield United	3-2	Millwall
+	15.00		Stockport	2-1	Man City
+[1902-03-20]
+	15.00		Burnley	1-1	Bradford
+	15.00		Preston	2-2	Crewe
+[1902-03-22]
+	15.00		Nott'm Forest	0-1	West Brom
+[1902-03-23]
+	15.00		Barnsley	2-0	Watford
+	15.00		Bradford	2-0	Crewe
+
+Matchday 41
+
+[1902-03-23]
+	15.00		Crystal Palace	2-0	Walsall
+	15.00		Grimsby	6-2	Wimbledon
+	15.00		Portsmouth	0-0	Sheffield Weds
+	15.00		Rotherham	1-1	Man City
+	15.00		Sheffield United	3-0	Burnley
+	15.00		Stockport	0-2	Preston
+	15.00		Wolves	0-0	Norwich
+[1902-03-24]
+	15.00		Coventry	1-1	Birmingham
+	15.00		Gillingham	1-0	Millwall
+[1902-03-26]
+	15.00		West Brom	4-1	Crewe
+[1902-03-29]
+	15.00		Sheffield Weds	2-1	Coventry
+	15.00		Watford	0-0	Bradford
+
+Matchday 42
+
+[1902-03-30]
+	15.00		Birmingham	4-0	Grimsby
+	15.00		Burnley	2-3	Wolves
+	15.00		Crewe	2-2	Sheffield United
+	15.00		Man City	3-0	Nott'm Forest
+	15.00		Millwall	3-0	Stockport
+	15.00		Norwich	2-1	Crystal Palace
+	15.00		Preston	2-0	Portsmouth
+	15.00		Walsall	1-1	Gillingham
+	15.00		West Brom	3-1	Barnsley
+	15.00		Wimbledon	1-0	Rotherham
+[1902-04-01]
+	15.00		Barnsley	2-1	Preston
+	15.00		Bradford	0-1	Norwich
+
+Matchday 43
+
+[1902-04-01]
+	15.00		Coventry	0-1	West Brom
+	15.00		Crystal Palace	0-0	Birmingham
+	15.00		Gillingham	1-0	Crewe
+	15.00		Grimsby	0-0	Sheffield Weds
+	15.00		Nott'm Forest	2-3	Walsall
+	15.00		Portsmouth	1-1	Burnley
+	15.00		Rotherham	0-0	Millwall
+	15.00		Sheffield United	0-1	Wimbledon
+	15.00		Stockport	2-1	Watford
+	15.00		Wolves	0-2	Man City
+[1902-04-04]
+	15.00		Wimbledon	2-0	Crewe
+[1902-04-05]
+	15.00		Millwall	1-0	Wolves
+
+Matchday 44
+
+[1902-04-06]
+	15.00		Burnley	2-0	Gillingham
+	15.00		Man City	5-1	Barnsley
+	15.00		Norwich	1-1	Grimsby
+	15.00		Preston	4-0	Coventry
+	15.00		Sheffield Weds	0-2	Nott'm Forest
+	15.00		Walsall	1-0	Stockport
+	15.00		Watford	0-3	Sheffield United
+	15.00		Wimbledon	1-2	Bradford
+[1902-04-07]
+	15.00		Birmingham	1-1	Portsmouth
+	15.00		Crewe	0-0	Crystal Palace
+	15.00		West Brom	1-1	Rotherham
+[1902-04-10]
+	15.00		Birmingham	3-1	Crewe
+
+Matchday 45
+
+[1902-04-12]
+	15.00		Coventry	0-1	Millwall
+[1902-04-13]
+	15.00		Barnsley	0-2	Norwich
+	15.00		Bradford	0-1	West Brom
+	15.00		Crystal Palace	2-0	Preston
+	15.00		Gillingham	1-3	Man City
+	15.00		Grimsby	3-1	Burnley
+	15.00		Nott'm Forest	2-2	Crewe
+	15.00		Portsmouth	0-1	Watford
+	15.00		Rotherham	2-2	Birmingham
+	15.00		Sheffield United	0-1	Walsall
+	15.00		Stockport	3-1	Sheffield Weds
+[1902-04-14]
+	15.00		Wolves	1-0	Wimbledon
+
+Matchday 46
+
+[1902-04-21]
+	15.00		Birmingham	2-0	Sheffield United
+	15.00		Burnley	1-0	Coventry
+	15.00		Crewe	2-0	Rotherham
+	15.00		Man City	3-1	Portsmouth
+	15.00		Millwall	3-1	Grimsby
+	15.00		Norwich	2-0	Stockport
+	15.00		Preston	2-1	Nott'm Forest
+	15.00		Sheffield Weds	2-2	Wolves
+	15.00		Walsall	2-2	Bradford
+	15.00		Watford	2-3	Gillingham
+	15.00		West Brom	2-0	Crystal Palace
+	15.00		Wimbledon	0-1	Barnsley
+

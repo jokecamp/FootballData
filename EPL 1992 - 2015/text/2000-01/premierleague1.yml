@@ -1,0 +1,36 @@
+############################
+# Premier League 2000-2001
+
+league: en
+season: 2000/01
+start_at: 1900-08-12
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Blackburn
+- Bolton
+- Burnley
+- Crewe
+- Crystal Palace
+- Fulham
+- Gillingham
+- Grimsby
+- Huddersfield
+- Norwich
+- Nott'm Forest
+- Portsmouth
+- Preston
+- QPR
+- Sheffield United
+- Sheffield Weds
+- Stockport
+- Tranmere
+- Watford
+- West Brom
+- Wimbledon
+- Wolves
+

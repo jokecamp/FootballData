@@ -1,0 +1,36 @@
+############################
+# Premier League 2003-2004
+
+league: en
+season: 2003/04
+start_at: 1903-08-09
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Bradford
+- Burnley
+- Cardiff
+- Coventry
+- Crewe
+- Crystal Palace
+- Derby
+- Gillingham
+- Ipswich
+- Millwall
+- Norwich
+- Nott'm Forest
+- Preston
+- Reading
+- Rotherham
+- Sheffield United
+- Stoke
+- Sunderland
+- Walsall
+- Watford
+- West Brom
+- West Ham
+- Wigan
+- Wimbledon
+

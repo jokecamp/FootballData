@@ -1,0 +1,34 @@
+############################
+# Premier League 1993-1994
+
+league: en
+season: 1993/94
+start_at: 1993-08-14
+
+fixtures:
+- premierleague0
+
+22 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Chelsea
+- Coventry
+- Everton
+- Ipswich
+- Leeds
+- Liverpool
+- Man City
+- Man United
+- Newcastle
+- Norwich
+- Oldham
+- QPR
+- Sheffield United
+- Sheffield Weds
+- Southampton
+- Swindon
+- Tottenham
+- West Ham
+- Wimbledon
+

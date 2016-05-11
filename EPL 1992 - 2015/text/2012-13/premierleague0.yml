@@ -1,0 +1,32 @@
+############################
+# Premier League 2012-2013
+
+league: en
+season: 2012/13
+start_at: 1912-08-18
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Chelsea
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Newcastle
+- Norwich
+- QPR
+- Reading
+- Southampton
+- Stoke
+- Sunderland
+- Swansea
+- Tottenham
+- West Brom
+- West Ham
+- Wigan
+

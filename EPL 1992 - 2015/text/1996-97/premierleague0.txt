@@ -1,0 +1,622 @@
+############################
+# Premier League 1996-1997
+
+Matchday 1
+
+[1996-08-17]
+	15.00		Arsenal	2-0	West Ham
+	15.00		Blackburn	0-2	Tottenham
+	15.00		Coventry	0-3	Nott'm Forest
+	15.00		Derby	3-3	Leeds
+	15.00		Everton	2-0	Newcastle
+	15.00		Middlesbrough	3-3	Liverpool
+	15.00		Sheffield Weds	2-1	Aston Villa
+	15.00		Sunderland	0-0	Leicester
+	15.00		Wimbledon	0-3	Man United
+[1996-08-18]
+	15.00		Southampton	0-0	Chelsea
+
+Matchday 2
+
+[1996-08-19]
+	15.00		Liverpool	2-0	Arsenal
+[1996-08-20]
+	15.00		Leeds	0-2	Sheffield Weds
+[1996-08-21]
+	15.00		Aston Villa	1-0	Blackburn
+	15.00		Chelsea	1-0	Middlesbrough
+	15.00		Leicester	2-1	Southampton
+	15.00		Man United	2-2	Everton
+	15.00		Newcastle	2-0	Wimbledon
+	15.00		Nott'm Forest	1-4	Sunderland
+	15.00		Tottenham	1-1	Derby
+	15.00		West Ham	1-1	Coventry
+
+Matchday 3
+
+[1996-08-24]
+	15.00		Aston Villa	2-0	Derby
+	15.00		Chelsea	2-0	Coventry
+	15.00		Leicester	0-2	Arsenal
+	15.00		Liverpool	0-0	Sunderland
+	15.00		Newcastle	1-2	Sheffield Weds
+	15.00		Nott'm Forest	1-1	Middlesbrough
+	15.00		Tottenham	0-0	Everton
+	15.00		West Ham	2-1	Southampton
+[1996-08-25]
+	15.00		Man United	2-2	Blackburn
+[1996-08-26]
+	15.00		Leeds	1-0	Wimbledon
+
+Matchday 4
+
+[1996-09-02]
+	15.00		Sheffield Weds	2-1	Leicester
+[1996-09-04]
+	15.00		Arsenal	3-3	Chelsea
+	15.00		Blackburn	0-1	Leeds
+	15.00		Coventry	0-1	Liverpool
+	15.00		Derby	1-1	Man United
+	15.00		Everton	0-1	Aston Villa
+	15.00		Middlesbrough	4-1	West Ham
+	15.00		Southampton	2-2	Nott'm Forest
+	15.00		Sunderland	1-2	Newcastle
+	15.00		Wimbledon	1-0	Tottenham
+
+Matchday 5
+
+[1996-09-07]
+	15.00		Aston Villa	2-2	Arsenal
+	15.00		Leeds	0-4	Man United
+	15.00		Liverpool	2-1	Southampton
+	15.00		Middlesbrough	4-0	Coventry
+	15.00		Nott'm Forest	0-0	Leicester
+	15.00		Sheffield Weds	0-2	Chelsea
+	15.00		Tottenham	1-2	Newcastle
+	15.00		Wimbledon	4-0	Everton
+[1996-09-08]
+	15.00		Sunderland	0-0	West Ham
+[1996-09-09]
+	15.00		Blackburn	1-2	Derby
+
+Matchday 6
+
+[1996-09-14]
+	15.00		Coventry	2-1	Leeds
+	15.00		Derby	1-0	Sunderland
+	15.00		Everton	1-2	Middlesbrough
+	15.00		Man United	4-1	Nott'm Forest
+	15.00		Newcastle	2-1	Blackburn
+	15.00		Southampton	0-1	Tottenham
+	15.00		West Ham	0-2	Wimbledon
+[1996-09-15]
+	15.00		Chelsea	1-1	Aston Villa
+	15.00		Leicester	0-3	Liverpool
+[1996-09-16]
+	15.00		Arsenal	4-1	Sheffield Weds
+
+Matchday 7
+
+[1996-09-21]
+	15.00		Aston Villa	0-0	Man United
+	15.00		Blackburn	1-1	Everton
+	15.00		Leeds	0-1	Newcastle
+	15.00		Liverpool	5-1	Chelsea
+	15.00		Middlesbrough	0-2	Arsenal
+	15.00		Nott'm Forest	0-2	West Ham
+	15.00		Sheffield Weds	0-0	Derby
+	15.00		Sunderland	1-0	Coventry
+[1996-09-22]
+	15.00		Tottenham	1-2	Leicester
+[1996-09-23]
+	15.00		Wimbledon	3-1	Southampton
+
+Matchday 8
+
+[1996-09-28]
+	15.00		Arsenal	2-0	Sunderland
+	15.00		Chelsea	1-1	Nott'm Forest
+	15.00		Coventry	0-0	Blackburn
+	15.00		Derby	0-2	Wimbledon
+	15.00		Everton	2-0	Sheffield Weds
+	15.00		Leicester	1-0	Leeds
+	15.00		Southampton	4-0	Middlesbrough
+[1996-09-29]
+	15.00		Man United	2-0	Tottenham
+	15.00		West Ham	1-2	Liverpool
+[1996-09-30]
+	15.00		Newcastle	4-3	Aston Villa
+
+Matchday 9
+
+[1996-10-12]
+	15.00		Blackburn	0-2	Arsenal
+	15.00		Derby	0-1	Newcastle
+	15.00		Everton	2-1	West Ham
+	15.00		Leeds	2-0	Nott'm Forest
+	15.00		Leicester	1-3	Chelsea
+	15.00		Man United	1-0	Liverpool
+	15.00		Tottenham	1-0	Aston Villa
+	15.00		Wimbledon	4-2	Sheffield Weds
+[1996-10-13]
+	15.00		Coventry	1-1	Southampton
+[1996-10-14]
+	15.00		Sunderland	2-2	Middlesbrough
+
+Matchday 10
+
+[1996-10-19]
+	15.00		Arsenal	0-0	Coventry
+	15.00		Aston Villa	2-0	Leeds
+	15.00		Chelsea	2-4	Wimbledon
+	15.00		Middlesbrough	0-3	Tottenham
+	15.00		Nott'm Forest	1-1	Derby
+	15.00		Sheffield Weds	1-1	Blackburn
+	15.00		Southampton	3-0	Sunderland
+	15.00		West Ham	1-0	Leicester
+[1996-10-20]
+	15.00		Newcastle	5-0	Man United
+[1996-10-26]
+	15.00		Arsenal	3-0	Leeds
+
+Matchday 11
+
+[1996-10-26]
+	15.00		Chelsea	3-1	Tottenham
+	15.00		Coventry	0-0	Sheffield Weds
+	15.00		Leicester	2-0	Newcastle
+	15.00		Middlesbrough	0-0	Wimbledon
+	15.00		Southampton	6-3	Man United
+	15.00		Sunderland	1-0	Aston Villa
+	15.00		West Ham	2-1	Blackburn
+[1996-10-27]
+	15.00		Liverpool	2-1	Derby
+[1996-10-28]
+	15.00		Nott'm Forest	0-1	Everton
+[1996-11-02]
+	15.00		Aston Villa	2-0	Nott'm Forest
+
+Matchday 12
+
+[1996-11-02]
+	15.00		Derby	2-0	Leicester
+	15.00		Leeds	3-0	Sunderland
+	15.00		Man United	1-2	Chelsea
+	15.00		Sheffield Weds	1-1	Southampton
+	15.00		Tottenham	1-0	West Ham
+	15.00		Wimbledon	2-2	Arsenal
+[1996-11-03]
+	15.00		Blackburn	3-0	Liverpool
+	15.00		Newcastle	3-1	Middlesbrough
+[1996-11-04]
+	15.00		Everton	1-1	Coventry
+[1996-11-16]
+	15.00		Aston Villa	1-3	Leicester
+
+Matchday 13
+
+[1996-11-16]
+	15.00		Blackburn	1-1	Chelsea
+	15.00		Everton	7-1	Southampton
+	15.00		Leeds	0-2	Liverpool
+	15.00		Man United	1-0	Arsenal
+	15.00		Newcastle	1-1	West Ham
+	15.00		Tottenham	2-0	Sunderland
+	15.00		Wimbledon	2-2	Coventry
+[1996-11-17]
+	15.00		Derby	2-1	Middlesbrough
+[1996-11-18]
+	15.00		Sheffield Weds	2-0	Nott'm Forest
+[1996-11-20]
+	15.00		Liverpool	1-1	Everton
+
+Matchday 14
+
+[1996-11-23]
+	15.00		Chelsea	1-1	Newcastle
+	15.00		Coventry	1-2	Aston Villa
+	15.00		Leicester	1-2	Everton
+	15.00		Liverpool	1-1	Wimbledon
+	15.00		Middlesbrough	2-2	Man United
+	15.00		Southampton	0-2	Leeds
+	15.00		Sunderland	1-1	Sheffield Weds
+	15.00		West Ham	1-1	Derby
+[1996-11-24]
+	15.00		Arsenal	3-1	Tottenham
+[1996-11-25]
+	15.00		Nott'm Forest	2-2	Blackburn
+
+Matchday 15
+
+[1996-11-30]
+	15.00		Aston Villa	1-0	Middlesbrough
+	15.00		Blackburn	2-1	Southampton
+	15.00		Derby	2-1	Coventry
+	15.00		Everton	1-3	Sunderland
+	15.00		Man United	3-1	Leicester
+	15.00		Newcastle	1-2	Arsenal
+	15.00		Sheffield Weds	0-0	West Ham
+	15.00		Wimbledon	1-0	Nott'm Forest
+[1996-12-01]
+	15.00		Leeds	2-0	Chelsea
+[1996-12-02]
+	15.00		Tottenham	0-2	Liverpool
+
+Matchday 16
+
+[1996-12-03]
+	15.00		Middlesbrough	0-2	Leicester
+[1996-12-04]
+	15.00		Arsenal	3-1	Southampton
+	15.00		West Ham	0-2	Aston Villa
+[1996-12-07]
+	15.00		Arsenal	2-2	Derby
+	15.00		Chelsea	2-2	Everton
+	15.00		Coventry	1-2	Tottenham
+	15.00		Leicester	1-1	Blackburn
+	15.00		Liverpool	0-1	Sheffield Weds
+	15.00		Middlesbrough	0-0	Leeds
+	15.00		Southampton	0-1	Aston Villa
+
+Matchday 17
+
+[1996-12-07]
+	15.00		Sunderland	1-3	Wimbledon
+[1996-12-08]
+	15.00		West Ham	2-2	Man United
+[1996-12-09]
+	15.00		Nott'm Forest	0-0	Newcastle
+[1996-12-14]
+	15.00		Leeds	0-0	Tottenham
+	15.00		Liverpool	5-1	Middlesbrough
+	15.00		Wimbledon	1-0	Blackburn
+[1996-12-15]
+	15.00		Sunderland	3-0	Chelsea
+[1996-12-16]
+	15.00		Derby	0-1	Everton
+[1996-12-17]
+	15.00		Coventry	2-1	Newcastle
+	15.00		Liverpool	4-2	Nott'm Forest
+
+Matchday 18
+
+[1996-12-18]
+	15.00		Sheffield Weds	1-1	Man United
+[1996-12-21]
+	15.00		Chelsea	3-1	West Ham
+	15.00		Everton	0-0	Leeds
+	15.00		Leicester	0-2	Coventry
+	15.00		Man United	5-0	Sunderland
+	15.00		Nott'm Forest	2-1	Arsenal
+	15.00		Southampton	3-1	Derby
+	15.00		Tottenham	1-1	Sheffield Weds
+[1996-12-22]
+	15.00		Aston Villa	5-0	Wimbledon
+[1996-12-23]
+	15.00		Newcastle	1-1	Liverpool
+
+Matchday 19
+
+[1996-12-26]
+	15.00		Aston Villa	0-2	Chelsea
+	15.00		Blackburn	1-0	Newcastle
+	15.00		Leeds	1-3	Coventry
+	15.00		Liverpool	1-1	Leicester
+	15.00		Middlesbrough	4-2	Everton
+	15.00		Nott'm Forest	0-4	Man United
+	15.00		Sheffield Weds	0-0	Arsenal
+	15.00		Sunderland	2-0	Derby
+	15.00		Tottenham	3-1	Southampton
+[1996-12-28]
+	15.00		Arsenal	2-2	Aston Villa
+
+Matchday 20
+
+[1996-12-28]
+	15.00		Chelsea	2-2	Sheffield Weds
+	15.00		Coventry	3-0	Middlesbrough
+	15.00		Derby	0-0	Blackburn
+	15.00		Everton	1-3	Wimbledon
+	15.00		Leicester	2-2	Nott'm Forest
+	15.00		Man United	1-0	Leeds
+	15.00		Newcastle	7-1	Tottenham
+	15.00		West Ham	2-0	Sunderland
+[1996-12-29]
+	15.00		Southampton	0-1	Liverpool
+[1997-01-01]
+	15.00		Arsenal	2-0	Middlesbrough
+
+Matchday 21
+
+[1997-01-01]
+	15.00		Chelsea	1-0	Liverpool
+	15.00		Coventry	2-2	Sunderland
+	15.00		Everton	0-2	Blackburn
+	15.00		Man United	0-0	Aston Villa
+	15.00		Newcastle	3-0	Leeds
+	15.00		West Ham	0-1	Nott'm Forest
+[1997-01-11]
+	15.00		Aston Villa	2-2	Newcastle
+	15.00		Blackburn	4-0	Coventry
+	15.00		Leeds	3-0	Leicester
+	15.00		Liverpool	0-0	West Ham
+
+Matchday 22
+
+[1997-01-11]
+	15.00		Middlesbrough	0-1	Southampton
+	15.00		Nott'm Forest	2-0	Chelsea
+	15.00		Sheffield Weds	2-1	Everton
+	15.00		Sunderland	1-0	Arsenal
+	15.00		Wimbledon	1-1	Derby
+[1997-01-12]
+	15.00		Tottenham	1-2	Man United
+[1997-01-18]
+	15.00		Chelsea	3-1	Derby
+	15.00		Coventry	0-2	Man United
+	15.00		Leicester	1-0	Wimbledon
+	15.00		Liverpool	3-0	Aston Villa
+
+Matchday 23
+
+[1997-01-18]
+	15.00		Middlesbrough	4-2	Sheffield Weds
+	15.00		Southampton	2-2	Newcastle
+	15.00		Sunderland	0-0	Blackburn
+[1997-01-19]
+	15.00		Arsenal	3-1	Everton
+	15.00		Nott'm Forest	2-1	Tottenham
+[1997-01-20]
+	15.00		West Ham	0-2	Leeds
+[1997-01-29]
+	15.00		Aston Villa	0-1	Sheffield Weds
+	15.00		Leeds	0-0	Derby
+	15.00		Leicester	1-1	Sunderland
+	15.00		Man United	2-1	Wimbledon
+
+Matchday 24
+
+[1997-01-29]
+	15.00		Newcastle	4-1	Everton
+	15.00		Nott'm Forest	0-1	Coventry
+	15.00		Tottenham	2-1	Blackburn
+	15.00		West Ham	1-2	Arsenal
+[1997-02-01]
+	15.00		Aston Villa	1-0	Sunderland
+	15.00		Blackburn	2-1	West Ham
+	15.00		Derby	0-1	Liverpool
+	15.00		Everton	2-0	Nott'm Forest
+	15.00		Leeds	0-0	Arsenal
+	15.00		Man United	2-1	Southampton
+
+Matchday 25
+
+[1997-02-01]
+	15.00		Sheffield Weds	0-0	Coventry
+	15.00		Tottenham	1-2	Chelsea
+	15.00		Wimbledon	1-1	Middlesbrough
+[1997-02-02]
+	15.00		Newcastle	4-3	Leicester
+[1997-02-15]
+	15.00		Derby	1-0	West Ham
+	15.00		Tottenham	0-0	Arsenal
+[1997-02-19]
+	15.00		Arsenal	1-2	Man United
+	15.00		Aston Villa	2-1	Coventry
+	15.00		Derby	2-2	Sheffield Weds
+	15.00		Liverpool	4-0	Leeds
+
+Matchday 26
+
+[1997-02-22]
+	15.00		Chelsea	1-1	Man United
+	15.00		Coventry	0-0	Everton
+	15.00		Leicester	4-2	Derby
+	15.00		Liverpool	0-0	Blackburn
+	15.00		Middlesbrough	0-1	Newcastle
+	15.00		Nott'm Forest	0-0	Aston Villa
+	15.00		Southampton	2-3	Sheffield Weds
+	15.00		Sunderland	0-1	Leeds
+[1997-02-23]
+	15.00		Arsenal	0-1	Wimbledon
+[1997-02-24]
+	15.00		West Ham	4-3	Tottenham
+
+Matchday 27
+
+[1997-02-26]
+	15.00		Southampton	0-0	Wimbledon
+[1997-03-01]
+	15.00		Blackburn	1-0	Sunderland
+	15.00		Derby	3-2	Chelsea
+	15.00		Everton	0-2	Arsenal
+	15.00		Leeds	1-0	West Ham
+	15.00		Man United	3-1	Coventry
+	15.00		Newcastle	0-1	Southampton
+	15.00		Sheffield Weds	3-1	Middlesbrough
+	15.00		Tottenham	0-1	Nott'm Forest
+	15.00		Wimbledon	1-3	Leicester
+
+Matchday 28
+
+[1997-03-02]
+	15.00		Aston Villa	1-0	Liverpool
+[1997-03-03]
+	15.00		Coventry	1-1	Wimbledon
+[1997-03-04]
+	15.00		Sunderland	0-4	Tottenham
+[1997-03-05]
+	15.00		Chelsea	1-1	Blackburn
+	15.00		Leicester	1-0	Aston Villa
+	15.00		Middlesbrough	6-1	Derby
+	15.00		Nott'm Forest	0-3	Sheffield Weds
+	15.00		Southampton	2-2	Everton
+[1997-03-08]
+	15.00		Arsenal	2-0	Nott'm Forest
+	15.00		Coventry	0-0	Leicester
+
+Matchday 29
+
+[1997-03-08]
+	15.00		Leeds	1-0	Everton
+	15.00		Sunderland	2-1	Man United
+[1997-03-10]
+	15.00		Liverpool	4-3	Newcastle
+[1997-03-11]
+	15.00		Blackburn	1-1	Nott'm Forest
+[1997-03-12]
+	15.00		Leeds	0-0	Southampton
+	15.00		Sheffield Weds	2-1	Sunderland
+	15.00		West Ham	3-2	Chelsea
+[1997-03-15]
+	15.00		Aston Villa	0-0	West Ham
+	15.00		Blackburn	3-1	Wimbledon
+	15.00		Everton	1-0	Derby
+
+Matchday 30
+
+[1997-03-15]
+	15.00		Leicester	1-3	Middlesbrough
+	15.00		Man United	2-0	Sheffield Weds
+	15.00		Newcastle	4-0	Coventry
+	15.00		Nott'm Forest	1-1	Liverpool
+	15.00		Southampton	0-2	Arsenal
+	15.00		Tottenham	1-0	Leeds
+[1997-03-16]
+	15.00		Chelsea	6-2	Sunderland
+[1997-03-18]
+	15.00		Wimbledon	1-1	West Ham
+[1997-03-19]
+	15.00		Chelsea	1-0	Southampton
+	15.00		Leicester	1-1	Tottenham
+
+Matchday 31
+
+[1997-03-19]
+	15.00		Middlesbrough	2-1	Blackburn
+[1997-03-22]
+	15.00		Blackburn	0-2	Aston Villa
+	15.00		Coventry	1-3	West Ham
+	15.00		Derby	4-2	Tottenham
+	15.00		Everton	0-2	Man United
+	15.00		Middlesbrough	1-0	Chelsea
+	15.00		Sheffield Weds	2-2	Leeds
+	15.00		Southampton	2-2	Leicester
+	15.00		Sunderland	1-1	Nott'm Forest
+[1997-03-23]
+	15.00		Wimbledon	1-1	Newcastle
+
+Matchday 32
+
+[1997-03-24]
+	15.00		Arsenal	1-2	Liverpool
+	15.00		Middlesbrough	1-1	Nott'm Forest
+[1997-04-05]
+	15.00		Aston Villa	3-1	Everton
+	15.00		Chelsea	0-3	Arsenal
+	15.00		Man United	2-3	Derby
+	15.00		Newcastle	1-1	Sunderland
+	15.00		Nott'm Forest	1-3	Southampton
+	15.00		Tottenham	1-0	Wimbledon
+[1997-04-06]
+	15.00		Liverpool	1-2	Coventry
+[1997-04-07]
+	15.00		Leeds	0-0	Blackburn
+
+Matchday 33
+
+[1997-04-09]
+	15.00		Coventry	3-1	Chelsea
+	15.00		Derby	1-1	Southampton
+	15.00		Everton	1-1	Leicester
+	15.00		Sheffield Weds	2-1	Tottenham
+	15.00		West Ham	0-0	Middlesbrough
+	15.00		Wimbledon	0-2	Aston Villa
+[1997-04-12]
+	15.00		Arsenal	2-0	Leicester
+	15.00		Blackburn	2-3	Man United
+	15.00		Derby	2-1	Aston Villa
+	15.00		Everton	1-0	Tottenham
+
+Matchday 34
+
+[1997-04-12]
+	15.00		Southampton	2-0	West Ham
+[1997-04-13]
+	15.00		Sheffield Weds	1-1	Newcastle
+	15.00		Sunderland	1-2	Liverpool
+[1997-04-16]
+	15.00		Everton	1-1	Liverpool
+	15.00		Newcastle	3-1	Chelsea
+	15.00		Wimbledon	2-0	Leeds
+[1997-04-19]
+	15.00		Arsenal	1-1	Blackburn
+	15.00		Aston Villa	1-1	Tottenham
+	15.00		Chelsea	2-1	Leicester
+	15.00		Liverpool	1-3	Man United
+
+Matchday 35
+
+[1997-04-19]
+	15.00		Middlesbrough	0-1	Sunderland
+	15.00		Newcastle	3-1	Derby
+	15.00		Nott'm Forest	1-1	Leeds
+	15.00		Sheffield Weds	3-1	Wimbledon
+	15.00		Southampton	2-2	Coventry
+	15.00		West Ham	2-2	Everton
+[1997-04-21]
+	15.00		Coventry	1-1	Arsenal
+[1997-04-22]
+	15.00		Blackburn	4-1	Sheffield Weds
+	15.00		Leeds	0-0	Aston Villa
+	15.00		Sunderland	0-1	Southampton
+
+Matchday 36
+
+[1997-04-22]
+	15.00		Wimbledon	0-1	Chelsea
+[1997-04-23]
+	15.00		Derby	0-0	Nott'm Forest
+	15.00		Leicester	0-1	West Ham
+[1997-04-24]
+	15.00		Tottenham	1-0	Middlesbrough
+[1997-05-03]
+	15.00		Arsenal	0-1	Newcastle
+	15.00		Chelsea	0-0	Leeds
+	15.00		Coventry	1-2	Derby
+	15.00		Leicester	2-2	Man United
+	15.00		Liverpool	2-1	Tottenham
+	15.00		Middlesbrough	3-2	Aston Villa
+
+Matchday 37
+
+[1997-05-03]
+	15.00		Nott'm Forest	1-1	Wimbledon
+	15.00		Southampton	2-0	Blackburn
+	15.00		Sunderland	3-0	Everton
+	15.00		West Ham	5-1	Sheffield Weds
+[1997-05-05]
+	15.00		Man United	3-3	Middlesbrough
+[1997-05-06]
+	15.00		West Ham	0-0	Newcastle
+	15.00		Wimbledon	2-1	Liverpool
+[1997-05-07]
+	15.00		Leicester	1-0	Sheffield Weds
+[1997-05-08]
+	15.00		Blackburn	0-0	Middlesbrough
+	15.00		Man United	0-0	Newcastle
+
+Matchday 38
+
+[1997-05-11]
+	15.00		Aston Villa	1-0	Southampton
+	15.00		Blackburn	2-4	Leicester
+	15.00		Derby	1-3	Arsenal
+	15.00		Everton	1-2	Chelsea
+	15.00		Leeds	1-1	Middlesbrough
+	15.00		Man United	2-0	West Ham
+	15.00		Newcastle	5-0	Nott'm Forest
+	15.00		Sheffield Weds	1-1	Liverpool
+	15.00		Tottenham	1-2	Coventry
+	15.00		Wimbledon	1-0	Sunderland
+

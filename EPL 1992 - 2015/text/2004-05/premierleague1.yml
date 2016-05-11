@@ -1,0 +1,36 @@
+############################
+# Premier League 2004-2005
+
+league: en
+season: 2004/05
+start_at: 1904-08-07
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Brighton
+- Burnley
+- Cardiff
+- Coventry
+- Crewe
+- Derby
+- Gillingham
+- Ipswich
+- Leeds
+- Leicester
+- Millwall
+- Nott'm Forest
+- Plymouth
+- Preston
+- QPR
+- Reading
+- Rotherham
+- Sheffield United
+- Stoke
+- Sunderland
+- Watford
+- West Ham
+- Wigan
+- Wolves
+

@@ -1,0 +1,32 @@
+############################
+# Premier League 1995-1996
+
+league: en
+season: 1995/96
+start_at: 1995-08-19
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Bolton
+- Chelsea
+- Coventry
+- Everton
+- Leeds
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Nott'm Forest
+- QPR
+- Sheffield Weds
+- Southampton
+- Tottenham
+- West Ham
+- Wimbledon
+

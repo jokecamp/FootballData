@@ -1,0 +1,729 @@
+############################
+# Premier League 1993-1994
+
+Matchday 1
+
+[1993-08-14]
+	15.00		Arsenal	0-3	Coventry
+	15.00		Aston Villa	4-1	QPR
+	15.00		Chelsea	1-2	Blackburn
+	15.00		Liverpool	2-0	Sheffield Weds
+	15.00		Man City	1-1	Leeds
+	15.00		Newcastle	0-1	Tottenham
+	15.00		Oldham	0-3	Ipswich
+	15.00		Sheffield United	3-1	Swindon
+	15.00		Southampton	0-2	Everton
+	15.00		West Ham	0-2	Wimbledon
+[1993-08-15]
+	15.00		Norwich	0-2	Man United
+
+Matchday 2
+
+[1993-08-16]
+	15.00		Tottenham	0-1	Arsenal
+[1993-08-17]
+	15.00		Everton	1-0	Man City
+	15.00		Ipswich	1-0	Southampton
+	15.00		Leeds	1-0	West Ham
+	15.00		Wimbledon	1-1	Chelsea
+[1993-08-18]
+	15.00		Blackburn	2-3	Norwich
+	15.00		Coventry	2-1	Newcastle
+	15.00		Man United	3-0	Sheffield United
+	15.00		QPR	1-3	Liverpool
+	15.00		Sheffield Weds	0-0	Aston Villa
+	15.00		Swindon	0-1	Oldham
+
+Matchday 3
+
+[1993-08-21]
+	15.00		Blackburn	1-0	Oldham
+	15.00		Coventry	1-1	West Ham
+	15.00		Everton	4-2	Sheffield United
+	15.00		Ipswich	1-0	Chelsea
+	15.00		Leeds	0-4	Norwich
+	15.00		Man United	1-1	Newcastle
+	15.00		QPR	2-1	Southampton
+	15.00		Sheffield Weds	0-1	Arsenal
+	15.00		Tottenham	1-0	Man City
+	15.00		Wimbledon	2-2	Aston Villa
+[1993-08-22]
+	15.00		Swindon	0-5	Liverpool
+
+Matchday 4
+
+[1993-08-23]
+	15.00		Aston Villa	1-2	Man United
+[1993-08-24]
+	15.00		Arsenal	2-1	Leeds
+	15.00		Man City	0-2	Blackburn
+	15.00		Oldham	3-3	Coventry
+	15.00		Sheffield United	2-1	Wimbledon
+[1993-08-25]
+	15.00		Chelsea	2-0	QPR
+	15.00		Liverpool	1-2	Tottenham
+	15.00		Newcastle	1-0	Everton
+	15.00		Norwich	1-0	Ipswich
+	15.00		Southampton	5-1	Swindon
+	15.00		West Ham	2-0	Sheffield Weds
+
+Matchday 5
+
+[1993-08-27]
+	15.00		Man City	1-1	Coventry
+[1993-08-28]
+	15.00		Arsenal	2-0	Everton
+	15.00		Aston Villa	1-0	Tottenham
+	15.00		Chelsea	1-1	Sheffield Weds
+	15.00		Liverpool	2-0	Leeds
+	15.00		Norwich	0-0	Swindon
+	15.00		Oldham	1-1	Wimbledon
+	15.00		Sheffield United	1-1	Ipswich
+	15.00		Southampton	1-3	Man United
+	15.00		West Ham	0-4	QPR
+[1993-08-29]
+	15.00		Newcastle	1-1	Blackburn
+
+Matchday 6
+
+[1993-08-30]
+	15.00		Leeds	1-0	Oldham
+[1993-08-31]
+	15.00		Everton	0-1	Aston Villa
+	15.00		Ipswich	1-1	Newcastle
+	15.00		Wimbledon	1-0	Southampton
+[1993-09-01]
+	15.00		Blackburn	1-1	Arsenal
+	15.00		Coventry	1-0	Liverpool
+	15.00		Man United	3-0	West Ham
+	15.00		QPR	2-1	Sheffield United
+	15.00		Sheffield Weds	3-3	Norwich
+	15.00		Swindon	1-3	Man City
+	15.00		Tottenham	1-1	Chelsea
+
+Matchday 7
+
+[1993-09-11]
+	15.00		Arsenal	4-0	Ipswich
+	15.00		Aston Villa	0-0	Coventry
+	15.00		Chelsea	1-0	Man United
+	15.00		Man City	3-0	QPR
+	15.00		Norwich	0-1	Wimbledon
+	15.00		Oldham	0-1	Everton
+	15.00		Sheffield United	2-2	Tottenham
+	15.00		Southampton	0-2	Leeds
+	15.00		West Ham	0-0	Swindon
+[1993-09-12]
+	15.00		Liverpool	0-1	Blackburn
+[1993-09-13]
+	15.00		Newcastle	4-2	Sheffield Weds
+
+Matchday 8
+
+[1993-09-18]
+	15.00		Blackburn	0-2	West Ham
+	15.00		Coventry	1-1	Chelsea
+	15.00		Everton	2-0	Liverpool
+	15.00		Ipswich	1-2	Aston Villa
+	15.00		Leeds	2-1	Sheffield United
+	15.00		QPR	2-2	Norwich
+	15.00		Sheffield Weds	2-0	Southampton
+	15.00		Swindon	2-2	Newcastle
+	15.00		Tottenham	5-0	Oldham
+[1993-09-19]
+	15.00		Man United	1-0	Arsenal
+[1993-09-20]
+	15.00		Wimbledon	1-0	Man City
+
+Matchday 9
+
+[1993-09-25]
+	15.00		Arsenal	1-0	Southampton
+	15.00		Blackburn	1-1	Sheffield Weds
+	15.00		Chelsea	1-0	Liverpool
+	15.00		Coventry	0-2	Leeds
+	15.00		Everton	1-5	Norwich
+	15.00		Man United	4-2	Swindon
+	15.00		Newcastle	2-0	West Ham
+	15.00		Oldham	1-1	Aston Villa
+	15.00		Sheffield United	0-1	Man City
+[1993-09-26]
+	15.00		Ipswich	2-2	Tottenham
+[1993-09-27]
+	15.00		Wimbledon	1-1	QPR
+
+Matchday 10
+
+[1993-10-02]
+	15.00		Aston Villa	0-2	Newcastle
+	15.00		Leeds	4-0	Wimbledon
+	15.00		Liverpool	0-0	Arsenal
+	15.00		Norwich	1-0	Coventry
+	15.00		QPR	3-0	Ipswich
+	15.00		Sheffield Weds	2-3	Man United
+	15.00		Southampton	3-3	Sheffield United
+	15.00		Swindon	1-3	Blackburn
+	15.00		West Ham	1-0	Chelsea
+[1993-10-03]
+	15.00		Tottenham	3-2	Everton
+[1993-10-04]
+	15.00		Man City	1-1	Oldham
+
+Matchday 11
+
+[1993-10-16]
+	15.00		Arsenal	0-0	Man City
+	15.00		Chelsea	1-2	Norwich
+	15.00		Coventry	1-1	Southampton
+	15.00		Liverpool	2-1	Oldham
+	15.00		Man United	2-1	Tottenham
+	15.00		Newcastle	1-2	QPR
+	15.00		Sheffield Weds	2-2	Wimbledon
+	15.00		Swindon	1-1	Everton
+	15.00		West Ham	0-0	Aston Villa
+[1993-10-17]
+	15.00		Ipswich	0-0	Leeds
+[1993-10-18]
+	15.00		Blackburn	0-0	Sheffield United
+
+Matchday 12
+
+[1993-10-23]
+	15.00		Aston Villa	1-0	Chelsea
+	15.00		Everton	0-1	Man United
+	15.00		Leeds	3-3	Blackburn
+	15.00		Man City	1-1	Liverpool
+	15.00		Norwich	0-0	West Ham
+	15.00		Oldham	0-0	Arsenal
+	15.00		QPR	5-1	Coventry
+	15.00		Sheffield United	1-1	Sheffield Weds
+	15.00		Tottenham	1-1	Swindon
+[1993-10-24]
+	15.00		Southampton	2-1	Newcastle
+[1993-10-25]
+	15.00		Wimbledon	0-2	Ipswich
+
+Matchday 13
+
+[1993-10-30]
+	15.00		Arsenal	0-0	Norwich
+	15.00		Blackburn	1-0	Tottenham
+	15.00		Chelsea	0-1	Oldham
+	15.00		Ipswich	0-2	Everton
+	15.00		Liverpool	4-2	Southampton
+	15.00		Man United	2-1	QPR
+	15.00		Newcastle	4-0	Wimbledon
+	15.00		Sheffield Weds	3-3	Leeds
+	15.00		Swindon	1-2	Aston Villa
+[1993-10-31]
+	15.00		Coventry	0-0	Sheffield United
+[1993-11-01]
+	15.00		West Ham	3-1	Man City
+
+Matchday 14
+
+[1993-11-06]
+	15.00		Arsenal	1-2	Aston Villa
+	15.00		Coventry	2-1	Everton
+	15.00		Ipswich	1-4	Sheffield Weds
+	15.00		Leeds	4-1	Chelsea
+	15.00		Liverpool	2-0	West Ham
+	15.00		QPR	1-0	Blackburn
+	15.00		Sheffield United	1-2	Norwich
+	15.00		Southampton	1-0	Tottenham
+	15.00		Wimbledon	3-0	Swindon
+[1993-11-07]
+	15.00		Man City	2-3	Man United
+[1993-11-08]
+	15.00		Oldham	1-3	Newcastle
+
+Matchday 15
+
+[1993-11-20]
+	15.00		Aston Villa	1-0	Sheffield United
+	15.00		Blackburn	2-0	Southampton
+	15.00		Chelsea	0-2	Arsenal
+	15.00		Everton	0-3	QPR
+	15.00		Man United	3-1	Wimbledon
+	15.00		Norwich	1-1	Man City
+	15.00		Sheffield Weds	0-0	Coventry
+	15.00		Swindon	2-2	Ipswich
+	15.00		Tottenham	1-1	Leeds
+	15.00		West Ham	2-0	Oldham
+[1993-11-21]
+	15.00		Newcastle	3-0	Liverpool
+
+Matchday 16
+
+[1993-11-22]
+	15.00		Chelsea	0-0	Man City
+[1993-11-23]
+	15.00		Blackburn	2-1	Coventry
+	15.00		Everton	1-1	Leeds
+[1993-11-24]
+	15.00		Aston Villa	0-2	Southampton
+	15.00		Man United	0-0	Ipswich
+	15.00		Newcastle	4-0	Sheffield United
+	15.00		Sheffield Weds	3-0	Oldham
+	15.00		Swindon	1-0	QPR
+	15.00		Tottenham	1-1	Wimbledon
+	15.00		West Ham	0-0	Arsenal
+[1993-11-27]
+	15.00		Arsenal	2-1	Newcastle
+
+Matchday 17
+
+[1993-11-27]
+	15.00		Coventry	0-1	Man United
+	15.00		Ipswich	1-0	Blackburn
+	15.00		Leeds	3-0	Swindon
+	15.00		Man City	1-3	Sheffield Weds
+	15.00		Oldham	2-1	Norwich
+	15.00		QPR	1-1	Tottenham
+	15.00		Sheffield United	1-0	Chelsea
+	15.00		Wimbledon	1-1	Everton
+[1993-11-28]
+	15.00		Liverpool	2-1	Aston Villa
+[1993-11-29]
+	15.00		Southampton	0-2	West Ham
+[1993-12-04]
+	15.00		Coventry	1-0	Arsenal
+
+Matchday 18
+
+[1993-12-04]
+	15.00		Everton	1-0	Southampton
+	15.00		Ipswich	0-0	Oldham
+	15.00		Leeds	3-2	Man City
+	15.00		Man United	2-2	Norwich
+	15.00		QPR	2-2	Aston Villa
+	15.00		Sheffield Weds	3-1	Liverpool
+	15.00		Swindon	0-0	Sheffield United
+	15.00		Tottenham	1-2	Newcastle
+	15.00		Wimbledon	1-2	West Ham
+[1993-12-05]
+	15.00		Blackburn	2-0	Chelsea
+[1993-12-06]
+	15.00		Arsenal	1-1	Tottenham
+
+Matchday 19
+
+[1993-12-07]
+	15.00		Oldham	2-1	Swindon
+	15.00		Sheffield United	0-3	Man United
+[1993-12-08]
+	15.00		Aston Villa	2-2	Sheffield Weds
+	15.00		Liverpool	3-2	QPR
+	15.00		Man City	1-0	Everton
+	15.00		Southampton	0-1	Ipswich
+	15.00		West Ham	0-1	Leeds
+[1993-12-11]
+	15.00		Aston Villa	0-1	Wimbledon
+	15.00		Chelsea	1-1	Ipswich
+	15.00		Liverpool	2-2	Swindon
+	15.00		Man City	0-2	Tottenham
+
+Matchday 20
+
+[1993-12-11]
+	15.00		Newcastle	1-1	Man United
+	15.00		Oldham	1-2	Blackburn
+	15.00		Sheffield United	0-0	Everton
+	15.00		Southampton	0-1	QPR
+	15.00		West Ham	3-2	Coventry
+[1993-12-12]
+	15.00		Arsenal	1-0	Sheffield Weds
+[1993-12-13]
+	15.00		Norwich	2-1	Leeds
+[1993-12-18]
+	15.00		Blackburn	2-0	Man City
+	15.00		Coventry	1-1	Oldham
+	15.00		Everton	0-2	Newcastle
+	15.00		Ipswich	2-1	Norwich
+
+Matchday 21
+
+[1993-12-18]
+	15.00		Leeds	2-1	Arsenal
+	15.00		Sheffield Weds	5-0	West Ham
+	15.00		Swindon	2-1	Southampton
+	15.00		Tottenham	3-3	Liverpool
+	15.00		Wimbledon	2-0	Sheffield United
+[1993-12-19]
+	15.00		Man United	3-1	Aston Villa
+[1993-12-22]
+	15.00		Newcastle	1-1	Leeds
+[1993-12-26]
+	15.00		Man United	1-1	Blackburn
+	15.00		Sheffield United	0-0	Liverpool
+	15.00		Wimbledon	1-2	Coventry
+[1993-12-27]
+	15.00		Everton	0-2	Sheffield Weds
+
+Matchday 22
+
+[1993-12-27]
+	15.00		Ipswich	1-1	West Ham
+	15.00		QPR	2-0	Oldham
+	15.00		Southampton	3-1	Chelsea
+	15.00		Swindon	0-4	Arsenal
+	15.00		Tottenham	1-3	Norwich
+[1993-12-28]
+	15.00		Chelsea	1-0	Newcastle
+	15.00		Liverpool	1-1	Wimbledon
+	15.00		Man City	1-1	Southampton
+	15.00		West Ham	1-3	Tottenham
+[1993-12-29]
+	15.00		Arsenal	3-0	Sheffield United
+	15.00		Blackburn	2-0	Everton
+
+Matchday 23
+
+[1993-12-29]
+	15.00		Leeds	1-1	QPR
+	15.00		Norwich	1-2	Aston Villa
+	15.00		Oldham	2-5	Man United
+	15.00		Sheffield Weds	3-3	Swindon
+[1994-01-01]
+	15.00		Aston Villa	0-1	Blackburn
+	15.00		Everton	0-1	West Ham
+	15.00		Ipswich	1-2	Liverpool
+	15.00		Man United	0-0	Leeds
+	15.00		Newcastle	2-0	Man City
+	15.00		QPR	1-2	Sheffield Weds
+	15.00		Sheffield United	2-1	Oldham
+
+Matchday 24
+
+[1994-01-01]
+	15.00		Southampton	0-1	Norwich
+	15.00		Swindon	1-3	Chelsea
+	15.00		Tottenham	1-2	Coventry
+	15.00		Wimbledon	0-3	Arsenal
+[1994-01-03]
+	15.00		Arsenal	0-0	QPR
+	15.00		Chelsea	4-2	Everton
+	15.00		Coventry	1-1	Swindon
+	15.00		Sheffield Weds	1-0	Tottenham
+	15.00		West Ham	0-0	Sheffield United
+[1994-01-04]
+	15.00		Liverpool	3-3	Man United
+	15.00		Norwich	1-2	Newcastle
+
+Matchday 25
+
+[1994-01-15]
+	15.00		Aston Villa	3-1	West Ham
+	15.00		Everton	6-2	Swindon
+	15.00		Leeds	0-0	Ipswich
+	15.00		Man City	0-0	Arsenal
+	15.00		Norwich	1-1	Chelsea
+	15.00		Oldham	0-3	Liverpool
+	15.00		Sheffield United	1-2	Blackburn
+	15.00		Southampton	1-0	Coventry
+	15.00		Tottenham	0-1	Man United
+	15.00		Wimbledon	2-1	Sheffield Weds
+[1994-01-16]
+	15.00		QPR	1-2	Newcastle
+
+Matchday 26
+
+[1994-01-22]
+	15.00		Arsenal	1-1	Oldham
+	15.00		Chelsea	1-1	Aston Villa
+	15.00		Coventry	0-1	QPR
+	15.00		Ipswich	0-0	Wimbledon
+	15.00		Liverpool	2-1	Man City
+	15.00		Man United	1-0	Everton
+	15.00		Newcastle	1-2	Southampton
+	15.00		Sheffield Weds	3-1	Sheffield United
+	15.00		Swindon	2-1	Tottenham
+[1994-01-23]
+	15.00		Blackburn	2-1	Leeds
+[1994-01-24]
+	15.00		West Ham	3-3	Norwich
+
+Matchday 27
+
+[1994-02-02]
+	15.00		Coventry	1-0	Ipswich
+[1994-02-05]
+	15.00		Blackburn	3-0	Wimbledon
+	15.00		Everton	4-2	Chelsea
+	15.00		Man City	2-1	Ipswich
+	15.00		Norwich	2-2	Liverpool
+	15.00		Oldham	2-1	Southampton
+	15.00		QPR	2-3	Man United
+	15.00		Swindon	3-1	Coventry
+	15.00		Tottenham	1-3	Sheffield Weds
+[1994-02-06]
+	15.00		Aston Villa	1-0	Leeds
+[1994-02-12]
+	15.00		Aston Villa	5-0	Swindon
+
+Matchday 28
+
+[1994-02-12]
+	15.00		Everton	0-0	Ipswich
+	15.00		Man City	0-0	West Ham
+	15.00		Oldham	2-1	Chelsea
+	15.00		Sheffield United	0-0	Coventry
+	15.00		Tottenham	0-2	Blackburn
+	15.00		Wimbledon	4-2	Newcastle
+[1994-02-13]
+	15.00		Norwich	1-1	Arsenal
+[1994-02-14]
+	15.00		Southampton	4-2	Liverpool
+[1994-02-19]
+	15.00		Blackburn	1-0	Newcastle
+	15.00		Coventry	4-0	Man City
+	15.00		Everton	1-1	Arsenal
+
+Matchday 29
+
+[1994-02-19]
+	15.00		Leeds	2-0	Liverpool
+	15.00		Swindon	3-3	Norwich
+[1994-02-22]
+	15.00		Aston Villa	0-0	Man City
+	15.00		Norwich	2-2	Blackburn
+[1994-02-23]
+	15.00		Newcastle	4-0	Coventry
+[1994-02-26]
+	15.00		Arsenal	1-0	Blackburn
+	15.00		Ipswich	3-2	Sheffield United
+	15.00		Liverpool	1-0	Coventry
+	15.00		Man City	2-1	Swindon
+	15.00		Norwich	1-1	Sheffield Weds
+	15.00		Southampton	1-0	Wimbledon
+
+Matchday 30
+
+[1994-02-26]
+	15.00		West Ham	2-2	Man United
+[1994-02-27]
+	15.00		Chelsea	4-3	Tottenham
+[1994-02-28]
+	15.00		Oldham	1-1	Leeds
+[1994-03-02]
+	15.00		Tottenham	1-1	Aston Villa
+[1994-03-05]
+	15.00		Blackburn	2-0	Liverpool
+	15.00		Everton	2-1	Oldham
+	15.00		Ipswich	1-5	Arsenal
+	15.00		Leeds	0-0	Southampton
+	15.00		Man United	0-1	Chelsea
+	15.00		QPR	1-1	Man City
+	15.00		Sheffield Weds	0-1	Newcastle
+
+Matchday 31
+
+[1994-03-05]
+	15.00		Swindon	1-1	West Ham
+	15.00		Tottenham	2-2	Sheffield United
+	15.00		Wimbledon	3-1	Norwich
+[1994-03-06]
+	15.00		Coventry	0-1	Aston Villa
+[1994-03-12]
+	15.00		Aston Villa	0-1	Ipswich
+	15.00		Man City	0-1	Wimbledon
+	15.00		Newcastle	7-1	Swindon
+	15.00		Norwich	3-4	QPR
+	15.00		Southampton	1-1	Sheffield Weds
+[1994-03-13]
+	15.00		Liverpool	2-1	Everton
+	15.00		Sheffield United	2-2	Leeds
+
+Matchday 32
+
+[1994-03-16]
+	15.00		Chelsea	2-0	Wimbledon
+	15.00		Leeds	2-0	Aston Villa
+	15.00		Man United	5-0	Sheffield Weds
+	15.00		Sheffield United	1-1	QPR
+[1994-03-19]
+	15.00		Aston Villa	1-2	Oldham
+	15.00		Leeds	1-0	Coventry
+	15.00		Liverpool	2-1	Chelsea
+	15.00		Man City	0-0	Sheffield United
+	15.00		QPR	1-0	Wimbledon
+	15.00		Southampton	0-4	Arsenal
+	15.00		Swindon	2-2	Man United
+
+Matchday 33
+
+[1994-03-19]
+	15.00		Tottenham	1-1	Ipswich
+	15.00		West Ham	2-4	Newcastle
+[1994-03-20]
+	15.00		Sheffield Weds	1-2	Blackburn
+[1994-03-21]
+	15.00		Norwich	3-0	Everton
+[1994-03-22]
+	15.00		Arsenal	2-2	Man United
+	15.00		Newcastle	2-0	Ipswich
+[1994-03-26]
+	15.00		Arsenal	1-0	Liverpool
+	15.00		Blackburn	3-1	Swindon
+	15.00		Chelsea	2-0	West Ham
+	15.00		Coventry	2-1	Norwich
+	15.00		Everton	0-1	Tottenham
+
+Matchday 34
+
+[1994-03-26]
+	15.00		Ipswich	1-3	QPR
+	15.00		Oldham	0-0	Man City
+	15.00		Sheffield United	0-0	Southampton
+[1994-03-27]
+	15.00		Wimbledon	1-0	Leeds
+[1994-03-28]
+	15.00		Sheffield United	3-2	West Ham
+[1994-03-29]
+	15.00		Ipswich	2-2	Man City
+	15.00		Newcastle	3-0	Norwich
+	15.00		Wimbledon	4-1	Blackburn
+[1994-03-30]
+	15.00		Aston Villa	0-0	Everton
+	15.00		Man United	1-0	Liverpool
+	15.00		Sheffield Weds	3-1	Chelsea
+
+Matchday 35
+
+[1994-03-30]
+	15.00		Southampton	1-3	Oldham
+[1994-04-01]
+	15.00		Leeds	1-1	Newcastle
+[1994-04-02]
+	15.00		Arsenal	1-1	Swindon
+	15.00		Blackburn	2-0	Man United
+	15.00		Chelsea	2-0	Southampton
+	15.00		Coventry	1-2	Wimbledon
+	15.00		Liverpool	1-2	Sheffield United
+	15.00		Man City	3-0	Aston Villa
+	15.00		Norwich	1-2	Tottenham
+	15.00		Oldham	4-1	QPR
+	15.00		Sheffield Weds	5-1	Everton
+
+Matchday 36
+
+[1994-04-02]
+	15.00		West Ham	2-1	Ipswich
+[1994-04-04]
+	15.00		Aston Villa	0-0	Norwich
+	15.00		Everton	0-3	Blackburn
+	15.00		Ipswich	0-2	Coventry
+	15.00		Man United	3-2	Oldham
+	15.00		Newcastle	0-0	Chelsea
+	15.00		QPR	0-4	Leeds
+	15.00		Sheffield United	1-1	Arsenal
+	15.00		Southampton	0-1	Man City
+	15.00		Swindon	0-1	Sheffield Weds
+	15.00		Tottenham	1-4	West Ham
+
+Matchday 37
+
+[1994-04-04]
+	15.00		Wimbledon	1-1	Liverpool
+[1994-04-09]
+	15.00		Coventry	1-0	Tottenham
+	15.00		Liverpool	1-0	Ipswich
+	15.00		Man City	2-1	Newcastle
+	15.00		Norwich	4-5	Southampton
+	15.00		Sheffield Weds	3-1	QPR
+	15.00		West Ham	0-1	Everton
+[1994-04-11]
+	15.00		Blackburn	1-0	Aston Villa
+[1994-04-13]
+	15.00		QPR	1-1	Chelsea
+[1994-04-16]
+	15.00		Arsenal	1-0	Chelsea
+	15.00		Coventry	1-1	Sheffield Weds
+
+Matchday 38
+
+[1994-04-16]
+	15.00		Ipswich	1-1	Swindon
+	15.00		Liverpool	0-2	Newcastle
+	15.00		Man City	1-1	Norwich
+	15.00		Oldham	1-2	West Ham
+	15.00		QPR	2-1	Everton
+	15.00		Sheffield United	1-2	Aston Villa
+	15.00		Southampton	3-1	Blackburn
+	15.00		Wimbledon	1-0	Man United
+[1994-04-17]
+	15.00		Leeds	2-0	Tottenham
+[1994-04-19]
+	15.00		Arsenal	1-1	Wimbledon
+[1994-04-23]
+	15.00		Aston Villa	1-2	Arsenal
+
+Matchday 39
+
+[1994-04-23]
+	15.00		Chelsea	1-1	Leeds
+	15.00		Everton	0-0	Coventry
+	15.00		Man United	2-0	Man City
+	15.00		Newcastle	3-2	Oldham
+	15.00		Norwich	0-1	Sheffield United
+	15.00		Sheffield Weds	5-0	Ipswich
+	15.00		Swindon	2-4	Wimbledon
+	15.00		Tottenham	3-0	Southampton
+	15.00		West Ham	1-2	Liverpool
+[1994-04-24]
+	15.00		Blackburn	1-1	QPR
+[1994-04-26]
+	15.00		Wimbledon	3-0	Oldham
+
+Matchday 40
+
+[1994-04-27]
+	15.00		Chelsea	2-0	Swindon
+	15.00		Leeds	0-2	Man United
+	15.00		Newcastle	5-1	Aston Villa
+	15.00		QPR	1-1	Arsenal
+	15.00		West Ham	1-2	Blackburn
+[1994-04-30]
+	15.00		Arsenal	0-2	West Ham
+	15.00		Leeds	3-0	Everton
+	15.00		Liverpool	0-1	Norwich
+	15.00		Man City	2-2	Chelsea
+	15.00		Oldham	0-0	Sheffield Weds
+	15.00		QPR	1-3	Swindon
+
+Matchday 41
+
+[1994-04-30]
+	15.00		Sheffield United	2-0	Newcastle
+	15.00		Southampton	4-1	Aston Villa
+	15.00		Wimbledon	2-1	Tottenham
+[1994-05-01]
+	15.00		Ipswich	1-2	Man United
+[1994-05-02]
+	15.00		Coventry	2-1	Blackburn
+[1994-05-03]
+	15.00		Leeds	2-2	Sheffield Weds
+	15.00		Oldham	1-1	Sheffield United
+	15.00		QPR	0-0	West Ham
+[1994-05-04]
+	15.00		Chelsea	1-2	Coventry
+	15.00		Man United	2-0	Southampton
+[1994-05-05]
+	15.00		Oldham	0-2	Tottenham
+
+Matchday 42
+
+[1994-05-07]
+	15.00		Aston Villa	2-1	Liverpool
+	15.00		Blackburn	0-0	Ipswich
+	15.00		Chelsea	3-2	Sheffield United
+	15.00		Everton	3-2	Wimbledon
+	15.00		Newcastle	2-0	Arsenal
+	15.00		Norwich	1-1	Oldham
+	15.00		Sheffield Weds	1-1	Man City
+	15.00		Swindon	0-5	Leeds
+	15.00		Tottenham	1-2	QPR
+	15.00		West Ham	3-3	Southampton
+[1994-05-08]
+	15.00		Man United	0-0	Coventry
+

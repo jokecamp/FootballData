@@ -1,0 +1,36 @@
+############################
+# Premier League 1998-1999
+
+league: en
+season: 1998/99
+start_at: 1998-08-08
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Bolton
+- Bradford
+- Bristol City
+- Bury
+- Crewe
+- Crystal Palace
+- Grimsby
+- Huddersfield
+- Ipswich
+- Norwich
+- Oxford
+- Port Vale
+- Portsmouth
+- QPR
+- Sheffield United
+- Stockport
+- Sunderland
+- Swindon
+- Tranmere
+- Watford
+- West Brom
+- Wolves
+

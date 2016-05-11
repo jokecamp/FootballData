@@ -1,0 +1,342 @@
+############################
+# Premier League 2012-2013
+
+Matchday 1
+
+[1912-08-18]
+	15.00		Arsenal	0-0	Sunderland
+	15.00		Fulham	5-0	Norwich
+	15.00		Newcastle	2-1	Tottenham
+	15.00		QPR	0-5	Swansea
+	15.00		Reading	1-1	Stoke
+	15.00		West Brom	3-0	Liverpool
+	15.00		West Ham	1-0	Aston Villa
+[1912-08-19]
+	15.00		Man City	3-2	Southampton
+	15.00		Wigan	0-2	Chelsea
+[1912-08-20]
+	15.00		Everton	1-0	Man United
+
+Matchday 2
+
+[1912-08-22]
+	15.00		Chelsea	4-2	Reading
+[1912-08-25]
+	15.00		Aston Villa	1-3	Everton
+	15.00		Chelsea	2-0	Newcastle
+	15.00		Man United	3-2	Fulham
+	15.00		Norwich	1-1	QPR
+	15.00		Southampton	0-2	Wigan
+	15.00		Swansea	3-0	West Ham
+	15.00		Tottenham	1-1	West Brom
+[1912-08-26]
+	15.00		Liverpool	2-2	Man City
+	15.00		Stoke	0-0	Arsenal
+
+Matchday 3
+
+[1912-09-01]
+	15.00		Man City	3-1	QPR
+	15.00		Swansea	2-2	Sunderland
+	15.00		Tottenham	1-1	Norwich
+	15.00		West Brom	2-0	Everton
+	15.00		West Ham	3-0	Fulham
+	15.00		Wigan	2-2	Stoke
+[1912-09-02]
+	15.00		Liverpool	0-2	Arsenal
+	15.00		Newcastle	1-1	Aston Villa
+	15.00		Southampton	2-3	Man United
+[1912-09-15]
+	15.00		Arsenal	6-1	Southampton
+
+Matchday 4
+
+[1912-09-15]
+	15.00		Aston Villa	2-0	Swansea
+	15.00		Fulham	3-0	West Brom
+	15.00		Man United	4-0	Wigan
+	15.00		Norwich	0-0	West Ham
+	15.00		QPR	0-0	Chelsea
+	15.00		Stoke	1-1	Man City
+	15.00		Sunderland	1-1	Liverpool
+[1912-09-16]
+	15.00		Reading	1-3	Tottenham
+[1912-09-17]
+	15.00		Everton	2-2	Newcastle
+[1912-09-22]
+	15.00		Chelsea	1-0	Stoke
+
+Matchday 5
+
+[1912-09-22]
+	15.00		Southampton	4-1	Aston Villa
+	15.00		Swansea	0-3	Everton
+	15.00		West Brom	1-0	Reading
+	15.00		West Ham	1-1	Sunderland
+	15.00		Wigan	1-2	Fulham
+[1912-09-23]
+	15.00		Liverpool	1-2	Man United
+	15.00		Man City	1-1	Arsenal
+	15.00		Newcastle	1-0	Norwich
+	15.00		Tottenham	2-1	QPR
+[1912-09-29]
+	15.00		Arsenal	1-2	Chelsea
+
+Matchday 6
+
+[1912-09-29]
+	15.00		Everton	3-1	Southampton
+	15.00		Fulham	1-2	Man City
+	15.00		Man United	2-3	Tottenham
+	15.00		Norwich	2-5	Liverpool
+	15.00		Reading	2-2	Newcastle
+	15.00		Stoke	2-0	Swansea
+	15.00		Sunderland	1-0	Wigan
+[1912-09-30]
+	15.00		Aston Villa	1-1	West Brom
+[1912-10-01]
+	15.00		QPR	1-2	West Ham
+[1912-10-06]
+	15.00		Chelsea	4-1	Norwich
+
+Matchday 7
+
+[1912-10-06]
+	15.00		Man City	3-0	Sunderland
+	15.00		Swansea	2-2	Reading
+	15.00		West Brom	3-2	QPR
+	15.00		West Ham	1-3	Arsenal
+	15.00		Wigan	2-2	Everton
+[1912-10-07]
+	15.00		Liverpool	0-0	Stoke
+	15.00		Newcastle	0-3	Man United
+	15.00		Southampton	2-2	Fulham
+	15.00		Tottenham	2-0	Aston Villa
+[1912-10-20]
+	15.00		Fulham	1-0	Aston Villa
+
+Matchday 8
+
+[1912-10-20]
+	15.00		Liverpool	1-0	Reading
+	15.00		Man United	4-2	Stoke
+	15.00		Norwich	1-0	Arsenal
+	15.00		Swansea	2-1	Wigan
+	15.00		Tottenham	2-4	Chelsea
+	15.00		West Brom	1-2	Man City
+	15.00		West Ham	4-1	Southampton
+[1912-10-21]
+	15.00		QPR	1-1	Everton
+	15.00		Sunderland	1-1	Newcastle
+[1912-10-27]
+	15.00		Arsenal	1-0	QPR
+
+Matchday 9
+
+[1912-10-27]
+	15.00		Aston Villa	1-1	Norwich
+	15.00		Man City	1-0	Swansea
+	15.00		Reading	3-3	Fulham
+	15.00		Stoke	0-0	Sunderland
+	15.00		Wigan	2-1	West Ham
+[1912-10-28]
+	15.00		Chelsea	2-3	Man United
+	15.00		Everton	2-2	Liverpool
+	15.00		Newcastle	2-1	West Brom
+	15.00		Southampton	1-2	Tottenham
+[1912-11-03]
+	15.00		Fulham	2-2	Everton
+
+Matchday 10
+
+[1912-11-03]
+	15.00		Man United	2-1	Arsenal
+	15.00		Norwich	1-0	Stoke
+	15.00		Sunderland	0-1	Aston Villa
+	15.00		Swansea	1-1	Chelsea
+	15.00		Tottenham	0-1	Wigan
+	15.00		West Ham	0-0	Man City
+[1912-11-04]
+	15.00		Liverpool	1-1	Newcastle
+	15.00		QPR	1-1	Reading
+[1912-11-05]
+	15.00		West Brom	2-0	Southampton
+[1912-11-10]
+	15.00		Arsenal	3-3	Fulham
+
+Matchday 11
+
+[1912-11-10]
+	15.00		Aston Villa	2-3	Man United
+	15.00		Everton	2-1	Sunderland
+	15.00		Reading	0-0	Norwich
+	15.00		Southampton	1-1	Swansea
+	15.00		Stoke	1-0	QPR
+	15.00		Wigan	1-2	West Brom
+[1912-11-11]
+	15.00		Chelsea	1-1	Liverpool
+	15.00		Man City	2-1	Tottenham
+	15.00		Newcastle	0-1	West Ham
+[1912-11-17]
+	15.00		Arsenal	5-2	Tottenham
+
+Matchday 12
+
+[1912-11-17]
+	15.00		Liverpool	3-0	Wigan
+	15.00		Man City	5-0	Aston Villa
+	15.00		Newcastle	1-2	Swansea
+	15.00		Norwich	1-0	Man United
+	15.00		QPR	1-3	Southampton
+	15.00		Reading	2-1	Everton
+	15.00		West Brom	2-1	Chelsea
+[1912-11-18]
+	15.00		Fulham	1-3	Sunderland
+[1912-11-19]
+	15.00		West Ham	1-1	Stoke
+[1912-11-24]
+	15.00		Aston Villa	0-0	Arsenal
+
+Matchday 13
+
+[1912-11-24]
+	15.00		Everton	1-1	Norwich
+	15.00		Man United	3-1	QPR
+	15.00		Stoke	1-0	Fulham
+	15.00		Sunderland	2-4	West Brom
+	15.00		Wigan	3-2	Reading
+[1912-11-25]
+	15.00		Chelsea	0-0	Man City
+	15.00		Southampton	2-0	Newcastle
+	15.00		Swansea	0-0	Liverpool
+	15.00		Tottenham	3-1	West Ham
+[1912-11-27]
+	15.00		Aston Villa	1-0	Reading
+
+Matchday 14
+
+[1912-11-27]
+	15.00		Sunderland	0-0	QPR
+[1912-11-28]
+	15.00		Chelsea	0-0	Fulham
+	15.00		Everton	1-1	Arsenal
+	15.00		Man United	1-0	West Ham
+	15.00		Southampton	1-1	Norwich
+	15.00		Stoke	2-1	Newcastle
+	15.00		Swansea	3-1	West Brom
+	15.00		Tottenham	2-1	Liverpool
+	15.00		Wigan	0-2	Man City
+[1912-12-01]
+	15.00		Arsenal	0-2	Swansea
+
+Matchday 15
+
+[1912-12-01]
+	15.00		Fulham	0-3	Tottenham
+	15.00		Liverpool	1-0	Southampton
+	15.00		Man City	1-1	Everton
+	15.00		QPR	1-1	Aston Villa
+	15.00		Reading	3-4	Man United
+	15.00		West Brom	0-1	Stoke
+	15.00		West Ham	3-1	Chelsea
+[1912-12-02]
+	15.00		Norwich	2-1	Sunderland
+[1912-12-03]
+	15.00		Newcastle	3-0	Wigan
+[1912-12-08]
+	15.00		Arsenal	2-0	West Brom
+
+Matchday 16
+
+[1912-12-08]
+	15.00		Aston Villa	0-0	Stoke
+	15.00		Southampton	1-0	Reading
+	15.00		Sunderland	1-3	Chelsea
+	15.00		Swansea	3-4	Norwich
+	15.00		Wigan	2-2	QPR
+[1912-12-09]
+	15.00		Everton	2-1	Tottenham
+	15.00		Man City	2-3	Man United
+	15.00		West Ham	2-3	Liverpool
+[1912-12-10]
+	15.00		Fulham	2-1	Newcastle
+[1912-12-11]
+	15.00		Sunderland	3-0	Reading
+
+Matchday 17
+
+[1912-12-15]
+	15.00		Liverpool	1-3	Aston Villa
+	15.00		Man United	3-1	Sunderland
+	15.00		Newcastle	1-3	Man City
+	15.00		Norwich	2-1	Wigan
+	15.00		QPR	2-1	Fulham
+	15.00		Stoke	1-1	Everton
+[1912-12-16]
+	15.00		Tottenham	1-0	Swansea
+	15.00		West Brom	0-0	West Ham
+[1912-12-17]
+	15.00		Reading	2-5	Arsenal
+[1912-12-22]
+	15.00		Liverpool	4-0	Fulham
+
+Matchday 18
+
+[1912-12-22]
+	15.00		Man City	1-0	Reading
+	15.00		Newcastle	1-0	QPR
+	15.00		Southampton	0-1	Sunderland
+	15.00		Tottenham	0-0	Stoke
+	15.00		West Brom	2-1	Norwich
+	15.00		West Ham	1-2	Everton
+	15.00		Wigan	0-1	Arsenal
+[1912-12-23]
+	15.00		Chelsea	8-0	Aston Villa
+	15.00		Swansea	1-1	Man United
+[1912-12-26]
+	15.00		Aston Villa	0-4	Tottenham
+
+Matchday 19
+
+[1912-12-26]
+	15.00		Everton	2-1	Wigan
+	15.00		Fulham	1-1	Southampton
+	15.00		Man United	4-3	Newcastle
+	15.00		Norwich	0-1	Chelsea
+	15.00		QPR	1-2	West Brom
+	15.00		Reading	0-0	Swansea
+	15.00		Stoke	3-1	Liverpool
+	15.00		Sunderland	1-0	Man City
+[1912-12-29]
+	15.00		Arsenal	7-3	Newcastle
+	15.00		Aston Villa	0-3	Wigan
+
+Matchday 20
+
+[1912-12-29]
+	15.00		Fulham	1-2	Swansea
+	15.00		Man United	2-0	West Brom
+	15.00		Norwich	3-4	Man City
+	15.00		Reading	1-0	West Ham
+	15.00		Stoke	3-3	Southampton
+	15.00		Sunderland	1-2	Tottenham
+[1912-12-30]
+	15.00		Everton	1-2	Chelsea
+	15.00		QPR	0-3	Liverpool
+[1913-01-01]
+	15.00		Man City	3-0	Stoke
+	15.00		Southampton	1-1	Arsenal
+
+Matchday 21
+
+[1913-01-01]
+	15.00		Swansea	2-2	Aston Villa
+	15.00		Tottenham	3-1	Reading
+	15.00		West Brom	1-2	Fulham
+	15.00		West Ham	2-1	Norwich
+	15.00		Wigan	0-4	Man United
+[1913-01-02]
+	15.00		Chelsea	0-1	QPR
+	15.00		Liverpool	3-0	Sunderland
+	15.00		Newcastle	1-2	Everton
+

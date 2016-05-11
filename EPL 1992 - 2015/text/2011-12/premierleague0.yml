@@ -1,0 +1,32 @@
+############################
+# Premier League 2011-2012
+
+league: en
+season: 2011/12
+start_at: 1911-08-13
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Bolton
+- Chelsea
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Newcastle
+- Norwich
+- QPR
+- Stoke
+- Sunderland
+- Swansea
+- Tottenham
+- West Brom
+- Wigan
+- Wolves
+

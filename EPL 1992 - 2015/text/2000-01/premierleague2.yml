@@ -1,0 +1,36 @@
+############################
+# Premier League 2000-2001
+
+league: en
+season: 2000/01
+start_at: 1900-08-12
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Bournemouth
+- Brentford
+- Bristol City
+- Bristol Rvs
+- Bury
+- Cambridge
+- Colchester
+- Luton
+- Millwall
+- Northampton
+- Notts County
+- Oldham
+- Oxford
+- Peterboro
+- Port Vale
+- Reading
+- Rotherham
+- Stoke
+- Swansea
+- Swindon
+- Walsall
+- Wigan
+- Wrexham
+- Wycombe
+

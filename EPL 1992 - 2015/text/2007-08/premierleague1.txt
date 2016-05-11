@@ -1,0 +1,822 @@
+############################
+# Premier League 2007-2008
+
+Matchday 1
+
+[1907-08-11]
+	15.00		Barnsley	1-4	Coventry
+	15.00		Bristol City	2-2	QPR
+	15.00		Burnley	2-1	West Brom
+	15.00		Cardiff	0-1	Stoke
+	15.00		Charlton	1-1	Scunthorpe
+	15.00		Hull	2-3	Plymouth
+	15.00		Ipswich	4-1	Sheffield Weds
+	15.00		Leicester	0-1	Blackpool
+	15.00		Preston	0-0	Norwich
+	15.00		Sheffield United	2-2	Colchester
+	15.00		Southampton	1-4	Crystal Palace
+	15.00		Wolves	1-2	Watford
+
+Matchday 2
+
+[1907-08-18]
+	15.00		Blackpool	1-1	Bristol City
+	15.00		Colchester	2-2	Barnsley
+	15.00		Coventry	1-1	Hull
+	15.00		Crystal Palace	2-2	Leicester
+	15.00		Norwich	2-1	Southampton
+	15.00		Plymouth	1-1	Ipswich
+	15.00		QPR	0-2	Cardiff
+	15.00		Scunthorpe	2-0	Burnley
+	15.00		Stoke	2-1	Charlton
+	15.00		Watford	1-0	Sheffield United
+	15.00		West Brom	2-0	Preston
+[1907-08-19]
+	15.00		Sheffield Weds	1-3	Wolves
+
+Matchday 3
+
+[1907-08-25]
+	15.00		Barnsley	3-2	Plymouth
+	15.00		Bristol City	2-1	Scunthorpe
+	15.00		Cardiff	0-1	Coventry
+	15.00		Charlton	3-2	Sheffield Weds
+	15.00		Hull	2-1	Norwich
+	15.00		Leicester	4-1	Watford
+	15.00		Preston	0-3	Colchester
+	15.00		Sheffield United	1-0	West Brom
+	15.00		Southampton	3-2	Stoke
+	15.00		Wolves	2-1	Blackpool
+[1907-08-26]
+	15.00		Ipswich	1-0	Crystal Palace
+[1907-09-01]
+	15.00		Colchester	2-3	Burnley
+
+Matchday 4
+
+[1907-09-01]
+	15.00		Coventry	2-1	Preston
+	15.00		Crystal Palace	0-1	Charlton
+	15.00		Norwich	1-2	Cardiff
+	15.00		Plymouth	0-0	Leicester
+	15.00		QPR	0-3	Southampton
+	15.00		Scunthorpe	3-2	Sheffield United
+	15.00		Sheffield Weds	0-1	Bristol City
+	15.00		Stoke	0-0	Wolves
+	15.00		Watford	2-0	Ipswich
+	15.00		West Brom	2-0	Barnsley
+[1907-09-03]
+	15.00		Blackpool	2-1	Hull
+[1907-09-15]
+	15.00		Barnsley	2-0	Scunthorpe
+
+Matchday 5
+
+[1907-09-15]
+	15.00		Burnley	2-2	Blackpool
+	15.00		Colchester	2-2	Charlton
+	15.00		Coventry	0-3	Bristol City
+	15.00		Hull	1-1	Stoke
+	15.00		Leicester	1-1	QPR
+	15.00		Norwich	1-0	Crystal Palace
+	15.00		Plymouth	2-2	Cardiff
+	15.00		Preston	1-0	Sheffield Weds
+	15.00		Sheffield United	3-1	Wolves
+	15.00		West Brom	4-0	Ipswich
+[1907-09-16]
+	15.00		Watford	3-2	Southampton
+[1907-09-18]
+	15.00		Blackpool	2-2	Sheffield United
+
+Matchday 6
+
+[1907-09-18]
+	15.00		Bristol City	1-1	West Brom
+	15.00		Charlton	2-0	Norwich
+	15.00		Crystal Palace	1-1	Coventry
+	15.00		QPR	0-2	Plymouth
+	15.00		Scunthorpe	2-1	Preston
+	15.00		Sheffield Weds	0-2	Burnley
+	15.00		Stoke	0-0	Barnsley
+	15.00		Wolves	0-1	Hull
+[1907-09-19]
+	15.00		Cardiff	1-2	Watford
+	15.00		Southampton	1-1	Colchester
+[1907-09-22]
+	15.00		Blackpool	2-2	Colchester
+	15.00		Bristol City	2-2	Burnley
+
+Matchday 7
+
+[1907-09-22]
+	15.00		Cardiff	2-2	Preston
+	15.00		Charlton	2-0	Leicester
+	15.00		Crystal Palace	3-2	Sheffield United
+	15.00		Ipswich	4-1	Coventry
+	15.00		QPR	1-1	Watford
+	15.00		Scunthorpe	2-3	West Brom
+	15.00		Sheffield Weds	1-0	Hull
+	15.00		Southampton	2-3	Barnsley
+	15.00		Stoke	3-2	Plymouth
+	15.00		Wolves	2-0	Norwich
+[1907-09-29]
+	15.00		Barnsley	1-1	Cardiff
+	15.00		Burnley	1-1	Crystal Palace
+
+Matchday 8
+
+[1907-09-29]
+	15.00		Colchester	0-1	Scunthorpe
+	15.00		Coventry	1-1	Charlton
+	15.00		Hull	3-1	Ipswich
+	15.00		Leicester	1-1	Stoke
+	15.00		Norwich	0-1	Sheffield Weds
+	15.00		Plymouth	1-1	Wolves
+	15.00		Preston	0-0	Bristol City
+	15.00		Sheffield United	1-2	Southampton
+	15.00		Watford	1-1	Blackpool
+[1907-09-30]
+	15.00		West Brom	5-1	QPR
+[1907-10-02]
+	15.00		Barnsley	3-0	Bristol City
+	15.00		Burnley	2-2	Ipswich
+
+Matchday 9
+
+[1907-10-02]
+	15.00		Coventry	3-1	Blackpool
+	15.00		Hull	1-2	Charlton
+	15.00		Leicester	0-0	Wolves
+	15.00		Norwich	0-0	Scunthorpe
+	15.00		Plymouth	1-0	Crystal Palace
+	15.00		Preston	5-1	Southampton
+	15.00		Sheffield United	3-3	Cardiff
+	15.00		Watford	2-1	Sheffield Weds
+[1907-10-03]
+	15.00		Colchester	4-2	QPR
+	15.00		West Brom	1-1	Stoke
+[1907-10-06]
+	15.00		Blackpool	0-0	Plymouth
+	15.00		Bristol City	2-0	Sheffield United
+
+Matchday 10
+
+[1907-10-06]
+	15.00		Cardiff	2-1	Burnley
+	15.00		Charlton	1-1	Barnsley
+	15.00		Crystal Palace	1-1	Hull
+	15.00		Ipswich	2-1	Preston
+	15.00		Scunthorpe	1-3	Watford
+	15.00		Sheffield Weds	0-2	Leicester
+	15.00		Southampton	3-2	West Brom
+	15.00		Stoke	2-1	Colchester
+	15.00		Wolves	1-0	Coventry
+[1907-10-08]
+	15.00		QPR	1-0	Norwich
+[1907-10-20]
+	15.00		Barnsley	1-1	Burnley
+	15.00		Blackpool	1-1	Crystal Palace
+
+Matchday 11
+
+[1907-10-20]
+	15.00		Colchester	3-2	West Brom
+	15.00		Norwich	1-3	Bristol City
+	15.00		Plymouth	1-0	Coventry
+	15.00		QPR	1-1	Ipswich
+	15.00		Scunthorpe	0-0	Leicester
+	15.00		Sheffield United	1-1	Preston
+	15.00		Stoke	2-4	Sheffield Weds
+	15.00		Watford	1-0	Hull
+	15.00		Wolves	2-0	Charlton
+[1907-10-21]
+	15.00		Southampton	1-0	Cardiff
+[1907-10-22]
+	15.00		Hull	3-0	Barnsley
+[1907-10-23]
+	15.00		Burnley	2-1	Norwich
+
+Matchday 12
+
+[1907-10-23]
+	15.00		Charlton	1-2	Plymouth
+	15.00		Coventry	0-3	Watford
+	15.00		Crystal Palace	1-3	Stoke
+	15.00		Ipswich	3-1	Colchester
+	15.00		Leicester	0-1	Sheffield United
+	15.00		Preston	0-0	QPR
+	15.00		Sheffield Weds	1-2	Scunthorpe
+	15.00		West Brom	2-1	Blackpool
+[1907-10-24]
+	15.00		Bristol City	2-1	Southampton
+	15.00		Cardiff	2-3	Wolves
+[1907-10-27]
+	15.00		Bristol City	1-0	Stoke
+	15.00		Burnley	2-3	Southampton
+
+Matchday 13
+
+[1907-10-27]
+	15.00		Cardiff	1-1	Scunthorpe
+	15.00		Charlton	0-1	QPR
+	15.00		Coventry	1-0	Colchester
+	15.00		Hull	1-1	Sheffield United
+	15.00		Ipswich	3-0	Wolves
+	15.00		Leicester	2-0	Barnsley
+	15.00		Preston	2-0	Plymouth
+	15.00		Sheffield Weds	2-1	Blackpool
+	15.00		West Brom	2-0	Norwich
+[1907-10-29]
+	15.00		Crystal Palace	0-2	Watford
+[1907-11-03]
+	15.00		Barnsley	1-0	Preston
+	15.00		Colchester	1-1	Leicester
+
+Matchday 14
+
+[1907-11-03]
+	15.00		Plymouth	1-2	Sheffield Weds
+	15.00		QPR	2-0	Hull
+	15.00		Scunthorpe	0-0	Crystal Palace
+	15.00		Sheffield United	0-0	Burnley
+	15.00		Southampton	0-1	Charlton
+	15.00		Stoke	1-3	Coventry
+	15.00		Watford	0-3	West Brom
+	15.00		Wolves	1-1	Bristol City
+[1907-11-04]
+	15.00		Norwich	2-2	Ipswich
+[1907-11-05]
+	15.00		Barnsley	2-1	Blackpool
+[1907-11-06]
+	15.00		Bristol City	0-1	Charlton
+	15.00		Burnley	0-1	Hull
+
+Matchday 15
+
+[1907-11-06]
+	15.00		Cardiff	1-1	Crystal Palace
+	15.00		Colchester	1-1	Plymouth
+	15.00		Norwich	1-3	Watford
+	15.00		Preston	1-1	Leicester
+	15.00		QPR	1-2	Coventry
+	15.00		Scunthorpe	2-3	Stoke
+	15.00		Sheffield United	3-1	Ipswich
+	15.00		Southampton	0-0	Wolves
+	15.00		West Brom	1-1	Sheffield Weds
+[1907-11-10]
+	15.00		Blackpool	1-0	Scunthorpe
+	15.00		Charlton	3-0	Cardiff
+	15.00		Crystal Palace	1-1	QPR
+
+Matchday 16
+
+[1907-11-10]
+	15.00		Hull	3-0	Preston
+	15.00		Ipswich	6-0	Bristol City
+	15.00		Leicester	0-1	Burnley
+	15.00		Plymouth	3-0	Norwich
+	15.00		Sheffield Weds	5-0	Southampton
+	15.00		Stoke	0-1	Sheffield United
+	15.00		Watford	2-2	Colchester
+	15.00		Wolves	1-0	Barnsley
+[1907-11-12]
+	15.00		Coventry	0-4	West Brom
+[1907-11-24]
+	15.00		Barnsley	3-2	Watford
+	15.00		Bristol City	0-2	Leicester
+	15.00		Burnley	0-0	Stoke
+
+Matchday 17
+
+[1907-11-24]
+	15.00		Cardiff	1-0	Ipswich
+	15.00		Colchester	1-2	Crystal Palace
+	15.00		Norwich	2-0	Coventry
+	15.00		Preston	0-2	Charlton
+	15.00		QPR	0-0	Sheffield Weds
+	15.00		Scunthorpe	1-2	Hull
+	15.00		Sheffield United	0-1	Plymouth
+	15.00		Southampton	1-0	Blackpool
+[1907-11-25]
+	15.00		West Brom	0-0	Wolves
+[1907-11-26]
+	15.00		Leicester	0-0	Cardiff
+[1907-11-27]
+	15.00		Blackpool	1-3	Norwich
+	15.00		Charlton	0-3	Sheffield United
+
+Matchday 18
+
+[1907-11-27]
+	15.00		Coventry	1-1	Scunthorpe
+	15.00		Crystal Palace	2-1	Preston
+	15.00		Hull	0-0	Bristol City
+	15.00		Ipswich	2-0	Southampton
+	15.00		Sheffield Weds	1-0	Barnsley
+	15.00		Stoke	3-1	QPR
+	15.00		Watford	1-2	Burnley
+[1907-11-28]
+	15.00		Plymouth	1-2	West Brom
+	15.00		Wolves	1-0	Colchester
+[1907-12-01]
+	15.00		Blackpool	1-0	QPR
+	15.00		Charlton	1-3	Burnley
+	15.00		Coventry	0-1	Sheffield United
+
+Matchday 19
+
+[1907-12-01]
+	15.00		Crystal Palace	1-1	West Brom
+	15.00		Hull	2-2	Cardiff
+	15.00		Ipswich	0-0	Barnsley
+	15.00		Leicester	1-2	Southampton
+	15.00		Plymouth	3-0	Scunthorpe
+	15.00		Sheffield Weds	1-2	Colchester
+	15.00		Stoke	2-1	Norwich
+	15.00		Watford	1-2	Bristol City
+	15.00		Wolves	1-0	Preston
+[1907-12-03]
+	15.00		Scunthorpe	1-1	Blackpool
+[1907-12-04]
+	15.00		Barnsley	1-0	Wolves
+	15.00		Bristol City	2-0	Ipswich
+
+Matchday 20
+
+[1907-12-04]
+	15.00		Burnley	1-1	Leicester
+	15.00		Cardiff	0-2	Charlton
+	15.00		Colchester	2-3	Watford
+	15.00		Norwich	2-1	Plymouth
+	15.00		Preston	3-0	Hull
+	15.00		QPR	1-2	Crystal Palace
+	15.00		Sheffield United	0-3	Stoke
+	15.00		Southampton	0-0	Sheffield Weds
+	15.00		West Brom	2-4	Coventry
+[1907-12-08]
+	15.00		Barnsley	0-0	Crystal Palace
+	15.00		Cardiff	4-1	Colchester
+	15.00		Charlton	3-1	Ipswich
+
+Matchday 21
+
+[1907-12-08]
+	15.00		Leicester	1-2	West Brom
+	15.00		Norwich	1-0	Sheffield United
+	15.00		Plymouth	1-1	Bristol City
+	15.00		Preston	0-1	Blackpool
+	15.00		Scunthorpe	2-2	QPR
+	15.00		Southampton	4-0	Hull
+	15.00		Wolves	2-3	Burnley
+[1907-12-09]
+	15.00		Stoke	0-0	Watford
+[1907-12-11]
+	15.00		Blackpool	0-1	Cardiff
+	15.00		Burnley	0-2	QPR
+	15.00		Ipswich	3-1	Leicester
+[1907-12-15]
+	15.00		Blackpool	2-3	Stoke
+
+Matchday 22
+
+[1907-12-15]
+	15.00		Bristol City	1-0	Cardiff
+	15.00		Burnley	2-3	Preston
+	15.00		Colchester	1-1	Norwich
+	15.00		Coventry	1-1	Southampton
+	15.00		Crystal Palace	2-1	Sheffield Weds
+	15.00		Hull	2-0	Leicester
+	15.00		Ipswich	3-2	Scunthorpe
+	15.00		QPR	0-0	Wolves
+	15.00		Sheffield United	1-0	Barnsley
+	15.00		Watford	0-1	Plymouth
+	15.00		West Brom	4-2	Charlton
+[1907-12-22]
+	15.00		Blackpool	4-0	Coventry
+
+Matchday 23
+
+[1907-12-22]
+	15.00		Bristol City	3-2	Barnsley
+	15.00		Cardiff	1-0	Sheffield United
+	15.00		Charlton	1-1	Hull
+	15.00		Crystal Palace	2-1	Plymouth
+	15.00		Ipswich	0-0	Burnley
+	15.00		QPR	2-1	Colchester
+	15.00		Scunthorpe	0-1	Norwich
+	15.00		Sheffield Weds	0-1	Watford
+	15.00		Southampton	0-1	Preston
+	15.00		Stoke	3-1	West Brom
+	15.00		Wolves	1-1	Leicester
+[1907-12-26]
+	15.00		Barnsley	3-3	Stoke
+
+Matchday 24
+
+[1907-12-26]
+	15.00		Burnley	1-1	Sheffield Weds
+	15.00		Colchester	1-1	Southampton
+	15.00		Coventry	0-2	Crystal Palace
+	15.00		Hull	2-0	Wolves
+	15.00		Leicester	2-0	Ipswich
+	15.00		Norwich	1-1	Charlton
+	15.00		Plymouth	2-1	QPR
+	15.00		Preston	0-1	Scunthorpe
+	15.00		Sheffield United	1-1	Blackpool
+	15.00		Watford	2-2	Cardiff
+	15.00		West Brom	4-1	Bristol City
+[1907-12-29]
+	15.00		Barnsley	2-2	Southampton
+
+Matchday 25
+
+[1907-12-29]
+	15.00		Burnley	0-1	Bristol City
+	15.00		Colchester	0-2	Blackpool
+	15.00		Coventry	2-1	Ipswich
+	15.00		Leicester	1-1	Charlton
+	15.00		Norwich	1-1	Wolves
+	15.00		Plymouth	2-2	Stoke
+	15.00		Preston	1-2	Cardiff
+	15.00		Sheffield United	0-1	Crystal Palace
+	15.00		Watford	2-4	QPR
+	15.00		West Brom	5-0	Scunthorpe
+[1907-12-30]
+	15.00		Hull	1-0	Sheffield Weds
+[1908-01-01]
+	15.00		Blackpool	3-0	Burnley
+
+Matchday 26
+
+[1908-01-01]
+	15.00		Bristol City	2-1	Coventry
+	15.00		Cardiff	1-0	Plymouth
+	15.00		Charlton	1-2	Colchester
+	15.00		Crystal Palace	1-1	Norwich
+	15.00		Ipswich	2-0	West Brom
+	15.00		QPR	3-1	Leicester
+	15.00		Scunthorpe	2-2	Barnsley
+	15.00		Sheffield Weds	2-1	Preston
+	15.00		Southampton	0-3	Watford
+	15.00		Stoke	1-1	Hull
+	15.00		Wolves	0-0	Sheffield United
+[1908-01-12]
+	15.00		Barnsley	1-3	Norwich
+
+Matchday 27
+
+[1908-01-12]
+	15.00		Bristol City	1-1	Colchester
+	15.00		Burnley	1-0	Plymouth
+	15.00		Cardiff	1-0	Sheffield Weds
+	15.00		Charlton	4-1	Blackpool
+	15.00		Hull	1-3	West Brom
+	15.00		Ipswich	1-1	Stoke
+	15.00		Leicester	2-0	Coventry
+	15.00		Preston	1-0	Watford
+	15.00		Sheffield United	2-1	QPR
+	15.00		Southampton	1-0	Scunthorpe
+	15.00		Wolves	0-3	Crystal Palace
+[1908-01-19]
+	15.00		Blackpool	1-1	Ipswich
+
+Matchday 28
+
+[1908-01-19]
+	15.00		Coventry	1-2	Burnley
+	15.00		Crystal Palace	2-0	Bristol City
+	15.00		Norwich	0-0	Leicester
+	15.00		Plymouth	1-1	Southampton
+	15.00		QPR	2-0	Barnsley
+	15.00		Scunthorpe	0-2	Wolves
+	15.00		Sheffield Weds	2-0	Sheffield United
+	15.00		Stoke	3-1	Preston
+	15.00		Watford	1-1	Charlton
+	15.00		West Brom	3-3	Cardiff
+[1908-01-26]
+	15.00		Bristol City	1-0	Blackpool
+	15.00		Burnley	2-0	Scunthorpe
+
+Matchday 29
+
+[1908-01-28]
+	15.00		Leicester	1-0	Crystal Palace
+[1908-01-29]
+	15.00		Barnsley	1-0	Colchester
+	15.00		Cardiff	3-1	QPR
+	15.00		Charlton	1-0	Stoke
+	15.00		Hull	1-0	Coventry
+	15.00		Ipswich	0-0	Plymouth
+	15.00		Preston	2-1	West Brom
+	15.00		Sheffield United	1-1	Watford
+	15.00		Southampton	0-1	Norwich
+	15.00		Wolves	2-1	Sheffield Weds
+[1908-02-02]
+	15.00		Blackpool	2-1	Leicester
+	15.00		Colchester	2-2	Sheffield United
+
+Matchday 30
+
+[1908-02-02]
+	15.00		Coventry	4-0	Barnsley
+	15.00		Crystal Palace	1-1	Southampton
+	15.00		Norwich	1-0	Preston
+	15.00		Plymouth	0-1	Hull
+	15.00		QPR	3-0	Bristol City
+	15.00		Scunthorpe	1-0	Charlton
+	15.00		Sheffield Weds	1-2	Ipswich
+	15.00		Stoke	2-1	Cardiff
+	15.00		Watford	3-0	Wolves
+	15.00		West Brom	2-1	Burnley
+[1908-02-08]
+	15.00		Charlton	2-0	Crystal Palace
+[1908-02-09]
+	15.00		Barnsley	2-1	West Brom
+
+Matchday 31
+
+[1908-02-09]
+	15.00		Bristol City	2-1	Sheffield Weds
+	15.00		Burnley	1-1	Colchester
+	15.00		Cardiff	1-2	Norwich
+	15.00		Hull	2-2	Blackpool
+	15.00		Ipswich	1-2	Watford
+	15.00		Leicester	0-1	Plymouth
+	15.00		Preston	1-0	Coventry
+	15.00		Sheffield United	0-0	Scunthorpe
+	15.00		Southampton	2-3	QPR
+	15.00		Wolves	2-4	Stoke
+[1908-02-12]
+	15.00		Blackpool	0-0	Wolves
+	15.00		Colchester	2-1	Preston
+
+Matchday 32
+
+[1908-02-12]
+	15.00		Coventry	0-0	Cardiff
+	15.00		Crystal Palace	0-1	Ipswich
+	15.00		Norwich	1-1	Hull
+	15.00		Plymouth	3-0	Barnsley
+	15.00		QPR	2-4	Burnley
+	15.00		Scunthorpe	0-1	Bristol City
+	15.00		Sheffield Weds	0-0	Charlton
+	15.00		Stoke	3-2	Southampton
+	15.00		Watford	1-0	Leicester
+	15.00		West Brom	0-0	Sheffield United
+[1908-02-15]
+	15.00		Stoke	3-2	Scunthorpe
+[1908-02-16]
+	15.00		Charlton	2-2	Watford
+
+Matchday 33
+
+[1908-02-16]
+	15.00		Hull	1-1	Colchester
+	15.00		Ipswich	2-1	Blackpool
+	15.00		Leicester	4-0	Norwich
+[1908-02-18]
+	15.00		Bristol City	1-1	Crystal Palace
+[1908-02-19]
+	15.00		Southampton	0-2	Plymouth
+[1908-02-23]
+	15.00		Blackpool	5-3	Charlton
+	15.00		Colchester	1-2	Bristol City
+	15.00		Coventry	2-0	Leicester
+	15.00		Crystal Palace	0-2	Wolves
+	15.00		Norwich	1-0	Barnsley
+	15.00		Plymouth	3-1	Burnley
+	15.00		QPR	1-1	Sheffield United
+
+Matchday 34
+
+[1908-02-23]
+	15.00		Scunthorpe	1-1	Southampton
+	15.00		Sheffield Weds	1-0	Cardiff
+	15.00		Stoke	1-0	Ipswich
+	15.00		Watford	0-0	Preston
+	15.00		West Brom	1-2	Hull
+[1908-02-26]
+	15.00		Barnsley	0-0	QPR
+	15.00		Burnley	2-0	Coventry
+	15.00		Preston	2-0	Stoke
+[1908-03-01]
+	15.00		Barnsley	0-0	Sheffield Weds
+	15.00		Bristol City	2-1	Hull
+	15.00		Burnley	2-2	Watford
+	15.00		Cardiff	0-1	Leicester
+
+Matchday 35
+
+[1908-03-01]
+	15.00		Colchester	0-1	Wolves
+	15.00		Norwich	1-2	Blackpool
+	15.00		Preston	0-1	Crystal Palace
+	15.00		Scunthorpe	2-1	Coventry
+	15.00		Sheffield United	0-2	Charlton
+	15.00		Southampton	1-1	Ipswich
+	15.00		West Brom	3-0	Plymouth
+[1908-03-02]
+	15.00		QPR	3-0	Stoke
+[1908-03-04]
+	15.00		Blackpool	1-1	Barnsley
+	15.00		Charlton	1-1	Bristol City
+	15.00		Crystal Palace	0-0	Cardiff
+	15.00		Hull	2-0	Burnley
+
+Matchday 36
+
+[1908-03-04]
+	15.00		Ipswich	1-1	Sheffield United
+	15.00		Leicester	0-1	Preston
+	15.00		Plymouth	4-1	Colchester
+	15.00		Sheffield Weds	0-1	West Brom
+	15.00		Watford	1-1	Norwich
+	15.00		Wolves	2-2	Southampton
+[1908-03-05]
+	15.00		Coventry	0-0	QPR
+[1908-03-08]
+	15.00		Blackpool	2-2	Southampton
+	15.00		Charlton	1-2	Preston
+	15.00		Coventry	1-0	Norwich
+	15.00		Crystal Palace	2-1	Colchester
+	15.00		Hull	2-0	Scunthorpe
+
+Matchday 37
+
+[1908-03-08]
+	15.00		Leicester	0-0	Bristol City
+	15.00		Plymouth	0-1	Sheffield United
+	15.00		Sheffield Weds	2-1	QPR
+	15.00		Stoke	1-1	Burnley
+[1908-03-11]
+	15.00		Barnsley	4-1	Ipswich
+	15.00		Bristol City	0-0	Watford
+	15.00		Burnley	1-0	Charlton
+	15.00		Colchester	1-2	Sheffield Weds
+	15.00		Norwich	0-1	Stoke
+	15.00		Preston	2-1	Wolves
+	15.00		QPR	3-2	Blackpool
+	15.00		Scunthorpe	1-0	Plymouth
+
+Matchday 38
+
+[1908-03-11]
+	15.00		Sheffield United	2-1	Coventry
+	15.00		Southampton	1-0	Leicester
+[1908-03-12]
+	15.00		Cardiff	1-0	Hull
+	15.00		West Brom	1-1	Crystal Palace
+[1908-03-15]
+	15.00		Blackpool	0-0	Preston
+	15.00		Bristol City	1-2	Plymouth
+	15.00		Burnley	1-3	Wolves
+	15.00		Colchester	1-1	Cardiff
+	15.00		Coventry	0-0	Sheffield Weds
+	15.00		Crystal Palace	2-0	Barnsley
+	15.00		Hull	5-0	Southampton
+	15.00		Ipswich	2-0	Charlton
+
+Matchday 39
+
+[1908-03-15]
+	15.00		QPR	3-1	Scunthorpe
+	15.00		Sheffield United	2-0	Norwich
+	15.00		Watford	0-0	Stoke
+	15.00		West Brom	1-4	Leicester
+[1908-03-18]
+	15.00		Colchester	1-3	Hull
+	15.00		Wolves	2-1	Scunthorpe
+[1908-03-21]
+	15.00		Charlton	1-1	West Brom
+[1908-03-22]
+	15.00		Barnsley	0-1	Sheffield United
+	15.00		Cardiff	2-1	Bristol City
+	15.00		Leicester	0-2	Hull
+	15.00		Norwich	5-1	Colchester
+	15.00		Plymouth	1-1	Watford
+
+Matchday 40
+
+[1908-03-22]
+	15.00		Preston	2-1	Burnley
+	15.00		Scunthorpe	1-2	Ipswich
+	15.00		Sheffield Weds	2-2	Crystal Palace
+	15.00		Southampton	0-0	Coventry
+	15.00		Stoke	1-1	Blackpool
+	15.00		Wolves	3-3	QPR
+[1908-03-29]
+	15.00		Bristol City	2-1	Norwich
+	15.00		Burnley	2-1	Barnsley
+	15.00		Cardiff	1-0	Southampton
+	15.00		Charlton	2-3	Wolves
+	15.00		Coventry	3-1	Plymouth
+	15.00		Crystal Palace	0-0	Blackpool
+
+Matchday 41
+
+[1908-03-29]
+	15.00		Hull	3-0	Watford
+	15.00		Ipswich	0-0	QPR
+	15.00		Leicester	1-0	Scunthorpe
+	15.00		Preston	3-1	Sheffield United
+	15.00		Sheffield Weds	1-1	Stoke
+	15.00		West Brom	4-3	Colchester
+[1908-04-01]
+	15.00		Cardiff	0-0	West Brom
+	15.00		Sheffield Weds	1-1	Coventry
+[1908-04-05]
+	15.00		Colchester	2-0	Ipswich
+	15.00		Norwich	2-0	Burnley
+	15.00		Plymouth	1-2	Charlton
+	15.00		QPR	2-2	Preston
+
+Matchday 42
+
+[1908-04-05]
+	15.00		Scunthorpe	1-1	Sheffield Weds
+	15.00		Sheffield United	3-0	Leicester
+	15.00		Southampton	2-0	Bristol City
+	15.00		Watford	2-1	Coventry
+[1908-04-07]
+	15.00		Stoke	1-2	Crystal Palace
+[1908-04-08]
+	15.00		Blackpool	1-3	West Brom
+	15.00		Sheffield United	2-2	Sheffield Weds
+[1908-04-09]
+	15.00		Ipswich	1-1	Cardiff
+	15.00		Watford	0-3	Barnsley
+[1908-04-12]
+	15.00		Bristol City	0-0	Wolves
+	15.00		Burnley	1-2	Sheffield United
+	15.00		Cardiff	3-1	Blackpool
+
+Matchday 43
+
+[1908-04-12]
+	15.00		Charlton	1-1	Southampton
+	15.00		Coventry	1-2	Stoke
+	15.00		Crystal Palace	2-0	Scunthorpe
+	15.00		Hull	1-1	QPR
+	15.00		Leicester	1-1	Colchester
+	15.00		Preston	1-2	Barnsley
+	15.00		West Brom	1-1	Watford
+[1908-04-13]
+	15.00		Ipswich	2-1	Norwich
+[1908-04-14]
+	15.00		Sheffield Weds	1-1	Plymouth
+[1908-04-15]
+	15.00		Barnsley	1-3	Hull
+	15.00		Wolves	0-1	West Brom
+[1908-04-19]
+	15.00		Barnsley	0-1	Leicester
+
+Matchday 44
+
+[1908-04-19]
+	15.00		Blackpool	2-1	Sheffield Weds
+	15.00		Colchester	1-5	Coventry
+	15.00		Norwich	1-2	West Brom
+	15.00		Plymouth	2-2	Preston
+	15.00		QPR	1-0	Charlton
+	15.00		Scunthorpe	3-2	Cardiff
+	15.00		Sheffield United	2-0	Hull
+	15.00		Southampton	0-1	Burnley
+	15.00		Stoke	2-1	Bristol City
+	15.00		Watford	0-2	Crystal Palace
+	15.00		Wolves	1-1	Ipswich
+[1908-04-22]
+	15.00		Wolves	3-0	Cardiff
+
+Matchday 45
+
+[1908-04-26]
+	15.00		Barnsley	3-0	Charlton
+	15.00		Burnley	3-3	Cardiff
+	15.00		Colchester	0-1	Stoke
+	15.00		Coventry	1-1	Wolves
+	15.00		Hull	2-1	Crystal Palace
+	15.00		Leicester	1-3	Sheffield Weds
+	15.00		Norwich	3-0	QPR
+	15.00		Plymouth	3-0	Blackpool
+	15.00		Preston	2-2	Ipswich
+	15.00		Sheffield United	2-1	Bristol City
+	15.00		Watford	0-1	Scunthorpe
+[1908-04-28]
+	15.00		West Brom	1-1	Southampton
+
+Matchday 46
+
+[1908-05-04]
+	15.00		Blackpool	1-1	Watford
+	15.00		Bristol City	3-0	Preston
+	15.00		Cardiff	3-0	Barnsley
+	15.00		Charlton	4-1	Coventry
+	15.00		Crystal Palace	5-0	Burnley
+	15.00		Ipswich	1-0	Hull
+	15.00		QPR	0-2	West Brom
+	15.00		Scunthorpe	3-3	Colchester
+	15.00		Sheffield Weds	4-1	Norwich
+	15.00		Southampton	3-2	Sheffield United
+	15.00		Stoke	0-0	Leicester
+	15.00		Wolves	1-0	Plymouth
+

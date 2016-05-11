@@ -1,0 +1,36 @@
+############################
+# Premier League 2001-2002
+
+league: en
+season: 2001/02
+start_at: 1901-08-11
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Brentford
+- Brighton
+- Bristol City
+- Bury
+- Cambridge
+- Cardiff
+- Chesterfield
+- Colchester
+- Huddersfield
+- Northampton
+- Notts County
+- Oldham
+- Peterboro
+- Port Vale
+- QPR
+- Reading
+- Stoke
+- Swindon
+- Tranmere
+- Wigan
+- Wrexham
+- Wycombe
+

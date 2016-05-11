@@ -1,0 +1,32 @@
+############################
+# Premier League 2010-2011
+
+league: en
+season: 2010/11
+start_at: 1910-08-14
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Blackpool
+- Bolton
+- Chelsea
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Newcastle
+- Stoke
+- Sunderland
+- Tottenham
+- West Brom
+- West Ham
+- Wigan
+- Wolves
+

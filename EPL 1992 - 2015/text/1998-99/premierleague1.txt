@@ -1,0 +1,835 @@
+############################
+# Premier League 1998-1999
+
+Matchday 1
+
+[1998-08-08]
+	15.00		Barnsley	2-2	West Brom
+	15.00		Bradford	1-2	Stockport
+	15.00		Bristol City	2-2	Oxford
+	15.00		Bury	1-0	Huddersfield
+	15.00		Crystal Palace	2-2	Bolton
+	15.00		Norwich	2-1	Crewe
+	15.00		Port Vale	0-2	Birmingham
+	15.00		Portsmouth	1-2	Watford
+	15.00		Sheffield United	2-1	Swindon
+	15.00		Sunderland	1-0	QPR
+	15.00		Wolves	2-0	Tranmere
+[1998-08-09]
+	15.00		Grimsby	0-0	Ipswich
+
+Matchday 2
+
+[1998-08-15]
+	15.00		Bolton	2-0	Grimsby
+	15.00		Crewe	3-1	Barnsley
+	15.00		Huddersfield	2-1	Port Vale
+	15.00		Ipswich	0-0	Bury
+	15.00		Oxford	0-2	Wolves
+	15.00		QPR	1-1	Bristol City
+	15.00		Stockport	0-2	Norwich
+	15.00		Swindon	1-1	Sunderland
+	15.00		Tranmere	1-1	Portsmouth
+	15.00		Watford	1-0	Bradford
+	15.00		West Brom	4-1	Sheffield United
+[1998-08-16]
+	15.00		Birmingham	3-1	Crystal Palace
+
+Matchday 3
+
+[1998-08-21]
+	15.00		Barnsley	1-1	Stockport
+[1998-08-22]
+	15.00		Bristol City	1-4	Watford
+	15.00		Bury	1-0	Crewe
+	15.00		Crystal Palace	2-0	Oxford
+	15.00		Grimsby	1-0	Huddersfield
+	15.00		Norwich	4-2	QPR
+	15.00		Port Vale	0-3	West Brom
+	15.00		Portsmouth	0-0	Ipswich
+	15.00		Sheffield United	0-2	Birmingham
+	15.00		Sunderland	5-0	Tranmere
+	15.00		Wolves	1-0	Swindon
+[1998-08-23]
+	15.00		Bradford	2-2	Bolton
+
+Matchday 4
+
+[1998-08-25]
+	15.00		Sunderland	4-1	Watford
+[1998-08-28]
+	15.00		Crewe	2-1	Bradford
+	15.00		Watford	0-2	Wolves
+[1998-08-29]
+	15.00		Birmingham	0-0	Barnsley
+	15.00		Bolton	2-2	Sheffield United
+	15.00		Huddersfield	3-3	Portsmouth
+	15.00		Ipswich	0-2	Sunderland
+	15.00		Oxford	0-0	Grimsby
+	15.00		QPR	0-0	Bury
+	15.00		Stockport	1-1	Crystal Palace
+	15.00		Swindon	1-1	Port Vale
+	15.00		Tranmere	1-1	Bristol City
+
+Matchday 5
+
+[1998-08-29]
+	15.00		West Brom	2-0	Norwich
+[1998-08-31]
+	15.00		Barnsley	1-0	Oxford
+	15.00		Bradford	2-1	Birmingham
+	15.00		Bristol City	1-2	Huddersfield
+	15.00		Bury	3-0	Swindon
+	15.00		Grimsby	5-1	West Brom
+	15.00		Port Vale	0-3	Ipswich
+	15.00		Portsmouth	3-0	QPR
+	15.00		Sheffield United	3-1	Crewe
+	15.00		Wolves	2-2	Stockport
+[1998-09-05]
+	15.00		Birmingham	1-0	Bury
+	15.00		Huddersfield	1-0	Sheffield United
+
+Matchday 6
+
+[1998-09-05]
+	15.00		Stockport	2-0	Grimsby
+	15.00		Swindon	3-2	Bristol City
+[1998-09-06]
+	15.00		Oxford	3-0	Portsmouth
+[1998-09-08]
+	15.00		Barnsley	1-3	Norwich
+	15.00		Birmingham	2-0	Stockport
+	15.00		Bury	2-1	Portsmouth
+	15.00		Crewe	0-1	Crystal Palace
+	15.00		Huddersfield	2-0	Watford
+	15.00		Ipswich	3-0	Bradford
+	15.00		Port Vale	2-1	Wolves
+	15.00		QPR	0-0	Tranmere
+	15.00		Sheffield United	3-2	Grimsby
+
+Matchday 7
+
+[1998-09-08]
+	15.00		Sunderland	1-1	Bristol City
+	15.00		West Brom	2-3	Bolton
+[1998-09-09]
+	15.00		Swindon	4-1	Oxford
+[1998-09-11]
+	15.00		Tranmere	2-3	Huddersfield
+[1998-09-12]
+	15.00		Bolton	3-1	Birmingham
+	15.00		Bradford	2-2	Sheffield United
+	15.00		Crystal Palace	0-1	Port Vale
+	15.00		Grimsby	1-2	Barnsley
+	15.00		Oxford	3-3	Ipswich
+	15.00		Portsmouth	5-2	Swindon
+	15.00		Stockport	1-1	Crewe
+	15.00		Watford	2-1	QPR
+
+Matchday 8
+
+[1998-09-12]
+	15.00		Wolves	1-1	Sunderland
+[1998-09-13]
+	15.00		Bristol City	1-3	West Brom
+	15.00		Norwich	0-0	Bury
+[1998-09-19]
+	15.00		Barnsley	4-0	Crystal Palace
+	15.00		Birmingham	0-1	Grimsby
+	15.00		Bury	0-0	Tranmere
+	15.00		Crewe	4-4	Bolton
+	15.00		Huddersfield	2-1	Wolves
+	15.00		Ipswich	3-1	Bristol City
+	15.00		Port Vale	0-2	Portsmouth
+	15.00		QPR	2-0	Stockport
+	15.00		Sheffield United	2-1	Norwich
+
+Matchday 9
+
+[1998-09-19]
+	15.00		Sunderland	7-0	Oxford
+	15.00		Swindon	1-4	Watford
+[1998-09-20]
+	15.00		West Brom	0-2	Bradford
+[1998-09-25]
+	15.00		Tranmere	0-0	Swindon
+[1998-09-26]
+	15.00		Bolton	3-0	Huddersfield
+	15.00		Bradford	2-1	Barnsley
+	15.00		Bristol City	5-2	Crewe
+	15.00		Grimsby	2-2	Port Vale
+	15.00		Norwich	2-0	Birmingham
+	15.00		Oxford	4-1	QPR
+	15.00		Portsmouth	1-1	Sunderland
+	15.00		Stockport	2-2	West Brom
+
+Matchday 10
+
+[1998-09-26]
+	15.00		Watford	1-0	Ipswich
+	15.00		Wolves	1-0	Bury
+[1998-09-27]
+	15.00		Crystal Palace	1-0	Sheffield United
+[1998-09-29]
+	15.00		Bolton	2-1	Swindon
+	15.00		Bradford	4-0	Port Vale
+	15.00		Bristol City	1-1	Barnsley
+	15.00		Grimsby	1-1	Crewe
+	15.00		Norwich	2-2	Sunderland
+	15.00		Oxford	3-0	West Brom
+	15.00		Portsmouth	0-1	Birmingham
+	15.00		Stockport	1-1	Huddersfield
+	15.00		Tranmere	0-2	Ipswich
+
+Matchday 11
+
+[1998-09-29]
+	15.00		Watford	1-1	Sheffield United
+	15.00		Wolves	1-2	QPR
+[1998-09-30]
+	15.00		Crystal Palace	4-2	Bury
+[1998-10-03]
+	15.00		Barnsley	2-2	Bolton
+	15.00		Birmingham	2-2	Tranmere
+	15.00		Bury	0-1	Bristol City
+	15.00		Crewe	0-0	Wolves
+	15.00		Huddersfield	2-0	Oxford
+	15.00		Ipswich	3-0	Crystal Palace
+	15.00		Port Vale	1-0	Norwich
+	15.00		QPR	1-2	Grimsby
+	15.00		Sheffield United	2-1	Portsmouth
+
+Matchday 12
+
+[1998-10-03]
+	15.00		Sunderland	0-0	Bradford
+	15.00		Swindon	2-3	Stockport
+[1998-10-04]
+	15.00		West Brom	4-1	Watford
+[1998-10-09]
+	15.00		Bradford	3-0	Bury
+	15.00		Swindon	3-0	Huddersfield
+[1998-10-10]
+	15.00		Bristol City	2-2	Portsmouth
+	15.00		Oxford	1-2	Tranmere
+	15.00		Watford	1-1	Birmingham
+[1998-10-11]
+	15.00		Barnsley	0-2	Port Vale
+[1998-10-17]
+	15.00		Birmingham	3-1	Crewe
+	15.00		Bolton	1-1	Oxford
+	15.00		Bury	1-1	Stockport
+
+Matchday 13
+
+[1998-10-17]
+	15.00		Crystal Palace	5-1	Norwich
+	15.00		Grimsby	2-0	Bradford
+	15.00		Huddersfield	2-0	QPR
+	15.00		Ipswich	1-0	Swindon
+	15.00		Port Vale	3-2	Bristol City
+	15.00		Portsmouth	1-0	Wolves
+	15.00		Sheffield United	1-1	Barnsley
+	15.00		Tranmere	3-2	Watford
+[1998-10-18]
+	15.00		West Brom	2-3	Sunderland
+[1998-10-20]
+	15.00		Birmingham	1-1	Swindon
+	15.00		Bolton	1-2	Watford
+	15.00		Bury	1-0	Oxford
+
+Matchday 14
+
+[1998-10-20]
+	15.00		Crystal Palace	3-2	Wolves
+	15.00		Grimsby	2-1	Bristol City
+	15.00		Ipswich	0-1	Norwich
+	15.00		Port Vale	1-0	Crewe
+	15.00		Portsmouth	2-4	Bradford
+	15.00		Sheffield United	1-1	Stockport
+	15.00		Tranmere	3-0	Barnsley
+[1998-10-21]
+	15.00		Huddersfield	1-1	Sunderland
+	15.00		West Brom	2-0	QPR
+[1998-10-23]
+	15.00		Bristol City	2-1	Bolton
+[1998-10-24]
+	15.00		Barnsley	2-1	Portsmouth
+	15.00		Crewe	1-4	Tranmere
+
+Matchday 15
+
+[1998-10-24]
+	15.00		Norwich	4-1	Huddersfield
+	15.00		Oxford	0-2	Sheffield United
+	15.00		Stockport	0-1	Ipswich
+	15.00		Sunderland	1-0	Bury
+	15.00		Swindon	2-2	West Brom
+	15.00		Watford	2-2	Port Vale
+	15.00		Wolves	2-0	Grimsby
+[1998-10-25]
+	15.00		QPR	0-1	Birmingham
+[1998-10-31]
+	15.00		Birmingham	1-1	Huddersfield
+	15.00		Bradford	5-0	Bristol City
+	15.00		Bury	1-3	Watford
+	15.00		Grimsby	2-0	Crystal Palace
+
+Matchday 16
+
+[1998-10-31]
+	15.00		Ipswich	2-0	West Brom
+	15.00		Oxford	1-1	Crewe
+	15.00		Port Vale	2-3	Sheffield United
+	15.00		Swindon	3-1	QPR
+	15.00		Tranmere	1-1	Stockport
+	15.00		Wolves	1-1	Barnsley
+[1998-11-01]
+	15.00		Bolton	0-3	Sunderland
+[1998-11-03]
+	15.00		Crewe	1-4	Sunderland
+	15.00		Ipswich	2-0	Wolves
+	15.00		Watford	1-1	Norwich
+	15.00		West Brom	3-2	Crystal Palace
+[1998-11-04]
+	15.00		Bolton	3-1	Port Vale
+
+Matchday 17
+
+[1998-11-04]
+	15.00		QPR	2-1	Barnsley
+[1998-11-07]
+	15.00		Barnsley	1-1	Bury
+	15.00		Bristol City	1-6	Wolves
+	15.00		Crewe	0-2	Swindon
+	15.00		Crystal Palace	4-1	Portsmouth
+	15.00		Huddersfield	2-2	Ipswich
+	15.00		Norwich	2-2	Bradford
+	15.00		QPR	2-0	Bolton
+	15.00		Sheffield United	2-2	Tranmere
+	15.00		Sunderland	3-1	Grimsby
+	15.00		Watford	2-0	Oxford
+	15.00		West Brom	1-3	Birmingham
+
+Matchday 18
+
+[1998-11-08]
+	15.00		Stockport	4-2	Port Vale
+[1998-11-10]
+	15.00		Portsmouth	1-2	Norwich
+	15.00		Tranmere	0-1	Bradford
+	15.00		Wolves	2-1	Sheffield United
+[1998-11-14]
+	15.00		Barnsley	0-1	Ipswich
+	15.00		Birmingham	0-1	Oxford
+	15.00		Bolton	2-2	Tranmere
+	15.00		Bradford	3-0	Swindon
+	15.00		Crewe	0-2	QPR
+	15.00		Crystal Palace	2-1	Bristol City
+	15.00		Grimsby	1-1	Portsmouth
+	15.00		Norwich	0-0	Wolves
+
+Matchday 19
+
+[1998-11-14]
+	15.00		Port Vale	0-2	Sunderland
+	15.00		Sheffield United	3-1	Bury
+	15.00		Stockport	1-1	Watford
+	15.00		West Brom	3-1	Huddersfield
+[1998-11-21]
+	15.00		Bristol City	1-1	Stockport
+	15.00		Bury	1-0	Grimsby
+	15.00		Huddersfield	2-1	Bradford
+	15.00		Ipswich	0-1	Bolton
+	15.00		Oxford	2-1	Port Vale
+	15.00		Portsmouth	2-1	West Brom
+	15.00		QPR	1-2	Sheffield United
+	15.00		Sunderland	2-3	Barnsley
+
+Matchday 20
+
+[1998-11-21]
+	15.00		Swindon	2-0	Crystal Palace
+	15.00		Tranmere	1-3	Norwich
+	15.00		Watford	4-2	Crewe
+[1998-11-22]
+	15.00		Wolves	3-1	Birmingham
+[1998-11-24]
+	15.00		Stockport	0-1	Bolton
+[1998-11-27]
+	15.00		Barnsley	7-1	Huddersfield
+[1998-11-28]
+	15.00		Birmingham	4-2	Bristol City
+	15.00		Bolton	4-0	Bury
+	15.00		Bradford	0-3	QPR
+	15.00		Crewe	0-3	Ipswich
+	15.00		Crystal Palace	2-2	Watford
+	15.00		Grimsby	1-0	Swindon
+
+Matchday 21
+
+[1998-11-28]
+	15.00		Port Vale	2-2	Tranmere
+	15.00		Sheffield United	0-4	Sunderland
+	15.00		Stockport	2-0	Portsmouth
+[1998-11-29]
+	15.00		Norwich	1-3	Oxford
+	15.00		West Brom	2-0	Wolves
+[1998-12-02]
+	15.00		Norwich	3-1	Grimsby
+	15.00		QPR	1-1	Ipswich
+[1998-12-05]
+	15.00		Bristol City	2-0	Sheffield United
+	15.00		Bury	2-0	West Brom
+	15.00		Huddersfield	4-0	Crystal Palace
+	15.00		Ipswich	1-0	Birmingham
+	15.00		Oxford	0-1	Bradford
+
+Matchday 22
+
+[1998-12-05]
+	15.00		Portsmouth	2-0	Crewe
+	15.00		QPR	3-2	Port Vale
+	15.00		Sunderland	1-0	Stockport
+	15.00		Swindon	1-1	Norwich
+	15.00		Tranmere	1-2	Grimsby
+	15.00		Watford	0-0	Barnsley
+	15.00		Wolves	1-1	Bolton
+[1998-12-08]
+	15.00		Crewe	1-1	West Brom
+	15.00		Crystal Palace	1-1	Tranmere
+[1998-12-11]
+	15.00		Bury	3-3	Sheffield United
+[1998-12-12]
+	15.00		Bristol City	1-1	Crystal Palace
+	15.00		Huddersfield	0-3	West Brom
+
+Matchday 23
+
+[1998-12-12]
+	15.00		Ipswich	0-2	Barnsley
+	15.00		Oxford	1-7	Birmingham
+	15.00		QPR	0-1	Crewe
+	15.00		Sunderland	2-0	Port Vale
+	15.00		Swindon	1-4	Bradford
+	15.00		Tranmere	1-1	Bolton
+	15.00		Watford	4-2	Stockport
+	15.00		Wolves	2-2	Norwich
+[1998-12-13]
+	15.00		Portsmouth	0-1	Grimsby
+[1998-12-15]
+	15.00		Sunderland	2-0	Crystal Palace
+[1998-12-19]
+	15.00		Barnsley	1-3	Swindon
+	15.00		Birmingham	0-0	Sunderland
+
+Matchday 24
+
+[1998-12-19]
+	15.00		Bolton	3-1	Portsmouth
+	15.00		Bradford	2-1	Wolves
+	15.00		Crewe	1-2	Huddersfield
+	15.00		Crystal Palace	1-1	QPR
+	15.00		Grimsby	2-1	Watford
+	15.00		Norwich	2-1	Bristol City
+	15.00		Port Vale	1-0	Bury
+	15.00		Stockport	2-0	Oxford
+	15.00		West Brom	0-2	Tranmere
+[1998-12-20]
+	15.00		Sheffield United	1-2	Ipswich
+[1998-12-26]
+	15.00		Birmingham	1-0	Sheffield United
+	15.00		Bolton	0-0	Bradford
+
+Matchday 25
+
+[1998-12-26]
+	15.00		Crewe	3-1	Bury
+	15.00		Huddersfield	2-0	Grimsby
+	15.00		Ipswich	3-0	Portsmouth
+	15.00		Oxford	1-3	Crystal Palace
+	15.00		QPR	2-0	Norwich
+	15.00		Stockport	0-1	Barnsley
+	15.00		Swindon	1-0	Wolves
+	15.00		Tranmere	1-0	Sunderland
+	15.00		Watford	1-0	Bristol City
+	15.00		West Brom	3-2	Port Vale
+[1998-12-28]
+	15.00		Barnsley	1-0	QPR
+	15.00		Bradford	2-0	Tranmere
+
+Matchday 26
+
+[1998-12-28]
+	15.00		Bristol City	3-1	Swindon
+	15.00		Bury	2-4	Birmingham
+	15.00		Crystal Palace	1-1	West Brom
+	15.00		Grimsby	1-0	Stockport
+	15.00		Port Vale	0-2	Bolton
+	15.00		Portsmouth	2-2	Oxford
+	15.00		Sheffield United	2-1	Huddersfield
+	15.00		Sunderland	2-0	Crewe
+	15.00		Wolves	1-0	Ipswich
+[1998-12-29]
+	15.00		Norwich	1-1	Watford
+[1999-01-08]
+	15.00		Tranmere	1-2	Wolves
+[1999-01-09]
+	15.00		Birmingham	1-0	Port Vale
+
+Matchday 27
+
+[1999-01-09]
+	15.00		Crewe	3-2	Norwich
+	15.00		Huddersfield	2-2	Bury
+	15.00		Ipswich	0-1	Grimsby
+	15.00		Oxford	0-0	Bristol City
+	15.00		QPR	2-2	Sunderland
+	15.00		Stockport	1-2	Bradford
+	15.00		Swindon	2-2	Sheffield United
+	15.00		Watford	0-0	Portsmouth
+	15.00		West Brom	2-0	Barnsley
+[1999-01-10]
+	15.00		Bolton	3-0	Crystal Palace
+[1999-01-16]
+	15.00		Barnsley	0-0	Birmingham
+	15.00		Bradford	4-1	Crewe
+
+Matchday 28
+
+[1999-01-16]
+	15.00		Bristol City	1-1	Tranmere
+	15.00		Bury	1-1	QPR
+	15.00		Crystal Palace	2-2	Stockport
+	15.00		Grimsby	1-0	Oxford
+	15.00		Norwich	1-1	West Brom
+	15.00		Port Vale	0-1	Swindon
+	15.00		Portsmouth	1-0	Huddersfield
+	15.00		Sheffield United	1-2	Bolton
+	15.00		Wolves	0-0	Watford
+[1999-01-17]
+	15.00		Sunderland	2-1	Ipswich
+[1999-01-19]
+	15.00		Bradford	2-1	Crystal Palace
+[1999-01-23]
+	15.00		Watford	0-2	West Brom
+
+Matchday 29
+
+[1999-01-30]
+	15.00		Bolton	2-0	Norwich
+	15.00		Crewe	1-2	Sheffield United
+	15.00		Huddersfield	2-2	Bristol City
+	15.00		Ipswich	1-0	Port Vale
+	15.00		Oxford	1-0	Barnsley
+	15.00		QPR	1-1	Portsmouth
+	15.00		Stockport	1-2	Wolves
+	15.00		Swindon	1-1	Bury
+	15.00		Tranmere	3-1	Crystal Palace
+	15.00		Watford	2-1	Sunderland
+	15.00		West Brom	1-1	Grimsby
+[1999-01-31]
+	15.00		Birmingham	2-1	Bradford
+
+Matchday 30
+
+[1999-02-05]
+	15.00		Bristol City	0-0	QPR
+[1999-02-06]
+	15.00		Barnsley	2-2	Crewe
+	15.00		Bradford	2-0	Watford
+	15.00		Bury	0-3	Ipswich
+	15.00		Crystal Palace	1-1	Birmingham
+	15.00		Grimsby	0-1	Bolton
+	15.00		Norwich	0-2	Stockport
+	15.00		Port Vale	2-0	Huddersfield
+	15.00		Portsmouth	1-1	Tranmere
+	15.00		Sheffield United	3-0	West Brom
+	15.00		Sunderland	2-0	Swindon
+	15.00		Wolves	1-1	Oxford
+
+Matchday 31
+
+[1999-02-13]
+	15.00		Bolton	2-1	West Brom
+	15.00		Bradford	0-0	Ipswich
+	15.00		Bristol City	0-1	Sunderland
+	15.00		Crystal Palace	1-1	Crewe
+	15.00		Oxford	2-0	Swindon
+	15.00		Portsmouth	2-1	Bury
+	15.00		Stockport	1-0	Birmingham
+	15.00		Tranmere	3-2	QPR
+	15.00		Wolves	3-1	Port Vale
+[1999-02-16]
+	15.00		Norwich	0-0	Barnsley
+	15.00		Watford	1-1	Huddersfield
+[1999-02-19]
+	15.00		Sheffield United	2-2	Bradford
+
+Matchday 32
+
+[1999-02-20]
+	15.00		Barnsley	0-0	Grimsby
+	15.00		Bury	0-2	Norwich
+	15.00		Crewe	0-2	Stockport
+	15.00		Huddersfield	0-0	Tranmere
+	15.00		Ipswich	2-1	Oxford
+	15.00		Port Vale	1-0	Crystal Palace
+	15.00		QPR	1-2	Watford
+	15.00		Sunderland	2-1	Wolves
+	15.00		Swindon	3-3	Portsmouth
+	15.00		West Brom	2-2	Bristol City
+[1999-02-21]
+	15.00		Birmingham	0-0	Bolton
+[1999-02-26]
+	15.00		Watford	0-1	Swindon
+
+Matchday 33
+
+[1999-02-27]
+	15.00		Bolton	1-3	Crewe
+	15.00		Bradford	1-0	West Brom
+	15.00		Bristol City	0-1	Ipswich
+	15.00		Grimsby	0-3	Birmingham
+	15.00		Norwich	1-1	Sheffield United
+	15.00		Oxford	0-0	Sunderland
+	15.00		Portsmouth	4-0	Port Vale
+	15.00		Stockport	0-0	QPR
+	15.00		Tranmere	4-0	Bury
+	15.00		Wolves	2-2	Huddersfield
+[1999-02-28]
+	15.00		Crystal Palace	1-0	Barnsley
+[1999-03-02]
+	15.00		Birmingham	0-0	Norwich
+
+Matchday 34
+
+[1999-03-02]
+	15.00		Huddersfield	3-2	Bolton
+	15.00		Ipswich	3-2	Watford
+	15.00		Sheffield United	1-1	Crystal Palace
+	15.00		Sunderland	2-0	Portsmouth
+	15.00		West Brom	3-1	Stockport
+[1999-03-03]
+	15.00		Barnsley	0-1	Bradford
+	15.00		QPR	1-0	Oxford
+	15.00		Swindon	2-3	Tranmere
+[1999-03-06]
+	15.00		Birmingham	4-1	Portsmouth
+	15.00		Bury	0-0	Crystal Palace
+	15.00		Huddersfield	3-0	Stockport
+	15.00		Ipswich	1-0	Tranmere
+
+Matchday 35
+
+[1999-03-06]
+	15.00		QPR	0-1	Wolves
+	15.00		Sheffield United	3-0	Watford
+	15.00		Sunderland	1-0	Norwich
+	15.00		Swindon	3-3	Bolton
+	15.00		West Brom	2-0	Oxford
+[1999-03-09]
+	15.00		Bolton	3-3	Barnsley
+	15.00		Bradford	0-1	Sunderland
+	15.00		Bristol City	1-1	Bury
+	15.00		Crystal Palace	3-2	Ipswich
+	15.00		Norwich	3-4	Port Vale
+	15.00		Oxford	2-2	Huddersfield
+	15.00		Portsmouth	1-0	Sheffield United
+
+Matchday 36
+
+[1999-03-09]
+	15.00		Stockport	2-1	Swindon
+	15.00		Tranmere	0-1	Birmingham
+[1999-03-13]
+	15.00		Birmingham	4-0	West Brom
+	15.00		Bolton	2-1	QPR
+	15.00		Bradford	4-1	Norwich
+	15.00		Bury	0-0	Barnsley
+	15.00		Grimsby	0-2	Sunderland
+	15.00		Ipswich	3-0	Huddersfield
+	15.00		Oxford	0-0	Watford
+	15.00		Port Vale	1-1	Stockport
+	15.00		Portsmouth	1-1	Crystal Palace
+	15.00		Swindon	1-2	Crewe
+
+Matchday 37
+
+[1999-03-13]
+	15.00		Tranmere	2-3	Sheffield United
+	15.00		Wolves	3-0	Bristol City
+[1999-03-16]
+	15.00		Bury	0-0	Wolves
+	15.00		Crewe	0-0	Grimsby
+[1999-03-20]
+	15.00		Barnsley	2-3	Wolves
+	15.00		Bristol City	2-3	Bradford
+	15.00		Crewe	3-1	Oxford
+	15.00		Crystal Palace	3-1	Grimsby
+	15.00		Huddersfield	1-1	Birmingham
+	15.00		Norwich	0-0	Portsmouth
+	15.00		QPR	4-0	Swindon
+	15.00		Sheffield United	3-0	Port Vale
+
+Matchday 38
+
+[1999-03-20]
+	15.00		Stockport	0-0	Tranmere
+	15.00		Sunderland	3-1	Bolton
+	15.00		Watford	0-0	Bury
+	15.00		West Brom	0-1	Ipswich
+[1999-03-23]
+	15.00		Barnsley	2-0	Bristol City
+	15.00		Port Vale	0-1	Grimsby
+[1999-03-24]
+	15.00		Huddersfield	1-1	Norwich
+[1999-03-26]
+	15.00		Sheffield United	1-2	Oxford
+	15.00		Tranmere	3-0	Crewe
+[1999-03-28]
+	15.00		Crystal Palace	1-0	Bradford
+	15.00		Portsmouth	1-3	Barnsley
+[1999-03-30]
+	15.00		Wolves	3-0	Crewe
+
+Matchday 39
+
+[1999-04-02]
+	15.00		Crewe	0-0	Birmingham
+[1999-04-03]
+	15.00		Barnsley	2-1	Sheffield United
+	15.00		Bradford	3-0	Grimsby
+	15.00		Bristol City	2-0	Port Vale
+	15.00		Norwich	0-1	Crystal Palace
+	15.00		Oxford	0-0	Bolton
+	15.00		QPR	1-1	Huddersfield
+	15.00		Stockport	0-0	Bury
+	15.00		Sunderland	3-0	West Brom
+	15.00		Swindon	0-6	Ipswich
+	15.00		Watford	2-1	Tranmere
+	15.00		Wolves	2-0	Portsmouth
+
+Matchday 40
+
+[1999-04-05]
+	15.00		Birmingham	1-2	Watford
+	15.00		Bolton	1-2	Stockport
+	15.00		Bury	0-2	Bradford
+	15.00		Crystal Palace	1-1	Sunderland
+	15.00		Grimsby	0-1	Norwich
+	15.00		Huddersfield	1-2	Swindon
+	15.00		Ipswich	3-1	QPR
+	15.00		Port Vale	1-0	Barnsley
+	15.00		Portsmouth	0-1	Bristol City
+	15.00		Sheffield United	1-1	Wolves
+	15.00		Tranmere	2-2	Oxford
+	15.00		West Brom	1-5	Crewe
+
+Matchday 41
+
+[1999-04-10]
+	15.00		Barnsley	1-1	Tranmere
+	15.00		Bradford	2-1	Portsmouth
+	15.00		Bristol City	4-1	Grimsby
+	15.00		Crewe	0-0	Port Vale
+	15.00		Oxford	0-1	Bury
+	15.00		QPR	2-1	West Brom
+	15.00		Stockport	1-0	Sheffield United
+	15.00		Sunderland	2-0	Huddersfield
+	15.00		Swindon	0-1	Birmingham
+	15.00		Watford	2-0	Bolton
+	15.00		Wolves	0-0	Crystal Palace
+[1999-04-11]
+	15.00		Norwich	0-0	Ipswich
+
+Matchday 42
+
+[1999-04-13]
+	15.00		Bolton	1-0	Bristol City
+	15.00		Bury	2-5	Sunderland
+	15.00		Grimsby	1-0	QPR
+	15.00		Port Vale	1-1	Bradford
+	15.00		West Brom	1-1	Swindon
+[1999-04-16]
+	15.00		Barnsley	1-3	Sunderland
+[1999-04-17]
+	15.00		Birmingham	0-1	Wolves
+	15.00		Bolton	2-0	Ipswich
+	15.00		Bradford	2-3	Huddersfield
+	15.00		Crewe	0-1	Watford
+	15.00		Crystal Palace	0-1	Swindon
+	15.00		Grimsby	0-0	Bury
+
+Matchday 43
+
+[1999-04-17]
+	15.00		Norwich	2-2	Tranmere
+	15.00		Port Vale	1-0	Oxford
+	15.00		Sheffield United	2-0	QPR
+	15.00		Stockport	2-2	Bristol City
+	15.00		West Brom	2-2	Portsmouth
+[1999-04-20]
+	15.00		Birmingham	1-0	QPR
+	15.00		Grimsby	1-2	Sheffield United
+	15.00		Ipswich	1-0	Stockport
+	15.00		Norwich	2-2	Bolton
+[1999-04-23]
+	15.00		Bury	2-1	Bolton
+[1999-04-24]
+	15.00		Bristol City	1-2	Birmingham
+	15.00		Huddersfield	0-1	Barnsley
+
+Matchday 44
+
+[1999-04-24]
+	15.00		Ipswich	1-2	Crewe
+	15.00		Oxford	2-4	Norwich
+	15.00		Portsmouth	3-1	Stockport
+	15.00		QPR	1-3	Bradford
+	15.00		Sunderland	0-0	Sheffield United
+	15.00		Swindon	2-0	Grimsby
+	15.00		Tranmere	1-1	Port Vale
+	15.00		Watford	2-1	Crystal Palace
+[1999-04-25]
+	15.00		Wolves	1-1	West Brom
+[1999-04-27]
+	15.00		Crewe	1-0	Bristol City
+	15.00		Port Vale	1-2	Watford
+[1999-04-30]
+	15.00		Bolton	1-1	Wolves
+
+Matchday 45
+
+[1999-05-01]
+	15.00		Barnsley	2-2	Watford
+	15.00		Bradford	0-0	Oxford
+	15.00		Crewe	3-1	Portsmouth
+	15.00		Crystal Palace	2-2	Huddersfield
+	15.00		Grimsby	1-0	Tranmere
+	15.00		Norwich	2-1	Swindon
+	15.00		Port Vale	2-0	QPR
+	15.00		Sheffield United	3-1	Bristol City
+	15.00		Stockport	0-1	Sunderland
+	15.00		West Brom	1-0	Bury
+[1999-05-02]
+	15.00		Birmingham	1-0	Ipswich
+[1999-05-04]
+	15.00		Grimsby	0-0	Wolves
+
+Matchday 46
+
+[1999-05-09]
+	15.00		Bristol City	1-0	Norwich
+	15.00		Bury	1-0	Port Vale
+	15.00		Huddersfield	0-0	Crewe
+	15.00		Ipswich	4-1	Sheffield United
+	15.00		Oxford	5-0	Stockport
+	15.00		Portsmouth	0-2	Bolton
+	15.00		QPR	6-0	Crystal Palace
+	15.00		Sunderland	2-1	Birmingham
+	15.00		Swindon	1-3	Barnsley
+	15.00		Tranmere	3-1	West Brom
+	15.00		Watford	1-0	Grimsby
+	15.00		Wolves	2-3	Bradford
+

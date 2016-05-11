@@ -1,0 +1,36 @@
+############################
+# Premier League 2011-2012
+
+league: en
+season: 2011/12
+start_at: 1911-08-05
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Blackpool
+- Brighton
+- Bristol City
+- Burnley
+- Cardiff
+- Coventry
+- Crystal Palace
+- Derby
+- Doncaster
+- Hull
+- Ipswich
+- Leeds
+- Leicester
+- Middlesbrough
+- Millwall
+- Nott'm Forest
+- Peterboro
+- Portsmouth
+- Reading
+- Southampton
+- Watford
+- West Ham
+

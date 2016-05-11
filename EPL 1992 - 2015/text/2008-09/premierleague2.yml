@@ -1,0 +1,36 @@
+############################
+# Premier League 2008-2009
+
+league: en
+season: 2008/09
+start_at: 1908-08-09
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Brighton
+- Bristol Rvs
+- Carlisle
+- Cheltenham
+- Colchester
+- Crewe
+- Hartlepool
+- Hereford
+- Huddersfield
+- Leeds
+- Leicester
+- Leyton Orient
+- Millwall
+- Milton Keynes Dons
+- Northampton
+- Oldham
+- Peterboro
+- Scunthorpe
+- Southend
+- Stockport
+- Swindon
+- Tranmere
+- Walsall
+- Yeovil
+

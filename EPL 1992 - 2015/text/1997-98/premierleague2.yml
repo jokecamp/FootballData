@@ -1,0 +1,36 @@
+############################
+# Premier League 1997-1998
+
+league: en
+season: 1997/98
+start_at: 1997-08-09
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Brentford
+- Bristol City
+- Bristol Rvs
+- Burnley
+- Carlisle
+- Chesterfield
+- Fulham
+- Gillingham
+- Grimsby
+- Luton
+- Millwall
+- Northampton
+- Oldham
+- Plymouth
+- Preston
+- Southend
+- Walsall
+- Watford
+- Wigan
+- Wrexham
+- Wycombe
+- York
+

@@ -1,0 +1,36 @@
+############################
+# Premier League 2006-2007
+
+league: en
+season: 2006/07
+start_at: 1906-08-05
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Brighton
+- Bristol City
+- Carlisle
+- Cheltenham
+- Chesterfield
+- Crewe
+- Doncaster
+- Gillingham
+- Huddersfield
+- Leyton Orient
+- Millwall
+- Northampton
+- Nott'm Forest
+- Oldham
+- Port Vale
+- Rotherham
+- Scunthorpe
+- Swansea
+- Tranmere
+- Yeovil
+

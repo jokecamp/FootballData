@@ -1,0 +1,32 @@
+############################
+# Premier League 2004-2005
+
+league: en
+season: 2004/05
+start_at: 1904-08-14
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Crystal Palace
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Norwich
+- Portsmouth
+- Southampton
+- Tottenham
+- West Brom
+

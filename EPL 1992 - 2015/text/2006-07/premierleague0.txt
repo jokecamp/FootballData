@@ -1,0 +1,627 @@
+############################
+# Premier League 2006-2007
+
+Matchday 1
+
+[1906-08-19]
+	15.00		Arsenal	1-1	Aston Villa
+	15.00		Bolton	2-0	Tottenham
+	15.00		Everton	2-1	Watford
+	15.00		Newcastle	2-1	Wigan
+	15.00		Portsmouth	3-0	Blackburn
+	15.00		Reading	3-2	Middlesbrough
+	15.00		Sheffield United	1-1	Liverpool
+	15.00		West Ham	3-1	Charlton
+[1906-08-20]
+	15.00		Chelsea	3-0	Man City
+	15.00		Man United	5-1	Fulham
+
+Matchday 2
+
+[1906-08-22]
+	15.00		Tottenham	2-0	Sheffield United
+	15.00		Watford	1-1	West Ham
+[1906-08-23]
+	15.00		Aston Villa	2-1	Reading
+	15.00		Blackburn	1-1	Everton
+	15.00		Charlton	0-3	Man United
+	15.00		Fulham	1-1	Bolton
+	15.00		Man City	0-0	Portsmouth
+	15.00		Middlesbrough	2-1	Chelsea
+[1906-08-26]
+	15.00		Charlton	2-0	Bolton
+	15.00		Fulham	1-0	Sheffield United
+
+Matchday 3
+
+[1906-08-26]
+	15.00		Liverpool	2-1	West Ham
+	15.00		Man City	1-0	Arsenal
+	15.00		Tottenham	0-2	Everton
+	15.00		Watford	1-2	Man United
+	15.00		Wigan	1-0	Reading
+[1906-08-27]
+	15.00		Aston Villa	2-0	Newcastle
+	15.00		Blackburn	0-2	Chelsea
+[1906-08-28]
+	15.00		Middlesbrough	0-4	Portsmouth
+[1906-09-09]
+	15.00		Arsenal	1-1	Middlesbrough
+	15.00		Bolton	1-0	Watford
+
+Matchday 4
+
+[1906-09-09]
+	15.00		Chelsea	2-1	Charlton
+	15.00		Everton	3-0	Liverpool
+	15.00		Man United	1-0	Tottenham
+	15.00		Newcastle	1-2	Fulham
+	15.00		Portsmouth	1-0	Wigan
+	15.00		Sheffield United	0-0	Blackburn
+[1906-09-10]
+	15.00		West Ham	1-1	Aston Villa
+[1906-09-11]
+	15.00		Reading	1-0	Man City
+[1906-09-16]
+	15.00		Bolton	0-0	Middlesbrough
+	15.00		Charlton	0-1	Portsmouth
+
+Matchday 5
+
+[1906-09-16]
+	15.00		Everton	2-2	Wigan
+	15.00		Sheffield United	1-2	Reading
+	15.00		Watford	0-0	Aston Villa
+[1906-09-17]
+	15.00		Blackburn	4-2	Man City
+	15.00		Chelsea	1-0	Liverpool
+	15.00		Man United	0-1	Arsenal
+	15.00		Tottenham	0-0	Fulham
+	15.00		West Ham	0-2	Newcastle
+[1906-09-20]
+	15.00		Liverpool	2-0	Newcastle
+[1906-09-23]
+	15.00		Arsenal	3-0	Sheffield United
+
+Matchday 6
+
+[1906-09-23]
+	15.00		Aston Villa	2-0	Charlton
+	15.00		Fulham	0-2	Chelsea
+	15.00		Liverpool	3-0	Tottenham
+	15.00		Man City	2-0	West Ham
+	15.00		Middlesbrough	0-1	Blackburn
+	15.00		Reading	1-1	Man United
+	15.00		Wigan	1-1	Watford
+[1906-09-24]
+	15.00		Newcastle	1-1	Everton
+[1906-09-25]
+	15.00		Portsmouth	0-1	Bolton
+[1906-09-30]
+	15.00		Bolton	2-0	Liverpool
+
+Matchday 7
+
+[1906-09-30]
+	15.00		Charlton	1-2	Arsenal
+	15.00		Chelsea	1-1	Aston Villa
+	15.00		Everton	1-1	Man City
+	15.00		Sheffield United	2-1	Middlesbrough
+[1906-10-01]
+	15.00		Blackburn	2-1	Wigan
+	15.00		Man United	2-0	Newcastle
+	15.00		Tottenham	2-1	Portsmouth
+	15.00		West Ham	0-1	Reading
+[1906-10-02]
+	15.00		Watford	3-3	Fulham
+[1906-10-14]
+	15.00		Arsenal	3-0	Watford
+
+Matchday 8
+
+[1906-10-14]
+	15.00		Aston Villa	1-1	Tottenham
+	15.00		Liverpool	1-1	Blackburn
+	15.00		Man City	0-0	Sheffield United
+	15.00		Middlesbrough	2-1	Everton
+	15.00		Portsmouth	2-0	West Ham
+	15.00		Reading	0-1	Chelsea
+	15.00		Wigan	1-3	Man United
+[1906-10-15]
+	15.00		Newcastle	1-2	Bolton
+[1906-10-16]
+	15.00		Fulham	2-1	Charlton
+[1906-10-21]
+	15.00		Aston Villa	1-1	Fulham
+
+Matchday 9
+
+[1906-10-21]
+	15.00		Charlton	0-0	Watford
+	15.00		Chelsea	2-1	Portsmouth
+	15.00		Everton	2-0	Sheffield United
+	15.00		Wigan	4-0	Man City
+[1906-10-22]
+	15.00		Blackburn	0-1	Bolton
+	15.00		Man United	2-0	Liverpool
+	15.00		Middlesbrough	1-0	Newcastle
+	15.00		Reading	0-4	Arsenal
+	15.00		Tottenham	1-0	West Ham
+[1906-10-28]
+	15.00		Arsenal	1-1	Everton
+
+Matchday 10
+
+[1906-10-28]
+	15.00		Bolton	0-4	Man United
+	15.00		Fulham	0-1	Wigan
+	15.00		Liverpool	3-1	Aston Villa
+	15.00		Newcastle	0-0	Charlton
+	15.00		Portsmouth	3-1	Reading
+	15.00		Sheffield United	0-2	Chelsea
+	15.00		Watford	0-0	Tottenham
+[1906-10-29]
+	15.00		West Ham	2-1	Blackburn
+[1906-10-30]
+	15.00		Man City	1-0	Middlesbrough
+[1906-11-04]
+	15.00		Bolton	0-1	Wigan
+
+Matchday 11
+
+[1906-11-04]
+	15.00		Charlton	1-0	Man City
+	15.00		Fulham	1-0	Everton
+	15.00		Liverpool	2-0	Reading
+	15.00		Man United	3-0	Portsmouth
+	15.00		Newcastle	0-1	Sheffield United
+	15.00		Watford	2-0	Middlesbrough
+[1906-11-05]
+	15.00		Aston Villa	2-0	Blackburn
+	15.00		Tottenham	2-1	Chelsea
+	15.00		West Ham	1-0	Arsenal
+[1906-11-11]
+	15.00		Blackburn	0-1	Man United
+
+Matchday 12
+
+[1906-11-11]
+	15.00		Chelsea	4-0	Watford
+	15.00		Everton	0-1	Aston Villa
+	15.00		Man City	0-0	Newcastle
+	15.00		Middlesbrough	1-0	West Ham
+	15.00		Portsmouth	1-1	Fulham
+	15.00		Sheffield United	2-2	Bolton
+	15.00		Wigan	3-2	Charlton
+[1906-11-12]
+	15.00		Arsenal	3-0	Liverpool
+	15.00		Reading	3-1	Tottenham
+[1906-11-18]
+	15.00		Arsenal	1-1	Newcastle
+
+Matchday 13
+
+[1906-11-18]
+	15.00		Chelsea	1-0	West Ham
+	15.00		Everton	1-0	Bolton
+	15.00		Man City	3-1	Fulham
+	15.00		Middlesbrough	0-0	Liverpool
+	15.00		Portsmouth	2-1	Watford
+	15.00		Reading	2-0	Charlton
+	15.00		Sheffield United	1-2	Man United
+[1906-11-19]
+	15.00		Blackburn	1-1	Tottenham
+	15.00		Wigan	0-0	Aston Villa
+[1906-11-25]
+	15.00		Aston Villa	1-1	Middlesbrough
+
+Matchday 14
+
+[1906-11-25]
+	15.00		Bolton	3-1	Arsenal
+	15.00		Charlton	1-1	Everton
+	15.00		Fulham	0-1	Reading
+	15.00		Liverpool	1-0	Man City
+	15.00		West Ham	1-0	Sheffield United
+[1906-11-26]
+	15.00		Man United	1-1	Chelsea
+	15.00		Newcastle	1-0	Portsmouth
+	15.00		Tottenham	3-1	Wigan
+[1906-11-28]
+	15.00		Watford	0-1	Sheffield United
+[1906-11-29]
+	15.00		Aston Villa	1-3	Man City
+
+Matchday 15
+
+[1906-11-29]
+	15.00		Bolton	0-1	Chelsea
+	15.00		Fulham	2-1	Arsenal
+	15.00		Liverpool	0-0	Portsmouth
+	15.00		Man United	3-0	Everton
+[1906-12-02]
+	15.00		Arsenal	3-0	Tottenham
+	15.00		Blackburn	2-0	Fulham
+	15.00		Middlesbrough	1-2	Man United
+	15.00		Portsmouth	2-2	Aston Villa
+	15.00		Reading	1-0	Bolton
+	15.00		Sheffield United	2-1	Charlton
+
+Matchday 16
+
+[1906-12-02]
+	15.00		Wigan	0-4	Liverpool
+[1906-12-03]
+	15.00		Everton	2-0	West Ham
+[1906-12-04]
+	15.00		Man City	0-0	Watford
+[1906-12-05]
+	15.00		Charlton	1-0	Blackburn
+	15.00		Tottenham	2-1	Middlesbrough
+[1906-12-06]
+	15.00		Newcastle	3-2	Reading
+	15.00		West Ham	0-2	Wigan
+[1906-12-09]
+	15.00		Blackburn	1-3	Newcastle
+	15.00		Bolton	4-0	West Ham
+	15.00		Liverpool	4-0	Fulham
+
+Matchday 17
+
+[1906-12-09]
+	15.00		Man United	3-1	Man City
+	15.00		Middlesbrough	1-1	Wigan
+	15.00		Portsmouth	2-0	Everton
+	15.00		Tottenham	5-1	Charlton
+	15.00		Watford	0-0	Reading
+[1906-12-10]
+	15.00		Chelsea	1-1	Arsenal
+[1906-12-11]
+	15.00		Sheffield United	2-2	Aston Villa
+[1906-12-13]
+	15.00		Chelsea	1-0	Newcastle
+	15.00		Wigan	0-1	Arsenal
+[1906-12-16]
+	15.00		Arsenal	2-2	Portsmouth
+
+Matchday 18
+
+[1906-12-16]
+	15.00		Aston Villa	0-1	Bolton
+	15.00		Charlton	0-3	Liverpool
+	15.00		Newcastle	2-1	Watford
+	15.00		Reading	1-2	Blackburn
+	15.00		Wigan	0-1	Sheffield United
+[1906-12-17]
+	15.00		Everton	2-3	Chelsea
+	15.00		Man City	1-2	Tottenham
+	15.00		West Ham	1-0	Man United
+[1906-12-18]
+	15.00		Fulham	2-1	Middlesbrough
+[1906-12-23]
+	15.00		Arsenal	6-2	Blackburn
+
+Matchday 19
+
+[1906-12-23]
+	15.00		Aston Villa	0-3	Man United
+	15.00		Fulham	0-0	West Ham
+	15.00		Liverpool	2-0	Watford
+	15.00		Man City	0-2	Bolton
+	15.00		Middlesbrough	2-0	Charlton
+	15.00		Newcastle	3-1	Tottenham
+	15.00		Portsmouth	3-1	Sheffield United
+	15.00		Reading	0-2	Everton
+	15.00		Wigan	2-3	Chelsea
+[1906-12-26]
+	15.00		Blackburn	1-0	Liverpool
+
+Matchday 20
+
+[1906-12-26]
+	15.00		Bolton	2-1	Newcastle
+	15.00		Chelsea	2-2	Reading
+	15.00		Everton	0-0	Middlesbrough
+	15.00		Man United	3-1	Wigan
+	15.00		Sheffield United	0-1	Man City
+	15.00		Tottenham	2-1	Aston Villa
+	15.00		Watford	1-2	Arsenal
+	15.00		West Ham	1-2	Portsmouth
+[1906-12-27]
+	15.00		Charlton	2-2	Fulham
+[1906-12-30]
+	15.00		Blackburn	2-1	Middlesbrough
+
+Matchday 21
+
+[1906-12-30]
+	15.00		Bolton	3-2	Portsmouth
+	15.00		Charlton	2-1	Aston Villa
+	15.00		Chelsea	2-2	Fulham
+	15.00		Everton	3-0	Newcastle
+	15.00		Man United	3-2	Reading
+	15.00		Sheffield United	1-0	Arsenal
+	15.00		Tottenham	0-1	Liverpool
+	15.00		West Ham	0-1	Man City
+[1907-01-01]
+	15.00		Fulham	0-0	Watford
+	15.00		Liverpool	3-0	Bolton
+
+Matchday 22
+
+[1907-01-01]
+	15.00		Man City	2-1	Everton
+	15.00		Middlesbrough	3-1	Sheffield United
+	15.00		Newcastle	2-2	Man United
+	15.00		Portsmouth	1-1	Tottenham
+	15.00		Reading	6-0	West Ham
+	15.00		Wigan	0-3	Blackburn
+[1907-01-02]
+	15.00		Arsenal	4-0	Charlton
+	15.00		Aston Villa	0-0	Chelsea
+[1907-01-13]
+	15.00		Blackburn	0-2	Arsenal
+	15.00		Bolton	0-0	Man City
+
+Matchday 23
+
+[1907-01-13]
+	15.00		Charlton	1-3	Middlesbrough
+	15.00		Chelsea	4-0	Wigan
+	15.00		Man United	3-1	Aston Villa
+	15.00		Sheffield United	1-1	Portsmouth
+	15.00		Watford	0-3	Liverpool
+	15.00		West Ham	3-3	Fulham
+[1907-01-14]
+	15.00		Everton	1-1	Reading
+	15.00		Tottenham	2-3	Newcastle
+[1907-01-20]
+	15.00		Aston Villa	2-0	Watford
+	15.00		Fulham	1-1	Tottenham
+
+Matchday 24
+
+[1907-01-20]
+	15.00		Liverpool	2-0	Chelsea
+	15.00		Man City	0-3	Blackburn
+	15.00		Middlesbrough	5-1	Bolton
+	15.00		Newcastle	2-2	West Ham
+	15.00		Portsmouth	0-1	Charlton
+	15.00		Reading	3-1	Sheffield United
+[1907-01-21]
+	15.00		Arsenal	2-1	Man United
+	15.00		Wigan	0-2	Everton
+[1907-01-23]
+	15.00		Watford	2-1	Blackburn
+[1907-01-30]
+	15.00		Portsmouth	0-0	Middlesbrough
+
+Matchday 25
+
+[1907-01-30]
+	15.00		Reading	3-2	Wigan
+	15.00		Sheffield United	2-0	Fulham
+	15.00		West Ham	1-2	Liverpool
+[1907-01-31]
+	15.00		Bolton	1-1	Charlton
+	15.00		Chelsea	3-0	Blackburn
+	15.00		Man United	4-0	Watford
+	15.00		Newcastle	3-1	Aston Villa
+[1907-02-03]
+	15.00		Aston Villa	1-0	West Ham
+	15.00		Blackburn	2-1	Sheffield United
+	15.00		Charlton	0-1	Chelsea
+
+Matchday 26
+
+[1907-02-03]
+	15.00		Fulham	2-1	Newcastle
+	15.00		Liverpool	0-0	Everton
+	15.00		Man City	0-2	Reading
+	15.00		Middlesbrough	1-1	Arsenal
+	15.00		Watford	0-1	Bolton
+	15.00		Wigan	1-0	Portsmouth
+[1907-02-04]
+	15.00		Tottenham	0-4	Man United
+[1907-02-10]
+	15.00		Chelsea	3-0	Middlesbrough
+	15.00		Everton	1-0	Blackburn
+	15.00		Man United	2-0	Charlton
+
+Matchday 27
+
+[1907-02-10]
+	15.00		Newcastle	2-1	Liverpool
+	15.00		Portsmouth	2-1	Man City
+	15.00		Reading	2-0	Aston Villa
+	15.00		Sheffield United	2-1	Tottenham
+	15.00		West Ham	0-1	Watford
+[1907-02-11]
+	15.00		Arsenal	2-1	Wigan
+	15.00		Bolton	2-1	Fulham
+[1907-02-21]
+	15.00		Everton	1-2	Tottenham
+	15.00		Watford	1-1	Wigan
+[1907-02-24]
+	15.00		Charlton	4-0	West Ham
+
+Matchday 28
+
+[1907-02-24]
+	15.00		Fulham	1-2	Man United
+	15.00		Liverpool	4-0	Sheffield United
+	15.00		Middlesbrough	2-1	Reading
+	15.00		Watford	0-3	Everton
+[1907-02-25]
+	15.00		Blackburn	3-0	Portsmouth
+	15.00		Tottenham	4-1	Bolton
+	15.00		Wigan	1-0	Newcastle
+[1907-03-03]
+	15.00		Arsenal	2-1	Reading
+	15.00		Fulham	1-1	Aston Villa
+	15.00		Liverpool	0-1	Man United
+
+Matchday 29
+
+[1907-03-03]
+	15.00		Man City	0-1	Wigan
+	15.00		Newcastle	0-0	Middlesbrough
+	15.00		Portsmouth	0-2	Chelsea
+	15.00		Sheffield United	1-1	Everton
+	15.00		Watford	2-2	Charlton
+[1907-03-04]
+	15.00		Bolton	1-2	Blackburn
+	15.00		West Ham	3-4	Tottenham
+[1907-03-14]
+	15.00		Aston Villa	0-1	Arsenal
+	15.00		Man City	0-1	Chelsea
+[1907-03-17]
+	15.00		Blackburn	1-2	West Ham
+
+Matchday 30
+
+[1907-03-17]
+	15.00		Chelsea	3-0	Sheffield United
+	15.00		Man United	4-1	Bolton
+	15.00		Middlesbrough	0-2	Man City
+	15.00		Reading	0-0	Portsmouth
+	15.00		Tottenham	3-1	Watford
+	15.00		Wigan	0-0	Fulham
+[1907-03-18]
+	15.00		Aston Villa	0-0	Liverpool
+	15.00		Charlton	2-0	Newcastle
+	15.00		Everton	1-0	Arsenal
+[1907-03-31]
+	15.00		Bolton	1-0	Sheffield United
+
+Matchday 31
+
+[1907-03-31]
+	15.00		Charlton	1-0	Wigan
+	15.00		Fulham	1-1	Portsmouth
+	15.00		Liverpool	4-1	Arsenal
+	15.00		Man United	4-1	Blackburn
+	15.00		Newcastle	0-1	Man City
+	15.00		Watford	0-1	Chelsea
+	15.00		West Ham	2-0	Middlesbrough
+[1907-04-01]
+	15.00		Tottenham	1-0	Reading
+[1907-04-02]
+	15.00		Aston Villa	1-1	Everton
+[1907-04-06]
+	15.00		Everton	4-1	Fulham
+
+Matchday 32
+
+[1907-04-06]
+	15.00		Man City	0-0	Charlton
+[1907-04-07]
+	15.00		Arsenal	0-1	West Ham
+	15.00		Blackburn	1-2	Aston Villa
+	15.00		Chelsea	1-0	Tottenham
+	15.00		Middlesbrough	4-1	Watford
+	15.00		Portsmouth	2-1	Man United
+	15.00		Reading	1-2	Liverpool
+	15.00		Sheffield United	1-2	Newcastle
+	15.00		Wigan	1-3	Bolton
+[1907-04-09]
+	15.00		Aston Villa	1-1	Wigan
+
+Matchday 33
+
+[1907-04-09]
+	15.00		Bolton	1-1	Everton
+	15.00		Charlton	0-0	Reading
+	15.00		Fulham	1-3	Man City
+	15.00		Newcastle	0-0	Arsenal
+	15.00		Watford	4-2	Portsmouth
+[1907-04-14]
+	15.00		Arsenal	2-1	Bolton
+	15.00		Man City	0-0	Liverpool
+	15.00		Middlesbrough	1-3	Aston Villa
+	15.00		Portsmouth	2-1	Newcastle
+	15.00		Reading	1-0	Fulham
+
+Matchday 34
+
+[1907-04-14]
+	15.00		Sheffield United	3-0	West Ham
+[1907-04-15]
+	15.00		Everton	2-1	Charlton
+	15.00		Wigan	3-3	Tottenham
+[1907-04-17]
+	15.00		Arsenal	3-1	Man City
+	15.00		Man United	2-0	Sheffield United
+[1907-04-18]
+	15.00		Blackburn	3-1	Watford
+	15.00		Liverpool	2-0	Middlesbrough
+	15.00		West Ham	1-4	Chelsea
+[1907-04-21]
+	15.00		Bolton	1-3	Reading
+	15.00		Charlton	1-1	Sheffield United
+
+Matchday 35
+
+[1907-04-21]
+	15.00		Fulham	1-1	Blackburn
+	15.00		Liverpool	2-0	Wigan
+	15.00		Man United	1-1	Middlesbrough
+	15.00		Tottenham	2-2	Arsenal
+	15.00		Watford	1-1	Man City
+	15.00		West Ham	1-0	Everton
+[1907-04-22]
+	15.00		Aston Villa	0-0	Portsmouth
+	15.00		Newcastle	0-0	Chelsea
+[1907-04-28]
+	15.00		Blackburn	4-1	Charlton
+	15.00		Chelsea	2-2	Bolton
+
+Matchday 36
+
+[1907-04-28]
+	15.00		Everton	2-4	Man United
+	15.00		Man City	0-2	Aston Villa
+	15.00		Middlesbrough	2-3	Tottenham
+	15.00		Portsmouth	2-1	Liverpool
+	15.00		Sheffield United	1-0	Watford
+	15.00		Wigan	0-3	West Ham
+[1907-04-29]
+	15.00		Arsenal	3-1	Fulham
+[1907-04-30]
+	15.00		Reading	1-0	Newcastle
+[1907-05-05]
+	15.00		Aston Villa	3-0	Sheffield United
+	15.00		Everton	3-0	Portsmouth
+
+Matchday 37
+
+[1907-05-05]
+	15.00		Fulham	1-0	Liverpool
+	15.00		Man City	0-1	Man United
+	15.00		Newcastle	0-2	Blackburn
+	15.00		Reading	0-2	Watford
+	15.00		West Ham	3-1	Bolton
+	15.00		Wigan	0-1	Middlesbrough
+[1907-05-06]
+	15.00		Arsenal	1-1	Chelsea
+[1907-05-07]
+	15.00		Charlton	0-2	Tottenham
+[1907-05-09]
+	15.00		Chelsea	0-0	Man United
+[1907-05-10]
+	15.00		Tottenham	1-1	Blackburn
+
+Matchday 38
+
+[1907-05-13]
+	15.00		Blackburn	3-3	Reading
+	15.00		Bolton	2-2	Aston Villa
+	15.00		Chelsea	1-1	Everton
+	15.00		Liverpool	2-2	Charlton
+	15.00		Man United	0-1	West Ham
+	15.00		Middlesbrough	3-1	Fulham
+	15.00		Portsmouth	0-0	Arsenal
+	15.00		Sheffield United	1-2	Wigan
+	15.00		Tottenham	2-1	Man City
+	15.00		Watford	1-1	Newcastle
+

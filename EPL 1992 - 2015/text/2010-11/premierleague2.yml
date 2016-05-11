@@ -1,0 +1,36 @@
+############################
+# Premier League 2010-2011
+
+league: en
+season: 2010/11
+start_at: 1910-08-07
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Bournemouth
+- Brentford
+- Brighton
+- Bristol Rvs
+- Carlisle
+- Charlton
+- Colchester
+- Dag and Red
+- Exeter
+- Hartlepool
+- Huddersfield
+- Leyton Orient
+- Milton Keynes Dons
+- Notts County
+- Oldham
+- Peterboro
+- Plymouth
+- Rochdale
+- Sheffield Weds
+- Southampton
+- Swindon
+- Tranmere
+- Walsall
+- Yeovil
+

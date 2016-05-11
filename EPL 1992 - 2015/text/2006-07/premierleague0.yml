@@ -1,0 +1,32 @@
+############################
+# Premier League 2006-2007
+
+league: en
+season: 2006/07
+start_at: 1906-08-19
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Portsmouth
+- Reading
+- Sheffield United
+- Tottenham
+- Watford
+- West Ham
+- Wigan
+

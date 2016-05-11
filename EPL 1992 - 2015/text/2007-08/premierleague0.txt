@@ -1,0 +1,619 @@
+############################
+# Premier League 2007-2008
+
+Matchday 1
+
+[1907-08-11]
+	15.00		Aston Villa	1-2	Liverpool
+	15.00		Bolton	1-3	Newcastle
+	15.00		Derby	2-2	Portsmouth
+	15.00		Everton	2-1	Wigan
+	15.00		Middlesbrough	1-2	Blackburn
+	15.00		Sunderland	1-0	Tottenham
+	15.00		West Ham	0-2	Man City
+[1907-08-12]
+	15.00		Arsenal	2-1	Fulham
+	15.00		Chelsea	3-2	Birmingham
+	15.00		Man United	0-0	Reading
+
+Matchday 2
+
+[1907-08-14]
+	15.00		Tottenham	1-3	Everton
+[1907-08-15]
+	15.00		Birmingham	2-2	Sunderland
+	15.00		Fulham	2-1	Bolton
+	15.00		Man City	1-0	Derby
+	15.00		Portsmouth	1-1	Man United
+	15.00		Reading	1-2	Chelsea
+	15.00		Wigan	1-0	Middlesbrough
+[1907-08-18]
+	15.00		Birmingham	0-1	West Ham
+	15.00		Fulham	1-2	Middlesbrough
+	15.00		Newcastle	0-0	Aston Villa
+
+Matchday 3
+
+[1907-08-18]
+	15.00		Portsmouth	3-1	Bolton
+	15.00		Reading	1-0	Everton
+	15.00		Tottenham	4-0	Derby
+	15.00		Wigan	3-0	Sunderland
+[1907-08-19]
+	15.00		Blackburn	1-1	Arsenal
+	15.00		Liverpool	1-1	Chelsea
+	15.00		Man City	1-0	Man United
+[1907-08-25]
+	15.00		Arsenal	1-0	Man City
+	15.00		Aston Villa	2-1	Fulham
+	15.00		Bolton	3-0	Reading
+
+Matchday 4
+
+[1907-08-25]
+	15.00		Chelsea	1-0	Portsmouth
+	15.00		Derby	1-2	Birmingham
+	15.00		Everton	1-1	Blackburn
+	15.00		Sunderland	0-2	Liverpool
+	15.00		West Ham	1-1	Wigan
+[1907-08-26]
+	15.00		Man United	1-0	Tottenham
+	15.00		Middlesbrough	2-2	Newcastle
+[1907-09-01]
+	15.00		Bolton	1-2	Everton
+	15.00		Fulham	3-3	Tottenham
+	15.00		Liverpool	6-0	Derby
+
+Matchday 5
+
+[1907-09-01]
+	15.00		Man United	1-0	Sunderland
+	15.00		Middlesbrough	2-0	Birmingham
+	15.00		Newcastle	1-0	Wigan
+	15.00		Reading	0-3	West Ham
+[1907-09-02]
+	15.00		Arsenal	3-1	Portsmouth
+	15.00		Aston Villa	2-0	Chelsea
+	15.00		Blackburn	1-0	Man City
+[1907-09-15]
+	15.00		Birmingham	1-0	Bolton
+	15.00		Chelsea	0-0	Blackburn
+	15.00		Everton	0-1	Man United
+
+Matchday 6
+
+[1907-09-15]
+	15.00		Portsmouth	0-0	Liverpool
+	15.00		Sunderland	2-1	Reading
+	15.00		Tottenham	1-3	Arsenal
+	15.00		West Ham	3-0	Middlesbrough
+	15.00		Wigan	1-1	Fulham
+[1907-09-16]
+	15.00		Man City	1-0	Aston Villa
+[1907-09-17]
+	15.00		Derby	1-0	Newcastle
+[1907-09-22]
+	15.00		Arsenal	5-0	Derby
+	15.00		Fulham	3-3	Man City
+	15.00		Liverpool	0-0	Birmingham
+
+Matchday 7
+
+[1907-09-22]
+	15.00		Middlesbrough	2-2	Sunderland
+	15.00		Reading	2-1	Wigan
+[1907-09-23]
+	15.00		Aston Villa	2-0	Everton
+	15.00		Blackburn	0-1	Portsmouth
+	15.00		Bolton	1-1	Tottenham
+	15.00		Man United	2-0	Chelsea
+	15.00		Newcastle	3-1	West Ham
+[1907-09-29]
+	15.00		Birmingham	0-1	Man United
+	15.00		Chelsea	0-0	Fulham
+	15.00		Derby	1-1	Bolton
+
+Matchday 8
+
+[1907-09-29]
+	15.00		Man City	3-1	Newcastle
+	15.00		Portsmouth	7-4	Reading
+	15.00		Sunderland	1-2	Blackburn
+	15.00		West Ham	0-1	Arsenal
+	15.00		Wigan	0-1	Liverpool
+[1907-09-30]
+	15.00		Everton	2-0	Middlesbrough
+[1907-10-01]
+	15.00		Tottenham	4-4	Aston Villa
+[1907-10-06]
+	15.00		Aston Villa	1-0	West Ham
+	15.00		Man United	4-0	Wigan
+[1907-10-07]
+	15.00		Arsenal	3-2	Sunderland
+
+Matchday 9
+
+[1907-10-07]
+	15.00		Blackburn	2-1	Birmingham
+	15.00		Bolton	0-1	Chelsea
+	15.00		Fulham	0-2	Portsmouth
+	15.00		Liverpool	2-2	Tottenham
+	15.00		Man City	3-1	Middlesbrough
+	15.00		Newcastle	3-2	Everton
+	15.00		Reading	1-0	Derby
+[1907-10-20]
+	15.00		Arsenal	2-0	Bolton
+	15.00		Aston Villa	1-4	Man United
+	15.00		Blackburn	4-2	Reading
+
+Matchday 10
+
+[1907-10-20]
+	15.00		Everton	1-2	Liverpool
+	15.00		Fulham	0-0	Derby
+	15.00		Man City	1-0	Birmingham
+	15.00		Middlesbrough	0-2	Chelsea
+	15.00		Wigan	0-2	Portsmouth
+[1907-10-21]
+	15.00		West Ham	3-1	Sunderland
+[1907-10-22]
+	15.00		Newcastle	3-1	Tottenham
+[1907-10-27]
+	15.00		Birmingham	3-2	Wigan
+	15.00		Chelsea	6-0	Man City
+	15.00		Man United	4-1	Middlesbrough
+
+Matchday 11
+
+[1907-10-27]
+	15.00		Portsmouth	0-0	West Ham
+	15.00		Reading	2-1	Newcastle
+	15.00		Sunderland	1-1	Fulham
+[1907-10-28]
+	15.00		Bolton	1-1	Aston Villa
+	15.00		Derby	0-2	Everton
+	15.00		Liverpool	1-1	Arsenal
+	15.00		Tottenham	1-2	Blackburn
+[1907-11-03]
+	15.00		Arsenal	2-2	Man United
+	15.00		Aston Villa	2-0	Derby
+	15.00		Blackburn	0-0	Liverpool
+
+Matchday 12
+
+[1907-11-03]
+	15.00		Everton	3-1	Birmingham
+	15.00		Fulham	3-1	Reading
+	15.00		Middlesbrough	1-1	Tottenham
+	15.00		Newcastle	1-4	Portsmouth
+	15.00		Wigan	0-2	Chelsea
+[1907-11-04]
+	15.00		West Ham	1-1	Bolton
+[1907-11-05]
+	15.00		Man City	1-0	Sunderland
+[1907-11-10]
+	15.00		Derby	0-5	West Ham
+	15.00		Liverpool	2-0	Fulham
+	15.00		Sunderland	1-1	Newcastle
+
+Matchday 13
+
+[1907-11-11]
+	15.00		Birmingham	1-2	Aston Villa
+	15.00		Bolton	0-0	Middlesbrough
+	15.00		Chelsea	1-1	Everton
+	15.00		Man United	2-0	Blackburn
+	15.00		Portsmouth	0-0	Man City
+	15.00		Tottenham	4-0	Wigan
+[1907-11-12]
+	15.00		Reading	1-3	Arsenal
+[1907-11-24]
+	15.00		Arsenal	2-0	Wigan
+	15.00		Birmingham	0-2	Portsmouth
+	15.00		Bolton	1-0	Man United
+
+Matchday 14
+
+[1907-11-24]
+	15.00		Derby	0-2	Chelsea
+	15.00		Everton	7-1	Sunderland
+	15.00		Man City	2-1	Reading
+	15.00		Middlesbrough	0-3	Aston Villa
+	15.00		Newcastle	0-3	Liverpool
+[1907-11-25]
+	15.00		Fulham	2-2	Blackburn
+	15.00		West Ham	1-1	Tottenham
+[1907-11-28]
+	15.00		Blackburn	0-4	Aston Villa
+[1907-12-01]
+	15.00		Aston Villa	1-2	Arsenal
+	15.00		Blackburn	3-1	Newcastle
+
+Matchday 15
+
+[1907-12-01]
+	15.00		Chelsea	1-0	West Ham
+	15.00		Portsmouth	0-0	Everton
+	15.00		Reading	1-1	Middlesbrough
+	15.00		Sunderland	1-0	Derby
+	15.00		Wigan	1-1	Man City
+[1907-12-02]
+	15.00		Liverpool	4-0	Bolton
+	15.00		Tottenham	2-3	Birmingham
+[1907-12-03]
+	15.00		Man United	2-0	Fulham
+[1907-12-05]
+	15.00		Newcastle	1-1	Arsenal
+[1907-12-08]
+	15.00		Aston Villa	1-3	Portsmouth
+
+Matchday 16
+
+[1907-12-08]
+	15.00		Chelsea	2-0	Sunderland
+	15.00		Everton	3-0	Fulham
+	15.00		Man United	4-1	Derby
+	15.00		Newcastle	2-1	Birmingham
+	15.00		Reading	3-1	Liverpool
+[1907-12-09]
+	15.00		Blackburn	0-1	West Ham
+	15.00		Bolton	4-1	Wigan
+	15.00		Middlesbrough	2-1	Arsenal
+	15.00		Tottenham	2-1	Man City
+[1907-12-15]
+	15.00		Birmingham	1-1	Reading
+
+Matchday 17
+
+[1907-12-15]
+	15.00		Derby	0-1	Middlesbrough
+	15.00		Fulham	0-1	Newcastle
+	15.00		Man City	4-2	Bolton
+	15.00		Portsmouth	0-1	Tottenham
+	15.00		Sunderland	1-1	Aston Villa
+	15.00		West Ham	0-2	Everton
+	15.00		Wigan	5-3	Blackburn
+[1907-12-16]
+	15.00		Arsenal	1-0	Chelsea
+	15.00		Liverpool	0-1	Man United
+[1907-12-22]
+	15.00		Arsenal	2-1	Tottenham
+
+Matchday 18
+
+[1907-12-22]
+	15.00		Aston Villa	1-1	Man City
+	15.00		Bolton	3-0	Birmingham
+	15.00		Fulham	1-1	Wigan
+	15.00		Liverpool	4-1	Portsmouth
+	15.00		Middlesbrough	1-2	West Ham
+	15.00		Reading	2-1	Sunderland
+[1907-12-23]
+	15.00		Blackburn	0-1	Chelsea
+	15.00		Man United	2-1	Everton
+	15.00		Newcastle	2-2	Derby
+[1907-12-26]
+	15.00		Birmingham	3-0	Middlesbrough
+
+Matchday 19
+
+[1907-12-26]
+	15.00		Chelsea	4-4	Aston Villa
+	15.00		Derby	1-2	Liverpool
+	15.00		Everton	2-0	Bolton
+	15.00		Portsmouth	0-0	Arsenal
+	15.00		Sunderland	0-4	Man United
+	15.00		Tottenham	5-1	Fulham
+	15.00		West Ham	1-1	Reading
+	15.00		Wigan	1-0	Newcastle
+[1907-12-27]
+	15.00		Man City	2-2	Blackburn
+[1907-12-29]
+	15.00		Birmingham	1-1	Fulham
+
+Matchday 20
+
+[1907-12-29]
+	15.00		Chelsea	2-1	Newcastle
+	15.00		Everton	1-4	Arsenal
+	15.00		Portsmouth	0-1	Middlesbrough
+	15.00		Sunderland	3-1	Bolton
+	15.00		Tottenham	6-4	Reading
+	15.00		West Ham	2-1	Man United
+	15.00		Wigan	1-2	Aston Villa
+[1907-12-30]
+	15.00		Derby	1-2	Blackburn
+	15.00		Man City	0-0	Liverpool
+[1908-01-01]
+	15.00		Arsenal	2-0	West Ham
+
+Matchday 21
+
+[1908-01-01]
+	15.00		Aston Villa	2-1	Tottenham
+	15.00		Fulham	1-2	Chelsea
+	15.00		Man United	1-0	Birmingham
+	15.00		Middlesbrough	0-2	Everton
+	15.00		Reading	0-2	Portsmouth
+[1908-01-02]
+	15.00		Blackburn	1-0	Sunderland
+	15.00		Bolton	1-0	Derby
+	15.00		Liverpool	1-1	Wigan
+	15.00		Newcastle	0-2	Man City
+[1908-01-12]
+	15.00		Arsenal	1-1	Birmingham
+
+Matchday 22
+
+[1908-01-12]
+	15.00		Aston Villa	3-1	Reading
+	15.00		Chelsea	2-0	Tottenham
+	15.00		Derby	0-1	Wigan
+	15.00		Everton	1-0	Man City
+	15.00		Man United	6-0	Newcastle
+	15.00		Middlesbrough	1-1	Liverpool
+	15.00		West Ham	2-1	Fulham
+[1908-01-13]
+	15.00		Bolton	1-2	Blackburn
+	15.00		Sunderland	2-0	Portsmouth
+[1908-01-19]
+	15.00		Birmingham	0-1	Chelsea
+
+Matchday 23
+
+[1908-01-19]
+	15.00		Blackburn	1-1	Middlesbrough
+	15.00		Fulham	0-3	Arsenal
+	15.00		Newcastle	0-0	Bolton
+	15.00		Portsmouth	3-1	Derby
+	15.00		Reading	0-2	Man United
+	15.00		Tottenham	2-0	Sunderland
+[1908-01-20]
+	15.00		Man City	1-1	West Ham
+	15.00		Wigan	1-2	Everton
+[1908-01-21]
+	15.00		Liverpool	2-2	Aston Villa
+[1908-01-26]
+	15.00		Aston Villa	1-1	Blackburn
+
+Matchday 24
+
+[1908-01-29]
+	15.00		Arsenal	3-0	Newcastle
+	15.00		Bolton	0-0	Fulham
+	15.00		Middlesbrough	1-0	Wigan
+	15.00		Sunderland	2-0	Birmingham
+[1908-01-30]
+	15.00		Chelsea	1-0	Reading
+	15.00		Derby	1-1	Man City
+	15.00		Everton	0-0	Tottenham
+	15.00		Man United	2-0	Portsmouth
+	15.00		West Ham	1-0	Liverpool
+[1908-02-02]
+	15.00		Birmingham	1-1	Derby
+
+Matchday 25
+
+[1908-02-02]
+	15.00		Blackburn	0-0	Everton
+	15.00		Liverpool	3-0	Sunderland
+	15.00		Man City	1-3	Arsenal
+	15.00		Portsmouth	1-1	Chelsea
+	15.00		Reading	0-2	Bolton
+	15.00		Tottenham	1-1	Man United
+	15.00		Wigan	1-0	West Ham
+[1908-02-03]
+	15.00		Fulham	2-1	Aston Villa
+	15.00		Newcastle	1-1	Middlesbrough
+[1908-02-09]
+	15.00		Aston Villa	4-1	Newcastle
+
+Matchday 26
+
+[1908-02-09]
+	15.00		Bolton	0-1	Portsmouth
+	15.00		Derby	0-3	Tottenham
+	15.00		Everton	1-0	Reading
+	15.00		Middlesbrough	1-0	Fulham
+	15.00		Sunderland	2-0	Wigan
+	15.00		West Ham	1-1	Birmingham
+[1908-02-10]
+	15.00		Chelsea	0-0	Liverpool
+	15.00		Man United	1-2	Man City
+[1908-02-11]
+	15.00		Arsenal	2-0	Blackburn
+[1908-02-23]
+	15.00		Birmingham	2-2	Arsenal
+
+Matchday 27
+
+[1908-02-23]
+	15.00		Fulham	0-1	West Ham
+	15.00		Liverpool	3-2	Middlesbrough
+	15.00		Newcastle	1-5	Man United
+	15.00		Portsmouth	1-0	Sunderland
+	15.00		Wigan	2-0	Derby
+[1908-02-24]
+	15.00		Blackburn	4-1	Bolton
+	15.00		Reading	1-2	Aston Villa
+[1908-02-25]
+	15.00		Man City	0-2	Everton
+[1908-03-01]
+	15.00		Arsenal	1-1	Aston Villa
+	15.00		Birmingham	4-1	Tottenham
+
+Matchday 28
+
+[1908-03-01]
+	15.00		Derby	0-0	Sunderland
+	15.00		Fulham	0-3	Man United
+	15.00		Man City	0-0	Wigan
+	15.00		Middlesbrough	0-1	Reading
+	15.00		Newcastle	0-1	Blackburn
+	15.00		West Ham	0-4	Chelsea
+[1908-03-02]
+	15.00		Bolton	1-3	Liverpool
+	15.00		Everton	3-1	Portsmouth
+[1908-03-05]
+	15.00		Liverpool	4-0	West Ham
+[1908-03-08]
+	15.00		Blackburn	1-1	Fulham
+
+Matchday 29
+
+[1908-03-08]
+	15.00		Liverpool	3-0	Newcastle
+	15.00		Reading	2-0	Man City
+[1908-03-09]
+	15.00		Sunderland	0-1	Everton
+	15.00		Tottenham	4-0	West Ham
+	15.00		Wigan	0-0	Arsenal
+[1908-03-12]
+	15.00		Aston Villa	1-1	Middlesbrough
+	15.00		Chelsea	6-1	Derby
+	15.00		Portsmouth	4-2	Birmingham
+[1908-03-15]
+	15.00		Arsenal	1-1	Middlesbrough
+	15.00		Derby	0-1	Man United
+
+Matchday 30
+
+[1908-03-15]
+	15.00		Liverpool	2-1	Reading
+	15.00		Portsmouth	2-0	Aston Villa
+	15.00		Sunderland	0-1	Chelsea
+	15.00		West Ham	2-1	Blackburn
+[1908-03-16]
+	15.00		Fulham	1-0	Everton
+	15.00		Man City	2-1	Tottenham
+	15.00		Wigan	1-0	Bolton
+[1908-03-17]
+	15.00		Birmingham	1-1	Newcastle
+[1908-03-19]
+	15.00		Man United	2-0	Bolton
+	15.00		Tottenham	4-4	Chelsea
+
+Matchday 31
+
+[1908-03-22]
+	15.00		Aston Villa	0-1	Sunderland
+	15.00		Blackburn	3-1	Wigan
+	15.00		Bolton	0-0	Man City
+	15.00		Everton	1-1	West Ham
+	15.00		Middlesbrough	1-0	Derby
+	15.00		Newcastle	2-0	Fulham
+	15.00		Reading	2-1	Birmingham
+	15.00		Tottenham	2-0	Portsmouth
+[1908-03-23]
+	15.00		Chelsea	2-1	Arsenal
+	15.00		Man United	3-0	Liverpool
+
+Matchday 32
+
+[1908-03-29]
+	15.00		Birmingham	3-1	Man City
+	15.00		Bolton	2-3	Arsenal
+	15.00		Derby	2-2	Fulham
+	15.00		Man United	4-0	Aston Villa
+	15.00		Portsmouth	2-0	Wigan
+	15.00		Reading	0-0	Blackburn
+	15.00		Sunderland	2-1	West Ham
+[1908-03-30]
+	15.00		Chelsea	1-0	Middlesbrough
+	15.00		Liverpool	1-0	Everton
+	15.00		Tottenham	1-4	Newcastle
+
+Matchday 33
+
+[1908-04-05]
+	15.00		Arsenal	1-1	Liverpool
+	15.00		Aston Villa	4-0	Bolton
+	15.00		Blackburn	1-1	Tottenham
+	15.00		Fulham	1-3	Sunderland
+	15.00		Man City	0-2	Chelsea
+	15.00		Newcastle	3-0	Reading
+	15.00		Wigan	2-0	Birmingham
+[1908-04-06]
+	15.00		Everton	1-0	Derby
+	15.00		Middlesbrough	2-2	Man United
+[1908-04-08]
+	15.00		West Ham	0-1	Portsmouth
+
+Matchday 34
+
+[1908-04-12]
+	15.00		Birmingham	1-1	Everton
+	15.00		Bolton	1-0	West Ham
+	15.00		Derby	0-6	Aston Villa
+	15.00		Portsmouth	0-0	Newcastle
+	15.00		Reading	0-2	Fulham
+	15.00		Sunderland	1-2	Man City
+	15.00		Tottenham	1-1	Middlesbrough
+[1908-04-13]
+	15.00		Liverpool	3-1	Blackburn
+	15.00		Man United	2-1	Arsenal
+[1908-04-14]
+	15.00		Chelsea	1-1	Wigan
+
+Matchday 35
+
+[1908-04-17]
+	15.00		Everton	0-1	Chelsea
+[1908-04-19]
+	15.00		Arsenal	2-0	Reading
+	15.00		Blackburn	1-1	Man United
+	15.00		Fulham	0-2	Liverpool
+	15.00		Middlesbrough	0-1	Bolton
+	15.00		West Ham	2-1	Derby
+	15.00		Wigan	1-1	Tottenham
+[1908-04-20]
+	15.00		Aston Villa	5-1	Birmingham
+	15.00		Man City	3-1	Portsmouth
+	15.00		Newcastle	2-0	Sunderland
+
+Matchday 36
+
+[1908-04-26]
+	15.00		Birmingham	2-2	Liverpool
+	15.00		Chelsea	2-1	Man United
+	15.00		Man City	2-3	Fulham
+	15.00		Sunderland	3-2	Middlesbrough
+	15.00		Tottenham	1-1	Bolton
+	15.00		West Ham	2-2	Newcastle
+	15.00		Wigan	0-0	Reading
+[1908-04-27]
+	15.00		Everton	2-2	Aston Villa
+	15.00		Portsmouth	0-1	Blackburn
+[1908-04-28]
+	15.00		Derby	2-6	Arsenal
+
+Matchday 37
+
+[1908-05-03]
+	15.00		Aston Villa	0-2	Wigan
+	15.00		Blackburn	3-1	Derby
+	15.00		Bolton	2-0	Sunderland
+	15.00		Fulham	2-0	Birmingham
+	15.00		Man United	4-1	West Ham
+	15.00		Middlesbrough	2-0	Portsmouth
+	15.00		Reading	0-1	Tottenham
+[1908-05-04]
+	15.00		Arsenal	1-0	Everton
+	15.00		Liverpool	1-0	Man City
+[1908-05-05]
+	15.00		Newcastle	0-2	Chelsea
+
+Matchday 38
+
+[1908-05-11]
+	15.00		Birmingham	4-1	Blackburn
+	15.00		Chelsea	1-1	Bolton
+	15.00		Derby	0-4	Reading
+	15.00		Everton	3-1	Newcastle
+	15.00		Middlesbrough	8-1	Man City
+	15.00		Portsmouth	0-1	Fulham
+	15.00		Sunderland	0-1	Arsenal
+	15.00		Tottenham	0-2	Liverpool
+	15.00		West Ham	2-2	Aston Villa
+	15.00		Wigan	0-2	Man United
+

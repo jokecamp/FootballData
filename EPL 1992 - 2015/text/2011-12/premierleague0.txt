@@ -1,0 +1,627 @@
+############################
+# Premier League 2011-2012
+
+Matchday 1
+
+[1911-08-13]
+	15.00		Blackburn	1-2	Wolves
+	15.00		Fulham	0-0	Aston Villa
+	15.00		Liverpool	1-1	Sunderland
+	15.00		Newcastle	0-0	Arsenal
+	15.00		QPR	0-4	Bolton
+	15.00		Wigan	1-1	Norwich
+[1911-08-14]
+	15.00		Stoke	0-0	Chelsea
+	15.00		West Brom	1-2	Man United
+[1911-08-15]
+	15.00		Man City	4-0	Swansea
+[1911-08-20]
+	15.00		Arsenal	0-2	Liverpool
+
+Matchday 2
+
+[1911-08-20]
+	15.00		Aston Villa	3-1	Blackburn
+	15.00		Chelsea	2-1	West Brom
+	15.00		Everton	0-1	QPR
+	15.00		Sunderland	0-1	Newcastle
+	15.00		Swansea	0-0	Wigan
+[1911-08-21]
+	15.00		Bolton	2-3	Man City
+	15.00		Norwich	1-1	Stoke
+	15.00		Wolves	2-0	Fulham
+[1911-08-22]
+	15.00		Man United	3-0	Tottenham
+[1911-08-27]
+	15.00		Aston Villa	0-0	Wolves
+
+Matchday 3
+
+[1911-08-27]
+	15.00		Blackburn	0-1	Everton
+	15.00		Chelsea	3-1	Norwich
+	15.00		Liverpool	3-1	Bolton
+	15.00		Swansea	0-0	Sunderland
+	15.00		Wigan	2-0	QPR
+[1911-08-28]
+	15.00		Man United	8-2	Arsenal
+	15.00		Newcastle	2-1	Fulham
+	15.00		Tottenham	1-5	Man City
+	15.00		West Brom	0-1	Stoke
+[1911-09-10]
+	15.00		Arsenal	1-0	Swansea
+
+Matchday 4
+
+[1911-09-10]
+	15.00		Bolton	0-5	Man United
+	15.00		Everton	2-2	Aston Villa
+	15.00		Man City	3-0	Wigan
+	15.00		Stoke	1-0	Liverpool
+	15.00		Sunderland	1-2	Chelsea
+	15.00		Wolves	0-2	Tottenham
+[1911-09-11]
+	15.00		Fulham	1-1	Blackburn
+	15.00		Norwich	0-1	West Brom
+[1911-09-12]
+	15.00		QPR	0-0	Newcastle
+[1911-09-17]
+	15.00		Aston Villa	1-1	Newcastle
+
+Matchday 5
+
+[1911-09-17]
+	15.00		Blackburn	4-3	Arsenal
+	15.00		Bolton	1-2	Norwich
+	15.00		Everton	3-1	Wigan
+	15.00		Swansea	3-0	West Brom
+	15.00		Wolves	0-3	QPR
+[1911-09-18]
+	15.00		Fulham	2-2	Man City
+	15.00		Man United	3-1	Chelsea
+	15.00		Sunderland	4-0	Stoke
+	15.00		Tottenham	4-0	Liverpool
+[1911-09-24]
+	15.00		Arsenal	3-0	Bolton
+
+Matchday 6
+
+[1911-09-24]
+	15.00		Chelsea	4-1	Swansea
+	15.00		Liverpool	2-1	Wolves
+	15.00		Man City	2-0	Everton
+	15.00		Newcastle	3-1	Blackburn
+	15.00		Stoke	1-1	Man United
+	15.00		West Brom	0-0	Fulham
+	15.00		Wigan	1-2	Tottenham
+[1911-09-25]
+	15.00		QPR	1-1	Aston Villa
+[1911-09-26]
+	15.00		Norwich	2-1	Sunderland
+[1911-10-01]
+	15.00		Aston Villa	2-0	Wigan
+
+Matchday 7
+
+[1911-10-01]
+	15.00		Blackburn	0-4	Man City
+	15.00		Everton	0-2	Liverpool
+	15.00		Man United	2-0	Norwich
+	15.00		Sunderland	2-2	West Brom
+	15.00		Wolves	1-2	Newcastle
+[1911-10-02]
+	15.00		Bolton	1-5	Chelsea
+	15.00		Fulham	6-0	QPR
+	15.00		Swansea	2-0	Stoke
+	15.00		Tottenham	2-1	Arsenal
+[1911-10-15]
+	15.00		Chelsea	3-1	Everton
+
+Matchday 8
+
+[1911-10-15]
+	15.00		Liverpool	1-1	Man United
+	15.00		Man City	4-1	Aston Villa
+	15.00		Norwich	3-1	Swansea
+	15.00		QPR	1-1	Blackburn
+	15.00		Stoke	2-0	Fulham
+	15.00		Wigan	1-3	Bolton
+[1911-10-16]
+	15.00		Arsenal	2-1	Sunderland
+	15.00		Newcastle	2-2	Tottenham
+	15.00		West Brom	2-0	Wolves
+[1911-10-22]
+	15.00		Aston Villa	1-2	West Brom
+
+Matchday 9
+
+[1911-10-22]
+	15.00		Bolton	0-2	Sunderland
+	15.00		Liverpool	1-1	Norwich
+	15.00		Newcastle	1-0	Wigan
+	15.00		Wolves	2-2	Swansea
+[1911-10-23]
+	15.00		Arsenal	3-1	Stoke
+	15.00		Blackburn	1-2	Tottenham
+	15.00		Fulham	1-3	Everton
+	15.00		Man United	1-6	Man City
+	15.00		QPR	1-0	Chelsea
+[1911-10-29]
+	15.00		Chelsea	3-5	Arsenal
+
+Matchday 10
+
+[1911-10-29]
+	15.00		Everton	0-1	Man United
+	15.00		Man City	3-1	Wolves
+	15.00		Norwich	3-3	Blackburn
+	15.00		Sunderland	2-2	Aston Villa
+	15.00		Swansea	3-1	Bolton
+	15.00		West Brom	0-2	Liverpool
+	15.00		Wigan	0-2	Fulham
+[1911-10-30]
+	15.00		Tottenham	3-1	QPR
+[1911-10-31]
+	15.00		Stoke	1-3	Newcastle
+[1911-11-05]
+	15.00		Arsenal	3-0	West Brom
+
+Matchday 11
+
+[1911-11-05]
+	15.00		Aston Villa	3-2	Norwich
+	15.00		Blackburn	0-1	Chelsea
+	15.00		Liverpool	0-0	Swansea
+	15.00		Man United	1-0	Sunderland
+	15.00		Newcastle	2-1	Everton
+	15.00		QPR	2-3	Man City
+[1911-11-06]
+	15.00		Bolton	5-0	Stoke
+	15.00		Fulham	1-3	Tottenham
+	15.00		Wolves	3-1	Wigan
+[1911-11-19]
+	15.00		Everton	2-1	Wolves
+
+Matchday 12
+
+[1911-11-19]
+	15.00		Man City	3-1	Newcastle
+	15.00		Norwich	1-2	Arsenal
+	15.00		Stoke	2-3	QPR
+	15.00		Sunderland	0-0	Fulham
+	15.00		Swansea	0-1	Man United
+	15.00		West Brom	2-1	Bolton
+	15.00		Wigan	3-3	Blackburn
+[1911-11-20]
+	15.00		Chelsea	1-2	Liverpool
+[1911-11-21]
+	15.00		Tottenham	2-0	Aston Villa
+[1911-11-26]
+	15.00		Arsenal	1-1	Fulham
+
+Matchday 13
+
+[1911-11-26]
+	15.00		Bolton	0-2	Everton
+	15.00		Chelsea	3-0	Wolves
+	15.00		Man United	1-1	Newcastle
+	15.00		Norwich	2-1	QPR
+	15.00		Stoke	3-1	Blackburn
+	15.00		Sunderland	1-2	Wigan
+	15.00		West Brom	1-3	Tottenham
+[1911-11-27]
+	15.00		Liverpool	1-1	Man City
+	15.00		Swansea	0-0	Aston Villa
+[1911-12-03]
+	15.00		Aston Villa	0-1	Man United
+
+Matchday 14
+
+[1911-12-03]
+	15.00		Blackburn	4-2	Swansea
+	15.00		Man City	5-1	Norwich
+	15.00		Newcastle	0-3	Chelsea
+	15.00		QPR	1-1	West Brom
+	15.00		Tottenham	3-0	Bolton
+	15.00		Wigan	0-4	Arsenal
+[1911-12-04]
+	15.00		Everton	0-1	Stoke
+	15.00		Wolves	2-1	Sunderland
+[1911-12-05]
+	15.00		Fulham	1-0	Liverpool
+[1911-12-10]
+	15.00		Arsenal	1-0	Everton
+
+Matchday 15
+
+[1911-12-10]
+	15.00		Bolton	1-2	Aston Villa
+	15.00		Liverpool	1-0	QPR
+	15.00		Man United	4-1	Wolves
+	15.00		Norwich	4-2	Newcastle
+	15.00		Swansea	2-0	Fulham
+	15.00		West Brom	1-2	Wigan
+[1911-12-11]
+	15.00		Stoke	2-1	Tottenham
+	15.00		Sunderland	2-1	Blackburn
+[1911-12-12]
+	15.00		Chelsea	2-1	Man City
+[1911-12-17]
+	15.00		Blackburn	1-2	West Brom
+
+Matchday 16
+
+[1911-12-17]
+	15.00		Everton	1-1	Norwich
+	15.00		Fulham	2-0	Bolton
+	15.00		Newcastle	0-0	Swansea
+	15.00		Wigan	1-1	Chelsea
+	15.00		Wolves	1-2	Stoke
+[1911-12-18]
+	15.00		Aston Villa	0-2	Liverpool
+	15.00		Man City	1-0	Arsenal
+	15.00		QPR	0-2	Man United
+	15.00		Tottenham	1-0	Sunderland
+[1911-12-20]
+	15.00		Blackburn	1-2	Bolton
+
+Matchday 17
+
+[1911-12-20]
+	15.00		Wolves	2-2	Norwich
+[1911-12-21]
+	15.00		Aston Villa	1-2	Arsenal
+	15.00		Everton	1-0	Swansea
+	15.00		Fulham	0-5	Man United
+	15.00		Man City	3-0	Stoke
+	15.00		Newcastle	2-3	West Brom
+	15.00		QPR	2-3	Sunderland
+	15.00		Wigan	0-0	Liverpool
+[1911-12-22]
+	15.00		Tottenham	1-1	Chelsea
+[1911-12-26]
+	15.00		Bolton	0-2	Newcastle
+
+Matchday 18
+
+[1911-12-26]
+	15.00		Chelsea	1-1	Fulham
+	15.00		Liverpool	1-1	Blackburn
+	15.00		Man United	5-0	Wigan
+	15.00		Stoke	0-0	Aston Villa
+	15.00		Sunderland	1-1	Everton
+	15.00		West Brom	0-0	Man City
+[1911-12-27]
+	15.00		Arsenal	1-1	Wolves
+	15.00		Norwich	0-2	Tottenham
+	15.00		Swansea	1-1	QPR
+[1911-12-30]
+	15.00		Liverpool	3-1	Newcastle
+
+Matchday 19
+
+[1911-12-31]
+	15.00		Arsenal	1-0	QPR
+	15.00		Bolton	1-1	Wolves
+	15.00		Chelsea	1-3	Aston Villa
+	15.00		Man United	2-3	Blackburn
+	15.00		Norwich	1-1	Fulham
+	15.00		Stoke	2-2	Wigan
+	15.00		Swansea	1-1	Tottenham
+[1912-01-01]
+	15.00		Sunderland	1-0	Man City
+	15.00		West Brom	0-1	Everton
+[1912-01-02]
+	15.00		Aston Villa	0-2	Swansea
+
+Matchday 20
+
+[1912-01-02]
+	15.00		Blackburn	1-2	Stoke
+	15.00		Fulham	2-1	Arsenal
+	15.00		QPR	1-2	Norwich
+	15.00		Wolves	1-2	Chelsea
+[1912-01-03]
+	15.00		Man City	3-0	Liverpool
+	15.00		Tottenham	1-0	West Brom
+	15.00		Wigan	1-4	Sunderland
+[1912-01-04]
+	15.00		Everton	1-2	Bolton
+	15.00		Newcastle	3-0	Man United
+[1912-01-11]
+	15.00		Tottenham	2-0	Everton
+
+Matchday 21
+
+[1912-01-14]
+	15.00		Aston Villa	1-1	Everton
+	15.00		Blackburn	3-1	Fulham
+	15.00		Chelsea	1-0	Sunderland
+	15.00		Liverpool	0-0	Stoke
+	15.00		Man United	3-0	Bolton
+	15.00		Tottenham	1-1	Wolves
+	15.00		West Brom	1-2	Norwich
+[1912-01-15]
+	15.00		Newcastle	1-0	QPR
+	15.00		Swansea	3-2	Arsenal
+[1912-01-16]
+	15.00		Wigan	0-1	Man City
+
+Matchday 22
+
+[1912-01-21]
+	15.00		Bolton	3-1	Liverpool
+	15.00		Everton	1-1	Blackburn
+	15.00		Fulham	5-2	Newcastle
+	15.00		Norwich	0-0	Chelsea
+	15.00		QPR	3-1	Wigan
+	15.00		Stoke	1-2	West Brom
+	15.00		Sunderland	2-0	Swansea
+	15.00		Wolves	2-3	Aston Villa
+[1912-01-22]
+	15.00		Arsenal	1-2	Man United
+	15.00		Man City	3-2	Tottenham
+
+Matchday 23
+
+[1912-01-31]
+	15.00		Everton	1-0	Man City
+	15.00		Man United	2-0	Stoke
+	15.00		Swansea	1-1	Chelsea
+	15.00		Tottenham	3-1	Wigan
+	15.00		Wolves	0-3	Liverpool
+[1912-02-01]
+	15.00		Aston Villa	2-2	QPR
+	15.00		Blackburn	0-2	Newcastle
+	15.00		Bolton	0-0	Arsenal
+	15.00		Fulham	1-1	West Brom
+	15.00		Sunderland	3-0	Norwich
+
+Matchday 24
+
+[1912-02-04]
+	15.00		Arsenal	7-1	Blackburn
+	15.00		Man City	3-0	Fulham
+	15.00		Norwich	2-0	Bolton
+	15.00		QPR	1-2	Wolves
+	15.00		Stoke	0-1	Sunderland
+	15.00		West Brom	1-2	Swansea
+	15.00		Wigan	1-1	Everton
+[1912-02-05]
+	15.00		Chelsea	3-3	Man United
+	15.00		Newcastle	2-1	Aston Villa
+[1912-02-06]
+	15.00		Liverpool	0-0	Tottenham
+
+Matchday 25
+
+[1912-02-11]
+	15.00		Blackburn	3-2	QPR
+	15.00		Bolton	1-2	Wigan
+	15.00		Everton	2-0	Chelsea
+	15.00		Fulham	2-1	Stoke
+	15.00		Man United	2-1	Liverpool
+	15.00		Sunderland	1-2	Arsenal
+	15.00		Swansea	2-3	Norwich
+	15.00		Tottenham	5-0	Newcastle
+[1912-02-12]
+	15.00		Aston Villa	0-1	Man City
+	15.00		Wolves	1-5	West Brom
+
+Matchday 26
+
+[1912-02-25]
+	15.00		Chelsea	3-0	Bolton
+	15.00		Man City	3-0	Blackburn
+	15.00		Newcastle	2-2	Wolves
+	15.00		QPR	0-1	Fulham
+	15.00		West Brom	4-0	Sunderland
+	15.00		Wigan	0-0	Aston Villa
+[1912-02-26]
+	15.00		Arsenal	5-2	Tottenham
+	15.00		Norwich	1-2	Man United
+	15.00		Stoke	2-0	Swansea
+[1912-03-03]
+	15.00		Blackburn	1-1	Aston Villa
+
+Matchday 27
+
+[1912-03-03]
+	15.00		Liverpool	1-2	Arsenal
+	15.00		Man City	2-0	Bolton
+	15.00		QPR	1-1	Everton
+	15.00		Stoke	1-0	Norwich
+	15.00		West Brom	1-0	Chelsea
+	15.00		Wigan	0-2	Swansea
+[1912-03-04]
+	15.00		Fulham	5-0	Wolves
+	15.00		Newcastle	1-1	Sunderland
+	15.00		Tottenham	1-3	Man United
+[1912-03-10]
+	15.00		Aston Villa	1-0	Fulham
+
+Matchday 28
+
+[1912-03-10]
+	15.00		Bolton	2-1	QPR
+	15.00		Chelsea	1-0	Stoke
+	15.00		Everton	1-0	Tottenham
+	15.00		Sunderland	1-0	Liverpool
+	15.00		Wolves	0-2	Blackburn
+[1912-03-11]
+	15.00		Man United	2-0	West Brom
+	15.00		Norwich	1-1	Wigan
+	15.00		Swansea	1-0	Man City
+[1912-03-12]
+	15.00		Arsenal	2-1	Newcastle
+[1912-03-13]
+	15.00		Liverpool	3-0	Everton
+
+Matchday 29
+
+[1912-03-17]
+	15.00		Fulham	0-3	Swansea
+	15.00		Wigan	1-1	West Brom
+[1912-03-18]
+	15.00		Newcastle	1-0	Norwich
+	15.00		Wolves	0-5	Man United
+[1912-03-20]
+	15.00		Blackburn	2-0	Sunderland
+[1912-03-21]
+	15.00		Everton	0-1	Arsenal
+	15.00		Man City	2-1	Chelsea
+	15.00		QPR	3-2	Liverpool
+	15.00		Tottenham	1-1	Stoke
+[1912-03-24]
+	15.00		Arsenal	3-0	Aston Villa
+
+Matchday 30
+
+[1912-03-24]
+	15.00		Bolton	2-1	Blackburn
+	15.00		Chelsea	0-0	Tottenham
+	15.00		Liverpool	1-2	Wigan
+	15.00		Norwich	2-1	Wolves
+	15.00		Stoke	1-1	Man City
+	15.00		Sunderland	3-1	QPR
+	15.00		Swansea	0-2	Everton
+[1912-03-25]
+	15.00		West Brom	1-3	Newcastle
+[1912-03-26]
+	15.00		Man United	1-0	Fulham
+[1912-03-31]
+	15.00		Aston Villa	2-4	Chelsea
+
+Matchday 31
+
+[1912-03-31]
+	15.00		Everton	2-0	West Brom
+	15.00		Fulham	2-1	Norwich
+	15.00		Man City	3-3	Sunderland
+	15.00		QPR	2-1	Arsenal
+	15.00		Wigan	2-0	Stoke
+	15.00		Wolves	2-3	Bolton
+[1912-04-01]
+	15.00		Newcastle	2-0	Liverpool
+	15.00		Tottenham	3-1	Swansea
+[1912-04-02]
+	15.00		Blackburn	0-2	Man United
+[1912-04-06]
+	15.00		Swansea	0-2	Newcastle
+
+Matchday 32
+
+[1912-04-07]
+	15.00		Bolton	0-3	Fulham
+	15.00		Chelsea	2-1	Wigan
+	15.00		Liverpool	1-1	Aston Villa
+	15.00		Norwich	2-2	Everton
+	15.00		Stoke	2-1	Wolves
+	15.00		Sunderland	0-0	Tottenham
+	15.00		West Brom	3-0	Blackburn
+[1912-04-08]
+	15.00		Arsenal	1-0	Man City
+	15.00		Man United	2-0	QPR
+[1912-04-09]
+	15.00		Aston Villa	1-1	Stoke
+
+Matchday 33
+
+[1912-04-09]
+	15.00		Everton	4-0	Sunderland
+	15.00		Fulham	1-1	Chelsea
+	15.00		Newcastle	2-0	Bolton
+	15.00		Tottenham	1-2	Norwich
+[1912-04-10]
+	15.00		Blackburn	2-3	Liverpool
+[1912-04-11]
+	15.00		Man City	4-0	West Brom
+	15.00		QPR	3-0	Swansea
+	15.00		Wigan	1-0	Man United
+	15.00		Wolves	0-3	Arsenal
+[1912-04-14]
+	15.00		Norwich	1-6	Man City
+
+Matchday 34
+
+[1912-04-14]
+	15.00		Sunderland	0-0	Wolves
+	15.00		Swansea	3-0	Blackburn
+	15.00		West Brom	1-0	QPR
+[1912-04-15]
+	15.00		Man United	4-0	Aston Villa
+[1912-04-16]
+	15.00		Arsenal	1-2	Wigan
+[1912-04-21]
+	15.00		Arsenal	0-0	Chelsea
+	15.00		Aston Villa	0-0	Sunderland
+	15.00		Blackburn	2-0	Norwich
+	15.00		Bolton	1-1	Swansea
+	15.00		Fulham	2-1	Wigan
+
+Matchday 35
+
+[1912-04-21]
+	15.00		Newcastle	3-0	Stoke
+	15.00		QPR	1-0	Tottenham
+[1912-04-22]
+	15.00		Liverpool	0-1	West Brom
+	15.00		Man United	4-4	Everton
+	15.00		Wolves	0-2	Man City
+[1912-04-24]
+	15.00		Aston Villa	1-2	Bolton
+[1912-04-28]
+	15.00		Everton	4-0	Fulham
+	15.00		Norwich	0-3	Liverpool
+	15.00		Stoke	1-1	Arsenal
+	15.00		Sunderland	2-2	Bolton
+
+Matchday 36
+
+[1912-04-28]
+	15.00		Swansea	4-4	Wolves
+	15.00		West Brom	0-0	Aston Villa
+	15.00		Wigan	4-0	Newcastle
+[1912-04-29]
+	15.00		Chelsea	6-1	QPR
+	15.00		Tottenham	2-0	Blackburn
+[1912-04-30]
+	15.00		Man City	1-0	Man United
+[1912-05-01]
+	15.00		Liverpool	0-1	Fulham
+	15.00		Stoke	1-1	Everton
+[1912-05-02]
+	15.00		Bolton	1-4	Tottenham
+	15.00		Chelsea	0-2	Newcastle
+
+Matchday 37
+
+[1912-05-05]
+	15.00		Arsenal	3-3	Norwich
+[1912-05-06]
+	15.00		Aston Villa	1-1	Tottenham
+	15.00		Bolton	2-2	West Brom
+	15.00		Fulham	2-1	Sunderland
+	15.00		Man United	2-0	Swansea
+	15.00		Newcastle	0-2	Man City
+	15.00		QPR	1-0	Stoke
+	15.00		Wolves	0-0	Everton
+[1912-05-07]
+	15.00		Blackburn	0-1	Wigan
+[1912-05-08]
+	15.00		Liverpool	4-1	Chelsea
+
+Matchday 38
+
+[1912-05-13]
+	15.00		Chelsea	2-1	Blackburn
+	15.00		Everton	3-1	Newcastle
+	15.00		Man City	3-2	QPR
+	15.00		Norwich	2-0	Aston Villa
+	15.00		Stoke	2-2	Bolton
+	15.00		Sunderland	0-1	Man United
+	15.00		Swansea	1-0	Liverpool
+	15.00		Tottenham	2-0	Fulham
+	15.00		West Brom	2-3	Arsenal
+	15.00		Wigan	3-2	Wolves
+

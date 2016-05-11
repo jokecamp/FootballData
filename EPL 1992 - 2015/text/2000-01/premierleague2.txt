@@ -1,0 +1,822 @@
+############################
+# Premier League 2000-2001
+
+Matchday 1
+
+[1900-08-12]
+	15.00		Bristol Rvs	1-1	Bournemouth
+	15.00		Cambridge	0-1	Bury
+	15.00		Luton	0-1	Notts County
+	15.00		Millwall	2-0	Reading
+	15.00		Northampton	1-1	Brentford
+	15.00		Oldham	4-1	Port Vale
+	15.00		Oxford	0-1	Peterboro
+	15.00		Rotherham	2-3	Walsall
+	15.00		Stoke	0-0	Wycombe
+	15.00		Swansea	0-0	Wigan
+	15.00		Swindon	0-0	Colchester
+	15.00		Wrexham	0-2	Bristol City
+
+Matchday 2
+
+[1900-08-18]
+	15.00		Colchester	0-1	Rotherham
+[1900-08-19]
+	15.00		Bournemouth	1-1	Cambridge
+	15.00		Brentford	0-0	Swansea
+	15.00		Bristol City	1-2	Stoke
+	15.00		Bury	1-4	Wrexham
+	15.00		Notts County	3-4	Millwall
+	15.00		Port Vale	3-0	Oxford
+	15.00		Reading	2-0	Swindon
+	15.00		Walsall	3-2	Oldham
+	15.00		Wigan	2-1	Luton
+	15.00		Wycombe	1-0	Northampton
+[1900-08-20]
+	15.00		Peterboro	2-2	Bristol Rvs
+
+Matchday 3
+
+[1900-08-26]
+	15.00		Cambridge	1-0	Bristol City
+	15.00		Luton	1-0	Bournemouth
+	15.00		Millwall	1-2	Wycombe
+	15.00		Northampton	2-0	Reading
+	15.00		Oldham	1-4	Peterboro
+	15.00		Oxford	0-1	Brentford
+	15.00		Rotherham	1-2	Bury
+	15.00		Stoke	0-1	Notts County
+	15.00		Swansea	0-2	Colchester
+	15.00		Swindon	1-4	Walsall
+	15.00		Wrexham	1-3	Wigan
+[1900-08-28]
+	15.00		Brentford	2-6	Bristol Rvs
+
+Matchday 4
+
+[1900-08-28]
+	15.00		Bristol City	0-1	Rotherham
+	15.00		Bury	1-0	Northampton
+	15.00		Notts County	0-1	Cambridge
+	15.00		Peterboro	0-2	Swansea
+	15.00		Port Vale	3-0	Swindon
+	15.00		Wycombe	1-1	Luton
+[1900-08-29]
+	15.00		Colchester	1-1	Oldham
+	15.00		Reading	3-3	Stoke
+	15.00		Walsall	3-2	Oxford
+[1900-09-02]
+	15.00		Brentford	0-0	Wycombe
+	15.00		Colchester	3-1	Bournemouth
+	15.00		Oldham	0-1	Notts County
+
+Matchday 5
+
+[1900-09-02]
+	15.00		Oxford	1-1	Cambridge
+	15.00		Peterboro	1-1	Bury
+	15.00		Port Vale	0-1	Reading
+	15.00		Rotherham	1-1	Luton
+	15.00		Walsall	2-0	Wigan
+[1900-09-08]
+	15.00		Wycombe	3-1	Oxford
+[1900-09-09]
+	15.00		Bournemouth	1-1	Port Vale
+	15.00		Bristol City	0-1	Swindon
+	15.00		Bury	2-0	Walsall
+	15.00		Cambridge	6-1	Rotherham
+	15.00		Luton	0-2	Northampton
+	15.00		Millwall	1-0	Swansea
+
+Matchday 6
+
+[1900-09-09]
+	15.00		Notts County	1-1	Bristol Rvs
+	15.00		Reading	4-0	Brentford
+	15.00		Stoke	3-0	Peterboro
+	15.00		Wigan	3-1	Colchester
+	15.00		Wrexham	3-1	Oldham
+[1900-09-12]
+	15.00		Bournemouth	3-0	Swindon
+	15.00		Bury	0-0	Colchester
+	15.00		Cambridge	4-0	Port Vale
+	15.00		Luton	0-0	Walsall
+	15.00		Millwall	0-1	Northampton
+	15.00		Notts County	0-1	Swansea
+	15.00		Reading	5-0	Oldham
+
+Matchday 7
+
+[1900-09-12]
+	15.00		Wigan	1-0	Peterboro
+	15.00		Wrexham	1-3	Rotherham
+	15.00		Wycombe	0-1	Bristol Rvs
+[1900-09-13]
+	15.00		Stoke	4-0	Oxford
+[1900-09-16]
+	15.00		Brentford	1-1	Millwall
+	15.00		Bristol Rvs	0-0	Wigan
+	15.00		Colchester	1-1	Wrexham
+	15.00		Northampton	1-0	Notts County
+	15.00		Oldham	0-0	Bristol City
+	15.00		Oxford	1-0	Bury
+	15.00		Peterboro	1-0	Reading
+	15.00		Rotherham	1-0	Wycombe
+
+Matchday 8
+
+[1900-09-16]
+	15.00		Swansea	4-0	Luton
+	15.00		Walsall	1-1	Bournemouth
+[1900-09-17]
+	15.00		Port Vale	1-1	Stoke
+[1900-09-23]
+	15.00		Bournemouth	1-1	Oldham
+	15.00		Bristol City	1-1	Colchester
+	15.00		Bury	2-0	Port Vale
+	15.00		Cambridge	0-3	Bristol Rvs
+	15.00		Luton	2-3	Swindon
+	15.00		Millwall	5-0	Oxford
+	15.00		Notts County	2-2	Brentford
+	15.00		Reading	5-1	Swansea
+	15.00		Stoke	1-1	Rotherham
+
+Matchday 9
+
+[1900-09-23]
+	15.00		Wigan	2-1	Northampton
+	15.00		Wrexham	0-1	Walsall
+	15.00		Wycombe	2-0	Peterboro
+[1900-09-27]
+	15.00		Bournemouth	1-2	Wrexham
+[1900-09-30]
+	15.00		Brentford	3-2	Bournemouth
+	15.00		Bristol Rvs	3-3	Luton
+	15.00		Colchester	0-1	Stoke
+	15.00		Northampton	2-2	Wrexham
+	15.00		Oldham	1-3	Cambridge
+	15.00		Oxford	0-1	Bristol City
+	15.00		Peterboro	1-4	Millwall
+	15.00		Port Vale	0-1	Wycombe
+
+Matchday 10
+
+[1900-09-30]
+	15.00		Rotherham	1-3	Reading
+	15.00		Swansea	0-2	Bury
+	15.00		Swindon	2-2	Wigan
+	15.00		Walsall	5-1	Notts County
+[1900-10-06]
+	15.00		Bristol City	3-3	Bournemouth
+	15.00		Bury	1-0	Bristol Rvs
+	15.00		Colchester	0-2	Walsall
+	15.00		Wigan	1-1	Reading
+	15.00		Wycombe	3-1	Notts County
+[1900-10-08]
+	15.00		Luton	0-1	Millwall
+	15.00		Peterboro	2-0	Port Vale
+	15.00		Rotherham	3-0	Oldham
+
+Matchday 11
+
+[1900-10-08]
+	15.00		Swindon	2-1	Oxford
+[1900-10-13]
+	15.00		Cambridge	2-1	Luton
+[1900-10-14]
+	15.00		Bournemouth	0-1	Rotherham
+	15.00		Brentford	1-0	Peterboro
+	15.00		Bristol Rvs	0-1	Northampton
+	15.00		Millwall	4-0	Bury
+	15.00		Notts County	2-2	Wigan
+	15.00		Oldham	1-0	Swindon
+	15.00		Oxford	3-4	Wrexham
+	15.00		Port Vale	3-1	Colchester
+	15.00		Reading	2-0	Wycombe
+	15.00		Swansea	2-1	Stoke
+
+Matchday 12
+
+[1900-10-14]
+	15.00		Walsall	0-0	Bristol City
+[1900-10-17]
+	15.00		Bournemouth	0-0	Wigan
+	15.00		Brentford	1-0	Colchester
+	15.00		Bristol Rvs	1-1	Rotherham
+	15.00		Cambridge	1-1	Stoke
+	15.00		Millwall	1-1	Bristol City
+	15.00		Notts County	1-0	Bury
+	15.00		Oldham	2-0	Wycombe
+	15.00		Oxford	0-0	Luton
+	15.00		Port Vale	2-2	Northampton
+	15.00		Reading	4-1	Wrexham
+	15.00		Swansea	0-0	Swindon
+
+Matchday 13
+
+[1900-10-17]
+	15.00		Walsall	1-1	Peterboro
+[1900-10-21]
+	15.00		Bristol City	4-0	Reading
+	15.00		Bury	2-5	Bournemouth
+	15.00		Colchester	2-0	Cambridge
+	15.00		Luton	3-1	Brentford
+	15.00		Northampton	2-1	Oldham
+	15.00		Peterboro	1-0	Notts County
+	15.00		Rotherham	3-1	Oxford
+	15.00		Stoke	3-2	Millwall
+	15.00		Swindon	1-3	Bristol Rvs
+	15.00		Wigan	1-0	Port Vale
+	15.00		Wrexham	1-0	Swansea
+
+Matchday 14
+
+[1900-10-21]
+	15.00		Wycombe	3-1	Walsall
+[1900-10-24]
+	15.00		Bournemouth	0-1	Notts County
+	15.00		Bristol City	2-1	Peterboro
+	15.00		Bury	0-2	Reading
+	15.00		Cambridge	1-2	Northampton
+	15.00		Colchester	2-1	Bristol Rvs
+	15.00		Oxford	0-2	Wigan
+	15.00		Port Vale	1-1	Brentford
+	15.00		Rotherham	4-2	Swansea
+	15.00		Swindon	0-2	Millwall
+	15.00		Walsall	3-0	Stoke
+	15.00		Wrexham	0-0	Wycombe
+
+Matchday 15
+
+[1900-10-28]
+	15.00		Brentford	2-1	Walsall
+	15.00		Bristol Rvs	0-2	Oldham
+	15.00		Luton	3-4	Wrexham
+	15.00		Millwall	3-1	Cambridge
+	15.00		Northampton	0-1	Rotherham
+	15.00		Notts County	3-2	Swindon
+	15.00		Peterboro	3-1	Colchester
+	15.00		Reading	4-3	Oxford
+	15.00		Stoke	2-1	Bournemouth
+	15.00		Swansea	0-1	Port Vale
+	15.00		Wigan	1-0	Bury
+	15.00		Wycombe	1-2	Bristol City
+
+Matchday 16
+
+[1900-10-31]
+	15.00		Swansea	2-2	Bristol City
+	15.00		Swindon	3-1	Cambridge
+[1900-11-04]
+	15.00		Bournemouth	2-1	Peterboro
+	15.00		Bristol City	4-0	Notts County
+	15.00		Bury	1-1	Luton
+	15.00		Cambridge	1-1	Brentford
+	15.00		Colchester	0-2	Northampton
+	15.00		Oldham	1-1	Swansea
+	15.00		Oxford	0-1	Bristol Rvs
+	15.00		Port Vale	1-1	Millwall
+	15.00		Rotherham	1-1	Wigan
+	15.00		Swindon	1-1	Wycombe
+
+Matchday 17
+
+[1900-11-04]
+	15.00		Walsall	2-1	Reading
+	15.00		Wrexham	1-2	Stoke
+[1900-11-07]
+	15.00		Northampton	2-2	Stoke
+	15.00		Swindon	2-2	Wrexham
+	15.00		Wigan	1-0	Millwall
+[1900-11-11]
+	15.00		Brentford	0-3	Rotherham
+	15.00		Bristol Rvs	0-0	Walsall
+	15.00		Luton	0-3	Bristol City
+	15.00		Millwall	1-0	Wrexham
+	15.00		Northampton	0-3	Bournemouth
+	15.00		Peterboro	4-0	Swindon
+	15.00		Reading	0-1	Colchester
+
+Matchday 18
+
+[1900-11-11]
+	15.00		Stoke	0-1	Oldham
+	15.00		Swansea	1-2	Oxford
+	15.00		Wigan	2-1	Cambridge
+	15.00		Wycombe	2-1	Bury
+[1900-11-21]
+	15.00		Wrexham	2-2	Cambridge
+[1900-11-22]
+	15.00		Bristol Rvs	1-2	Millwall
+[1900-11-25]
+	15.00		Bristol City	1-1	Wigan
+	15.00		Cambridge	3-3	Swansea
+	15.00		Colchester	0-0	Wycombe
+	15.00		Oldham	0-1	Millwall
+	15.00		Oxford	2-3	Notts County
+	15.00		Port Vale	3-0	Luton
+
+Matchday 19
+
+[1900-11-25]
+	15.00		Rotherham	3-0	Peterboro
+	15.00		Swindon	0-3	Stoke
+	15.00		Walsall	3-0	Northampton
+	15.00		Wrexham	1-0	Bristol Rvs
+[1900-12-02]
+	15.00		Brentford	2-2	Wigan
+	15.00		Bristol City	4-1	Bury
+	15.00		Colchester	2-0	Notts County
+	15.00		Northampton	0-1	Swindon
+	15.00		Oldham	3-2	Oxford
+	15.00		Peterboro	1-0	Wrexham
+	15.00		Reading	3-0	Cambridge
+	15.00		Rotherham	3-2	Millwall
+
+Matchday 20
+
+[1900-12-02]
+	15.00		Stoke	1-3	Luton
+	15.00		Swansea	0-0	Bristol Rvs
+	15.00		Walsall	2-1	Port Vale
+	15.00		Wycombe	0-3	Bournemouth
+[1900-12-12]
+	15.00		Bristol City	1-2	Brentford
+[1900-12-15]
+	15.00		Cambridge	0-0	Peterboro
+[1900-12-16]
+	15.00		Bournemouth	2-0	Swansea
+	15.00		Bristol Rvs	0-3	Stoke
+	15.00		Bury	1-1	Oldham
+	15.00		Luton	0-3	Colchester
+	15.00		Millwall	2-0	Walsall
+	15.00		Notts County	3-2	Reading
+
+Matchday 21
+
+[1900-12-16]
+	15.00		Oxford	3-1	Northampton
+	15.00		Port Vale	1-2	Bristol City
+	15.00		Swindon	2-1	Rotherham
+	15.00		Wigan	2-1	Wycombe
+	15.00		Wrexham	2-1	Brentford
+[1900-12-22]
+	15.00		Bristol City	3-2	Bristol Rvs
+	15.00		Colchester	3-2	Oxford
+	15.00		Port Vale	0-2	Rotherham
+[1900-12-23]
+	15.00		Bournemouth	1-2	Millwall
+	15.00		Brentford	1-1	Oldham
+	15.00		Bury	1-0	Swindon
+	15.00		Notts County	1-0	Wrexham
+
+Matchday 22
+
+[1900-12-23]
+	15.00		Peterboro	1-2	Northampton
+	15.00		Reading	4-1	Luton
+	15.00		Walsall	3-1	Cambridge
+	15.00		Wigan	1-1	Stoke
+	15.00		Wycombe	2-1	Swansea
+[1900-12-26]
+	15.00		Bristol Rvs	2-2	Reading
+	15.00		Cambridge	1-0	Wycombe
+	15.00		Luton	3-2	Peterboro
+	15.00		Millwall	6-1	Colchester
+	15.00		Northampton	2-0	Bristol City
+	15.00		Oldham	2-1	Wigan
+	15.00		Oxford	1-2	Bournemouth
+
+Matchday 23
+
+[1900-12-26]
+	15.00		Rotherham	0-0	Notts County
+	15.00		Stoke	2-1	Bury
+	15.00		Swansea	3-1	Walsall
+	15.00		Swindon	2-3	Brentford
+	15.00		Wrexham	1-0	Port Vale
+[1900-12-30]
+	15.00		Luton	0-2	Wigan
+	15.00		Millwall	2-3	Notts County
+	15.00		Northampton	2-2	Wycombe
+	15.00		Oldham	0-0	Walsall
+	15.00		Stoke	1-0	Bristol City
+[1901-01-01]
+	15.00		Bournemouth	3-2	Luton
+	15.00		Brentford	3-0	Oxford
+
+Matchday 24
+
+[1901-01-01]
+	15.00		Bristol City	6-2	Cambridge
+	15.00		Bury	0-0	Rotherham
+	15.00		Notts County	2-2	Stoke
+	15.00		Peterboro	0-0	Oldham
+	15.00		Reading	1-1	Northampton
+	15.00		Walsall	1-0	Swindon
+	15.00		Wigan	0-0	Wrexham
+[1901-01-06]
+	15.00		Brentford	1-1	Northampton
+	15.00		Bury	0-1	Cambridge
+	15.00		Port Vale	0-0	Oldham
+	15.00		Reading	3-4	Millwall
+	15.00		Wigan	2-0	Swansea
+
+Matchday 25
+
+[1901-01-12]
+	15.00		Luton	1-2	Wycombe
+[1901-01-13]
+	15.00		Bristol Rvs	0-0	Brentford
+	15.00		Cambridge	2-2	Notts County
+	15.00		Millwall	3-1	Wigan
+	15.00		Northampton	2-1	Bury
+	15.00		Oldham	1-1	Colchester
+	15.00		Oxford	2-1	Walsall
+	15.00		Rotherham	1-1	Bristol City
+	15.00		Stoke	0-0	Reading
+	15.00		Swansea	2-2	Peterboro
+	15.00		Swindon	0-1	Port Vale
+	15.00		Wrexham	2-2	Bournemouth
+
+Matchday 26
+
+[1901-01-17]
+	15.00		Stoke	1-0	Brentford
+[1901-01-20]
+	15.00		Bristol City	2-0	Northampton
+	15.00		Notts County	4-1	Rotherham
+	15.00		Reading	1-0	Bristol Rvs
+	15.00		Walsall	5-1	Swansea
+	15.00		Wigan	3-1	Oldham
+[1901-01-23]
+	15.00		Bury	0-1	Brentford
+	15.00		Cambridge	0-2	Bournemouth
+	15.00		Oldham	2-0	Luton
+	15.00		Walsall	1-1	Rotherham
+[1901-01-27]
+	15.00		Cambridge	0-1	Walsall
+	15.00		Millwall	0-1	Bournemouth
+
+Matchday 27
+
+[1901-01-27]
+	15.00		Northampton	0-0	Peterboro
+	15.00		Oldham	3-0	Brentford
+	15.00		Oxford	0-1	Colchester
+	15.00		Rotherham	3-2	Port Vale
+	15.00		Stoke	2-0	Wigan
+	15.00		Swindon	3-0	Bury
+[1901-01-30]
+	15.00		Peterboro	4-2	Oxford
+[1901-02-02]
+	15.00		Wigan	1-1	Walsall
+[1901-02-03]
+	15.00		Bournemouth	2-2	Colchester
+	15.00		Bristol City	3-1	Swansea
+	15.00		Bury	2-1	Peterboro
+	15.00		Millwall	3-0	Bristol Rvs
+
+Matchday 28
+
+[1901-02-03]
+	15.00		Notts County	1-0	Oldham
+	15.00		Reading	1-0	Port Vale
+	15.00		Stoke	1-1	Northampton
+	15.00		Wycombe	0-0	Brentford
+[1901-02-04]
+	15.00		Wrexham	1-1	Swindon
+[1901-02-06]
+	15.00		Colchester	0-1	Millwall
+	15.00		Wycombe	0-2	Cambridge
+[1901-02-10]
+	15.00		Brentford	1-2	Reading
+	15.00		Bristol Rvs	0-0	Notts County
+	15.00		Colchester	0-2	Wigan
+	15.00		Northampton	0-1	Luton
+	15.00		Oldham	5-1	Wrexham
+
+Matchday 29
+
+[1901-02-10]
+	15.00		Oxford	1-2	Wycombe
+	15.00		Peterboro	0-4	Stoke
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		Rotherham	3-0	Cambridge
+	15.00		Swindon	1-1	Bristol City
+	15.00		Walsall	1-2	Bury
+[1901-02-11]
+	15.00		Swansea	0-0	Millwall
+[1901-02-13]
+	15.00		Bristol City	2-1	Wrexham
+	15.00		Notts County	1-3	Luton
+[1901-02-16]
+	15.00		Millwall	1-0	Brentford
+[1901-02-17]
+	15.00		Bournemouth	2-2	Walsall
+	15.00		Bury	3-1	Oxford
+
+Matchday 30
+
+[1901-02-17]
+	15.00		Cambridge	0-1	Swindon
+	15.00		Luton	5-3	Swansea
+	15.00		Notts County	2-0	Northampton
+	15.00		Reading	1-1	Peterboro
+	15.00		Stoke	1-1	Port Vale
+	15.00		Wigan	0-0	Bristol Rvs
+	15.00		Wrexham	1-0	Colchester
+[1901-02-20]
+	15.00		Brentford	2-1	Bristol City
+	15.00		Colchester	1-1	Bury
+	15.00		Northampton	3-3	Millwall
+	15.00		Oldham	0-2	Reading
+	15.00		Oxford	1-1	Stoke
+
+Matchday 31
+
+[1901-02-20]
+	15.00		Peterboro	2-0	Wigan
+	15.00		Port Vale	4-2	Cambridge
+	15.00		Rotherham	2-0	Wrexham
+	15.00		Swansea	0-1	Notts County
+	15.00		Swindon	1-1	Bournemouth
+	15.00		Walsall	3-1	Luton
+[1901-02-24]
+	15.00		Brentford	3-1	Notts County
+	15.00		Bristol Rvs	2-1	Cambridge
+	15.00		Colchester	4-0	Bristol City
+	15.00		Northampton	1-0	Wigan
+	15.00		Oldham	2-1	Bournemouth
+	15.00		Oxford	0-2	Millwall
+
+Matchday 32
+
+[1901-02-24]
+	15.00		Peterboro	3-2	Wycombe
+	15.00		Port Vale	1-1	Bury
+	15.00		Rotherham	2-1	Stoke
+	15.00		Swansea	0-1	Reading
+	15.00		Swindon	1-3	Luton
+	15.00		Walsall	2-3	Wrexham
+[1901-02-27]
+	15.00		Bournemouth	1-2	Bristol Rvs
+	15.00		Northampton	2-1	Swansea
+	15.00		Rotherham	3-2	Colchester
+[1901-03-02]
+	15.00		Wrexham	3-0	Northampton
+[1901-03-03]
+	15.00		Bournemouth	2-0	Brentford
+	15.00		Bristol City	0-0	Oxford
+
+Matchday 33
+
+[1901-03-03]
+	15.00		Bury	3-0	Swansea
+	15.00		Cambridge	2-0	Oldham
+	15.00		Luton	0-0	Bristol Rvs
+	15.00		Millwall	0-0	Peterboro
+	15.00		Notts County	2-0	Walsall
+	15.00		Reading	2-0	Rotherham
+	15.00		Stoke	3-1	Colchester
+	15.00		Wigan	0-0	Swindon
+	15.00		Wycombe	0-1	Port Vale
+[1901-03-06]
+	15.00		Bristol City	1-3	Walsall
+	15.00		Bury	2-1	Millwall
+	15.00		Luton	1-0	Cambridge
+
+Matchday 34
+
+[1901-03-06]
+	15.00		Northampton	2-1	Bristol Rvs
+	15.00		Peterboro	1-1	Brentford
+	15.00		Rotherham	3-1	Bournemouth
+	15.00		Swindon	3-0	Oldham
+	15.00		Wigan	1-1	Notts County
+	15.00		Wrexham	5-3	Oxford
+	15.00		Wycombe	1-1	Reading
+[1901-03-07]
+	15.00		Colchester	0-1	Port Vale
+	15.00		Stoke	1-2	Swansea
+[1901-03-09]
+	15.00		Reading	1-0	Wigan
+[1901-03-10]
+	15.00		Bournemouth	4-0	Bristol City
+	15.00		Brentford	2-2	Stoke
+
+Matchday 35
+
+[1901-03-10]
+	15.00		Bristol Rvs	2-0	Bury
+	15.00		Cambridge	2-3	Wrexham
+	15.00		Millwall	1-0	Luton
+	15.00		Oldham	2-3	Rotherham
+	15.00		Oxford	0-2	Swindon
+	15.00		Port Vale	5-0	Peterboro
+	15.00		Swansea	1-1	Northampton
+	15.00		Walsall	0-1	Colchester
+[1901-03-13]
+	15.00		Wycombe	0-1	Stoke
+[1901-03-16]
+	15.00		Bristol City	2-1	Millwall
+	15.00		Colchester	3-1	Brentford
+[1901-03-17]
+	15.00		Bury	1-1	Notts County
+
+Matchday 36
+
+[1901-03-17]
+	15.00		Rotherham	3-0	Bristol Rvs
+	15.00		Stoke	2-3	Cambridge
+	15.00		Swindon	1-1	Swansea
+	15.00		Wigan	1-1	Bournemouth
+	15.00		Wrexham	1-2	Reading
+	15.00		Wycombe	2-1	Oldham
+[1901-03-20]
+	15.00		Colchester	0-1	Swindon
+	15.00		Wrexham	0-1	Bury
+	15.00		Wycombe	0-1	Rotherham
+[1901-03-23]
+	15.00		Notts County	3-3	Peterboro
+	15.00		Oldham	2-1	Northampton
+	15.00		Reading	1-3	Bristol City
+
+Matchday 37
+
+[1901-03-24]
+	15.00		Bournemouth	1-0	Bury
+	15.00		Bristol Rvs	0-0	Swindon
+	15.00		Oxford	4-3	Rotherham
+	15.00		Port Vale	0-0	Wigan
+	15.00		Walsall	5-1	Wycombe
+[1901-03-27]
+	15.00		Bristol City	2-2	Oldham
+	15.00		Bury	1-0	Stoke
+	15.00		Cambridge	1-0	Oxford
+	15.00		Notts County	0-1	Port Vale
+	15.00		Peterboro	1-1	Luton
+	15.00		Swindon	0-1	Reading
+	15.00		Wycombe	0-0	Millwall
+
+Matchday 38
+
+[1901-03-31]
+	15.00		Brentford	1-0	Wrexham
+	15.00		Bristol City	1-1	Port Vale
+	15.00		Colchester	3-1	Luton
+	15.00		Northampton	0-1	Oxford
+	15.00		Oldham	1-1	Bury
+	15.00		Peterboro	4-1	Cambridge
+	15.00		Reading	2-1	Notts County
+	15.00		Rotherham	4-3	Swindon
+	15.00		Stoke	4-1	Bristol Rvs
+	15.00		Swansea	0-3	Bournemouth
+	15.00		Walsall	0-0	Millwall
+	15.00		Wycombe	1-2	Wigan
+
+Matchday 39
+
+[1901-04-03]
+	15.00		Bournemouth	4-3	Oxford
+	15.00		Bristol Rvs	1-1	Bristol City
+	15.00		Colchester	3-0	Swansea
+	15.00		Luton	1-1	Reading
+	15.00		Millwall	2-0	Stoke
+	15.00		Port Vale	1-1	Wrexham
+[1901-04-07]
+	15.00		Bristol Rvs	1-0	Swansea
+	15.00		Bury	0-1	Bristol City
+	15.00		Cambridge	1-1	Reading
+	15.00		Luton	1-2	Stoke
+	15.00		Millwall	4-0	Rotherham
+	15.00		Oxford	0-1	Oldham
+
+Matchday 40
+
+[1901-04-07]
+	15.00		Swindon	1-1	Northampton
+	15.00		Wigan	1-3	Brentford
+	15.00		Wrexham	2-1	Peterboro
+[1901-04-09]
+	15.00		Port Vale	1-0	Bristol Rvs
+[1901-04-10]
+	15.00		Bournemouth	1-2	Reading
+	15.00		Brentford	0-1	Swindon
+	15.00		Luton	1-1	Oxford
+	15.00		Swansea	3-1	Wycombe
+	15.00		Wrexham	1-1	Notts County
+[1901-04-11]
+	15.00		Bristol Rvs	1-2	Peterboro
+	15.00		Millwall	1-0	Port Vale
+[1901-04-13]
+	15.00		Northampton	0-2	Cambridge
+
+Matchday 41
+
+[1901-04-14]
+	15.00		Brentford	1-1	Port Vale
+	15.00		Bristol Rvs	2-0	Colchester
+	15.00		Luton	0-0	Oldham
+	15.00		Millwall	1-0	Swindon
+	15.00		Notts County	0-2	Bournemouth
+	15.00		Peterboro	2-1	Bristol City
+	15.00		Reading	4-1	Bury
+	15.00		Stoke	0-0	Walsall
+	15.00		Swansea	0-0	Rotherham
+	15.00		Wigan	3-2	Oxford
+	15.00		Wycombe	1-1	Wrexham
+[1901-04-16]
+	15.00		Bristol City	1-2	Wycombe
+
+Matchday 42
+
+[1901-04-16]
+	15.00		Bury	0-1	Wigan
+	15.00		Oldham	1-0	Bristol Rvs
+	15.00		Port Vale	1-0	Swansea
+	15.00		Rotherham	1-0	Northampton
+	15.00		Swindon	1-2	Notts County
+	15.00		Wrexham	3-1	Luton
+[1901-04-17]
+	15.00		Bournemouth	1-0	Stoke
+	15.00		Cambridge	1-5	Millwall
+	15.00		Colchester	2-2	Peterboro
+	15.00		Oxford	0-2	Reading
+	15.00		Walsall	3-2	Brentford
+[1901-04-21]
+	15.00		Bristol Rvs	6-2	Oxford
+
+Matchday 43
+
+[1901-04-21]
+	15.00		Luton	1-2	Bury
+	15.00		Northampton	2-0	Colchester
+	15.00		Notts County	2-1	Bristol City
+	15.00		Peterboro	1-2	Bournemouth
+	15.00		Reading	2-2	Walsall
+	15.00		Stoke	3-1	Wrexham
+	15.00		Swansea	1-2	Oldham
+	15.00		Wigan	0-2	Rotherham
+	15.00		Wycombe	0-0	Swindon
+[1901-04-23]
+	15.00		Bournemouth	2-0	Wycombe
+[1901-04-24]
+	15.00		Luton	0-1	Rotherham
+	15.00		Peterboro	2-0	Walsall
+
+Matchday 44
+
+[1901-04-24]
+	15.00		Swansea	0-1	Wrexham
+[1901-04-25]
+	15.00		Brentford	2-2	Cambridge
+[1901-04-26]
+	15.00		Northampton	0-2	Port Vale
+	15.00		Notts County	0-2	Wycombe
+[1901-04-28]
+	15.00		Bournemouth	2-0	Northampton
+	15.00		Bristol City	3-1	Luton
+	15.00		Bury	1-1	Wycombe
+	15.00		Cambridge	1-2	Wigan
+	15.00		Colchester	2-1	Reading
+	15.00		Oldham	1-2	Stoke
+	15.00		Oxford	3-1	Swansea
+	15.00		Port Vale	2-3	Notts County
+
+Matchday 45
+
+[1901-04-28]
+	15.00		Rotherham	2-1	Brentford
+	15.00		Swindon	2-1	Peterboro
+	15.00		Walsall	2-1	Bristol Rvs
+	15.00		Wrexham	1-1	Millwall
+[1901-04-30]
+	15.00		Bristol Rvs	0-3	Port Vale
+[1901-05-01]
+	15.00		Cambridge	2-1	Colchester
+	15.00		Oxford	1-1	Port Vale
+	15.00		Swansea	6-0	Brentford
+[1901-05-02]
+	15.00		Bristol Rvs	1-2	Wycombe
+[1901-05-03]
+	15.00		Brentford	2-2	Luton
+	15.00		Notts County	2-2	Colchester
+	15.00		Port Vale	0-2	Walsall
+
+Matchday 46
+
+[1901-05-05]
+	15.00		Brentford	3-1	Bury
+	15.00		Bristol Rvs	4-0	Wrexham
+	15.00		Luton	1-1	Port Vale
+	15.00		Millwall	5-0	Oldham
+	15.00		Northampton	0-3	Walsall
+	15.00		Notts County	2-1	Oxford
+	15.00		Peterboro	1-1	Rotherham
+	15.00		Reading	3-3	Bournemouth
+	15.00		Stoke	4-1	Swindon
+	15.00		Swansea	1-1	Cambridge
+	15.00		Wigan	0-0	Bristol City
+	15.00		Wycombe	1-1	Colchester
+

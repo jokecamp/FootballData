@@ -1,0 +1,808 @@
+############################
+# Premier League 1993-1994
+
+Matchday 1
+
+[1993-08-14]
+	15.00		Barnet	1-2	Hull
+	15.00		Bradford	2-0	Brighton
+	15.00		Brentford	2-1	Exeter
+	15.00		Bristol Rvs	0-1	Bournemouth
+	15.00		Burnley	2-1	Port Vale
+	15.00		Cambridge	3-2	Blackpool
+	15.00		Cardiff	2-0	Leyton Orient
+	15.00		Hartlepool	0-1	Fulham
+	15.00		Huddersfield	0-3	Reading
+	15.00		Plymouth	2-3	Stockport
+	15.00		Wrexham	3-3	Rotherham
+	15.00		York	2-1	Swansea
+
+Matchday 2
+
+[1993-08-21]
+	15.00		Blackpool	1-1	Brentford
+	15.00		Bournemouth	1-1	Bradford
+	15.00		Brighton	1-1	Hartlepool
+	15.00		Exeter	1-2	York
+	15.00		Fulham	1-3	Cardiff
+	15.00		Hull	2-2	Plymouth
+	15.00		Leyton Orient	1-0	Bristol Rvs
+	15.00		Port Vale	6-0	Barnet
+	15.00		Reading	2-1	Burnley
+	15.00		Rotherham	2-3	Huddersfield
+	15.00		Stockport	3-1	Cambridge
+	15.00		Swansea	3-1	Wrexham
+
+Matchday 3
+
+[1993-08-28]
+	15.00		Barnet	0-1	Swansea
+	15.00		Bradford	6-0	Exeter
+	15.00		Brentford	1-0	Reading
+	15.00		Bristol Rvs	2-1	Fulham
+	15.00		Burnley	4-1	Leyton Orient
+	15.00		Cambridge	3-4	Hull
+	15.00		Cardiff	2-2	Brighton
+	15.00		Hartlepool	1-1	Bournemouth
+	15.00		Huddersfield	1-1	Stockport
+	15.00		Plymouth	2-0	Port Vale
+	15.00		Wrexham	2-3	Blackpool
+	15.00		York	0-0	Rotherham
+
+Matchday 4
+
+[1993-08-31]
+	15.00		Blackpool	2-1	Plymouth
+	15.00		Bournemouth	3-1	York
+	15.00		Exeter	2-2	Cardiff
+	15.00		Fulham	0-0	Wrexham
+	15.00		Hull	1-0	Brentford
+	15.00		Leyton Orient	1-2	Hartlepool
+	15.00		Port Vale	2-2	Cambridge
+	15.00		Rotherham	3-2	Burnley
+	15.00		Stockport	4-1	Bradford
+	15.00		Swansea	1-0	Huddersfield
+[1993-09-01]
+	15.00		Brighton	0-2	Bristol Rvs
+	15.00		Reading	4-1	Barnet
+
+Matchday 5
+
+[1993-09-04]
+	15.00		Blackpool	3-1	Barnet
+	15.00		Bournemouth	1-0	Burnley
+	15.00		Brighton	2-2	Huddersfield
+	15.00		Exeter	2-1	Hartlepool
+	15.00		Fulham	1-1	Bradford
+	15.00		Hull	3-0	Bristol Rvs
+	15.00		Leyton Orient	2-0	York
+	15.00		Port Vale	2-2	Cardiff
+	15.00		Reading	3-1	Cambridge
+	15.00		Rotherham	2-0	Brentford
+	15.00		Stockport	1-0	Wrexham
+	15.00		Swansea	0-1	Plymouth
+
+Matchday 6
+
+[1993-09-11]
+	15.00		Barnet	1-2	Bournemouth
+	15.00		Bradford	2-1	Blackpool
+	15.00		Brentford	1-1	Swansea
+	15.00		Bristol Rvs	2-0	Port Vale
+	15.00		Burnley	3-1	Fulham
+	15.00		Cambridge	0-1	Rotherham
+	15.00		Cardiff	3-4	Hull
+	15.00		Hartlepool	1-0	Stockport
+	15.00		Huddersfield	0-1	Exeter
+	15.00		Plymouth	3-1	Leyton Orient
+	15.00		Wrexham	3-2	Reading
+	15.00		York	3-1	Brighton
+
+Matchday 7
+
+[1993-09-14]
+	15.00		Barnet	0-2	Fulham
+	15.00		Brentford	0-1	Leyton Orient
+	15.00		Burnley	3-0	Brighton
+	15.00		Cambridge	2-0	Swansea
+	15.00		Hartlepool	2-0	Blackpool
+	15.00		Huddersfield	1-1	Port Vale
+	15.00		Plymouth	4-2	Rotherham
+	15.00		Wrexham	3-0	Hull
+	15.00		York	1-2	Stockport
+[1993-09-15]
+	15.00		Bradford	2-4	Reading
+	15.00		Bristol Rvs	1-1	Exeter
+[1993-09-18]
+	15.00		Blackpool	1-0	Cardiff
+
+Matchday 8
+
+[1993-09-18]
+	15.00		Bournemouth	1-2	Cambridge
+	15.00		Brighton	2-1	Brentford
+	15.00		Exeter	5-0	Wrexham
+	15.00		Fulham	0-1	York
+	15.00		Hull	2-1	Huddersfield
+	15.00		Leyton Orient	4-2	Barnet
+	15.00		Port Vale	1-0	Hartlepool
+	15.00		Reading	3-2	Plymouth
+	15.00		Rotherham	1-1	Bristol Rvs
+	15.00		Stockport	2-1	Burnley
+	15.00		Swansea	2-0	Bradford
+[1993-09-25]
+	15.00		Blackpool	2-1	Bournemouth
+
+Matchday 9
+
+[1993-09-25]
+	15.00		Bradford	2-0	Cambridge
+	15.00		Brentford	1-2	Port Vale
+	15.00		Bristol Rvs	3-1	Burnley
+	15.00		Cardiff	2-3	Plymouth
+	15.00		Exeter	1-0	Swansea
+	15.00		Hartlepool	0-2	York
+	15.00		Huddersfield	1-0	Fulham
+	15.00		Leyton Orient	1-3	Brighton
+	15.00		Reading	1-1	Hull
+	15.00		Stockport	2-0	Rotherham
+	15.00		Wrexham	4-0	Barnet
+[1993-10-01]
+	15.00		Swansea	1-1	Reading
+
+Matchday 10
+
+[1993-10-02]
+	15.00		Barnet	1-2	Bristol Rvs
+	15.00		Bournemouth	1-1	Stockport
+	15.00		Brighton	0-0	Exeter
+	15.00		Burnley	2-0	Hartlepool
+	15.00		Cambridge	1-1	Brentford
+	15.00		Fulham	2-3	Leyton Orient
+	15.00		Hull	3-1	Bradford
+	15.00		Plymouth	2-0	Huddersfield
+	15.00		Port Vale	3-0	Wrexham
+	15.00		Rotherham	0-2	Blackpool
+	15.00		York	5-0	Cardiff
+[1993-10-09]
+	15.00		Brighton	1-1	Stockport
+
+Matchday 11
+
+[1993-10-09]
+	15.00		Bristol Rvs	4-3	Bradford
+	15.00		Burnley	4-2	Plymouth
+	15.00		Exeter	4-6	Reading
+	15.00		Fulham	0-2	Bournemouth
+	15.00		Hartlepool	0-1	Brentford
+	15.00		Leyton Orient	1-1	Rotherham
+	15.00		Port Vale	2-1	Hull
+	15.00		Swansea	4-4	Blackpool
+	15.00		Wrexham	1-1	Cambridge
+	15.00		York	0-2	Huddersfield
+[1993-10-10]
+	15.00		Barnet	0-0	Cardiff
+[1993-10-16]
+	15.00		Blackpool	1-3	Port Vale
+
+Matchday 12
+
+[1993-10-16]
+	15.00		Bournemouth	2-1	Brighton
+	15.00		Bradford	0-1	Burnley
+	15.00		Brentford	2-1	Wrexham
+	15.00		Cambridge	1-0	Hartlepool
+	15.00		Cardiff	1-2	Bristol Rvs
+	15.00		Huddersfield	1-2	Barnet
+	15.00		Hull	1-1	Fulham
+	15.00		Plymouth	2-1	York
+	15.00		Reading	2-1	Leyton Orient
+	15.00		Rotherham	1-1	Swansea
+	15.00		Stockport	4-0	Exeter
+[1993-10-23]
+	15.00		Barnet	2-3	Cambridge
+
+Matchday 13
+
+[1993-10-23]
+	15.00		Brighton	0-2	Rotherham
+	15.00		Bristol Rvs	0-0	Plymouth
+	15.00		Burnley	1-1	Huddersfield
+	15.00		Exeter	1-0	Blackpool
+	15.00		Fulham	0-1	Stockport
+	15.00		Hartlepool	1-2	Bradford
+	15.00		Leyton Orient	0-0	Bournemouth
+	15.00		Port Vale	0-4	Reading
+	15.00		Swansea	1-0	Hull
+	15.00		Wrexham	3-1	Cardiff
+	15.00		York	0-2	Brentford
+[1993-10-30]
+	15.00		Blackpool	2-0	Brighton
+
+Matchday 14
+
+[1993-10-30]
+	15.00		Bournemouth	1-1	Exeter
+	15.00		Bradford	0-0	York
+	15.00		Brentford	1-0	Barnet
+	15.00		Cambridge	0-1	Burnley
+	15.00		Cardiff	2-2	Hartlepool
+	15.00		Huddersfield	1-0	Bristol Rvs
+	15.00		Hull	0-1	Leyton Orient
+	15.00		Plymouth	1-1	Wrexham
+	15.00		Reading	1-0	Fulham
+	15.00		Rotherham	0-2	Port Vale
+	15.00		Stockport	4-0	Swansea
+[1993-11-02]
+	15.00		Blackpool	6-2	Hull
+
+Matchday 15
+
+[1993-11-02]
+	15.00		Bradford	3-0	Huddersfield
+	15.00		Brentford	1-1	Cardiff
+	15.00		Brighton	1-1	Wrexham
+	15.00		Cambridge	2-0	Plymouth
+	15.00		Exeter	6-4	Fulham
+	15.00		Hartlepool	2-1	Barnet
+	15.00		Rotherham	2-2	Reading
+	15.00		Stockport	3-0	Leyton Orient
+	15.00		Swansea	3-1	Burnley
+	15.00		York	0-1	Bristol Rvs
+[1993-11-06]
+	15.00		Barnet	1-2	Bradford
+	15.00		Bristol Rvs	1-1	Hartlepool
+
+Matchday 16
+
+[1993-11-06]
+	15.00		Burnley	2-1	York
+	15.00		Cardiff	3-1	Stockport
+	15.00		Fulham	0-1	Brighton
+	15.00		Huddersfield	1-1	Cambridge
+	15.00		Hull	4-1	Rotherham
+	15.00		Leyton Orient	1-1	Exeter
+	15.00		Plymouth	1-1	Brentford
+	15.00		Port Vale	3-0	Swansea
+	15.00		Reading	1-1	Blackpool
+	15.00		Wrexham	2-1	Bournemouth
+[1993-11-19]
+	15.00		Cambridge	1-1	Cardiff
+[1993-11-20]
+	15.00		Blackpool	2-1	Huddersfield
+
+Matchday 17
+
+[1993-11-20]
+	15.00		Bournemouth	0-2	Hull
+	15.00		Bradford	1-5	Plymouth
+	15.00		Brentford	0-0	Burnley
+	15.00		Brighton	0-1	Reading
+	15.00		Exeter	1-1	Port Vale
+	15.00		Hartlepool	1-2	Wrexham
+	15.00		Rotherham	1-2	Fulham
+	15.00		Stockport	0-2	Bristol Rvs
+	15.00		Swansea	1-1	Leyton Orient
+	15.00		York	1-1	Barnet
+[1993-11-27]
+	15.00		Barnet	2-1	Rotherham
+	15.00		Bristol Rvs	2-1	Cambridge
+
+Matchday 18
+
+[1993-11-27]
+	15.00		Burnley	3-2	Exeter
+	15.00		Cardiff	1-1	Bradford
+	15.00		Fulham	3-1	Swansea
+	15.00		Huddersfield	1-3	Brentford
+	15.00		Hull	0-1	Stockport
+	15.00		Leyton Orient	2-0	Blackpool
+	15.00		Plymouth	2-0	Hartlepool
+	15.00		Port Vale	4-0	Brighton
+	15.00		Reading	3-0	Bournemouth
+	15.00		Wrexham	1-1	York
+[1993-12-04]
+	15.00		Blackpool	2-1	Hartlepool
+[1993-12-07]
+	15.00		Bournemouth	2-1	Port Vale
+
+Matchday 19
+
+[1993-12-11]
+	15.00		Barnet	2-3	Port Vale
+	15.00		Bradford	0-0	Bournemouth
+	15.00		Brentford	3-0	Blackpool
+	15.00		Bristol Rvs	1-1	Leyton Orient
+	15.00		Burnley	0-1	Reading
+	15.00		Cambridge	0-0	Stockport
+	15.00		Cardiff	1-0	Fulham
+	15.00		Hartlepool	2-2	Brighton
+	15.00		Huddersfield	2-1	Rotherham
+	15.00		Plymouth	2-1	Hull
+	15.00		Wrexham	3-2	Swansea
+	15.00		York	3-0	Exeter
+
+Matchday 20
+
+[1993-12-17]
+	15.00		Fulham	2-0	Hartlepool
+	15.00		Rotherham	2-1	Wrexham
+	15.00		Stockport	2-3	Plymouth
+[1993-12-18]
+	15.00		Bournemouth	3-0	Bristol Rvs
+	15.00		Brighton	0-1	Bradford
+	15.00		Exeter	2-2	Brentford
+	15.00		Hull	4-4	Barnet
+	15.00		Leyton Orient	2-2	Cardiff
+	15.00		Port Vale	1-1	Burnley
+	15.00		Reading	0-0	Huddersfield
+	15.00		Swansea	1-2	York
+[1993-12-19]
+	15.00		Blackpool	2-3	Cambridge
+
+Matchday 21
+
+[1993-12-22]
+	15.00		Cardiff	1-0	Swansea
+[1993-12-27]
+	15.00		Bournemouth	0-3	Brentford
+	15.00		Bradford	2-1	Rotherham
+	15.00		Brighton	1-0	Barnet
+	15.00		Burnley	2-1	Wrexham
+	15.00		Fulham	0-0	Port Vale
+	15.00		Hartlepool	1-4	Huddersfield
+	15.00		Leyton Orient	2-1	Cambridge
+	15.00		York	0-0	Hull
+[1993-12-28]
+	15.00		Blackpool	0-5	York
+	15.00		Hull	1-0	Hartlepool
+	15.00		Plymouth	3-1	Fulham
+
+Matchday 22
+
+[1993-12-28]
+	15.00		Reading	2-0	Stockport
+[1993-12-29]
+	15.00		Barnet	1-1	Burnley
+	15.00		Brentford	2-0	Bradford
+	15.00		Cambridge	3-0	Exeter
+	15.00		Port Vale	2-1	Leyton Orient
+[1994-01-01]
+	15.00		Bournemouth	0-1	Plymouth
+	15.00		Bradford	1-0	Wrexham
+	15.00		Brighton	4-1	Cambridge
+	15.00		Bristol Rvs	1-2	Swansea
+	15.00		Burnley	3-1	Blackpool
+	15.00		Cardiff	3-0	Reading
+	15.00		Exeter	0-1	Hull
+
+Matchday 23
+
+[1994-01-01]
+	15.00		Fulham	0-0	Brentford
+	15.00		Hartlepool	2-0	Rotherham
+	15.00		Leyton Orient	1-0	Huddersfield
+	15.00		Stockport	2-1	Barnet
+	15.00		York	1-0	Port Vale
+[1994-01-03]
+	15.00		Blackpool	0-1	Bristol Rvs
+	15.00		Brentford	1-1	Stockport
+	15.00		Cambridge	3-0	Fulham
+	15.00		Huddersfield	1-1	Bournemouth
+	15.00		Hull	1-2	Burnley
+	15.00		Plymouth	1-1	Brighton
+	15.00		Reading	2-1	York
+
+Matchday 24
+
+[1994-01-03]
+	15.00		Rotherham	5-2	Cardiff
+	15.00		Wrexham	4-2	Leyton Orient
+[1994-01-08]
+	15.00		Blackpool	2-3	Fulham
+	15.00		Bradford	0-0	Leyton Orient
+	15.00		Brentford	3-4	Bristol Rvs
+	15.00		Cambridge	0-2	York
+	15.00		Hull	0-0	Brighton
+	15.00		Reading	4-0	Hartlepool
+[1994-01-14]
+	15.00		Swansea	0-0	Rotherham
+[1994-01-15]
+	15.00		Barnet	0-1	Huddersfield
+	15.00		Brighton	3-3	Bournemouth
+	15.00		Bristol Rvs	2-1	Cardiff
+
+Matchday 25
+
+[1994-01-15]
+	15.00		Burnley	0-1	Bradford
+	15.00		Fulham	0-1	Hull
+	15.00		Hartlepool	0-2	Cambridge
+	15.00		Leyton Orient	1-1	Reading
+	15.00		Port Vale	2-0	Blackpool
+	15.00		Wrexham	1-2	Brentford
+	15.00		York	0-0	Plymouth
+[1994-01-22]
+	15.00		Blackpool	1-1	Swansea
+	15.00		Bournemouth	1-3	Fulham
+	15.00		Bradford	0-1	Bristol Rvs
+	15.00		Brentford	1-0	Hartlepool
+	15.00		Cambridge	2-2	Wrexham
+
+Matchday 26
+
+[1994-01-22]
+	15.00		Cardiff	0-0	Barnet
+	15.00		Huddersfield	3-2	York
+	15.00		Hull	0-0	Port Vale
+	15.00		Plymouth	3-2	Burnley
+	15.00		Reading	1-0	Exeter
+	15.00		Rotherham	2-1	Leyton Orient
+	15.00		Stockport	3-0	Brighton
+[1994-01-26]
+	15.00		Bristol Rvs	1-1	Reading
+[1994-01-28]
+	15.00		Swansea	1-1	Hartlepool
+[1994-01-29]
+	15.00		Barnet	0-0	Brentford
+	15.00		Brighton	3-2	Blackpool
+	15.00		Bristol Rvs	0-0	Huddersfield
+
+Matchday 27
+
+[1994-01-29]
+	15.00		Burnley	3-0	Cambridge
+	15.00		Exeter	0-2	Bournemouth
+	15.00		Leyton Orient	3-1	Hull
+	15.00		York	1-1	Bradford
+[1994-01-30]
+	15.00		Fulham	1-0	Reading
+[1994-02-01]
+	15.00		Stockport	1-0	Blackpool
+[1994-02-05]
+	15.00		Blackpool	1-0	Exeter
+	15.00		Bournemouth	1-1	Leyton Orient
+	15.00		Bradford	2-1	Hartlepool
+	15.00		Brentford	1-1	York
+	15.00		Cambridge	1-1	Barnet
+	15.00		Cardiff	5-1	Wrexham
+
+Matchday 28
+
+[1994-02-05]
+	15.00		Huddersfield	1-1	Burnley
+	15.00		Hull	0-1	Swansea
+	15.00		Plymouth	3-3	Bristol Rvs
+	15.00		Reading	1-2	Port Vale
+	15.00		Rotherham	0-1	Brighton
+	15.00		Stockport	2-4	Fulham
+[1994-02-12]
+	15.00		Barnet	0-0	Plymouth
+	15.00		Brighton	3-0	Hull
+	15.00		Bristol Rvs	1-4	Brentford
+	15.00		Burnley	2-0	Cardiff
+	15.00		Exeter	1-1	Rotherham
+	15.00		Fulham	1-0	Blackpool
+
+Matchday 29
+
+[1994-02-12]
+	15.00		Hartlepool	1-4	Reading
+	15.00		Leyton Orient	2-1	Bradford
+	15.00		Port Vale	1-1	Stockport
+	15.00		Swansea	1-1	Bournemouth
+	15.00		Wrexham	3-1	Huddersfield
+	15.00		York	2-0	Cambridge
+[1994-02-18]
+	15.00		Swansea	2-0	Barnet
+[1994-02-19]
+	15.00		Blackpool	4-1	Wrexham
+	15.00		Bournemouth	0-0	Hartlepool
+	15.00		Exeter	0-0	Bradford
+	15.00		Fulham	0-1	Bristol Rvs
+	15.00		Hull	2-0	Cambridge
+
+Matchday 30
+
+[1994-02-19]
+	15.00		Leyton Orient	3-1	Burnley
+	15.00		Port Vale	2-1	Plymouth
+	15.00		Reading	2-1	Brentford
+	15.00		Rotherham	2-1	York
+	15.00		Stockport	3-0	Huddersfield
+[1994-02-22]
+	15.00		Brentford	0-3	Hull
+	15.00		Cambridge	1-0	Port Vale
+	15.00		Huddersfield	1-1	Swansea
+	15.00		Plymouth	2-1	Blackpool
+	15.00		Wrexham	2-0	Fulham
+[1994-02-23]
+	15.00		Bristol Rvs	1-0	Brighton
+[1994-02-26]
+	15.00		Barnet	0-1	Blackpool
+
+Matchday 31
+
+[1994-02-26]
+	15.00		Brentford	2-2	Rotherham
+	15.00		Bristol Rvs	1-1	Hull
+	15.00		Burnley	4-0	Bournemouth
+	15.00		Cambridge	0-1	Reading
+	15.00		Hartlepool	1-2	Exeter
+	15.00		Huddersfield	1-3	Brighton
+	15.00		Plymouth	2-1	Swansea
+	15.00		York	3-0	Leyton Orient
+[1994-03-01]
+	15.00		Cardiff	2-1	Burnley
+	15.00		Port Vale	0-0	Bradford
+[1994-03-02]
+	15.00		Exeter	2-3	Plymouth
+[1994-03-05]
+	15.00		Blackpool	1-3	Bradford
+
+Matchday 32
+
+[1994-03-05]
+	15.00		Bournemouth	1-1	Barnet
+	15.00		Brighton	2-0	York
+	15.00		Exeter	2-3	Huddersfield
+	15.00		Fulham	3-2	Burnley
+	15.00		Hull	1-0	Cardiff
+	15.00		Leyton Orient	2-1	Plymouth
+	15.00		Port Vale	2-0	Bristol Rvs
+	15.00		Reading	0-1	Wrexham
+	15.00		Rotherham	3-0	Cambridge
+	15.00		Stockport	5-0	Hartlepool
+	15.00		Swansea	1-1	Brentford
+[1994-03-08]
+	15.00		Hartlepool	1-1	Leyton Orient
+
+Matchday 33
+
+[1994-03-08]
+	15.00		Plymouth	1-0	Barnet
+	15.00		Rotherham	1-2	Bournemouth
+	15.00		Swansea	3-0	Brighton
+	15.00		Wrexham	0-1	Stockport
+[1994-03-12]
+	15.00		Barnet	3-1	Leyton Orient
+	15.00		Bradford	2-1	Swansea
+	15.00		Brentford	1-1	Brighton
+	15.00		Bristol Rvs	0-2	Rotherham
+	15.00		Burnley	1-1	Stockport
+	15.00		Cambridge	3-2	Bournemouth
+	15.00		Cardiff	0-2	Blackpool
+	15.00		Hartlepool	1-4	Port Vale
+
+Matchday 34
+
+[1994-03-12]
+	15.00		Huddersfield	0-2	Hull
+	15.00		Plymouth	3-1	Reading
+	15.00		Wrexham	1-1	Exeter
+	15.00		York	2-0	Fulham
+[1994-03-15]
+	15.00		Bournemouth	3-2	Cardiff
+	15.00		Exeter	1-0	Bristol Rvs
+	15.00		Fulham	3-0	Barnet
+	15.00		Hull	0-0	Wrexham
+	15.00		Leyton Orient	1-1	Brentford
+	15.00		Port Vale	1-0	Huddersfield
+	15.00		Reading	1-1	Bradford
+	15.00		Rotherham	0-3	Plymouth
+
+Matchday 35
+
+[1994-03-15]
+	15.00		Stockport	1-2	York
+	15.00		Swansea	4-2	Cambridge
+[1994-03-16]
+	15.00		Brighton	1-1	Burnley
+[1994-03-19]
+	15.00		Barnet	1-2	Wrexham
+	15.00		Bournemouth	1-0	Blackpool
+	15.00		Brighton	2-0	Leyton Orient
+	15.00		Burnley	3-1	Bristol Rvs
+	15.00		Cambridge	2-1	Bradford
+	15.00		Fulham	1-1	Huddersfield
+	15.00		Hull	1-2	Reading
+	15.00		Plymouth	1-2	Cardiff
+	15.00		Port Vale	1-0	Brentford
+
+Matchday 36
+
+[1994-03-19]
+	15.00		Rotherham	1-2	Stockport
+	15.00		Swansea	2-0	Exeter
+	15.00		York	3-0	Hartlepool
+[1994-03-22]
+	15.00		Barnet	2-1	Exeter
+	15.00		Bradford	1-2	Stockport
+	15.00		Hartlepool	3-0	Cardiff
+	15.00		Wrexham	3-2	Bristol Rvs
+	15.00		York	2-0	Bournemouth
+[1994-03-26]
+	15.00		Blackpool	1-2	Rotherham
+	15.00		Bradford	1-1	Hull
+	15.00		Brentford	3-3	Cambridge
+	15.00		Bristol Rvs	2-5	Barnet
+
+Matchday 37
+
+[1994-03-26]
+	15.00		Cardiff	0-0	York
+	15.00		Exeter	1-1	Brighton
+	15.00		Hartlepool	4-1	Burnley
+	15.00		Huddersfield	1-0	Plymouth
+	15.00		Leyton Orient	2-2	Fulham
+	15.00		Reading	2-1	Swansea
+	15.00		Stockport	0-2	Bournemouth
+	15.00		Wrexham	2-1	Port Vale
+[1994-03-29]
+	15.00		Bournemouth	1-2	Huddersfield
+	15.00		Bradford	2-1	Port Vale
+	15.00		Burnley	3-1	Hull
+	15.00		Cardiff	1-0	Rotherham
+
+Matchday 38
+
+[1994-03-29]
+	15.00		Exeter	0-0	Barnet
+	15.00		Fulham	0-2	Cambridge
+	15.00		Hartlepool	1-0	Swansea
+	15.00		Leyton Orient	2-2	Wrexham
+	15.00		Stockport	3-1	Brentford
+	15.00		York	1-0	Reading
+[1994-03-30]
+	15.00		Brighton	2-1	Plymouth
+	15.00		Bristol Rvs	1-0	Blackpool
+[1994-04-02]
+	15.00		Barnet	1-1	Brighton
+	15.00		Blackpool	2-0	Stockport
+	15.00		Brentford	1-1	Bournemouth
+	15.00		Cambridge	3-1	Leyton Orient
+
+Matchday 39
+
+[1994-04-02]
+	15.00		Huddersfield	1-1	Hartlepool
+	15.00		Hull	1-1	York
+	15.00		Plymouth	1-0	Exeter
+	15.00		Port Vale	2-2	Fulham
+	15.00		Reading	2-0	Bristol Rvs
+	15.00		Rotherham	2-1	Bradford
+	15.00		Swansea	1-0	Cardiff
+	15.00		Wrexham	1-0	Burnley
+[1994-04-04]
+	15.00		Bradford	1-0	Brentford
+	15.00		Bristol Rvs	3-1	Wrexham
+	15.00		Burnley	5-0	Barnet
+	15.00		Cardiff	2-2	Huddersfield
+
+Matchday 40
+
+[1994-04-04]
+	15.00		Exeter	0-5	Cambridge
+	15.00		Fulham	1-1	Plymouth
+	15.00		Hartlepool	0-1	Hull
+	15.00		Leyton Orient	2-3	Port Vale
+	15.00		York	2-1	Blackpool
+[1994-04-05]
+	15.00		Bournemouth	0-0	Rotherham
+[1994-04-06]
+	15.00		Brighton	4-1	Swansea
+[1994-04-09]
+	15.00		Barnet	0-0	Stockport
+	15.00		Blackpool	1-2	Burnley
+	15.00		Brentford	1-2	Fulham
+	15.00		Cambridge	2-1	Brighton
+	15.00		Huddersfield	1-0	Leyton Orient
+
+Matchday 41
+
+[1994-04-09]
+	15.00		Hull	5-1	Exeter
+	15.00		Plymouth	2-0	Bournemouth
+	15.00		Reading	1-1	Cardiff
+	15.00		Rotherham	7-0	Hartlepool
+	15.00		Swansea	2-0	Bristol Rvs
+	15.00		Wrexham	0-3	Bradford
+[1994-04-12]
+	15.00		Barnet	0-1	Reading
+	15.00		Brighton	3-5	Cardiff
+	15.00		Huddersfield	3-0	Wrexham
+	15.00		Port Vale	2-1	Rotherham
+	15.00		Swansea	1-2	Stockport
+[1994-04-13]
+	15.00		Bradford	0-0	Fulham
+
+Matchday 42
+
+[1994-04-16]
+	15.00		Bristol Rvs	0-1	York
+	15.00		Burnley	1-1	Swansea
+	15.00		Cardiff	1-1	Brentford
+	15.00		Fulham	0-2	Exeter
+	15.00		Hull	0-0	Blackpool
+	15.00		Leyton Orient	0-0	Stockport
+	15.00		Plymouth	0-3	Cambridge
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		Reading	0-0	Rotherham
+	15.00		Wrexham	1-3	Brighton
+[1994-04-17]
+	15.00		Huddersfield	1-1	Bradford
+[1994-04-19]
+	15.00		Bournemouth	0-1	Swansea
+
+Matchday 43
+
+[1994-04-19]
+	15.00		Huddersfield	2-0	Cardiff
+	15.00		Rotherham	3-0	Exeter
+	15.00		Stockport	2-1	Port Vale
+[1994-04-21]
+	15.00		Cardiff	2-1	Bournemouth
+	15.00		Port Vale	2-1	York
+[1994-04-23]
+	15.00		Blackpool	0-4	Reading
+	15.00		Bournemouth	1-2	Wrexham
+	15.00		Brentford	1-1	Plymouth
+	15.00		Brighton	2-0	Fulham
+	15.00		Exeter	1-0	Leyton Orient
+	15.00		Hartlepool	2-1	Bristol Rvs
+	15.00		Rotherham	1-0	Hull
+
+Matchday 44
+
+[1994-04-23]
+	15.00		Stockport	2-2	Cardiff
+	15.00		York	0-0	Burnley
+[1994-04-26]
+	15.00		Barnet	3-2	Hartlepool
+	15.00		Burnley	0-0	Rotherham
+	15.00		Cambridge	4-5	Huddersfield
+	15.00		Cardiff	2-0	Exeter
+	15.00		Swansea	0-1	Port Vale
+	15.00		Wrexham	0-3	Plymouth
+[1994-04-28]
+	15.00		Stockport	1-1	Reading
+[1994-04-30]
+	15.00		Barnet	1-3	York
+	15.00		Bristol Rvs	1-1	Stockport
+	15.00		Burnley	4-1	Brentford
+
+Matchday 45
+
+[1994-04-30]
+	15.00		Cardiff	2-7	Cambridge
+	15.00		Fulham	1-0	Rotherham
+	15.00		Huddersfield	2-1	Blackpool
+	15.00		Hull	1-1	Bournemouth
+	15.00		Leyton Orient	2-1	Swansea
+	15.00		Plymouth	3-1	Bradford
+	15.00		Port Vale	3-0	Exeter
+	15.00		Reading	2-0	Brighton
+	15.00		Wrexham	2-0	Hartlepool
+[1994-05-02]
+	15.00		Exeter	1-2	Stockport
+[1994-05-03]
+	15.00		Bradford	2-1	Barnet
+	15.00		Cardiff	1-3	Port Vale
+
+Matchday 46
+
+[1994-05-05]
+	15.00		Bournemouth	2-1	Reading
+[1994-05-07]
+	15.00		Blackpool	4-1	Leyton Orient
+	15.00		Bradford	2-0	Cardiff
+	15.00		Brentford	1-2	Huddersfield
+	15.00		Brighton	1-3	Port Vale
+	15.00		Cambridge	1-3	Bristol Rvs
+	15.00		Exeter	4-1	Burnley
+	15.00		Hartlepool	1-8	Plymouth
+	15.00		Rotherham	1-1	Barnet
+	15.00		Stockport	0-0	Hull
+	15.00		Swansea	2-1	Fulham
+	15.00		York	1-1	Wrexham
+

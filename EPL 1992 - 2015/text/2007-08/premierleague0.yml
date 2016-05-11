@@ -1,0 +1,32 @@
+############################
+# Premier League 2007-2008
+
+league: en
+season: 2007/08
+start_at: 1907-08-11
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Chelsea
+- Derby
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Portsmouth
+- Reading
+- Sunderland
+- Tottenham
+- West Ham
+- Wigan
+

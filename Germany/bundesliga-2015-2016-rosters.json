@@ -1,0 +1,3038 @@
+{
+    "1. FC Köln": {
+        "Bittencourt, Leonardo": {
+            "birthdate": "19.12.1993",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "MF"
+        },
+        "Finne, Bard": {
+            "birthdate": "13.02.1995",
+            "country": "Norwegen",
+            "number": "26",
+            "position": "FW"
+        },
+        "Gerhardt, Yannick": {
+            "birthdate": "13.03.1994",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "MF"
+        },
+        "Hector, Jonas": {
+            "birthdate": "27.05.1990",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "DF"
+        },
+        "Heintz, Dominique": {
+            "birthdate": "15.08.1993",
+            "country": "Deutschland",
+            "number": "3",
+            "position": "DF"
+        },
+        "Horn, Timo": {
+            "birthdate": "12.05.1993",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Hosiner, Philipp": {
+            "birthdate": "15.05.1989",
+            "country": "Österreich",
+            "number": "15",
+            "position": "FW"
+        },
+        "Jojic, Milos": {
+            "birthdate": "19.03.1992",
+            "country": "Serbien",
+            "number": "8",
+            "position": "MF"
+        },
+        "Kessler, Thomas": {
+            "birthdate": "20.01.1986",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "GK"
+        },
+        "Lehmann, Matthias": {
+            "birthdate": "28.05.1983",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "MF"
+        },
+        "Maroh, Dominic": {
+            "birthdate": "04.03.1987",
+            "country": "Slowenien",
+            "number": "5",
+            "position": "DF"
+        },
+        "Mavraj, Mergim": {
+            "birthdate": "09.06.1986",
+            "country": "Albanien",
+            "number": "19",
+            "position": "DF"
+        },
+        "Mesenhöler, Daniel": {
+            "birthdate": "24.07.1995",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "GK"
+        },
+        "Modeste, Anthony": {
+            "birthdate": "14.04.1988",
+            "country": "Frankreich",
+            "number": "27",
+            "position": "FW"
+        },
+        "Nagasawa, Kazuki": {
+            "birthdate": "16.12.1991",
+            "country": "Japan",
+            "number": "25",
+            "position": "MF"
+        },
+        "Olkowski, Pawel": {
+            "birthdate": "13.02.1990",
+            "country": "Polen",
+            "number": "16",
+            "position": "DF"
+        },
+        "Osako, Yuya": {
+            "birthdate": "18.05.1990",
+            "country": "Japan",
+            "number": "13",
+            "position": "FW"
+        },
+        "Risse, Marcel": {
+            "birthdate": "17.12.1989",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Svento, Dusan": {
+            "birthdate": "01.08.1985",
+            "country": "Slowakei",
+            "number": "29",
+            "position": "MF"
+        },
+        "Sörensen, Frederik": {
+            "birthdate": "14.04.1992",
+            "country": "Dänemark",
+            "number": "4",
+            "position": "DF"
+        },
+        "Vogt, Kevin": {
+            "birthdate": "23.09.1991",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "MF"
+        },
+        "Zoller, Simon": {
+            "birthdate": "26.06.1991",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "FW"
+        }
+    },
+    "1. FSV Mainz 05": {
+        "Balogun, Leon": {
+            "birthdate": "28.06.1988",
+            "country": "Nigeria",
+            "number": "3",
+            "position": "DF"
+        },
+        "Baumgartlinger, Julian": {
+            "birthdate": "02.01.1988",
+            "country": "Österreich",
+            "number": "14",
+            "position": "MF"
+        },
+        "Beister, Maximilian": {
+            "birthdate": "06.09.1990",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        },
+        "Bell, Stefan": {
+            "birthdate": "24.08.1991",
+            "country": "Deutschland",
+            "number": "16",
+            "position": "DF"
+        },
+        "Bengtsson, Pierre": {
+            "birthdate": "12.04.1988",
+            "country": "Schweden",
+            "number": "7",
+            "position": "DF"
+        },
+        "Brosinski, Daniel": {
+            "birthdate": "17.07.1988",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "DF"
+        },
+        "Bungert, Niko": {
+            "birthdate": "24.10.1986",
+            "country": "Deutschland",
+            "number": "26",
+            "position": "DF"
+        },
+        "Bussmann, Gaetan": {
+            "birthdate": "02.02.1991",
+            "country": "Frankreich",
+            "number": "24",
+            "position": "DF"
+        },
+        "Clemens, Christian": {
+            "birthdate": "04.08.1991",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "MF"
+        },
+        "Cordoba, Jhon": {
+            "birthdate": "11.05.1993",
+            "country": "Kolumbien",
+            "number": "15",
+            "position": "FW"
+        },
+        "Curci, Gianluca": {
+            "birthdate": "12.07.1985",
+            "country": "Italien",
+            "number": "23",
+            "position": "GK"
+        },
+        "De Blasis, Pablo": {
+            "birthdate": "04.02.1988",
+            "country": "Argentinien",
+            "number": "32",
+            "position": "FW"
+        },
+        "Frei, Fabian": {
+            "birthdate": "08.01.1989",
+            "country": "Schweiz",
+            "number": "20",
+            "position": "MF"
+        },
+        "Huth, Jannik": {
+            "birthdate": "15.04.1994",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "GK"
+        },
+        "Jairo": {
+            "birthdate": "11.07.1993",
+            "country": "Spanien",
+            "number": "17",
+            "position": "MF"
+        },
+        "Jara, Gonzalo": {
+            "birthdate": "29.08.1985",
+            "country": "Chile",
+            "number": "2",
+            "position": "DF"
+        },
+        "Karius, Loris": {
+            "birthdate": "22.06.1993",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Latza, Danny": {
+            "birthdate": "07.12.1989",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "MF"
+        },
+        "Malli, Yunus": {
+            "birthdate": "24.02.1992",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Moritz, Christoph": {
+            "birthdate": "27.01.1990",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Muto, Yoshinori": {
+            "birthdate": "15.07.1992",
+            "country": "Japan",
+            "number": "9",
+            "position": "FW"
+        },
+        "Nedelev, Todor": {
+            "birthdate": "07.02.1993",
+            "country": "Bulgarien",
+            "number": "28",
+            "position": "MF"
+        },
+        "Niederlechner, Florian": {
+            "birthdate": "24.10.1990",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "FW"
+        },
+        "Parker, Devante": {
+            "birthdate": "16.03.1996",
+            "country": "Deutschland",
+            "number": "29",
+            "position": "MF"
+        },
+        "Serdar, Suat": {
+            "birthdate": "11.04.1997",
+            "country": "Deutschland",
+            "number": "xx",
+            "position": "MF"
+        },
+        "Sereno, Henrique": {
+            "birthdate": "18.05.1985",
+            "country": "Portugal",
+            "number": "5",
+            "position": "DF"
+        },
+        "Soto, Elkin": {
+            "birthdate": "04.08.1980",
+            "country": "Kolumbien",
+            "number": "19",
+            "position": "MF"
+        },
+        "Zimling, Niki": {
+            "birthdate": "19.04.1985",
+            "country": "Dänemark",
+            "number": "25",
+            "position": "MF"
+        }
+    },
+    "Bayer 04 Leverkusen": {
+        "Aranguiz, Charles": {
+            "birthdate": "17.04.1989",
+            "country": "Chile",
+            "number": "20",
+            "position": "MF"
+        },
+        "Bellarabi, Karim": {
+            "birthdate": "08.04.1990",
+            "country": "Deutschland",
+            "number": "38",
+            "position": "FW"
+        },
+        "Bender, Lars": {
+            "birthdate": "27.04.1989",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Boeder, Lukas": {
+            "birthdate": "18.04.1997",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "DF"
+        },
+        "Boenisch, Sebastian": {
+            "birthdate": "01.02.1987",
+            "country": "Polen",
+            "number": "17",
+            "position": "DF"
+        },
+        "Brandt, Julian": {
+            "birthdate": "02.05.1996",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "FW"
+        },
+        "Calhanoglu, Hakan": {
+            "birthdate": "08.02.1994",
+            "country": "Türkei",
+            "number": "10",
+            "position": "MF"
+        },
+        "Donati, Giulio": {
+            "birthdate": "05.02.1990",
+            "country": "Italien",
+            "number": "26",
+            "position": "DF"
+        },
+        "Frey, Marlon": {
+            "birthdate": "24.03.1996",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "MF"
+        },
+        "Hernandez, Javier": {
+            "birthdate": "01.06.1988",
+            "country": "Mexiko",
+            "number": "7",
+            "position": "FW"
+        },
+        "Hilbert, Roberto": {
+            "birthdate": "16.10.1984",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "DF"
+        },
+        "Jedvaj, Tin": {
+            "birthdate": "28.11.1995",
+            "country": "Kroatien",
+            "number": "16",
+            "position": "DF"
+        },
+        "Kampl, Kevin": {
+            "birthdate": "09.10.1990",
+            "country": "Slowenien",
+            "number": "44",
+            "position": "MF"
+        },
+        "Kießling, Stefan": {
+            "birthdate": "25.01.1984",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "FW"
+        },
+        "Kramer, Christoph": {
+            "birthdate": "19.02.1991",
+            "country": "Deutschland",
+            "number": "23",
+            "position": "MF"
+        },
+        "Kresic, Dario": {
+            "birthdate": "11.01.1984",
+            "country": "Kroatien",
+            "number": "25",
+            "position": "GK"
+        },
+        "Leno, Bernd": {
+            "birthdate": "04.03.1992",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Mehmedi, Admir": {
+            "birthdate": "16.03.1991",
+            "country": "Schweiz",
+            "number": "14",
+            "position": "FW"
+        },
+        "Papadopoulos, Kyriakos": {
+            "birthdate": "23.02.1992",
+            "country": "Griechenland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Ramalho, André": {
+            "birthdate": "16.02.1992",
+            "country": "Brasilien",
+            "number": "2",
+            "position": "DF"
+        },
+        "Ryu, Seung-Woo": {
+            "birthdate": "17.12.1993",
+            "country": "Südkorea",
+            "number": "24",
+            "position": "MF"
+        },
+        "Tah, Jonathan": {
+            "birthdate": "11.02.1996",
+            "country": "Deutschland",
+            "number": "4",
+            "position": "DF"
+        },
+        "Toprak, Ömer": {
+            "birthdate": "21.07.1989",
+            "country": "Türkei",
+            "number": "21",
+            "position": "DF"
+        },
+        "Wendell": {
+            "birthdate": "20.07.1993",
+            "country": "Brasilien",
+            "number": "18",
+            "position": "DF"
+        },
+        "Yelldell, David": {
+            "birthdate": "01.10.1981",
+            "country": "USA",
+            "number": "22",
+            "position": "GK"
+        },
+        "Yurchenko, Vladlen": {
+            "birthdate": "22.01.1994",
+            "country": "Ukraine",
+            "number": "35",
+            "position": "MF"
+        }
+    },
+    "Bayern München": {
+        "Alaba, David": {
+            "birthdate": "24.06.1992",
+            "country": "Österreich",
+            "number": "27",
+            "position": "DF"
+        },
+        "Badstuber, Holger": {
+            "birthdate": "13.03.1989",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "DF"
+        },
+        "Benatia, Medhi": {
+            "birthdate": "17.04.1987",
+            "country": "Marokko",
+            "number": "5",
+            "position": "DF"
+        },
+        "Boateng, Jerome": {
+            "birthdate": "03.09.1988",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "DF"
+        },
+        "Coman, Kingsley": {
+            "birthdate": "13.06.1996",
+            "country": "Frankreich",
+            "number": "29",
+            "position": "MF"
+        },
+        "Douglas Costa": {
+            "birthdate": "14.09.1990",
+            "country": "Brasilien",
+            "number": "11",
+            "position": "MF"
+        },
+        "Gaudino, Gianluca": {
+            "birthdate": "11.11.1996",
+            "country": "Deutschland",
+            "number": "16",
+            "position": "MF"
+        },
+        "Green, Julian": {
+            "birthdate": "06.06.1995",
+            "country": "USA",
+            "number": "37",
+            "position": "MF"
+        },
+        "Götze, Mario": {
+            "birthdate": "03.06.1992",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "MF"
+        },
+        "Javi Martinez": {
+            "birthdate": "02.09.1988",
+            "country": "Spanien",
+            "number": "8",
+            "position": "DF"
+        },
+        "Juan Bernat": {
+            "birthdate": "01.03.1993",
+            "country": "Spanien",
+            "number": "18",
+            "position": "DF"
+        },
+        "Kimmich, Joshua": {
+            "birthdate": "08.02.1995",
+            "country": "Deutschland",
+            "number": "32",
+            "position": "MF"
+        },
+        "Kirchhoff, Jan": {
+            "birthdate": "01.10.1990",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Kurt, Sinan": {
+            "birthdate": "23.07.1996",
+            "country": "Deutschland",
+            "number": "24",
+            "position": "FW"
+        },
+        "Lahm, Philipp": {
+            "birthdate": "11.11.1983",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "MF"
+        },
+        "Lewandowski, Robert": {
+            "birthdate": "21.08.1988",
+            "country": "Polen",
+            "number": "9",
+            "position": "FW"
+        },
+        "Müller, Thomas": {
+            "birthdate": "13.09.1989",
+            "country": "Deutschland",
+            "number": "25",
+            "position": "MF"
+        },
+        "Neuer, Manuel": {
+            "birthdate": "27.03.1986",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Rafinha": {
+            "birthdate": "07.09.1985",
+            "country": "Brasilien",
+            "number": "13",
+            "position": "DF"
+        },
+        "Ribery, Franck": {
+            "birthdate": "07.04.1983",
+            "country": "Frankreich",
+            "number": "7",
+            "position": "MF"
+        },
+        "Robben, Arjen": {
+            "birthdate": "23.01.1984",
+            "country": "Niederlande",
+            "number": "10",
+            "position": "MF"
+        },
+        "Rode, Sebastian": {
+            "birthdate": "11.10.1990",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "MF"
+        },
+        "Starke, Tom": {
+            "birthdate": "18.03.1981",
+            "country": "Deutschland",
+            "number": "22",
+            "position": "GK"
+        },
+        "Thiago": {
+            "birthdate": "11.04.1991",
+            "country": "Spanien",
+            "number": "6",
+            "position": "MF"
+        },
+        "Ulreich, Sven": {
+            "birthdate": "03.08.1988",
+            "country": "Deutschland",
+            "number": "26",
+            "position": "GK"
+        },
+        "Vidal, Arturo": {
+            "birthdate": "22.05.1987",
+            "country": "Chile",
+            "number": "23",
+            "position": "MF"
+        },
+        "Weihrauch, Patrick": {
+            "birthdate": "03.03.1994",
+            "country": "Deutschland",
+            "number": "xx",
+            "position": "FW"
+        },
+        "Xabi Alonso": {
+            "birthdate": "25.11.1981",
+            "country": "Spanien",
+            "number": "14",
+            "position": "MF"
+        }
+    },
+    "Bor. Mönchengladbach": {
+        "Alvaro Dominguez": {
+            "birthdate": "16.05.1989",
+            "country": "Spanien",
+            "number": "15",
+            "position": "DF"
+        },
+        "Brouwers, Roel": {
+            "birthdate": "28.11.1981",
+            "country": "Niederlande",
+            "number": "4",
+            "position": "DF"
+        },
+        "Christensen, Andreas": {
+            "birthdate": "10.04.1996",
+            "country": "Dänemark",
+            "number": "3",
+            "position": "DF"
+        },
+        "Dahoud, Mahmoud": {
+            "birthdate": "01.01.1996",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Drmic, Josip": {
+            "birthdate": "08.08.1992",
+            "country": "Schweiz",
+            "number": "9",
+            "position": "FW"
+        },
+        "Elvedi, Nico": {
+            "birthdate": "30.09.1996",
+            "country": "Schweiz",
+            "number": "30",
+            "position": "DF"
+        },
+        "Hahn, André": {
+            "birthdate": "13.08.1990",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "FW"
+        },
+        "Hazard, Thorgan": {
+            "birthdate": "29.03.1993",
+            "country": "Belgien",
+            "number": "10",
+            "position": "MF"
+        },
+        "Heimeroth, Christofer": {
+            "birthdate": "01.08.1981",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "GK"
+        },
+        "Herrmann, Patrick": {
+            "birthdate": "12.02.1991",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Hrgota, Branimir": {
+            "birthdate": "12.01.1993",
+            "country": "Schweden",
+            "number": "31",
+            "position": "FW"
+        },
+        "Jantschke, Tony": {
+            "birthdate": "07.04.1990",
+            "country": "Deutschland",
+            "number": "24",
+            "position": "DF"
+        },
+        "Johnson, Fabian": {
+            "birthdate": "11.12.1987",
+            "country": "USA",
+            "number": "19",
+            "position": "MF"
+        },
+        "Korb, Julian": {
+            "birthdate": "21.03.1992",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "DF"
+        },
+        "Nordtveit, Havard": {
+            "birthdate": "21.06.1990",
+            "country": "Norwegen",
+            "number": "6",
+            "position": "MF"
+        },
+        "Raffael": {
+            "birthdate": "28.03.1985",
+            "country": "Brasilien",
+            "number": "11",
+            "position": "FW"
+        },
+        "Ritter, Marlon": {
+            "birthdate": "15.10.1994",
+            "country": "Deutschland",
+            "number": "36",
+            "position": "FW"
+        },
+        "Schulz, Marvin": {
+            "birthdate": "15.01.1995",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "DF"
+        },
+        "Schulz, Nico": {
+            "birthdate": "01.04.1993",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "MF"
+        },
+        "Sippel, Tobias": {
+            "birthdate": "22.03.1988",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "GK"
+        },
+        "Sommer, Yann": {
+            "birthdate": "17.12.1988",
+            "country": "Schweiz",
+            "number": "1",
+            "position": "GK"
+        },
+        "Stindl, Lars": {
+            "birthdate": "26.08.1988",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "MF"
+        },
+        "Stranzl, Martin": {
+            "birthdate": "16.06.1980",
+            "country": "Österreich",
+            "number": "39",
+            "position": "DF"
+        },
+        "Traoré, Ibrahima": {
+            "birthdate": "21.04.1988",
+            "country": "Guinea",
+            "number": "16",
+            "position": "MF"
+        },
+        "Wendt, Oscar": {
+            "birthdate": "24.10.1985",
+            "country": "Schweden",
+            "number": "17",
+            "position": "DF"
+        },
+        "Xhaka, Granit": {
+            "birthdate": "27.09.1992",
+            "country": "Schweiz",
+            "number": "34",
+            "position": "MF"
+        }
+    },
+    "Borussia Dortmund": {
+        "Aubameyang, Pierre-Emerick": {
+            "birthdate": "18.06.1989",
+            "country": "Gabun",
+            "number": "17",
+            "position": "FW"
+        },
+        "Bender, Sven": {
+            "birthdate": "27.04.1989",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "MF"
+        },
+        "Bonmann, Hendrik": {
+            "birthdate": "22.01.1994",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "GK"
+        },
+        "Bürki, Roman": {
+            "birthdate": "14.11.1990",
+            "country": "Schweiz",
+            "number": "38",
+            "position": "GK"
+        },
+        "Castro, Gonzalo": {
+            "birthdate": "11.06.1987",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "MF"
+        },
+        "Durm, Erik": {
+            "birthdate": "12.05.1992",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "DF"
+        },
+        "Ginter, Matthias": {
+            "birthdate": "19.01.1994",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "DF"
+        },
+        "Großkreutz, Kevin": {
+            "birthdate": "19.07.1988",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "MF"
+        },
+        "Gündogan, Ilkay": {
+            "birthdate": "24.10.1990",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Hofmann, Jonas": {
+            "birthdate": "14.07.1992",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Hummels, Mats": {
+            "birthdate": "16.12.1988",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Januzaj, Adnan": {
+            "birthdate": "05.02.1995",
+            "country": "Belgien",
+            "number": "9",
+            "position": "MF"
+        },
+        "Kagawa, Shinji": {
+            "birthdate": "17.03.1989",
+            "country": "Japan",
+            "number": "23",
+            "position": "MF"
+        },
+        "Leitner, Moritz": {
+            "birthdate": "08.12.1992",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "MF"
+        },
+        "Mkhitaryan, Henrikh": {
+            "birthdate": "21.01.1989",
+            "country": "Armenien",
+            "number": "10",
+            "position": "MF"
+        },
+        "Park, Joo-Ho": {
+            "birthdate": "16.01.1987",
+            "country": "Südkorea",
+            "number": "3",
+            "position": "DF"
+        },
+        "Piszczek, Lukasz": {
+            "birthdate": "03.06.1985",
+            "country": "Polen",
+            "number": "26",
+            "position": "DF"
+        },
+        "Ramos, Adrian": {
+            "birthdate": "22.01.1986",
+            "country": "Kolumbien",
+            "number": "20",
+            "position": "FW"
+        },
+        "Reus, Marco": {
+            "birthdate": "31.05.1989",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        },
+        "Sahin, Nuri": {
+            "birthdate": "05.09.1988",
+            "country": "Türkei",
+            "number": "18",
+            "position": "MF"
+        },
+        "Schmelzer, Marcel": {
+            "birthdate": "22.01.1988",
+            "country": "Deutschland",
+            "number": "29",
+            "position": "DF"
+        },
+        "Sokratis": {
+            "birthdate": "09.06.1988",
+            "country": "Griechenland",
+            "number": "25",
+            "position": "DF"
+        },
+        "Subotic, Neven": {
+            "birthdate": "10.12.1988",
+            "country": "Serbien",
+            "number": "4",
+            "position": "DF"
+        },
+        "Weidenfeller, Roman": {
+            "birthdate": "06.08.1980",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Weigl, Julian": {
+            "birthdate": "08.09.1995",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "MF"
+        }
+    },
+    "Eintracht Frankfurt": {
+        "Abraham, David": {
+            "birthdate": "15.07.1986",
+            "country": "Argentinien",
+            "number": "19",
+            "position": "DF"
+        },
+        "Aigner, Stefan": {
+            "birthdate": "20.08.1987",
+            "country": "Deutschland",
+            "number": "16",
+            "position": "MF"
+        },
+        "Anderson": {
+            "birthdate": "10.01.1988",
+            "country": "Brasilien",
+            "number": "23",
+            "position": "DF"
+        },
+        "Balayev, Emil": {
+            "birthdate": "17.04.1994",
+            "country": "Aserbaidschan",
+            "number": "29",
+            "position": "GK"
+        },
+        "Castaignos, Luc": {
+            "birthdate": "27.09.1992",
+            "country": "Niederlande",
+            "number": "30",
+            "position": "FW"
+        },
+        "Chandler, Timothy": {
+            "birthdate": "29.03.1990",
+            "country": "USA",
+            "number": "22",
+            "position": "DF"
+        },
+        "Djakpa, Constant": {
+            "birthdate": "17.10.1986",
+            "country": "Elfenbeinküste",
+            "number": "15",
+            "position": "DF"
+        },
+        "Flum, Johannes": {
+            "birthdate": "14.12.1987",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "MF"
+        },
+        "Gacinovic, Mijat": {
+            "birthdate": "08.02.1995",
+            "country": "Serbien",
+            "number": "11",
+            "position": "MF"
+        },
+        "Gerezgiher, Joel": {
+            "birthdate": "09.10.1995",
+            "country": "Deutschland",
+            "number": "32",
+            "position": "MF"
+        },
+        "Hasebe, Makoto": {
+            "birthdate": "18.01.1984",
+            "country": "Japan",
+            "number": "20",
+            "position": "MF"
+        },
+        "Hradecky, Lukas": {
+            "birthdate": "24.11.1989",
+            "country": "Finnland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Ignjovski, Aleksandar": {
+            "birthdate": "27.01.1991",
+            "country": "Serbien",
+            "number": "27",
+            "position": "DF"
+        },
+        "Kadlec, Vaclav": {
+            "birthdate": "20.05.1992",
+            "country": "Tschechien",
+            "number": "10",
+            "position": "FW"
+        },
+        "Kinsombi, David": {
+            "birthdate": "12.12.1995",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "DF"
+        },
+        "Kittel, Sonny": {
+            "birthdate": "06.01.1993",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "MF"
+        },
+        "Lindner, Heinz": {
+            "birthdate": "17.07.1990",
+            "country": "Österreich",
+            "number": "13",
+            "position": "GK"
+        },
+        "Medojevic, Slobodan": {
+            "birthdate": "20.11.1990",
+            "country": "Serbien",
+            "number": "25",
+            "position": "MF"
+        },
+        "Meier, Alexander": {
+            "birthdate": "17.01.1983",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "FW"
+        },
+        "Oczipka, Bastian": {
+            "birthdate": "12.01.1989",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "DF"
+        },
+        "Reinartz, Stefan": {
+            "birthdate": "01.01.1989",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Russ, Marco": {
+            "birthdate": "04.08.1985",
+            "country": "Deutschland",
+            "number": "4",
+            "position": "DF"
+        },
+        "Seferovic, Haris": {
+            "birthdate": "22.02.1992",
+            "country": "Schweiz",
+            "number": "9",
+            "position": "FW"
+        },
+        "Stendera, Marc": {
+            "birthdate": "10.12.1995",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "MF"
+        },
+        "Waldschmidt, Luca": {
+            "birthdate": "19.05.1996",
+            "country": "Deutschland",
+            "number": "24",
+            "position": "FW"
+        },
+        "Zambrano, Carlos": {
+            "birthdate": "10.07.1989",
+            "country": "Peru",
+            "number": "5",
+            "position": "DF"
+        },
+        "Zummack, Yannick": {
+            "birthdate": "26.03.1996",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "GK"
+        }
+    },
+    "FC Augsburg": {
+        "Altintop, Halil": {
+            "birthdate": "08.12.1982",
+            "country": "Türkei",
+            "number": "7",
+            "position": "MF"
+        },
+        "Baier, Daniel": {
+            "birthdate": "18.05.1984",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Bobadilla, Raul": {
+            "birthdate": "18.06.1987",
+            "country": "Paraguay",
+            "number": "25",
+            "position": "FW"
+        },
+        "Caiuby": {
+            "birthdate": "14.07.1988",
+            "country": "Brasilien",
+            "number": "30",
+            "position": "MF"
+        },
+        "Callsen-Bracker, Jan-Ingwer": {
+            "birthdate": "23.09.1984",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "DF"
+        },
+        "Ekin, Arif": {
+            "birthdate": "14.09.1995",
+            "country": "Türkei",
+            "number": "37",
+            "position": "MF"
+        },
+        "Esswein, Alexander": {
+            "birthdate": "25.03.1990",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        },
+        "Feulner, Markus": {
+            "birthdate": "12.02.1982",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Framberger, Raphael": {
+            "birthdate": "06.09.1995",
+            "country": "Deutschland",
+            "number": "32",
+            "position": "DF"
+        },
+        "Gelios, Ioannis": {
+            "birthdate": "24.04.1992",
+            "country": "Griechenland",
+            "number": "24",
+            "position": "GK"
+        },
+        "Hitz, Marwin": {
+            "birthdate": "18.09.1987",
+            "country": "Schweiz",
+            "number": "35",
+            "position": "GK"
+        },
+        "Hong, Jeong-Ho": {
+            "birthdate": "12.08.1989",
+            "country": "Südkorea",
+            "number": "20",
+            "position": "DF"
+        },
+        "Janker, Christoph": {
+            "birthdate": "14.02.1985",
+            "country": "Deutschland",
+            "number": "16",
+            "position": "DF"
+        },
+        "Ji, Dong-Won": {
+            "birthdate": "28.05.1991",
+            "country": "Südkorea",
+            "number": "22",
+            "position": "FW"
+        },
+        "Klavan, Ragnar": {
+            "birthdate": "30.10.1985",
+            "country": "Estland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Kohr, Dominik": {
+            "birthdate": "31.01.1994",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "MF"
+        },
+        "Koo, Ja-Cheol": {
+            "birthdate": "27.02.1989",
+            "country": "Südkorea",
+            "number": "19",
+            "position": "MF"
+        },
+        "Kurz, Bastian": {
+            "birthdate": "23.09.1996",
+            "country": "Deutschland",
+            "number": "26",
+            "position": "DF"
+        },
+        "Manninger, Alexander": {
+            "birthdate": "04.06.1977",
+            "country": "Österreich",
+            "number": "1",
+            "position": "GK"
+        },
+        "Matavz, Tim": {
+            "birthdate": "13.01.1989",
+            "country": "Slowenien",
+            "number": "23",
+            "position": "FW"
+        },
+        "Max, Philipp": {
+            "birthdate": "30.09.1993",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "DF"
+        },
+        "Moravek, Jan": {
+            "birthdate": "01.11.1989",
+            "country": "Tschechien",
+            "number": "14",
+            "position": "MF"
+        },
+        "Mölders, Sascha": {
+            "birthdate": "20.03.1985",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "FW"
+        },
+        "Oettl, Yannik": {
+            "birthdate": "19.11.1996",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "GK"
+        },
+        "Opare, Daniel": {
+            "birthdate": "18.10.1990",
+            "country": "Ghana",
+            "number": "4",
+            "position": "DF"
+        },
+        "Parker, Shawn": {
+            "birthdate": "07.03.1993",
+            "country": "Deutschland",
+            "number": "9",
+            "position": "MF"
+        },
+        "Reinthaler, Max": {
+            "birthdate": "22.03.1995",
+            "country": "Italien",
+            "number": "36",
+            "position": "MF"
+        },
+        "Rieder, Tim": {
+            "birthdate": "03.09.1993",
+            "country": "Deutschland",
+            "number": "40",
+            "position": "DF"
+        },
+        "Schuster, Marco": {
+            "birthdate": "10.10.1995",
+            "country": "Deutschland",
+            "number": "29",
+            "position": "MF"
+        },
+        "Stafylidis, Konstantinos": {
+            "birthdate": "02.12.1993",
+            "country": "Griechenland",
+            "number": "3",
+            "position": "DF"
+        },
+        "Trochowski, Piotr": {
+            "birthdate": "22.03.1984",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "MF"
+        },
+        "Uhde, Maik": {
+            "birthdate": "23.05.1994",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "DF"
+        },
+        "Verhaegh, Paul": {
+            "birthdate": "01.09.1983",
+            "country": "Niederlande",
+            "number": "2",
+            "position": "DF"
+        },
+        "Werner, Tobias": {
+            "birthdate": "19.07.1985",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "MF"
+        }
+    },
+    "FC Ingolstadt 04": {
+        "Bauer, Robert": {
+            "birthdate": "09.04.1995",
+            "country": "Deutschland",
+            "number": "23",
+            "position": "MF"
+        },
+        "Bregerie, Romain": {
+            "birthdate": "09.08.1986",
+            "country": "Frankreich",
+            "number": "18",
+            "position": "DF"
+        },
+        "Christiansen, Max": {
+            "birthdate": "25.09.1996",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "MF"
+        },
+        "Cohen, Almog": {
+            "birthdate": "01.09.1988",
+            "country": "Israel",
+            "number": "36",
+            "position": "MF"
+        },
+        "Danilo": {
+            "birthdate": "29.10.1991",
+            "country": "Brasilien",
+            "number": "15",
+            "position": "DF"
+        },
+        "Engel, Konstantin": {
+            "birthdate": "27.07.1988",
+            "country": "Kasachstan",
+            "number": "20",
+            "position": "DF"
+        },
+        "Groß, Pascal": {
+            "birthdate": "15.06.1991",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Hartmann, Moritz": {
+            "birthdate": "20.06.1986",
+            "country": "Deutschland",
+            "number": "9",
+            "position": "FW"
+        },
+        "Hinterseer, Lukas": {
+            "birthdate": "28.03.1991",
+            "country": "Österreich",
+            "number": "16",
+            "position": "FW"
+        },
+        "Hübner, Benjamin": {
+            "birthdate": "04.07.1989",
+            "country": "Deutschland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Kachunga, Elias": {
+            "birthdate": "22.04.1992",
+            "country": "Deutschland",
+            "number": "25",
+            "position": "FW"
+        },
+        "Leckie, Mathew": {
+            "birthdate": "04.02.1991",
+            "country": "Australien",
+            "number": "7",
+            "position": "FW"
+        },
+        "Levels, Tobias": {
+            "birthdate": "22.11.1986",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "DF"
+        },
+        "Lex, Stefan": {
+            "birthdate": "27.11.1989",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "MF"
+        },
+        "Matip, Marvin": {
+            "birthdate": "25.09.1985",
+            "country": "Kamerun",
+            "number": "34",
+            "position": "DF"
+        },
+        "Morales, Alfredo": {
+            "birthdate": "12.05.1990",
+            "country": "USA",
+            "number": "6",
+            "position": "MF"
+        },
+        "Multhaup, Maurice": {
+            "birthdate": "15.12.1996",
+            "country": "Deutschland",
+            "number": "xx",
+            "position": "MF"
+        },
+        "Nyland, Örjan": {
+            "birthdate": "10.09.1990",
+            "country": "Norwegen",
+            "number": "26",
+            "position": "GK"
+        },
+        "Ortag, Christian": {
+            "birthdate": "14.01.1995",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "GK"
+        },
+        "Pekhart, Tomas": {
+            "birthdate": "26.05.1989",
+            "country": "Tschechien",
+            "number": "11",
+            "position": "FW"
+        },
+        "Pledl, Thomas": {
+            "birthdate": "23.05.1994",
+            "country": "Deutschland",
+            "number": "30",
+            "position": "MF"
+        },
+        "Roger": {
+            "birthdate": "10.08.1985",
+            "country": "Brasilien",
+            "number": "8",
+            "position": "MF"
+        },
+        "Suttner, Markus": {
+            "birthdate": "16.04.1987",
+            "country": "Österreich",
+            "number": "29",
+            "position": "DF"
+        },
+        "Wannenwetsch, Stefan": {
+            "birthdate": "19.01.1992",
+            "country": "Deutschland",
+            "number": "22",
+            "position": "MF"
+        },
+        "da Costa, Danny": {
+            "birthdate": "13.07.1993",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "DF"
+        },
+        "Özcan, Ramazan": {
+            "birthdate": "28.06.1984",
+            "country": "Österreich",
+            "number": "1",
+            "position": "GK"
+        }
+    },
+    "FC Schalke 04": {
+        "Aogo, Dennis": {
+            "birthdate": "14.01.1987",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Ayhan, Kaan": {
+            "birthdate": "10.11.1994",
+            "country": "Türkei",
+            "number": "24",
+            "position": "DF"
+        },
+        "Boateng, Kevin-Prince": {
+            "birthdate": "06.03.1987",
+            "country": "Ghana",
+            "number": "xx",
+            "position": "MF"
+        },
+        "Choupo-Moting, Eric Maxim": {
+            "birthdate": "23.03.1989",
+            "country": "Kamerun",
+            "number": "13",
+            "position": "FW"
+        },
+        "Felipe Santana": {
+            "birthdate": "17.03.1986",
+            "country": "Brasilien",
+            "number": "28",
+            "position": "DF"
+        },
+        "Friedrich, Marvin": {
+            "birthdate": "13.12.1995",
+            "country": "Deutschland",
+            "number": "2",
+            "position": "DF"
+        },
+        "Fährmann, Ralf": {
+            "birthdate": "27.09.1988",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Geis, Johannes": {
+            "birthdate": "17.08.1993",
+            "country": "Deutschland",
+            "number": "5",
+            "position": "MF"
+        },
+        "Giefer, Fabian": {
+            "birthdate": "17.05.1990",
+            "country": "Deutschland",
+            "number": "34",
+            "position": "GK"
+        },
+        "Goretzka, Leon": {
+            "birthdate": "06.02.1995",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Gspurning, Michael": {
+            "birthdate": "02.05.1981",
+            "country": "Österreich",
+            "number": "30",
+            "position": "GK"
+        },
+        "Huntelaar, Klaas Jan": {
+            "birthdate": "12.08.1983",
+            "country": "Niederlande",
+            "number": "25",
+            "position": "FW"
+        },
+        "Höger, Marco": {
+            "birthdate": "16.09.1989",
+            "country": "Deutschland",
+            "number": "12",
+            "position": "MF"
+        },
+        "Höjbjerg, Pierre-Emile": {
+            "birthdate": "05.08.1995",
+            "country": "Dänemark",
+            "number": "23",
+            "position": "MF"
+        },
+        "Höwedes, Benedikt": {
+            "birthdate": "29.02.1988",
+            "country": "Deutschland",
+            "number": "4",
+            "position": "DF"
+        },
+        "Junior Caicara": {
+            "birthdate": "27.04.1989",
+            "country": "Brasilien",
+            "number": "3",
+            "position": "DF"
+        },
+        "Kehrer, Thilo": {
+            "birthdate": "21.09.1996",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "DF"
+        },
+        "Kolasinac, Sead": {
+            "birthdate": "20.06.1993",
+            "country": "Bosnien-Herzegowina",
+            "number": "6",
+            "position": "DF"
+        },
+        "Matip, Joel": {
+            "birthdate": "08.08.1991",
+            "country": "Kamerun",
+            "number": "32",
+            "position": "DF"
+        },
+        "Meyer, Max": {
+            "birthdate": "18.09.1995",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Nastasic, Matija": {
+            "birthdate": "28.03.1993",
+            "country": "Serbien",
+            "number": "31",
+            "position": "DF"
+        },
+        "Neustädter, Roman": {
+            "birthdate": "18.02.1988",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "MF"
+        },
+        "Nübel, Alexander": {
+            "birthdate": "30.09.1996",
+            "country": "Deutschland",
+            "number": "35",
+            "position": "GK"
+        },
+        "Platte, Felix": {
+            "birthdate": "11.02.1996",
+            "country": "Deutschland",
+            "number": "36",
+            "position": "FW"
+        },
+        "Riether, Sascha": {
+            "birthdate": "23.03.1983",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "DF"
+        },
+        "Sam, Sidney": {
+            "birthdate": "31.01.1988",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "FW"
+        },
+        "Sané, Leroy": {
+            "birthdate": "11.01.1996",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "FW"
+        },
+        "Uchida, Atsuto": {
+            "birthdate": "27.03.1988",
+            "country": "Japan",
+            "number": "22",
+            "position": "DF"
+        },
+        "di Santo, Franco": {
+            "birthdate": "07.04.1989",
+            "country": "Argentinien",
+            "number": "9",
+            "position": "FW"
+        }
+    },
+    "Hamburger SV": {
+        "Adler, René": {
+            "birthdate": "15.01.1985",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "GK"
+        },
+        "Altintas, Batuhan": {
+            "birthdate": "14.03.1996",
+            "country": "Türkei",
+            "number": "33",
+            "position": "FW"
+        },
+        "Cleber": {
+            "birthdate": "05.12.1990",
+            "country": "Brasilien",
+            "number": "3",
+            "position": "DF"
+        },
+        "Diaz, Marcelo": {
+            "birthdate": "30.12.1986",
+            "country": "Chile",
+            "number": "21",
+            "position": "MF"
+        },
+        "Diekmeier, Dennis": {
+            "birthdate": "20.10.1989",
+            "country": "Deutschland",
+            "number": "2",
+            "position": "DF"
+        },
+        "Djourou, Johan": {
+            "birthdate": "18.01.1987",
+            "country": "Schweiz",
+            "number": "5",
+            "position": "DF"
+        },
+        "Drobny, Jaroslav": {
+            "birthdate": "18.10.1979",
+            "country": "Tschechien",
+            "number": "1",
+            "position": "GK"
+        },
+        "Ekdal, Albin": {
+            "birthdate": "28.07.1989",
+            "country": "Schweden",
+            "number": "20",
+            "position": "MF"
+        },
+        "Gregoritsch, Michael": {
+            "birthdate": "18.04.1994",
+            "country": "Österreich",
+            "number": "23",
+            "position": "FW"
+        },
+        "Götz, Ashton-Phillip": {
+            "birthdate": "16.07.1993",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "DF"
+        },
+        "Hirzel, Andreas": {
+            "birthdate": "25.03.1993",
+            "country": "Schweiz",
+            "number": "30",
+            "position": "GK"
+        },
+        "Holtby, Lewis": {
+            "birthdate": "18.09.1990",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Hunt, Aaron": {
+            "birthdate": "04.09.1986",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "MF"
+        },
+        "Ilicevic, Ivo": {
+            "birthdate": "14.11.1986",
+            "country": "Kroatien",
+            "number": "7",
+            "position": "MF"
+        },
+        "Jung, Gideon": {
+            "birthdate": "12.09.1994",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "DF"
+        },
+        "Kacar, Gojko": {
+            "birthdate": "26.01.1987",
+            "country": "Serbien",
+            "number": "40",
+            "position": "MF"
+        },
+        "Lasogga, Pierre-Michel": {
+            "birthdate": "15.12.1991",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "FW"
+        },
+        "Marcos, Ronny": {
+            "birthdate": "01.10.1993",
+            "country": "Mosambik",
+            "number": "31",
+            "position": "DF"
+        },
+        "Müller, Nicolai": {
+            "birthdate": "25.09.1987",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "MF"
+        },
+        "Müller, Philipp": {
+            "birthdate": "03.03.1995",
+            "country": "Deutschland",
+            "number": "26",
+            "position": "FW"
+        },
+        "Olic, Ivica": {
+            "birthdate": "14.09.1979",
+            "country": "Kroatien",
+            "number": "11",
+            "position": "FW"
+        },
+        "Ostrzolek, Matthias": {
+            "birthdate": "05.06.1990",
+            "country": "Deutschland",
+            "number": "22",
+            "position": "DF"
+        },
+        "Rudnevs, Artjoms": {
+            "birthdate": "13.01.1988",
+            "country": "Lettland",
+            "number": "16",
+            "position": "FW"
+        },
+        "Sakai, Gotoku": {
+            "birthdate": "14.03.1991",
+            "country": "Japan",
+            "number": "24",
+            "position": "DF"
+        },
+        "Schipplock, Sven": {
+            "birthdate": "08.11.1988",
+            "country": "Deutschland",
+            "number": "9",
+            "position": "FW"
+        },
+        "Spahic, Emir": {
+            "birthdate": "18.08.1980",
+            "country": "Bosnien-Herzegowina",
+            "number": "4",
+            "position": "DF"
+        },
+        "Stieber, Zoltan": {
+            "birthdate": "16.10.1988",
+            "country": "Ungarn",
+            "number": "17",
+            "position": "MF"
+        }
+    },
+    "Hannover 96": {
+        "Albornoz, Miiko": {
+            "birthdate": "30.11.1990",
+            "country": "Chile",
+            "number": "3",
+            "position": "DF"
+        },
+        "Andreasen, Leon": {
+            "birthdate": "23.04.1983",
+            "country": "Dänemark",
+            "number": "2",
+            "position": "MF"
+        },
+        "Anton, Waldemar": {
+            "birthdate": "20.07.1996",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "DF"
+        },
+        "Bech, Uffe": {
+            "birthdate": "13.01.1993",
+            "country": "Dänemark",
+            "number": "17",
+            "position": "MF"
+        },
+        "Benschop, Charlison": {
+            "birthdate": "21.08.1989",
+            "country": "Niederlande",
+            "number": "35",
+            "position": "FW"
+        },
+        "Bähre, Mike-Steven": {
+            "birthdate": "10.08.1995",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "MF"
+        },
+        "Dierßen, Tim": {
+            "birthdate": "15.01.1996",
+            "country": "Deutschland",
+            "number": "34",
+            "position": "MF"
+        },
+        "Erdinc, Mevlüt": {
+            "birthdate": "25.02.1987",
+            "country": "Türkei",
+            "number": "39",
+            "position": "FW"
+        },
+        "Ernst, Sebastian": {
+            "birthdate": "04.03.1995",
+            "country": "Deutschland",
+            "number": "36",
+            "position": "MF"
+        },
+        "Felipe": {
+            "birthdate": "15.05.1987",
+            "country": "Brasilien",
+            "number": "20",
+            "position": "DF"
+        },
+        "Gülselam, Ceyhun": {
+            "birthdate": "25.12.1987",
+            "country": "Türkei",
+            "number": "6",
+            "position": "MF"
+        },
+        "Hirsch, Maurice": {
+            "birthdate": "30.05.1993",
+            "country": "Deutschland",
+            "number": "23",
+            "position": "MF"
+        },
+        "Hoffmann, Andre": {
+            "birthdate": "28.02.1993",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Karaman, Kenan": {
+            "birthdate": "05.03.1994",
+            "country": "Türkei",
+            "number": "26",
+            "position": "FW"
+        },
+        "Kiyotake, Hiroshi": {
+            "birthdate": "12.11.1989",
+            "country": "Japan",
+            "number": "10",
+            "position": "MF"
+        },
+        "Klaus, Felix": {
+            "birthdate": "13.09.1992",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        },
+        "Königsmann, Timo": {
+            "birthdate": "05.04.1997",
+            "country": "Deutschland",
+            "number": "40",
+            "position": "GK"
+        },
+        "Marcelo": {
+            "birthdate": "20.05.1987",
+            "country": "Brasilien",
+            "number": "25",
+            "position": "DF"
+        },
+        "Prib, Edgar": {
+            "birthdate": "15.12.1989",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "MF"
+        },
+        "Radlinger, Samuel": {
+            "birthdate": "07.11.1992",
+            "country": "Österreich",
+            "number": "30",
+            "position": "GK"
+        },
+        "Rankovic, Vladimir": {
+            "birthdate": "27.06.1993",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "DF"
+        },
+        "Saint-Maximin, Allan": {
+            "birthdate": "12.03.1997",
+            "country": "Frankreich",
+            "number": "14",
+            "position": "FW"
+        },
+        "Sakai, Hiroki": {
+            "birthdate": "12.04.1990",
+            "country": "Japan",
+            "number": "4",
+            "position": "DF"
+        },
+        "Sané, Salif": {
+            "birthdate": "25.08.1990",
+            "country": "Senegal",
+            "number": "5",
+            "position": "MF"
+        },
+        "Schmiedebach, Manuel": {
+            "birthdate": "05.12.1988",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Schulz, Christian": {
+            "birthdate": "01.04.1983",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "DF"
+        },
+        "Sobiech, Artur": {
+            "birthdate": "12.06.1990",
+            "country": "Polen",
+            "number": "9",
+            "position": "FW"
+        },
+        "Sorg, Oliver": {
+            "birthdate": "29.05.1990",
+            "country": "Deutschland",
+            "number": "29",
+            "position": "DF"
+        },
+        "Sulejmani, Valmir": {
+            "birthdate": "01.02.1996",
+            "country": "Albanien",
+            "number": "38",
+            "position": "MF"
+        },
+        "Teichgräber, Niklas": {
+            "birthdate": "07.02.1996",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "DF"
+        },
+        "Tschauner, Philipp": {
+            "birthdate": "03.11.1985",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "GK"
+        },
+        "Zieler, Ron-Robert": {
+            "birthdate": "12.02.1989",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        }
+    },
+    "Hertha BSC": {
+        "Allagui, Sami": {
+            "birthdate": "28.05.1986",
+            "country": "Tunesien",
+            "number": "11",
+            "position": "FW"
+        },
+        "Baumjohann, Alexander": {
+            "birthdate": "23.01.1987",
+            "country": "Deutschland",
+            "number": "9",
+            "position": "MF"
+        },
+        "Beerens, Roy": {
+            "birthdate": "22.12.1987",
+            "country": "Niederlande",
+            "number": "27",
+            "position": "MF"
+        },
+        "Ben-Hatira, Änis": {
+            "birthdate": "18.07.1988",
+            "country": "Tunesien",
+            "number": "10",
+            "position": "MF"
+        },
+        "Brooks, John Anthony": {
+            "birthdate": "28.01.1993",
+            "country": "USA",
+            "number": "25",
+            "position": "DF"
+        },
+        "Cigerci, Tolga": {
+            "birthdate": "23.03.1992",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "MF"
+        },
+        "Darida, Vladimir": {
+            "birthdate": "08.08.1990",
+            "country": "Tschechien",
+            "number": "6",
+            "position": "MF"
+        },
+        "Gersbeck, Marius": {
+            "birthdate": "20.06.1995",
+            "country": "Deutschland",
+            "number": "35",
+            "position": "GK"
+        },
+        "Haraguchi, Genki": {
+            "birthdate": "09.05.1991",
+            "country": "Japan",
+            "number": "24",
+            "position": "MF"
+        },
+        "Hegeler, Jens": {
+            "birthdate": "22.01.1988",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "MF"
+        },
+        "Ibisevic, Vedad": {
+            "birthdate": "06.08.1984",
+            "country": "Bosnien-Herzegowina",
+            "number": "19",
+            "position": "FW"
+        },
+        "Jarstein, Rune": {
+            "birthdate": "29.09.1984",
+            "country": "Norwegen",
+            "number": "22",
+            "position": "GK"
+        },
+        "Kalou, Salomon": {
+            "birthdate": "05.08.1985",
+            "country": "Elfenbeinküste",
+            "number": "8",
+            "position": "FW"
+        },
+        "Kohls, Florian": {
+            "birthdate": "03.04.1995",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "MF"
+        },
+        "Kraft, Thomas": {
+            "birthdate": "22.07.1988",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Körber, Nils-Jonathan": {
+            "birthdate": "13.11.1996",
+            "country": "Deutschland",
+            "number": "29",
+            "position": "GK"
+        },
+        "Langkamp, Sebastian": {
+            "birthdate": "15.01.1988",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Lustenberger, Fabian": {
+            "birthdate": "02.05.1988",
+            "country": "Schweiz",
+            "number": "28",
+            "position": "MF"
+        },
+        "Mittelstädt, Maximilian": {
+            "birthdate": "18.03.1997",
+            "country": "Deutschland",
+            "number": "34",
+            "position": "DF"
+        },
+        "Pekarik, Peter": {
+            "birthdate": "30.10.1986",
+            "country": "Slowakei",
+            "number": "2",
+            "position": "DF"
+        },
+        "Plattenhardt, Marvin": {
+            "birthdate": "26.01.1992",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "DF"
+        },
+        "Ronny": {
+            "birthdate": "11.05.1986",
+            "country": "Brasilien",
+            "number": "12",
+            "position": "MF"
+        },
+        "Schieber, Julian": {
+            "birthdate": "13.02.1989",
+            "country": "Deutschland",
+            "number": "16",
+            "position": "FW"
+        },
+        "Skjelbred, Per Ciljan": {
+            "birthdate": "16.06.1987",
+            "country": "Norwegen",
+            "number": "3",
+            "position": "MF"
+        },
+        "Stark, Niklas": {
+            "birthdate": "14.04.1995",
+            "country": "Deutschland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Stocker, Valentin": {
+            "birthdate": "12.04.1989",
+            "country": "Schweiz",
+            "number": "14",
+            "position": "MF"
+        },
+        "Weiser, Mitchell": {
+            "birthdate": "21.04.1994",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "MF"
+        },
+        "van den Bergh, Johannes": {
+            "birthdate": "21.11.1986",
+            "country": "Deutschland",
+            "number": "23",
+            "position": "DF"
+        }
+    },
+    "SV Darmstadt 98": {
+        "Caldirola, Luca": {
+            "birthdate": "01.02.1991",
+            "country": "Italien",
+            "number": "33",
+            "position": "DF"
+        },
+        "Finger, Jan": {
+            "birthdate": "02.01.1997",
+            "country": "Deutschland",
+            "number": "36",
+            "position": "MF"
+        },
+        "Garics, György": {
+            "birthdate": "08.03.1984",
+            "country": "Österreich",
+            "number": "13",
+            "position": "DF"
+        },
+        "Gondorf, Jerome": {
+            "birthdate": "26.06.1988",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Gorka, Benjamin": {
+            "birthdate": "15.04.1984",
+            "country": "Deutschland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Heller, Marcel": {
+            "birthdate": "12.02.1986",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "MF"
+        },
+        "Holland, Fabian": {
+            "birthdate": "11.07.1990",
+            "country": "Deutschland",
+            "number": "32",
+            "position": "DF"
+        },
+        "Ivana, Milan": {
+            "birthdate": "26.11.1983",
+            "country": "Slowakei",
+            "number": "27",
+            "position": "MF"
+        },
+        "Jungwirth, Florian": {
+            "birthdate": "27.01.1989",
+            "country": "Deutschland",
+            "number": "23",
+            "position": "MF"
+        },
+        "Junior Diaz": {
+            "birthdate": "12.09.1983",
+            "country": "Costa Rica",
+            "number": "15",
+            "position": "DF"
+        },
+        "Kazimi, Ali": {
+            "birthdate": "30.06.1997",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "MF"
+        },
+        "Kempe, Tobias": {
+            "birthdate": "27.06.1989",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        },
+        "Mathenia, Christian": {
+            "birthdate": "31.03.1992",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "GK"
+        },
+        "Niemeyer, Peter": {
+            "birthdate": "22.11.1983",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "MF"
+        },
+        "Platins, Patrick": {
+            "birthdate": "19.04.1983",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Rausch, Konstantin": {
+            "birthdate": "15.03.1990",
+            "country": "Deutschland",
+            "number": "34",
+            "position": "MF"
+        },
+        "Rosenthal, Jan": {
+            "birthdate": "07.04.1986",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Sailer, Marco": {
+            "birthdate": "16.11.1985",
+            "country": "Deutschland",
+            "number": "7",
+            "position": "FW"
+        },
+        "Sirigu, Sandro": {
+            "birthdate": "07.10.1988",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "DF"
+        },
+        "Stark, Yannick": {
+            "birthdate": "28.10.1990",
+            "country": "Deutschland",
+            "number": "25",
+            "position": "MF"
+        },
+        "Stegmayer, Michael": {
+            "birthdate": "12.01.1985",
+            "country": "Deutschland",
+            "number": "3",
+            "position": "DF"
+        },
+        "Stroh-Engel, Dominik": {
+            "birthdate": "27.11.1985",
+            "country": "Deutschland",
+            "number": "9",
+            "position": "FW"
+        },
+        "Sulu, Aytac": {
+            "birthdate": "11.12.1985",
+            "country": "Türkei",
+            "number": "4",
+            "position": "DF"
+        },
+        "Volk, Nick": {
+            "birthdate": "12.11.1997",
+            "country": "Deutschland",
+            "number": "38",
+            "position": "MF"
+        },
+        "Vrancic, Mario": {
+            "birthdate": "23.05.1989",
+            "country": "Bosnien-Herzegowina",
+            "number": "6",
+            "position": "MF"
+        },
+        "Wagner, Sandro": {
+            "birthdate": "29.11.1987",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "FW"
+        },
+        "Wembacher, Noel": {
+            "birthdate": "15.03.1997",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "DF"
+        }
+    },
+    "TSG Hoffenheim": {
+        "Amiri, Nadiem": {
+            "birthdate": "27.10.1996",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "MF"
+        },
+        "Baumann, Oliver": {
+            "birthdate": "02.06.1990",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Bicakcic, Ermin": {
+            "birthdate": "24.01.1990",
+            "country": "Bosnien-Herzegowina",
+            "number": "4",
+            "position": "DF"
+        },
+        "Elyounoussi, Tarik": {
+            "birthdate": "23.02.1988",
+            "country": "Norwegen",
+            "number": "14",
+            "position": "MF"
+        },
+        "Gimber, Benedikt": {
+            "birthdate": "19.02.1997",
+            "country": "Deutschland",
+            "number": "32",
+            "position": "DF"
+        },
+        "Grahl, Jens": {
+            "birthdate": "22.09.1988",
+            "country": "Deutschland",
+            "number": "13",
+            "position": "GK"
+        },
+        "Hamad, Jiloan": {
+            "birthdate": "06.11.1990",
+            "country": "Schweden",
+            "number": "11",
+            "position": "MF"
+        },
+        "Herdling, Kai": {
+            "birthdate": "27.06.1984",
+            "country": "Deutschland",
+            "number": "38",
+            "position": "MF"
+        },
+        "Joelinton": {
+            "birthdate": "14.08.1996",
+            "country": "Brasilien",
+            "number": "40",
+            "position": "FW"
+        },
+        "Kaderabek, Pavel": {
+            "birthdate": "25.04.1992",
+            "country": "Tschechien",
+            "number": "3",
+            "position": "DF"
+        },
+        "Kim, Jin-Su": {
+            "birthdate": "13.06.1992",
+            "country": "Südkorea",
+            "number": "20",
+            "position": "DF"
+        },
+        "Kuranyi, Kevin": {
+            "birthdate": "02.03.1982",
+            "country": "Deutschland",
+            "number": "22",
+            "position": "FW"
+        },
+        "Malbasic, Filip": {
+            "birthdate": "18.11.1992",
+            "country": "Serbien",
+            "number": "xx",
+            "position": "MF"
+        },
+        "Ochs, Philipp": {
+            "birthdate": "17.04.1997",
+            "country": "Deutschland",
+            "number": "30",
+            "position": "FW"
+        },
+        "Polanski, Eugen": {
+            "birthdate": "17.03.1986",
+            "country": "Polen",
+            "number": "8",
+            "position": "MF"
+        },
+        "Rapp, Nicolai": {
+            "birthdate": "13.12.1996",
+            "country": "Deutschland",
+            "number": "21",
+            "position": "DF"
+        },
+        "Rudy, Sebastian": {
+            "birthdate": "28.02.1990",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "MF"
+        },
+        "Schmid, Jonathan": {
+            "birthdate": "22.06.1990",
+            "country": "Frankreich",
+            "number": "10",
+            "position": "MF"
+        },
+        "Schwegler, Pirmin": {
+            "birthdate": "09.03.1987",
+            "country": "Schweiz",
+            "number": "16",
+            "position": "MF"
+        },
+        "Schär, Fabian": {
+            "birthdate": "20.12.1991",
+            "country": "Schweiz",
+            "number": "5",
+            "position": "DF"
+        },
+        "Stolz, Alexander": {
+            "birthdate": "13.10.1983",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "GK"
+        },
+        "Strobl, Tobias": {
+            "birthdate": "12.05.1990",
+            "country": "Deutschland",
+            "number": "12",
+            "position": "DF"
+        },
+        "Szalai, Adam": {
+            "birthdate": "09.12.1987",
+            "country": "Ungarn",
+            "number": "28",
+            "position": "FW"
+        },
+        "Süle, Niklas": {
+            "birthdate": "03.09.1995",
+            "country": "Deutschland",
+            "number": "25",
+            "position": "DF"
+        },
+        "Toljan, Jeremy": {
+            "birthdate": "08.08.1994",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Uth, Mark": {
+            "birthdate": "24.08.1991",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "FW"
+        },
+        "Vargas, Eduardo": {
+            "birthdate": "20.11.1989",
+            "country": "Chile",
+            "number": "9",
+            "position": "MF"
+        },
+        "Volland, Kevin": {
+            "birthdate": "30.07.1992",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "FW"
+        },
+        "Zuber, Steven": {
+            "birthdate": "17.08.1991",
+            "country": "Schweiz",
+            "number": "17",
+            "position": "MF"
+        }
+    },
+    "VfB Stuttgart": {
+        "Baumgartl, Timo": {
+            "birthdate": "04.03.1996",
+            "country": "Deutschland",
+            "number": "5",
+            "position": "DF"
+        },
+        "Didavi, Daniel": {
+            "birthdate": "21.02.1990",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Ferati, Arianit": {
+            "birthdate": "07.09.1997",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "MF"
+        },
+        "Gentner, Christian": {
+            "birthdate": "14.08.1985",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "MF"
+        },
+        "Ginczek, Daniel": {
+            "birthdate": "13.04.1991",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "FW"
+        },
+        "Gruezo, Carlos": {
+            "birthdate": "19.04.1995",
+            "country": "Ecuador",
+            "number": "11",
+            "position": "MF"
+        },
+        "Harnik, Martin": {
+            "birthdate": "10.06.1987",
+            "country": "Österreich",
+            "number": "7",
+            "position": "FW"
+        },
+        "Heise, Philip": {
+            "birthdate": "20.06.1991",
+            "country": "Deutschland",
+            "number": "14",
+            "position": "DF"
+        },
+        "Hlousek, Adam": {
+            "birthdate": "20.12.1988",
+            "country": "Tschechien",
+            "number": "21",
+            "position": "DF"
+        },
+        "Insua, Emiliano": {
+            "birthdate": "07.01.1989",
+            "country": "Argentinien",
+            "number": "2",
+            "position": "DF"
+        },
+        "Kiesewetter, Jerome": {
+            "birthdate": "09.02.1993",
+            "country": "USA",
+            "number": "42",
+            "position": "FW"
+        },
+        "Klein, Florian": {
+            "birthdate": "17.11.1986",
+            "country": "Österreich",
+            "number": "16",
+            "position": "DF"
+        },
+        "Kliment, Jan": {
+            "birthdate": "01.09.1993",
+            "country": "Tschechien",
+            "number": "39",
+            "position": "FW"
+        },
+        "Kostic, Filip": {
+            "birthdate": "01.11.1992",
+            "country": "Serbien",
+            "number": "18",
+            "position": "MF"
+        },
+        "Kruse, Robbie": {
+            "birthdate": "05.10.1988",
+            "country": "Australien",
+            "number": "9",
+            "position": "FW"
+        },
+        "Langerak, Mitchell": {
+            "birthdate": "22.08.1988",
+            "country": "Australien",
+            "number": "1",
+            "position": "GK"
+        },
+        "Maxim, Alexandru": {
+            "birthdate": "08.07.1990",
+            "country": "Rumänien",
+            "number": "44",
+            "position": "MF"
+        },
+        "Niedermeier, Georg": {
+            "birthdate": "26.02.1986",
+            "country": "Deutschland",
+            "number": "6",
+            "position": "DF"
+        },
+        "Ristl, Mart": {
+            "birthdate": "07.07.1996",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "MF"
+        },
+        "Rupp, Lukas": {
+            "birthdate": "08.01.1991",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Schwaab, Daniel": {
+            "birthdate": "23.08.1988",
+            "country": "Deutschland",
+            "number": "3",
+            "position": "DF"
+        },
+        "Serey Dié": {
+            "birthdate": "07.11.1984",
+            "country": "Elfenbeinküste",
+            "number": "26",
+            "position": "MF"
+        },
+        "Sunjic, Toni": {
+            "birthdate": "15.12.1988",
+            "country": "Bosnien-Herzegowina",
+            "number": "4",
+            "position": "DF"
+        },
+        "Tyton, Przemyslaw": {
+            "birthdate": "04.01.1987",
+            "country": "Polen",
+            "number": "22",
+            "position": "GK"
+        },
+        "Vlachodimos, Odisseas": {
+            "birthdate": "26.04.1994",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "GK"
+        },
+        "Wanitzek, Marvin": {
+            "birthdate": "07.05.1993",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "MF"
+        },
+        "Werner, Timo": {
+            "birthdate": "06.03.1996",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "FW"
+        }
+    },
+    "VfL Wolfsburg": {
+        "Arnold, Maximilian": {
+            "birthdate": "27.05.1994",
+            "country": "Deutschland",
+            "number": "27",
+            "position": "MF"
+        },
+        "Ascues, Carlos": {
+            "birthdate": "06.06.1992",
+            "country": "Peru",
+            "number": "6",
+            "position": "DF"
+        },
+        "Azzaoui, Ismail": {
+            "birthdate": "06.01.1998",
+            "country": "Belgien",
+            "number": "38",
+            "position": "MF"
+        },
+        "Benaglio, Diego": {
+            "birthdate": "08.09.1983",
+            "country": "Schweiz",
+            "number": "1",
+            "position": "GK"
+        },
+        "Bendtner, Nicklas": {
+            "birthdate": "16.01.1988",
+            "country": "Dänemark",
+            "number": "3",
+            "position": "FW"
+        },
+        "Caligiuri, Daniel": {
+            "birthdate": "15.01.1988",
+            "country": "Italien",
+            "number": "7",
+            "position": "MF"
+        },
+        "Casteels, Koen": {
+            "birthdate": "25.06.1992",
+            "country": "Belgien",
+            "number": "28",
+            "position": "GK"
+        },
+        "Dante": {
+            "birthdate": "18.10.1983",
+            "country": "Brasilien",
+            "number": "18",
+            "position": "DF"
+        },
+        "Dost, Bas": {
+            "birthdate": "31.05.1989",
+            "country": "Niederlande",
+            "number": "12",
+            "position": "FW"
+        },
+        "Draxler, Julian": {
+            "birthdate": "20.09.1993",
+            "country": "Deutschland",
+            "number": "xx",
+            "position": "MF"
+        },
+        "Felipe": {
+            "birthdate": "07.08.1987",
+            "country": "Brasilien",
+            "number": "26",
+            "position": "DF"
+        },
+        "Grün, Max": {
+            "birthdate": "05.04.1987",
+            "country": "Deutschland",
+            "number": "20",
+            "position": "GK"
+        },
+        "Guilavogui, Josuha": {
+            "birthdate": "19.09.1990",
+            "country": "Frankreich",
+            "number": "23",
+            "position": "MF"
+        },
+        "Jung, Sebastian": {
+            "birthdate": "22.06.1990",
+            "country": "Deutschland",
+            "number": "24",
+            "position": "DF"
+        },
+        "Klose, Timm": {
+            "birthdate": "09.05.1988",
+            "country": "Schweiz",
+            "number": "5",
+            "position": "DF"
+        },
+        "Knoche, Robin": {
+            "birthdate": "22.05.1992",
+            "country": "Deutschland",
+            "number": "31",
+            "position": "DF"
+        },
+        "Kruse, Max": {
+            "birthdate": "19.03.1988",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "FW"
+        },
+        "Luiz Gustavo": {
+            "birthdate": "23.07.1987",
+            "country": "Brasilien",
+            "number": "22",
+            "position": "MF"
+        },
+        "Naldo": {
+            "birthdate": "10.09.1982",
+            "country": "Brasilien",
+            "number": "25",
+            "position": "DF"
+        },
+        "Rodriguez, Francisco": {
+            "birthdate": "14.09.1995",
+            "country": "Schweiz",
+            "number": "35",
+            "position": "MF"
+        },
+        "Rodriguez, Ricardo": {
+            "birthdate": "25.08.1992",
+            "country": "Schweiz",
+            "number": "34",
+            "position": "DF"
+        },
+        "Schäfer, Marcel": {
+            "birthdate": "07.06.1984",
+            "country": "Deutschland",
+            "number": "4",
+            "position": "DF"
+        },
+        "Schürrle, André": {
+            "birthdate": "06.11.1990",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "MF"
+        },
+        "Seguin, Paul": {
+            "birthdate": "29.03.1995",
+            "country": "Deutschland",
+            "number": "30",
+            "position": "MF"
+        },
+        "Sprenger, Moritz": {
+            "birthdate": "22.02.1995",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "DF"
+        },
+        "Stolze, Sebastian": {
+            "birthdate": "29.01.1995",
+            "country": "Deutschland",
+            "number": "33",
+            "position": "FW"
+        },
+        "Träsch, Christian": {
+            "birthdate": "01.09.1987",
+            "country": "Deutschland",
+            "number": "15",
+            "position": "DF"
+        },
+        "Vieirinha": {
+            "birthdate": "24.01.1986",
+            "country": "Portugal",
+            "number": "8",
+            "position": "DF"
+        },
+        "Zawada, Oskar": {
+            "birthdate": "01.02.1996",
+            "country": "Polen",
+            "number": "32",
+            "position": "FW"
+        }
+    },
+    "Werder Bremen": {
+        "Aycicek, Levent": {
+            "birthdate": "12.02.1994",
+            "country": "Deutschland",
+            "number": "10",
+            "position": "MF"
+        },
+        "Bargfrede, Philipp": {
+            "birthdate": "03.03.1989",
+            "country": "Deutschland",
+            "number": "44",
+            "position": "MF"
+        },
+        "Bartels, Fin": {
+            "birthdate": "07.02.1987",
+            "country": "Deutschland",
+            "number": "22",
+            "position": "MF"
+        },
+        "Busch, Marnon": {
+            "birthdate": "08.12.1994",
+            "country": "Deutschland",
+            "number": "38",
+            "position": "DF"
+        },
+        "Eggestein, Maximilian": {
+            "birthdate": "08.12.1996",
+            "country": "Deutschland",
+            "number": "35",
+            "position": "MF"
+        },
+        "Fritz, Clemens": {
+            "birthdate": "07.12.1980",
+            "country": "Deutschland",
+            "number": "8",
+            "position": "MF"
+        },
+        "Fröde, Lukas": {
+            "birthdate": "23.01.1995",
+            "country": "Deutschland",
+            "number": "39",
+            "position": "MF"
+        },
+        "Galvez, Alejandro": {
+            "birthdate": "06.06.1989",
+            "country": "Spanien",
+            "number": "4",
+            "position": "DF"
+        },
+        "Garcia, Santiago": {
+            "birthdate": "08.07.1988",
+            "country": "Argentinien",
+            "number": "2",
+            "position": "DF"
+        },
+        "Garcia, Ulisses": {
+            "birthdate": "11.01.1996",
+            "country": "Schweiz",
+            "number": "20",
+            "position": "DF"
+        },
+        "Gebre Selassie, Theodor": {
+            "birthdate": "24.12.1986",
+            "country": "Tschechien",
+            "number": "23",
+            "position": "DF"
+        },
+        "Grillitsch, Florian": {
+            "birthdate": "07.08.1995",
+            "country": "Österreich",
+            "number": "27",
+            "position": "MF"
+        },
+        "Husic, Raif": {
+            "birthdate": "05.02.1996",
+            "country": "Deutschland",
+            "number": "40",
+            "position": "GK"
+        },
+        "Hüsing, Oliver": {
+            "birthdate": "17.02.1993",
+            "country": "Deutschland",
+            "number": "25",
+            "position": "DF"
+        },
+        "Johannsson, Aron": {
+            "birthdate": "10.11.1990",
+            "country": "USA",
+            "number": "9",
+            "position": "FW"
+        },
+        "Junuzovic, Zlatko": {
+            "birthdate": "26.09.1987",
+            "country": "Österreich",
+            "number": "16",
+            "position": "MF"
+        },
+        "Kroos, Felix": {
+            "birthdate": "12.03.1991",
+            "country": "Deutschland",
+            "number": "18",
+            "position": "MF"
+        },
+        "Lorenzen, Melvyn": {
+            "birthdate": "26.11.1994",
+            "country": "Deutschland",
+            "number": "28",
+            "position": "FW"
+        },
+        "Lukimya, Assani": {
+            "birthdate": "25.01.1986",
+            "country": "DR Kongo",
+            "number": "5",
+            "position": "DF"
+        },
+        "Pavlovic, Mateo": {
+            "birthdate": "09.06.1990",
+            "country": "Kroatien",
+            "number": "15",
+            "position": "DF"
+        },
+        "Sternberg, Janek": {
+            "birthdate": "19.10.1992",
+            "country": "Deutschland",
+            "number": "37",
+            "position": "DF"
+        },
+        "Ujah, Anthony": {
+            "birthdate": "14.10.1990",
+            "country": "Nigeria",
+            "number": "21",
+            "position": "FW"
+        },
+        "Vestergaard, Jannik": {
+            "birthdate": "03.08.1992",
+            "country": "Dänemark",
+            "number": "7",
+            "position": "DF"
+        },
+        "Wiedwald, Felix": {
+            "birthdate": "15.03.1990",
+            "country": "Deutschland",
+            "number": "42",
+            "position": "GK"
+        },
+        "Wolf, Raphael": {
+            "birthdate": "06.06.1988",
+            "country": "Deutschland",
+            "number": "1",
+            "position": "GK"
+        },
+        "Yildirim, Özkan": {
+            "birthdate": "10.04.1993",
+            "country": "Deutschland",
+            "number": "17",
+            "position": "MF"
+        },
+        "Zander, Luca-Milan": {
+            "birthdate": "09.08.1995",
+            "country": "Deutschland",
+            "number": "19",
+            "position": "DF"
+        },
+        "Zetterer, Michael": {
+            "birthdate": "12.07.1995",
+            "country": "Deutschland",
+            "number": "30",
+            "position": "GK"
+        },
+        "von Haacke, Julian": {
+            "birthdate": "14.02.1994",
+            "country": "Deutschland",
+            "number": "26",
+            "position": "MF"
+        },
+        "Öztunali, Levin": {
+            "birthdate": "15.03.1996",
+            "country": "Deutschland",
+            "number": "11",
+            "position": "MF"
+        }
+    }
+}

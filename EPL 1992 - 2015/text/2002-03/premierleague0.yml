@@ -1,0 +1,32 @@
+############################
+# Premier League 2002-2003
+
+league: en
+season: 2002/03
+start_at: 2002-08-17
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Everton
+- Fulham
+- Leeds
+- Liverpool
+- Man City
+- Man United
+- Middlesboro
+- Newcastle
+- Southampton
+- Sunderland
+- Tottenham
+- West Brom
+- West Ham
+

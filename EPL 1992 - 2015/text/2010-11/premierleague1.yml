@@ -1,0 +1,36 @@
+############################
+# Premier League 2010-2011
+
+league: en
+season: 2010/11
+start_at: 1910-08-06
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Bristol City
+- Burnley
+- Cardiff
+- Coventry
+- Crystal Palace
+- Derby
+- Doncaster
+- Hull
+- Ipswich
+- Leeds
+- Leicester
+- Middlesbrough
+- Millwall
+- Norwich
+- Nott'm Forest
+- Portsmouth
+- Preston
+- QPR
+- Reading
+- Scunthorpe
+- Sheffield United
+- Swansea
+- Watford
+

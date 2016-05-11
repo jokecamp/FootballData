@@ -1,0 +1,36 @@
+############################
+# Premier League 2009-2010
+
+league: en
+season: 2009/10
+start_at: 1909-08-08
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Brentford
+- Brighton
+- Bristol Rvs
+- Carlisle
+- Charlton
+- Colchester
+- Exeter
+- Gillingham
+- Hartlepool
+- Huddersfield
+- Leeds
+- Leyton Orient
+- Millwall
+- Milton Keynes Dons
+- Norwich
+- Oldham
+- Southampton
+- Southend
+- Stockport
+- Swindon
+- Tranmere
+- Walsall
+- Wycombe
+- Yeovil
+

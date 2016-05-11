@@ -1,0 +1,36 @@
+############################
+# Premier League 1999-2000
+
+league: en
+season: 1999/00
+start_at: 1900-01-03
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Brentford
+- Bristol City
+- Bristol Rvs
+- Burnley
+- Bury
+- Cambridge
+- Cardiff
+- Chesterfield
+- Colchester
+- Gillingham
+- Luton
+- Millwall
+- Notts County
+- Oldham
+- Oxford
+- Preston
+- Reading
+- Scunthorpe
+- Stoke
+- Wigan
+- Wrexham
+- Wycombe
+

@@ -1,0 +1,36 @@
+############################
+# Premier League 1996-1997
+
+league: en
+season: 1996/97
+start_at: 1996-08-17
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Brentford
+- Bristol City
+- Bristol Rvs
+- Burnley
+- Bury
+- Chesterfield
+- Crewe
+- Gillingham
+- Luton
+- Millwall
+- Notts County
+- Peterboro
+- Plymouth
+- Preston
+- Rotherham
+- Shrewsbury
+- Stockport
+- Walsall
+- Watford
+- Wrexham
+- Wycombe
+- York
+

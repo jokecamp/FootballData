@@ -1,0 +1,839 @@
+############################
+# Premier League 1993-1994
+
+Matchday 1
+
+[1993-08-14]
+	15.00		Barnsley	1-1	West Brom
+	15.00		Charlton	1-0	Birmingham
+	15.00		Crystal Palace	0-0	Tranmere
+	15.00		Derby	5-0	Sunderland
+	15.00		Grimsby	0-0	Bolton
+	15.00		Leicester	2-1	Peterboro
+	15.00		Luton	2-1	Watford
+	15.00		Notts County	2-3	Middlesbrough
+	15.00		Oxford	3-2	Portsmouth
+	15.00		Stoke	1-2	Millwall
+	15.00		Wolves	3-1	Bristol City
+[1993-08-15]
+	15.00		Southend	1-1	Nott'm Forest
+
+Matchday 2
+
+[1993-08-17]
+	15.00		Peterboro	4-1	Barnsley
+	15.00		Portsmouth	1-2	Charlton
+[1993-08-18]
+	15.00		Nott'm Forest	1-1	Derby
+[1993-08-21]
+	15.00		Bolton	1-1	Stoke
+	15.00		Bristol City	2-0	Crystal Palace
+	15.00		Middlesbrough	3-0	Derby
+	15.00		Nott'm Forest	5-3	Grimsby
+	15.00		Peterboro	1-1	Notts County
+	15.00		Portsmouth	1-0	Luton
+	15.00		Sunderland	4-0	Charlton
+	15.00		Tranmere	1-0	Leicester
+	15.00		Watford	0-2	Barnsley
+
+Matchday 3
+
+[1993-08-21]
+	15.00		West Brom	3-1	Oxford
+[1993-08-22]
+	15.00		Birmingham	2-2	Wolves
+	15.00		Millwall	1-4	Southend
+[1993-08-24]
+	15.00		Barnsley	1-4	Middlesbrough
+	15.00		Charlton	3-1	Tranmere
+	15.00		Crystal Palace	2-0	Nott'm Forest
+	15.00		Grimsby	1-1	Portsmouth
+[1993-08-25]
+	15.00		Wolves	2-0	Millwall
+[1993-08-28]
+	15.00		Barnsley	2-3	Birmingham
+	15.00		Charlton	3-0	Bolton
+	15.00		Crystal Palace	5-1	Portsmouth
+	15.00		Derby	1-0	Bristol City
+
+Matchday 4
+
+[1993-08-28]
+	15.00		Grimsby	0-0	Tranmere
+	15.00		Leicester	4-0	Millwall
+	15.00		Luton	1-2	Nott'm Forest
+	15.00		Notts County	1-0	Sunderland
+	15.00		Oxford	2-3	Watford
+	15.00		Southend	3-0	Peterboro
+	15.00		Stoke	1-0	West Brom
+	15.00		Wolves	2-3	Middlesbrough
+[1993-08-31]
+	15.00		Birmingham	2-4	Crystal Palace
+	15.00		Bolton	1-0	Oxford
+[1993-09-01]
+	15.00		West Brom	2-2	Southend
+[1993-09-04]
+	15.00		Birmingham	3-0	Derby
+
+Matchday 5
+
+[1993-09-04]
+	15.00		Bristol City	2-1	Southend
+	15.00		Millwall	2-0	Barnsley
+	15.00		Peterboro	1-2	Grimsby
+	15.00		Portsmouth	3-3	Stoke
+	15.00		Tranmere	3-1	Notts County
+	15.00		Watford	2-2	Charlton
+[1993-09-05]
+	15.00		West Brom	3-2	Wolves
+[1993-09-07]
+	15.00		Watford	1-0	Wolves
+[1993-09-11]
+	15.00		Barnsley	1-0	Nott'm Forest
+	15.00		Charlton	0-0	Millwall
+	15.00		Derby	2-0	Peterboro
+	15.00		Grimsby	2-2	Watford
+
+Matchday 6
+
+[1993-09-11]
+	15.00		Luton	0-2	Bolton
+	15.00		Notts County	1-0	West Brom
+	15.00		Oxford	4-2	Bristol City
+	15.00		Southend	1-0	Middlesbrough
+	15.00		Stoke	1-2	Tranmere
+	15.00		Wolves	1-1	Portsmouth
+[1993-09-12]
+	15.00		Crystal Palace	1-0	Sunderland
+	15.00		Leicester	1-1	Birmingham
+[1993-09-14]
+	15.00		Bristol City	1-3	Leicester
+	15.00		Middlesbrough	1-2	Stoke
+	15.00		Tranmere	4-1	Luton
+[1993-09-18]
+	15.00		Birmingham	1-1	Grimsby
+
+Matchday 7
+
+[1993-09-18]
+	15.00		Bolton	1-2	Leicester
+	15.00		Bristol City	0-0	Charlton
+	15.00		Middlesbrough	0-0	Luton
+	15.00		Millwall	0-0	Derby
+	15.00		Peterboro	3-1	Oxford
+	15.00		Portsmouth	2-1	Southend
+	15.00		Sunderland	0-2	Wolves
+	15.00		Tranmere	0-3	Barnsley
+	15.00		Watford	3-1	Notts County
+	15.00		West Brom	1-4	Crystal Palace
+[1993-09-19]
+	15.00		Nott'm Forest	2-3	Stoke
+[1993-09-25]
+	15.00		Barnsley	0-1	Leicester
+
+Matchday 8
+
+[1993-09-25]
+	15.00		Birmingham	1-1	Luton
+	15.00		Grimsby	2-0	Wolves
+	15.00		Notts County	4-1	Derby
+	15.00		Peterboro	0-0	Millwall
+	15.00		Portsmouth	0-0	Bristol City
+	15.00		Stoke	0-1	Southend
+	15.00		Tranmere	2-0	Oxford
+	15.00		Watford	1-1	Sunderland
+	15.00		West Brom	1-1	Middlesbrough
+[1993-09-26]
+	15.00		Bolton	4-3	Nott'm Forest
+	15.00		Charlton	0-0	Crystal Palace
+[1993-09-28]
+	15.00		Sunderland	2-2	Grimsby
+
+Matchday 9
+
+[1993-09-29]
+	15.00		Middlesbrough	2-0	Leicester
+[1993-10-02]
+	15.00		Bristol City	2-0	Bolton
+	15.00		Crystal Palace	4-1	Stoke
+	15.00		Leicester	3-2	Notts County
+	15.00		Luton	5-0	Barnsley
+	15.00		Middlesbrough	2-2	Birmingham
+	15.00		Millwall	4-1	Watford
+	15.00		Nott'm Forest	1-1	Portsmouth
+	15.00		Oxford	2-2	Grimsby
+	15.00		Southend	1-2	Tranmere
+	15.00		Sunderland	2-0	Peterboro
+	15.00		Wolves	1-1	Charlton
+
+Matchday 10
+
+[1993-10-03]
+	15.00		Derby	5-3	West Brom
+[1993-10-05]
+	15.00		Luton	0-2	Bristol City
+[1993-10-09]
+	15.00		Barnsley	0-1	Charlton
+	15.00		Derby	2-1	Luton
+	15.00		Grimsby	4-0	Southend
+	15.00		Millwall	2-1	West Brom
+	15.00		Notts County	2-0	Bristol City
+	15.00		Peterboro	2-2	Portsmouth
+	15.00		Sunderland	1-0	Birmingham
+	15.00		Tranmere	2-1	Bolton
+[1993-10-10]
+	15.00		Oxford	1-0	Stoke
+	15.00		Watford	2-0	Middlesbrough
+
+Matchday 11
+
+[1993-10-16]
+	15.00		Birmingham	1-0	Watford
+	15.00		Bolton	4-0	Millwall
+	15.00		Bristol City	0-2	Barnsley
+	15.00		Charlton	2-1	Leicester
+	15.00		Luton	1-0	Notts County
+	15.00		Nott'm Forest	2-1	Tranmere
+	15.00		Portsmouth	3-2	Derby
+	15.00		Southend	6-1	Oxford
+	15.00		Stoke	1-0	Grimsby
+	15.00		West Brom	3-0	Peterboro
+[1993-10-17]
+	15.00		Crystal Palace	1-1	Wolves
+	15.00		Middlesbrough	4-1	Sunderland
+
+Matchday 12
+
+[1993-10-19]
+	15.00		Birmingham	2-1	Bolton
+[1993-10-20]
+	15.00		Millwall	2-0	Notts County
+	15.00		Nott'm Forest	0-0	Oxford
+	15.00		Sunderland	2-0	Luton
+[1993-10-22]
+	15.00		Tranmere	2-2	Bristol City
+[1993-10-23]
+	15.00		Barnsley	1-3	Southend
+	15.00		Derby	3-1	Crystal Palace
+	15.00		Grimsby	0-1	Charlton
+	15.00		Notts County	1-1	Portsmouth
+	15.00		Oxford	0-1	Luton
+	15.00		Peterboro	1-0	Birmingham
+	15.00		Sunderland	1-0	West Brom
+
+Matchday 13
+
+[1993-10-23]
+	15.00		Watford	4-3	Bolton
+	15.00		Wolves	1-1	Stoke
+[1993-10-24]
+	15.00		Leicester	1-0	Nott'm Forest
+	15.00		Millwall	1-1	Middlesbrough
+[1993-10-30]
+	15.00		Bolton	0-2	Derby
+	15.00		Bristol City	2-0	Sunderland
+	15.00		Charlton	1-0	Oxford
+	15.00		Crystal Palace	1-0	Grimsby
+	15.00		Luton	0-2	Leicester
+	15.00		Middlesbrough	1-1	Peterboro
+	15.00		Nott'm Forest	1-0	Notts County
+	15.00		Portsmouth	2-0	Tranmere
+
+Matchday 14
+
+[1993-10-30]
+	15.00		Southend	1-1	Wolves
+	15.00		Stoke	5-4	Barnsley
+	15.00		West Brom	4-1	Watford
+[1993-10-31]
+	15.00		Birmingham	1-0	Millwall
+[1993-11-02]
+	15.00		Bolton	1-1	Peterboro
+	15.00		Bristol City	3-0	Birmingham
+	15.00		Charlton	1-2	Derby
+	15.00		Crystal Palace	3-2	Luton
+	15.00		Grimsby	0-0	Leicester
+	15.00		Oxford	1-1	Barnsley
+	15.00		Portsmouth	2-0	Middlesbrough
+	15.00		Tranmere	3-0	West Brom
+
+Matchday 15
+
+[1993-11-02]
+	15.00		Wolves	3-0	Notts County
+[1993-11-03]
+	15.00		Nott'm Forest	1-3	Millwall
+	15.00		Southend	2-0	Watford
+	15.00		Stoke	1-0	Sunderland
+[1993-11-06]
+	15.00		Birmingham	0-3	Nott'm Forest
+	15.00		Leicester	3-0	Southend
+	15.00		Middlesbrough	0-1	Bristol City
+	15.00		Millwall	2-2	Oxford
+	15.00		Notts County	3-2	Crystal Palace
+	15.00		Peterboro	0-0	Tranmere
+	15.00		Sunderland	1-2	Portsmouth
+	15.00		Watford	1-3	Stoke
+
+Matchday 16
+
+[1993-11-06]
+	15.00		West Brom	2-2	Bolton
+[1993-11-07]
+	15.00		Barnsley	1-2	Grimsby
+	15.00		Derby	0-4	Wolves
+	15.00		Luton	1-0	Charlton
+[1993-11-10]
+	15.00		Wolves	1-1	Nott'm Forest
+[1993-11-13]
+	15.00		Bristol City	2-2	Millwall
+	15.00		Charlton	5-1	Notts County
+	15.00		Oxford	2-0	Derby
+	15.00		Southend	2-1	Luton
+	15.00		Tranmere	4-1	Sunderland
+	15.00		Wolves	1-1	Barnsley
+[1993-11-14]
+	15.00		Stoke	1-0	Leicester
+
+Matchday 17
+
+[1993-11-20]
+	15.00		Barnsley	1-3	Crystal Palace
+	15.00		Birmingham	0-1	Portsmouth
+	15.00		Derby	2-1	Grimsby
+	15.00		Leicester	2-3	Oxford
+	15.00		Millwall	3-1	Tranmere
+	15.00		Notts County	2-0	Stoke
+	15.00		Peterboro	0-1	Charlton
+	15.00		Sunderland	0-2	Southend
+	15.00		Watford	1-1	Bristol City
+[1993-11-21]
+	15.00		Middlesbrough	0-1	Bolton
+	15.00		West Brom	0-2	Nott'm Forest
+[1993-11-24]
+	15.00		Bolton	1-0	Crystal Palace
+
+Matchday 18
+
+[1993-11-27]
+	15.00		Barnsley	1-1	Bolton
+	15.00		Birmingham	0-3	Tranmere
+	15.00		Derby	1-3	Southend
+	15.00		Leicester	2-2	Wolves
+	15.00		Luton	6-2	Stoke
+	15.00		Millwall	1-0	Grimsby
+	15.00		Peterboro	0-2	Bristol City
+	15.00		Sunderland	2-3	Nott'm Forest
+	15.00		West Brom	4-1	Portsmouth
+[1993-11-28]
+	15.00		Notts County	2-1	Oxford
+	15.00		Watford	1-3	Crystal Palace
+[1993-12-03]
+	15.00		Tranmere	2-1	Peterboro
+
+Matchday 19
+
+[1993-12-04]
+	15.00		Bristol City	0-0	Middlesbrough
+	15.00		Charlton	1-0	Luton
+	15.00		Grimsby	2-2	Barnsley
+	15.00		Nott'm Forest	1-0	Birmingham
+	15.00		Oxford	0-2	Millwall
+	15.00		Portsmouth	0-1	Sunderland
+	15.00		Stoke	2-0	Watford
+[1993-12-05]
+	15.00		Crystal Palace	1-2	Notts County
+	15.00		Southend	0-0	Leicester
+	15.00		Wolves	2-2	Derby
+[1993-12-07]
+	15.00		Bolton	1-1	West Brom
+	15.00		Portsmouth	2-0	Watford
+
+Matchday 20
+
+[1993-12-08]
+	15.00		Leicester	1-1	Crystal Palace
+[1993-12-11]
+	15.00		Barnsley	1-0	Peterboro
+	15.00		Crystal Palace	2-1	Birmingham
+	15.00		Leicester	3-0	Bristol City
+	15.00		Luton	0-1	Tranmere
+	15.00		Notts County	1-3	Millwall
+	15.00		Oxford	0-2	Bolton
+	15.00		Southend	0-3	West Brom
+	15.00		Stoke	3-1	Middlesbrough
+	15.00		Wolves	2-0	Watford
+[1993-12-12]
+	15.00		Charlton	0-1	Portsmouth
+[1993-12-18]
+	15.00		Birmingham	1-0	Charlton
+
+Matchday 21
+
+[1993-12-18]
+	15.00		Bolton	1-1	Grimsby
+	15.00		Bristol City	2-1	Wolves
+	15.00		Middlesbrough	3-0	Notts County
+	15.00		Portsmouth	1-1	Oxford
+	15.00		Sunderland	1-0	Derby
+[1993-12-19]
+	15.00		Millwall	2-0	Stoke
+	15.00		Nott'm Forest	2-0	Southend
+	15.00		Peterboro	1-1	Leicester
+	15.00		Tranmere	0-1	Crystal Palace
+	15.00		Watford	2-2	Luton
+	15.00		West Brom	1-1	Barnsley
+[1993-12-26]
+	15.00		Stoke	2-1	Birmingham
+
+Matchday 22
+
+[1993-12-27]
+	15.00		Barnsley	0-1	Derby
+	15.00		Bolton	0-0	Sunderland
+	15.00		Grimsby	2-2	Notts County
+	15.00		Leicester	4-4	Watford
+	15.00		Millwall	0-0	Portsmouth
+	15.00		Nott'm Forest	1-1	Middlesbrough
+	15.00		Oxford	1-3	Crystal Palace
+	15.00		Peterboro	0-0	Luton
+	15.00		Southend	4-2	Charlton
+	15.00		Tranmere	1-1	Wolves
+	15.00		West Brom	0-1	Bristol City
+[1993-12-28]
+	15.00		Birmingham	2-0	West Brom
+
+Matchday 23
+
+[1993-12-28]
+	15.00		Bristol City	1-4	Nott'm Forest
+	15.00		Derby	3-2	Leicester
+	15.00		Portsmouth	0-0	Bolton
+	15.00		Sunderland	2-1	Millwall
+	15.00		Watford	2-1	Peterboro
+	15.00		Wolves	2-1	Oxford
+[1993-12-29]
+	15.00		Charlton	2-0	Stoke
+	15.00		Crystal Palace	1-0	Southend
+	15.00		Luton	2-1	Grimsby
+	15.00		Middlesbrough	0-0	Tranmere
+[1994-01-01]
+	15.00		Barnsley	2-0	Portsmouth
+	15.00		Bolton	4-2	Notts County
+
+Matchday 24
+
+[1994-01-01]
+	15.00		Grimsby	1-0	Bristol City
+	15.00		Leicester	2-1	Sunderland
+	15.00		Millwall	3-0	Crystal Palace
+	15.00		Nott'm Forest	1-1	Charlton
+	15.00		Oxford	1-1	Middlesbrough
+	15.00		Peterboro	0-1	Wolves
+	15.00		Southend	3-1	Birmingham
+	15.00		Stoke	2-1	Derby
+	15.00		Tranmere	2-1	Watford
+	15.00		West Brom	1-1	Luton
+[1994-01-03]
+	15.00		Birmingham	1-1	Oxford
+	15.00		Bristol City	0-0	Stoke
+
+Matchday 25
+
+[1994-01-03]
+	15.00		Charlton	2-1	West Brom
+	15.00		Derby	4-0	Tranmere
+	15.00		Middlesbrough	1-0	Grimsby
+	15.00		Notts County	2-1	Southend
+	15.00		Sunderland	1-0	Barnsley
+	15.00		Watford	1-2	Nott'm Forest
+	15.00		Wolves	1-0	Bolton
+[1994-01-11]
+	15.00		Notts County	2-1	Birmingham
+	15.00		Oxford	0-3	Sunderland
+[1994-01-12]
+	15.00		Leicester	4-2	West Brom
+	15.00		Southend	0-2	Bolton
+[1994-01-15]
+	15.00		Barnsley	1-1	Bristol City
+
+Matchday 26
+
+[1994-01-15]
+	15.00		Derby	1-0	Portsmouth
+	15.00		Grimsby	0-0	Stoke
+	15.00		Millwall	1-0	Bolton
+	15.00		Notts County	1-2	Luton
+	15.00		Oxford	2-1	Southend
+	15.00		Peterboro	2-0	West Brom
+	15.00		Watford	5-2	Birmingham
+	15.00		Wolves	2-0	Crystal Palace
+[1994-01-16]
+	15.00		Leicester	2-1	Charlton
+	15.00		Sunderland	2-1	Middlesbrough
+	15.00		Tranmere	1-2	Nott'm Forest
+[1994-01-22]
+	15.00		Birmingham	0-0	Sunderland
+
+Matchday 27
+
+[1994-01-22]
+	15.00		Bristol City	0-2	Notts County
+	15.00		Charlton	2-1	Barnsley
+	15.00		Crystal Palace	2-1	Leicester
+	15.00		Luton	2-1	Derby
+	15.00		Middlesbrough	1-1	Watford
+	15.00		Portsmouth	0-2	Peterboro
+	15.00		Southend	1-2	Grimsby
+	15.00		Stoke	1-1	Oxford
+	15.00		West Brom	0-0	Millwall
+[1994-01-23]
+	15.00		Bolton	2-1	Tranmere
+	15.00		Nott'm Forest	0-0	Wolves
+[1994-01-29]
+	15.00		Derby	1-2	Watford
+
+Matchday 28
+
+[1994-02-01]
+	15.00		Crystal Palace	3-2	Peterboro
+	15.00		Grimsby	2-2	West Brom
+[1994-02-05]
+	15.00		Birmingham	0-0	Peterboro
+	15.00		Bolton	3-1	Watford
+	15.00		Bristol City	2-0	Tranmere
+	15.00		Charlton	0-1	Grimsby
+	15.00		Crystal Palace	1-1	Derby
+	15.00		Luton	3-0	Oxford
+	15.00		Portsmouth	0-0	Notts County
+	15.00		Southend	0-3	Barnsley
+	15.00		Stoke	1-1	Wolves
+	15.00		West Brom	2-1	Sunderland
+
+Matchday 29
+
+[1994-02-06]
+	15.00		Middlesbrough	4-2	Millwall
+	15.00		Nott'm Forest	4-0	Leicester
+[1994-02-11]
+	15.00		Tranmere	3-1	Portsmouth
+[1994-02-12]
+	15.00		Barnsley	3-0	Stoke
+	15.00		Derby	2-0	Bolton
+	15.00		Grimsby	1-1	Crystal Palace
+	15.00		Leicester	2-1	Luton
+	15.00		Millwall	2-1	Birmingham
+	15.00		Notts County	2-1	Nott'm Forest
+	15.00		Oxford	0-4	Charlton
+	15.00		Peterboro	1-0	Middlesbrough
+	15.00		Sunderland	0-0	Bristol City
+
+Matchday 30
+
+[1994-02-12]
+	15.00		Watford	0-1	West Brom
+	15.00		Wolves	0-1	Southend
+[1994-02-19]
+	15.00		Birmingham	2-3	Notts County
+	15.00		Nott'm Forest	1-1	Crystal Palace
+	15.00		Peterboro	1-1	Stoke
+	15.00		Portsmouth	3-1	Grimsby
+	15.00		Watford	3-4	Derby
+	15.00		West Brom	1-2	Leicester
+[1994-02-22]
+	15.00		Charlton	0-0	Sunderland
+	15.00		Crystal Palace	4-1	Bristol City
+	15.00		Luton	4-1	Portsmouth
+	15.00		Notts County	2-1	Peterboro
+
+Matchday 31
+
+[1994-02-22]
+	15.00		Stoke	2-0	Bolton
+	15.00		Wolves	3-0	Birmingham
+[1994-02-23]
+	15.00		Derby	0-1	Middlesbrough
+	15.00		Leicester	1-1	Tranmere
+[1994-02-26]
+	15.00		Charlton	2-1	Watford
+	15.00		Crystal Palace	1-1	Bolton
+	15.00		Derby	1-1	Birmingham
+	15.00		Luton	2-1	Sunderland
+	15.00		Oxford	1-0	Nott'm Forest
+	15.00		Southend	0-1	Bristol City
+	15.00		Stoke	2-0	Portsmouth
+	15.00		Wolves	1-2	West Brom
+
+Matchday 32
+
+[1994-03-01]
+	15.00		Notts County	3-1	Barnsley
+[1994-03-02]
+	15.00		Nott'm Forest	2-0	Peterboro
+	15.00		Southend	1-1	Millwall
+[1994-03-05]
+	15.00		Birmingham	0-2	Barnsley
+	15.00		Bolton	3-2	Charlton
+	15.00		Bristol City	0-0	Derby
+	15.00		Middlesbrough	1-0	Wolves
+	15.00		Nott'm Forest	2-0	Luton
+	15.00		Peterboro	3-1	Southend
+	15.00		Portsmouth	0-1	Crystal Palace
+	15.00		Sunderland	2-0	Notts County
+	15.00		Tranmere	1-2	Grimsby
+
+Matchday 33
+
+[1994-03-05]
+	15.00		Watford	2-1	Oxford
+	15.00		West Brom	0-0	Stoke
+[1994-03-06]
+	15.00		Millwall	0-0	Leicester
+[1994-03-08]
+	15.00		Grimsby	3-2	Peterboro
+	15.00		Luton	1-1	Middlesbrough
+[1994-03-12]
+	15.00		Barnsley	1-0	Tranmere
+	15.00		Crystal Palace	1-0	West Brom
+	15.00		Derby	0-0	Millwall
+	15.00		Grimsby	1-0	Birmingham
+	15.00		Leicester	2-0	Middlesbrough
+	15.00		Notts County	1-0	Watford
+	15.00		Oxford	1-2	Peterboro
+
+Matchday 34
+
+[1994-03-12]
+	15.00		Southend	2-1	Portsmouth
+	15.00		Stoke	0-1	Nott'm Forest
+[1994-03-15]
+	15.00		Birmingham	0-3	Leicester
+	15.00		Bristol City	0-1	Oxford
+	15.00		Middlesbrough	1-0	Southend
+	15.00		Millwall	2-1	Charlton
+	15.00		Portsmouth	3-0	Wolves
+	15.00		Tranmere	2-0	Stoke
+	15.00		Watford	0-3	Grimsby
+[1994-03-16]
+	15.00		Nott'm Forest	2-1	Barnsley
+	15.00		Peterboro	2-2	Derby
+	15.00		Sunderland	1-0	Crystal Palace
+
+Matchday 35
+
+[1994-03-16]
+	15.00		West Brom	3-0	Notts County
+[1994-03-19]
+	15.00		Bristol City	1-0	Portsmouth
+	15.00		Leicester	0-1	Barnsley
+	15.00		Luton	1-1	Birmingham
+	15.00		Middlesbrough	3-0	West Brom
+	15.00		Nott'm Forest	3-2	Bolton
+	15.00		Oxford	1-0	Tranmere
+	15.00		Southend	0-0	Stoke
+	15.00		Sunderland	2-0	Watford
+	15.00		Wolves	0-0	Grimsby
+[1994-03-20]
+	15.00		Crystal Palace	2-0	Charlton
+[1994-03-22]
+	15.00		Millwall	1-0	Peterboro
+
+Matchday 36
+
+[1994-03-23]
+	15.00		Crystal Palace	0-1	Middlesbrough
+[1994-03-25]
+	15.00		Tranmere	1-1	Southend
+[1994-03-26]
+	15.00		Barnsley	1-0	Luton
+	15.00		Birmingham	1-0	Middlesbrough
+	15.00		Bolton	2-2	Bristol City
+	15.00		Charlton	0-1	Wolves
+	15.00		Grimsby	1-0	Oxford
+	15.00		Notts County	4-1	Leicester
+	15.00		Peterboro	1-3	Sunderland
+	15.00		Portsmouth	2-1	Nott'm Forest
+	15.00		Stoke	0-2	Crystal Palace
+	15.00		Watford	2-0	Millwall
+
+Matchday 37
+
+[1994-03-26]
+	15.00		West Brom	1-2	Derby
+[1994-03-29]
+	15.00		Barnsley	4-0	Sunderland
+	15.00		Bolton	1-3	Wolves
+	15.00		Grimsby	1-1	Middlesbrough
+	15.00		Oxford	2-0	Birmingham
+	15.00		Peterboro	1-1	Crystal Palace
+	15.00		Tranmere	4-0	Derby
+[1994-03-30]
+	15.00		Leicester	0-3	Portsmouth
+	15.00		Millwall	2-2	Luton
+	15.00		Nott'm Forest	2-1	Watford
+	15.00		Southend	1-0	Notts County
+	15.00		Stoke	3-0	Bristol City
+
+Matchday 38
+
+[1994-03-30]
+	15.00		West Brom	2-0	Charlton
+[1994-04-02]
+	15.00		Birmingham	3-1	Stoke
+	15.00		Bristol City	0-0	West Brom
+	15.00		Charlton	4-3	Southend
+	15.00		Crystal Palace	2-1	Oxford
+	15.00		Derby	2-0	Barnsley
+	15.00		Luton	2-0	Peterboro
+	15.00		Middlesbrough	2-2	Nott'm Forest
+	15.00		Notts County	2-1	Grimsby
+	15.00		Portsmouth	2-2	Millwall
+	15.00		Sunderland	2-0	Bolton
+	15.00		Watford	1-1	Leicester
+
+Matchday 39
+
+[1994-04-02]
+	15.00		Wolves	2-1	Tranmere
+[1994-04-04]
+	15.00		Barnsley	0-3	Notts County
+	15.00		Bolton	1-1	Portsmouth
+	15.00		Grimsby	2-0	Luton
+	15.00		Nott'm Forest	0-0	Bristol City
+	15.00		Oxford	4-0	Wolves
+	15.00		Stoke	1-0	Charlton
+	15.00		Tranmere	4-0	Middlesbrough
+[1994-04-05]
+	15.00		Leicester	3-3	Derby
+	15.00		Peterboro	3-4	Watford
+[1994-04-06]
+	15.00		Millwall	2-1	Sunderland
+	15.00		Southend	1-2	Crystal Palace
+
+Matchday 40
+
+[1994-04-09]
+	15.00		Birmingham	3-1	Southend
+	15.00		Bristol City	1-0	Grimsby
+	15.00		Charlton	0-1	Nott'm Forest
+	15.00		Crystal Palace	1-0	Millwall
+	15.00		Derby	4-2	Stoke
+	15.00		Middlesbrough	2-1	Oxford
+	15.00		Notts County	2-1	Bolton
+	15.00		Portsmouth	2-1	Barnsley
+	15.00		Sunderland	2-3	Leicester
+	15.00		Watford	1-2	Tranmere
+	15.00		Wolves	1-1	Peterboro
+[1994-04-12]
+	15.00		Barnsley	0-1	Watford
+
+Matchday 41
+
+[1994-04-12]
+	15.00		Bolton	0-2	Southend
+	15.00		Grimsby	0-1	Sunderland
+	15.00		Luton	0-2	Wolves
+	15.00		Notts County	0-0	Tranmere
+	15.00		Oxford	1-1	West Brom
+[1994-04-13]
+	15.00		Stoke	3-0	Peterboro
+[1994-04-16]
+	15.00		Barnsley	1-0	Oxford
+	15.00		Birmingham	2-2	Bristol City
+	15.00		Leicester	1-1	Grimsby
+	15.00		Luton	0-1	Crystal Palace
+	15.00		Middlesbrough	0-2	Portsmouth
+	15.00		Notts County	0-2	Wolves
+
+Matchday 42
+
+[1994-04-16]
+	15.00		Peterboro	2-3	Bolton
+	15.00		Sunderland	0-1	Stoke
+	15.00		Watford	3-0	Southend
+	15.00		West Brom	1-3	Tranmere
+[1994-04-17]
+	15.00		Millwall	2-2	Nott'm Forest
+[1994-04-19]
+	15.00		Bristol City	1-0	Luton
+	15.00		Middlesbrough	2-0	Charlton
+[1994-04-20]
+	15.00		Derby	2-0	Charlton
+[1994-04-21]
+	15.00		Derby	1-1	Notts County
+	15.00		Millwall	1-0	Wolves
+[1994-04-23]
+	15.00		Bolton	4-1	Middlesbrough
+	15.00		Bristol City	1-1	Watford
+
+Matchday 43
+
+[1994-04-23]
+	15.00		Charlton	5-1	Peterboro
+	15.00		Crystal Palace	1-0	Barnsley
+	15.00		Grimsby	1-1	Derby
+	15.00		Oxford	2-2	Leicester
+	15.00		Portsmouth	0-2	Birmingham
+	15.00		Southend	0-1	Sunderland
+	15.00		Stoke	0-0	Notts County
+	15.00		Tranmere	3-2	Millwall
+	15.00		Wolves	1-0	Luton
+[1994-04-24]
+	15.00		Nott'm Forest	2-1	West Brom
+[1994-04-26]
+	15.00		Luton	1-1	Millwall
+	15.00		Middlesbrough	5-0	Barnsley
+
+Matchday 44
+
+[1994-04-26]
+	15.00		Portsmouth	0-1	Leicester
+	15.00		Sunderland	2-3	Oxford
+	15.00		Tranmere	2-0	Charlton
+[1994-04-27]
+	15.00		Derby	0-2	Nott'm Forest
+	15.00		West Brom	2-4	Birmingham
+[1994-04-30]
+	15.00		Barnsley	2-0	Wolves
+	15.00		Bolton	1-1	Birmingham
+	15.00		Derby	2-1	Oxford
+	15.00		Leicester	1-1	Stoke
+	15.00		Luton	1-1	Southend
+	15.00		Millwall	0-0	Bristol City
+	15.00		Notts County	3-3	Charlton
+
+Matchday 45
+
+[1994-04-30]
+	15.00		Peterboro	2-3	Nott'm Forest
+	15.00		Sunderland	3-2	Tranmere
+	15.00		Watford	1-0	Portsmouth
+	15.00		West Brom	1-0	Grimsby
+[1994-05-01]
+	15.00		Middlesbrough	2-3	Crystal Palace
+[1994-05-03]
+	15.00		Barnsley	0-1	Millwall
+	15.00		Charlton	3-1	Bristol City
+	15.00		Grimsby	0-0	Nott'm Forest
+	15.00		Leicester	1-1	Bolton
+	15.00		Luton	3-2	West Brom
+	15.00		Wolves	1-1	Sunderland
+[1994-05-05]
+	15.00		Bolton	2-1	Luton
+
+Matchday 46
+
+[1994-05-08]
+	15.00		Bolton	2-3	Barnsley
+	15.00		Bristol City	4-1	Peterboro
+	15.00		Charlton	2-5	Middlesbrough
+	15.00		Crystal Palace	0-2	Watford
+	15.00		Grimsby	0-0	Millwall
+	15.00		Nott'm Forest	2-2	Sunderland
+	15.00		Oxford	2-1	Notts County
+	15.00		Portsmouth	0-1	West Brom
+	15.00		Southend	4-3	Derby
+	15.00		Stoke	2-2	Luton
+	15.00		Tranmere	1-2	Birmingham
+	15.00		Wolves	1-1	Leicester
+

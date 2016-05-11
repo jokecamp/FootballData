@@ -1,0 +1,790 @@
+############################
+# Premier League 1994-1995
+
+Matchday 1
+
+[1994-08-13]
+	15.00		Blackpool	1-4	Huddersfield
+	15.00		Chester	1-4	Bradford
+	15.00		Leyton Orient	2-1	Birmingham
+	15.00		Oxford	4-0	Hull
+	15.00		Peterboro	0-0	Bristol Rvs
+	15.00		Plymouth	1-5	Brentford
+	15.00		Rotherham	0-4	Shrewsbury
+	15.00		Stockport	4-1	Cardiff
+	15.00		Swansea	1-1	Brighton
+	15.00		Wrexham	2-0	Bournemouth
+	15.00		Wycombe	3-0	Cambridge
+	15.00		York	1-2	Crewe
+
+Matchday 2
+
+[1994-08-20]
+	15.00		Birmingham	1-0	Chester
+	15.00		Bournemouth	1-2	Blackpool
+	15.00		Bradford	2-0	Leyton Orient
+	15.00		Brentford	0-1	Peterboro
+	15.00		Brighton	1-1	Plymouth
+	15.00		Bristol Rvs	3-1	York
+	15.00		Cambridge	3-4	Stockport
+	15.00		Cardiff	1-3	Oxford
+	15.00		Crewe	3-1	Rotherham
+	15.00		Huddersfield	0-1	Wycombe
+	15.00		Hull	0-2	Swansea
+	15.00		Shrewsbury	2-2	Wrexham
+
+Matchday 3
+
+[1994-08-27]
+	15.00		Blackpool	2-1	Shrewsbury
+	15.00		Chester	1-2	Huddersfield
+	15.00		Leyton Orient	1-1	Hull
+	15.00		Oxford	1-0	Cambridge
+	15.00		Peterboro	1-5	Crewe
+	15.00		Plymouth	1-5	Bradford
+	15.00		Rotherham	4-0	Bournemouth
+	15.00		Stockport	0-1	Brentford
+	15.00		Swansea	0-2	Birmingham
+	15.00		Wrexham	2-1	Brighton
+	15.00		Wycombe	0-0	Bristol Rvs
+	15.00		York	1-1	Cardiff
+
+Matchday 4
+
+[1994-08-30]
+	15.00		Birmingham	0-1	Wycombe
+	15.00		Bournemouth	0-3	Peterboro
+	15.00		Bradford	0-2	Oxford
+	15.00		Brentford	2-0	Rotherham
+	15.00		Cambridge	2-1	Chester
+	15.00		Cardiff	0-0	Wrexham
+	15.00		Crewe	2-1	Stockport
+	15.00		Huddersfield	2-1	Leyton Orient
+	15.00		Hull	2-0	Plymouth
+[1994-08-31]
+	15.00		Brighton	1-0	York
+	15.00		Bristol Rvs	0-0	Blackpool
+[1994-09-03]
+	15.00		Birmingham	4-2	Plymouth
+
+Matchday 5
+
+[1994-09-03]
+	15.00		Bournemouth	1-4	York
+	15.00		Bradford	2-1	Wycombe
+	15.00		Brentford	0-2	Wrexham
+	15.00		Brighton	1-0	Leyton Orient
+	15.00		Bristol Rvs	2-2	Stockport
+	15.00		Cambridge	2-1	Rotherham
+	15.00		Cardiff	1-1	Swansea
+	15.00		Crewe	4-3	Blackpool
+	15.00		Huddersfield	3-3	Oxford
+	15.00		Hull	2-0	Chester
+	15.00		Shrewsbury	2-2	Peterboro
+[1994-09-06]
+	15.00		Shrewsbury	3-3	Swansea
+
+Matchday 6
+
+[1994-09-10]
+	15.00		Blackpool	2-1	Cardiff
+	15.00		Chester	1-2	Brighton
+	15.00		Leyton Orient	1-1	Cambridge
+	15.00		Oxford	1-1	Birmingham
+	15.00		Peterboro	2-1	Hull
+	15.00		Plymouth	0-3	Huddersfield
+	15.00		Rotherham	0-3	Bristol Rvs
+	15.00		Stockport	1-0	Bournemouth
+	15.00		Swansea	0-0	Bradford
+	15.00		Wrexham	1-0	Crewe
+	15.00		Wycombe	4-3	Brentford
+	15.00		York	3-0	Shrewsbury
+
+Matchday 7
+
+[1994-09-13]
+	15.00		Blackpool	2-2	Brighton
+	15.00		Chester	0-2	Cardiff
+	15.00		Leyton Orient	3-2	Bournemouth
+	15.00		Oxford	2-1	Crewe
+	15.00		Peterboro	2-2	Huddersfield
+	15.00		Plymouth	0-0	Cambridge
+	15.00		Rotherham	1-1	Birmingham
+	15.00		Stockport	2-1	Shrewsbury
+	15.00		Swansea	0-0	Bristol Rvs
+	15.00		Wrexham	0-1	Bradford
+	15.00		Wycombe	1-2	Hull
+	15.00		York	2-1	Brentford
+
+Matchday 8
+
+[1994-09-17]
+	15.00		Bournemouth	1-1	Chester
+	15.00		Bradford	0-0	York
+	15.00		Brentford	3-2	Blackpool
+	15.00		Brighton	1-1	Oxford
+	15.00		Bristol Rvs	4-2	Wrexham
+	15.00		Cambridge	1-3	Swansea
+	15.00		Cardiff	0-1	Plymouth
+	15.00		Crewe	1-2	Wycombe
+	15.00		Huddersfield	2-1	Stockport
+	15.00		Hull	0-2	Rotherham
+	15.00		Shrewsbury	3-0	Leyton Orient
+[1994-09-18]
+	15.00		Birmingham	4-0	Peterboro
+
+Matchday 9
+
+[1994-09-24]
+	15.00		Birmingham	2-2	Hull
+	15.00		Blackpool	2-1	Wrexham
+	15.00		Bournemouth	3-2	Cardiff
+	15.00		Bradford	3-4	Huddersfield
+	15.00		Brighton	2-0	Cambridge
+	15.00		Crewe	0-2	Brentford
+	15.00		Oxford	3-2	Leyton Orient
+	15.00		Peterboro	2-2	Rotherham
+	15.00		Plymouth	1-0	Chester
+	15.00		Shrewsbury	1-0	Bristol Rvs
+	15.00		Stockport	4-1	Wycombe
+	15.00		Swansea	0-0	York
+
+Matchday 10
+
+[1994-10-01]
+	15.00		Brentford	1-0	Shrewsbury
+	15.00		Bristol Rvs	2-2	Crewe
+	15.00		Cambridge	4-1	Bradford
+	15.00		Cardiff	1-2	Peterboro
+	15.00		Chester	2-0	Oxford
+	15.00		Huddersfield	3-0	Brighton
+	15.00		Hull	3-1	Bournemouth
+	15.00		Leyton Orient	0-2	Plymouth
+	15.00		Rotherham	0-2	Blackpool
+	15.00		Wrexham	1-1	Birmingham
+	15.00		Wycombe	1-0	Swansea
+	15.00		York	2-4	Stockport
+
+Matchday 11
+
+[1994-10-08]
+	15.00		Birmingham	1-1	Huddersfield
+	15.00		Bradford	2-1	Brighton
+	15.00		Brentford	3-0	Bristol Rvs
+	15.00		Cambridge	1-2	Wrexham
+	15.00		Cardiff	1-2	Crewe
+	15.00		Chester	2-2	Swansea
+	15.00		Hull	1-0	Blackpool
+	15.00		Oxford	1-0	Plymouth
+	15.00		Shrewsbury	3-0	Bournemouth
+	15.00		Stockport	1-0	Rotherham
+	15.00		Wycombe	2-1	Leyton Orient
+	15.00		York	1-1	Peterboro
+
+Matchday 12
+
+[1994-10-15]
+	15.00		Blackpool	2-0	Bradford
+	15.00		Bournemouth	0-1	Brentford
+	15.00		Brighton	0-1	Birmingham
+	15.00		Bristol Rvs	2-2	Cardiff
+	15.00		Crewe	1-0	Shrewsbury
+	15.00		Huddersfield	3-1	Cambridge
+	15.00		Leyton Orient	2-0	Chester
+	15.00		Peterboro	0-1	Stockport
+	15.00		Plymouth	2-2	Wycombe
+	15.00		Rotherham	2-1	York
+	15.00		Swansea	1-3	Oxford
+	15.00		Wrexham	2-2	Hull
+
+Matchday 13
+
+[1994-10-22]
+	15.00		Blackpool	2-1	Swansea
+	15.00		Bournemouth	2-3	Bradford
+	15.00		Brentford	1-2	Birmingham
+	15.00		Bristol Rvs	3-0	Brighton
+	15.00		Cardiff	3-1	Cambridge
+	15.00		Crewe	3-3	Huddersfield
+	15.00		Peterboro	1-3	Wycombe
+	15.00		Rotherham	2-0	Leyton Orient
+	15.00		Shrewsbury	2-3	Hull
+	15.00		Stockport	2-4	Plymouth
+	15.00		Wrexham	3-2	Oxford
+	15.00		York	2-0	Chester
+
+Matchday 14
+
+[1994-10-29]
+	15.00		Birmingham	2-0	Bristol Rvs
+	15.00		Brighton	1-1	Rotherham
+	15.00		Cambridge	0-0	Brentford
+	15.00		Huddersfield	3-1	Bournemouth
+	15.00		Hull	7-1	Crewe
+	15.00		Leyton Orient	0-1	Stockport
+	15.00		Oxford	0-0	Shrewsbury
+	15.00		Plymouth	0-2	Blackpool
+	15.00		Swansea	2-0	Peterboro
+	15.00		Wycombe	0-0	York
+[1994-10-30]
+	15.00		Bradford	2-3	Cardiff
+	15.00		Chester	1-1	Wrexham
+
+Matchday 15
+
+[1994-11-01]
+	15.00		Birmingham	5-0	Crewe
+	15.00		Cambridge	1-1	Bristol Rvs
+	15.00		Huddersfield	2-1	Wrexham
+	15.00		Hull	3-0	York
+	15.00		Leyton Orient	2-0	Cardiff
+	15.00		Oxford	3-2	Blackpool
+	15.00		Plymouth	0-1	Peterboro
+	15.00		Swansea	1-0	Rotherham
+	15.00		Wycombe	1-0	Shrewsbury
+[1994-11-02]
+	15.00		Bradford	1-0	Brentford
+	15.00		Brighton	0-0	Bournemouth
+	15.00		Chester	1-0	Stockport
+
+Matchday 16
+
+[1994-11-05]
+	15.00		Blackpool	2-1	Leyton Orient
+	15.00		Bournemouth	1-0	Cambridge
+	15.00		Brentford	0-1	Hull
+	15.00		Bristol Rvs	4-0	Bradford
+	15.00		Cardiff	3-0	Brighton
+	15.00		Crewe	1-2	Swansea
+	15.00		Peterboro	2-0	Chester
+	15.00		Rotherham	3-1	Plymouth
+	15.00		Shrewsbury	0-2	Birmingham
+	15.00		Stockport	0-2	Oxford
+	15.00		Wrexham	4-1	Wycombe
+	15.00		York	3-0	Huddersfield
+
+Matchday 17
+
+[1994-11-19]
+	15.00		Birmingham	0-0	Bournemouth
+	15.00		Bradford	0-2	Crewe
+	15.00		Brighton	1-2	Peterboro
+	15.00		Cambridge	3-1	Shrewsbury
+	15.00		Chester	2-0	Blackpool
+	15.00		Huddersfield	1-0	Brentford
+	15.00		Hull	0-2	Bristol Rvs
+	15.00		Leyton Orient	0-1	York
+	15.00		Oxford	2-1	Rotherham
+	15.00		Plymouth	4-1	Wrexham
+	15.00		Swansea	2-0	Stockport
+	15.00		Wycombe	3-1	Cardiff
+
+Matchday 18
+
+[1994-11-25]
+	15.00		Cardiff	0-2	Hull
+[1994-11-26]
+	15.00		Blackpool	0-1	Wycombe
+	15.00		Bournemouth	0-2	Oxford
+	15.00		Brentford	2-1	Brighton
+	15.00		Bristol Rvs	1-1	Huddersfield
+	15.00		Crewe	4-2	Cambridge
+	15.00		Peterboro	0-0	Leyton Orient
+	15.00		Rotherham	2-0	Chester
+	15.00		Shrewsbury	1-2	Bradford
+	15.00		Stockport	0-1	Birmingham
+	15.00		Wrexham	4-1	Swansea
+	15.00		York	1-0	Plymouth
+
+Matchday 19
+
+[1994-12-10]
+	15.00		Blackpool	3-1	Bournemouth
+	15.00		Chester	0-4	Birmingham
+	15.00		Leyton Orient	0-0	Bradford
+	15.00		Oxford	1-0	Cardiff
+	15.00		Peterboro	2-2	Brentford
+	15.00		Plymouth	0-3	Brighton
+	15.00		Rotherham	2-2	Crewe
+	15.00		Stockport	2-1	Cambridge
+	15.00		Swansea	2-0	Hull
+	15.00		Wrexham	0-1	Shrewsbury
+	15.00		Wycombe	2-1	Huddersfield
+	15.00		York	0-3	Bristol Rvs
+
+Matchday 20
+
+[1994-12-16]
+	15.00		Bournemouth	1-3	Wrexham
+	15.00		Cambridge	2-2	Wycombe
+	15.00		Crewe	2-1	York
+	15.00		Shrewsbury	1-0	Rotherham
+[1994-12-17]
+	15.00		Birmingham	2-0	Leyton Orient
+	15.00		Bradford	1-1	Chester
+	15.00		Brentford	7-0	Plymouth
+	15.00		Brighton	1-1	Swansea
+	15.00		Bristol Rvs	3-1	Peterboro
+	15.00		Cardiff	1-1	Stockport
+	15.00		Huddersfield	1-1	Blackpool
+	15.00		Hull	3-1	Oxford
+
+Matchday 21
+
+[1994-12-26]
+	15.00		Birmingham	1-1	Cambridge
+	15.00		Brentford	3-0	Leyton Orient
+	15.00		Bristol Rvs	2-1	Bournemouth
+	15.00		Crewe	2-1	Chester
+	15.00		Hull	1-0	Huddersfield
+	15.00		Peterboro	1-4	Oxford
+	15.00		Rotherham	3-1	Bradford
+	15.00		Shrewsbury	0-1	Cardiff
+	15.00		Stockport	1-1	Wrexham
+	15.00		Swansea	3-0	Plymouth
+	15.00		Wycombe	0-0	Brighton
+	15.00		York	4-0	Blackpool
+
+Matchday 22
+
+[1994-12-27]
+	15.00		Blackpool	1-2	Stockport
+	15.00		Bournemouth	1-1	Crewe
+	15.00		Brighton	2-1	Shrewsbury
+	15.00		Chester	1-4	Brentford
+	15.00		Huddersfield	1-0	Rotherham
+	15.00		Leyton Orient	0-1	Swansea
+	15.00		Oxford	0-2	Wycombe
+	15.00		Wrexham	3-3	Peterboro
+[1994-12-28]
+	15.00		Bradford	1-0	Hull
+	15.00		Cambridge	1-0	York
+	15.00		Cardiff	0-1	Birmingham
+[1994-12-31]
+	15.00		Birmingham	7-1	Blackpool
+
+Matchday 23
+
+[1994-12-31]
+	15.00		Brentford	2-0	Oxford
+	15.00		Bristol Rvs	3-0	Chester
+	15.00		Crewe	3-0	Leyton Orient
+	15.00		Hull	2-2	Brighton
+	15.00		Peterboro	2-2	Cambridge
+	15.00		Rotherham	2-0	Cardiff
+	15.00		Stockport	1-2	Bradford
+	15.00		Swansea	1-1	Huddersfield
+	15.00		Wycombe	1-1	Bournemouth
+[1995-01-02]
+	15.00		Blackpool	4-0	Peterboro
+	15.00		Bournemouth	3-2	Swansea
+	15.00		Bradford	1-1	Birmingham
+
+Matchday 24
+
+[1995-01-02]
+	15.00		Brighton	2-0	Stockport
+	15.00		Cambridge	2-2	Hull
+	15.00		Cardiff	2-3	Brentford
+	15.00		Huddersfield	2-1	Shrewsbury
+	15.00		Oxford	0-2	York
+	15.00		Plymouth	3-2	Crewe
+[1995-01-07]
+	15.00		Bradford	1-2	Bournemouth
+	15.00		Cardiff	0-1	Blackpool
+	15.00		Chester	0-4	York
+	15.00		Huddersfield	1-2	Crewe
+	15.00		Hull	2-2	Shrewsbury
+	15.00		Leyton Orient	0-0	Rotherham
+
+Matchday 25
+
+[1995-01-14]
+	15.00		Blackpool	2-3	Cambridge
+	15.00		Bournemouth	0-0	Plymouth
+	15.00		Brentford	0-0	Swansea
+	15.00		Bristol Rvs	3-2	Oxford
+	15.00		Cardiff	0-0	Huddersfield
+	15.00		Crewe	4-0	Brighton
+	15.00		Peterboro	0-0	Bradford
+	15.00		Rotherham	2-0	Wycombe
+	15.00		Shrewsbury	1-0	Chester
+	15.00		Stockport	4-0	Hull
+	15.00		Wrexham	4-1	Leyton Orient
+	15.00		York	2-0	Birmingham
+
+Matchday 26
+
+[1995-01-17]
+	15.00		Cambridge	2-0	Cardiff
+[1995-01-21]
+	15.00		Cambridge	2-2	Bournemouth
+	15.00		Hull	1-2	Brentford
+	15.00		Plymouth	0-0	Rotherham
+[1995-01-28]
+	15.00		Blackpool	5-2	Plymouth
+	15.00		Bournemouth	0-2	Huddersfield
+	15.00		Brentford	6-0	Cambridge
+	15.00		Chester	1-1	Peterboro
+	15.00		Shrewsbury	1-1	Oxford
+	15.00		Stockport	2-1	Leyton Orient
+[1995-02-01]
+	15.00		Bradford	2-1	Bristol Rvs
+	15.00		Chester	0-2	Wycombe
+
+Matchday 27
+
+[1995-02-01]
+	15.00		Leyton Orient	0-1	Blackpool
+	15.00		Shrewsbury	3-2	Plymouth
+	15.00		York	0-1	Wrexham
+[1995-02-04]
+	15.00		Birmingham	1-0	Stockport
+	15.00		Bradford	1-1	Shrewsbury
+	15.00		Brighton	1-1	Brentford
+	15.00		Cambridge	1-2	Crewe
+	15.00		Chester	4-4	Rotherham
+	15.00		Huddersfield	1-1	Bristol Rvs
+	15.00		Hull	4-0	Cardiff
+	15.00		Leyton Orient	4-1	Peterboro
+	15.00		Oxford	0-3	Bournemouth
+
+Matchday 28
+
+[1995-02-04]
+	15.00		Plymouth	1-2	York
+	15.00		Swansea	0-0	Wrexham
+	15.00		Wycombe	1-1	Blackpool
+[1995-02-11]
+	15.00		Blackpool	2-1	Oxford
+	15.00		Bournemouth	0-3	Brighton
+	15.00		Brentford	4-3	Bradford
+	15.00		Crewe	2-1	Birmingham
+	15.00		Peterboro	1-2	Plymouth
+	15.00		Rotherham	3-3	Swansea
+	15.00		Shrewsbury	2-2	Wycombe
+	15.00		Stockport	2-2	Chester
+	15.00		Wrexham	1-2	Huddersfield
+
+Matchday 29
+
+[1995-02-14]
+	15.00		Brighton	1-2	Bristol Rvs
+	15.00		Wrexham	2-2	Chester
+[1995-02-17]
+	15.00		Swansea	0-2	Brentford
+[1995-02-18]
+	15.00		Birmingham	4-2	York
+	15.00		Bradford	4-2	Peterboro
+	15.00		Brighton	0-1	Crewe
+	15.00		Cambridge	0-0	Blackpool
+	15.00		Chester	1-3	Shrewsbury
+	15.00		Huddersfield	5-1	Cardiff
+	15.00		Hull	0-0	Stockport
+	15.00		Leyton Orient	1-1	Wrexham
+	15.00		Oxford	0-0	Bristol Rvs
+
+Matchday 30
+
+[1995-02-18]
+	15.00		Plymouth	0-1	Bournemouth
+	15.00		Wycombe	2-0	Rotherham
+[1995-02-21]
+	15.00		Blackpool	3-1	Chester
+	15.00		Bournemouth	2-1	Birmingham
+	15.00		Brentford	0-0	Huddersfield
+	15.00		Cardiff	2-0	Wycombe
+	15.00		Crewe	0-1	Bradford
+	15.00		Peterboro	2-1	Brighton
+	15.00		Rotherham	1-1	Oxford
+	15.00		Shrewsbury	1-1	Cambridge
+	15.00		Stockport	0-1	Swansea
+	15.00		Wrexham	3-1	Plymouth
+
+Matchday 31
+
+[1995-02-21]
+	15.00		York	4-1	Leyton Orient
+[1995-02-25]
+	15.00		Birmingham	5-2	Wrexham
+	15.00		Blackpool	2-2	Rotherham
+	15.00		Bournemouth	2-3	Hull
+	15.00		Bradford	1-1	Cambridge
+	15.00		Brighton	0-0	Huddersfield
+	15.00		Crewe	2-1	Bristol Rvs
+	15.00		Oxford	1-0	Chester
+	15.00		Peterboro	2-1	Cardiff
+	15.00		Plymouth	1-0	Leyton Orient
+	15.00		Shrewsbury	2-1	Brentford
+	15.00		Stockport	2-3	York
+
+Matchday 32
+
+[1995-02-25]
+	15.00		Swansea	1-1	Wycombe
+[1995-02-28]
+	15.00		Huddersfield	3-0	York
+	15.00		Oxford	4-0	Stockport
+	15.00		Swansea	1-0	Blackpool
+[1995-03-01]
+	15.00		Bristol Rvs	0-2	Hull
+[1995-03-04]
+	15.00		Brentford	2-0	Crewe
+	15.00		Bristol Rvs	4-0	Shrewsbury
+	15.00		Cambridge	0-2	Brighton
+	15.00		Cardiff	1-1	Bournemouth
+	15.00		Chester	1-0	Plymouth
+	15.00		Huddersfield	0-0	Bradford
+	15.00		Hull	0-0	Birmingham
+
+Matchday 33
+
+[1995-03-04]
+	15.00		Leyton Orient	1-1	Oxford
+	15.00		Rotherham	0-0	Peterboro
+	15.00		Wrexham	0-1	Blackpool
+	15.00		Wycombe	1-1	Stockport
+	15.00		York	2-4	Swansea
+[1995-03-07]
+	15.00		Blackpool	0-0	Crewe
+	15.00		Leyton Orient	0-3	Brighton
+	15.00		Oxford	3-1	Huddersfield
+	15.00		Peterboro	1-1	Shrewsbury
+	15.00		Rotherham	1-0	Cambridge
+	15.00		Stockport	2-1	Bristol Rvs
+	15.00		Swansea	4-1	Cardiff
+
+Matchday 34
+
+[1995-03-07]
+	15.00		Wrexham	0-0	Brentford
+	15.00		York	1-0	Bournemouth
+[1995-03-11]
+	15.00		Birmingham	0-1	Swansea
+	15.00		Bournemouth	1-1	Rotherham
+	15.00		Bradford	2-0	Plymouth
+	15.00		Brentford	1-0	Stockport
+	15.00		Brighton	4-0	Wrexham
+	15.00		Bristol Rvs	1-0	Wycombe
+	15.00		Cambridge	1-2	Oxford
+	15.00		Cardiff	1-2	York
+	15.00		Crewe	1-3	Peterboro
+	15.00		Huddersfield	5-1	Chester
+
+Matchday 35
+
+[1995-03-11]
+	15.00		Hull	2-0	Leyton Orient
+	15.00		Shrewsbury	0-0	Blackpool
+[1995-03-15]
+	15.00		Brighton	0-0	Cardiff
+	15.00		Bristol Rvs	2-1	Cambridge
+[1995-03-16]
+	15.00		Wrexham	3-1	Rotherham
+	15.00		York	0-0	Wycombe
+[1995-03-17]
+	15.00		Swansea	0-0	Shrewsbury
+[1995-03-18]
+	15.00		Blackpool	0-2	Bristol Rvs
+	15.00		Chester	1-3	Cambridge
+	15.00		Leyton Orient	0-2	Huddersfield
+	15.00		Oxford	1-0	Bradford
+	15.00		Peterboro	0-0	Bournemouth
+
+Matchday 36
+
+[1995-03-18]
+	15.00		Plymouth	2-1	Hull
+	15.00		Rotherham	0-2	Brentford
+	15.00		Stockport	3-1	Crewe
+	15.00		Wrexham	0-3	Cardiff
+	15.00		Wycombe	0-3	Birmingham
+	15.00		York	1-0	Brighton
+[1995-03-21]
+	15.00		Birmingham	3-0	Oxford
+	15.00		Bournemouth	2-0	Stockport
+	15.00		Bradford	1-3	Swansea
+	15.00		Brentford	0-0	Wycombe
+	15.00		Cambridge	0-0	Leyton Orient
+	15.00		Crewe	1-3	Wrexham
+
+Matchday 37
+
+[1995-03-21]
+	15.00		Huddersfield	2-0	Plymouth
+	15.00		Hull	1-1	Peterboro
+	15.00		Shrewsbury	1-0	York
+[1995-03-22]
+	15.00		Brighton	1-0	Chester
+	15.00		Bristol Rvs	2-0	Rotherham
+[1995-03-24]
+	15.00		Swansea	1-0	Cambridge
+[1995-03-25]
+	15.00		Blackpool	1-2	Brentford
+	15.00		Chester	1-1	Bournemouth
+	15.00		Leyton Orient	2-1	Shrewsbury
+	15.00		Oxford	0-0	Brighton
+	15.00		Peterboro	1-1	Birmingham
+	15.00		Plymouth	0-0	Cardiff
+
+Matchday 38
+
+[1995-03-25]
+	15.00		Rotherham	2-0	Hull
+	15.00		Stockport	1-2	Huddersfield
+	15.00		Wrexham	1-1	Bristol Rvs
+	15.00		Wycombe	0-0	Crewe
+	15.00		York	0-0	Bradford
+[1995-03-28]
+	15.00		Cardiff	2-4	Bradford
+	15.00		Chester	1-2	Hull
+	15.00		Plymouth	0-2	Stockport
+	15.00		Rotherham	4-3	Brighton
+	15.00		Wycombe	3-1	Peterboro
+[1995-03-29]
+	15.00		Bristol Rvs	1-1	Birmingham
+[1995-04-01]
+	15.00		Birmingham	2-1	Rotherham
+
+Matchday 39
+
+[1995-04-01]
+	15.00		Bournemouth	2-0	Leyton Orient
+	15.00		Bradford	1-1	Wrexham
+	15.00		Brentford	3-0	York
+	15.00		Brighton	2-2	Blackpool
+	15.00		Bristol Rvs	1-0	Swansea
+	15.00		Cambridge	1-1	Plymouth
+	15.00		Cardiff	2-1	Chester
+	15.00		Crewe	3-2	Oxford
+	15.00		Huddersfield	1-2	Peterboro
+	15.00		Hull	0-0	Wycombe
+	15.00		Shrewsbury	1-1	Stockport
+[1995-04-04]
+	15.00		Blackpool	1-1	Birmingham
+
+Matchday 40
+
+[1995-04-04]
+	15.00		Cardiff	2-1	Leyton Orient
+	15.00		Oxford	0-0	Wrexham
+	15.00		Peterboro	1-0	Swansea
+	15.00		Plymouth	1-1	Bristol Rvs
+	15.00		Wycombe	3-1	Bradford
+	15.00		York	3-1	Hull
+[1995-04-08]
+	15.00		Bournemouth	2-0	Wycombe
+	15.00		Bradford	1-2	Stockport
+	15.00		Brighton	1-0	Hull
+	15.00		Cambridge	2-0	Peterboro
+	15.00		Cardiff	1-1	Rotherham
+	15.00		Chester	0-0	Bristol Rvs
+
+Matchday 41
+
+[1995-04-08]
+	15.00		Huddersfield	2-0	Swansea
+	15.00		Leyton Orient	1-4	Crewe
+	15.00		Oxford	1-1	Brentford
+	15.00		Plymouth	1-0	Shrewsbury
+	15.00		Wrexham	1-1	York
+[1995-04-11]
+	15.00		Birmingham	2-0	Shrewsbury
+	15.00		Leyton Orient	1-2	Bristol Rvs
+	15.00		Wycombe	3-0	Wrexham
+[1995-04-15]
+	15.00		Birmingham	2-1	Cardiff
+	15.00		Brentford	1-1	Chester
+	15.00		Bristol Rvs	2-0	Plymouth
+	15.00		Crewe	2-0	Bournemouth
+
+Matchday 42
+
+[1995-04-15]
+	15.00		Hull	2-0	Bradford
+	15.00		Peterboro	1-0	Wrexham
+	15.00		Rotherham	1-1	Huddersfield
+	15.00		Shrewsbury	1-1	Brighton
+	15.00		Stockport	3-2	Blackpool
+	15.00		Swansea	2-0	Leyton Orient
+	15.00		Wycombe	1-0	Oxford
+	15.00		York	2-0	Cambridge
+[1995-04-17]
+	15.00		Bradford	0-3	Rotherham
+	15.00		Cambridge	1-0	Birmingham
+	15.00		Cardiff	1-2	Shrewsbury
+	15.00		Chester	0-1	Crewe
+
+Matchday 43
+
+[1995-04-17]
+	15.00		Huddersfield	1-1	Hull
+	15.00		Leyton Orient	0-2	Brentford
+	15.00		Oxford	1-0	Peterboro
+	15.00		Plymouth	2-1	Swansea
+	15.00		Wrexham	1-0	Stockport
+[1995-04-18]
+	15.00		Blackpool	0-5	York
+	15.00		Bournemouth	2-0	Bristol Rvs
+[1995-04-19]
+	15.00		Brighton	1-1	Wycombe
+	15.00		Plymouth	1-3	Birmingham
+[1995-04-22]
+	15.00		Brentford	2-0	Cardiff
+	15.00		Bristol Rvs	1-0	Leyton Orient
+	15.00		Crewe	2-2	Plymouth
+
+Matchday 44
+
+[1995-04-22]
+	15.00		Hull	1-0	Cambridge
+	15.00		Peterboro	1-0	Blackpool
+	15.00		Rotherham	0-1	Wrexham
+	15.00		Shrewsbury	2-1	Huddersfield
+	15.00		Stockport	2-0	Brighton
+	15.00		Swansea	1-0	Bournemouth
+	15.00		Wycombe	3-1	Chester
+	15.00		York	0-2	Oxford
+[1995-04-25]
+	15.00		Swansea	0-1	Crewe
+[1995-04-26]
+	15.00		Birmingham	2-0	Brentford
+[1995-04-29]
+	15.00		Birmingham	3-3	Brighton
+	15.00		Bradford	0-1	Blackpool
+
+Matchday 45
+
+[1995-04-29]
+	15.00		Brentford	1-2	Bournemouth
+	15.00		Cambridge	1-1	Huddersfield
+	15.00		Cardiff	0-1	Bristol Rvs
+	15.00		Chester	1-0	Leyton Orient
+	15.00		Hull	3-1	Wrexham
+	15.00		Shrewsbury	1-2	Crewe
+	15.00		Stockport	1-1	Peterboro
+	15.00		Wycombe	1-2	Plymouth
+	15.00		York	2-0	Rotherham
+[1995-04-30]
+	15.00		Oxford	1-2	Swansea
+[1995-05-02]
+	15.00		Birmingham	0-0	Bradford
+	15.00		Bournemouth	3-0	Shrewsbury
+
+Matchday 46
+
+[1995-05-02]
+	15.00		Crewe	3-2	Hull
+[1995-05-06]
+	15.00		Blackpool	1-2	Hull
+	15.00		Brighton	1-0	Bradford
+	15.00		Bristol Rvs	2-2	Brentford
+	15.00		Crewe	0-0	Cardiff
+	15.00		Huddersfield	1-2	Birmingham
+	15.00		Leyton Orient	0-1	Wycombe
+	15.00		Peterboro	1-1	York
+	15.00		Plymouth	1-1	Oxford
+	15.00		Rotherham	1-0	Stockport
+	15.00		Swansea	0-1	Chester
+	15.00		Wrexham	0-1	Cambridge
+

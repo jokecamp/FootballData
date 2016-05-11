@@ -1,0 +1,825 @@
+############################
+# Premier League 2007-2008
+
+Matchday 1
+
+[1907-08-11]
+	15.00		Cheltenham	1-0	Gillingham
+	15.00		Crewe	2-1	Brighton
+	15.00		Doncaster	0-0	Millwall
+	15.00		Huddersfield	1-0	Yeovil
+	15.00		Luton	2-1	Hartlepool
+	15.00		Northampton	1-1	Swindon
+	15.00		Nott'm Forest	0-0	Bournemouth
+	15.00		Oldham	2-1	Swansea
+	15.00		Port Vale	1-1	Bristol Rvs
+	15.00		Southend	1-2	Leyton Orient
+	15.00		Tranmere	1-2	Leeds
+	15.00		Walsall	1-1	Carlisle
+
+Matchday 2
+
+[1907-08-18]
+	15.00		Bournemouth	0-1	Huddersfield
+	15.00		Brighton	2-1	Northampton
+	15.00		Bristol Rvs	1-1	Crewe
+	15.00		Carlisle	1-0	Oldham
+	15.00		Gillingham	0-2	Tranmere
+	15.00		Hartlepool	2-1	Doncaster
+	15.00		Leeds	4-1	Southend
+	15.00		Leyton Orient	1-0	Walsall
+	15.00		Millwall	1-0	Cheltenham
+	15.00		Swansea	0-0	Nott'm Forest
+	15.00		Swindon	2-1	Luton
+	15.00		Yeovil	1-0	Port Vale
+
+Matchday 3
+
+[1907-08-25]
+	15.00		Cheltenham	1-1	Swindon
+	15.00		Crewe	0-2	Leyton Orient
+	15.00		Doncaster	1-2	Bournemouth
+	15.00		Huddersfield	0-2	Carlisle
+	15.00		Luton	3-1	Gillingham
+	15.00		Northampton	1-2	Yeovil
+	15.00		Nott'm Forest	1-2	Leeds
+	15.00		Oldham	0-1	Bristol Rvs
+	15.00		Port Vale	0-2	Hartlepool
+	15.00		Southend	1-0	Millwall
+	15.00		Tranmere	2-0	Brighton
+	15.00		Walsall	1-3	Swansea
+
+Matchday 4
+
+[1907-09-01]
+	15.00		Bournemouth	0-1	Port Vale
+	15.00		Brighton	3-2	Southend
+	15.00		Bristol Rvs	2-2	Nott'm Forest
+	15.00		Carlisle	1-0	Cheltenham
+	15.00		Gillingham	2-1	Walsall
+	15.00		Hartlepool	4-1	Oldham
+	15.00		Leeds	1-0	Luton
+	15.00		Leyton Orient	2-2	Northampton
+	15.00		Millwall	1-2	Huddersfield
+	15.00		Swansea	1-2	Doncaster
+	15.00		Swindon	1-1	Crewe
+	15.00		Yeovil	1-1	Tranmere
+
+Matchday 5
+
+[1907-09-07]
+	15.00		Brighton	3-0	Millwall
+	15.00		Northampton	2-0	Doncaster
+[1907-09-08]
+	15.00		Carlisle	0-1	Tranmere
+	15.00		Crewe	2-0	Huddersfield
+	15.00		Leeds	2-0	Hartlepool
+	15.00		Leyton Orient	1-0	Bournemouth
+	15.00		Luton	1-2	Bristol Rvs
+	15.00		Southend	3-0	Gillingham
+	15.00		Walsall	0-0	Port Vale
+[1907-09-09]
+	15.00		Swindon	0-1	Yeovil
+[1907-09-14]
+	15.00		Bristol Rvs	0-3	Leeds
+	15.00		Swansea	2-1	Carlisle
+
+Matchday 6
+
+[1907-09-14]
+	15.00		Tranmere	2-1	Luton
+[1907-09-15]
+	15.00		Bournemouth	1-1	Northampton
+	15.00		Gillingham	1-0	Brighton
+	15.00		Hartlepool	1-1	Swindon
+	15.00		Huddersfield	2-3	Cheltenham
+	15.00		Millwall	1-2	Walsall
+	15.00		Oldham	0-1	Southend
+	15.00		Port Vale	0-2	Nott'm Forest
+	15.00		Yeovil	0-1	Leyton Orient
+[1907-09-16]
+	15.00		Doncaster	2-0	Crewe
+[1907-09-18]
+	15.00		Cheltenham	1-2	Swansea
+[1907-09-22]
+	15.00		Brighton	1-2	Yeovil
+
+Matchday 7
+
+[1907-09-22]
+	15.00		Carlisle	1-1	Bristol Rvs
+	15.00		Cheltenham	1-1	Tranmere
+	15.00		Crewe	0-0	Millwall
+	15.00		Leeds	2-0	Swansea
+	15.00		Leyton Orient	2-4	Hartlepool
+	15.00		Luton	2-1	Port Vale
+	15.00		Northampton	3-0	Huddersfield
+	15.00		Nott'm Forest	4-0	Gillingham
+	15.00		Southend	3-2	Doncaster
+	15.00		Swindon	4-1	Bournemouth
+	15.00		Walsall	0-3	Oldham
+[1907-09-29]
+	15.00		Bournemouth	1-3	Carlisle
+
+Matchday 8
+
+[1907-09-29]
+	15.00		Bristol Rvs	2-3	Leyton Orient
+	15.00		Doncaster	2-0	Cheltenham
+	15.00		Gillingham	1-1	Leeds
+	15.00		Hartlepool	0-1	Walsall
+	15.00		Huddersfield	2-0	Luton
+	15.00		Millwall	1-2	Swindon
+	15.00		Oldham	3-2	Crewe
+	15.00		Port Vale	1-2	Southend
+	15.00		Swansea	0-0	Brighton
+	15.00		Tranmere	2-2	Northampton
+	15.00		Yeovil	0-3	Nott'm Forest
+[1907-10-02]
+	15.00		Bournemouth	0-2	Brighton
+
+Matchday 9
+
+[1907-10-02]
+	15.00		Bristol Rvs	1-1	Southend
+	15.00		Doncaster	2-3	Walsall
+	15.00		Gillingham	3-1	Leyton Orient
+	15.00		Hartlepool	2-2	Carlisle
+	15.00		Huddersfield	1-1	Nott'm Forest
+	15.00		Millwall	2-0	Northampton
+	15.00		Oldham	0-1	Leeds
+	15.00		Port Vale	3-0	Cheltenham
+	15.00		Swansea	2-1	Swindon
+	15.00		Tranmere	1-1	Crewe
+	15.00		Yeovil	0-0	Luton
+[1907-10-06]
+	15.00		Brighton	0-0	Bristol Rvs
+
+Matchday 10
+
+[1907-10-06]
+	15.00		Carlisle	4-0	Millwall
+	15.00		Cheltenham	1-1	Oldham
+	15.00		Crewe	1-4	Bournemouth
+	15.00		Leeds	1-0	Yeovil
+	15.00		Leyton Orient	0-5	Swansea
+	15.00		Luton	1-1	Doncaster
+	15.00		Northampton	2-1	Port Vale
+	15.00		Nott'm Forest	2-1	Hartlepool
+	15.00		Southend	1-2	Tranmere
+	15.00		Swindon	5-0	Gillingham
+	15.00		Walsall	4-0	Huddersfield
+[1907-10-12]
+	15.00		Hartlepool	1-0	Bristol Rvs
+
+Matchday 11
+
+[1907-10-12]
+	15.00		Tranmere	0-0	Walsall
+[1907-10-13]
+	15.00		Cheltenham	0-3	Nott'm Forest
+	15.00		Gillingham	1-1	Millwall
+	15.00		Leeds	1-1	Leyton Orient
+	15.00		Port Vale	0-1	Brighton
+	15.00		Southend	3-0	Crewe
+	15.00		Yeovil	2-1	Carlisle
+[1907-10-14]
+	15.00		Bournemouth	1-4	Swansea
+	15.00		Doncaster	2-0	Huddersfield
+[1907-10-15]
+	15.00		Luton	4-1	Northampton
+[1907-10-20]
+	15.00		Brighton	0-1	Leeds
+	15.00		Bristol Rvs	1-1	Yeovil
+
+Matchday 12
+
+[1907-10-20]
+	15.00		Carlisle	2-0	Gillingham
+	15.00		Crewe	2-0	Luton
+	15.00		Huddersfield	1-1	Oldham
+	15.00		Leyton Orient	3-1	Port Vale
+	15.00		Millwall	2-1	Bournemouth
+	15.00		Northampton	2-1	Cheltenham
+	15.00		Nott'm Forest	0-0	Doncaster
+	15.00		Swindon	1-0	Tranmere
+	15.00		Walsall	0-2	Southend
+[1907-10-26]
+	15.00		Tranmere	3-0	Huddersfield
+[1907-10-27]
+	15.00		Bournemouth	1-1	Walsall
+	15.00		Cheltenham	2-2	Crewe
+
+Matchday 13
+
+[1907-10-27]
+	15.00		Gillingham	3-2	Bristol Rvs
+	15.00		Hartlepool	1-2	Brighton
+	15.00		Leeds	4-2	Millwall
+	15.00		Luton	2-1	Nott'm Forest
+	15.00		Oldham	0-1	Northampton
+	15.00		Port Vale	2-1	Swindon
+	15.00		Southend	0-1	Carlisle
+	15.00		Yeovil	1-2	Swansea
+[1907-10-28]
+	15.00		Doncaster	4-2	Leyton Orient
+[1907-10-30]
+	15.00		Nott'm Forest	0-0	Oldham
+[1907-11-02]
+	15.00		Swansea	1-1	Gillingham
+[1907-11-03]
+	15.00		Brighton	3-1	Luton
+
+Matchday 14
+
+[1907-11-03]
+	15.00		Bristol Rvs	0-2	Bournemouth
+	15.00		Carlisle	3-1	Leeds
+	15.00		Crewe	2-0	Yeovil
+	15.00		Huddersfield	3-1	Port Vale
+	15.00		Leyton Orient	1-0	Oldham
+	15.00		Millwall	0-1	Hartlepool
+	15.00		Northampton	0-1	Southend
+	15.00		Nott'm Forest	2-0	Tranmere
+	15.00		Swindon	1-2	Doncaster
+	15.00		Walsall	2-0	Cheltenham
+[1907-11-06]
+	15.00		Bournemouth	1-3	Leeds
+	15.00		Brighton	1-1	Walsall
+
+Matchday 15
+
+[1907-11-06]
+	15.00		Cheltenham	1-1	Yeovil
+	15.00		Gillingham	1-1	Doncaster
+	15.00		Huddersfield	2-0	Hartlepool
+	15.00		Luton	0-0	Carlisle
+	15.00		Millwall	2-2	Swansea
+	15.00		Northampton	0-1	Bristol Rvs
+	15.00		Nott'm Forest	4-1	Southend
+	15.00		Port Vale	0-1	Crewe
+	15.00		Swindon	1-1	Leyton Orient
+	15.00		Tranmere	0-1	Oldham
+[1907-11-16]
+	15.00		Swansea	0-1	Huddersfield
+[1907-11-17]
+	15.00		Bristol Rvs	2-1	Millwall
+
+Matchday 16
+
+[1907-11-17]
+	15.00		Crewe	1-0	Northampton
+	15.00		Doncaster	0-0	Tranmere
+	15.00		Leeds	2-1	Swindon
+	15.00		Leyton Orient	2-2	Brighton
+	15.00		Oldham	1-1	Port Vale
+	15.00		Southend	2-2	Cheltenham
+	15.00		Walsall	0-0	Luton
+[1907-11-18]
+	15.00		Hartlepool	1-1	Bournemouth
+	15.00		Yeovil	2-1	Gillingham
+[1907-11-24]
+	15.00		Bournemouth	0-3	Oldham
+	15.00		Brighton	2-2	Carlisle
+	15.00		Gillingham	2-1	Hartlepool
+
+Matchday 17
+
+[1907-11-24]
+	15.00		Huddersfield	0-1	Leyton Orient
+	15.00		Luton	1-0	Southend
+	15.00		Millwall	2-1	Yeovil
+	15.00		Northampton	0-2	Walsall
+	15.00		Nott'm Forest	2-0	Crewe
+	15.00		Port Vale	1-3	Doncaster
+	15.00		Swindon	1-0	Bristol Rvs
+	15.00		Tranmere	0-1	Swansea
+[1907-11-25]
+	15.00		Cheltenham	1-0	Leeds
+[1907-11-27]
+	15.00		Swansea	1-0	Hartlepool
+[1907-12-04]
+	15.00		Carlisle	3-0	Swindon
+	15.00		Crewe	2-3	Gillingham
+
+Matchday 18
+
+[1907-12-04]
+	15.00		Doncaster	0-0	Brighton
+	15.00		Hartlepool	3-1	Tranmere
+	15.00		Leeds	3-0	Port Vale
+	15.00		Leyton Orient	0-1	Millwall
+	15.00		Oldham	1-1	Luton
+	15.00		Swansea	3-0	Northampton
+	15.00		Walsall	1-0	Nott'm Forest
+	15.00		Yeovil	2-1	Bournemouth
+[1907-12-05]
+	15.00		Southend	4-1	Huddersfield
+[1907-12-07]
+	15.00		Brighton	0-2	Nott'm Forest
+[1907-12-08]
+	15.00		Crewe	0-0	Walsall
+	15.00		Gillingham	1-2	Port Vale
+
+Matchday 19
+
+[1907-12-08]
+	15.00		Leeds	4-0	Huddersfield
+	15.00		Leyton Orient	2-0	Cheltenham
+	15.00		Northampton	2-2	Carlisle
+	15.00		Oldham	1-1	Doncaster
+	15.00		Southend	2-1	Swindon
+	15.00		Tranmere	3-1	Bournemouth
+	15.00		Yeovil	3-1	Hartlepool
+[1907-12-14]
+	15.00		Cheltenham	1-0	Luton
+[1907-12-15]
+	15.00		Bournemouth	1-0	Gillingham
+	15.00		Carlisle	1-0	Leyton Orient
+	15.00		Hartlepool	3-0	Crewe
+	15.00		Huddersfield	2-1	Bristol Rvs
+
+Matchday 20
+
+[1907-12-15]
+	15.00		Millwall	2-3	Oldham
+	15.00		Nott'm Forest	2-2	Northampton
+	15.00		Port Vale	0-0	Tranmere
+	15.00		Swansea	3-0	Southend
+	15.00		Swindon	0-3	Brighton
+	15.00		Walsall	1-1	Leeds
+[1907-12-16]
+	15.00		Doncaster	1-2	Yeovil
+[1907-12-21]
+	15.00		Northampton	4-1	Bournemouth
+[1907-12-22]
+	15.00		Cheltenham	0-2	Huddersfield
+	15.00		Crewe	0-4	Doncaster
+	15.00		Leeds	1-0	Bristol Rvs
+	15.00		Leyton Orient	0-0	Yeovil
+
+Matchday 21
+
+[1907-12-22]
+	15.00		Luton	1-0	Tranmere
+	15.00		Nott'm Forest	2-0	Port Vale
+	15.00		Southend	0-1	Oldham
+	15.00		Swindon	2-1	Hartlepool
+	15.00		Walsall	3-0	Millwall
+[1907-12-26]
+	15.00		Bournemouth	3-1	Leyton Orient
+	15.00		Bristol Rvs	1-1	Luton
+	15.00		Doncaster	2-0	Northampton
+	15.00		Gillingham	1-1	Southend
+	15.00		Hartlepool	1-1	Leeds
+	15.00		Huddersfield	1-1	Crewe
+	15.00		Millwall	3-0	Brighton
+
+Matchday 22
+
+[1907-12-26]
+	15.00		Oldham	0-0	Nott'm Forest
+	15.00		Port Vale	1-1	Walsall
+	15.00		Swansea	4-1	Cheltenham
+	15.00		Tranmere	2-0	Carlisle
+	15.00		Yeovil	0-1	Swindon
+[1907-12-29]
+	15.00		Bournemouth	2-2	Swindon
+	15.00		Bristol Rvs	3-0	Carlisle
+	15.00		Doncaster	3-1	Southend
+	15.00		Gillingham	3-0	Nott'm Forest
+	15.00		Hartlepool	1-1	Leyton Orient
+	15.00		Huddersfield	1-2	Northampton
+	15.00		Millwall	2-0	Crewe
+
+Matchday 23
+
+[1907-12-29]
+	15.00		Oldham	0-2	Walsall
+	15.00		Port Vale	1-2	Luton
+	15.00		Swansea	3-2	Leeds
+	15.00		Tranmere	1-0	Cheltenham
+	15.00		Yeovil	2-1	Brighton
+[1908-01-01]
+	15.00		Brighton	3-2	Bournemouth
+	15.00		Carlisle	4-2	Hartlepool
+	15.00		Crewe	4-3	Tranmere
+	15.00		Leeds	1-3	Oldham
+	15.00		Leyton Orient	0-0	Gillingham
+	15.00		Luton	1-0	Yeovil
+	15.00		Northampton	1-1	Millwall
+
+Matchday 24
+
+[1908-01-01]
+	15.00		Nott'm Forest	2-1	Huddersfield
+	15.00		Southend	0-1	Bristol Rvs
+	15.00		Swindon	1-1	Swansea
+	15.00		Walsall	1-1	Doncaster
+[1908-01-02]
+	15.00		Cheltenham	1-0	Port Vale
+[1908-01-05]
+	15.00		Carlisle	3-2	Port Vale
+	15.00		Leeds	3-0	Northampton
+[1908-01-08]
+	15.00		Leyton Orient	3-0	Tranmere
+	15.00		Yeovil	0-2	Walsall
+[1908-01-11]
+	15.00		Tranmere	0-2	Bristol Rvs
+[1908-01-12]
+	15.00		Cheltenham	1-0	Bournemouth
+	15.00		Doncaster	1-0	Carlisle
+
+Matchday 25
+
+[1908-01-12]
+	15.00		Huddersfield	1-3	Gillingham
+	15.00		Luton	1-3	Swansea
+	15.00		Northampton	1-1	Hartlepool
+	15.00		Nott'm Forest	4-0	Leyton Orient
+	15.00		Oldham	1-1	Brighton
+	15.00		Port Vale	3-1	Millwall
+	15.00		Southend	1-1	Yeovil
+	15.00		Walsall	2-2	Swindon
+[1908-01-14]
+	15.00		Crewe	0-1	Leeds
+[1908-01-18]
+	15.00		Hartlepool	0-2	Cheltenham
+[1908-01-19]
+	15.00		Bournemouth	1-4	Southend
+	15.00		Brighton	1-1	Huddersfield
+
+Matchday 26
+
+[1908-01-19]
+	15.00		Bristol Rvs	1-1	Walsall
+	15.00		Carlisle	1-0	Crewe
+	15.00		Gillingham	0-1	Northampton
+	15.00		Leeds	0-1	Doncaster
+	15.00		Leyton Orient	2-1	Luton
+	15.00		Millwall	0-1	Tranmere
+	15.00		Swansea	2-0	Port Vale
+	15.00		Swindon	2-1	Nott'm Forest
+	15.00		Yeovil	0-0	Oldham
+[1908-01-22]
+	15.00		Bournemouth	4-3	Luton
+	15.00		Gillingham	0-0	Oldham
+	15.00		Hartlepool	4-3	Southend
+
+Matchday 27
+
+[1908-01-22]
+	15.00		Swansea	2-1	Crewe
+[1908-01-23]
+	15.00		Millwall	2-2	Nott'm Forest
+[1908-01-25]
+	15.00		Cheltenham	1-0	Carlisle
+	15.00		Doncaster	0-4	Swansea
+	15.00		Northampton	2-0	Leyton Orient
+[1908-01-26]
+	15.00		Crewe	0-0	Swindon
+	15.00		Luton	1-1	Leeds
+	15.00		Port Vale	1-3	Bournemouth
+	15.00		Tranmere	2-1	Yeovil
+	15.00		Walsall	2-1	Gillingham
+[1908-01-29]
+	15.00		Cheltenham	0-1	Millwall
+	15.00		Crewe	1-1	Bristol Rvs
+
+Matchday 28
+
+[1908-01-29]
+	15.00		Doncaster	2-0	Hartlepool
+	15.00		Huddersfield	1-0	Bournemouth
+	15.00		Luton	0-1	Swindon
+	15.00		Northampton	1-0	Brighton
+	15.00		Nott'm Forest	0-0	Swansea
+	15.00		Oldham	2-0	Carlisle
+	15.00		Port Vale	2-2	Yeovil
+	15.00		Southend	1-0	Leeds
+	15.00		Tranmere	2-0	Gillingham
+	15.00		Walsall	0-0	Leyton Orient
+[1908-02-02]
+	15.00		Bournemouth	2-0	Nott'm Forest
+	15.00		Brighton	3-0	Crewe
+
+Matchday 29
+
+[1908-02-02]
+	15.00		Bristol Rvs	3-2	Port Vale
+	15.00		Carlisle	2-1	Walsall
+	15.00		Gillingham	0-0	Cheltenham
+	15.00		Hartlepool	4-0	Luton
+	15.00		Leeds	0-2	Tranmere
+	15.00		Leyton Orient	2-2	Southend
+	15.00		Millwall	0-3	Doncaster
+	15.00		Swansea	2-1	Oldham
+	15.00		Swindon	1-1	Northampton
+	15.00		Yeovil	0-2	Huddersfield
+[1908-02-05]
+	15.00		Bristol Rvs	2-0	Cheltenham
+[1908-02-09]
+	15.00		Cheltenham	2-1	Brighton
+
+Matchday 30
+
+[1908-02-09]
+	15.00		Crewe	2-2	Swansea
+	15.00		Doncaster	2-0	Bristol Rvs
+	15.00		Huddersfield	1-0	Swindon
+	15.00		Luton	1-4	Bournemouth
+	15.00		Northampton	1-1	Leeds
+	15.00		Nott'm Forest	2-0	Millwall
+	15.00		Oldham	2-1	Gillingham
+	15.00		Port Vale	1-1	Carlisle
+	15.00		Southend	2-1	Hartlepool
+	15.00		Tranmere	1-1	Leyton Orient
+	15.00		Walsall	2-0	Yeovil
+[1908-02-12]
+	15.00		Bournemouth	0-2	Doncaster
+
+Matchday 31
+
+[1908-02-12]
+	15.00		Brighton	0-0	Tranmere
+	15.00		Bristol Rvs	1-0	Oldham
+	15.00		Carlisle	2-1	Huddersfield
+	15.00		Hartlepool	3-2	Port Vale
+	15.00		Leeds	1-1	Nott'm Forest
+	15.00		Leyton Orient	0-1	Crewe
+	15.00		Millwall	2-1	Southend
+	15.00		Swansea	1-0	Walsall
+	15.00		Swindon	3-0	Cheltenham
+	15.00		Yeovil	1-0	Northampton
+[1908-02-16]
+	15.00		Cheltenham	1-1	Hartlepool
+	15.00		Luton	0-1	Leyton Orient
+
+Matchday 32
+
+[1908-02-16]
+	15.00		Northampton	4-0	Gillingham
+	15.00		Nott'm Forest	1-0	Swindon
+	15.00		Oldham	3-0	Yeovil
+	15.00		Port Vale	0-2	Swansea
+	15.00		Southend	2-1	Bournemouth
+	15.00		Tranmere	2-0	Millwall
+[1908-02-19]
+	15.00		Brighton	2-1	Cheltenham
+	15.00		Huddersfield	1-0	Millwall
+[1908-02-22]
+	15.00		Hartlepool	0-1	Northampton
+	15.00		Swansea	1-0	Luton
+[1908-02-23]
+	15.00		Bournemouth	2-2	Cheltenham
+	15.00		Brighton	1-0	Oldham
+
+Matchday 33
+
+[1908-02-23]
+	15.00		Bristol Rvs	1-1	Tranmere
+	15.00		Carlisle	1-0	Doncaster
+	15.00		Gillingham	1-0	Huddersfield
+	15.00		Leeds	1-1	Crewe
+	15.00		Leyton Orient	0-1	Nott'm Forest
+	15.00		Millwall	3-0	Port Vale
+	15.00		Swindon	0-3	Walsall
+	15.00		Yeovil	0-3	Southend
+[1908-02-26]
+	15.00		Crewe	0-1	Carlisle
+	15.00		Luton	1-1	Millwall
+	15.00		Oldham	2-2	Swindon
+[1908-02-29]
+	15.00		Cheltenham	1-1	Southend
+
+Matchday 34
+
+[1908-03-01]
+	15.00		Bournemouth	2-0	Hartlepool
+	15.00		Brighton	1-1	Leyton Orient
+	15.00		Gillingham	0-0	Yeovil
+	15.00		Huddersfield	0-1	Swansea
+	15.00		Luton	0-1	Walsall
+	15.00		Millwall	0-1	Bristol Rvs
+	15.00		Northampton	0-0	Crewe
+	15.00		Port Vale	0-3	Oldham
+	15.00		Swindon	0-1	Leeds
+	15.00		Tranmere	0-1	Doncaster
+[1908-03-03]
+	15.00		Nott'm Forest	0-1	Carlisle
+[1908-03-04]
+	15.00		Brighton	4-2	Gillingham
+
+Matchday 35
+
+[1908-03-04]
+	15.00		Bristol Rvs	0-1	Doncaster
+	15.00		Oldham	0-1	Hartlepool
+	15.00		Swindon	3-2	Huddersfield
+[1908-03-07]
+	15.00		Swansea	1-2	Millwall
+[1908-03-08]
+	15.00		Carlisle	2-0	Brighton
+	15.00		Crewe	0-0	Nott'm Forest
+	15.00		Doncaster	2-1	Port Vale
+	15.00		Hartlepool	4-0	Gillingham
+	15.00		Leeds	2-0	Bournemouth
+	15.00		Leyton Orient	0-1	Huddersfield
+	15.00		Oldham	3-1	Tranmere
+	15.00		Southend	2-0	Luton
+
+Matchday 36
+
+[1908-03-08]
+	15.00		Walsall	0-2	Northampton
+	15.00		Yeovil	2-1	Cheltenham
+[1908-03-11]
+	15.00		Carlisle	2-1	Luton
+	15.00		Crewe	0-2	Port Vale
+	15.00		Doncaster	2-1	Gillingham
+	15.00		Hartlepool	2-1	Huddersfield
+	15.00		Leeds	1-2	Cheltenham
+	15.00		Leyton Orient	2-1	Swindon
+	15.00		Oldham	2-0	Bournemouth
+	15.00		Southend	1-1	Nott'm Forest
+	15.00		Swansea	1-1	Tranmere
+	15.00		Walsall	1-2	Brighton
+
+Matchday 37
+
+[1908-03-11]
+	15.00		Yeovil	0-1	Millwall
+[1908-03-12]
+	15.00		Bristol Rvs	1-1	Northampton
+[1908-03-15]
+	15.00		Bournemouth	2-0	Yeovil
+	15.00		Brighton	1-0	Doncaster
+	15.00		Cheltenham	1-0	Bristol Rvs
+	15.00		Gillingham	0-3	Crewe
+	15.00		Huddersfield	1-2	Southend
+	15.00		Luton	3-0	Oldham
+	15.00		Millwall	0-1	Leyton Orient
+	15.00		Northampton	4-2	Swansea
+	15.00		Nott'm Forest	1-1	Walsall
+	15.00		Port Vale	3-3	Leeds
+
+Matchday 38
+
+[1908-03-15]
+	15.00		Swindon	2-2	Carlisle
+	15.00		Tranmere	3-1	Hartlepool
+[1908-03-18]
+	15.00		Bristol Rvs	0-2	Swansea
+	15.00		Huddersfield	2-1	Brighton
+[1908-03-20]
+	15.00		Tranmere	2-0	Port Vale
+[1908-03-21]
+	15.00		Northampton	1-2	Nott'm Forest
+	15.00		Southend	1-1	Swansea
+	15.00		Yeovil	2-1	Doncaster
+[1908-03-22]
+	15.00		Brighton	2-1	Swindon
+	15.00		Bristol Rvs	2-3	Huddersfield
+	15.00		Crewe	3-1	Hartlepool
+	15.00		Gillingham	2-1	Bournemouth
+
+Matchday 39
+
+[1908-03-22]
+	15.00		Leeds	2-0	Walsall
+	15.00		Leyton Orient	0-3	Carlisle
+	15.00		Luton	1-1	Cheltenham
+	15.00		Oldham	1-1	Millwall
+[1908-03-24]
+	15.00		Bournemouth	2-1	Tranmere
+	15.00		Carlisle	2-0	Northampton
+	15.00		Cheltenham	1-0	Leyton Orient
+	15.00		Doncaster	1-1	Oldham
+	15.00		Hartlepool	2-0	Yeovil
+	15.00		Millwall	0-0	Luton
+	15.00		Nott'm Forest	0-0	Brighton
+	15.00		Port Vale	2-1	Gillingham
+
+Matchday 40
+
+[1908-03-24]
+	15.00		Swansea	2-2	Bristol Rvs
+	15.00		Swindon	0-1	Southend
+	15.00		Walsall	1-1	Crewe
+[1908-03-28]
+	15.00		Doncaster	1-0	Nott'm Forest
+	15.00		Tranmere	2-1	Swindon
+[1908-03-29]
+	15.00		Bournemouth	2-0	Millwall
+	15.00		Cheltenham	1-1	Northampton
+	15.00		Gillingham	0-0	Carlisle
+	15.00		Hartlepool	1-3	Swansea
+	15.00		Leeds	0-0	Brighton
+	15.00		Luton	2-1	Crewe
+	15.00		Oldham	4-1	Huddersfield
+
+Matchday 41
+
+[1908-03-29]
+	15.00		Port Vale	2-1	Leyton Orient
+	15.00		Southend	1-0	Walsall
+	15.00		Yeovil	0-0	Bristol Rvs
+[1908-04-01]
+	15.00		Carlisle	0-2	Nott'm Forest
+	15.00		Doncaster	0-1	Leeds
+	15.00		Gillingham	2-1	Luton
+[1908-04-05]
+	15.00		Brighton	2-3	Port Vale
+	15.00		Bristol Rvs	0-0	Hartlepool
+	15.00		Carlisle	2-1	Yeovil
+	15.00		Crewe	1-3	Southend
+	15.00		Huddersfield	2-2	Doncaster
+	15.00		Leyton Orient	0-2	Leeds
+
+Matchday 42
+
+[1908-04-05]
+	15.00		Millwall	1-1	Gillingham
+	15.00		Northampton	2-1	Luton
+	15.00		Nott'm Forest	3-1	Cheltenham
+	15.00		Swansea	1-2	Bournemouth
+	15.00		Swindon	3-0	Oldham
+	15.00		Walsall	2-1	Tranmere
+[1908-04-08]
+	15.00		Carlisle	0-0	Swansea
+	15.00		Nott'm Forest	1-1	Bristol Rvs
+	15.00		Southend	2-0	Brighton
+[1908-04-11]
+	15.00		Doncaster	2-0	Swindon
+[1908-04-12]
+	15.00		Bournemouth	2-1	Bristol Rvs
+	15.00		Cheltenham	1-2	Walsall
+
+Matchday 43
+
+[1908-04-12]
+	15.00		Gillingham	1-2	Swansea
+	15.00		Hartlepool	0-1	Millwall
+	15.00		Leeds	3-2	Carlisle
+	15.00		Luton	1-2	Brighton
+	15.00		Oldham	2-0	Leyton Orient
+	15.00		Port Vale	0-0	Huddersfield
+	15.00		Southend	1-1	Northampton
+	15.00		Tranmere	0-2	Nott'm Forest
+	15.00		Yeovil	0-3	Crewe
+[1908-04-15]
+	15.00		Huddersfield	1-0	Leeds
+	15.00		Walsall	0-1	Bristol Rvs
+[1908-04-19]
+	15.00		Brighton	2-1	Hartlepool
+
+Matchday 44
+
+[1908-04-19]
+	15.00		Bristol Rvs	1-1	Gillingham
+	15.00		Carlisle	1-2	Southend
+	15.00		Crewe	3-1	Cheltenham
+	15.00		Huddersfield	1-0	Tranmere
+	15.00		Leyton Orient	1-1	Doncaster
+	15.00		Millwall	0-2	Leeds
+	15.00		Northampton	2-0	Oldham
+	15.00		Nott'm Forest	1-0	Luton
+	15.00		Swansea	1-2	Yeovil
+	15.00		Swindon	6-0	Port Vale
+	15.00		Walsall	1-3	Bournemouth
+[1908-04-22]
+	15.00		Bristol Rvs	0-1	Swindon
+
+Matchday 45
+
+[1908-04-25]
+	15.00		Yeovil	0-1	Leeds
+[1908-04-26]
+	15.00		Bournemouth	1-0	Crewe
+	15.00		Bristol Rvs	0-2	Brighton
+	15.00		Doncaster	2-0	Luton
+	15.00		Gillingham	1-1	Swindon
+	15.00		Hartlepool	0-1	Nott'm Forest
+	15.00		Huddersfield	2-0	Walsall
+	15.00		Millwall	3-0	Carlisle
+	15.00		Oldham	2-1	Cheltenham
+	15.00		Port Vale	2-2	Northampton
+	15.00		Swansea	4-1	Leyton Orient
+	15.00		Tranmere	1-0	Southend
+
+Matchday 46
+
+[1908-05-03]
+	15.00		Brighton	0-1	Swansea
+	15.00		Carlisle	1-1	Bournemouth
+	15.00		Cheltenham	2-1	Doncaster
+	15.00		Crewe	1-4	Oldham
+	15.00		Leeds	2-1	Gillingham
+	15.00		Leyton Orient	3-1	Bristol Rvs
+	15.00		Luton	0-1	Huddersfield
+	15.00		Northampton	2-1	Tranmere
+	15.00		Nott'm Forest	3-2	Yeovil
+	15.00		Southend	1-1	Port Vale
+	15.00		Swindon	2-1	Millwall
+	15.00		Walsall	2-2	Hartlepool
+

@@ -1,0 +1,838 @@
+############################
+# Premier League 2004-2005
+
+Matchday 1
+
+[1904-08-07]
+	15.00		Burnley	1-1	Sheffield United
+	15.00		Coventry	2-0	Sunderland
+	15.00		Crewe	2-2	Cardiff
+	15.00		Ipswich	2-1	Gillingham
+	15.00		Leeds	1-0	Derby
+	15.00		Leicester	0-0	West Ham
+	15.00		Plymouth	0-0	Millwall
+	15.00		Preston	2-1	Watford
+	15.00		QPR	1-1	Rotherham
+	15.00		Reading	3-2	Brighton
+	15.00		Wigan	1-1	Nott'm Forest
+[1904-08-08]
+	15.00		Stoke	2-1	Wolves
+
+Matchday 2
+
+[1904-08-09]
+	15.00		Watford	3-0	QPR
+[1904-08-10]
+	15.00		Brighton	0-2	Plymouth
+	15.00		Cardiff	2-1	Coventry
+	15.00		Gillingham	2-1	Leeds
+	15.00		Millwall	0-2	Wigan
+	15.00		Rotherham	0-0	Burnley
+	15.00		Sheffield United	0-0	Stoke
+	15.00		Sunderland	3-1	Crewe
+	15.00		West Ham	1-0	Reading
+[1904-08-11]
+	15.00		Derby	1-2	Leicester
+	15.00		Nott'm Forest	1-1	Ipswich
+	15.00		Wolves	2-2	Preston
+
+Matchday 3
+
+[1904-08-13]
+	15.00		Cardiff	0-1	Plymouth
+[1904-08-14]
+	15.00		Brighton	1-1	Coventry
+	15.00		Derby	3-2	Ipswich
+	15.00		Gillingham	2-1	Preston
+	15.00		Millwall	2-0	Leicester
+	15.00		Nott'm Forest	2-2	Crewe
+	15.00		Rotherham	1-1	Stoke
+	15.00		Sheffield United	0-1	Reading
+	15.00		Sunderland	2-2	QPR
+	15.00		Watford	0-1	Burnley
+	15.00		Wolves	0-0	Leeds
+[1904-08-15]
+	15.00		West Ham	1-3	Wigan
+
+Matchday 4
+
+[1904-08-20]
+	15.00		Preston	0-1	Sheffield United
+[1904-08-21]
+	15.00		Burnley	1-1	Wolves
+	15.00		Coventry	0-1	Millwall
+	15.00		Crewe	2-3	West Ham
+	15.00		Ipswich	3-1	Cardiff
+	15.00		Leeds	1-1	Nott'm Forest
+	15.00		Leicester	0-1	Watford
+	15.00		Plymouth	2-1	Sunderland
+	15.00		QPR	0-2	Derby
+	15.00		Reading	1-0	Rotherham
+	15.00		Stoke	2-0	Gillingham
+	15.00		Wigan	3-0	Brighton
+
+Matchday 5
+
+[1904-08-27]
+	15.00		Gillingham	0-1	QPR
+[1904-08-28]
+	15.00		Brighton	1-0	Preston
+	15.00		Cardiff	0-1	Stoke
+	15.00		Derby	2-4	Crewe
+	15.00		Millwall	1-0	Reading
+	15.00		Nott'm Forest	1-4	Coventry
+	15.00		Rotherham	0-2	Ipswich
+	15.00		Sunderland	1-1	Wigan
+	15.00		Watford	3-1	Plymouth
+	15.00		West Ham	1-0	Burnley
+	15.00		Wolves	1-1	Leicester
+[1904-08-29]
+	15.00		Sheffield United	2-0	Leeds
+
+Matchday 6
+
+[1904-08-30]
+	15.00		Burnley	1-2	Gillingham
+	15.00		Coventry	2-1	West Ham
+	15.00		Ipswich	2-1	Wolves
+	15.00		Leicester	0-1	Brighton
+	15.00		Plymouth	3-2	Nott'm Forest
+	15.00		Preston	2-0	Rotherham
+	15.00		Stoke	1-0	Derby
+	15.00		Wigan	2-1	Cardiff
+[1904-08-31]
+	15.00		QPR	0-1	Sheffield United
+	15.00		Reading	1-0	Sunderland
+[1904-09-11]
+	15.00		Burnley	3-0	Crewe
+	15.00		Derby	2-1	Reading
+
+Matchday 7
+
+[1904-09-11]
+	15.00		Gillingham	0-4	Sunderland
+	15.00		Leeds	3-0	Coventry
+	15.00		Nott'm Forest	0-0	Cardiff
+	15.00		Preston	3-0	Stoke
+	15.00		QPR	3-2	Plymouth
+	15.00		Rotherham	0-2	Leicester
+	15.00		Sheffield United	1-2	West Ham
+	15.00		Watford	1-1	Brighton
+	15.00		Wolves	3-3	Wigan
+[1904-09-12]
+	15.00		Ipswich	2-0	Millwall
+[1904-09-14]
+	15.00		Brighton	0-1	Wolves
+	15.00		Cardiff	0-3	Watford
+
+Matchday 8
+
+[1904-09-14]
+	15.00		Crewe	0-2	QPR
+	15.00		Leicester	3-2	Sheffield United
+	15.00		Plymouth	0-1	Leeds
+	15.00		Reading	3-1	Preston
+	15.00		Stoke	3-2	Ipswich
+	15.00		Sunderland	2-0	Nott'm Forest
+	15.00		West Ham	1-0	Rotherham
+	15.00		Wigan	0-0	Burnley
+[1904-09-15]
+	15.00		Coventry	2-2	Gillingham
+[1904-09-18]
+	15.00		Brighton	2-3	QPR
+	15.00		Cardiff	0-2	Derby
+	15.00		Coventry	0-0	Rotherham
+
+Matchday 9
+
+[1904-09-18]
+	15.00		Crewe	2-2	Leeds
+	15.00		Leicester	0-0	Burnley
+	15.00		Plymouth	1-2	Wolves
+	15.00		Reading	3-1	Gillingham
+	15.00		Stoke	0-0	Nott'm Forest
+	15.00		Sunderland	3-1	Preston
+	15.00		West Ham	1-1	Ipswich
+	15.00		Wigan	4-0	Sheffield United
+[1904-09-19]
+	15.00		Millwall	0-2	Watford
+[1904-09-22]
+	15.00		Millwall	3-1	Derby
+[1904-09-24]
+	15.00		Leeds	0-1	Sunderland
+[1904-09-25]
+	15.00		Burnley	2-2	Stoke
+
+Matchday 10
+
+[1904-09-25]
+	15.00		Derby	1-1	Wigan
+	15.00		Gillingham	0-1	Brighton
+	15.00		Ipswich	3-2	Plymouth
+	15.00		Preston	1-0	Crewe
+	15.00		QPR	3-2	Leicester
+	15.00		Rotherham	1-1	Millwall
+	15.00		Sheffield United	1-1	Coventry
+	15.00		Watford	0-1	Reading
+	15.00		Wolves	2-3	Cardiff
+[1904-09-26]
+	15.00		Nott'm Forest	2-1	West Ham
+[1904-09-28]
+	15.00		Burnley	1-0	Cardiff
+	15.00		Gillingham	0-2	Leicester
+
+Matchday 11
+
+[1904-09-28]
+	15.00		Ipswich	1-1	Reading
+	15.00		Leeds	0-0	Stoke
+	15.00		Preston	1-1	Plymouth
+	15.00		QPR	4-1	Coventry
+	15.00		Rotherham	2-3	Crewe
+	15.00		Sheffield United	1-0	Sunderland
+	15.00		Watford	0-0	Wigan
+[1904-09-29]
+	15.00		Derby	1-1	West Ham
+	15.00		Nott'm Forest	0-1	Brighton
+[1904-10-02]
+	15.00		Brighton	1-1	Sheffield United
+	15.00		Cardiff	0-0	Leeds
+	15.00		Crewe	3-0	Watford
+
+Matchday 12
+
+[1904-10-02]
+	15.00		Leicester	1-1	Preston
+	15.00		Plymouth	2-1	Gillingham
+	15.00		Reading	0-0	Burnley
+	15.00		Stoke	0-1	QPR
+	15.00		Sunderland	0-0	Derby
+	15.00		West Ham	1-0	Wolves
+	15.00		Wigan	2-0	Rotherham
+[1904-10-03]
+	15.00		Coventry	1-2	Ipswich
+	15.00		Millwall	1-0	Nott'm Forest
+[1904-10-15]
+	15.00		Nott'm Forest	1-0	Wolves
+[1904-10-16]
+	15.00		Cardiff	2-0	Rotherham
+	15.00		Coventry	1-1	Leicester
+
+Matchday 13
+
+[1904-10-16]
+	15.00		Crewe	3-1	Brighton
+	15.00		Derby	2-2	Watford
+	15.00		Ipswich	1-1	Burnley
+	15.00		Leeds	1-0	Preston
+	15.00		Plymouth	1-2	Wigan
+	15.00		QPR	1-0	West Ham
+	15.00		Stoke	0-1	Reading
+	15.00		Sunderland	1-0	Millwall
+[1904-10-17]
+	15.00		Gillingham	1-3	Sheffield United
+[1904-10-19]
+	15.00		Brighton	1-1	Cardiff
+	15.00		Burnley	2-2	Coventry
+	15.00		Leicester	2-2	Ipswich
+
+Matchday 14
+
+[1904-10-19]
+	15.00		Millwall	2-1	Gillingham
+	15.00		Preston	2-1	QPR
+	15.00		Reading	1-1	Leeds
+	15.00		Rotherham	0-1	Plymouth
+	15.00		Sheffield United	1-1	Nott'm Forest
+	15.00		Watford	1-1	Sunderland
+	15.00		West Ham	2-0	Stoke
+	15.00		Wigan	4-1	Crewe
+	15.00		Wolves	2-0	Derby
+[1904-10-22]
+	15.00		Burnley	0-2	Derby
+[1904-10-23]
+	15.00		Brighton	1-0	Leeds
+	15.00		Leicester	1-1	Stoke
+
+Matchday 15
+
+[1904-10-23]
+	15.00		Millwall	2-2	Cardiff
+	15.00		Preston	3-2	Nott'm Forest
+	15.00		Reading	4-0	Crewe
+	15.00		Sheffield United	2-1	Plymouth
+	15.00		Watford	2-2	Ipswich
+	15.00		West Ham	3-1	Gillingham
+	15.00		Wigan	4-1	Coventry
+	15.00		Wolves	2-1	QPR
+[1904-10-25]
+	15.00		Rotherham	0-1	Sunderland
+[1904-10-29]
+	15.00		Crewe	2-3	Sheffield United
+[1904-10-30]
+	15.00		Cardiff	0-0	Leicester
+	15.00		Coventry	3-2	Reading
+
+Matchday 16
+
+[1904-10-30]
+	15.00		Derby	3-2	Rotherham
+	15.00		Gillingham	1-0	Wolves
+	15.00		Ipswich	3-0	Preston
+	15.00		Nott'm Forest	1-2	Watford
+	15.00		Plymouth	1-1	West Ham
+	15.00		QPR	3-0	Burnley
+	15.00		Stoke	1-0	Millwall
+	15.00		Sunderland	2-0	Brighton
+[1904-10-31]
+	15.00		Leeds	0-2	Wigan
+[1904-11-02]
+	15.00		Cardiff	4-1	West Ham
+	15.00		Crewe	2-2	Leicester
+	15.00		Gillingham	0-0	Watford
+
+Matchday 17
+
+[1904-11-02]
+	15.00		Ipswich	5-1	Sheffield United
+	15.00		Plymouth	2-2	Reading
+	15.00		QPR	1-1	Millwall
+	15.00		Stoke	0-1	Wigan
+	15.00		Sunderland	3-1	Wolves
+[1904-11-03]
+	15.00		Coventry	1-1	Preston
+	15.00		Derby	3-0	Brighton
+	15.00		Leeds	1-2	Burnley
+	15.00		Nott'm Forest	2-2	Rotherham
+[1904-11-05]
+	15.00		Millwall	2-0	Sunderland
+[1904-11-06]
+	15.00		Brighton	1-3	Crewe
+	15.00		Burnley	0-2	Ipswich
+
+Matchday 18
+
+[1904-11-06]
+	15.00		Preston	2-4	Leeds
+	15.00		Reading	1-0	Stoke
+	15.00		Rotherham	2-2	Cardiff
+	15.00		Sheffield United	0-0	Gillingham
+	15.00		Watford	2-2	Derby
+	15.00		West Ham	2-1	QPR
+	15.00		Wigan	0-2	Plymouth
+	15.00		Wolves	2-1	Nott'm Forest
+[1904-11-08]
+	15.00		Leicester	3-0	Coventry
+[1904-11-13]
+	15.00		Burnley	1-0	Nott'm Forest
+	15.00		Coventry	2-1	Plymouth
+	15.00		Gillingham	0-2	Derby
+
+Matchday 19
+
+[1904-11-13]
+	15.00		Ipswich	1-0	Leeds
+	15.00		Leicester	0-1	Sunderland
+	15.00		Preston	1-1	Millwall
+	15.00		QPR	1-0	Wigan
+	15.00		Reading	2-1	Cardiff
+	15.00		Rotherham	1-2	Wolves
+	15.00		Sheffield United	1-1	Watford
+	15.00		Stoke	1-0	Crewe
+	15.00		West Ham	0-1	Brighton
+[1904-11-19]
+	15.00		Cardiff	0-1	Preston
+[1904-11-20]
+	15.00		Brighton	0-1	Burnley
+	15.00		Crewe	4-1	Gillingham
+
+Matchday 20
+
+[1904-11-20]
+	15.00		Derby	0-1	Sheffield United
+	15.00		Leeds	6-1	QPR
+	15.00		Nott'm Forest	1-0	Reading
+	15.00		Plymouth	0-0	Stoke
+	15.00		Watford	0-0	Rotherham
+	15.00		Wigan	0-0	Leicester
+	15.00		Wolves	0-1	Coventry
+[1904-11-21]
+	15.00		Millwall	1-0	West Ham
+	15.00		Sunderland	2-0	Ipswich
+[1904-11-24]
+	15.00		Leeds	2-2	Watford
+[1904-11-27]
+	15.00		Burnley	1-0	Millwall
+	15.00		Coventry	0-1	Crewe
+
+Matchday 21
+
+[1904-11-27]
+	15.00		Gillingham	2-1	Nott'm Forest
+	15.00		Ipswich	1-0	Brighton
+	15.00		Leicester	2-1	Plymouth
+	15.00		Preston	3-0	Derby
+	15.00		QPR	1-0	Cardiff
+	15.00		Reading	1-1	Wigan
+	15.00		Sheffield United	3-3	Wolves
+	15.00		Stoke	0-1	Sunderland
+	15.00		West Ham	3-2	Watford
+[1904-11-29]
+	15.00		Rotherham	1-0	Leeds
+[1904-11-30]
+	15.00		Crewe	2-1	Millwall
+[1904-12-04]
+	15.00		Brighton	1-0	Rotherham
+
+Matchday 22
+
+[1904-12-04]
+	15.00		Cardiff	3-1	Gillingham
+	15.00		Crewe	2-2	Ipswich
+	15.00		Derby	2-2	Coventry
+	15.00		Leeds	0-2	Leicester
+	15.00		Millwall	1-2	Sheffield United
+	15.00		Nott'm Forest	2-1	QPR
+	15.00		Plymouth	1-0	Burnley
+	15.00		Sunderland	0-2	West Ham
+	15.00		Watford	0-1	Stoke
+	15.00		Wolves	4-1	Reading
+[1904-12-05]
+	15.00		Wigan	5-0	Preston
+[1904-12-07]
+	15.00		Wolves	1-2	Millwall
+
+Matchday 23
+
+[1904-12-10]
+	15.00		West Ham	1-1	Leeds
+[1904-12-11]
+	15.00		Burnley	2-0	Preston
+	15.00		Cardiff	0-2	Sunderland
+	15.00		Crewe	3-0	Plymouth
+	15.00		Derby	3-0	Nott'm Forest
+	15.00		Leicester	0-2	Reading
+	15.00		Millwall	2-0	Brighton
+	15.00		QPR	2-4	Ipswich
+	15.00		Rotherham	2-2	Sheffield United
+	15.00		Stoke	1-0	Coventry
+	15.00		Watford	1-1	Wolves
+	15.00		Wigan	2-0	Gillingham
+
+Matchday 24
+
+[1904-12-17]
+	15.00		Brighton	0-1	Stoke
+	15.00		Nott'm Forest	1-1	Leicester
+[1904-12-18]
+	15.00		Coventry	1-0	Watford
+	15.00		Gillingham	3-1	Rotherham
+	15.00		Plymouth	0-2	Derby
+	15.00		Preston	2-1	West Ham
+	15.00		Reading	1-0	QPR
+	15.00		Sheffield United	2-1	Cardiff
+	15.00		Sunderland	2-1	Burnley
+	15.00		Wolves	1-1	Crewe
+[1904-12-19]
+	15.00		Leeds	1-1	Millwall
+[1904-12-21]
+	15.00		Ipswich	2-1	Wigan
+
+Matchday 25
+
+[1904-12-26]
+	15.00		Brighton	2-1	Gillingham
+	15.00		Cardiff	1-1	Wolves
+	15.00		Coventry	1-2	Sheffield United
+	15.00		Leicester	0-1	Rotherham
+	15.00		Millwall	3-1	Ipswich
+	15.00		Plymouth	2-1	QPR
+	15.00		Reading	3-0	Watford
+	15.00		Stoke	0-0	Preston
+	15.00		Sunderland	2-3	Leeds
+	15.00		West Ham	3-2	Nott'm Forest
+	15.00		Wigan	1-2	Derby
+[1904-12-28]
+	15.00		Burnley	1-0	Wigan
+
+Matchday 26
+
+[1904-12-28]
+	15.00		Derby	0-3	Millwall
+	15.00		Gillingham	3-1	Coventry
+	15.00		Ipswich	1-0	Stoke
+	15.00		Leeds	2-1	Plymouth
+	15.00		Nott'm Forest	1-2	Sunderland
+	15.00		Preston	3-0	Reading
+	15.00		QPR	1-2	Crewe
+	15.00		Rotherham	2-2	West Ham
+	15.00		Sheffield United	2-0	Leicester
+	15.00		Watford	0-0	Cardiff
+	15.00		Wolves	1-1	Brighton
+[1905-01-01]
+	15.00		Derby	0-1	Cardiff
+
+Matchday 27
+
+[1905-01-01]
+	15.00		Gillingham	0-0	Reading
+	15.00		Ipswich	0-2	West Ham
+	15.00		Leeds	0-2	Crewe
+	15.00		Nott'm Forest	1-0	Stoke
+	15.00		Preston	3-2	Sunderland
+	15.00		QPR	0-0	Brighton
+	15.00		Rotherham	1-2	Coventry
+	15.00		Sheffield United	0-2	Wigan
+	15.00		Watford	1-0	Millwall
+	15.00		Wolves	1-1	Plymouth
+[1905-01-03]
+	15.00		Brighton	2-1	Watford
+	15.00		Cardiff	3-0	Nott'm Forest
+
+Matchday 28
+
+[1905-01-03]
+	15.00		Coventry	1-2	Leeds
+	15.00		Crewe	1-2	Preston
+	15.00		Leicester	1-0	QPR
+	15.00		Millwall	1-2	Rotherham
+	15.00		Plymouth	1-2	Ipswich
+	15.00		Reading	0-1	Derby
+	15.00		Stoke	0-1	Burnley
+	15.00		Sunderland	1-1	Gillingham
+	15.00		West Ham	0-2	Sheffield United
+[1905-01-04]
+	15.00		Wigan	2-0	Wolves
+[1905-01-14]
+	15.00		QPR	1-0	Stoke
+[1905-01-15]
+	15.00		Burnley	0-0	Reading
+
+Matchday 29
+
+[1905-01-15]
+	15.00		Gillingham	1-0	Plymouth
+	15.00		Ipswich	3-2	Coventry
+	15.00		Leeds	1-1	Cardiff
+	15.00		Nott'm Forest	1-2	Millwall
+	15.00		Preston	1-1	Leicester
+	15.00		Rotherham	0-2	Wigan
+	15.00		Sheffield United	1-2	Brighton
+	15.00		Watford	3-1	Crewe
+	15.00		Wolves	4-2	West Ham
+[1905-01-16]
+	15.00		Derby	0-2	Sunderland
+[1905-01-22]
+	15.00		Brighton	0-0	Nott'm Forest
+	15.00		Cardiff	2-0	Burnley
+
+Matchday 30
+
+[1905-01-22]
+	15.00		Coventry	1-2	QPR
+	15.00		Crewe	1-1	Rotherham
+	15.00		Leicester	2-0	Gillingham
+	15.00		Millwall	1-2	Wolves
+	15.00		Plymouth	0-2	Preston
+	15.00		Reading	1-1	Ipswich
+	15.00		Stoke	0-1	Leeds
+	15.00		Sunderland	1-0	Sheffield United
+	15.00		Wigan	2-2	Watford
+[1905-01-23]
+	15.00		West Ham	1-2	Derby
+[1905-01-26]
+	15.00		Derby	2-0	Leeds
+[1905-01-29]
+	15.00		Leeds	1-1	Brighton
+
+Matchday 31
+
+[1905-02-04]
+	15.00		Wolves	1-1	Sunderland
+[1905-02-05]
+	15.00		Brighton	2-3	Derby
+	15.00		Burnley	0-1	Leeds
+	15.00		Leicester	1-1	Crewe
+	15.00		Millwall	0-0	QPR
+	15.00		Preston	3-2	Coventry
+	15.00		Reading	0-0	Plymouth
+	15.00		Rotherham	0-0	Nott'm Forest
+	15.00		Sheffield United	0-2	Ipswich
+	15.00		Watford	2-0	Gillingham
+	15.00		Wigan	0-1	Stoke
+[1905-02-06]
+	15.00		West Ham	1-0	Cardiff
+
+Matchday 32
+
+[1905-02-12]
+	15.00		Cardiff	2-0	Brighton
+	15.00		Coventry	0-2	Burnley
+	15.00		Crewe	1-3	Wigan
+	15.00		Gillingham	0-0	Millwall
+	15.00		Ipswich	2-1	Leicester
+	15.00		Leeds	3-1	Reading
+	15.00		Plymouth	1-1	Rotherham
+	15.00		QPR	1-2	Preston
+	15.00		Sunderland	4-2	Watford
+[1905-02-15]
+	15.00		Crewe	1-1	Burnley
+[1905-02-18]
+	15.00		Preston	1-1	Ipswich
+[1905-02-19]
+	15.00		Brighton	2-1	Sunderland
+
+Matchday 33
+
+[1905-02-19]
+	15.00		Millwall	0-1	Stoke
+	15.00		Reading	1-2	Coventry
+	15.00		Rotherham	1-3	Derby
+	15.00		West Ham	5-0	Plymouth
+	15.00		Wigan	3-0	Leeds
+	15.00		Wolves	2-2	Gillingham
+[1905-02-22]
+	15.00		Cardiff	0-1	Millwall
+	15.00		Crewe	1-1	Reading
+	15.00		Gillingham	0-1	West Ham
+	15.00		Ipswich	1-2	Watford
+	15.00		Plymouth	3-0	Sheffield United
+	15.00		QPR	1-1	Wolves
+
+Matchday 34
+
+[1905-02-22]
+	15.00		Stoke	3-2	Leicester
+	15.00		Sunderland	4-1	Rotherham
+[1905-02-23]
+	15.00		Coventry	1-2	Wigan
+	15.00		Derby	1-1	Burnley
+	15.00		Nott'm Forest	2-0	Preston
+[1905-02-26]
+	15.00		Brighton	1-0	Millwall
+	15.00		Coventry	0-0	Stoke
+	15.00		Gillingham	2-1	Wigan
+	15.00		Ipswich	0-2	QPR
+	15.00		Leeds	2-1	West Ham
+	15.00		Nott'm Forest	2-2	Derby
+	15.00		Plymouth	3-0	Crewe
+
+Matchday 35
+
+[1905-02-26]
+	15.00		Preston	1-0	Burnley
+	15.00		Reading	0-0	Leicester
+	15.00		Sheffield United	1-0	Rotherham
+	15.00		Sunderland	2-1	Cardiff
+	15.00		Wolves	0-0	Watford
+[1905-03-02]
+	15.00		Derby	3-3	Wolves
+[1905-03-04]
+	15.00		Burnley	0-2	Sunderland
+[1905-03-05]
+	15.00		Cardiff	1-0	Sheffield United
+	15.00		Crewe	1-4	Wolves
+	15.00		Derby	1-0	Plymouth
+	15.00		Leicester	0-1	Nott'm Forest
+	15.00		QPR	0-0	Reading
+
+Matchday 36
+
+[1905-03-05]
+	15.00		Rotherham	1-3	Gillingham
+	15.00		Stoke	2-0	Brighton
+	15.00		Watford	2-3	Coventry
+	15.00		West Ham	1-2	Preston
+	15.00		Wigan	1-0	Ipswich
+[1905-03-06]
+	15.00		Millwall	1-1	Leeds
+[1905-03-08]
+	15.00		Burnley	0-0	Leicester
+	15.00		Sheffield United	4-0	Crewe
+	15.00		Watford	0-2	Nott'm Forest
+[1905-03-12]
+	15.00		Burnley	2-1	Rotherham
+	15.00		Coventry	1-1	Cardiff
+	15.00		Crewe	0-1	Sunderland
+
+Matchday 37
+
+[1905-03-12]
+	15.00		Ipswich	6-0	Nott'm Forest
+	15.00		Leeds	1-1	Gillingham
+	15.00		Plymouth	5-1	Brighton
+	15.00		Preston	2-2	Wolves
+	15.00		QPR	3-1	Watford
+	15.00		Reading	3-1	West Ham
+	15.00		Stoke	2-0	Sheffield United
+	15.00		Wigan	2-0	Millwall
+[1905-03-15]
+	15.00		Brighton	2-4	Wigan
+	15.00		Cardiff	0-1	Ipswich
+	15.00		Gillingham	2-1	Stoke
+	15.00		Millwall	1-1	Coventry
+
+Matchday 38
+
+[1905-03-15]
+	15.00		Rotherham	1-0	Reading
+	15.00		Sheffield United	1-1	Preston
+	15.00		Sunderland	5-1	Plymouth
+	15.00		Watford	2-2	Leicester
+	15.00		West Ham	1-1	Crewe
+	15.00		Wolves	2-0	Burnley
+[1905-03-16]
+	15.00		Derby	0-0	QPR
+	15.00		Nott'm Forest	0-0	Leeds
+[1905-03-18]
+	15.00		West Ham	2-2	Leicester
+[1905-03-19]
+	15.00		Cardiff	1-1	Crewe
+	15.00		Gillingham	0-0	Ipswich
+	15.00		Nott'm Forest	1-1	Wigan
+
+Matchday 39
+
+[1905-03-19]
+	15.00		Rotherham	0-1	QPR
+	15.00		Sheffield United	2-1	Burnley
+	15.00		Sunderland	1-0	Coventry
+	15.00		Watford	0-2	Preston
+	15.00		Wolves	1-1	Stoke
+[1905-03-20]
+	15.00		Millwall	3-0	Plymouth
+[1905-03-21]
+	15.00		Brighton	0-1	Reading
+[1905-04-02]
+	15.00		Burnley	3-1	Watford
+	15.00		Coventry	2-1	Brighton
+	15.00		Crewe	1-1	Nott'm Forest
+	15.00		Ipswich	3-2	Derby
+	15.00		Leeds	1-1	Wolves
+
+Matchday 40
+
+[1905-04-02]
+	15.00		Leicester	3-1	Millwall
+	15.00		Plymouth	1-1	Cardiff
+	15.00		Preston	1-1	Gillingham
+	15.00		QPR	1-3	Sunderland
+	15.00		Reading	0-0	Sheffield United
+	15.00		Stoke	1-2	Rotherham
+	15.00		Wigan	1-2	West Ham
+[1905-04-05]
+	15.00		Burnley	0-1	West Ham
+	15.00		Crewe	1-2	Derby
+	15.00		Ipswich	4-3	Rotherham
+	15.00		Leeds	0-4	Sheffield United
+	15.00		Leicester	1-1	Wolves
+
+Matchday 41
+
+[1905-04-05]
+	15.00		Plymouth	1-0	Watford
+	15.00		Preston	3-0	Brighton
+	15.00		QPR	1-1	Gillingham
+	15.00		Reading	2-1	Millwall
+	15.00		Stoke	1-3	Cardiff
+	15.00		Wigan	0-1	Sunderland
+[1905-04-06]
+	15.00		Coventry	2-0	Nott'm Forest
+[1905-04-09]
+	15.00		Brighton	1-1	Leicester
+	15.00		Cardiff	0-2	Wigan
+	15.00		Derby	3-1	Stoke
+	15.00		Gillingham	1-0	Burnley
+	15.00		Millwall	4-3	Crewe
+
+Matchday 42
+
+[1905-04-09]
+	15.00		Nott'm Forest	0-3	Plymouth
+	15.00		Rotherham	1-2	Preston
+	15.00		Sheffield United	3-2	QPR
+	15.00		Sunderland	1-2	Reading
+	15.00		Watford	1-2	Leeds
+	15.00		West Ham	3-0	Coventry
+[1905-04-11]
+	15.00		Wolves	2-0	Ipswich
+[1905-04-12]
+	15.00		Nott'm Forest	1-1	Sheffield United
+[1905-04-15]
+	15.00		Sheffield United	0-1	Derby
+[1905-04-16]
+	15.00		Burnley	1-1	Brighton
+	15.00		Coventry	2-2	Wolves
+	15.00		Gillingham	1-1	Crewe
+
+Matchday 43
+
+[1905-04-16]
+	15.00		Leicester	0-2	Wigan
+	15.00		Preston	3-0	Cardiff
+	15.00		QPR	1-1	Leeds
+	15.00		Reading	1-0	Nott'm Forest
+	15.00		Rotherham	0-1	Watford
+	15.00		Stoke	2-0	Plymouth
+	15.00		West Ham	1-1	Millwall
+[1905-04-17]
+	15.00		Ipswich	2-2	Sunderland
+[1905-04-19]
+	15.00		Burnley	2-0	QPR
+	15.00		Leicester	1-1	Cardiff
+	15.00		Stoke	0-1	West Ham
+[1905-04-23]
+	15.00		Brighton	2-2	West Ham
+
+Matchday 44
+
+[1905-04-23]
+	15.00		Cardiff	2-0	Reading
+	15.00		Crewe	0-2	Stoke
+	15.00		Derby	2-0	Gillingham
+	15.00		Leeds	1-1	Ipswich
+	15.00		Nott'm Forest	1-0	Burnley
+	15.00		Plymouth	1-1	Coventry
+	15.00		Sunderland	2-1	Leicester
+	15.00		Watford	0-0	Sheffield United
+	15.00		Wigan	0-0	QPR
+	15.00		Wolves	2-0	Rotherham
+[1905-04-24]
+	15.00		Millwall	2-1	Preston
+[1905-04-26]
+	15.00		Leicester	1-0	Derby
+
+Matchday 45
+
+[1905-04-29]
+	15.00		West Ham	1-2	Sunderland
+[1905-04-30]
+	15.00		Burnley	2-0	Plymouth
+	15.00		Coventry	6-2	Derby
+	15.00		Gillingham	1-1	Cardiff
+	15.00		Ipswich	5-1	Crewe
+	15.00		Preston	1-1	Wigan
+	15.00		QPR	2-1	Nott'm Forest
+	15.00		Reading	1-2	Wolves
+	15.00		Rotherham	0-1	Brighton
+	15.00		Sheffield United	0-1	Millwall
+	15.00		Stoke	0-1	Watford
+[1905-05-01]
+	15.00		Leicester	2-0	Leeds
+
+Matchday 46
+
+[1905-05-08]
+	15.00		Brighton	1-1	Ipswich
+	15.00		Cardiff	1-0	QPR
+	15.00		Crewe	2-1	Coventry
+	15.00		Derby	3-1	Preston
+	15.00		Leeds	0-0	Rotherham
+	15.00		Millwall	0-0	Burnley
+	15.00		Nott'm Forest	2-2	Gillingham
+	15.00		Plymouth	0-0	Leicester
+	15.00		Sunderland	1-0	Stoke
+	15.00		Watford	1-2	West Ham
+	15.00		Wigan	3-1	Reading
+	15.00		Wolves	4-2	Sheffield United
+

@@ -1,0 +1,36 @@
+############################
+# Premier League 2001-2002
+
+league: en
+season: 2001/02
+start_at: 1901-08-11
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Bradford
+- Burnley
+- Coventry
+- Crewe
+- Crystal Palace
+- Gillingham
+- Grimsby
+- Man City
+- Millwall
+- Norwich
+- Nott'm Forest
+- Portsmouth
+- Preston
+- Rotherham
+- Sheffield United
+- Sheffield Weds
+- Stockport
+- Walsall
+- Watford
+- West Brom
+- Wimbledon
+- Wolves
+

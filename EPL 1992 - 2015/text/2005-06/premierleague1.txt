@@ -1,0 +1,828 @@
+############################
+# Premier League 2005-2006
+
+Matchday 1
+
+[1905-08-06]
+	15.00		Crewe	2-1	Burnley
+	15.00		Crystal Palace	1-2	Luton
+	15.00		Derby	1-1	Brighton
+	15.00		Hull	0-0	QPR
+	15.00		Ipswich	1-0	Cardiff
+	15.00		Norwich	1-1	Coventry
+	15.00		Reading	1-2	Plymouth
+	15.00		Sheffield United	4-1	Leicester
+	15.00		Southampton	0-0	Wolves
+	15.00		Stoke	0-0	Sheffield Weds
+	15.00		Watford	1-2	Preston
+[1905-08-07]
+	15.00		Leeds	2-1	Millwall
+
+Matchday 2
+
+[1905-08-08]
+	15.00		Preston	1-1	Derby
+[1905-08-09]
+	15.00		Brighton	0-2	Reading
+	15.00		Burnley	1-2	Sheffield United
+	15.00		Cardiff	2-1	Leeds
+	15.00		Leicester	4-2	Stoke
+	15.00		Luton	3-2	Southampton
+	15.00		Millwall	0-0	Coventry
+	15.00		Norwich	1-1	Crewe
+	15.00		Plymouth	3-3	Watford
+	15.00		QPR	2-1	Ipswich
+	15.00		Sheffield Weds	1-1	Hull
+	15.00		Wolves	2-1	Crystal Palace
+
+Matchday 3
+
+[1905-08-12]
+	15.00		Cardiff	1-3	Watford
+[1905-08-13]
+	15.00		Brighton	2-2	Crewe
+	15.00		Burnley	4-0	Coventry
+	15.00		Leicester	0-0	Ipswich
+	15.00		Luton	0-0	Leeds
+	15.00		Millwall	0-1	Stoke
+	15.00		Norwich	1-1	Crystal Palace
+	15.00		Plymouth	0-2	Derby
+	15.00		Preston	0-3	Reading
+	15.00		QPR	2-1	Sheffield United
+	15.00		Sheffield Weds	0-1	Southampton
+	15.00		Wolves	1-0	Hull
+
+Matchday 4
+
+[1905-08-20]
+	15.00		Coventry	3-0	QPR
+	15.00		Crewe	2-2	Leicester
+	15.00		Crystal Palace	1-0	Plymouth
+	15.00		Derby	2-1	Cardiff
+	15.00		Hull	2-0	Brighton
+	15.00		Ipswich	2-1	Sheffield Weds
+	15.00		Leeds	2-0	Wolves
+	15.00		Reading	5-0	Millwall
+	15.00		Sheffield United	2-1	Preston
+	15.00		Southampton	1-0	Norwich
+	15.00		Stoke	2-1	Luton
+	15.00		Watford	3-1	Burnley
+
+Matchday 5
+
+[1905-08-26]
+	15.00		QPR	0-0	Sheffield Weds
+[1905-08-27]
+	15.00		Burnley	2-2	Derby
+	15.00		Cardiff	2-2	Wolves
+	15.00		Crystal Palace	2-0	Stoke
+	15.00		Leicester	0-2	Luton
+	15.00		Millwall	1-2	Ipswich
+	15.00		Norwich	0-1	Leeds
+	15.00		Plymouth	0-1	Hull
+	15.00		Preston	0-0	Brighton
+	15.00		Sheffield United	2-1	Coventry
+	15.00		Southampton	2-0	Crewe
+	15.00		Watford	0-0	Reading
+
+Matchday 6
+
+[1905-08-29]
+	15.00		Brighton	2-0	Plymouth
+	15.00		Coventry	1-1	Southampton
+	15.00		Crewe	1-3	Sheffield United
+	15.00		Derby	1-2	Watford
+	15.00		Hull	1-1	Leicester
+	15.00		Ipswich	0-4	Preston
+	15.00		Luton	2-1	Millwall
+	15.00		Reading	2-1	Burnley
+	15.00		Stoke	3-1	Norwich
+[1905-08-30]
+	15.00		Wolves	3-1	QPR
+[1905-09-10]
+	15.00		Burnley	3-3	Cardiff
+	15.00		Coventry	1-1	Reading
+
+Matchday 7
+
+[1905-09-10]
+	15.00		Crystal Palace	2-0	Hull
+	15.00		Leeds	3-3	Brighton
+	15.00		Leicester	2-0	Sheffield Weds
+	15.00		Luton	1-1	Wolves
+	15.00		Millwall	1-2	Preston
+	15.00		Norwich	2-0	Plymouth
+	15.00		Sheffield United	2-0	Ipswich
+	15.00		Southampton	1-1	QPR
+	15.00		Stoke	0-3	Watford
+[1905-09-11]
+	15.00		Crewe	1-1	Derby
+[1905-09-13]
+	15.00		Brighton	0-1	Sheffield United
+	15.00		Cardiff	1-0	Leicester
+
+Matchday 8
+
+[1905-09-13]
+	15.00		Hull	0-1	Stoke
+	15.00		Ipswich	2-2	Southampton
+	15.00		Plymouth	1-1	Crewe
+	15.00		Preston	0-0	Burnley
+	15.00		QPR	1-0	Luton
+	15.00		Reading	3-2	Crystal Palace
+	15.00		Sheffield Weds	1-0	Leeds
+	15.00		Watford	2-1	Norwich
+	15.00		Wolves	1-2	Millwall
+[1905-09-14]
+	15.00		Derby	1-1	Coventry
+[1905-09-16]
+	15.00		Preston	0-1	Stoke
+[1905-09-17]
+	15.00		Brighton	2-2	Coventry
+
+Matchday 9
+
+[1905-09-17]
+	15.00		Cardiff	1-0	Crystal Palace
+	15.00		Hull	0-1	Luton
+	15.00		Plymouth	1-0	Burnley
+	15.00		QPR	0-1	Leeds
+	15.00		Reading	1-0	Crewe
+	15.00		Sheffield Weds	1-2	Millwall
+	15.00		Watford	2-3	Sheffield United
+	15.00		Wolves	0-0	Leicester
+[1905-09-18]
+	15.00		Derby	2-2	Southampton
+	15.00		Ipswich	0-1	Norwich
+[1905-09-23]
+	15.00		Luton	2-2	Sheffield Weds
+[1905-09-24]
+	15.00		Burnley	1-1	Brighton
+
+Matchday 10
+
+[1905-09-24]
+	15.00		Coventry	0-2	Hull
+	15.00		Crewe	0-0	Watford
+	15.00		Crystal Palace	1-1	Preston
+	15.00		Leeds	0-2	Ipswich
+	15.00		Leicester	1-2	QPR
+	15.00		Millwall	0-0	Cardiff
+	15.00		Norwich	0-1	Reading
+	15.00		Sheffield United	2-1	Derby
+	15.00		Southampton	0-0	Plymouth
+	15.00		Stoke	1-3	Wolves
+[1905-09-27]
+	15.00		Burnley	3-0	Ipswich
+	15.00		Crewe	0-4	Wolves
+
+Matchday 11
+
+[1905-09-27]
+	15.00		Crystal Palace	2-0	Sheffield Weds
+	15.00		Leicester	0-0	Brighton
+	15.00		Luton	3-0	Preston
+	15.00		Millwall	1-1	QPR
+	15.00		Norwich	2-1	Hull
+	15.00		Sheffield United	2-0	Plymouth
+	15.00		Stoke	0-3	Cardiff
+[1905-09-28]
+	15.00		Coventry	3-1	Watford
+	15.00		Leeds	3-1	Derby
+	15.00		Southampton	0-0	Reading
+[1905-09-30]
+	15.00		Hull	1-1	Millwall
+	15.00		Wolves	0-1	Burnley
+
+Matchday 12
+
+[1905-10-01]
+	15.00		Brighton	1-3	Norwich
+	15.00		Cardiff	1-2	Luton
+	15.00		Derby	1-1	Leicester
+	15.00		Ipswich	2-1	Crewe
+	15.00		Plymouth	2-1	Stoke
+	15.00		Preston	1-1	Southampton
+	15.00		Reading	2-1	Sheffield United
+	15.00		Sheffield Weds	3-2	Coventry
+	15.00		Watford	0-0	Leeds
+[1905-10-03]
+	15.00		QPR	1-3	Crystal Palace
+[1905-10-15]
+	15.00		Brighton	1-2	Cardiff
+	15.00		Burnley	1-2	Leeds
+
+Matchday 13
+
+[1905-10-15]
+	15.00		Coventry	1-4	Crystal Palace
+	15.00		Crewe	3-1	Luton
+	15.00		Derby	2-1	Stoke
+	15.00		Norwich	1-1	Millwall
+	15.00		Plymouth	1-1	Sheffield Weds
+	15.00		Preston	1-1	QPR
+	15.00		Sheffield United	1-0	Wolves
+	15.00		Southampton	1-1	Hull
+	15.00		Watford	1-2	Leicester
+[1905-10-16]
+	15.00		Reading	2-0	Ipswich
+[1905-10-18]
+	15.00		Cardiff	2-2	Preston
+	15.00		Crystal Palace	0-1	Brighton
+
+Matchday 14
+
+[1905-10-18]
+	15.00		Hull	1-1	Reading
+	15.00		Ipswich	2-2	Coventry
+	15.00		Leeds	2-1	Southampton
+	15.00		Leicester	0-1	Burnley
+	15.00		Luton	4-2	Norwich
+	15.00		Millwall	0-4	Sheffield United
+	15.00		QPR	1-1	Plymouth
+	15.00		Sheffield Weds	1-1	Watford
+	15.00		Stoke	2-0	Crewe
+	15.00		Wolves	1-1	Derby
+[1905-10-21]
+	15.00		Leeds	1-1	Sheffield United
+[1905-10-22]
+	15.00		Cardiff	6-1	Crewe
+
+Matchday 15
+
+[1905-10-22]
+	15.00		Crystal Palace	2-0	Burnley
+	15.00		Hull	2-1	Derby
+	15.00		Ipswich	0-1	Watford
+	15.00		Luton	1-1	Plymouth
+	15.00		Millwall	0-2	Southampton
+	15.00		QPR	3-0	Norwich
+	15.00		Stoke	0-1	Reading
+	15.00		Wolves	1-1	Preston
+[1905-10-23]
+	15.00		Leicester	2-1	Coventry
+[1905-10-24]
+	15.00		Sheffield Weds	1-1	Brighton
+[1905-10-28]
+	15.00		Burnley	1-0	Hull
+[1905-10-29]
+	15.00		Brighton	1-1	Ipswich
+
+Matchday 16
+
+[1905-10-29]
+	15.00		Coventry	1-0	Luton
+	15.00		Crewe	2-2	Crystal Palace
+	15.00		Derby	1-2	QPR
+	15.00		Norwich	0-1	Sheffield Weds
+	15.00		Preston	0-0	Leicester
+	15.00		Reading	1-1	Leeds
+	15.00		Sheffield United	0-0	Cardiff
+	15.00		Southampton	2-0	Stoke
+	15.00		Watford	3-1	Wolves
+[1905-10-30]
+	15.00		Plymouth	0-0	Millwall
+[1905-11-01]
+	15.00		Brighton	1-1	Wolves
+	15.00		Burnley	2-1	Millwall
+
+Matchday 17
+
+[1905-11-01]
+	15.00		Crewe	1-0	Leeds
+	15.00		Norwich	1-0	Cardiff
+	15.00		Preston	3-0	Hull
+	15.00		Reading	2-0	Sheffield Weds
+	15.00		Sheffield United	4-0	Luton
+	15.00		Watford	3-1	QPR
+[1905-11-02]
+	15.00		Coventry	1-2	Stoke
+	15.00		Derby	3-3	Ipswich
+[1905-11-05]
+	15.00		Crystal Palace	2-3	Sheffield United
+	15.00		Hull	1-2	Watford
+	15.00		Ipswich	3-1	Plymouth
+	15.00		Leeds	0-0	Preston
+
+Matchday 18
+
+[1905-11-05]
+	15.00		Leicester	0-0	Southampton
+	15.00		Luton	2-3	Burnley
+	15.00		Millwall	1-3	Crewe
+	15.00		QPR	1-2	Reading
+	15.00		Sheffield Weds	2-1	Derby
+	15.00		Stoke	3-0	Brighton
+	15.00		Wolves	2-0	Norwich
+[1905-11-06]
+	15.00		Cardiff	0-0	Coventry
+[1905-11-09]
+	15.00		Sheffield Weds	1-3	Cardiff
+[1905-11-18]
+	15.00		Derby	0-3	Wolves
+[1905-11-19]
+	15.00		Burnley	1-0	Leicester
+	15.00		Coventry	1-1	Ipswich
+
+Matchday 19
+
+[1905-11-19]
+	15.00		Crewe	1-2	Stoke
+	15.00		Norwich	2-0	Luton
+	15.00		Plymouth	3-1	QPR
+	15.00		Preston	2-1	Cardiff
+	15.00		Reading	3-1	Hull
+	15.00		Sheffield United	2-2	Millwall
+	15.00		Southampton	3-4	Leeds
+	15.00		Watford	2-1	Sheffield Weds
+[1905-11-20]
+	15.00		Brighton	2-3	Crystal Palace
+[1905-11-22]
+	15.00		Cardiff	1-1	Brighton
+	15.00		Crystal Palace	2-0	Coventry
+	15.00		Hull	1-1	Southampton
+
+Matchday 20
+
+[1905-11-22]
+	15.00		Ipswich	0-3	Reading
+	15.00		Leeds	2-0	Burnley
+	15.00		Leicester	2-2	Watford
+	15.00		Luton	4-1	Crewe
+	15.00		Millwall	1-0	Norwich
+	15.00		QPR	0-2	Preston
+	15.00		Sheffield Weds	0-0	Plymouth
+	15.00		Stoke	1-2	Derby
+	15.00		Wolves	0-0	Sheffield United
+[1905-11-26]
+	15.00		Brighton	0-0	Derby
+	15.00		Burnley	3-0	Crewe
+	15.00		Coventry	2-2	Norwich
+
+Matchday 21
+
+[1905-11-26]
+	15.00		Leicester	4-2	Sheffield United
+	15.00		Luton	2-0	Crystal Palace
+	15.00		Millwall	0-1	Leeds
+	15.00		Plymouth	0-2	Reading
+	15.00		Preston	1-1	Watford
+	15.00		QPR	2-2	Hull
+	15.00		Sheffield Weds	0-2	Stoke
+	15.00		Wolves	0-0	Southampton
+[1905-11-28]
+	15.00		Cardiff	2-1	Ipswich
+[1905-12-03]
+	15.00		Coventry	3-1	Plymouth
+	15.00		Crewe	0-2	Preston
+	15.00		Crystal Palace	1-1	Millwall
+
+Matchday 22
+
+[1905-12-03]
+	15.00		Derby	2-0	Norwich
+	15.00		Hull	2-0	Cardiff
+	15.00		Ipswich	1-1	Wolves
+	15.00		Leeds	2-1	Leicester
+	15.00		Reading	3-0	Luton
+	15.00		Sheffield United	1-0	Sheffield Weds
+	15.00		Southampton	1-1	Burnley
+	15.00		Stoke	1-2	QPR
+	15.00		Watford	1-1	Brighton
+[1905-12-09]
+	15.00		Stoke	3-2	Leicester
+[1905-12-10]
+	15.00		Coventry	1-0	Millwall
+	15.00		Crewe	1-2	Norwich
+
+Matchday 23
+
+[1905-12-10]
+	15.00		Crystal Palace	1-1	Wolves
+	15.00		Derby	1-1	Preston
+	15.00		Hull	1-0	Sheffield Weds
+	15.00		Ipswich	2-2	QPR
+	15.00		Leeds	0-1	Cardiff
+	15.00		Reading	5-1	Brighton
+	15.00		Sheffield United	3-0	Burnley
+	15.00		Watford	1-1	Plymouth
+[1905-12-11]
+	15.00		Southampton	1-0	Luton
+[1905-12-16]
+	15.00		Brighton	2-1	Hull
+	15.00		Preston	0-0	Sheffield United
+[1905-12-17]
+	15.00		Burnley	4-1	Watford
+
+Matchday 24
+
+[1905-12-17]
+	15.00		Cardiff	0-0	Derby
+	15.00		Leicester	1-1	Crewe
+	15.00		Luton	2-3	Stoke
+	15.00		Millwall	0-2	Reading
+	15.00		Norwich	3-1	Southampton
+	15.00		Plymouth	2-0	Crystal Palace
+	15.00		Sheffield Weds	0-1	Ipswich
+	15.00		Wolves	1-0	Leeds
+[1905-12-19]
+	15.00		QPR	0-1	Coventry
+[1905-12-26]
+	15.00		Brighton	1-0	QPR
+	15.00		Burnley	1-0	Stoke
+	15.00		Cardiff	0-2	Plymouth
+
+Matchday 25
+
+[1905-12-26]
+	15.00		Crewe	2-2	Hull
+	15.00		Derby	1-1	Luton
+	15.00		Ipswich	0-2	Crystal Palace
+	15.00		Leeds	3-1	Coventry
+	15.00		Leicester	1-1	Millwall
+	15.00		Preston	0-0	Sheffield Weds
+	15.00		Sheffield United	1-3	Norwich
+	15.00		Watford	3-0	Southampton
+	15.00		Wolves	0-2	Reading
+[1905-12-28]
+	15.00		Coventry	1-1	Crewe
+	15.00		Crystal Palace	2-0	Derby
+	15.00		Hull	2-0	Ipswich
+
+Matchday 26
+
+[1905-12-28]
+	15.00		Luton	3-0	Brighton
+	15.00		Millwall	0-0	Watford
+	15.00		Norwich	2-1	Burnley
+	15.00		QPR	1-0	Cardiff
+	15.00		Reading	2-0	Leicester
+	15.00		Sheffield Weds	0-2	Wolves
+	15.00		Southampton	0-1	Sheffield United
+	15.00		Stoke	0-1	Leeds
+[1905-12-31]
+	15.00		Brighton	1-2	Millwall
+	15.00		Burnley	1-2	Sheffield Weds
+	15.00		Cardiff	2-1	Southampton
+	15.00		Crewe	3-4	QPR
+
+Matchday 27
+
+[1905-12-31]
+	15.00		Derby	2-2	Reading
+	15.00		Ipswich	1-0	Luton
+	15.00		Leeds	2-0	Hull
+	15.00		Leicester	0-1	Norwich
+	15.00		Preston	3-1	Coventry
+	15.00		Sheffield United	2-1	Stoke
+	15.00		Watford	1-2	Crystal Palace
+	15.00		Wolves	1-1	Plymouth
+[1906-01-02]
+	15.00		Coventry	2-0	Wolves
+	15.00		Crystal Palace	2-0	Leicester
+	15.00		Luton	1-2	Watford
+	15.00		Millwall	2-1	Derby
+
+Matchday 28
+
+[1906-01-02]
+	15.00		Norwich	0-3	Preston
+	15.00		Plymouth	0-3	Leeds
+	15.00		QPR	1-1	Burnley
+	15.00		Reading	5-1	Cardiff
+	15.00		Sheffield Weds	3-0	Crewe
+	15.00		Southampton	2-1	Brighton
+	15.00		Stoke	2-2	Ipswich
+[1906-01-03]
+	15.00		Hull	1-3	Sheffield United
+[1906-01-13]
+	15.00		Wolves	2-1	Luton
+[1906-01-14]
+	15.00		Brighton	2-1	Leeds
+	15.00		Cardiff	3-0	Burnley
+	15.00		Derby	5-1	Crewe
+
+Matchday 29
+
+[1906-01-14]
+	15.00		Hull	1-2	Crystal Palace
+	15.00		Ipswich	1-1	Sheffield United
+	15.00		Plymouth	1-1	Norwich
+	15.00		Preston	2-0	Millwall
+	15.00		QPR	1-0	Southampton
+	15.00		Reading	2-0	Coventry
+	15.00		Sheffield Weds	2-1	Leicester
+[1906-01-16]
+	15.00		Watford	1-0	Stoke
+[1906-01-20]
+	15.00		Crystal Palace	1-1	Reading
+[1906-01-21]
+	15.00		Burnley	0-2	Preston
+	15.00		Coventry	6-1	Derby
+	15.00		Crewe	1-2	Plymouth
+
+Matchday 30
+
+[1906-01-21]
+	15.00		Leeds	3-0	Sheffield Weds
+	15.00		Leicester	1-2	Cardiff
+	15.00		Luton	2-0	QPR
+	15.00		Millwall	0-0	Wolves
+	15.00		Norwich	2-3	Watford
+	15.00		Sheffield United	3-1	Brighton
+	15.00		Southampton	0-2	Ipswich
+	15.00		Stoke	0-3	Hull
+[1906-01-24]
+	15.00		Plymouth	1-0	Leicester
+[1906-01-25]
+	15.00		Southampton	0-0	Crystal Palace
+[1906-01-28]
+	15.00		Watford	4-1	Crewe
+[1906-01-31]
+	15.00		Brighton	0-0	Burnley
+
+Matchday 31
+
+[1906-01-31]
+	15.00		Cardiff	1-1	Millwall
+	15.00		Hull	1-2	Coventry
+	15.00		Ipswich	1-1	Leeds
+	15.00		Plymouth	2-1	Southampton
+	15.00		Preston	2-0	Crystal Palace
+	15.00		QPR	2-3	Leicester
+	15.00		Reading	4-0	Norwich
+	15.00		Sheffield Weds	0-2	Luton
+[1906-02-01]
+	15.00		Derby	0-1	Sheffield United
+[1906-02-04]
+	15.00		Burnley	1-0	Plymouth
+	15.00		Coventry	2-0	Brighton
+	15.00		Crewe	3-4	Reading
+
+Matchday 32
+
+[1906-02-04]
+	15.00		Crystal Palace	1-0	Cardiff
+	15.00		Leeds	2-0	QPR
+	15.00		Leicester	1-0	Wolves
+	15.00		Luton	2-3	Hull
+	15.00		Millwall	0-1	Sheffield Weds
+	15.00		Southampton	0-0	Derby
+	15.00		Stoke	0-0	Preston
+[1906-02-05]
+	15.00		Norwich	1-2	Ipswich
+[1906-02-06]
+	15.00		Sheffield United	1-4	Watford
+[1906-02-10]
+	15.00		Reading	2-0	Southampton
+[1906-02-11]
+	15.00		Brighton	1-2	Leicester
+	15.00		Cardiff	3-0	Stoke
+
+Matchday 33
+
+[1906-02-11]
+	15.00		Derby	0-0	Leeds
+	15.00		Hull	1-1	Norwich
+	15.00		Ipswich	2-1	Burnley
+	15.00		Plymouth	0-0	Sheffield United
+	15.00		Preston	5-1	Luton
+	15.00		QPR	1-0	Millwall
+	15.00		Sheffield Weds	0-0	Crystal Palace
+	15.00		Watford	4-0	Coventry
+	15.00		Wolves	1-1	Crewe
+[1906-02-14]
+	15.00		Burnley	0-1	Wolves
+	15.00		Crewe	1-2	Ipswich
+	15.00		Crystal Palace	2-1	QPR
+
+Matchday 34
+
+[1906-02-14]
+	15.00		Leeds	2-1	Watford
+	15.00		Leicester	2-2	Derby
+	15.00		Luton	3-3	Cardiff
+	15.00		Millwall	1-1	Hull
+	15.00		Norwich	3-0	Brighton
+	15.00		Sheffield United	1-1	Reading
+	15.00		Stoke	0-0	Plymouth
+[1906-02-15]
+	15.00		Coventry	2-1	Sheffield Weds
+	15.00		Southampton	0-0	Preston
+[1906-02-17]
+	15.00		Luton	3-2	Reading
+[1906-02-18]
+	15.00		Brighton	0-1	Watford
+	15.00		Cardiff	1-0	Hull
+
+Matchday 35
+
+[1906-02-18]
+	15.00		Leicester	1-1	Leeds
+	15.00		Millwall	1-1	Crystal Palace
+	15.00		Norwich	2-0	Derby
+	15.00		Plymouth	3-1	Coventry
+	15.00		Sheffield Weds	1-2	Sheffield United
+	15.00		Wolves	1-0	Ipswich
+[1906-02-25]
+	15.00		Coventry	1-0	Burnley
+	15.00		Crewe	2-1	Brighton
+	15.00		Crystal Palace	4-1	Norwich
+	15.00		Derby	1-0	Plymouth
+	15.00		Hull	2-3	Wolves
+	15.00		Ipswich	2-0	Leicester
+
+Matchday 36
+
+[1906-02-25]
+	15.00		Leeds	2-1	Luton
+	15.00		Reading	2-1	Preston
+	15.00		Sheffield United	2-3	QPR
+	15.00		Southampton	3-0	Sheffield Weds
+	15.00		Stoke	2-1	Millwall
+	15.00		Watford	2-1	Cardiff
+[1906-03-03]
+	15.00		Sheffield United	0-0	Crewe
+[1906-03-04]
+	15.00		Burnley	0-3	Reading
+	15.00		Cardiff	1-0	Sheffield Weds
+	15.00		Crystal Palace	1-2	Leeds
+	15.00		Leicester	3-2	Hull
+	15.00		Millwall	2-1	Luton
+
+Matchday 37
+
+[1906-03-04]
+	15.00		Norwich	2-1	Stoke
+	15.00		Plymouth	1-0	Brighton
+	15.00		QPR	0-0	Wolves
+	15.00		Southampton	1-1	Coventry
+	15.00		Watford	2-2	Derby
+[1906-03-07]
+	15.00		Plymouth	0-0	Preston
+	15.00		Wolves	0-0	Stoke
+[1906-03-11]
+	15.00		Brighton	0-0	Preston
+	15.00		Coventry	2-0	Sheffield United
+	15.00		Crewe	1-1	Southampton
+	15.00		Derby	3-0	Burnley
+	15.00		Hull	1-0	Plymouth
+
+Matchday 38
+
+[1906-03-11]
+	15.00		Ipswich	1-1	Millwall
+	15.00		Leeds	2-2	Norwich
+	15.00		Luton	1-2	Leicester
+	15.00		Reading	0-0	Watford
+	15.00		Sheffield Weds	1-1	QPR
+	15.00		Wolves	2-0	Cardiff
+[1906-03-13]
+	15.00		Stoke	1-3	Crystal Palace
+[1906-03-14]
+	15.00		Preston	3-1	Ipswich
+[1906-03-18]
+	15.00		Coventry	1-1	Leeds
+	15.00		Crystal Palace	2-2	Ipswich
+	15.00		Hull	1-0	Crewe
+	15.00		Luton	1-0	Derby
+
+Matchday 39
+
+[1906-03-18]
+	15.00		Millwall	0-1	Leicester
+	15.00		Norwich	2-1	Sheffield United
+	15.00		Plymouth	0-1	Cardiff
+	15.00		QPR	1-1	Brighton
+	15.00		Reading	1-1	Wolves
+	15.00		Sheffield Weds	2-0	Preston
+	15.00		Stoke	1-0	Burnley
+[1906-03-20]
+	15.00		Southampton	1-3	Watford
+[1906-03-21]
+	15.00		Leeds	0-1	Crystal Palace
+[1906-03-24]
+	15.00		Burnley	2-0	Norwich
+[1906-03-25]
+	15.00		Brighton	1-1	Luton
+	15.00		Cardiff	0-0	QPR
+
+Matchday 40
+
+[1906-03-25]
+	15.00		Crewe	4-1	Coventry
+	15.00		Derby	2-1	Crystal Palace
+	15.00		Ipswich	1-1	Hull
+	15.00		Leeds	0-0	Stoke
+	15.00		Leicester	1-1	Reading
+	15.00		Preston	0-0	Plymouth
+	15.00		Sheffield United	3-0	Southampton
+	15.00		Watford	0-2	Millwall
+	15.00		Wolves	1-3	Sheffield Weds
+[1906-03-28]
+	15.00		Burnley	1-1	Southampton
+	15.00		Preston	1-0	Crewe
+[1906-03-29]
+	15.00		QPR	1-2	Stoke
+
+Matchday 41
+
+[1906-03-31]
+	15.00		Crystal Palace	3-1	Watford
+[1906-04-01]
+	15.00		Coventry	0-1	Preston
+	15.00		Hull	1-0	Leeds
+	15.00		Luton	1-0	Ipswich
+	15.00		Millwall	0-2	Brighton
+	15.00		Norwich	2-1	Leicester
+	15.00		Plymouth	2-0	Wolves
+	15.00		QPR	1-2	Crewe
+	15.00		Reading	5-0	Derby
+	15.00		Sheffield Weds	0-0	Burnley
+	15.00		Southampton	3-2	Cardiff
+	15.00		Stoke	1-1	Sheffield United
+
+Matchday 42
+
+[1906-04-07]
+	15.00		Leicester	2-0	Crystal Palace
+[1906-04-08]
+	15.00		Brighton	0-2	Southampton
+	15.00		Burnley	1-0	QPR
+	15.00		Cardiff	2-5	Reading
+	15.00		Crewe	2-0	Sheffield Weds
+	15.00		Derby	1-0	Millwall
+	15.00		Ipswich	1-4	Stoke
+	15.00		Leeds	0-0	Plymouth
+	15.00		Preston	2-0	Norwich
+	15.00		Sheffield United	3-2	Hull
+	15.00		Wolves	2-2	Coventry
+[1906-04-09]
+	15.00		Watford	1-1	Luton
+
+Matchday 43
+
+[1906-04-14]
+	15.00		Cardiff	0-1	Sheffield United
+	15.00		Wolves	1-1	Watford
+[1906-04-15]
+	15.00		Crystal Palace	2-2	Crewe
+	15.00		Hull	0-0	Burnley
+	15.00		Ipswich	1-2	Brighton
+	15.00		Leeds	1-1	Reading
+	15.00		Leicester	1-2	Preston
+	15.00		Luton	1-2	Coventry
+	15.00		Millwall	1-1	Plymouth
+	15.00		QPR	1-1	Derby
+	15.00		Sheffield Weds	1-0	Norwich
+	15.00		Stoke	1-2	Southampton
+
+Matchday 44
+
+[1906-04-17]
+	15.00		Brighton	0-2	Sheffield Weds
+	15.00		Burnley	0-0	Crystal Palace
+	15.00		Coventry	1-1	Leicester
+	15.00		Crewe	1-1	Cardiff
+	15.00		Derby	1-1	Hull
+	15.00		Norwich	3-2	QPR
+	15.00		Plymouth	1-2	Luton
+	15.00		Preston	2-0	Wolves
+	15.00		Reading	3-1	Stoke
+	15.00		Southampton	2-0	Millwall
+	15.00		Watford	2-1	Ipswich
+[1906-04-18]
+	15.00		Sheffield United	1-1	Leeds
+
+Matchday 45
+
+[1906-04-22]
+	15.00		Cardiff	0-1	Norwich
+	15.00		Crystal Palace	2-1	Southampton
+	15.00		Hull	1-1	Preston
+	15.00		Ipswich	2-0	Derby
+	15.00		Leeds	1-0	Crewe
+	15.00		Leicester	1-0	Plymouth
+	15.00		Luton	1-1	Sheffield United
+	15.00		Millwall	1-0	Burnley
+	15.00		QPR	1-2	Watford
+	15.00		Sheffield Weds	1-1	Reading
+	15.00		Stoke	0-1	Coventry
+	15.00		Wolves	1-0	Brighton
+
+Matchday 46
+
+[1906-04-30]
+	15.00		Brighton	1-5	Stoke
+	15.00		Burnley	1-1	Luton
+	15.00		Coventry	3-1	Cardiff
+	15.00		Crewe	4-2	Millwall
+	15.00		Derby	0-2	Sheffield Weds
+	15.00		Norwich	1-2	Wolves
+	15.00		Plymouth	2-1	Ipswich
+	15.00		Preston	2-0	Leeds
+	15.00		Reading	2-1	QPR
+	15.00		Sheffield United	1-0	Crystal Palace
+	15.00		Southampton	2-0	Leicester
+	15.00		Watford	0-0	Hull
+

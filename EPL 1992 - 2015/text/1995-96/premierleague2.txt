@@ -1,0 +1,812 @@
+############################
+# Premier League 1995-1996
+
+Matchday 1
+
+[1995-08-12]
+	15.00		Bradford	1-0	Bournemouth
+	15.00		Bristol City	1-1	Blackpool
+	15.00		Burnley	2-1	Rotherham
+	15.00		Carlisle	1-2	Bristol Rvs
+	15.00		Hull	0-1	Swindon
+	15.00		Oxford	1-0	Chesterfield
+	15.00		Peterboro	3-1	Brighton
+	15.00		Swansea	3-1	Shrewsbury
+	15.00		Walsall	0-2	Stockport
+	15.00		Wrexham	1-1	Notts County
+	15.00		Wycombe	1-1	Crewe
+	15.00		York	2-2	Brentford
+
+Matchday 2
+
+[1995-08-19]
+	15.00		Blackpool	2-0	Wrexham
+	15.00		Bournemouth	3-0	Peterboro
+	15.00		Brentford	1-0	Oxford
+	15.00		Brighton	0-0	Bradford
+	15.00		Bristol Rvs	2-2	Swansea
+	15.00		Chesterfield	3-0	Carlisle
+	15.00		Notts County	2-0	Wycombe
+	15.00		Rotherham	1-1	Hull
+	15.00		Shrewsbury	0-2	Walsall
+	15.00		Stockport	0-0	Burnley
+	15.00		Swindon	3-0	York
+[1995-08-26]
+	15.00		Bradford	3-1	Shrewsbury
+
+Matchday 3
+
+[1995-08-26]
+	15.00		Bristol City	1-0	Stockport
+	15.00		Burnley	1-0	Brentford
+	15.00		Carlisle	0-1	Swindon
+	15.00		Hull	2-1	Blackpool
+	15.00		Oxford	1-1	Rotherham
+	15.00		Peterboro	0-1	Notts County
+	15.00		Swansea	3-2	Chesterfield
+	15.00		Walsall	1-1	Bristol Rvs
+	15.00		Wrexham	1-1	Brighton
+	15.00		Wycombe	1-2	Bournemouth
+	15.00		York	2-3	Crewe
+[1995-08-29]
+	15.00		Blackpool	2-1	Peterboro
+
+Matchday 4
+
+[1995-08-29]
+	15.00		Bournemouth	1-1	Wrexham
+	15.00		Brentford	1-0	Hull
+	15.00		Brighton	1-2	Wycombe
+	15.00		Bristol Rvs	1-0	Burnley
+	15.00		Chesterfield	2-1	York
+	15.00		Crewe	1-0	Walsall
+	15.00		Notts County	0-2	Bradford
+	15.00		Rotherham	2-2	Carlisle
+	15.00		Shrewsbury	4-1	Bristol City
+	15.00		Stockport	2-0	Swansea
+[1995-08-30]
+	15.00		Swindon	1-1	Oxford
+[1995-09-01]
+	15.00		Swansea	1-1	Carlisle
+
+Matchday 5
+
+[1995-09-02]
+	15.00		Bournemouth	2-1	Rotherham
+	15.00		Bradford	0-4	Wycombe
+	15.00		Brentford	0-2	Swindon
+	15.00		Brighton	1-0	Notts County
+	15.00		Bristol Rvs	1-2	Wrexham
+	15.00		Chesterfield	0-0	Hull
+	15.00		Peterboro	1-1	Bristol City
+	15.00		Shrewsbury	0-2	Blackpool
+	15.00		Stockport	1-1	Crewe
+[1995-09-03]
+	15.00		Oxford	2-0	York
+[1995-09-06]
+	15.00		Burnley	1-1	Walsall
+[1995-09-09]
+	15.00		Blackpool	0-1	Stockport
+
+Matchday 6
+
+[1995-09-09]
+	15.00		Bristol City	0-1	Brighton
+	15.00		Carlisle	2-0	Burnley
+	15.00		Crewe	3-0	Shrewsbury
+	15.00		Hull	0-0	Oxford
+	15.00		Notts County	2-0	Bournemouth
+	15.00		Rotherham	1-0	Brentford
+	15.00		Swindon	1-1	Chesterfield
+	15.00		Walsall	4-1	Swansea
+	15.00		Wrexham	1-2	Bradford
+	15.00		Wycombe	1-1	Peterboro
+	15.00		York	0-1	Bristol Rvs
+[1995-09-12]
+	15.00		Blackpool	2-1	Bournemouth
+
+Matchday 7
+
+[1995-09-12]
+	15.00		Bristol City	0-0	Brentford
+	15.00		Carlisle	1-1	Peterboro
+	15.00		Crewe	3-1	Brighton
+	15.00		Hull	0-0	Swansea
+	15.00		Notts County	1-0	Stockport
+	15.00		Rotherham	1-0	Bristol Rvs
+	15.00		Walsall	2-2	Oxford
+	15.00		Wrexham	1-1	Shrewsbury
+	15.00		Wycombe	1-0	Chesterfield
+	15.00		York	1-1	Burnley
+[1995-09-13]
+	15.00		Swindon	4-1	Bradford
+[1995-09-16]
+	15.00		Bournemouth	0-4	Crewe
+
+Matchday 8
+
+[1995-09-16]
+	15.00		Bradford	3-0	Bristol City
+	15.00		Brentford	1-0	Walsall
+	15.00		Brighton	1-2	Blackpool
+	15.00		Bristol Rvs	1-4	Swindon
+	15.00		Burnley	2-1	Hull
+	15.00		Chesterfield	3-0	Rotherham
+	15.00		Oxford	4-0	Carlisle
+	15.00		Peterboro	1-0	Wrexham
+	15.00		Shrewsbury	0-1	Notts County
+	15.00		Stockport	1-1	Wycombe
+	15.00		Swansea	0-1	York
+[1995-09-23]
+	15.00		Blackpool	2-1	Crewe
+
+Matchday 9
+
+[1995-09-23]
+	15.00		Bristol Rvs	2-0	Brentford
+	15.00		Carlisle	2-0	Hull
+	15.00		Chesterfield	4-2	Burnley
+	15.00		Notts County	2-2	Bristol City
+	15.00		Peterboro	3-1	Bradford
+	15.00		Shrewsbury	1-2	Stockport
+	15.00		Swansea	1-1	Oxford
+	15.00		Swindon	1-0	Rotherham
+	15.00		Wycombe	1-1	Wrexham
+	15.00		York	1-0	Walsall
+[1995-09-24]
+	15.00		Bournemouth	3-1	Brighton
+[1995-09-30]
+	15.00		Bradford	2-1	Blackpool
+
+Matchday 10
+
+[1995-09-30]
+	15.00		Brentford	1-2	Chesterfield
+	15.00		Brighton	2-2	Shrewsbury
+	15.00		Bristol City	0-0	Wycombe
+	15.00		Burnley	3-0	Swansea
+	15.00		Crewe	2-2	Notts County
+	15.00		Hull	0-3	York
+	15.00		Oxford	1-2	Bristol Rvs
+	15.00		Rotherham	5-1	Peterboro
+	15.00		Stockport	3-1	Bournemouth
+	15.00		Walsall	2-1	Carlisle
+	15.00		Wrexham	4-3	Swindon
+[1995-10-07]
+	15.00		Brentford	1-2	Blackpool
+
+Matchday 11
+
+[1995-10-07]
+	15.00		Bristol Rvs	0-2	Bournemouth
+	15.00		Burnley	1-1	Wycombe
+	15.00		Carlisle	0-0	Notts County
+	15.00		Chesterfield	1-2	Crewe
+	15.00		Hull	2-3	Shrewsbury
+	15.00		Oxford	2-1	Stockport
+	15.00		Rotherham	1-0	Brighton
+	15.00		Swansea	2-0	Bradford
+	15.00		Swindon	2-0	Bristol City
+	15.00		Walsall	1-1	Peterboro
+	15.00		York	1-0	Wrexham
+[1995-10-14]
+	15.00		Blackpool	0-0	Chesterfield
+
+Matchday 12
+
+[1995-10-14]
+	15.00		Bournemouth	0-2	Burnley
+	15.00		Bradford	2-3	Bristol Rvs
+	15.00		Brighton	1-3	Swindon
+	15.00		Bristol City	4-0	Hull
+	15.00		Crewe	2-1	Carlisle
+	15.00		Notts County	2-1	Rotherham
+	15.00		Peterboro	1-1	Swansea
+	15.00		Shrewsbury	2-1	York
+	15.00		Stockport	1-1	Brentford
+	15.00		Wrexham	2-1	Oxford
+	15.00		Wycombe	1-0	Walsall
+[1995-10-21]
+	15.00		Brentford	3-0	Peterboro
+
+Matchday 13
+
+[1995-10-21]
+	15.00		Bristol Rvs	0-3	Notts County
+	15.00		Burnley	3-0	Brighton
+	15.00		Carlisle	2-2	Bradford
+	15.00		Chesterfield	1-0	Shrewsbury
+	15.00		Hull	1-1	Stockport
+	15.00		Oxford	1-4	Wycombe
+	15.00		Rotherham	2-1	Blackpool
+	15.00		Swansea	1-1	Bournemouth
+	15.00		Swindon	2-1	Crewe
+	15.00		Walsall	1-2	Wrexham
+	15.00		York	0-1	Bristol City
+[1995-10-28]
+	15.00		Blackpool	1-1	Oxford
+
+Matchday 14
+
+[1995-10-28]
+	15.00		Bournemouth	2-0	Carlisle
+	15.00		Bradford	2-2	Burnley
+	15.00		Brighton	2-0	Bristol Rvs
+	15.00		Bristol City	0-2	Walsall
+	15.00		Crewe	3-1	Brentford
+	15.00		Notts County	1-3	Swindon
+	15.00		Peterboro	6-1	York
+	15.00		Shrewsbury	3-1	Rotherham
+	15.00		Stockport	0-1	Chesterfield
+	15.00		Wrexham	1-0	Swansea
+	15.00		Wycombe	2-2	Hull
+[1995-10-31]
+	15.00		Blackpool	3-0	Bristol Rvs
+
+Matchday 15
+
+[1995-10-31]
+	15.00		Bournemouth	0-0	Swindon
+	15.00		Bradford	1-0	Walsall
+	15.00		Brighton	0-2	Swansea
+	15.00		Bristol City	2-1	Chesterfield
+	15.00		Crewe	1-0	Hull
+	15.00		Peterboro	0-2	Burnley
+	15.00		Shrewsbury	2-0	Oxford
+	15.00		Stockport	1-1	Rotherham
+	15.00		Wrexham	3-2	Carlisle
+	15.00		Wycombe	2-1	York
+[1995-11-01]
+	15.00		Notts County	4-0	Brentford
+[1995-11-04]
+	15.00		Brentford	0-2	Shrewsbury
+
+Matchday 16
+
+[1995-11-04]
+	15.00		Bristol Rvs	1-1	Peterboro
+	15.00		Burnley	3-4	Notts County
+	15.00		Carlisle	1-0	Brighton
+	15.00		Chesterfield	2-1	Bradford
+	15.00		Hull	1-1	Wrexham
+	15.00		Oxford	2-0	Bristol City
+	15.00		Rotherham	2-2	Crewe
+	15.00		Swansea	1-2	Wycombe
+	15.00		Swindon	1-1	Blackpool
+	15.00		Walsall	0-0	Bournemouth
+	15.00		York	2-2	Stockport
+[1995-11-18]
+	15.00		Blackpool	1-3	York
+
+Matchday 17
+
+[1995-11-18]
+	15.00		Bournemouth	1-0	Brentford
+	15.00		Bradford	1-1	Hull
+	15.00		Brighton	0-3	Walsall
+	15.00		Bristol City	1-1	Carlisle
+	15.00		Crewe	4-1	Swansea
+	15.00		Notts County	4-1	Chesterfield
+	15.00		Peterboro	1-1	Oxford
+	15.00		Shrewsbury	3-0	Burnley
+	15.00		Stockport	1-1	Swindon
+	15.00		Wrexham	7-0	Rotherham
+	15.00		Wycombe	1-1	Bristol Rvs
+[1995-11-25]
+	15.00		Brentford	2-1	Bradford
+
+Matchday 18
+
+[1995-11-25]
+	15.00		Bristol Rvs	1-3	Stockport
+	15.00		Burnley	2-2	Wrexham
+	15.00		Chesterfield	3-0	Bournemouth
+	15.00		Hull	2-3	Peterboro
+	15.00		Oxford	1-0	Crewe
+	15.00		Rotherham	2-3	Bristol City
+	15.00		Swansea	0-0	Notts County
+	15.00		Swindon	0-1	Shrewsbury
+	15.00		Walsall	1-1	Blackpool
+	15.00		York	3-1	Brighton
+[1995-11-26]
+	15.00		Carlisle	4-2	Wycombe
+[1995-12-02]
+	15.00		Burnley	2-0	Carlisle
+
+Matchday 19
+
+[1995-12-02]
+	15.00		Swansea	0-0	Rotherham
+[1995-12-05]
+	15.00		Crewe	4-2	Bristol City
+[1995-12-09]
+	15.00		Bradford	2-1	Peterboro
+	15.00		Brentford	0-0	Bristol Rvs
+	15.00		Brighton	2-0	Bournemouth
+	15.00		Bristol City	0-2	Notts County
+	15.00		Burnley	2-2	Chesterfield
+	15.00		Crewe	1-2	Blackpool
+	15.00		Hull	2-5	Carlisle
+	15.00		Oxford	5-1	Swansea
+	15.00		Rotherham	0-2	Swindon
+	15.00		Stockport	0-2	Shrewsbury
+
+Matchday 20
+
+[1995-12-09]
+	15.00		Walsall	2-0	York
+	15.00		Wrexham	1-0	Wycombe
+[1995-12-16]
+	15.00		Blackpool	4-1	Bradford
+	15.00		Bournemouth	3-2	Stockport
+	15.00		Bristol Rvs	2-0	Oxford
+	15.00		Carlisle	1-1	Walsall
+	15.00		Chesterfield	2-2	Brentford
+	15.00		Notts County	0-1	Crewe
+	15.00		Peterboro	1-0	Rotherham
+	15.00		Shrewsbury	2-1	Brighton
+	15.00		Swansea	2-4	Burnley
+	15.00		Swindon	1-1	Wrexham
+
+Matchday 21
+
+[1995-12-16]
+	15.00		Wycombe	1-1	Bristol City
+	15.00		York	0-1	Hull
+[1995-12-17]
+	15.00		Peterboro	0-1	Stockport
+[1995-12-22]
+	15.00		Brighton	0-2	Chesterfield
+	15.00		Wrexham	2-2	Brentford
+[1995-12-23]
+	15.00		Bournemouth	2-0	Hull
+	15.00		Bradford	1-0	Oxford
+	15.00		Bristol Rvs	1-2	Crewe
+	15.00		Burnley	0-0	Bristol City
+	15.00		Notts County	1-1	Blackpool
+	15.00		Walsall	0-0	Swindon
+	15.00		Wycombe	2-0	Shrewsbury
+
+Matchday 22
+
+[1995-12-26]
+	15.00		Brentford	0-1	Brighton
+	15.00		Bristol City	1-0	Swansea
+	15.00		Chesterfield	1-1	Peterboro
+	15.00		Crewe	0-0	Wrexham
+	15.00		Oxford	2-0	Bournemouth
+	15.00		Rotherham	0-1	Walsall
+	15.00		Shrewsbury	1-1	Bristol Rvs
+	15.00		Stockport	2-0	Carlisle
+	15.00		Swindon	0-0	Wycombe
+	15.00		York	0-3	Bradford
+[1995-12-30]
+	15.00		Shrewsbury	1-1	Carlisle
+[1996-01-01]
+	15.00		Brighton	1-1	Stockport
+
+Matchday 23
+
+[1996-01-01]
+	15.00		Carlisle	1-2	Blackpool
+[1996-01-02]
+	15.00		Bournemouth	0-2	Shrewsbury
+[1996-01-06]
+	15.00		Bournemouth	1-1	Bristol City
+	15.00		Bristol Rvs	2-1	Hull
+	15.00		Rotherham	2-2	York
+[1996-01-10]
+	15.00		Stockport	1-2	Bradford
+	15.00		Swindon	3-0	Swansea
+[1996-01-13]
+	15.00		Bradford	1-3	Brighton
+	15.00		Bristol City	3-2	Crewe
+	15.00		Burnley	4-3	Stockport
+	15.00		Carlisle	1-1	Chesterfield
+	15.00		Hull	1-4	Rotherham
+
+Matchday 24
+
+[1996-01-13]
+	15.00		Oxford	2-1	Brentford
+	15.00		Peterboro	4-5	Bournemouth
+	15.00		Swansea	2-2	Bristol Rvs
+	15.00		Walsall	3-0	Shrewsbury
+	15.00		Wrexham	1-1	Blackpool
+	15.00		Wycombe	1-1	Notts County
+	15.00		York	2-0	Swindon
+[1996-01-16]
+	15.00		Bristol City	0-2	Bristol Rvs
+[1996-01-20]
+	15.00		Blackpool	3-0	Bristol City
+	15.00		Bournemouth	3-1	Bradford
+	15.00		Brentford	2-0	York
+	15.00		Brighton	1-2	Peterboro
+
+Matchday 25
+
+[1996-01-20]
+	15.00		Bristol Rvs	1-1	Carlisle
+	15.00		Chesterfield	1-0	Oxford
+	15.00		Crewe	2-0	Wycombe
+	15.00		Notts County	1-0	Wrexham
+	15.00		Rotherham	1-0	Burnley
+	15.00		Shrewsbury	1-2	Swansea
+	15.00		Stockport	0-1	Walsall
+	15.00		Swindon	3-0	Hull
+[1996-01-23]
+	15.00		Blackpool	1-1	Wycombe
+	15.00		Hull	0-0	Brighton
+	15.00		Rotherham	2-0	Bradford
+	15.00		Wrexham	0-0	Bristol City
+
+Matchday 26
+
+[1996-01-30]
+	15.00		Brentford	1-0	Wycombe
+	15.00		Burnley	0-2	Oxford
+[1996-01-31]
+	15.00		Bradford	2-1	Crewe
+[1996-02-03]
+	15.00		Blackpool	1-1	Hull
+	15.00		Bournemouth	2-3	Wycombe
+	15.00		Brentford	1-0	Burnley
+	15.00		Brighton	2-2	Wrexham
+	15.00		Bristol Rvs	2-0	Walsall
+	15.00		Chesterfield	3-2	Swansea
+	15.00		Notts County	1-0	Peterboro
+	15.00		Rotherham	1-0	Oxford
+	15.00		Shrewsbury	1-1	Bradford
+
+Matchday 27
+
+[1996-02-03]
+	15.00		Swindon	2-1	Carlisle
+[1996-02-06]
+	15.00		Swansea	0-3	Stockport
+[1996-02-10]
+	15.00		Bradford	0-1	Stockport
+	15.00		Bristol City	3-0	Bournemouth
+	15.00		Burnley	0-1	Crewe
+	15.00		Carlisle	2-1	Brentford
+	15.00		Hull	1-3	Bristol Rvs
+	15.00		Oxford	1-1	Brighton
+	15.00		Peterboro	2-2	Shrewsbury
+	15.00		Swansea	0-1	Swindon
+	15.00		Walsall	0-0	Notts County
+	15.00		Wycombe	0-1	Blackpool
+
+Matchday 28
+
+[1996-02-10]
+	15.00		York	2-2	Rotherham
+[1996-02-13]
+	15.00		Blackpool	4-0	Swansea
+	15.00		Bristol City	2-0	Shrewsbury
+	15.00		Stockport	2-3	Wrexham
+[1996-02-17]
+	15.00		Bournemouth	1-0	Blackpool
+	15.00		Brentford	2-2	Bristol City
+	15.00		Brighton	2-2	Crewe
+	15.00		Bristol Rvs	1-0	Rotherham
+	15.00		Burnley	3-3	York
+	15.00		Chesterfield	3-1	Wycombe
+	15.00		Oxford	3-2	Walsall
+	15.00		Peterboro	6-1	Carlisle
+
+Matchday 29
+
+[1996-02-17]
+	15.00		Stockport	2-0	Notts County
+	15.00		Swansea	0-0	Hull
+[1996-02-20]
+	15.00		Blackpool	2-1	Shrewsbury
+	15.00		Bristol City	0-1	Peterboro
+	15.00		Carlisle	3-0	Swansea
+	15.00		Crewe	0-1	Stockport
+	15.00		Rotherham	1-0	Bournemouth
+	15.00		Wrexham	3-2	Bristol Rvs
+	15.00		York	1-0	Oxford
+[1996-02-21]
+	15.00		Swindon	2-2	Brentford
+[1996-02-24]
+	15.00		Blackpool	2-1	Brighton
+	15.00		Bristol City	2-1	Bradford
+
+Matchday 30
+
+[1996-02-24]
+	15.00		Carlisle	1-2	Oxford
+	15.00		Crewe	2-0	Bournemouth
+	15.00		Hull	3-0	Burnley
+	15.00		Notts County	1-1	Shrewsbury
+	15.00		Rotherham	0-1	Chesterfield
+	15.00		Swindon	2-1	Bristol Rvs
+	15.00		Walsall	0-1	Brentford
+	15.00		Wrexham	1-0	Peterboro
+	15.00		Wycombe	4-1	Stockport
+	15.00		York	0-0	Swansea
+[1996-02-27]
+	15.00		Bournemouth	0-2	Notts County
+	15.00		Bradford	2-0	Wrexham
+
+Matchday 31
+
+[1996-02-27]
+	15.00		Brentford	1-1	Rotherham
+	15.00		Brighton	0-2	Bristol City
+	15.00		Bristol Rvs	1-0	York
+	15.00		Oxford	2-0	Hull
+	15.00		Peterboro	3-0	Wycombe
+	15.00		Shrewsbury	2-3	Crewe
+	15.00		Stockport	1-1	Blackpool
+	15.00		Swansea	2-1	Walsall
+[1996-03-02]
+	15.00		Bournemouth	0-1	Oxford
+	15.00		Bradford	2-2	York
+	15.00		Brighton	0-0	Brentford
+	15.00		Bristol Rvs	2-1	Shrewsbury
+
+Matchday 32
+
+[1996-03-02]
+	15.00		Burnley	0-1	Blackpool
+	15.00		Carlisle	0-1	Stockport
+	15.00		Notts County	1-0	Hull
+	15.00		Peterboro	0-1	Chesterfield
+	15.00		Swansea	2-1	Bristol City
+	15.00		Walsall	3-1	Rotherham
+	15.00		Wrexham	2-3	Crewe
+	15.00		Wycombe	1-2	Swindon
+[1996-03-05]
+	15.00		Crewe	1-1	York
+	15.00		Hull	0-1	Brentford
+	15.00		Peterboro	0-2	Swindon
+	15.00		Wrexham	3-0	Chesterfield
+
+Matchday 33
+
+[1996-03-06]
+	15.00		Notts County	2-1	Walsall
+	15.00		Wycombe	0-2	Brighton
+[1996-03-09]
+	15.00		Blackpool	2-0	Notts County
+	15.00		Brentford	1-0	Wrexham
+	15.00		Bristol City	0-1	Burnley
+	15.00		Chesterfield	1-0	Brighton
+	15.00		Crewe	1-2	Bristol Rvs
+	15.00		Hull	1-1	Bournemouth
+	15.00		Oxford	2-0	Bradford
+	15.00		Rotherham	1-1	Swansea
+	15.00		Shrewsbury	1-1	Wycombe
+	15.00		Stockport	0-1	Peterboro
+
+Matchday 34
+
+[1996-03-09]
+	15.00		Swindon	1-1	Walsall
+	15.00		York	1-1	Carlisle
+[1996-03-12]
+	15.00		Blackpool	3-1	Burnley
+	15.00		Brighton	1-2	Oxford
+	15.00		Hull	0-0	Chesterfield
+	15.00		Notts County	2-2	York
+	15.00		Swansea	2-1	Brentford
+	15.00		Walsall	3-2	Crewe
+	15.00		Wrexham	5-0	Bournemouth
+[1996-03-16]
+	15.00		Bournemouth	2-2	York
+	15.00		Bradford	2-0	Rotherham
+	15.00		Brighton	4-0	Hull
+
+Matchday 35
+
+[1996-03-16]
+	15.00		Bristol Rvs	2-4	Bristol City
+	15.00		Burnley	0-0	Swindon
+	15.00		Carlisle	1-1	Shrewsbury
+	15.00		Notts County	1-1	Oxford
+	15.00		Peterboro	3-1	Crewe
+	15.00		Swansea	0-2	Blackpool
+	15.00		Walsall	3-0	Chesterfield
+	15.00		Wrexham	2-3	Stockport
+	15.00		Wycombe	2-1	Brentford
+[1996-03-19]
+	15.00		Bradford	1-0	Notts County
+	15.00		Brentford	1-1	Carlisle
+	15.00		Chesterfield	1-1	Wrexham
+
+Matchday 36
+
+[1996-03-19]
+	15.00		Crewe	3-1	Burnley
+	15.00		Oxford	3-0	Swindon
+	15.00		Shrewsbury	1-1	Peterboro
+	15.00		Stockport	0-0	Bristol City
+[1996-03-23]
+	15.00		Blackpool	3-1	Carlisle
+	15.00		Brentford	0-0	Swansea
+	15.00		Bristol City	3-1	Wrexham
+	15.00		Chesterfield	2-1	Bristol Rvs
+	15.00		Crewe	1-2	Bradford
+	15.00		Hull	1-0	Walsall
+	15.00		Oxford	5-0	Burnley
+	15.00		Rotherham	0-0	Wycombe
+
+Matchday 37
+
+[1996-03-23]
+	15.00		Shrewsbury	1-2	Bournemouth
+	15.00		Stockport	3-1	Brighton
+	15.00		Swindon	2-0	Peterboro
+	15.00		York	1-3	Notts County
+[1996-03-26]
+	15.00		Bristol Rvs	1-0	Chesterfield
+	15.00		Carlisle	2-0	Rotherham
+	15.00		Hull	0-0	Notts County
+	15.00		Peterboro	0-0	Blackpool
+	15.00		Wycombe	5-2	Bradford
+	15.00		York	3-1	Bournemouth
+[1996-03-30]
+	15.00		Blackpool	1-0	Brentford
+	15.00		Bournemouth	2-1	Bristol Rvs
+
+Matchday 38
+
+[1996-03-30]
+	15.00		Bradford	5-1	Swansea
+	15.00		Brighton	1-1	Rotherham
+	15.00		Bristol City	0-0	Swindon
+	15.00		Crewe	3-0	Chesterfield
+	15.00		Notts County	3-1	Carlisle
+	15.00		Peterboro	2-3	Walsall
+	15.00		Shrewsbury	1-1	Hull
+	15.00		Stockport	4-2	Oxford
+	15.00		Wrexham	2-3	York
+	15.00		Wycombe	4-1	Burnley
+[1996-04-02]
+	15.00		Brentford	1-0	Stockport
+	15.00		Bristol Rvs	1-0	Bradford
+
+Matchday 39
+
+[1996-04-02]
+	15.00		Burnley	0-0	Bournemouth
+	15.00		Carlisle	1-0	Crewe
+	15.00		Chesterfield	1-0	Blackpool
+	15.00		Hull	2-3	Bristol City
+	15.00		Oxford	0-0	Wrexham
+	15.00		Rotherham	2-0	Notts County
+	15.00		Swansea	0-0	Peterboro
+	15.00		Walsall	0-1	Wycombe
+	15.00		York	1-2	Shrewsbury
+[1996-04-03]
+	15.00		Swindon	3-2	Brighton
+[1996-04-06]
+	15.00		Brentford	2-1	Crewe
+	15.00		Bristol Rvs	1-0	Brighton
+
+Matchday 40
+
+[1996-04-06]
+	15.00		Burnley	2-3	Bradford
+	15.00		Carlisle	4-0	Bournemouth
+	15.00		Chesterfield	1-2	Stockport
+	15.00		Hull	4-2	Wycombe
+	15.00		Oxford	1-0	Blackpool
+	15.00		Rotherham	2-2	Shrewsbury
+	15.00		Swansea	1-3	Wrexham
+	15.00		Swindon	1-0	Notts County
+	15.00		Walsall	2-1	Bristol City
+	15.00		York	3-1	Peterboro
+[1996-04-08]
+	15.00		Blackpool	1-2	Rotherham
+	15.00		Bradford	3-1	Carlisle
+
+Matchday 41
+
+[1996-04-08]
+	15.00		Bristol City	1-1	York
+	15.00		Crewe	0-2	Swindon
+	15.00		Peterboro	0-1	Brentford
+	15.00		Stockport	0-0	Hull
+	15.00		Wrexham	3-0	Walsall
+	15.00		Wycombe	0-3	Oxford
+[1996-04-09]
+	15.00		Bournemouth	3-1	Swansea
+	15.00		Brighton	1-0	Burnley
+	15.00		Notts County	4-2	Bristol Rvs
+	15.00		Shrewsbury	0-0	Chesterfield
+[1996-04-13]
+	15.00		Brentford	0-0	Notts County
+	15.00		Bristol Rvs	1-1	Blackpool
+
+Matchday 42
+
+[1996-04-13]
+	15.00		Burnley	2-1	Peterboro
+	15.00		Carlisle	1-2	Wrexham
+	15.00		Chesterfield	1-1	Bristol City
+	15.00		Hull	1-2	Crewe
+	15.00		Swansea	2-1	Brighton
+	15.00		Swindon	2-2	Bournemouth
+	15.00		Walsall	2-1	Bradford
+	15.00		York	2-1	Wycombe
+[1996-04-16]
+	15.00		Chesterfield	1-1	Walsall
+	15.00		Oxford	1-1	Notts County
+	15.00		Wycombe	1-1	Rotherham
+[1996-04-17]
+	15.00		Shrewsbury	2-2	Wrexham
+
+Matchday 43
+
+[1996-04-17]
+	15.00		Swindon	0-0	Burnley
+[1996-04-20]
+	15.00		Blackpool	1-1	Swindon
+	15.00		Bournemouth	0-0	Walsall
+	15.00		Bradford	2-1	Chesterfield
+	15.00		Brighton	1-0	Carlisle
+	15.00		Bristol City	0-2	Oxford
+	15.00		Crewe	0-2	Rotherham
+	15.00		Notts County	1-1	Burnley
+	15.00		Peterboro	0-0	Bristol Rvs
+	15.00		Shrewsbury	2-1	Brentford
+	15.00		Stockport	3-0	York
+	15.00		Wrexham	5-0	Hull
+
+Matchday 44
+
+[1996-04-20]
+	15.00		Wycombe	0-1	Swansea
+[1996-04-23]
+	15.00		Burnley	0-1	Bristol Rvs
+	15.00		Carlisle	2-0	York
+	15.00		Chesterfield	1-3	Swindon
+	15.00		Notts County	2-1	Brighton
+	15.00		Oxford	6-0	Shrewsbury
+	15.00		Rotherham	2-0	Stockport
+	15.00		Walsall	3-0	Hull
+[1996-04-26]
+	15.00		Bradford	2-1	Brentford
+[1996-04-27]
+	15.00		Blackpool	1-2	Walsall
+	15.00		Bournemouth	2-0	Chesterfield
+	15.00		Bristol City	4-3	Rotherham
+
+Matchday 45
+
+[1996-04-27]
+	15.00		Crewe	1-2	Oxford
+	15.00		Notts County	4-0	Swansea
+	15.00		Peterboro	3-1	Hull
+	15.00		Shrewsbury	1-2	Swindon
+	15.00		Stockport	2-0	Bristol Rvs
+	15.00		Wrexham	0-2	Burnley
+	15.00		Wycombe	4-0	Carlisle
+[1996-04-30]
+	15.00		Bradford	1-1	Swindon
+	15.00		Crewe	2-1	Peterboro
+	15.00		Walsall	3-1	Burnley
+	15.00		York	0-1	Chesterfield
+[1996-05-04]
+	15.00		Brentford	2-0	Bournemouth
+
+Matchday 46
+
+[1996-05-04]
+	15.00		Bristol Rvs	2-1	Wycombe
+	15.00		Burnley	2-1	Shrewsbury
+	15.00		Carlisle	2-1	Bristol City
+	15.00		Chesterfield	1-0	Notts County
+	15.00		Hull	2-3	Bradford
+	15.00		Oxford	4-0	Peterboro
+	15.00		Rotherham	0-1	Wrexham
+	15.00		Swansea	2-1	Crewe
+	15.00		Swindon	0-0	Stockport
+	15.00		Walsall	2-1	Brighton
+	15.00		York	0-1	Blackpool
+[1996-05-09]
+	15.00		Brighton	1-3	York
+

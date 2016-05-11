@@ -1,0 +1,837 @@
+############################
+# Premier League 2002-2003
+
+Matchday 1
+
+[1902-08-10]
+	15.00		Burnley	1-3	Brighton
+	15.00		Coventry	2-1	Sheffield United
+	15.00		Derby	3-0	Reading
+	15.00		Leicester	2-0	Watford
+	15.00		Millwall	0-6	Rotherham
+	15.00		Norwich	4-0	Grimsby
+	15.00		Portsmouth	2-0	Nott'm Forest
+	15.00		Preston	1-2	Crystal Palace
+	15.00		Sheffield Weds	0-0	Stoke
+	15.00		Walsall	0-2	Ipswich
+	15.00		Wimbledon	0-1	Gillingham
+[1902-08-11]
+	15.00		Bradford	0-0	Wolves
+
+Matchday 2
+
+[1902-08-13]
+	15.00		Brighton	0-0	Coventry
+	15.00		Crystal Palace	1-1	Bradford
+	15.00		Gillingham	1-0	Derby
+	15.00		Grimsby	0-0	Wimbledon
+	15.00		Reading	2-1	Sheffield Weds
+	15.00		Rotherham	1-1	Norwich
+	15.00		Sheffield United	1-1	Portsmouth
+	15.00		Watford	0-0	Millwall
+[1902-08-14]
+	15.00		Nott'm Forest	2-2	Preston
+	15.00		Stoke	0-1	Leicester
+	15.00		Wolves	3-1	Walsall
+[1902-08-17]
+	15.00		Brighton	0-2	Norwich
+
+Matchday 3
+
+[1902-08-17]
+	15.00		Crystal Palace	2-3	Portsmouth
+	15.00		Gillingham	1-0	Millwall
+	15.00		Grimsby	1-2	Derby
+	15.00		Nott'm Forest	4-0	Sheffield Weds
+	15.00		Reading	1-2	Coventry
+	15.00		Rotherham	0-0	Preston
+	15.00		Sheffield United	1-1	Walsall
+	15.00		Stoke	2-1	Bradford
+	15.00		Watford	3-2	Wimbledon
+	15.00		Wolves	3-0	Burnley
+[1902-08-18]
+	15.00		Ipswich	6-1	Leicester
+[1902-08-24]
+	15.00		Bradford	0-0	Grimsby
+
+Matchday 4
+
+[1902-08-24]
+	15.00		Burnley	0-1	Sheffield United
+	15.00		Coventry	1-0	Crystal Palace
+	15.00		Derby	1-4	Wolves
+	15.00		Leicester	2-1	Reading
+	15.00		Millwall	1-1	Ipswich
+	15.00		Norwich	1-0	Gillingham
+	15.00		Portsmouth	3-0	Watford
+	15.00		Preston	4-3	Stoke
+	15.00		Sheffield Weds	1-2	Rotherham
+	15.00		Walsall	2-1	Nott'm Forest
+	15.00		Wimbledon	1-0	Brighton
+[1902-08-26]
+	15.00		Brighton	0-2	Walsall
+
+Matchday 5
+
+[1902-08-26]
+	15.00		Gillingham	1-1	Preston
+	15.00		Grimsby	0-1	Portsmouth
+	15.00		Ipswich	1-2	Bradford
+	15.00		Rotherham	2-1	Derby
+	15.00		Stoke	1-1	Norwich
+	15.00		Watford	5-2	Coventry
+[1902-08-27]
+	15.00		Crystal Palace	0-0	Leicester
+	15.00		Reading	3-0	Burnley
+	15.00		Sheffield United	3-1	Millwall
+	15.00		Wolves	2-2	Sheffield Weds
+[1902-08-28]
+	15.00		Nott'm Forest	2-0	Wimbledon
+[1902-08-31]
+	15.00		Bradford	4-2	Rotherham
+
+Matchday 6
+
+[1902-08-31]
+	15.00		Burnley	0-0	Crystal Palace
+	15.00		Coventry	0-1	Nott'm Forest
+	15.00		Derby	2-0	Stoke
+	15.00		Leicester	2-0	Gillingham
+	15.00		Millwall	2-0	Grimsby
+	15.00		Norwich	4-0	Watford
+	15.00		Portsmouth	4-2	Brighton
+	15.00		Walsall	0-2	Reading
+	15.00		Wimbledon	3-2	Wolves
+[1902-09-01]
+	15.00		Preston	0-0	Ipswich
+	15.00		Sheffield Weds	2-0	Sheffield United
+[1902-09-07]
+	15.00		Derby	1-2	Burnley
+
+Matchday 7
+
+[1902-09-07]
+	15.00		Gillingham	1-3	Portsmouth
+	15.00		Millwall	1-0	Brighton
+	15.00		Norwich	2-3	Sheffield United
+	15.00		Rotherham	0-0	Reading
+	15.00		Watford	2-0	Walsall
+	15.00		Wimbledon	2-3	Leicester
+[1902-09-14]
+	15.00		Brighton	2-4	Gillingham
+	15.00		Burnley	2-1	Stoke
+	15.00		Coventry	3-2	Grimsby
+	15.00		Crystal Palace	4-2	Wolves
+	15.00		Leicester	3-1	Derby
+	15.00		Nott'm Forest	0-1	Watford
+
+Matchday 8
+
+[1902-09-14]
+	15.00		Portsmouth	1-0	Millwall
+	15.00		Preston	2-2	Sheffield Weds
+	15.00		Reading	0-1	Wimbledon
+	15.00		Sheffield United	1-0	Rotherham
+	15.00		Walsall	0-1	Bradford
+[1902-09-15]
+	15.00		Ipswich	1-1	Norwich
+[1902-09-17]
+	15.00		Brighton	1-2	Stoke
+	15.00		Burnley	2-2	Millwall
+	15.00		Crystal Palace	0-1	Derby
+	15.00		Leicester	4-0	Bradford
+	15.00		Portsmouth	4-1	Wimbledon
+	15.00		Preston	1-1	Watford
+
+Matchday 9
+
+[1902-09-17]
+	15.00		Sheffield United	2-1	Grimsby
+	15.00		Walsall	3-4	Rotherham
+[1902-09-18]
+	15.00		Coventry	1-1	Sheffield Weds
+	15.00		Nott'm Forest	4-1	Gillingham
+	15.00		Reading	0-2	Norwich
+[1902-09-21]
+	15.00		Bradford	2-2	Burnley
+	15.00		Derby	0-2	Preston
+	15.00		Gillingham	1-1	Sheffield United
+	15.00		Grimsby	0-3	Nott'm Forest
+	15.00		Millwall	0-3	Walsall
+	15.00		Norwich	1-0	Portsmouth
+	15.00		Rotherham	1-0	Brighton
+
+Matchday 10
+
+[1902-09-21]
+	15.00		Sheffield Weds	0-0	Leicester
+	15.00		Watford	3-3	Crystal Palace
+	15.00		Wimbledon	0-1	Coventry
+	15.00		Wolves	0-1	Reading
+[1902-09-22]
+	15.00		Stoke	2-1	Ipswich
+[1902-09-24]
+	15.00		Bradford	1-1	Coventry
+	15.00		Wolves	4-0	Preston
+[1902-09-25]
+	15.00		Sheffield Weds	0-0	Crystal Palace
+	15.00		Stoke	2-2	Nott'm Forest
+[1902-09-28]
+	15.00		Brighton	1-2	Grimsby
+	15.00		Burnley	1-0	Wimbledon
+	15.00		Coventry	2-3	Millwall
+
+Matchday 11
+
+[1902-09-28]
+	15.00		Ipswich	0-1	Derby
+	15.00		Leicester	1-0	Wolves
+	15.00		Nott'm Forest	3-2	Rotherham
+	15.00		Portsmouth	3-0	Bradford
+	15.00		Preston	1-2	Norwich
+	15.00		Reading	1-1	Stoke
+	15.00		Sheffield United	1-2	Watford
+	15.00		Walsall	1-0	Sheffield Weds
+[1902-09-29]
+	15.00		Crystal Palace	2-2	Gillingham
+[1902-10-05]
+	15.00		Bradford	1-1	Preston
+	15.00		Derby	2-2	Walsall
+	15.00		Gillingham	0-2	Coventry
+
+Matchday 12
+
+[1902-10-05]
+	15.00		Grimsby	0-3	Reading
+	15.00		Millwall	1-2	Nott'm Forest
+	15.00		Norwich	0-0	Leicester
+	15.00		Rotherham	2-3	Portsmouth
+	15.00		Sheffield Weds	1-3	Burnley
+	15.00		Stoke	1-1	Crystal Palace
+	15.00		Watford	1-0	Brighton
+	15.00		Wolves	1-3	Sheffield United
+[1902-10-06]
+	15.00		Wimbledon	0-1	Ipswich
+[1902-10-08]
+	15.00		Grimsby	3-0	Ipswich
+[1902-10-12]
+	15.00		Bradford	0-0	Derby
+	15.00		Burnley	2-1	Walsall
+
+Matchday 13
+
+[1902-10-12]
+	15.00		Ipswich	2-1	Sheffield Weds
+	15.00		Millwall	1-1	Wimbledon
+	15.00		Rotherham	1-1	Gillingham
+	15.00		Watford	2-0	Grimsby
+[1902-10-19]
+	15.00		Brighton	2-4	Sheffield United
+	15.00		Gillingham	3-0	Watford
+	15.00		Grimsby	0-0	Rotherham
+	15.00		Leicester	0-1	Burnley
+	15.00		Norwich	3-1	Millwall
+	15.00		Portsmouth	1-1	Coventry
+	15.00		Reading	3-1	Ipswich
+	15.00		Sheffield Weds	2-1	Bradford
+
+Matchday 14
+
+[1902-10-19]
+	15.00		Stoke	0-2	Wolves
+	15.00		Walsall	3-3	Preston
+	15.00		Wimbledon	2-2	Crystal Palace
+[1902-10-20]
+	15.00		Derby	0-0	Nott'm Forest
+[1902-10-22]
+	15.00		Ipswich	2-2	Burnley
+[1902-10-23]
+	15.00		Coventry	1-1	Norwich
+	15.00		Sheffield United	2-1	Stoke
+[1902-10-26]
+	15.00		Bradford	2-1	Norwich
+	15.00		Burnley	0-3	Portsmouth
+	15.00		Coventry	0-0	Walsall
+	15.00		Crystal Palace	5-0	Brighton
+	15.00		Ipswich	0-1	Gillingham
+
+Matchday 15
+
+[1902-10-26]
+	15.00		Millwall	3-0	Derby
+	15.00		Nott'm Forest	2-2	Leicester
+	15.00		Preston	1-0	Reading
+	15.00		Rotherham	4-0	Stoke
+	15.00		Sheffield United	1-1	Wimbledon
+	15.00		Watford	1-0	Sheffield Weds
+	15.00		Wolves	4-1	Grimsby
+[1902-10-29]
+	15.00		Gillingham	0-4	Wolves
+	15.00		Grimsby	6-5	Burnley
+	15.00		Leicester	2-1	Coventry
+	15.00		Norwich	0-0	Nott'm Forest
+	15.00		Portsmouth	3-2	Preston
+
+Matchday 16
+
+[1902-10-29]
+	15.00		Reading	1-0	Bradford
+	15.00		Walsall	3-4	Crystal Palace
+	15.00		Wimbledon	2-1	Rotherham
+[1902-10-30]
+	15.00		Derby	2-1	Sheffield United
+	15.00		Sheffield Weds	0-1	Millwall
+	15.00		Stoke	1-2	Watford
+[1902-11-02]
+	15.00		Brighton	3-2	Bradford
+	15.00		Coventry	2-1	Rotherham
+	15.00		Grimsby	1-1	Gillingham
+	15.00		Nott'm Forest	3-0	Sheffield United
+	15.00		Portsmouth	0-2	Leicester
+	15.00		Preston	3-1	Burnley
+
+Matchday 17
+
+[1902-11-02]
+	15.00		Reading	2-0	Millwall
+	15.00		Sheffield Weds	1-3	Derby
+	15.00		Walsall	4-2	Stoke
+	15.00		Watford	1-1	Wolves
+	15.00		Wimbledon	4-2	Norwich
+[1902-11-03]
+	15.00		Ipswich	1-2	Crystal Palace
+[1902-11-06]
+	15.00		Wolves	1-1	Portsmouth
+[1902-11-09]
+	15.00		Bradford	3-5	Wimbledon
+	15.00		Burnley	3-1	Coventry
+	15.00		Crystal Palace	0-0	Nott'm Forest
+	15.00		Derby	1-2	Portsmouth
+	15.00		Gillingham	0-1	Reading
+
+Matchday 18
+
+[1902-11-09]
+	15.00		Leicester	2-0	Walsall
+	15.00		Millwall	2-1	Preston
+	15.00		Norwich	3-0	Sheffield Weds
+	15.00		Rotherham	2-1	Watford
+	15.00		Sheffield United	0-0	Ipswich
+	15.00		Stoke	1-2	Grimsby
+[1902-11-11]
+	15.00		Wolves	1-1	Brighton
+[1902-11-16]
+	15.00		Brighton	1-0	Derby
+	15.00		Coventry	0-2	Wolves
+	15.00		Gillingham	1-1	Sheffield Weds
+	15.00		Grimsby	3-3	Preston
+	15.00		Millwall	2-2	Leicester
+
+Matchday 19
+
+[1902-11-16]
+	15.00		Norwich	2-0	Crystal Palace
+	15.00		Nott'm Forest	3-0	Bradford
+	15.00		Portsmouth	3-0	Stoke
+	15.00		Rotherham	0-0	Burnley
+	15.00		Wimbledon	3-2	Walsall
+[1902-11-17]
+	15.00		Watford	0-2	Ipswich
+[1902-11-23]
+	15.00		Bradford	0-5	Sheffield United
+	15.00		Burnley	2-0	Norwich
+	15.00		Crystal Palace	2-0	Grimsby
+	15.00		Ipswich	2-1	Coventry
+	15.00		Leicester	2-1	Rotherham
+	15.00		Preston	2-2	Brighton
+
+Matchday 20
+
+[1902-11-23]
+	15.00		Reading	1-0	Watford
+	15.00		Sheffield Weds	1-3	Portsmouth
+	15.00		Stoke	0-1	Millwall
+	15.00		Walsall	1-0	Gillingham
+	15.00		Wolves	2-1	Nott'm Forest
+[1902-11-25]
+	15.00		Derby	3-2	Wimbledon
+[1902-11-26]
+	15.00		Crystal Palace	0-1	Reading
+	15.00		Preston	2-0	Leicester
+[1902-11-27]
+	15.00		Nott'm Forest	3-2	Brighton
+[1902-11-30]
+	15.00		Brighton	0-1	Reading
+	15.00		Coventry	1-2	Preston
+	15.00		Gillingham	1-1	Stoke
+
+Matchday 21
+
+[1902-11-30]
+	15.00		Grimsby	1-2	Leicester
+	15.00		Millwall	1-0	Bradford
+	15.00		Norwich	1-0	Derby
+	15.00		Nott'm Forest	2-1	Ipswich
+	15.00		Portsmouth	3-2	Walsall
+	15.00		Rotherham	0-0	Wolves
+	15.00		Sheffield United	2-1	Crystal Palace
+	15.00		Watford	2-1	Burnley
+	15.00		Wimbledon	3-0	Sheffield Weds
+[1902-12-07]
+	15.00		Bradford	1-3	Gillingham
+	15.00		Burnley	1-0	Nott'm Forest
+	15.00		Crystal Palace	1-0	Millwall
+
+Matchday 22
+
+[1902-12-07]
+	15.00		Derby	3-0	Watford
+	15.00		Ipswich	1-2	Rotherham
+	15.00		Leicester	0-0	Sheffield United
+	15.00		Preston	3-5	Wimbledon
+	15.00		Reading	0-0	Portsmouth
+	15.00		Sheffield Weds	1-1	Brighton
+	15.00		Stoke	1-2	Coventry
+	15.00		Walsall	3-1	Grimsby
+	15.00		Wolves	1-0	Norwich
+[1902-12-10]
+	15.00		Brighton	1-1	Ipswich
+[1902-12-14]
+	15.00		Bradford	1-0	Nott'm Forest
+	15.00		Burnley	2-6	Rotherham
+
+Matchday 23
+
+[1902-12-14]
+	15.00		Crystal Palace	2-0	Norwich
+	15.00		Derby	1-0	Brighton
+	15.00		Ipswich	4-2	Watford
+	15.00		Leicester	4-1	Millwall
+	15.00		Preston	3-0	Grimsby
+	15.00		Reading	0-2	Sheffield United
+	15.00		Sheffield Weds	0-2	Gillingham
+	15.00		Stoke	1-1	Portsmouth
+	15.00		Walsall	2-0	Wimbledon
+	15.00		Wolves	0-2	Coventry
+[1902-12-20]
+	15.00		Brighton	0-1	Leicester
+[1902-12-21]
+	15.00		Coventry	3-0	Derby
+
+Matchday 24
+
+[1902-12-21]
+	15.00		Gillingham	4-2	Burnley
+	15.00		Grimsby	2-0	Sheffield Weds
+	15.00		Millwall	1-1	Wolves
+	15.00		Norwich	2-1	Walsall
+	15.00		Nott'm Forest	2-0	Reading
+	15.00		Portsmouth	1-1	Ipswich
+	15.00		Sheffield United	1-0	Preston
+	15.00		Watford	1-0	Bradford
+	15.00		Wimbledon	1-1	Stoke
+[1902-12-22]
+	15.00		Rotherham	1-3	Crystal Palace
+[1902-12-26]
+	15.00		Bradford	4-2	Stoke
+	15.00		Burnley	2-1	Wolves
+
+Matchday 25
+
+[1902-12-26]
+	15.00		Coventry	2-0	Reading
+	15.00		Derby	1-3	Grimsby
+	15.00		Leicester	1-2	Ipswich
+	15.00		Millwall	2-2	Gillingham
+	15.00		Norwich	0-1	Brighton
+	15.00		Portsmouth	1-1	Crystal Palace
+	15.00		Preston	0-2	Rotherham
+	15.00		Sheffield Weds	2-0	Nott'm Forest
+	15.00		Walsall	0-1	Sheffield United
+	15.00		Wimbledon	0-0	Watford
+[1902-12-28]
+	15.00		Brighton	2-2	Burnley
+	15.00		Crystal Palace	2-0	Preston
+
+Matchday 26
+
+[1902-12-28]
+	15.00		Grimsby	1-1	Norwich
+	15.00		Ipswich	3-2	Walsall
+	15.00		Nott'm Forest	1-2	Portsmouth
+	15.00		Reading	2-1	Derby
+	15.00		Rotherham	1-3	Millwall
+	15.00		Sheffield United	0-0	Coventry
+	15.00		Stoke	3-2	Sheffield Weds
+	15.00		Watford	1-2	Leicester
+	15.00		Wolves	1-2	Bradford
+[1903-01-01]
+	15.00		Crystal Palace	1-1	Coventry
+	15.00		Ipswich	4-1	Millwall
+	15.00		Nott'm Forest	1-1	Walsall
+
+Matchday 27
+
+[1903-01-01]
+	15.00		Rotherham	0-2	Sheffield Weds
+	15.00		Stoke	2-1	Preston
+	15.00		Watford	2-2	Portsmouth
+	15.00		Wolves	1-1	Derby
+[1903-01-11]
+	15.00		Burnley	1-1	Ipswich
+	15.00		Coventry	0-0	Brighton
+	15.00		Derby	1-1	Gillingham
+	15.00		Leicester	0-0	Stoke
+	15.00		Millwall	4-0	Watford
+	15.00		Norwich	1-1	Rotherham
+	15.00		Sheffield Weds	3-2	Reading
+	15.00		Walsall	0-1	Wolves
+
+Matchday 28
+
+[1903-01-11]
+	15.00		Wimbledon	3-3	Grimsby
+[1903-01-13]
+	15.00		Portsmouth	1-2	Sheffield United
+[1903-01-17]
+	15.00		Sheffield United	3-1	Sheffield Weds
+[1903-01-18]
+	15.00		Brighton	1-1	Portsmouth
+	15.00		Crystal Palace	1-1	Burnley
+	15.00		Gillingham	3-2	Leicester
+	15.00		Grimsby	0-2	Millwall
+	15.00		Ipswich	3-0	Preston
+	15.00		Nott'm Forest	1-1	Coventry
+	15.00		Reading	0-0	Walsall
+	15.00		Rotherham	3-2	Bradford
+	15.00		Stoke	1-3	Derby
+
+Matchday 29
+
+[1903-01-18]
+	15.00		Wolves	1-1	Wimbledon
+[1903-01-19]
+	15.00		Watford	2-1	Norwich
+[1903-01-25]
+	15.00		Grimsby	1-2	Bradford
+	15.00		Preston	1-1	Nott'm Forest
+[1903-01-28]
+	15.00		Reading	1-3	Leicester
+[1903-02-01]
+	15.00		Bradford	2-0	Ipswich
+	15.00		Burnley	2-5	Reading
+	15.00		Coventry	0-1	Watford
+	15.00		Derby	3-0	Rotherham
+	15.00		Leicester	1-0	Crystal Palace
+	15.00		Millwall	1-0	Sheffield United
+	15.00		Norwich	2-2	Stoke
+
+Matchday 30
+
+[1903-02-01]
+	15.00		Portsmouth	3-0	Grimsby
+	15.00		Preston	3-0	Gillingham
+	15.00		Sheffield Weds	0-4	Wolves
+	15.00		Walsall	1-0	Brighton
+	15.00		Wimbledon	2-3	Nott'm Forest
+[1903-02-04]
+	15.00		Brighton	2-3	Wimbledon
+[1903-02-08]
+	15.00		Brighton	4-1	Wolves
+	15.00		Coventry	0-1	Burnley
+	15.00		Grimsby	2-0	Stoke
+	15.00		Ipswich	3-2	Sheffield United
+	15.00		Nott'm Forest	2-1	Crystal Palace
+	15.00		Portsmouth	6-2	Derby
+
+Matchday 31
+
+[1903-02-08]
+	15.00		Preston	2-1	Millwall
+	15.00		Sheffield Weds	2-2	Norwich
+	15.00		Walsall	1-4	Leicester
+	15.00		Watford	1-2	Rotherham
+	15.00		Wimbledon	2-2	Bradford
+[1903-02-10]
+	15.00		Reading	2-1	Gillingham
+[1903-02-15]
+	15.00		Bradford	0-1	Brighton
+	15.00		Derby	2-2	Sheffield Weds
+	15.00		Gillingham	3-0	Grimsby
+	15.00		Millwall	0-2	Reading
+	15.00		Rotherham	1-0	Coventry
+[1903-02-17]
+	15.00		Leicester	1-1	Portsmouth
+
+Matchday 32
+
+[1903-02-18]
+	15.00		Sheffield United	1-3	Reading
+[1903-02-19]
+	15.00		Ipswich	2-4	Wolves
+[1903-02-22]
+	15.00		Brighton	1-0	Millwall
+	15.00		Burnley	2-0	Derby
+	15.00		Coventry	0-2	Bradford
+	15.00		Crystal Palace	0-0	Sheffield Weds
+	15.00		Ipswich	2-2	Grimsby
+	15.00		Leicester	4-0	Wimbledon
+	15.00		Nott'm Forest	6-0	Stoke
+	15.00		Portsmouth	1-0	Gillingham
+	15.00		Preston	0-2	Wolves
+	15.00		Reading	3-0	Rotherham
+
+Matchday 33
+
+[1903-02-22]
+	15.00		Sheffield United	0-1	Norwich
+	15.00		Walsall	2-0	Watford
+[1903-02-25]
+	15.00		Gillingham	1-0	Norwich
+	15.00		Wolves	0-0	Watford
+[1903-02-26]
+	15.00		Stoke	1-0	Walsall
+[1903-02-28]
+	15.00		Rotherham	1-2	Sheffield United
+[1903-03-01]
+	15.00		Bradford	1-2	Walsall
+	15.00		Derby	1-1	Leicester
+	15.00		Gillingham	3-0	Brighton
+	15.00		Grimsby	0-2	Coventry
+	15.00		Millwall	0-5	Portsmouth
+	15.00		Sheffield Weds	0-1	Preston
+
+Matchday 34
+
+[1903-03-01]
+	15.00		Stoke	0-1	Burnley
+	15.00		Watford	1-1	Nott'm Forest
+	15.00		Wimbledon	2-0	Reading
+	15.00		Wolves	4-0	Crystal Palace
+[1903-03-02]
+	15.00		Norwich	0-2	Ipswich
+[1903-03-04]
+	15.00		Bradford	0-0	Leicester
+	15.00		Gillingham	1-4	Nott'm Forest
+	15.00		Grimsby	1-4	Sheffield United
+	15.00		Millwall	1-1	Burnley
+	15.00		Rotherham	0-0	Walsall
+	15.00		Watford	0-1	Preston
+	15.00		Wimbledon	2-1	Portsmouth
+
+Matchday 35
+
+[1903-03-05]
+	15.00		Derby	0-1	Crystal Palace
+	15.00		Norwich	0-1	Reading
+	15.00		Sheffield Weds	5-1	Coventry
+	15.00		Stoke	1-0	Brighton
+	15.00		Wolves	1-1	Ipswich
+[1903-03-08]
+	15.00		Bradford	2-1	Crystal Palace
+	15.00		Brighton	2-0	Rotherham
+	15.00		Coventry	2-2	Wimbledon
+	15.00		Ipswich	0-0	Stoke
+	15.00		Leicester	1-1	Sheffield Weds
+	15.00		Preston	4-2	Derby
+	15.00		Walsall	1-2	Millwall
+
+Matchday 36
+
+[1903-03-10]
+	15.00		Nott'm Forest	2-2	Grimsby
+[1903-03-11]
+	15.00		Crystal Palace	1-1	Ipswich
+	15.00		Gillingham	3-3	Wimbledon
+[1903-03-12]
+	15.00		Portsmouth	3-2	Norwich
+	15.00		Reading	0-1	Wolves
+	15.00		Sheffield United	4-2	Burnley
+[1903-03-15]
+	15.00		Brighton	1-0	Nott'm Forest
+	15.00		Derby	1-2	Bradford
+	15.00		Gillingham	1-1	Rotherham
+	15.00		Grimsby	1-0	Watford
+	15.00		Leicester	2-1	Preston
+	15.00		Norwich	2-0	Coventry
+
+Matchday 37
+
+[1903-03-15]
+	15.00		Portsmouth	1-0	Wolves
+	15.00		Reading	2-1	Crystal Palace
+	15.00		Sheffield Weds	0-1	Ipswich
+	15.00		Stoke	0-0	Sheffield United
+	15.00		Walsall	3-2	Burnley
+	15.00		Wimbledon	2-0	Millwall
+[1903-03-18]
+	15.00		Bradford	1-1	Sheffield Weds
+	15.00		Burnley	1-2	Leicester
+	15.00		Crystal Palace	0-1	Wimbledon
+	15.00		Ipswich	3-1	Reading
+	15.00		Millwall	0-2	Norwich
+	15.00		Preston	5-0	Walsall
+
+Matchday 38
+
+[1903-03-18]
+	15.00		Rotherham	0-1	Grimsby
+	15.00		Sheffield United	2-1	Brighton
+	15.00		Watford	0-1	Gillingham
+	15.00		Wolves	0-0	Stoke
+[1903-03-19]
+	15.00		Coventry	0-4	Portsmouth
+	15.00		Nott'm Forest	3-0	Derby
+[1903-03-22]
+	15.00		Bradford	0-1	Reading
+	15.00		Burnley	1-1	Grimsby
+	15.00		Coventry	1-2	Leicester
+	15.00		Crystal Palace	2-0	Walsall
+	15.00		Ipswich	2-2	Brighton
+	15.00		Millwall	3-0	Sheffield Weds
+
+Matchday 39
+
+[1903-03-22]
+	15.00		Nott'm Forest	4-0	Norwich
+	15.00		Preston	1-1	Portsmouth
+	15.00		Rotherham	2-1	Wimbledon
+	15.00		Sheffield United	2-0	Derby
+	15.00		Watford	1-2	Stoke
+	15.00		Wolves	6-0	Gillingham
+[1903-03-25]
+	15.00		Brighton	0-0	Crystal Palace
+	15.00		Burnley	0-2	Bradford
+	15.00		Norwich	1-0	Wimbledon
+	15.00		Sheffield United	2-2	Gillingham
+[1903-03-29]
+	15.00		Gillingham	1-3	Ipswich
+	15.00		Norwich	3-2	Bradford
+
+Matchday 40
+
+[1903-03-29]
+	15.00		Sheffield Weds	2-2	Watford
+[1903-04-04]
+	15.00		Reading	1-2	Brighton
+[1903-04-05]
+	15.00		Bradford	0-1	Millwall
+	15.00		Burnley	4-7	Watford
+	15.00		Crystal Palace	2-2	Sheffield United
+	15.00		Derby	2-1	Norwich
+	15.00		Ipswich	3-4	Nott'm Forest
+	15.00		Leicester	2-0	Grimsby
+	15.00		Preston	2-2	Coventry
+	15.00		Sheffield Weds	4-2	Wimbledon
+	15.00		Stoke	0-0	Gillingham
+	15.00		Walsall	1-2	Portsmouth
+
+Matchday 41
+
+[1903-04-05]
+	15.00		Wolves	0-0	Rotherham
+[1903-04-07]
+	15.00		Wimbledon	1-0	Sheffield United
+[1903-04-08]
+	15.00		Burnley	2-0	Preston
+	15.00		Crystal Palace	0-1	Watford
+	15.00		Grimsby	0-1	Wolves
+	15.00		Leicester	1-0	Nott'm Forest
+[1903-04-09]
+	15.00		Stoke	2-0	Rotherham
+[1903-04-11]
+	15.00		Nott'm Forest	2-2	Wolves
+[1903-04-12]
+	15.00		Brighton	0-2	Preston
+	15.00		Coventry	2-4	Ipswich
+	15.00		Gillingham	0-1	Walsall
+	15.00		Grimsby	1-4	Crystal Palace
+
+Matchday 42
+
+[1903-04-12]
+	15.00		Millwall	3-1	Stoke
+	15.00		Norwich	2-0	Burnley
+	15.00		Portsmouth	1-2	Sheffield Weds
+	15.00		Rotherham	1-1	Leicester
+	15.00		Wimbledon	0-2	Derby
+[1903-04-15]
+	15.00		Portsmouth	1-0	Burnley
+	15.00		Reading	5-1	Preston
+	15.00		Sheffield United	1-0	Nott'm Forest
+	15.00		Walsall	0-0	Coventry
+[1903-04-16]
+	15.00		Derby	1-2	Millwall
+[1903-04-18]
+	15.00		Ipswich	3-0	Portsmouth
+	15.00		Reading	1-0	Nott'm Forest
+
+Matchday 43
+
+[1903-04-19]
+	15.00		Bradford	2-1	Watford
+	15.00		Burnley	2-0	Gillingham
+	15.00		Crystal Palace	0-0	Rotherham
+	15.00		Derby	1-0	Coventry
+	15.00		Leicester	2-0	Brighton
+	15.00		Preston	2-0	Sheffield United
+	15.00		Sheffield Weds	0-0	Grimsby
+	15.00		Stoke	2-1	Wimbledon
+	15.00		Walsall	0-0	Norwich
+	15.00		Wolves	3-0	Millwall
+[1903-04-21]
+	15.00		Brighton	1-1	Sheffield Weds
+	15.00		Coventry	0-1	Stoke
+
+Matchday 44
+
+[1903-04-21]
+	15.00		Gillingham	1-0	Bradford
+	15.00		Grimsby	0-1	Walsall
+	15.00		Millwall	3-2	Crystal Palace
+	15.00		Norwich	0-3	Wolves
+	15.00		Nott'm Forest	2-0	Burnley
+	15.00		Portsmouth	3-0	Reading
+	15.00		Rotherham	2-1	Ipswich
+	15.00		Sheffield United	2-1	Leicester
+	15.00		Watford	2-0	Derby
+	15.00		Wimbledon	2-0	Preston
+[1903-04-26]
+	15.00		Brighton	4-0	Watford
+	15.00		Burnley	2-7	Sheffield Weds
+
+Matchday 45
+
+[1903-04-26]
+	15.00		Coventry	0-0	Gillingham
+	15.00		Crystal Palace	1-0	Stoke
+	15.00		Ipswich	1-5	Wimbledon
+	15.00		Nott'm Forest	3-3	Millwall
+	15.00		Preston	1-0	Bradford
+	15.00		Reading	2-1	Grimsby
+	15.00		Sheffield United	3-3	Wolves
+	15.00		Walsall	3-2	Derby
+[1903-04-27]
+	15.00		Leicester	1-1	Norwich
+	15.00		Portsmouth	3-2	Rotherham
+[1903-04-29]
+	15.00		Sheffield United	3-0	Bradford
+[1903-04-30]
+	15.00		Watford	0-3	Reading
+
+Matchday 46
+
+[1903-05-04]
+	15.00		Bradford	0-5	Portsmouth
+	15.00		Derby	1-4	Ipswich
+	15.00		Gillingham	2-1	Crystal Palace
+	15.00		Grimsby	2-2	Brighton
+	15.00		Millwall	2-0	Coventry
+	15.00		Norwich	2-0	Preston
+	15.00		Rotherham	2-2	Nott'm Forest
+	15.00		Sheffield Weds	2-1	Walsall
+	15.00		Stoke	1-0	Reading
+	15.00		Watford	2-0	Sheffield United
+	15.00		Wimbledon	2-1	Burnley
+	15.00		Wolves	1-1	Leicester
+

@@ -1,0 +1,36 @@
+############################
+# Premier League 1999-2000
+
+league: en
+season: 1999/00
+start_at: 1900-01-03
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Blackburn
+- Bolton
+- Charlton
+- Crewe
+- Crystal Palace
+- Fulham
+- Grimsby
+- Huddersfield
+- Ipswich
+- Man City
+- Norwich
+- Nott'm Forest
+- Port Vale
+- Portsmouth
+- QPR
+- Sheffield United
+- Stockport
+- Swindon
+- Tranmere
+- Walsall
+- West Brom
+- Wolves
+

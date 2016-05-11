@@ -1,0 +1,806 @@
+############################
+# Premier League 2005-2006
+
+Matchday 1
+
+[1905-08-06]
+	15.00		Barnsley	2-0	Swindon
+	15.00		Blackpool	1-3	Chesterfield
+	15.00		Brentford	2-0	Scunthorpe
+	15.00		Bristol City	0-0	Doncaster
+	15.00		Gillingham	2-1	Colchester
+	15.00		Hartlepool	0-2	Bradford
+	15.00		Milton Keynes Dons	2-2	Bournemouth
+	15.00		Nott'm Forest	2-1	Huddersfield
+	15.00		Oldham	2-0	Yeovil
+	15.00		Rotherham	1-2	Walsall
+	15.00		Southend	1-2	Port Vale
+	15.00		Swansea	1-0	Tranmere
+
+Matchday 2
+
+[1905-08-09]
+	15.00		Bournemouth	1-1	Hartlepool
+	15.00		Bradford	0-2	Southend
+	15.00		Colchester	1-2	Swansea
+	15.00		Doncaster	1-1	Milton Keynes Dons
+	15.00		Huddersfield	1-0	Bristol City
+	15.00		Port Vale	0-0	Gillingham
+	15.00		Scunthorpe	2-1	Barnsley
+	15.00		Swindon	2-3	Oldham
+	15.00		Tranmere	2-2	Blackpool
+	15.00		Walsall	3-2	Nott'm Forest
+	15.00		Yeovil	0-0	Rotherham
+[1905-08-10]
+	15.00		Chesterfield	1-3	Brentford
+
+Matchday 3
+
+[1905-08-12]
+	15.00		Tranmere	4-0	Oldham
+[1905-08-13]
+	15.00		Bournemouth	2-0	Bristol City
+	15.00		Bradford	2-0	Milton Keynes Dons
+	15.00		Chesterfield	0-1	Rotherham
+	15.00		Colchester	1-0	Barnsley
+	15.00		Doncaster	0-1	Hartlepool
+	15.00		Huddersfield	3-1	Swansea
+	15.00		Scunthorpe	1-1	Gillingham
+	15.00		Swindon	2-1	Nott'm Forest
+	15.00		Walsall	2-2	Southend
+	15.00		Yeovil	1-1	Blackpool
+[1905-08-15]
+	15.00		Port Vale	1-0	Brentford
+
+Matchday 4
+
+[1905-08-20]
+	15.00		Barnsley	1-0	Yeovil
+	15.00		Blackpool	0-0	Swindon
+	15.00		Brentford	2-0	Tranmere
+	15.00		Bristol City	4-2	Port Vale
+	15.00		Gillingham	1-0	Bournemouth
+	15.00		Hartlepool	1-1	Walsall
+	15.00		Milton Keynes Dons	1-1	Colchester
+	15.00		Nott'm Forest	0-1	Scunthorpe
+	15.00		Oldham	4-1	Chesterfield
+	15.00		Rotherham	1-1	Bradford
+	15.00		Southend	1-1	Huddersfield
+	15.00		Swansea	1-2	Doncaster
+
+Matchday 5
+
+[1905-08-26]
+	15.00		Scunthorpe	1-0	Southend
+[1905-08-27]
+	15.00		Barnsley	1-1	Brentford
+	15.00		Bradford	1-2	Bournemouth
+	15.00		Bristol City	2-2	Milton Keynes Dons
+	15.00		Chesterfield	0-2	Tranmere
+	15.00		Colchester	0-0	Oldham
+	15.00		Gillingham	1-3	Nott'm Forest
+	15.00		Huddersfield	2-1	Hartlepool
+	15.00		Port Vale	2-0	Doncaster
+	15.00		Rotherham	4-0	Blackpool
+	15.00		Swindon	4-2	Yeovil
+	15.00		Walsall	2-5	Swansea
+
+Matchday 6
+
+[1905-08-29]
+	15.00		Blackpool	1-0	Bradford
+	15.00		Bournemouth	0-0	Walsall
+	15.00		Brentford	1-1	Gillingham
+	15.00		Doncaster	1-2	Huddersfield
+	15.00		Hartlepool	3-3	Scunthorpe
+	15.00		Milton Keynes Dons	0-0	Port Vale
+	15.00		Oldham	0-1	Rotherham
+	15.00		Southend	3-1	Colchester
+	15.00		Swansea	3-1	Barnsley
+	15.00		Tranmere	1-0	Swindon
+	15.00		Yeovil	1-3	Chesterfield
+[1905-09-02]
+	15.00		Bournemouth	0-0	Tranmere
+
+Matchday 7
+
+[1905-09-02]
+	15.00		Bradford	2-0	Chesterfield
+	15.00		Doncaster	0-1	Blackpool
+	15.00		Huddersfield	1-4	Scunthorpe
+[1905-09-03]
+	15.00		Bristol City	0-0	Colchester
+	15.00		Hartlepool	0-1	Yeovil
+	15.00		Nott'm Forest	1-2	Brentford
+	15.00		Port Vale	2-0	Rotherham
+	15.00		Walsall	1-0	Swindon
+[1905-09-04]
+	15.00		Southend	2-1	Oldham
+[1905-09-09]
+	15.00		Tranmere	2-2	Bradford
+[1905-09-10]
+	15.00		Barnsley	2-0	Nott'm Forest
+	15.00		Blackpool	1-2	Hartlepool
+
+Matchday 8
+
+[1905-09-10]
+	15.00		Brentford	1-0	Milton Keynes Dons
+	15.00		Chesterfield	3-0	Bournemouth
+	15.00		Colchester	3-2	Doncaster
+	15.00		Oldham	0-3	Huddersfield
+	15.00		Rotherham	3-0	Gillingham
+	15.00		Scunthorpe	2-0	Port Vale
+	15.00		Swansea	7-1	Bristol City
+	15.00		Swindon	1-2	Southend
+	15.00		Yeovil	2-1	Walsall
+[1905-09-13]
+	15.00		Gillingham	0-3	Barnsley
+	15.00		Milton Keynes Dons	1-3	Swansea
+[1905-09-17]
+	15.00		Bournemouth	2-1	Swindon
+
+Matchday 9
+
+[1905-09-17]
+	15.00		Bradford	1-1	Yeovil
+	15.00		Bristol City	1-1	Blackpool
+	15.00		Doncaster	3-1	Scunthorpe
+	15.00		Gillingham	0-1	Oldham
+	15.00		Hartlepool	2-2	Swansea
+	15.00		Huddersfield	3-2	Brentford
+	15.00		Milton Keynes Dons	0-0	Barnsley
+	15.00		Nott'm Forest	2-0	Rotherham
+	15.00		Port Vale	0-1	Colchester
+	15.00		Southend	3-1	Tranmere
+	15.00		Walsall	2-3	Chesterfield
+[1905-09-20]
+	15.00		Nott'm Forest	3-1	Bristol City
+
+Matchday 10
+
+[1905-09-24]
+	15.00		Barnsley	0-2	Doncaster
+	15.00		Blackpool	3-2	Milton Keynes Dons
+	15.00		Brentford	2-3	Bristol City
+	15.00		Chesterfield	3-1	Hartlepool
+	15.00		Colchester	1-1	Huddersfield
+	15.00		Oldham	1-0	Bournemouth
+	15.00		Rotherham	2-4	Southend
+	15.00		Scunthorpe	1-3	Walsall
+	15.00		Swansea	1-1	Nott'm Forest
+	15.00		Swindon	2-3	Bradford
+	15.00		Tranmere	2-2	Gillingham
+	15.00		Yeovil	1-0	Port Vale
+
+Matchday 11
+
+[1905-09-27]
+	15.00		Bournemouth	0-1	Swansea
+	15.00		Bradford	1-1	Colchester
+	15.00		Bristol City	3-0	Barnsley
+	15.00		Doncaster	1-0	Swindon
+	15.00		Gillingham	1-0	Chesterfield
+	15.00		Hartlepool	0-0	Rotherham
+	15.00		Huddersfield	1-0	Tranmere
+	15.00		Milton Keynes Dons	1-0	Scunthorpe
+	15.00		Nott'm Forest	1-1	Blackpool
+	15.00		Southend	4-1	Yeovil
+	15.00		Walsall	0-0	Brentford
+[1905-09-28]
+	15.00		Port Vale	2-2	Oldham
+
+Matchday 12
+
+[1905-10-01]
+	15.00		Barnsley	4-0	Oldham
+	15.00		Brentford	2-1	Rotherham
+	15.00		Bristol City	0-1	Hartlepool
+	15.00		Colchester	1-2	Chesterfield
+	15.00		Doncaster	2-2	Bradford
+	15.00		Gillingham	1-2	Southend
+	15.00		Huddersfield	2-2	Bournemouth
+	15.00		Milton Keynes Dons	3-1	Swindon
+	15.00		Nott'm Forest	1-0	Tranmere
+	15.00		Port Vale	3-2	Walsall
+	15.00		Scunthorpe	3-4	Yeovil
+	15.00		Swansea	3-2	Blackpool
+
+Matchday 13
+
+[1905-10-07]
+	15.00		Bournemouth	2-1	Doncaster
+	15.00		Tranmere	0-2	Scunthorpe
+[1905-10-08]
+	15.00		Swindon	1-2	Port Vale
+	15.00		Walsall	1-1	Milton Keynes Dons
+	15.00		Yeovil	1-0	Swansea
+[1905-10-09]
+	15.00		Blackpool	1-2	Colchester
+	15.00		Oldham	0-1	Brentford
+	15.00		Southend	1-0	Nott'm Forest
+[1905-10-10]
+	15.00		Bradford	1-2	Huddersfield
+[1905-10-15]
+	15.00		Barnsley	2-2	Blackpool
+	15.00		Brentford	0-0	Swindon
+	15.00		Bristol City	1-0	Tranmere
+
+Matchday 14
+
+[1905-10-15]
+	15.00		Colchester	0-1	Bournemouth
+	15.00		Doncaster	2-0	Southend
+	15.00		Gillingham	0-0	Yeovil
+	15.00		Huddersfield	3-1	Walsall
+	15.00		Milton Keynes Dons	0-0	Chesterfield
+	15.00		Nott'm Forest	2-0	Hartlepool
+	15.00		Port Vale	0-1	Bradford
+	15.00		Scunthorpe	2-2	Rotherham
+	15.00		Swansea	0-0	Oldham
+[1905-10-22]
+	15.00		Blackpool	0-0	Brentford
+	15.00		Bournemouth	1-2	Port Vale
+	15.00		Bradford	1-0	Gillingham
+
+Matchday 15
+
+[1905-10-22]
+	15.00		Chesterfield	4-3	Huddersfield
+	15.00		Hartlepool	2-1	Milton Keynes Dons
+	15.00		Oldham	4-3	Bristol City
+	15.00		Rotherham	2-2	Swansea
+	15.00		Southend	1-1	Barnsley
+	15.00		Swindon	1-1	Scunthorpe
+	15.00		Tranmere	0-0	Colchester
+	15.00		Walsall	1-0	Doncaster
+	15.00		Yeovil	3-0	Nott'm Forest
+[1905-10-25]
+	15.00		Rotherham	0-1	Barnsley
+[1905-10-26]
+	15.00		Chesterfield	3-0	Bristol City
+[1905-10-29]
+	15.00		Barnsley	2-1	Walsall
+
+Matchday 16
+
+[1905-10-29]
+	15.00		Brentford	0-2	Bournemouth
+	15.00		Bristol City	0-3	Southend
+	15.00		Colchester	3-2	Yeovil
+	15.00		Doncaster	0-2	Tranmere
+	15.00		Gillingham	2-1	Blackpool
+	15.00		Huddersfield	1-1	Swindon
+	15.00		Milton Keynes Dons	1-1	Rotherham
+	15.00		Nott'm Forest	1-0	Bradford
+	15.00		Port Vale	1-2	Hartlepool
+	15.00		Scunthorpe	4-2	Oldham
+	15.00		Swansea	5-1	Chesterfield
+[1905-11-01]
+	15.00		Hartlepool	3-1	Gillingham
+
+Matchday 17
+
+[1905-11-11]
+	15.00		Swindon	2-1	Bristol City
+[1905-11-12]
+	15.00		Bournemouth	1-1	Nott'm Forest
+	15.00		Bradford	0-0	Barnsley
+	15.00		Chesterfield	2-0	Port Vale
+	15.00		Hartlepool	1-2	Brentford
+	15.00		Rotherham	1-2	Colchester
+	15.00		Southend	1-2	Swansea
+	15.00		Tranmere	1-2	Milton Keynes Dons
+	15.00		Walsall	2-0	Gillingham
+	15.00		Yeovil	1-2	Huddersfield
+[1905-11-13]
+	15.00		Blackpool	5-2	Scunthorpe
+	15.00		Oldham	0-1	Doncaster
+
+Matchday 18
+
+[1905-11-18]
+	15.00		Swansea	2-0	Yeovil
+[1905-11-19]
+	15.00		Barnsley	1-1	Rotherham
+	15.00		Brentford	3-3	Oldham
+	15.00		Bristol City	2-4	Chesterfield
+	15.00		Colchester	3-2	Blackpool
+	15.00		Doncaster	4-2	Bournemouth
+	15.00		Gillingham	1-0	Hartlepool
+	15.00		Huddersfield	0-0	Bradford
+	15.00		Milton Keynes Dons	2-1	Walsall
+	15.00		Nott'm Forest	2-0	Southend
+	15.00		Port Vale	1-1	Swindon
+	15.00		Scunthorpe	1-2	Tranmere
+
+Matchday 19
+
+[1905-11-26]
+	15.00		Bournemouth	2-0	Milton Keynes Dons
+	15.00		Bradford	0-1	Hartlepool
+	15.00		Chesterfield	1-1	Blackpool
+	15.00		Colchester	5-0	Gillingham
+	15.00		Doncaster	2-0	Bristol City
+	15.00		Huddersfield	2-1	Nott'm Forest
+	15.00		Port Vale	2-1	Southend
+	15.00		Scunthorpe	1-3	Brentford
+	15.00		Swindon	0-3	Barnsley
+	15.00		Tranmere	2-2	Swansea
+	15.00		Walsall	3-1	Rotherham
+	15.00		Yeovil	0-2	Oldham
+
+Matchday 20
+
+[1905-12-03]
+	15.00		Rotherham	0-1	Swindon
+[1905-12-06]
+	15.00		Barnsley	2-1	Tranmere
+	15.00		Blackpool	1-3	Bournemouth
+	15.00		Brentford	3-2	Yeovil
+	15.00		Bristol City	0-1	Bradford
+	15.00		Gillingham	1-0	Doncaster
+	15.00		Hartlepool	0-1	Colchester
+	15.00		Milton Keynes Dons	2-2	Huddersfield
+	15.00		Nott'm Forest	1-0	Port Vale
+	15.00		Oldham	2-1	Walsall
+	15.00		Southend	0-0	Chesterfield
+	15.00		Swansea	2-0	Scunthorpe
+
+Matchday 21
+
+[1905-12-10]
+	15.00		Barnsley	5-2	Scunthorpe
+	15.00		Blackpool	1-1	Tranmere
+	15.00		Brentford	1-1	Chesterfield
+	15.00		Bristol City	2-0	Huddersfield
+	15.00		Gillingham	3-0	Port Vale
+	15.00		Hartlepool	2-1	Bournemouth
+	15.00		Milton Keynes Dons	2-3	Doncaster
+	15.00		Nott'm Forest	1-1	Walsall
+	15.00		Oldham	2-2	Swindon
+	15.00		Rotherham	1-2	Yeovil
+	15.00		Southend	1-1	Bradford
+	15.00		Swansea	1-1	Colchester
+
+Matchday 22
+
+[1905-12-16]
+	15.00		Scunthorpe	3-1	Nott'm Forest
+[1905-12-17]
+	15.00		Bournemouth	2-1	Gillingham
+	15.00		Bradford	1-2	Rotherham
+	15.00		Chesterfield	1-1	Oldham
+	15.00		Colchester	2-0	Milton Keynes Dons
+	15.00		Doncaster	2-1	Swansea
+	15.00		Huddersfield	0-0	Southend
+	15.00		Port Vale	0-1	Bristol City
+	15.00		Swindon	0-0	Blackpool
+	15.00		Tranmere	1-4	Brentford
+	15.00		Walsall	1-0	Hartlepool
+	15.00		Yeovil	2-1	Barnsley
+
+Matchday 23
+
+[1905-12-23]
+	15.00		Yeovil	1-1	Bournemouth
+[1905-12-26]
+	15.00		Barnsley	1-1	Hartlepool
+	15.00		Brentford	2-1	Swansea
+	15.00		Gillingham	1-1	Bristol City
+	15.00		Nott'm Forest	4-0	Doncaster
+	15.00		Oldham	2-1	Bradford
+	15.00		Port Vale	1-2	Blackpool
+	15.00		Rotherham	1-1	Huddersfield
+	15.00		Scunthorpe	2-2	Chesterfield
+	15.00		Southend	0-0	Milton Keynes Dons
+	15.00		Swindon	1-0	Colchester
+	15.00		Walsall	0-0	Tranmere
+
+Matchday 24
+
+[1905-12-28]
+	15.00		Bradford	2-0	Walsall
+	15.00		Bristol City	3-1	Rotherham
+	15.00		Chesterfield	1-1	Swindon
+	15.00		Hartlepool	1-2	Southend
+	15.00		Huddersfield	0-3	Port Vale
+	15.00		Tranmere	4-1	Yeovil
+[1905-12-31]
+	15.00		Barnsley	2-2	Huddersfield
+	15.00		Brentford	0-2	Colchester
+	15.00		Gillingham	3-0	Milton Keynes Dons
+	15.00		Nott'm Forest	0-0	Chesterfield
+	15.00		Oldham	2-1	Hartlepool
+	15.00		Port Vale	0-2	Tranmere
+
+Matchday 25
+
+[1905-12-31]
+	15.00		Rotherham	1-0	Doncaster
+	15.00		Scunthorpe	0-0	Bradford
+	15.00		Southend	2-1	Bournemouth
+	15.00		Swindon	0-0	Swansea
+	15.00		Walsall	2-0	Blackpool
+	15.00		Yeovil	1-1	Bristol City
+[1906-01-02]
+	15.00		Blackpool	1-2	Southend
+	15.00		Bournemouth	1-1	Scunthorpe
+	15.00		Bradford	3-3	Brentford
+	15.00		Bristol City	3-0	Walsall
+	15.00		Chesterfield	0-0	Barnsley
+	15.00		Colchester	3-1	Nott'm Forest
+
+Matchday 26
+
+[1906-01-02]
+	15.00		Doncaster	0-1	Yeovil
+	15.00		Hartlepool	1-1	Swindon
+	15.00		Huddersfield	0-0	Gillingham
+	15.00		Milton Keynes Dons	0-1	Oldham
+	15.00		Swansea	0-0	Port Vale
+	15.00		Tranmere	3-2	Rotherham
+[1906-01-07]
+	15.00		Chesterfield	1-0	Bradford
+	15.00		Oldham	0-0	Southend
+	15.00		Tranmere	0-0	Bournemouth
+	15.00		Yeovil	2-0	Hartlepool
+[1906-01-10]
+	15.00		Barnsley	1-0	Gillingham
+	15.00		Blackpool	1-0	Oldham
+
+Matchday 27
+
+[1906-01-10]
+	15.00		Rotherham	1-1	Port Vale
+	15.00		Scunthorpe	2-2	Huddersfield
+	15.00		Swansea	3-1	Milton Keynes Dons
+[1906-01-14]
+	15.00		Bournemouth	2-0	Rotherham
+	15.00		Bradford	1-1	Swansea
+	15.00		Bristol City	1-1	Scunthorpe
+	15.00		Doncaster	1-1	Chesterfield
+	15.00		Gillingham	3-0	Swindon
+	15.00		Hartlepool	0-0	Tranmere
+	15.00		Huddersfield	2-0	Blackpool
+	15.00		Milton Keynes Dons	1-1	Yeovil
+	15.00		Nott'm Forest	3-0	Oldham
+
+Matchday 28
+
+[1906-01-14]
+	15.00		Port Vale	3-2	Barnsley
+	15.00		Southend	4-1	Brentford
+	15.00		Walsall	0-2	Colchester
+[1906-01-17]
+	15.00		Brentford	1-1	Nott'm Forest
+	15.00		Colchester	3-2	Bristol City
+[1906-01-21]
+	15.00		Barnsley	2-0	Milton Keynes Dons
+	15.00		Blackpool	1-1	Bristol City
+	15.00		Brentford	2-0	Huddersfield
+	15.00		Chesterfield	2-2	Walsall
+	15.00		Colchester	2-1	Port Vale
+	15.00		Oldham	2-0	Gillingham
+	15.00		Rotherham	1-1	Nott'm Forest
+
+Matchday 29
+
+[1906-01-21]
+	15.00		Scunthorpe	1-2	Doncaster
+	15.00		Swansea	1-1	Hartlepool
+	15.00		Swindon	4-2	Bournemouth
+	15.00		Tranmere	0-0	Southend
+	15.00		Yeovil	0-1	Bradford
+[1906-01-24]
+	15.00		Blackpool	4-2	Doncaster
+[1906-01-27]
+	15.00		Nott'm Forest	0-2	Barnsley
+	15.00		Southend	2-0	Swindon
+[1906-01-28]
+	15.00		Bournemouth	1-2	Chesterfield
+	15.00		Bradford	0-0	Tranmere
+	15.00		Bristol City	1-0	Swansea
+	15.00		Gillingham	1-1	Rotherham
+
+Matchday 30
+
+[1906-01-28]
+	15.00		Hartlepool	0-3	Blackpool
+	15.00		Huddersfield	3-2	Oldham
+[1906-01-31]
+	15.00		Milton Keynes Dons	1-0	Nott'm Forest
+	15.00		Swansea	1-2	Gillingham
+	15.00		Swindon	1-0	Walsall
+[1906-02-03]
+	15.00		Swansea	1-0	Bournemouth
+	15.00		Tranmere	2-1	Huddersfield
+[1906-02-04]
+	15.00		Barnsley	2-0	Bristol City
+	15.00		Blackpool	2-2	Nott'm Forest
+	15.00		Brentford	5-0	Walsall
+	15.00		Chesterfield	1-1	Gillingham
+	15.00		Colchester	3-1	Bradford
+
+Matchday 31
+
+[1906-02-04]
+	15.00		Oldham	0-1	Port Vale
+	15.00		Rotherham	0-0	Hartlepool
+	15.00		Scunthorpe	2-0	Milton Keynes Dons
+	15.00		Swindon	2-1	Doncaster
+	15.00		Yeovil	0-2	Southend
+[1906-02-07]
+	15.00		Colchester	1-0	Scunthorpe
+[1906-02-10]
+	15.00		Hartlepool	1-0	Chesterfield
+	15.00		Southend	2-0	Rotherham
+[1906-02-11]
+	15.00		Bournemouth	0-0	Oldham
+	15.00		Bradford	1-1	Swindon
+	15.00		Bristol City	0-1	Brentford
+	15.00		Doncaster	2-0	Barnsley
+
+Matchday 32
+
+[1906-02-11]
+	15.00		Gillingham	1-1	Tranmere
+	15.00		Huddersfield	2-0	Colchester
+	15.00		Milton Keynes Dons	3-0	Blackpool
+	15.00		Nott'm Forest	1-2	Swansea
+	15.00		Port Vale	1-0	Yeovil
+	15.00		Walsall	2-2	Scunthorpe
+[1906-02-14]
+	15.00		Barnsley	1-1	Port Vale
+	15.00		Blackpool	0-1	Huddersfield
+	15.00		Brentford	2-0	Southend
+	15.00		Colchester	0-0	Walsall
+	15.00		Rotherham	2-0	Bournemouth
+	15.00		Scunthorpe	0-2	Bristol City
+
+Matchday 33
+
+[1906-02-14]
+	15.00		Swansea	1-1	Bradford
+	15.00		Swindon	1-0	Gillingham
+	15.00		Tranmere	0-0	Hartlepool
+	15.00		Yeovil	1-1	Milton Keynes Dons
+[1906-02-15]
+	15.00		Chesterfield	0-1	Doncaster
+	15.00		Oldham	3-0	Nott'm Forest
+[1906-02-18]
+	15.00		Bournemouth	1-1	Blackpool
+	15.00		Bradford	1-1	Bristol City
+	15.00		Chesterfield	3-4	Southend
+	15.00		Doncaster	2-0	Gillingham
+	15.00		Huddersfield	5-0	Milton Keynes Dons
+	15.00		Port Vale	0-2	Nott'm Forest
+
+Matchday 34
+
+[1906-02-18]
+	15.00		Scunthorpe	2-2	Swansea
+	15.00		Swindon	2-3	Rotherham
+	15.00		Tranmere	0-1	Barnsley
+	15.00		Walsall	0-2	Oldham
+[1906-02-24]
+	15.00		Swansea	2-2	Huddersfield
+[1906-02-25]
+	15.00		Barnsley	1-0	Colchester
+	15.00		Blackpool	2-0	Yeovil
+	15.00		Brentford	0-1	Port Vale
+	15.00		Bristol City	3-1	Bournemouth
+	15.00		Gillingham	1-3	Scunthorpe
+	15.00		Hartlepool	1-1	Doncaster
+	15.00		Milton Keynes Dons	2-1	Bradford
+
+Matchday 35
+
+[1906-02-25]
+	15.00		Nott'm Forest	7-1	Swindon
+	15.00		Oldham	1-0	Tranmere
+	15.00		Rotherham	0-4	Chesterfield
+	15.00		Southend	0-0	Walsall
+[1906-02-28]
+	15.00		Bournemouth	1-1	Barnsley
+	15.00		Doncaster	0-0	Brentford
+	15.00		Port Vale	1-2	Scunthorpe
+[1906-03-04]
+	15.00		Barnsley	2-2	Swansea
+	15.00		Bristol City	1-1	Nott'm Forest
+	15.00		Chesterfield	0-3	Yeovil
+	15.00		Colchester	0-3	Southend
+	15.00		Huddersfield	2-2	Doncaster
+
+Matchday 36
+
+[1906-03-07]
+	15.00		Swindon	1-2	Tranmere
+	15.00		Yeovil	1-2	Brentford
+[1906-03-10]
+	15.00		Hartlepool	3-1	Huddersfield
+	15.00		Milton Keynes Dons	0-1	Bristol City
+	15.00		Southend	3-0	Scunthorpe
+[1906-03-11]
+	15.00		Blackpool	0-0	Rotherham
+	15.00		Bournemouth	0-1	Bradford
+	15.00		Brentford	3-1	Barnsley
+	15.00		Doncaster	1-1	Port Vale
+	15.00		Nott'm Forest	1-1	Gillingham
+	15.00		Oldham	1-0	Colchester
+	15.00		Tranmere	4-1	Chesterfield
+
+Matchday 37
+
+[1906-03-11]
+	15.00		Yeovil	0-0	Swindon
+[1906-03-12]
+	15.00		Swansea	1-1	Walsall
+[1906-03-14]
+	15.00		Rotherham	2-0	Oldham
+	15.00		Scunthorpe	2-0	Hartlepool
+[1906-03-17]
+	15.00		Swansea	2-1	Brentford
+	15.00		Tranmere	1-2	Walsall
+[1906-03-18]
+	15.00		Blackpool	1-0	Port Vale
+	15.00		Bournemouth	1-0	Yeovil
+	15.00		Bradford	1-4	Oldham
+	15.00		Bristol City	6-0	Gillingham
+	15.00		Chesterfield	1-2	Scunthorpe
+	15.00		Colchester	1-0	Swindon
+
+Matchday 38
+
+[1906-03-18]
+	15.00		Doncaster	1-2	Nott'm Forest
+	15.00		Hartlepool	1-1	Barnsley
+	15.00		Huddersfield	4-1	Rotherham
+	15.00		Milton Keynes Dons	2-1	Southend
+[1906-03-21]
+	15.00		Bradford	1-0	Blackpool
+	15.00		Doncaster	0-0	Colchester
+	15.00		Gillingham	3-2	Brentford
+	15.00		Walsall	0-2	Yeovil
+[1906-03-25]
+	15.00		Barnsley	0-0	Bournemouth
+	15.00		Brentford	0-1	Doncaster
+	15.00		Gillingham	1-0	Swansea
+	15.00		Nott'm Forest	3-0	Milton Keynes Dons
+
+Matchday 39
+
+[1906-03-25]
+	15.00		Oldham	3-1	Blackpool
+	15.00		Port Vale	1-1	Huddersfield
+	15.00		Rotherham	3-1	Bristol City
+	15.00		Scunthorpe	0-0	Colchester
+	15.00		Southend	3-0	Hartlepool
+	15.00		Swindon	2-0	Chesterfield
+	15.00		Walsall	2-2	Bradford
+	15.00		Yeovil	2-2	Tranmere
+[1906-03-28]
+	15.00		Milton Keynes Dons	0-1	Brentford
+[1906-03-31]
+	15.00		Hartlepool	1-1	Oldham
+	15.00		Tranmere	3-0	Port Vale
+[1906-04-01]
+	15.00		Blackpool	2-0	Walsall
+
+Matchday 40
+
+[1906-04-01]
+	15.00		Bournemouth	1-1	Southend
+	15.00		Bradford	4-2	Scunthorpe
+	15.00		Bristol City	2-1	Yeovil
+	15.00		Chesterfield	1-3	Nott'm Forest
+	15.00		Colchester	1-1	Brentford
+	15.00		Doncaster	3-1	Rotherham
+	15.00		Huddersfield	1-0	Barnsley
+	15.00		Milton Keynes Dons	1-2	Gillingham
+[1906-04-04]
+	15.00		Port Vale	3-1	Milton Keynes Dons
+[1906-04-08]
+	15.00		Barnsley	1-1	Chesterfield
+	15.00		Brentford	1-1	Bradford
+	15.00		Gillingham	2-0	Huddersfield
+
+Matchday 41
+
+[1906-04-08]
+	15.00		Nott'm Forest	1-0	Colchester
+	15.00		Oldham	1-2	Milton Keynes Dons
+	15.00		Port Vale	3-2	Swansea
+	15.00		Rotherham	2-0	Tranmere
+	15.00		Scunthorpe	2-2	Bournemouth
+	15.00		Southend	2-1	Blackpool
+	15.00		Swindon	1-1	Hartlepool
+	15.00		Walsall	0-3	Bristol City
+	15.00		Yeovil	3-0	Doncaster
+[1906-04-11]
+	15.00		Colchester	2-0	Hartlepool
+	15.00		Swansea	2-1	Swindon
+	15.00		Walsall	0-1	Bournemouth
+
+Matchday 42
+
+[1906-04-14]
+	15.00		Southend	0-1	Gillingham
+	15.00		Yeovil	0-1	Scunthorpe
+[1906-04-15]
+	15.00		Blackpool	1-0	Swansea
+	15.00		Bournemouth	1-1	Huddersfield
+	15.00		Bradford	2-1	Doncaster
+	15.00		Chesterfield	2-2	Colchester
+	15.00		Hartlepool	1-2	Bristol City
+	15.00		Oldham	0-3	Barnsley
+	15.00		Rotherham	2-2	Brentford
+	15.00		Swindon	0-1	Milton Keynes Dons
+	15.00		Tranmere	0-1	Nott'm Forest
+	15.00		Walsall	1-1	Port Vale
+
+Matchday 43
+
+[1906-04-17]
+	15.00		Barnsley	2-2	Southend
+	15.00		Brentford	1-1	Blackpool
+	15.00		Bristol City	2-1	Oldham
+	15.00		Colchester	1-0	Tranmere
+	15.00		Doncaster	1-0	Walsall
+	15.00		Gillingham	2-1	Bradford
+	15.00		Milton Keynes Dons	2-1	Hartlepool
+	15.00		Nott'm Forest	2-1	Yeovil
+	15.00		Port Vale	0-0	Bournemouth
+	15.00		Scunthorpe	1-2	Swindon
+	15.00		Swansea	0-2	Rotherham
+[1906-04-18]
+	15.00		Huddersfield	1-2	Chesterfield
+
+Matchday 44
+
+[1906-04-22]
+	15.00		Blackpool	1-1	Barnsley
+	15.00		Bournemouth	1-2	Colchester
+	15.00		Bradford	1-0	Port Vale
+	15.00		Chesterfield	1-2	Milton Keynes Dons
+	15.00		Hartlepool	3-2	Nott'm Forest
+	15.00		Oldham	1-1	Swansea
+	15.00		Rotherham	1-1	Scunthorpe
+	15.00		Southend	0-1	Doncaster
+	15.00		Swindon	1-3	Brentford
+	15.00		Tranmere	0-3	Bristol City
+	15.00		Walsall	1-3	Huddersfield
+	15.00		Yeovil	4-3	Gillingham
+
+Matchday 45
+
+[1906-04-29]
+	15.00		Barnsley	0-0	Bradford
+	15.00		Brentford	1-1	Hartlepool
+	15.00		Bristol City	1-1	Swindon
+	15.00		Colchester	2-0	Rotherham
+	15.00		Doncaster	1-0	Oldham
+	15.00		Gillingham	0-1	Walsall
+	15.00		Huddersfield	1-2	Yeovil
+	15.00		Milton Keynes Dons	1-2	Tranmere
+	15.00		Nott'm Forest	1-1	Bournemouth
+	15.00		Port Vale	3-1	Chesterfield
+	15.00		Scunthorpe	1-0	Blackpool
+	15.00		Swansea	2-2	Southend
+
+Matchday 46
+
+[1906-05-06]
+	15.00		Blackpool	3-3	Gillingham
+	15.00		Bournemouth	2-2	Brentford
+	15.00		Bradford	1-1	Nott'm Forest
+	15.00		Chesterfield	0-4	Swansea
+	15.00		Hartlepool	1-1	Port Vale
+	15.00		Oldham	1-1	Scunthorpe
+	15.00		Rotherham	0-0	Milton Keynes Dons
+	15.00		Southend	1-0	Bristol City
+	15.00		Swindon	0-0	Huddersfield
+	15.00		Tranmere	0-2	Doncaster
+	15.00		Walsall	1-2	Barnsley
+	15.00		Yeovil	0-0	Colchester
+

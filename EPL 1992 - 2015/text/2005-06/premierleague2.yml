@@ -1,0 +1,36 @@
+############################
+# Premier League 2005-2006
+
+league: en
+season: 2005/06
+start_at: 1905-08-06
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Barnsley
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Bristol City
+- Chesterfield
+- Colchester
+- Doncaster
+- Gillingham
+- Hartlepool
+- Huddersfield
+- Milton Keynes Dons
+- Nott'm Forest
+- Oldham
+- Port Vale
+- Rotherham
+- Scunthorpe
+- Southend
+- Swansea
+- Swindon
+- Tranmere
+- Walsall
+- Yeovil
+

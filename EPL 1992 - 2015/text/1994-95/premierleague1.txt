@@ -1,0 +1,830 @@
+############################
+# Premier League 1994-1995
+
+Matchday 1
+
+[1994-08-13]
+	15.00		Barnsley	2-1	Derby
+	15.00		Bristol City	0-0	Sunderland
+	15.00		Grimsby	3-3	Bolton
+	15.00		Luton	1-1	West Brom
+	15.00		Middlesbrough	2-0	Burnley
+	15.00		Millwall	3-1	Southend
+	15.00		Oldham	5-2	Charlton
+	15.00		Portsmouth	2-1	Notts County
+	15.00		Sheffield United	3-0	Watford
+	15.00		Stoke	1-0	Tranmere
+	15.00		Wolves	1-0	Reading
+[1994-08-14]
+	15.00		Swindon	2-0	Port Vale
+
+Matchday 2
+
+[1994-08-20]
+	15.00		Bolton	0-2	Bristol City
+	15.00		Burnley	1-1	Stoke
+	15.00		Charlton	2-2	Barnsley
+	15.00		Derby	0-0	Luton
+	15.00		Port Vale	3-1	Oldham
+	15.00		Reading	0-0	Portsmouth
+	15.00		Southend	0-2	Middlesbrough
+	15.00		Sunderland	1-1	Millwall
+	15.00		Tranmere	3-2	Swindon
+	15.00		Watford	0-0	Grimsby
+[1994-08-21]
+	15.00		Notts County	1-1	Wolves
+[1994-08-27]
+	15.00		Barnsley	0-2	Reading
+
+Matchday 3
+
+[1994-08-27]
+	15.00		Bristol City	0-0	Port Vale
+	15.00		Grimsby	3-1	Tranmere
+	15.00		Luton	2-2	Southend
+	15.00		Middlesbrough	1-0	Bolton
+	15.00		Millwall	4-1	Derby
+	15.00		Oldham	3-0	Burnley
+	15.00		Portsmouth	1-1	Charlton
+	15.00		Sheffield United	1-3	Notts County
+	15.00		Stoke	0-1	Sunderland
+	15.00		Swindon	1-0	Watford
+[1994-08-28]
+	15.00		Wolves	2-0	West Brom
+[1994-08-30]
+	15.00		Bolton	1-0	Millwall
+
+Matchday 4
+
+[1994-08-30]
+	15.00		Burnley	1-1	Bristol City
+	15.00		Charlton	1-1	Sheffield United
+	15.00		Notts County	1-3	Oldham
+	15.00		Port Vale	2-1	Barnsley
+	15.00		Reading	4-0	Stoke
+	15.00		Southend	1-2	Portsmouth
+	15.00		Sunderland	2-2	Grimsby
+	15.00		Tranmere	4-2	Luton
+	15.00		Watford	2-1	Wolves
+[1994-08-31]
+	15.00		Derby	0-1	Middlesbrough
+	15.00		West Brom	0-0	Swindon
+[1994-09-03]
+	15.00		Bolton	4-0	Stoke
+
+Matchday 5
+
+[1994-09-03]
+	15.00		Burnley	0-1	Barnsley
+	15.00		Charlton	3-2	Bristol City
+	15.00		Derby	2-1	Grimsby
+	15.00		Notts County	0-1	Swindon
+	15.00		Port Vale	0-1	Luton
+	15.00		Reading	0-0	Millwall
+	15.00		Southend	1-0	Oldham
+	15.00		Sunderland	1-1	Wolves
+	15.00		Tranmere	2-1	Sheffield United
+	15.00		Watford	1-1	Middlesbrough
+[1994-09-10]
+	15.00		Barnsley	0-0	Watford
+	15.00		Bristol City	2-1	Notts County
+
+Matchday 6
+
+[1994-09-10]
+	15.00		Grimsby	0-1	Charlton
+	15.00		Luton	0-1	Burnley
+	15.00		Millwall	2-2	West Brom
+	15.00		Oldham	1-3	Reading
+	15.00		Portsmouth	0-2	Port Vale
+	15.00		Sheffield United	3-1	Bolton
+	15.00		Stoke	4-1	Southend
+	15.00		Wolves	2-0	Tranmere
+[1994-09-11]
+	15.00		Middlesbrough	2-2	Sunderland
+	15.00		Swindon	1-1	Derby
+[1994-09-13]
+	15.00		Barnsley	1-1	Notts County
+	15.00		Bristol City	0-2	Derby
+
+Matchday 7
+
+[1994-09-13]
+	15.00		Grimsby	4-1	Port Vale
+	15.00		Luton	0-3	Bolton
+	15.00		Oldham	0-2	Watford
+	15.00		Sheffield United	0-0	Sunderland
+	15.00		Wolves	5-0	Southend
+[1994-09-14]
+	15.00		Middlesbrough	2-1	West Brom
+	15.00		Millwall	2-3	Burnley
+	15.00		Portsmouth	1-1	Tranmere
+	15.00		Stoke	3-2	Charlton
+	15.00		Swindon	1-0	Reading
+[1994-09-17]
+	15.00		Bolton	1-1	Portsmouth
+	15.00		Burnley	0-1	Wolves
+
+Matchday 8
+
+[1994-09-17]
+	15.00		Charlton	1-0	Swindon
+	15.00		Derby	2-1	Oldham
+	15.00		Notts County	0-2	Stoke
+	15.00		Port Vale	2-1	Middlesbrough
+	15.00		Reading	1-0	Sheffield United
+	15.00		Southend	2-1	Bristol City
+	15.00		Sunderland	2-0	Barnsley
+	15.00		Tranmere	3-1	Millwall
+	15.00		Watford	2-4	Luton
+	15.00		West Brom	1-1	Grimsby
+[1994-09-24]
+	15.00		Bristol City	0-1	Middlesbrough
+	15.00		Millwall	0-0	Luton
+
+Matchday 9
+
+[1994-09-24]
+	15.00		Notts County	3-3	Charlton
+	15.00		Oldham	1-0	Barnsley
+	15.00		Port Vale	0-2	Sheffield United
+	15.00		Portsmouth	1-2	Wolves
+	15.00		Southend	2-1	Bolton
+	15.00		Swindon	3-2	Grimsby
+	15.00		Tranmere	1-0	Sunderland
+	15.00		Watford	2-2	Reading
+	15.00		West Brom	1-0	Burnley
+[1994-09-25]
+	15.00		Derby	3-0	Stoke
+[1994-09-28]
+	15.00		West Brom	0-2	Portsmouth
+[1994-10-01]
+	15.00		Barnsley	2-1	Swindon
+
+Matchday 10
+
+[1994-10-01]
+	15.00		Bolton	1-0	Derby
+	15.00		Burnley	1-1	Tranmere
+	15.00		Charlton	3-0	Watford
+	15.00		Grimsby	2-0	Portsmouth
+	15.00		Luton	0-1	Bristol City
+	15.00		Middlesbrough	3-0	Millwall
+	15.00		Reading	2-0	Notts County
+	15.00		Sheffield United	2-0	Oldham
+	15.00		Sunderland	0-1	Southend
+	15.00		Wolves	2-1	Port Vale
+[1994-10-02]
+	15.00		Stoke	4-1	West Brom
+[1994-10-08]
+	15.00		Barnsley	0-0	Southend
+
+Matchday 11
+
+[1994-10-08]
+	15.00		Bristol City	1-0	Millwall
+	15.00		Burnley	2-2	Bolton
+	15.00		Charlton	1-2	Reading
+	15.00		Derby	1-1	Watford
+	15.00		Grimsby	0-0	Sheffield United
+	15.00		Middlesbrough	0-1	Tranmere
+	15.00		Notts County	2-2	Port Vale
+	15.00		Oldham	3-2	Portsmouth
+	15.00		Swindon	3-2	Wolves
+	15.00		West Brom	1-3	Sunderland
+[1994-10-09]
+	15.00		Stoke	1-2	Luton
+[1994-10-15]
+	15.00		Luton	5-1	Middlesbrough
+
+Matchday 12
+
+[1994-10-15]
+	15.00		Millwall	1-1	Stoke
+	15.00		Port Vale	0-2	Charlton
+	15.00		Portsmouth	4-3	Swindon
+	15.00		Reading	1-0	Bristol City
+	15.00		Sunderland	0-0	Burnley
+	15.00		Tranmere	3-1	West Brom
+	15.00		Watford	3-1	Notts County
+	15.00		Wolves	2-1	Grimsby
+[1994-10-16]
+	15.00		Bolton	2-2	Oldham
+	15.00		Sheffield United	0-0	Barnsley
+	15.00		Southend	1-0	Derby
+[1994-10-18]
+	15.00		West Brom	1-0	Sheffield United
+
+Matchday 13
+
+[1994-10-22]
+	15.00		Barnsley	2-0	West Brom
+	15.00		Charlton	1-2	Burnley
+	15.00		Grimsby	1-0	Bristol City
+	15.00		Oldham	0-0	Stoke
+	15.00		Port Vale	1-1	Bolton
+	15.00		Reading	0-2	Sunderland
+	15.00		Sheffield United	1-3	Luton
+	15.00		Swindon	2-2	Southend
+	15.00		Watford	2-0	Tranmere
+	15.00		Wolves	3-3	Millwall
+[1994-10-23]
+	15.00		Notts County	0-0	Derby
+	15.00		Portsmouth	0-0	Middlesbrough
+
+Matchday 14
+
+[1994-10-29]
+	15.00		Bolton	3-0	Watford
+	15.00		Bristol City	1-1	Portsmouth
+	15.00		Burnley	2-1	Notts County
+	15.00		Derby	2-2	Charlton
+	15.00		Luton	0-1	Barnsley
+	15.00		Middlesbrough	3-1	Swindon
+	15.00		Millwall	2-1	Sheffield United
+	15.00		Southend	0-0	Grimsby
+	15.00		Sunderland	0-0	Oldham
+	15.00		Tranmere	1-1	Port Vale
+	15.00		West Brom	2-0	Reading
+[1994-10-30]
+	15.00		Stoke	1-1	Wolves
+
+Matchday 15
+
+[1994-11-01]
+	15.00		Bolton	3-0	Swindon
+	15.00		Bristol City	1-5	Wolves
+	15.00		Burnley	1-1	Watford
+	15.00		Luton	1-2	Grimsby
+	15.00		Middlesbrough	2-1	Oldham
+	15.00		Southend	1-0	Notts County
+	15.00		Sunderland	1-1	Charlton
+	15.00		Tranmere	6-1	Barnsley
+[1994-11-02]
+	15.00		Derby	1-2	Reading
+	15.00		Millwall	2-2	Portsmouth
+	15.00		Stoke	1-1	Sheffield United
+	15.00		West Brom	0-0	Port Vale
+
+Matchday 16
+
+[1994-11-05]
+	15.00		Barnsley	2-0	Stoke
+	15.00		Charlton	1-2	Bolton
+	15.00		Grimsby	2-1	Middlesbrough
+	15.00		Notts County	3-2	Sunderland
+	15.00		Port Vale	5-0	Southend
+	15.00		Reading	0-0	Burnley
+	15.00		Sheffield United	3-0	Bristol City
+	15.00		Swindon	1-2	Millwall
+	15.00		Watford	1-0	West Brom
+	15.00		Wolves	2-3	Luton
+[1994-11-06]
+	15.00		Oldham	0-0	Tranmere
+	15.00		Portsmouth	0-1	Derby
+
+Matchday 17
+
+[1994-11-12]
+	15.00		Grimsby	1-0	Millwall
+	15.00		Oldham	0-0	Luton
+	15.00		Sheffield United	2-1	Derby
+	15.00		Watford	1-0	Southend
+[1994-11-13]
+	15.00		Charlton	1-1	West Brom
+[1994-11-19]
+	15.00		Bolton	2-0	Notts County
+	15.00		Derby	2-0	Port Vale
+	15.00		Luton	2-0	Portsmouth
+	15.00		Millwall	0-1	Barnsley
+	15.00		Southend	4-1	Reading
+	15.00		Stoke	3-0	Grimsby
+	15.00		Sunderland	1-3	Watford
+
+Matchday 18
+
+[1994-11-19]
+	15.00		Tranmere	1-1	Charlton
+	15.00		West Brom	3-1	Oldham
+[1994-11-20]
+	15.00		Bristol City	3-2	Swindon
+	15.00		Burnley	4-2	Sheffield United
+	15.00		Middlesbrough	1-0	Wolves
+[1994-11-23]
+	15.00		Swindon	1-1	Burnley
+	15.00		Wolves	3-1	Bolton
+[1994-11-26]
+	15.00		Barnsley	3-0	Bolton
+	15.00		Charlton	0-2	Middlesbrough
+	15.00		Grimsby	2-2	Burnley
+	15.00		Notts County	2-0	West Brom
+	15.00		Oldham	2-0	Bristol City
+
+Matchday 19
+
+[1994-11-26]
+	15.00		Port Vale	2-1	Millwall
+	15.00		Portsmouth	1-4	Sunderland
+	15.00		Reading	1-3	Tranmere
+	15.00		Sheffield United	2-0	Southend
+	15.00		Swindon	1-2	Luton
+	15.00		Watford	0-0	Stoke
+[1994-11-27]
+	15.00		Wolves	0-2	Derby
+[1994-12-03]
+	15.00		Bristol City	1-2	Grimsby
+	15.00		Derby	0-0	Notts County
+	15.00		Luton	3-6	Sheffield United
+	15.00		Middlesbrough	4-0	Portsmouth
+	15.00		Southend	2-0	Swindon
+
+Matchday 20
+
+[1994-12-03]
+	15.00		Sunderland	0-1	Reading
+	15.00		Tranmere	2-1	Watford
+	15.00		West Brom	2-1	Barnsley
+[1994-12-04]
+	15.00		Bolton	1-0	Port Vale
+	15.00		Millwall	1-0	Wolves
+	15.00		Stoke	0-1	Oldham
+[1994-12-07]
+	15.00		Barnsley	2-1	Bristol City
+	15.00		Notts County	1-0	Tranmere
+	15.00		Port Vale	0-0	Sunderland
+	15.00		Portsmouth	0-1	Stoke
+	15.00		Reading	1-1	Middlesbrough
+[1994-12-10]
+	15.00		Barnsley	2-1	Charlton
+
+Matchday 21
+
+[1994-12-10]
+	15.00		Bristol City	0-1	Bolton
+	15.00		Grimsby	0-0	Watford
+	15.00		Middlesbrough	1-2	Southend
+	15.00		Millwall	2-0	Sunderland
+	15.00		Oldham	3-2	Port Vale
+	15.00		Portsmouth	1-1	Reading
+	15.00		Sheffield United	2-0	West Brom
+	15.00		Stoke	2-0	Burnley
+	15.00		Swindon	2-2	Tranmere
+	15.00		Wolves	1-0	Notts County
+[1994-12-11]
+	15.00		Luton	0-0	Derby
+[1994-12-17]
+	15.00		Bolton	3-3	Grimsby
+
+Matchday 22
+
+[1994-12-17]
+	15.00		Charlton	2-0	Oldham
+	15.00		Derby	1-0	Barnsley
+	15.00		Notts County	0-1	Portsmouth
+	15.00		Port Vale	2-2	Swindon
+	15.00		Southend	0-1	Millwall
+	15.00		Sunderland	2-0	Bristol City
+	15.00		Tranmere	0-1	Stoke
+	15.00		Watford	0-0	Sheffield United
+[1994-12-18]
+	15.00		Burnley	0-3	Middlesbrough
+	15.00		Reading	4-2	Wolves
+	15.00		West Brom	1-0	Luton
+[1994-12-26]
+	15.00		Barnsley	4-1	Grimsby
+
+Matchday 23
+
+[1994-12-26]
+	15.00		Charlton	3-1	Southend
+	15.00		Notts County	0-1	Millwall
+	15.00		Oldham	4-1	Wolves
+	15.00		Reading	0-0	Luton
+	15.00		Sheffield United	1-1	Middlesbrough
+	15.00		Stoke	0-0	Swindon
+	15.00		Sunderland	1-1	Bolton
+	15.00		Tranmere	3-1	Derby
+	15.00		Watford	2-0	Portsmouth
+	15.00		West Brom	1-0	Bristol City
+[1994-12-27]
+	15.00		Bolton	1-0	Tranmere
+	15.00		Bristol City	3-1	Stoke
+
+Matchday 24
+
+[1994-12-27]
+	15.00		Luton	3-0	Sunderland
+	15.00		Millwall	2-1	Watford
+	15.00		Portsmouth	3-0	Barnsley
+	15.00		Southend	2-1	West Brom
+	15.00		Swindon	1-3	Sheffield United
+[1994-12-28]
+	15.00		Grimsby	1-3	Oldham
+	15.00		Middlesbrough	2-1	Notts County
+	15.00		Port Vale	0-2	Reading
+	15.00		Wolves	2-0	Charlton
+[1994-12-31]
+	15.00		Barnsley	1-3	Wolves
+	15.00		Burnley	5-1	Southend
+	15.00		Notts County	0-1	Luton
+
+Matchday 25
+
+[1994-12-31]
+	15.00		Oldham	1-1	Swindon
+	15.00		Reading	1-1	Grimsby
+	15.00		Sheffield United	3-1	Portsmouth
+	15.00		Stoke	1-1	Middlesbrough
+	15.00		Sunderland	1-1	Derby
+	15.00		Tranmere	2-0	Bristol City
+	15.00		Watford	3-2	Port Vale
+	15.00		West Brom	1-0	Bolton
+[1995-01-01]
+	15.00		Charlton	1-1	Millwall
+[1995-01-02]
+	15.00		Bolton	1-0	Reading
+	15.00		Bristol City	0-0	Watford
+	15.00		Derby	1-1	West Brom
+
+Matchday 26
+
+[1995-01-02]
+	15.00		Luton	0-1	Charlton
+	15.00		Portsmouth	2-0	Burnley
+	15.00		Southend	0-0	Tranmere
+	15.00		Wolves	2-2	Sheffield United
+[1995-01-03]
+	15.00		Millwall	1-1	Oldham
+[1995-01-14]
+	15.00		Barnsley	3-1	Luton
+	15.00		Charlton	3-4	Derby
+	15.00		Grimsby	4-1	Southend
+	15.00		Notts County	3-0	Burnley
+	15.00		Oldham	0-0	Sunderland
+	15.00		Portsmouth	0-0	Bristol City
+	15.00		Reading	0-2	West Brom
+
+Matchday 27
+
+[1995-01-14]
+	15.00		Sheffield United	1-1	Millwall
+	15.00		Watford	0-0	Bolton
+	15.00		Wolves	2-0	Stoke
+[1995-01-15]
+	15.00		Port Vale	2-0	Tranmere
+	15.00		Swindon	2-1	Middlesbrough
+[1995-01-21]
+	15.00		Bolton	5-1	Charlton
+	15.00		Bristol City	2-1	Sheffield United
+	15.00		Burnley	1-2	Reading
+	15.00		Middlesbrough	1-1	Grimsby
+	15.00		Sunderland	1-2	Notts County
+[1995-01-22]
+	15.00		Derby	3-0	Portsmouth
+	15.00		Tranmere	3-1	Oldham
+
+Matchday 28
+
+[1995-01-28]
+	15.00		Grimsby	2-1	Notts County
+	15.00		Southend	1-2	Port Vale
+	15.00		West Brom	0-1	Watford
+[1995-02-04]
+	15.00		Bolton	5-1	Wolves
+	15.00		Bristol City	3-2	Barnsley
+	15.00		Burnley	1-2	Swindon
+	15.00		Derby	2-3	Sheffield United
+	15.00		Luton	2-1	Oldham
+	15.00		Middlesbrough	0-1	Reading
+	15.00		Millwall	2-0	Grimsby
+	15.00		Southend	0-4	Watford
+	15.00		Stoke	0-2	Portsmouth
+
+Matchday 29
+
+[1995-02-04]
+	15.00		Sunderland	1-1	Port Vale
+	15.00		Tranmere	3-2	Notts County
+[1995-02-05]
+	15.00		West Brom	0-1	Charlton
+[1995-02-08]
+	15.00		Notts County	1-1	Bolton
+[1995-02-11]
+	15.00		Barnsley	2-2	Tranmere
+	15.00		Charlton	1-0	Sunderland
+	15.00		Grimsby	5-0	Luton
+	15.00		Notts County	2-2	Southend
+	15.00		Port Vale	1-0	West Brom
+	15.00		Reading	1-0	Derby
+	15.00		Sheffield United	1-1	Stoke
+	15.00		Watford	2-0	Burnley
+
+Matchday 30
+
+[1995-02-11]
+	15.00		Wolves	2-0	Bristol City
+[1995-02-15]
+	15.00		Swindon	0-3	Bristol City
+[1995-02-18]
+	15.00		Bolton	2-1	Barnsley
+	15.00		Bristol City	2-2	Oldham
+	15.00		Burnley	0-2	Grimsby
+	15.00		Luton	3-0	Swindon
+	15.00		Middlesbrough	1-0	Charlton
+	15.00		Southend	1-3	Sheffield United
+	15.00		Sunderland	2-2	Portsmouth
+	15.00		Tranmere	1-0	Reading
+	15.00		West Brom	3-2	Notts County
+[1995-02-21]
+	15.00		Barnsley	4-1	Millwall
+
+Matchday 31
+
+[1995-02-21]
+	15.00		Charlton	0-1	Tranmere
+	15.00		Grimsby	0-0	Stoke
+	15.00		Oldham	1-0	West Brom
+	15.00		Port Vale	1-0	Derby
+	15.00		Portsmouth	3-2	Luton
+	15.00		Reading	2-0	Southend
+	15.00		Sheffield United	2-0	Burnley
+	15.00		Watford	0-1	Sunderland
+	15.00		Wolves	0-2	Middlesbrough
+[1995-02-25]
+	15.00		Bristol City	2-2	Luton
+	15.00		Notts County	1-0	Reading
+	15.00		Oldham	3-3	Sheffield United
+
+Matchday 32
+
+[1995-02-25]
+	15.00		Port Vale	2-4	Wolves
+	15.00		Portsmouth	2-1	Grimsby
+	15.00		Southend	0-1	Sunderland
+	15.00		Swindon	0-0	Barnsley
+	15.00		Tranmere	4-1	Burnley
+	15.00		West Brom	1-3	Stoke
+[1995-02-26]
+	15.00		Derby	2-1	Bolton
+	15.00		Millwall	0-0	Middlesbrough
+[1995-03-01]
+	15.00		Millwall	3-1	Swindon
+[1995-03-04]
+	15.00		Bolton	3-0	Southend
+	15.00		Burnley	1-1	West Brom
+	15.00		Charlton	1-0	Notts County
+
+Matchday 33
+
+[1995-03-04]
+	15.00		Grimsby	1-1	Swindon
+	15.00		Luton	1-1	Millwall
+	15.00		Middlesbrough	3-0	Bristol City
+	15.00		Reading	4-1	Watford
+	15.00		Sheffield United	1-1	Port Vale
+	15.00		Stoke	0-0	Derby
+[1995-03-05]
+	15.00		Sunderland	0-1	Tranmere
+	15.00		Wolves	1-0	Portsmouth
+[1995-03-07]
+	15.00		Barnsley	2-0	Burnley
+	15.00		Bristol City	2-1	Charlton
+	15.00		Grimsby	0-1	Derby
+	15.00		Luton	2-1	Port Vale
+
+Matchday 34
+
+[1995-03-07]
+	15.00		Middlesbrough	2-0	Watford
+	15.00		Oldham	0-2	Southend
+	15.00		Sheffield United	2-0	Tranmere
+[1995-03-08]
+	15.00		Millwall	2-0	Reading
+	15.00		Portsmouth	1-2	West Brom
+	15.00		Wolves	1-0	Sunderland
+[1995-03-11]
+	15.00		Bolton	1-0	Middlesbrough
+	15.00		Burnley	2-1	Oldham
+	15.00		Charlton	1-0	Portsmouth
+	15.00		Derby	3-2	Millwall
+	15.00		Notts County	2-1	Sheffield United
+	15.00		Port Vale	2-1	Bristol City
+
+Matchday 35
+
+[1995-03-11]
+	15.00		Reading	0-3	Barnsley
+	15.00		Southend	3-0	Luton
+	15.00		Sunderland	1-0	Stoke
+	15.00		Tranmere	2-0	Grimsby
+	15.00		Watford	2-0	Swindon
+[1995-03-15]
+	15.00		Derby	4-0	Burnley
+	15.00		Portsmouth	3-2	Millwall
+	15.00		Swindon	1-0	Sunderland
+	15.00		West Brom	2-0	Wolves
+[1995-03-16]
+	15.00		Middlesbrough	1-1	Barnsley
+	15.00		Oldham	1-1	Notts County
+	15.00		Port Vale	1-1	Stoke
+
+Matchday 36
+
+[1995-03-18]
+	15.00		Barnsley	3-1	Port Vale
+	15.00		Bristol City	1-1	Burnley
+	15.00		Luton	2-0	Tranmere
+	15.00		Middlesbrough	2-4	Derby
+	15.00		Portsmouth	1-1	Southend
+	15.00		Sheffield United	2-1	Charlton
+	15.00		Stoke	0-1	Reading
+	15.00		Wolves	1-1	Watford
+[1995-03-19]
+	15.00		Grimsby	3-1	Sunderland
+	15.00		Millwall	0-1	Bolton
+	15.00		Swindon	5-2	West Brom
+[1995-03-21]
+	15.00		Bolton	1-1	Sheffield United
+
+Matchday 37
+
+[1995-03-21]
+	15.00		Burnley	2-1	Luton
+	15.00		Charlton	2-1	Grimsby
+	15.00		Notts County	1-1	Bristol City
+	15.00		Port Vale	1-0	Portsmouth
+	15.00		Reading	2-1	Oldham
+	15.00		Southend	4-2	Stoke
+	15.00		Sunderland	0-1	Middlesbrough
+	15.00		Watford	3-2	Barnsley
+[1995-03-22]
+	15.00		Derby	3-1	Swindon
+	15.00		West Brom	3-0	Millwall
+[1995-03-24]
+	15.00		Barnsley	2-0	Sunderland
+	15.00		Wolves	2-0	Burnley
+
+Matchday 38
+
+[1995-03-25]
+	15.00		Bristol City	0-0	Southend
+	15.00		Grimsby	0-2	West Brom
+	15.00		Millwall	2-1	Tranmere
+	15.00		Oldham	1-0	Derby
+	15.00		Portsmouth	1-1	Bolton
+	15.00		Sheffield United	1-1	Reading
+	15.00		Stoke	2-1	Notts County
+	15.00		Swindon	0-1	Charlton
+[1995-03-26]
+	15.00		Luton	1-1	Watford
+	15.00		Middlesbrough	3-0	Port Vale
+[1995-03-28]
+	15.00		Burnley	4-3	Port Vale
+[1995-04-01]
+	15.00		Burnley	1-2	Millwall
+
+Matchday 39
+
+[1995-04-01]
+	15.00		Charlton	0-0	Stoke
+	15.00		Derby	3-1	Bristol City
+	15.00		Notts County	1-3	Barnsley
+	15.00		Port Vale	1-2	Grimsby
+	15.00		Reading	3-0	Swindon
+	15.00		Southend	0-1	Wolves
+	15.00		Sunderland	1-0	Sheffield United
+	15.00		Tranmere	4-2	Portsmouth
+	15.00		Watford	1-2	Oldham
+	15.00		West Brom	1-3	Middlesbrough
+[1995-04-04]
+	15.00		Burnley	2-0	Charlton
+	15.00		Luton	3-3	Wolves
+
+Matchday 40
+
+[1995-04-04]
+	15.00		Stoke	1-0	Watford
+[1995-04-05]
+	15.00		Millwall	1-3	Port Vale
+	15.00		Oldham	1-0	Middlesbrough
+	15.00		Swindon	0-1	Bolton
+[1995-04-08]
+	15.00		Bolton	1-0	West Brom
+	15.00		Bristol City	0-1	Tranmere
+	15.00		Derby	0-1	Sunderland
+	15.00		Grimsby	1-0	Reading
+	15.00		Luton	2-0	Notts County
+	15.00		Middlesbrough	2-1	Stoke
+	15.00		Millwall	3-1	Charlton
+	15.00		Port Vale	0-1	Watford
+
+Matchday 41
+
+[1995-04-08]
+	15.00		Portsmouth	1-0	Sheffield United
+	15.00		Southend	3-1	Burnley
+	15.00		Swindon	3-1	Oldham
+	15.00		Wolves	0-0	Barnsley
+[1995-04-11]
+	15.00		Bolton	0-0	Luton
+[1995-04-12]
+	15.00		Derby	3-3	Wolves
+	15.00		Stoke	0-0	Barnsley
+[1995-04-14]
+	15.00		Tranmere	1-0	Bolton
+	15.00		Watford	1-0	Millwall
+[1995-04-15]
+	15.00		Barnsley	1-0	Portsmouth
+	15.00		Burnley	3-1	Derby
+	15.00		Charlton	3-2	Wolves
+
+Matchday 42
+
+[1995-04-15]
+	15.00		Notts County	1-1	Middlesbrough
+	15.00		Oldham	1-0	Grimsby
+	15.00		Reading	3-3	Port Vale
+	15.00		Sheffield United	2-2	Swindon
+	15.00		Stoke	2-1	Bristol City
+	15.00		Sunderland	1-1	Luton
+	15.00		West Brom	2-0	Southend
+[1995-04-17]
+	15.00		Bolton	1-0	Sunderland
+	15.00		Bristol City	1-0	West Brom
+	15.00		Derby	5-0	Tranmere
+	15.00		Grimsby	1-0	Barnsley
+	15.00		Luton	0-1	Reading
+
+Matchday 43
+
+[1995-04-17]
+	15.00		Middlesbrough	1-1	Sheffield United
+	15.00		Port Vale	1-0	Burnley
+	15.00		Portsmouth	2-1	Watford
+	15.00		Swindon	0-1	Stoke
+	15.00		Wolves	2-1	Oldham
+[1995-04-18]
+	15.00		Southend	2-1	Charlton
+[1995-04-19]
+	15.00		Millwall	0-0	Notts County
+[1995-04-21]
+	15.00		Reading	2-1	Bolton
+	15.00		Tranmere	0-2	Southend
+[1995-04-22]
+	15.00		Barnsley	1-1	Middlesbrough
+	15.00		Burnley	1-2	Portsmouth
+	15.00		Charlton	1-0	Luton
+
+Matchday 44
+
+[1995-04-22]
+	15.00		Notts County	0-2	Grimsby
+	15.00		Oldham	0-1	Millwall
+	15.00		Sheffield United	3-3	Wolves
+	15.00		Stoke	0-1	Port Vale
+	15.00		Sunderland	1-0	Swindon
+	15.00		Watford	1-0	Bristol City
+	15.00		West Brom	0-0	Derby
+[1995-04-29]
+	15.00		Barnsley	2-1	Sheffield United
+	15.00		Bristol City	1-2	Reading
+	15.00		Burnley	1-1	Sunderland
+	15.00		Charlton	1-1	Port Vale
+	15.00		Derby	1-2	Southend
+
+Matchday 45
+
+[1995-04-29]
+	15.00		Grimsby	0-0	Wolves
+	15.00		Notts County	1-0	Watford
+	15.00		Oldham	3-1	Bolton
+	15.00		Stoke	4-3	Millwall
+	15.00		Swindon	0-2	Portsmouth
+[1995-04-30]
+	15.00		Middlesbrough	2-1	Luton
+	15.00		West Brom	5-1	Tranmere
+[1995-05-02]
+	15.00		Barnsley	1-1	Oldham
+	15.00		Watford	2-0	Charlton
+[1995-05-03]
+	15.00		Stoke	1-1	Bolton
+	15.00		Swindon	3-0	Notts County
+	15.00		Tranmere	1-1	Wolves
+
+Matchday 46
+
+[1995-05-06]
+	15.00		Sheffield United	3-1	Grimsby
+[1995-05-07]
+	15.00		Bolton	1-1	Burnley
+	15.00		Luton	2-3	Stoke
+	15.00		Millwall	1-1	Bristol City
+	15.00		Port Vale	1-1	Notts County
+	15.00		Portsmouth	1-1	Oldham
+	15.00		Reading	2-1	Charlton
+	15.00		Southend	3-1	Barnsley
+	15.00		Sunderland	2-2	West Brom
+	15.00		Tranmere	1-1	Middlesbrough
+	15.00		Watford	2-1	Derby
+	15.00		Wolves	1-1	Swindon
+

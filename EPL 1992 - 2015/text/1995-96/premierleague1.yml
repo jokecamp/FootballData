@@ -1,0 +1,36 @@
+############################
+# Premier League 1995-1996
+
+league: en
+season: 1995/96
+start_at: 1995-08-12
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Charlton
+- Crystal Palace
+- Derby
+- Grimsby
+- Huddersfield
+- Ipswich
+- Leicester
+- Luton
+- Millwall
+- Norwich
+- Oldham
+- Port Vale
+- Portsmouth
+- Reading
+- Sheffield United
+- Southend
+- Stoke
+- Sunderland
+- Tranmere
+- Watford
+- West Brom
+- Wolves
+

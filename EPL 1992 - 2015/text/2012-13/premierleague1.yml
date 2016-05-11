@@ -1,0 +1,36 @@
+############################
+# Premier League 2012-2013
+
+league: en
+season: 2012/13
+start_at: 1912-08-17
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Blackburn
+- Blackpool
+- Bolton
+- Brighton
+- Bristol City
+- Burnley
+- Cardiff
+- Charlton
+- Crystal Palace
+- Derby
+- Huddersfield
+- Hull
+- Ipswich
+- Leeds
+- Leicester
+- Middlesbrough
+- Millwall
+- Nott'm Forest
+- Peterboro
+- Sheffield Weds
+- Watford
+- Wolves
+

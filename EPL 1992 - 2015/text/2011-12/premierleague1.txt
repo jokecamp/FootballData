@@ -1,0 +1,830 @@
+############################
+# Premier League 2011-2012
+
+Matchday 1
+
+[1911-08-05]
+	15.00		Hull	0-1	Blackpool
+[1911-08-06]
+	15.00		Brighton	2-1	Doncaster
+	15.00		Bristol City	0-3	Ipswich
+	15.00		Burnley	2-2	Watford
+	15.00		Coventry	0-1	Leicester
+	15.00		Derby	2-1	Birmingham
+	15.00		Middlesbrough	2-2	Portsmouth
+	15.00		Nott'm Forest	0-0	Barnsley
+	15.00		Peterboro	2-1	Crystal Palace
+	15.00		Reading	2-2	Millwall
+	15.00		Southampton	3-1	Leeds
+[1911-08-07]
+	15.00		West Ham	0-1	Cardiff
+
+Matchday 2
+
+[1911-08-13]
+	15.00		Barnsley	0-1	Southampton
+	15.00		Birmingham	1-0	Coventry
+	15.00		Crystal Palace	2-0	Burnley
+	15.00		Doncaster	0-1	West Ham
+	15.00		Ipswich	0-1	Hull
+	15.00		Leeds	0-1	Middlesbrough
+	15.00		Leicester	0-2	Reading
+	15.00		Millwall	2-0	Nott'm Forest
+	15.00		Portsmouth	0-1	Brighton
+	15.00		Watford	0-1	Derby
+[1911-08-14]
+	15.00		Blackpool	2-1	Peterboro
+	15.00		Cardiff	3-1	Bristol City
+
+Matchday 3
+
+[1911-08-16]
+	15.00		Barnsley	1-3	Middlesbrough
+	15.00		Crystal Palace	2-1	Coventry
+	15.00		Doncaster	0-1	Nott'm Forest
+	15.00		Ipswich	2-5	Southampton
+	15.00		Leeds	4-1	Hull
+	15.00		Portsmouth	1-0	Reading
+	15.00		Watford	0-4	West Ham
+[1911-08-17]
+	15.00		Blackpool	0-1	Derby
+	15.00		Cardiff	1-3	Brighton
+	15.00		Leicester	1-2	Bristol City
+	15.00		Millwall	2-2	Peterboro
+[1911-08-20]
+	15.00		Brighton	2-2	Blackpool
+
+Matchday 4
+
+[1911-08-20]
+	15.00		Bristol City	0-0	Portsmouth
+	15.00		Burnley	1-1	Cardiff
+	15.00		Coventry	0-0	Watford
+	15.00		Derby	3-0	Doncaster
+	15.00		Hull	0-1	Crystal Palace
+	15.00		Nott'm Forest	2-2	Leicester
+	15.00		Peterboro	7-1	Ipswich
+	15.00		Reading	1-2	Barnsley
+	15.00		Southampton	1-0	Millwall
+[1911-08-21]
+	15.00		Middlesbrough	3-1	Birmingham
+	15.00		West Ham	2-2	Leeds
+[1911-08-27]
+	15.00		Brighton	2-0	Peterboro
+
+Matchday 5
+
+[1911-08-27]
+	15.00		Crystal Palace	1-1	Blackpool
+	15.00		Derby	1-2	Burnley
+	15.00		Doncaster	1-1	Bristol City
+	15.00		Hull	1-0	Reading
+	15.00		Ipswich	2-1	Leeds
+	15.00		Leicester	3-2	Southampton
+	15.00		Middlesbrough	1-1	Coventry
+	15.00		Millwall	0-0	Barnsley
+	15.00		Portsmouth	1-1	Cardiff
+[1911-08-28]
+	15.00		Nott'm Forest	1-4	West Ham
+	15.00		Watford	2-2	Birmingham
+[1911-09-10]
+	15.00		Barnsley	1-1	Leicester
+
+Matchday 6
+
+[1911-09-10]
+	15.00		Blackpool	2-0	Ipswich
+	15.00		Bristol City	0-1	Brighton
+	15.00		Burnley	0-2	Middlesbrough
+	15.00		Cardiff	2-0	Doncaster
+	15.00		Coventry	2-0	Derby
+	15.00		Leeds	3-2	Crystal Palace
+	15.00		Peterboro	0-1	Hull
+	15.00		Reading	0-2	Watford
+	15.00		Southampton	3-2	Nott'm Forest
+	15.00		West Ham	4-3	Portsmouth
+[1911-09-11]
+	15.00		Birmingham	3-0	Millwall
+[1911-09-17]
+	15.00		Barnsley	1-1	Watford
+
+Matchday 7
+
+[1911-09-17]
+	15.00		Blackpool	1-1	Cardiff
+	15.00		Crystal Palace	0-1	Middlesbrough
+	15.00		Hull	1-0	Portsmouth
+	15.00		Leeds	2-1	Bristol City
+	15.00		Leicester	1-0	Brighton
+	15.00		Millwall	0-0	West Ham
+	15.00		Nott'm Forest	1-2	Derby
+	15.00		Peterboro	2-1	Burnley
+	15.00		Reading	2-0	Doncaster
+[1911-09-18]
+	15.00		Southampton	4-1	Birmingham
+[1911-09-19]
+	15.00		Ipswich	3-0	Coventry
+[1911-09-23]
+	15.00		Brighton	3-3	Leeds
+
+Matchday 8
+
+[1911-09-24]
+	15.00		Birmingham	1-1	Barnsley
+	15.00		Bristol City	1-1	Hull
+	15.00		Burnley	1-1	Southampton
+	15.00		Coventry	1-1	Reading
+	15.00		Derby	3-0	Millwall
+	15.00		Doncaster	1-0	Crystal Palace
+	15.00		Middlesbrough	0-0	Ipswich
+	15.00		Portsmouth	1-0	Blackpool
+	15.00		Watford	0-1	Nott'm Forest
+	15.00		West Ham	1-0	Peterboro
+[1911-09-25]
+	15.00		Cardiff	0-0	Leicester
+[1911-09-27]
+	15.00		Brighton	1-3	Crystal Palace
+
+Matchday 9
+
+[1911-09-27]
+	15.00		Bristol City	2-3	Reading
+	15.00		Burnley	5-1	Nott'm Forest
+	15.00		Coventry	2-2	Blackpool
+	15.00		Derby	1-1	Barnsley
+	15.00		Doncaster	1-1	Hull
+	15.00		Portsmouth	2-3	Peterboro
+	15.00		Watford	2-1	Millwall
+	15.00		West Ham	0-1	Ipswich
+[1911-09-28]
+	15.00		Cardiff	2-1	Southampton
+	15.00		Middlesbrough	0-0	Leicester
+[1911-10-01]
+	15.00		Barnsley	2-0	Coventry
+	15.00		Blackpool	5-0	Bristol City
+
+Matchday 10
+
+[1911-10-01]
+	15.00		Crystal Palace	2-2	West Ham
+	15.00		Hull	2-1	Cardiff
+	15.00		Ipswich	3-1	Brighton
+	15.00		Leeds	1-0	Portsmouth
+	15.00		Leicester	4-0	Derby
+	15.00		Millwall	0-1	Burnley
+	15.00		Peterboro	1-2	Doncaster
+	15.00		Reading	0-0	Middlesbrough
+	15.00		Southampton	4-0	Watford
+[1911-10-02]
+	15.00		Nott'm Forest	1-3	Birmingham
+[1911-10-14]
+	15.00		Doncaster	0-3	Leeds
+[1911-10-15]
+	15.00		Brighton	0-0	Hull
+
+Matchday 11
+
+[1911-10-15]
+	15.00		Bristol City	1-2	Peterboro
+	15.00		Burnley	0-1	Reading
+	15.00		Cardiff	2-2	Ipswich
+	15.00		Coventry	1-0	Nott'm Forest
+	15.00		Derby	1-1	Southampton
+	15.00		Middlesbrough	1-1	Millwall
+	15.00		Portsmouth	2-0	Barnsley
+	15.00		Watford	0-2	Crystal Palace
+	15.00		West Ham	4-0	Blackpool
+[1911-10-16]
+	15.00		Birmingham	2-0	Leicester
+[1911-10-18]
+	15.00		Barnsley	2-0	Burnley
+	15.00		Blackpool	2-1	Doncaster
+
+Matchday 12
+
+[1911-10-18]
+	15.00		Crystal Palace	1-0	Bristol City
+	15.00		Ipswich	1-0	Portsmouth
+	15.00		Leeds	1-1	Coventry
+	15.00		Millwall	1-1	Brighton
+	15.00		Nott'm Forest	2-0	Middlesbrough
+	15.00		Peterboro	4-3	Cardiff
+	15.00		Reading	2-2	Derby
+	15.00		Southampton	1-0	West Ham
+[1911-10-19]
+	15.00		Leicester	2-0	Watford
+[1911-10-22]
+	15.00		Blackpool	1-2	Nott'm Forest
+	15.00		Cardiff	5-3	Barnsley
+	15.00		Coventry	1-2	Burnley
+
+Matchday 13
+
+[1911-10-22]
+	15.00		Hull	3-2	Watford
+	15.00		Ipswich	0-1	Crystal Palace
+	15.00		Leicester	0-3	Millwall
+	15.00		Middlesbrough	2-0	Derby
+	15.00		Peterboro	2-3	Leeds
+	15.00		Portsmouth	3-1	Doncaster
+	15.00		Reading	1-1	Southampton
+[1911-10-23]
+	15.00		Bristol City	0-2	Birmingham
+[1911-10-24]
+	15.00		Brighton	0-1	West Ham
+[1911-10-26]
+	15.00		Birmingham	1-0	Leeds
+[1911-10-29]
+	15.00		Barnsley	1-2	Bristol City
+	15.00		Birmingham	0-0	Brighton
+
+Matchday 14
+
+[1911-10-29]
+	15.00		Burnley	3-1	Blackpool
+	15.00		Crystal Palace	0-0	Reading
+	15.00		Derby	3-1	Portsmouth
+	15.00		Doncaster	1-1	Coventry
+	15.00		Millwall	4-1	Ipswich
+	15.00		Nott'm Forest	0-1	Hull
+	15.00		Southampton	3-0	Middlesbrough
+	15.00		Watford	3-2	Peterboro
+	15.00		West Ham	3-2	Leicester
+[1911-10-30]
+	15.00		Leeds	1-1	Cardiff
+[1911-11-01]
+	15.00		Barnsley	2-1	Hull
+	15.00		Burnley	1-3	Leicester
+
+Matchday 15
+
+[1911-11-01]
+	15.00		Crystal Palace	0-0	Portsmouth
+	15.00		Doncaster	1-3	Middlesbrough
+	15.00		Millwall	3-0	Coventry
+	15.00		Nott'm Forest	1-0	Reading
+	15.00		Southampton	2-1	Peterboro
+	15.00		Watford	1-0	Brighton
+	15.00		West Ham	0-0	Bristol City
+[1911-11-02]
+	15.00		Derby	0-3	Cardiff
+	15.00		Leeds	0-5	Blackpool
+[1911-11-05]
+	15.00		Blackpool	1-0	Millwall
+	15.00		Bristol City	3-1	Burnley
+	15.00		Cardiff	2-0	Crystal Palace
+
+Matchday 16
+
+[1911-11-05]
+	15.00		Coventry	2-4	Southampton
+	15.00		Hull	0-2	West Ham
+	15.00		Ipswich	2-3	Doncaster
+	15.00		Middlesbrough	1-0	Watford
+	15.00		Peterboro	3-2	Derby
+	15.00		Portsmouth	3-0	Nott'm Forest
+[1911-11-06]
+	15.00		Brighton	2-0	Barnsley
+	15.00		Leicester	0-1	Leeds
+	15.00		Reading	1-0	Birmingham
+[1911-11-19]
+	15.00		Barnsley	2-0	Doncaster
+	15.00		Birmingham	1-1	Peterboro
+	15.00		Burnley	1-2	Leeds
+
+Matchday 17
+
+[1911-11-19]
+	15.00		Coventry	1-2	West Ham
+	15.00		Derby	0-2	Hull
+	15.00		Middlesbrough	2-2	Blackpool
+	15.00		Nott'm Forest	3-2	Ipswich
+	15.00		Reading	1-2	Cardiff
+	15.00		Southampton	3-0	Brighton
+	15.00		Watford	2-0	Portsmouth
+[1911-11-20]
+	15.00		Leicester	3-0	Crystal Palace
+	15.00		Millwall	1-2	Bristol City
+[1911-11-22]
+	15.00		Birmingham	2-1	Burnley
+	15.00		Coventry	1-1	Cardiff
+[1911-11-26]
+	15.00		Blackpool	2-2	Birmingham
+
+Matchday 18
+
+[1911-11-26]
+	15.00		Brighton	2-1	Coventry
+	15.00		Bristol City	2-0	Southampton
+	15.00		Cardiff	1-0	Nott'm Forest
+	15.00		Crystal Palace	0-0	Millwall
+	15.00		Doncaster	0-0	Watford
+	15.00		Hull	2-3	Burnley
+	15.00		Ipswich	2-3	Reading
+	15.00		Leeds	1-2	Barnsley
+	15.00		Peterboro	1-1	Middlesbrough
+	15.00		Portsmouth	1-1	Leicester
+	15.00		West Ham	3-1	Derby
+[1911-11-29]
+	15.00		Burnley	4-0	Ipswich
+
+Matchday 19
+
+[1911-11-29]
+	15.00		Derby	0-1	Brighton
+	15.00		Leicester	2-0	Blackpool
+	15.00		Middlesbrough	0-2	West Ham
+	15.00		Millwall	3-2	Doncaster
+	15.00		Nott'm Forest	0-4	Leeds
+	15.00		Reading	3-2	Peterboro
+	15.00		Southampton	2-1	Hull
+	15.00		Watford	2-2	Bristol City
+[1911-12-02]
+	15.00		Crystal Palace	1-1	Derby
+[1911-12-03]
+	15.00		Blackpool	1-0	Reading
+	15.00		Brighton	1-0	Nott'm Forest
+	15.00		Bristol City	0-1	Middlesbrough
+
+Matchday 20
+
+[1911-12-03]
+	15.00		Doncaster	1-0	Southampton
+	15.00		Hull	2-1	Leicester
+	15.00		Ipswich	1-2	Watford
+	15.00		Leeds	2-0	Millwall
+	15.00		Peterboro	3-4	Barnsley
+	15.00		Portsmouth	2-1	Coventry
+	15.00		West Ham	1-2	Burnley
+[1911-12-04]
+	15.00		Cardiff	1-0	Birmingham
+[1911-12-06]
+	15.00		Barnsley	2-1	Crystal Palace
+[1911-12-07]
+	15.00		Hull	2-1	Birmingham
+[1911-12-10]
+	15.00		Barnsley	3-5	Ipswich
+	15.00		Birmingham	2-1	Doncaster
+
+Matchday 21
+
+[1911-12-10]
+	15.00		Burnley	0-1	Portsmouth
+	15.00		Coventry	0-1	Hull
+	15.00		Derby	2-1	Bristol City
+	15.00		Leicester	1-1	Peterboro
+	15.00		Middlesbrough	1-0	Brighton
+	15.00		Millwall	0-0	Cardiff
+	15.00		Nott'm Forest	0-1	Crystal Palace
+	15.00		Reading	3-0	West Ham
+	15.00		Southampton	2-2	Blackpool
+	15.00		Watford	1-1	Leeds
+[1911-12-17]
+	15.00		Blackpool	0-0	Watford
+	15.00		Brighton	0-1	Burnley
+
+Matchday 22
+
+[1911-12-17]
+	15.00		Bristol City	0-0	Nott'm Forest
+	15.00		Cardiff	2-3	Middlesbrough
+	15.00		Doncaster	2-1	Leicester
+	15.00		Hull	2-0	Millwall
+	15.00		Ipswich	1-0	Derby
+	15.00		Leeds	0-1	Reading
+	15.00		Peterboro	1-0	Coventry
+	15.00		West Ham	1-0	Barnsley
+[1911-12-18]
+	15.00		Portsmouth	1-1	Southampton
+[1911-12-19]
+	15.00		Crystal Palace	1-0	Birmingham
+[1911-12-26]
+	15.00		Barnsley	1-3	Blackpool
+	15.00		Birmingham	1-1	West Ham
+
+Matchday 23
+
+[1911-12-26]
+	15.00		Burnley	3-0	Doncaster
+	15.00		Coventry	1-0	Bristol City
+	15.00		Derby	1-0	Leeds
+	15.00		Leicester	1-1	Ipswich
+	15.00		Middlesbrough	1-0	Hull
+	15.00		Millwall	1-0	Portsmouth
+	15.00		Nott'm Forest	0-1	Peterboro
+	15.00		Reading	3-0	Brighton
+	15.00		Southampton	2-0	Crystal Palace
+	15.00		Watford	1-1	Cardiff
+[1911-12-30]
+	15.00		Southampton	0-1	Bristol City
+[1911-12-31]
+	15.00		Barnsley	4-1	Leeds
+
+Matchday 24
+
+[1911-12-31]
+	15.00		Birmingham	3-0	Blackpool
+	15.00		Burnley	1-0	Hull
+	15.00		Coventry	2-0	Brighton
+	15.00		Derby	2-1	West Ham
+	15.00		Leicester	1-1	Portsmouth
+	15.00		Middlesbrough	1-1	Peterboro
+	15.00		Millwall	0-1	Crystal Palace
+	15.00		Nott'm Forest	0-1	Cardiff
+	15.00		Reading	1-0	Ipswich
+	15.00		Watford	4-1	Doncaster
+[1912-01-02]
+	15.00		Blackpool	3-0	Middlesbrough
+	15.00		Brighton	3-0	Southampton
+
+Matchday 25
+
+[1912-01-02]
+	15.00		Cardiff	3-1	Reading
+	15.00		Crystal Palace	1-2	Leicester
+	15.00		Doncaster	2-0	Barnsley
+	15.00		Hull	0-1	Derby
+	15.00		Ipswich	1-3	Nott'm Forest
+	15.00		Leeds	2-1	Burnley
+	15.00		Peterboro	1-1	Birmingham
+	15.00		Portsmouth	2-0	Watford
+	15.00		West Ham	1-0	Coventry
+[1912-01-03]
+	15.00		Bristol City	1-0	Millwall
+[1912-01-11]
+	15.00		Birmingham	2-1	Ipswich
+[1912-01-14]
+	15.00		Brighton	2-0	Bristol City
+
+Matchday 26
+
+[1912-01-14]
+	15.00		Crystal Palace	1-1	Leeds
+	15.00		Derby	1-0	Coventry
+	15.00		Doncaster	0-0	Cardiff
+	15.00		Hull	1-0	Peterboro
+	15.00		Ipswich	2-2	Blackpool
+	15.00		Leicester	1-2	Barnsley
+	15.00		Middlesbrough	0-2	Burnley
+	15.00		Millwall	0-6	Birmingham
+	15.00		Nott'm Forest	0-3	Southampton
+	15.00		Portsmouth	0-1	West Ham
+	15.00		Watford	1-2	Reading
+[1912-01-21]
+	15.00		Barnsley	1-3	Millwall
+
+Matchday 27
+
+[1912-01-21]
+	15.00		Birmingham	3-0	Watford
+	15.00		Blackpool	2-1	Crystal Palace
+	15.00		Bristol City	2-1	Doncaster
+	15.00		Burnley	0-0	Derby
+	15.00		Cardiff	3-2	Portsmouth
+	15.00		Coventry	3-1	Middlesbrough
+	15.00		Leeds	3-1	Ipswich
+	15.00		Peterboro	1-2	Brighton
+	15.00		Reading	0-1	Hull
+	15.00		West Ham	2-1	Nott'm Forest
+[1912-01-23]
+	15.00		Southampton	0-2	Leicester
+[1912-01-28]
+	15.00		Peterboro	0-3	Portsmouth
+
+Matchday 28
+
+[1912-01-28]
+	15.00		Reading	1-0	Bristol City
+[1912-01-31]
+	15.00		Barnsley	3-2	Derby
+	15.00		Blackpool	2-1	Coventry
+	15.00		Crystal Palace	1-1	Brighton
+	15.00		Hull	0-0	Doncaster
+	15.00		Ipswich	5-1	West Ham
+	15.00		Leeds	1-4	Birmingham
+	15.00		Millwall	0-2	Watford
+	15.00		Nott'm Forest	0-2	Burnley
+	15.00		Southampton	1-1	Cardiff
+[1912-02-01]
+	15.00		Leicester	2-2	Middlesbrough
+[1912-02-04]
+	15.00		Birmingham	0-0	Southampton
+
+Matchday 29
+
+[1912-02-04]
+	15.00		Brighton	1-0	Leicester
+	15.00		Bristol City	0-3	Leeds
+	15.00		Burnley	1-1	Peterboro
+	15.00		Cardiff	1-3	Blackpool
+	15.00		Coventry	2-3	Ipswich
+	15.00		Middlesbrough	0-0	Crystal Palace
+	15.00		Watford	2-1	Barnsley
+	15.00		West Ham	2-1	Millwall
+[1912-02-07]
+	15.00		Birmingham	1-0	Portsmouth
+[1912-02-11]
+	15.00		Blackpool	1-1	Portsmouth
+	15.00		Hull	3-0	Bristol City
+	15.00		Leeds	1-2	Brighton
+
+Matchday 30
+
+[1912-02-11]
+	15.00		Leicester	2-1	Cardiff
+	15.00		Millwall	0-0	Derby
+	15.00		Nott'm Forest	1-1	Watford
+	15.00		Reading	2-0	Coventry
+	15.00		Southampton	2-0	Burnley
+[1912-02-14]
+	15.00		Birmingham	0-0	Hull
+	15.00		Brighton	2-2	Millwall
+	15.00		Bristol City	2-2	Crystal Palace
+	15.00		Burnley	2-0	Barnsley
+	15.00		Cardiff	3-1	Peterboro
+	15.00		Coventry	2-1	Leeds
+	15.00		Derby	0-1	Reading
+
+Matchday 31
+
+[1912-02-14]
+	15.00		Doncaster	1-3	Blackpool
+	15.00		Middlesbrough	2-1	Nott'm Forest
+	15.00		Portsmouth	0-1	Ipswich
+	15.00		Watford	3-2	Leicester
+	15.00		West Ham	1-1	Southampton
+[1912-02-17]
+	15.00		Reading	1-0	Burnley
+[1912-02-18]
+	15.00		Barnsley	2-0	Portsmouth
+	15.00		Crystal Palace	4-0	Watford
+	15.00		Ipswich	3-0	Cardiff
+	15.00		Leeds	3-2	Doncaster
+	15.00		Nott'm Forest	2-0	Coventry
+	15.00		Peterboro	3-0	Bristol City
+
+Matchday 32
+
+[1912-02-18]
+	15.00		Southampton	4-0	Derby
+[1912-02-21]
+	15.00		Barnsley	1-3	Birmingham
+	15.00		Blackpool	1-4	West Ham
+	15.00		Millwall	1-3	Middlesbrough
+[1912-02-22]
+	15.00		Hull	0-0	Brighton
+[1912-02-23]
+	15.00		Derby	0-1	Leicester
+[1912-02-25]
+	15.00		Birmingham	1-2	Nott'm Forest
+	15.00		Brighton	3-0	Ipswich
+	15.00		Bristol City	1-3	Blackpool
+	15.00		Burnley	1-3	Millwall
+	15.00		Coventry	1-0	Barnsley
+	15.00		Doncaster	1-1	Peterboro
+
+Matchday 33
+
+[1912-02-25]
+	15.00		Middlesbrough	0-2	Reading
+	15.00		Portsmouth	0-0	Leeds
+	15.00		Watford	0-3	Southampton
+	15.00		West Ham	0-0	Crystal Palace
+[1912-03-02]
+	15.00		Blackpool	1-1	Hull
+[1912-03-03]
+	15.00		Barnsley	1-1	Nott'm Forest
+	15.00		Birmingham	2-2	Derby
+	15.00		Crystal Palace	1-0	Peterboro
+	15.00		Doncaster	1-1	Brighton
+	15.00		Ipswich	3-0	Bristol City
+	15.00		Leeds	0-1	Southampton
+	15.00		Leicester	2-0	Coventry
+
+Matchday 34
+
+[1912-03-03]
+	15.00		Millwall	1-2	Reading
+	15.00		Portsmouth	1-3	Middlesbrough
+	15.00		Watford	3-2	Burnley
+[1912-03-04]
+	15.00		Cardiff	0-2	West Ham
+[1912-03-06]
+	15.00		Bristol City	3-2	Leicester
+	15.00		Coventry	1-1	Crystal Palace
+	15.00		Derby	2-1	Blackpool
+	15.00		Hull	0-0	Leeds
+	15.00		Middlesbrough	2-0	Barnsley
+	15.00		Nott'm Forest	1-2	Doncaster
+	15.00		Peterboro	0-3	Millwall
+	15.00		Reading	1-0	Portsmouth
+
+Matchday 35
+
+[1912-03-06]
+	15.00		Southampton	1-1	Ipswich
+[1912-03-07]
+	15.00		Brighton	2-2	Cardiff
+	15.00		West Ham	1-1	Watford
+[1912-03-10]
+	15.00		Brighton	2-0	Portsmouth
+	15.00		Bristol City	1-2	Cardiff
+	15.00		Burnley	1-1	Crystal Palace
+	15.00		Coventry	1-1	Birmingham
+	15.00		Derby	1-2	Watford
+	15.00		Hull	2-2	Ipswich
+	15.00		Nott'm Forest	3-1	Millwall
+	15.00		Peterboro	3-1	Blackpool
+	15.00		Reading	3-1	Leicester
+
+Matchday 36
+
+[1912-03-10]
+	15.00		Southampton	2-0	Barnsley
+	15.00		West Ham	1-1	Doncaster
+[1912-03-11]
+	15.00		Middlesbrough	0-2	Leeds
+[1912-03-13]
+	15.00		Cardiff	0-3	Hull
+	15.00		Derby	1-0	Nott'm Forest
+	15.00		Doncaster	1-1	Reading
+	15.00		Leicester	3-1	Birmingham
+[1912-03-17]
+	15.00		Barnsley	0-4	Reading
+	15.00		Birmingham	3-0	Middlesbrough
+	15.00		Blackpool	3-1	Brighton
+	15.00		Crystal Palace	0-0	Hull
+	15.00		Doncaster	1-2	Derby
+
+Matchday 37
+
+[1912-03-17]
+	15.00		Ipswich	3-2	Peterboro
+	15.00		Leeds	1-1	West Ham
+	15.00		Millwall	2-3	Southampton
+	15.00		Portsmouth	0-0	Bristol City
+	15.00		Watford	0-0	Coventry
+[1912-03-18]
+	15.00		Cardiff	0-0	Burnley
+[1912-03-20]
+	15.00		Brighton	2-0	Derby
+	15.00		Bristol City	0-2	Watford
+	15.00		Crystal Palace	1-0	Barnsley
+	15.00		Doncaster	0-3	Millwall
+	15.00		Hull	0-2	Southampton
+	15.00		Leeds	3-7	Nott'm Forest
+
+Matchday 38
+
+[1912-03-20]
+	15.00		Peterboro	3-1	Reading
+	15.00		Portsmouth	4-1	Birmingham
+	15.00		West Ham	1-1	Middlesbrough
+[1912-03-21]
+	15.00		Blackpool	3-3	Leicester
+	15.00		Cardiff	2-2	Coventry
+	15.00		Ipswich	1-0	Burnley
+[1912-03-24]
+	15.00		Barnsley	1-0	Peterboro
+	15.00		Burnley	2-2	West Ham
+	15.00		Coventry	2-0	Portsmouth
+	15.00		Derby	3-2	Crystal Palace
+	15.00		Leicester	2-1	Hull
+	15.00		Middlesbrough	1-1	Bristol City
+
+Matchday 39
+
+[1912-03-24]
+	15.00		Millwall	0-1	Leeds
+	15.00		Nott'm Forest	1-1	Brighton
+	15.00		Reading	3-1	Blackpool
+	15.00		Southampton	2-0	Doncaster
+	15.00		Watford	2-1	Ipswich
+[1912-03-25]
+	15.00		Birmingham	1-1	Cardiff
+[1912-03-27]
+	15.00		Crystal Palace	1-1	Doncaster
+	15.00		Ipswich	1-1	Middlesbrough
+	15.00		Leicester	0-0	Nott'm Forest
+	15.00		Peterboro	0-2	West Ham
+	15.00		Portsmouth	2-0	Hull
+[1912-03-30]
+	15.00		Doncaster	1-3	Birmingham
+
+Matchday 40
+
+[1912-03-31]
+	15.00		Blackpool	3-0	Southampton
+	15.00		Brighton	1-1	Middlesbrough
+	15.00		Bristol City	1-1	Derby
+	15.00		Cardiff	0-0	Millwall
+	15.00		Crystal Palace	0-3	Nott'm Forest
+	15.00		Hull	0-2	Coventry
+	15.00		Ipswich	1-0	Barnsley
+	15.00		Leeds	0-2	Watford
+	15.00		Peterboro	1-0	Leicester
+	15.00		Portsmouth	1-5	Burnley
+	15.00		West Ham	2-4	Reading
+[1912-04-03]
+	15.00		Burnley	1-3	Birmingham
+
+Matchday 41
+
+[1912-04-06]
+	15.00		Barnsley	0-4	West Ham
+	15.00		Burnley	1-0	Brighton
+	15.00		Reading	2-0	Leeds
+	15.00		Watford	0-2	Blackpool
+[1912-04-07]
+	15.00		Birmingham	3-1	Crystal Palace
+	15.00		Coventry	2-2	Peterboro
+	15.00		Derby	0-0	Ipswich
+	15.00		Leicester	4-0	Doncaster
+	15.00		Middlesbrough	0-2	Cardiff
+	15.00		Millwall	2-0	Hull
+	15.00		Nott'm Forest	0-1	Bristol City
+	15.00		Southampton	2-2	Portsmouth
+
+Matchday 42
+
+[1912-04-09]
+	15.00		Blackpool	1-1	Barnsley
+	15.00		Bristol City	3-1	Coventry
+	15.00		Cardiff	1-1	Watford
+	15.00		Crystal Palace	0-2	Southampton
+	15.00		Doncaster	1-2	Burnley
+	15.00		Hull	2-1	Middlesbrough
+	15.00		Ipswich	1-2	Leicester
+	15.00		Leeds	0-2	Derby
+	15.00		Peterboro	0-1	Nott'm Forest
+	15.00		West Ham	3-3	Birmingham
+[1912-04-10]
+	15.00		Brighton	0-1	Reading
+	15.00		Portsmouth	0-1	Millwall
+
+Matchday 43
+
+[1912-04-13]
+	15.00		Southampton	1-3	Reading
+[1912-04-14]
+	15.00		Barnsley	0-1	Cardiff
+	15.00		Birmingham	2-2	Bristol City
+	15.00		Burnley	1-1	Coventry
+	15.00		Crystal Palace	1-1	Ipswich
+	15.00		Derby	0-1	Middlesbrough
+	15.00		Doncaster	3-4	Portsmouth
+	15.00		Leeds	4-1	Peterboro
+	15.00		Millwall	2-1	Leicester
+	15.00		Nott'm Forest	0-0	Blackpool
+	15.00		Watford	1-1	Hull
+	15.00		West Ham	6-0	Brighton
+
+Matchday 44
+
+[1912-04-17]
+	15.00		Blackpool	1-0	Leeds
+	15.00		Brighton	2-2	Watford
+	15.00		Bristol City	1-1	West Ham
+	15.00		Cardiff	2-0	Derby
+	15.00		Coventry	0-1	Millwall
+	15.00		Hull	3-1	Barnsley
+	15.00		Ipswich	1-1	Birmingham
+	15.00		Leicester	0-0	Burnley
+	15.00		Middlesbrough	0-0	Doncaster
+	15.00		Peterboro	1-3	Southampton
+	15.00		Portsmouth	2-1	Crystal Palace
+	15.00		Reading	1-0	Nott'm Forest
+
+Matchday 45
+
+[1912-04-21]
+	15.00		Blackpool	4-0	Burnley
+	15.00		Brighton	1-1	Birmingham
+	15.00		Bristol City	2-0	Barnsley
+	15.00		Cardiff	1-1	Leeds
+	15.00		Coventry	0-2	Doncaster
+	15.00		Hull	2-1	Nott'm Forest
+	15.00		Ipswich	0-3	Millwall
+	15.00		Middlesbrough	2-1	Southampton
+	15.00		Peterboro	2-2	Watford
+	15.00		Portsmouth	1-2	Derby
+	15.00		Reading	2-2	Crystal Palace
+[1912-04-23]
+	15.00		Leicester	1-2	West Ham
+
+Matchday 46
+
+[1912-04-28]
+	15.00		Barnsley	0-0	Brighton
+	15.00		Birmingham	2-0	Reading
+	15.00		Burnley	1-1	Bristol City
+	15.00		Crystal Palace	1-2	Cardiff
+	15.00		Derby	1-1	Peterboro
+	15.00		Doncaster	2-3	Ipswich
+	15.00		Leeds	1-2	Leicester
+	15.00		Millwall	2-2	Blackpool
+	15.00		Nott'm Forest	2-0	Portsmouth
+	15.00		Southampton	4-0	Coventry
+	15.00		Watford	2-1	Middlesbrough
+	15.00		West Ham	2-1	Hull
+

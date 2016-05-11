@@ -1,0 +1,34 @@
+############################
+# Premier League 1994-1995
+
+league: en
+season: 1994/95
+start_at: 1994-08-20
+
+fixtures:
+- premierleague0
+
+22 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Chelsea
+- Coventry
+- Crystal Palace
+- Everton
+- Ipswich
+- Leeds
+- Leicester
+- Liverpool
+- Man City
+- Man United
+- Newcastle
+- Norwich
+- Nott'm Forest
+- QPR
+- Sheffield Weds
+- Southampton
+- Tottenham
+- West Ham
+- Wimbledon
+

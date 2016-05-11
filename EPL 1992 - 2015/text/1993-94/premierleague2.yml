@@ -1,0 +1,36 @@
+############################
+# Premier League 1993-1994
+
+league: en
+season: 1993/94
+start_at: 1993-08-14
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Barnet
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Brighton
+- Bristol Rvs
+- Burnley
+- Cambridge
+- Cardiff
+- Exeter
+- Fulham
+- Hartlepool
+- Huddersfield
+- Hull
+- Leyton Orient
+- Plymouth
+- Port Vale
+- Reading
+- Rotherham
+- Stockport
+- Swansea
+- Wrexham
+- York
+

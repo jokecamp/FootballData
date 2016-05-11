@@ -1,0 +1,36 @@
+############################
+# Premier League 1998-1999
+
+league: en
+season: 1998/99
+start_at: 1998-08-08
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Blackpool
+- Bournemouth
+- Bristol Rvs
+- Burnley
+- Chesterfield
+- Colchester
+- Fulham
+- Gillingham
+- Lincoln
+- Luton
+- Macclesfield
+- Man City
+- Millwall
+- Northampton
+- Notts County
+- Oldham
+- Preston
+- Reading
+- Stoke
+- Walsall
+- Wigan
+- Wrexham
+- Wycombe
+- York
+

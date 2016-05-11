@@ -1,0 +1,635 @@
+############################
+# Premier League 2005-2006
+
+Matchday 1
+
+[1905-08-13]
+	15.00		Aston Villa	2-2	Bolton
+	15.00		Everton	0-2	Man United
+	15.00		Fulham	0-0	Birmingham
+	15.00		Man City	0-0	West Brom
+	15.00		Middlesbrough	0-0	Liverpool
+	15.00		Portsmouth	0-2	Tottenham
+	15.00		Sunderland	1-3	Charlton
+	15.00		West Ham	3-1	Blackburn
+[1905-08-14]
+	15.00		Arsenal	2-0	Newcastle
+	15.00		Wigan	0-1	Chelsea
+
+Matchday 2
+
+[1905-08-20]
+	15.00		Birmingham	1-2	Man City
+	15.00		Blackburn	2-1	Fulham
+	15.00		Charlton	1-0	Wigan
+	15.00		Liverpool	1-0	Sunderland
+	15.00		Man United	1-0	Aston Villa
+	15.00		Newcastle	0-0	West Ham
+	15.00		Tottenham	2-0	Middlesbrough
+	15.00		West Brom	2-1	Portsmouth
+[1905-08-21]
+	15.00		Bolton	0-1	Everton
+	15.00		Chelsea	1-0	Arsenal
+
+Matchday 3
+
+[1905-08-23]
+	15.00		Birmingham	0-3	Middlesbrough
+	15.00		Portsmouth	1-1	Aston Villa
+	15.00		Sunderland	1-2	Man City
+[1905-08-24]
+	15.00		Arsenal	4-1	Fulham
+	15.00		Blackburn	0-0	Tottenham
+	15.00		Bolton	2-0	Newcastle
+	15.00		Chelsea	4-0	West Brom
+[1905-08-27]
+	15.00		Aston Villa	1-0	Blackburn
+	15.00		Fulham	1-0	Everton
+	15.00		Man City	2-1	Portsmouth
+
+Matchday 4
+
+[1905-08-27]
+	15.00		Tottenham	0-2	Chelsea
+	15.00		West Brom	2-3	Birmingham
+	15.00		West Ham	1-2	Bolton
+	15.00		Wigan	1-0	Sunderland
+[1905-08-28]
+	15.00		Middlesbrough	0-3	Charlton
+	15.00		Newcastle	0-2	Man United
+[1905-09-10]
+	15.00		Birmingham	0-1	Charlton
+	15.00		Chelsea	2-0	Sunderland
+	15.00		Everton	0-1	Portsmouth
+	15.00		Man United	1-1	Man City
+
+Matchday 5
+
+[1905-09-10]
+	15.00		Middlesbrough	2-1	Arsenal
+	15.00		Newcastle	1-1	Fulham
+	15.00		Tottenham	0-0	Liverpool
+	15.00		West Brom	1-2	Wigan
+[1905-09-11]
+	15.00		Bolton	0-0	Blackburn
+[1905-09-12]
+	15.00		West Ham	4-0	Aston Villa
+[1905-09-17]
+	15.00		Aston Villa	1-1	Tottenham
+	15.00		Charlton	0-2	Chelsea
+	15.00		Fulham	1-2	West Ham
+	15.00		Portsmouth	1-1	Birmingham
+
+Matchday 6
+
+[1905-09-17]
+	15.00		Sunderland	1-1	West Brom
+[1905-09-18]
+	15.00		Blackburn	0-3	Newcastle
+	15.00		Liverpool	0-0	Man United
+	15.00		Man City	0-1	Bolton
+	15.00		Wigan	1-1	Middlesbrough
+[1905-09-19]
+	15.00		Arsenal	2-0	Everton
+[1905-09-24]
+	15.00		Birmingham	2-2	Liverpool
+	15.00		Bolton	1-0	Portsmouth
+	15.00		Chelsea	2-1	Aston Villa
+	15.00		Everton	0-1	Wigan
+
+Matchday 7
+
+[1905-09-24]
+	15.00		Man United	1-2	Blackburn
+	15.00		Newcastle	1-0	Man City
+	15.00		West Brom	1-2	Charlton
+	15.00		West Ham	0-0	Arsenal
+[1905-09-25]
+	15.00		Middlesbrough	0-2	Sunderland
+[1905-09-26]
+	15.00		Tottenham	1-0	Fulham
+[1905-10-01]
+	15.00		Blackburn	2-0	West Brom
+	15.00		Charlton	2-3	Tottenham
+	15.00		Fulham	2-3	Man United
+	15.00		Portsmouth	0-0	Newcastle
+
+Matchday 8
+
+[1905-10-01]
+	15.00		Sunderland	1-1	West Ham
+[1905-10-02]
+	15.00		Arsenal	1-0	Birmingham
+	15.00		Aston Villa	2-3	Middlesbrough
+	15.00		Liverpool	1-4	Chelsea
+	15.00		Man City	2-0	Everton
+	15.00		Wigan	2-1	Bolton
+[1905-10-15]
+	15.00		Chelsea	5-1	Bolton
+	15.00		Liverpool	1-0	Blackburn
+	15.00		Middlesbrough	1-1	Portsmouth
+	15.00		Sunderland	1-3	Man United
+
+Matchday 9
+
+[1905-10-15]
+	15.00		Tottenham	2-0	Everton
+	15.00		West Brom	2-1	Arsenal
+	15.00		Wigan	1-0	Newcastle
+[1905-10-16]
+	15.00		Birmingham	0-1	Aston Villa
+	15.00		Man City	2-1	West Ham
+[1905-10-17]
+	15.00		Charlton	1-1	Fulham
+[1905-10-22]
+	15.00		Arsenal	1-0	Man City
+	15.00		Aston Villa	0-2	Wigan
+	15.00		Blackburn	2-0	Birmingham
+	15.00		Fulham	2-0	Liverpool
+
+Matchday 10
+
+[1905-10-22]
+	15.00		Man United	1-1	Tottenham
+	15.00		Portsmouth	1-2	Charlton
+[1905-10-23]
+	15.00		Bolton	2-0	West Brom
+	15.00		Everton	1-1	Chelsea
+	15.00		Newcastle	3-2	Sunderland
+	15.00		West Ham	2-1	Middlesbrough
+[1905-10-29]
+	15.00		Birmingham	0-1	Everton
+	15.00		Charlton	0-1	Bolton
+	15.00		Chelsea	4-2	Blackburn
+	15.00		Liverpool	2-0	West Ham
+
+Matchday 11
+
+[1905-10-29]
+	15.00		Middlesbrough	4-1	Man United
+	15.00		Sunderland	1-4	Portsmouth
+	15.00		Tottenham	1-1	Arsenal
+	15.00		Wigan	1-0	Fulham
+[1905-10-30]
+	15.00		West Brom	0-3	Newcastle
+[1905-10-31]
+	15.00		Man City	3-1	Aston Villa
+[1905-11-05]
+	15.00		Arsenal	3-1	Sunderland
+	15.00		Aston Villa	0-2	Liverpool
+	15.00		Blackburn	4-1	Charlton
+	15.00		Fulham	2-1	Man City
+
+Matchday 12
+
+[1905-11-05]
+	15.00		Newcastle	1-0	Birmingham
+	15.00		Portsmouth	0-2	Wigan
+	15.00		West Ham	1-0	West Brom
+[1905-11-06]
+	15.00		Everton	1-0	Middlesbrough
+	15.00		Man United	1-0	Chelsea
+[1905-11-07]
+	15.00		Bolton	1-0	Tottenham
+[1905-11-19]
+	15.00		Charlton	1-3	Man United
+	15.00		Chelsea	3-0	Newcastle
+	15.00		Liverpool	3-0	Portsmouth
+	15.00		Man City	0-0	Blackburn
+
+Matchday 13
+
+[1905-11-19]
+	15.00		Sunderland	1-3	Aston Villa
+	15.00		West Brom	4-0	Everton
+	15.00		Wigan	2-3	Arsenal
+[1905-11-20]
+	15.00		Middlesbrough	3-2	Fulham
+	15.00		Tottenham	1-1	West Ham
+[1905-11-26]
+	15.00		Arsenal	3-0	Blackburn
+	15.00		Aston Villa	1-0	Charlton
+	15.00		Man City	0-1	Liverpool
+	15.00		Portsmouth	0-2	Chelsea
+	15.00		Sunderland	0-1	Birmingham
+
+Matchday 14
+
+[1905-11-26]
+	15.00		Wigan	1-2	Tottenham
+[1905-11-27]
+	15.00		Everton	1-0	Newcastle
+	15.00		Fulham	2-1	Bolton
+	15.00		Middlesbrough	2-2	West Brom
+	15.00		West Ham	1-2	Man United
+[1905-11-30]
+	15.00		Sunderland	0-2	Liverpool
+[1905-12-03]
+	15.00		Blackburn	0-2	Everton
+	15.00		Bolton	2-0	Arsenal
+	15.00		Chelsea	1-0	Middlesbrough
+	15.00		Liverpool	3-0	Wigan
+
+Matchday 15
+
+[1905-12-03]
+	15.00		Man United	3-0	Portsmouth
+	15.00		Newcastle	1-1	Aston Villa
+	15.00		Tottenham	3-2	Sunderland
+	15.00		West Brom	0-0	Fulham
+[1905-12-04]
+	15.00		Charlton	2-5	Man City
+[1905-12-05]
+	15.00		Birmingham	1-2	West Ham
+[1905-12-10]
+	15.00		Birmingham	1-0	Fulham
+	15.00		Blackburn	3-2	West Ham
+	15.00		Bolton	1-1	Aston Villa
+	15.00		Charlton	2-0	Sunderland
+
+Matchday 16
+
+[1905-12-10]
+	15.00		Chelsea	1-0	Wigan
+	15.00		Liverpool	2-0	Middlesbrough
+	15.00		Newcastle	1-0	Arsenal
+	15.00		West Brom	2-0	Man City
+[1905-12-11]
+	15.00		Man United	1-1	Everton
+[1905-12-12]
+	15.00		Tottenham	3-1	Portsmouth
+[1905-12-14]
+	15.00		Everton	1-2	West Ham
+	15.00		Man United	4-0	Wigan
+[1905-12-17]
+	15.00		Aston Villa	0-2	Man United
+	15.00		Everton	0-4	Bolton
+
+Matchday 17
+
+[1905-12-17]
+	15.00		Fulham	2-1	Blackburn
+	15.00		Man City	4-1	Birmingham
+	15.00		Portsmouth	1-0	West Brom
+	15.00		West Ham	2-4	Newcastle
+	15.00		Wigan	3-0	Charlton
+[1905-12-18]
+	15.00		Arsenal	0-2	Chelsea
+	15.00		Middlesbrough	3-3	Tottenham
+[1905-12-26]
+	15.00		Aston Villa	4-0	Everton
+	15.00		Charlton	0-1	Arsenal
+	15.00		Chelsea	3-2	Fulham
+
+Matchday 18
+
+[1905-12-26]
+	15.00		Liverpool	2-0	Newcastle
+	15.00		Man United	3-0	West Brom
+	15.00		Middlesbrough	0-2	Blackburn
+	15.00		Portsmouth	1-1	West Ham
+	15.00		Sunderland	0-0	Bolton
+	15.00		Tottenham	2-0	Birmingham
+	15.00		Wigan	4-3	Man City
+[1905-12-28]
+	15.00		Arsenal	4-0	Portsmouth
+	15.00		Birmingham	2-2	Man United
+	15.00		Everton	1-3	Liverpool
+
+Matchday 19
+
+[1905-12-28]
+	15.00		Fulham	3-3	Aston Villa
+	15.00		Man City	0-1	Chelsea
+	15.00		West Brom	2-0	Tottenham
+	15.00		West Ham	0-2	Wigan
+[1905-12-31]
+	15.00		Aston Villa	0-0	Arsenal
+	15.00		Charlton	2-0	West Ham
+	15.00		Chelsea	2-0	Birmingham
+	15.00		Liverpool	1-0	West Brom
+	15.00		Man United	4-1	Bolton
+	15.00		Middlesbrough	0-0	Man City
+
+Matchday 20
+
+[1905-12-31]
+	15.00		Portsmouth	1-0	Fulham
+	15.00		Sunderland	0-1	Everton
+	15.00		Tottenham	2-0	Newcastle
+	15.00		Wigan	0-3	Blackburn
+[1906-01-02]
+	15.00		Birmingham	2-0	Wigan
+	15.00		Blackburn	2-1	Portsmouth
+	15.00		Bolton	2-2	Liverpool
+	15.00		Everton	3-1	Charlton
+	15.00		Fulham	2-1	Sunderland
+	15.00		Newcastle	2-2	Middlesbrough
+
+Matchday 21
+
+[1906-01-02]
+	15.00		West Brom	1-2	Aston Villa
+	15.00		West Ham	1-3	Chelsea
+[1906-01-03]
+	15.00		Arsenal	0-0	Man United
+[1906-01-04]
+	15.00		Man City	0-2	Tottenham
+[1906-01-14]
+	15.00		Arsenal	7-0	Middlesbrough
+	15.00		Aston Villa	1-2	West Ham
+	15.00		Blackburn	0-0	Bolton
+	15.00		Charlton	2-0	Birmingham
+	15.00		Fulham	1-0	Newcastle
+	15.00		Liverpool	1-0	Tottenham
+
+Matchday 22
+
+[1906-01-14]
+	15.00		Man City	3-1	Man United
+	15.00		Portsmouth	0-1	Everton
+[1906-01-15]
+	15.00		Sunderland	1-2	Chelsea
+	15.00		Wigan	0-1	West Brom
+[1906-01-21]
+	15.00		Birmingham	5-0	Portsmouth
+	15.00		Bolton	2-0	Man City
+	15.00		Everton	1-0	Arsenal
+	15.00		Middlesbrough	2-3	Wigan
+	15.00		Newcastle	0-1	Blackburn
+	15.00		Tottenham	0-0	Aston Villa
+
+Matchday 23
+
+[1906-01-21]
+	15.00		West Brom	0-1	Sunderland
+[1906-01-22]
+	15.00		Chelsea	1-1	Charlton
+	15.00		Man United	1-0	Liverpool
+[1906-01-23]
+	15.00		West Ham	2-1	Fulham
+[1906-01-31]
+	15.00		Charlton	0-0	West Brom
+	15.00		Fulham	1-0	Tottenham
+	15.00		Sunderland	0-3	Middlesbrough
+	15.00		Wigan	1-1	Everton
+[1906-02-01]
+	15.00		Arsenal	2-3	West Ham
+	15.00		Aston Villa	1-1	Chelsea
+
+Matchday 24
+
+[1906-02-01]
+	15.00		Blackburn	4-3	Man United
+	15.00		Liverpool	1-1	Birmingham
+	15.00		Man City	3-0	Newcastle
+	15.00		Portsmouth	1-1	Bolton
+[1906-02-04]
+	15.00		Birmingham	0-2	Arsenal
+	15.00		Bolton	1-1	Wigan
+	15.00		Everton	1-0	Man City
+	15.00		Man United	4-2	Fulham
+	15.00		Middlesbrough	0-4	Aston Villa
+	15.00		Newcastle	2-0	Portsmouth
+
+Matchday 25
+
+[1906-02-04]
+	15.00		West Brom	2-0	Blackburn
+	15.00		West Ham	2-0	Sunderland
+[1906-02-05]
+	15.00		Chelsea	2-0	Liverpool
+	15.00		Tottenham	3-1	Charlton
+[1906-02-08]
+	15.00		Charlton	2-0	Liverpool
+[1906-02-11]
+	15.00		Arsenal	1-1	Bolton
+	15.00		Aston Villa	1-2	Newcastle
+	15.00		Everton	1-0	Blackburn
+	15.00		Fulham	6-1	West Brom
+	15.00		Middlesbrough	3-0	Chelsea
+
+Matchday 26
+
+[1906-02-11]
+	15.00		Portsmouth	1-3	Man United
+	15.00		Wigan	0-1	Liverpool
+[1906-02-12]
+	15.00		Man City	3-2	Charlton
+	15.00		Sunderland	1-1	Tottenham
+[1906-02-13]
+	15.00		West Ham	3-0	Birmingham
+[1906-02-14]
+	15.00		Liverpool	1-0	Arsenal
+[1906-02-15]
+	15.00		Blackburn	2-0	Sunderland
+[1906-02-19]
+	15.00		Tottenham	2-2	Wigan
+[1906-02-22]
+	15.00		Newcastle	0-0	Charlton
+[1906-02-25]
+	15.00		Birmingham	1-0	Sunderland
+
+Matchday 27
+
+[1906-02-25]
+	15.00		Blackburn	1-0	Arsenal
+	15.00		Charlton	0-0	Aston Villa
+	15.00		Chelsea	2-0	Portsmouth
+	15.00		Newcastle	2-0	Everton
+[1906-02-26]
+	15.00		Bolton	2-1	Fulham
+	15.00		Liverpool	1-0	Man City
+	15.00		West Brom	0-2	Middlesbrough
+[1906-03-04]
+	15.00		Aston Villa	1-0	Portsmouth
+	15.00		Fulham	0-4	Arsenal
+	15.00		Liverpool	0-0	Charlton
+
+Matchday 28
+
+[1906-03-04]
+	15.00		Middlesbrough	1-0	Birmingham
+	15.00		Newcastle	3-1	Bolton
+	15.00		West Brom	1-2	Chelsea
+	15.00		West Ham	2-2	Everton
+[1906-03-05]
+	15.00		Man City	2-1	Sunderland
+	15.00		Tottenham	3-2	Blackburn
+[1906-03-06]
+	15.00		Wigan	1-2	Man United
+[1906-03-11]
+	15.00		Birmingham	1-1	West Brom
+	15.00		Blackburn	2-0	Aston Villa
+	15.00		Bolton	4-1	West Ham
+
+Matchday 29
+
+[1906-03-11]
+	15.00		Chelsea	2-1	Tottenham
+	15.00		Everton	3-1	Fulham
+	15.00		Portsmouth	2-1	Man City
+	15.00		Sunderland	0-1	Wigan
+[1906-03-12]
+	15.00		Arsenal	2-1	Liverpool
+	15.00		Charlton	2-1	Middlesbrough
+	15.00		Man United	2-0	Newcastle
+[1906-03-15]
+	15.00		Liverpool	5-1	Fulham
+[1906-03-18]
+	15.00		Arsenal	3-0	Charlton
+	15.00		Birmingham	0-2	Tottenham
+
+Matchday 30
+
+[1906-03-18]
+	15.00		Blackburn	3-2	Middlesbrough
+	15.00		Bolton	2-0	Sunderland
+	15.00		Everton	4-1	Aston Villa
+	15.00		Man City	0-1	Wigan
+	15.00		West Brom	1-2	Man United
+	15.00		West Ham	2-4	Portsmouth
+[1906-03-19]
+	15.00		Fulham	1-0	Chelsea
+	15.00		Newcastle	1-3	Liverpool
+[1906-03-25]
+	15.00		Aston Villa	0-0	Fulham
+	15.00		Chelsea	2-0	Man City
+
+Matchday 31
+
+[1906-03-25]
+	15.00		Liverpool	3-1	Everton
+	15.00		Sunderland	0-1	Blackburn
+	15.00		Wigan	1-2	West Ham
+[1906-03-26]
+	15.00		Charlton	3-1	Newcastle
+	15.00		Man United	3-0	Birmingham
+	15.00		Middlesbrough	4-3	Bolton
+[1906-03-27]
+	15.00		Tottenham	2-1	West Brom
+[1906-03-29]
+	15.00		Man United	1-0	West Ham
+[1906-04-01]
+	15.00		Arsenal	5-0	Aston Villa
+	15.00		Birmingham	0-0	Chelsea
+
+Matchday 32
+
+[1906-04-01]
+	15.00		Bolton	1-2	Man United
+	15.00		Everton	2-2	Sunderland
+	15.00		Fulham	1-3	Portsmouth
+	15.00		Newcastle	3-1	Tottenham
+	15.00		West Brom	0-2	Liverpool
+[1906-04-02]
+	15.00		Man City	0-1	Middlesbrough
+	15.00		West Ham	0-0	Charlton
+[1906-04-03]
+	15.00		Blackburn	1-1	Wigan
+[1906-04-04]
+	15.00		Birmingham	1-0	Bolton
+[1906-04-08]
+	15.00		Charlton	0-0	Everton
+
+Matchday 33
+
+[1906-04-08]
+	15.00		Portsmouth	2-2	Blackburn
+	15.00		Tottenham	2-1	Man City
+	15.00		Wigan	1-1	Birmingham
+[1906-04-09]
+	15.00		Aston Villa	0-0	West Brom
+	15.00		Chelsea	4-1	West Ham
+	15.00		Liverpool	1-0	Bolton
+	15.00		Man United	2-0	Arsenal
+	15.00		Middlesbrough	1-2	Newcastle
+[1906-04-12]
+	15.00		Portsmouth	1-1	Arsenal
+[1906-04-14]
+	15.00		Man United	0-0	Sunderland
+
+Matchday 34
+
+[1906-04-15]
+	15.00		Arsenal	3-1	West Brom
+	15.00		Bolton	0-2	Chelsea
+	15.00		Everton	0-1	Tottenham
+	15.00		Fulham	2-1	Charlton
+	15.00		Newcastle	3-1	Wigan
+	15.00		Portsmouth	1-0	Middlesbrough
+	15.00		West Ham	1-0	Man City
+[1906-04-16]
+	15.00		Aston Villa	3-1	Birmingham
+	15.00		Blackburn	0-1	Liverpool
+[1906-04-17]
+	15.00		Charlton	2-1	Portsmouth
+
+Matchday 35
+
+[1906-04-17]
+	15.00		Chelsea	3-0	Everton
+	15.00		Middlesbrough	2-0	West Ham
+	15.00		Sunderland	1-4	Newcastle
+	15.00		Tottenham	1-2	Man United
+	15.00		West Brom	0-0	Bolton
+[1906-04-18]
+	15.00		Wigan	3-2	Aston Villa
+[1906-04-19]
+	15.00		Birmingham	2-1	Blackburn
+[1906-04-22]
+	15.00		Arsenal	1-1	Tottenham
+	15.00		Bolton	4-1	Charlton
+	15.00		Everton	0-0	Birmingham
+
+Matchday 36
+
+[1906-04-22]
+	15.00		Newcastle	3-0	West Brom
+	15.00		Portsmouth	2-1	Sunderland
+[1906-04-24]
+	15.00		Fulham	1-0	Wigan
+[1906-04-25]
+	15.00		Aston Villa	0-1	Man City
+[1906-04-26]
+	15.00		West Ham	1-2	Liverpool
+[1906-04-29]
+	15.00		Birmingham	0-0	Newcastle
+	15.00		Charlton	0-2	Blackburn
+	15.00		Chelsea	3-0	Man United
+	15.00		Liverpool	3-1	Aston Villa
+	15.00		Man City	1-2	Fulham
+
+Matchday 37
+
+[1906-04-29]
+	15.00		Middlesbrough	0-1	Everton
+	15.00		Wigan	1-2	Portsmouth
+[1906-04-30]
+	15.00		Tottenham	1-0	Bolton
+[1906-05-01]
+	15.00		Man United	0-0	Middlesbrough
+	15.00		Sunderland	0-3	Arsenal
+	15.00		West Brom	0-1	West Ham
+[1906-05-02]
+	15.00		Blackburn	1-0	Chelsea
+[1906-05-03]
+	15.00		Bolton	1-1	Middlesbrough
+[1906-05-04]
+	15.00		Man City	1-3	Arsenal
+	15.00		Sunderland	2-1	Fulham
+
+Matchday 38
+
+[1906-05-07]
+	15.00		Arsenal	4-2	Wigan
+	15.00		Aston Villa	2-1	Sunderland
+	15.00		Blackburn	2-0	Man City
+	15.00		Bolton	1-0	Birmingham
+	15.00		Everton	2-2	West Brom
+	15.00		Fulham	1-0	Middlesbrough
+	15.00		Man United	4-0	Charlton
+	15.00		Newcastle	1-0	Chelsea
+	15.00		Portsmouth	1-3	Liverpool
+	15.00		West Ham	2-1	Tottenham
+

@@ -1,0 +1,621 @@
+############################
+# Premier League 2002-2003
+
+Matchday 1
+
+[2002-08-17]
+	15.00		Blackburn	0-0	Sunderland
+	15.00		Charlton	2-3	Chelsea
+	15.00		Everton	2-2	Tottenham
+	15.00		Fulham	4-1	Bolton
+	15.00		Leeds	3-0	Man City
+	15.00		Man United	1-0	West Brom
+	15.00		Southampton	0-0	Middlesboro
+[2002-08-18]
+	15.00		Arsenal	2-0	Birmingham
+	15.00		Aston Villa	0-1	Liverpool
+[2002-08-19]
+	15.00		Newcastle	4-0	West Ham
+
+Matchday 2
+
+[2002-08-23]
+	15.00		Chelsea	2-2	Man United
+[2002-08-24]
+	15.00		Birmingham	0-1	Blackburn
+	15.00		Bolton	1-2	Charlton
+	15.00		Liverpool	3-0	Southampton
+	15.00		Man City	1-0	Newcastle
+	15.00		Middlesboro	2-2	Fulham
+	15.00		Sunderland	0-1	Everton
+	15.00		Tottenham	1-0	Aston Villa
+	15.00		West Brom	1-3	Leeds
+	15.00		West Ham	2-2	Arsenal
+
+Matchday 3
+
+[2002-08-27]
+	15.00		Arsenal	5-2	West Brom
+	15.00		Charlton	0-1	Tottenham
+[2002-08-28]
+	15.00		Aston Villa	1-0	Man City
+	15.00		Blackburn	2-2	Liverpool
+	15.00		Everton	1-1	Birmingham
+	15.00		Leeds	0-1	Sunderland
+	15.00		Southampton	1-1	Chelsea
+[2002-08-31]
+	15.00		Birmingham	2-1	Leeds
+	15.00		Man City	3-1	Everton
+	15.00		Middlesboro	1-0	Blackburn
+
+Matchday 4
+
+[2002-08-31]
+	15.00		Sunderland	1-1	Man United
+	15.00		Tottenham	2-1	Southampton
+	15.00		West Brom	1-0	Fulham
+	15.00		West Ham	0-2	Charlton
+[2002-09-01]
+	15.00		Bolton	1-0	Aston Villa
+	15.00		Chelsea	1-1	Arsenal
+[2002-09-02]
+	15.00		Liverpool	2-2	Newcastle
+[2002-09-03]
+	15.00		Man United	1-0	Middlesboro
+[2002-09-10]
+	15.00		Arsenal	2-1	Man City
+	15.00		Middlesboro	3-0	Sunderland
+
+Matchday 5
+
+[2002-09-11]
+	15.00		Aston Villa	2-0	Charlton
+	15.00		Blackburn	2-3	Chelsea
+	15.00		Fulham	3-2	Tottenham
+	15.00		Liverpool	2-2	Birmingham
+	15.00		Man United	0-1	Bolton
+	15.00		Newcastle	0-2	Leeds
+	15.00		Southampton	1-0	Everton
+	15.00		West Ham	0-1	West Brom
+[2002-09-14]
+	15.00		Bolton	2-3	Liverpool
+	15.00		Charlton	0-3	Arsenal
+
+Matchday 6
+
+[2002-09-14]
+	15.00		Chelsea	3-0	Newcastle
+	15.00		Everton	2-1	Middlesboro
+	15.00		Leeds	1-0	Man United
+	15.00		Sunderland	0-3	Fulham
+	15.00		West Brom	1-0	Southampton
+[2002-09-15]
+	15.00		Man City	2-2	Blackburn
+	15.00		Tottenham	3-2	West Ham
+[2002-09-16]
+	15.00		Birmingham	3-0	Aston Villa
+[2002-09-21]
+	15.00		Arsenal	2-1	Bolton
+	15.00		Liverpool	2-0	West Brom
+
+Matchday 7
+
+[2002-09-21]
+	15.00		Man United	1-0	Tottenham
+	15.00		Middlesboro	1-0	Birmingham
+	15.00		Newcastle	2-0	Sunderland
+	15.00		Southampton	0-0	Charlton
+	15.00		West Ham	0-0	Man City
+[2002-09-22]
+	15.00		Aston Villa	3-2	Everton
+	15.00		Blackburn	1-0	Leeds
+[2002-09-23]
+	15.00		Fulham	0-0	Chelsea
+[2002-09-28]
+	15.00		Birmingham	0-2	Newcastle
+	15.00		Bolton	1-1	Southampton
+
+Matchday 8
+
+[2002-09-28]
+	15.00		Charlton	1-3	Man United
+	15.00		Chelsea	2-3	West Ham
+	15.00		Everton	2-0	Fulham
+	15.00		Leeds	1-4	Arsenal
+	15.00		Man City	0-3	Liverpool
+	15.00		Sunderland	1-0	Aston Villa
+	15.00		Tottenham	0-3	Middlesboro
+[2002-09-30]
+	15.00		West Brom	0-2	Blackburn
+[2002-10-05]
+	15.00		Middlesboro	2-0	Bolton
+	15.00		Newcastle	2-1	West Brom
+
+Matchday 9
+
+[2002-10-05]
+	15.00		Southampton	2-0	Man City
+	15.00		West Ham	1-2	Birmingham
+[2002-10-06]
+	15.00		Arsenal	3-1	Sunderland
+	15.00		Aston Villa	0-0	Leeds
+	15.00		Blackburn	1-2	Tottenham
+	15.00		Fulham	1-0	Charlton
+	15.00		Liverpool	1-0	Chelsea
+[2002-10-07]
+	15.00		Man United	3-0	Everton
+[2002-10-19]
+	15.00		Blackburn	5-2	Newcastle
+	15.00		Everton	2-1	Arsenal
+
+Matchday 10
+
+[2002-10-19]
+	15.00		Fulham	1-1	Man United
+	15.00		Leeds	0-1	Liverpool
+	15.00		Man City	0-3	Chelsea
+	15.00		Sunderland	0-1	West Ham
+	15.00		West Brom	1-1	Birmingham
+[2002-10-20]
+	15.00		Charlton	1-0	Middlesboro
+	15.00		Tottenham	3-1	Bolton
+[2002-10-21]
+	15.00		Aston Villa	0-1	Southampton
+[2002-10-23]
+	15.00		Fulham	0-1	West Ham
+[2002-10-26]
+	15.00		Arsenal	1-2	Blackburn
+
+Matchday 11
+
+[2002-10-26]
+	15.00		Birmingham	0-2	Man City
+	15.00		Chelsea	2-0	West Brom
+	15.00		Liverpool	2-1	Tottenham
+	15.00		Man United	1-1	Aston Villa
+	15.00		Middlesboro	2-2	Leeds
+	15.00		Newcastle	2-1	Charlton
+[2002-10-27]
+	15.00		Southampton	4-2	Fulham
+	15.00		West Ham	0-1	Everton
+[2002-10-28]
+	15.00		Bolton	1-1	Sunderland
+[2002-11-02]
+	15.00		Birmingham	3-1	Bolton
+
+Matchday 12
+
+[2002-11-02]
+	15.00		Liverpool	2-0	West Ham
+	15.00		Man United	2-1	Southampton
+	15.00		West Brom	1-2	Man City
+[2002-11-03]
+	15.00		Blackburn	0-0	Aston Villa
+	15.00		Charlton	1-1	Sunderland
+	15.00		Fulham	0-1	Arsenal
+	15.00		Leeds	0-1	Everton
+	15.00		Tottenham	0-0	Chelsea
+[2002-11-04]
+	15.00		Newcastle	2-0	Middlesboro
+[2002-11-09]
+	15.00		Arsenal	1-0	Newcastle
+
+Matchday 13
+
+[2002-11-09]
+	15.00		Aston Villa	3-1	Fulham
+	15.00		Bolton	1-1	West Brom
+	15.00		Chelsea	3-0	Birmingham
+	15.00		Everton	1-0	Charlton
+	15.00		Man City	3-1	Man United
+	15.00		Middlesboro	1-0	Liverpool
+	15.00		Southampton	1-1	Blackburn
+[2002-11-10]
+	15.00		Sunderland	2-0	Tottenham
+	15.00		West Ham	3-4	Leeds
+[2002-11-16]
+	15.00		Arsenal	3-0	Tottenham
+
+Matchday 14
+
+[2002-11-16]
+	15.00		Chelsea	1-0	Middlesboro
+	15.00		Man City	0-1	Charlton
+	15.00		Newcastle	2-1	Southampton
+	15.00		West Brom	0-0	Aston Villa
+[2002-11-17]
+	15.00		Birmingham	0-0	Fulham
+	15.00		Blackburn	0-1	Everton
+	15.00		Leeds	2-4	Bolton
+	15.00		Liverpool	0-0	Sunderland
+	15.00		West Ham	1-1	Man United
+[2002-11-23]
+	15.00		Aston Villa	4-1	West Ham
+
+Matchday 15
+
+[2002-11-23]
+	15.00		Bolton	1-1	Chelsea
+	15.00		Everton	1-0	West Brom
+	15.00		Fulham	3-2	Liverpool
+	15.00		Man United	5-3	Newcastle
+	15.00		Middlesboro	3-1	Man City
+	15.00		Southampton	3-2	Arsenal
+	15.00		Sunderland	0-1	Birmingham
+[2002-11-24]
+	15.00		Charlton	3-1	Blackburn
+	15.00		Tottenham	2-0	Leeds
+[2002-11-30]
+	15.00		Arsenal	3-1	Aston Villa
+
+Matchday 16
+
+[2002-11-30]
+	15.00		Birmingham	1-1	Tottenham
+	15.00		Blackburn	2-1	Fulham
+	15.00		Chelsea	3-0	Sunderland
+	15.00		Man City	2-0	Bolton
+	15.00		West Brom	1-0	Middlesboro
+[2002-12-01]
+	15.00		Leeds	1-2	Charlton
+	15.00		Liverpool	1-2	Man United
+	15.00		Newcastle	2-1	Everton
+[2002-12-02]
+	15.00		West Ham	0-1	Southampton
+[2002-12-07]
+	15.00		Aston Villa	0-1	Newcastle
+
+Matchday 17
+
+[2002-12-07]
+	15.00		Bolton	1-1	Blackburn
+	15.00		Charlton	2-0	Liverpool
+	15.00		Everton	1-3	Chelsea
+	15.00		Fulham	1-0	Leeds
+	15.00		Man United	2-0	Arsenal
+	15.00		Middlesboro	2-2	West Ham
+	15.00		Southampton	2-0	Birmingham
+[2002-12-08]
+	15.00		Tottenham	3-1	West Brom
+[2002-12-09]
+	15.00		Sunderland	0-3	Man City
+[2002-12-14]
+	15.00		Aston Villa	2-1	West Brom
+
+Matchday 18
+
+[2002-12-14]
+	15.00		Charlton	2-2	Man City
+	15.00		Everton	2-1	Blackburn
+	15.00		Man United	3-0	West Ham
+	15.00		Middlesboro	1-1	Chelsea
+	15.00		Southampton	1-1	Newcastle
+[2002-12-15]
+	15.00		Fulham	0-1	Birmingham
+	15.00		Sunderland	2-1	Liverpool
+	15.00		Tottenham	1-1	Arsenal
+[2002-12-16]
+	15.00		Bolton	0-3	Leeds
+[2002-12-21]
+	15.00		Arsenal	2-0	Middlesboro
+
+Matchday 19
+
+[2002-12-21]
+	15.00		Birmingham	1-1	Charlton
+	15.00		Chelsea	2-0	Aston Villa
+	15.00		Leeds	1-1	Southampton
+	15.00		Newcastle	2-0	Fulham
+	15.00		West Brom	2-2	Sunderland
+	15.00		West Ham	1-1	Bolton
+[2002-12-22]
+	15.00		Blackburn	1-0	Man United
+	15.00		Liverpool	0-0	Everton
+[2002-12-23]
+	15.00		Man City	2-3	Tottenham
+[2002-12-26]
+	15.00		Birmingham	1-1	Everton
+
+Matchday 20
+
+[2002-12-26]
+	15.00		Bolton	4-3	Newcastle
+	15.00		Chelsea	0-0	Southampton
+	15.00		Liverpool	1-1	Blackburn
+	15.00		Man City	3-1	Aston Villa
+	15.00		Middlesboro	3-1	Man United
+	15.00		Sunderland	1-2	Leeds
+	15.00		Tottenham	2-2	Charlton
+	15.00		West Brom	1-2	Arsenal
+	15.00		West Ham	1-1	Fulham
+[2002-12-28]
+	15.00		Aston Villa	1-0	Middlesboro
+
+Matchday 21
+
+[2002-12-28]
+	15.00		Blackburn	2-2	West Ham
+	15.00		Charlton	1-0	West Brom
+	15.00		Everton	0-0	Bolton
+	15.00		Fulham	0-1	Man City
+	15.00		Leeds	2-0	Chelsea
+	15.00		Man United	2-0	Birmingham
+	15.00		Southampton	2-1	Sunderland
+[2002-12-29]
+	15.00		Arsenal	1-1	Liverpool
+	15.00		Newcastle	2-1	Tottenham
+[2003-01-01]
+	15.00		Arsenal	3-2	Chelsea
+
+Matchday 22
+
+[2003-01-01]
+	15.00		Aston Villa	2-0	Bolton
+	15.00		Blackburn	1-0	Middlesboro
+	15.00		Everton	2-2	Man City
+	15.00		Leeds	2-0	Birmingham
+	15.00		Man United	2-1	Sunderland
+	15.00		Newcastle	1-0	Liverpool
+	15.00		Southampton	1-0	Tottenham
+[2003-01-11]
+	15.00		Bolton	0-0	Fulham
+	15.00		Chelsea	4-1	Charlton
+	15.00		Liverpool	1-1	Aston Villa
+
+Matchday 23
+
+[2003-01-11]
+	15.00		Man City	2-1	Leeds
+	15.00		Middlesboro	2-2	Southampton
+	15.00		Sunderland	0-0	Blackburn
+	15.00		West Brom	1-3	Man United
+	15.00		West Ham	2-2	Newcastle
+[2003-01-12]
+	15.00		Birmingham	0-4	Arsenal
+	15.00		Tottenham	4-3	Everton
+[2003-01-18]
+	15.00		Aston Villa	0-1	Tottenham
+	15.00		Blackburn	1-1	Birmingham
+	15.00		Charlton	1-1	Bolton
+
+Matchday 24
+
+[2003-01-18]
+	15.00		Everton	2-1	Sunderland
+	15.00		Leeds	0-0	West Brom
+	15.00		Man United	2-1	Chelsea
+	15.00		Newcastle	2-0	Man City
+	15.00		Southampton	0-1	Liverpool
+[2003-01-19]
+	15.00		Arsenal	3-1	West Ham
+	15.00		Fulham	1-0	Middlesboro
+[2003-01-22]
+	15.00		Charlton	4-2	West Ham
+	15.00		Newcastle	1-0	Bolton
+[2003-01-28]
+	15.00		Bolton	1-2	Everton
+
+Matchday 25
+
+[2003-01-28]
+	15.00		Chelsea	3-2	Leeds
+	15.00		Middlesboro	2-5	Aston Villa
+	15.00		Sunderland	0-1	Southampton
+[2003-01-29]
+	15.00		Liverpool	2-2	Arsenal
+	15.00		Man City	4-1	Fulham
+	15.00		Tottenham	0-1	Newcastle
+	15.00		West Brom	0-1	Charlton
+	15.00		West Ham	2-1	Blackburn
+[2003-02-01]
+	15.00		Arsenal	2-1	Fulham
+	15.00		Bolton	4-2	Birmingham
+
+Matchday 26
+
+[2003-02-01]
+	15.00		Chelsea	1-1	Tottenham
+	15.00		Everton	2-0	Leeds
+	15.00		Man City	1-2	West Brom
+	15.00		Southampton	0-2	Man United
+	15.00		Sunderland	1-3	Charlton
+[2003-02-02]
+	15.00		Aston Villa	3-0	Blackburn
+	15.00		West Ham	0-3	Liverpool
+[2003-02-04]
+	15.00		Birmingham	0-1	Man United
+[2003-02-08]
+	15.00		Birmingham	1-3	Chelsea
+	15.00		Blackburn	1-0	Southampton
+
+Matchday 27
+
+[2003-02-08]
+	15.00		Charlton	2-1	Everton
+	15.00		Fulham	2-1	Aston Villa
+	15.00		Leeds	1-0	West Ham
+	15.00		Liverpool	1-1	Middlesboro
+	15.00		Tottenham	4-1	Sunderland
+	15.00		West Brom	1-1	Bolton
+[2003-02-09]
+	15.00		Man United	1-1	Man City
+	15.00		Newcastle	1-1	Arsenal
+[2003-02-19]
+	15.00		Fulham	3-0	West Brom
+[2003-02-22]
+	15.00		Bolton	1-1	Man United
+
+Matchday 28
+
+[2003-02-22]
+	15.00		Charlton	3-0	Aston Villa
+	15.00		Chelsea	1-2	Blackburn
+	15.00		Everton	2-1	Southampton
+	15.00		Leeds	0-3	Newcastle
+	15.00		Man City	1-5	Arsenal
+	15.00		Sunderland	1-3	Middlesboro
+[2003-02-23]
+	15.00		Birmingham	2-1	Liverpool
+	15.00		West Brom	1-2	West Ham
+[2003-02-24]
+	15.00		Tottenham	1-1	Fulham
+[2003-03-01]
+	15.00		Blackburn	1-0	Man City
+
+Matchday 29
+
+[2003-03-01]
+	15.00		Fulham	1-0	Sunderland
+	15.00		Middlesboro	1-1	Everton
+	15.00		Newcastle	2-1	Chelsea
+	15.00		Southampton	1-0	West Brom
+	15.00		West Ham	2-0	Tottenham
+[2003-03-02]
+	15.00		Arsenal	2-0	Charlton
+[2003-03-03]
+	15.00		Aston Villa	0-2	Birmingham
+[2003-03-05]
+	15.00		Man United	2-1	Leeds
+	15.00		Middlesboro	1-0	Newcastle
+[2003-03-08]
+	15.00		Liverpool	2-0	Bolton
+
+Matchday 30
+
+[2003-03-15]
+	15.00		Aston Villa	0-1	Man United
+	15.00		Blackburn	2-0	Arsenal
+	15.00		Charlton	0-2	Newcastle
+	15.00		Everton	0-0	West Ham
+	15.00		Fulham	2-2	Southampton
+	15.00		Leeds	2-3	Middlesboro
+	15.00		Sunderland	0-2	Bolton
+[2003-03-16]
+	15.00		Man City	1-0	Birmingham
+	15.00		Tottenham	2-3	Liverpool
+	15.00		West Brom	0-2	Chelsea
+
+Matchday 31
+
+[2003-03-22]
+	15.00		Birmingham	1-0	West Brom
+	15.00		Chelsea	5-0	Man City
+	15.00		Man United	3-0	Fulham
+	15.00		Middlesboro	1-1	Charlton
+	15.00		Newcastle	5-1	Blackburn
+	15.00		Southampton	2-2	Aston Villa
+	15.00		West Ham	2-0	Sunderland
+[2003-03-23]
+	15.00		Arsenal	2-1	Everton
+	15.00		Liverpool	3-1	Leeds
+[2003-03-24]
+	15.00		Bolton	1-0	Tottenham
+
+Matchday 32
+
+[2003-04-05]
+	15.00		Aston Villa	1-1	Arsenal
+	15.00		Bolton	2-0	Man City
+	15.00		Charlton	1-6	Leeds
+	15.00		Man United	4-0	Liverpool
+	15.00		Middlesboro	3-0	West Brom
+	15.00		Southampton	1-1	West Ham
+	15.00		Sunderland	1-2	Chelsea
+	15.00		Tottenham	2-1	Birmingham
+[2003-04-06]
+	15.00		Everton	2-1	Newcastle
+[2003-04-07]
+	15.00		Fulham	0-4	Blackburn
+
+Matchday 33
+
+[2003-04-12]
+	15.00		Birmingham	2-0	Sunderland
+	15.00		Blackburn	1-0	Charlton
+	15.00		Chelsea	1-0	Bolton
+	15.00		Leeds	2-2	Tottenham
+	15.00		Liverpool	2-0	Fulham
+	15.00		Man City	0-0	Middlesboro
+	15.00		Newcastle	2-6	Man United
+	15.00		West Brom	1-2	Everton
+	15.00		West Ham	2-2	Aston Villa
+[2003-04-16]
+	15.00		Arsenal	2-2	Man United
+
+Matchday 34
+
+[2003-04-18]
+	15.00		Tottenham	0-2	Man City
+[2003-04-19]
+	15.00		Aston Villa	2-1	Chelsea
+	15.00		Bolton	1-0	West Ham
+	15.00		Charlton	0-2	Birmingham
+	15.00		Everton	1-2	Liverpool
+	15.00		Fulham	2-1	Newcastle
+	15.00		Man United	3-1	Blackburn
+	15.00		Middlesboro	0-2	Arsenal
+	15.00		Southampton	3-2	Leeds
+	15.00		Sunderland	1-2	West Brom
+
+Matchday 35
+
+[2003-04-21]
+	15.00		Birmingham	3-2	Southampton
+	15.00		Blackburn	0-0	Bolton
+	15.00		Chelsea	4-1	Everton
+	15.00		Liverpool	2-1	Charlton
+	15.00		Man City	3-0	Sunderland
+	15.00		Newcastle	1-1	Aston Villa
+	15.00		West Brom	2-3	Tottenham
+	15.00		West Ham	1-0	Middlesboro
+[2003-04-22]
+	15.00		Leeds	2-0	Fulham
+[2003-04-26]
+	15.00		Birmingham	3-0	Middlesboro
+
+Matchday 36
+
+[2003-04-26]
+	15.00		Bolton	2-2	Arsenal
+	15.00		Charlton	2-1	Southampton
+	15.00		Chelsea	1-1	Fulham
+	15.00		Everton	2-1	Aston Villa
+	15.00		Leeds	2-3	Blackburn
+	15.00		Sunderland	0-1	Newcastle
+	15.00		West Brom	0-6	Liverpool
+[2003-04-27]
+	15.00		Man City	0-1	West Ham
+	15.00		Tottenham	0-2	Man United
+[2003-05-03]
+	15.00		Aston Villa	1-0	Sunderland
+
+Matchday 37
+
+[2003-05-03]
+	15.00		Blackburn	1-1	West Brom
+	15.00		Fulham	2-0	Everton
+	15.00		Liverpool	1-2	Man City
+	15.00		Man United	4-1	Charlton
+	15.00		Middlesboro	5-1	Tottenham
+	15.00		Newcastle	1-0	Birmingham
+	15.00		Southampton	0-0	Bolton
+	15.00		West Ham	1-0	Chelsea
+[2003-05-04]
+	15.00		Arsenal	2-3	Leeds
+[2003-05-07]
+	15.00		Arsenal	6-1	Southampton
+
+Matchday 38
+
+[2003-05-11]
+	15.00		Birmingham	2-2	West Ham
+	15.00		Bolton	2-1	Middlesboro
+	15.00		Charlton	0-1	Fulham
+	15.00		Chelsea	2-1	Liverpool
+	15.00		Everton	1-2	Man United
+	15.00		Leeds	3-1	Aston Villa
+	15.00		Man City	0-1	Southampton
+	15.00		Sunderland	0-4	Arsenal
+	15.00		Tottenham	0-4	Blackburn
+	15.00		West Brom	2-2	Newcastle
+

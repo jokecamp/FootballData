@@ -1,0 +1,36 @@
+############################
+# Premier League 2007-2008
+
+league: en
+season: 2007/08
+start_at: 1907-08-11
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Blackpool
+- Bristol City
+- Burnley
+- Cardiff
+- Charlton
+- Colchester
+- Coventry
+- Crystal Palace
+- Hull
+- Ipswich
+- Leicester
+- Norwich
+- Plymouth
+- Preston
+- QPR
+- Scunthorpe
+- Sheffield United
+- Sheffield Weds
+- Southampton
+- Stoke
+- Watford
+- West Brom
+- Wolves
+

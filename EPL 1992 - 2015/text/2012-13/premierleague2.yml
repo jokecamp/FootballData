@@ -1,0 +1,36 @@
+############################
+# Premier League 2012-2013
+
+league: en
+season: 2012/13
+start_at: 1912-08-18
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Bournemouth
+- Brentford
+- Bury
+- Carlisle
+- Colchester
+- Coventry
+- Crawley Town
+- Crewe
+- Doncaster
+- Hartlepool
+- Leyton Orient
+- Milton Keynes Dons
+- Notts County
+- Oldham
+- Portsmouth
+- Preston
+- Scunthorpe
+- Sheffield United
+- Shrewsbury
+- Stevenage
+- Swindon
+- Tranmere
+- Walsall
+- Yeovil
+

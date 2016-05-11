@@ -1,0 +1,32 @@
+############################
+# Premier League 1999-2000
+
+league: en
+season: 1999/00
+start_at: 1900-01-03
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Bradford
+- Chelsea
+- Coventry
+- Derby
+- Everton
+- Leeds
+- Leicester
+- Liverpool
+- Man United
+- Middlesbrough
+- Newcastle
+- Sheffield Weds
+- Southampton
+- Sunderland
+- Tottenham
+- Watford
+- West Ham
+- Wimbledon
+

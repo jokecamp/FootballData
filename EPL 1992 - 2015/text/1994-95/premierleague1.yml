@@ -1,0 +1,36 @@
+############################
+# Premier League 1994-1995
+
+league: en
+season: 1994/95
+start_at: 1994-08-13
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Bolton
+- Bristol City
+- Burnley
+- Charlton
+- Derby
+- Grimsby
+- Luton
+- Middlesbrough
+- Millwall
+- Notts County
+- Oldham
+- Port Vale
+- Portsmouth
+- Reading
+- Sheffield United
+- Southend
+- Stoke
+- Sunderland
+- Swindon
+- Tranmere
+- Watford
+- West Brom
+- Wolves
+

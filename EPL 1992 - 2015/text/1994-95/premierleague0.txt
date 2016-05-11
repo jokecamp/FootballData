@@ -1,0 +1,736 @@
+############################
+# Premier League 1994-1995
+
+Matchday 1
+
+[1994-08-20]
+	15.00		Arsenal	3-0	Man City
+	15.00		Chelsea	2-0	Norwich
+	15.00		Coventry	1-1	Wimbledon
+	15.00		Crystal Palace	1-6	Liverpool
+	15.00		Everton	2-2	Aston Villa
+	15.00		Ipswich	0-1	Nott'm Forest
+	15.00		Man United	2-0	QPR
+	15.00		Sheffield Weds	3-4	Tottenham
+	15.00		Southampton	1-1	Blackburn
+	15.00		West Ham	0-0	Leeds
+[1994-08-21]
+	15.00		Leicester	1-3	Newcastle
+
+Matchday 2
+
+[1994-08-22]
+	15.00		Nott'm Forest	1-1	Man United
+[1994-08-23]
+	15.00		Blackburn	3-0	Leicester
+	15.00		Leeds	1-0	Arsenal
+	15.00		Wimbledon	1-1	Ipswich
+[1994-08-24]
+	15.00		Aston Villa	1-1	Southampton
+	15.00		Man City	3-0	West Ham
+	15.00		Newcastle	4-0	Coventry
+	15.00		Norwich	0-0	Crystal Palace
+	15.00		QPR	3-2	Sheffield Weds
+	15.00		Tottenham	2-1	Everton
+[1994-08-27]
+	15.00		Aston Villa	1-1	Crystal Palace
+
+Matchday 3
+
+[1994-08-27]
+	15.00		Blackburn	4-0	Coventry
+	15.00		Leeds	2-3	Chelsea
+	15.00		Man City	4-0	Everton
+	15.00		Newcastle	5-1	Southampton
+	15.00		Norwich	1-0	West Ham
+	15.00		Nott'm Forest	1-0	Leicester
+	15.00		QPR	1-2	Ipswich
+	15.00		Tottenham	0-1	Man United
+	15.00		Wimbledon	0-1	Sheffield Weds
+[1994-08-28]
+	15.00		Liverpool	3-0	Arsenal
+[1994-08-29]
+	15.00		Coventry	0-1	Aston Villa
+
+Matchday 4
+
+[1994-08-30]
+	15.00		Crystal Palace	1-2	Leeds
+	15.00		Everton	1-2	Nott'm Forest
+	15.00		Ipswich	1-3	Tottenham
+[1994-08-31]
+	15.00		Arsenal	0-0	Blackburn
+	15.00		Chelsea	3-0	Man City
+	15.00		Leicester	1-1	QPR
+	15.00		Man United	3-0	Wimbledon
+	15.00		Sheffield Weds	0-0	Norwich
+	15.00		Southampton	0-2	Liverpool
+	15.00		West Ham	1-3	Newcastle
+[1994-09-10]
+	15.00		Aston Villa	2-0	Ipswich
+
+Matchday 5
+
+[1994-09-10]
+	15.00		Blackburn	3-0	Everton
+	15.00		Liverpool	0-0	West Ham
+	15.00		Man City	1-1	Crystal Palace
+	15.00		Newcastle	4-2	Chelsea
+	15.00		Norwich	0-0	Arsenal
+	15.00		Nott'm Forest	4-1	Sheffield Weds
+	15.00		QPR	2-2	Coventry
+	15.00		Wimbledon	2-1	Leicester
+[1994-09-11]
+	15.00		Leeds	2-1	Man United
+[1994-09-12]
+	15.00		Tottenham	1-2	Southampton
+[1994-09-17]
+	15.00		Coventry	2-1	Leeds
+
+Matchday 6
+
+[1994-09-17]
+	15.00		Crystal Palace	0-0	Wimbledon
+	15.00		Everton	2-2	QPR
+	15.00		Leicester	3-1	Tottenham
+	15.00		Man United	2-0	Liverpool
+	15.00		Sheffield Weds	1-1	Man City
+	15.00		Southampton	1-1	Nott'm Forest
+	15.00		West Ham	1-0	Aston Villa
+[1994-09-18]
+	15.00		Arsenal	2-3	Newcastle
+	15.00		Chelsea	1-2	Blackburn
+[1994-09-19]
+	15.00		Ipswich	1-2	Norwich
+[1994-09-24]
+	15.00		Blackburn	3-1	Aston Villa
+
+Matchday 7
+
+[1994-09-24]
+	15.00		Coventry	1-3	Southampton
+	15.00		Crystal Palace	0-1	Chelsea
+	15.00		Everton	1-1	Leicester
+	15.00		Ipswich	3-2	Man United
+	15.00		Man City	2-0	Norwich
+	15.00		Newcastle	1-1	Liverpool
+	15.00		QPR	0-1	Wimbledon
+	15.00		Tottenham	1-4	Nott'm Forest
+[1994-09-25]
+	15.00		West Ham	0-2	Arsenal
+[1994-09-26]
+	15.00		Sheffield Weds	1-1	Leeds
+[1994-10-01]
+	15.00		Arsenal	1-2	Crystal Palace
+
+Matchday 8
+
+[1994-10-01]
+	15.00		Aston Villa	0-2	Newcastle
+	15.00		Leeds	2-0	Man City
+	15.00		Liverpool	4-1	Sheffield Weds
+	15.00		Man United	2-0	Everton
+	15.00		Norwich	2-1	Blackburn
+	15.00		Southampton	3-1	Ipswich
+	15.00		Wimbledon	1-2	Tottenham
+[1994-10-02]
+	15.00		Chelsea	1-2	West Ham
+	15.00		Nott'm Forest	3-2	QPR
+[1994-10-03]
+	15.00		Leicester	2-2	Coventry
+[1994-10-08]
+	15.00		Chelsea	4-0	Leicester
+
+Matchday 9
+
+[1994-10-08]
+	15.00		Liverpool	3-2	Aston Villa
+	15.00		Man City	3-3	Nott'm Forest
+	15.00		Norwich	2-1	Leeds
+	15.00		Sheffield Weds	1-0	Man United
+	15.00		Southampton	2-0	Everton
+	15.00		Tottenham	1-1	QPR
+	15.00		West Ham	1-0	Crystal Palace
+	15.00		Wimbledon	1-3	Arsenal
+[1994-10-09]
+	15.00		Newcastle	1-1	Blackburn
+[1994-10-10]
+	15.00		Coventry	2-0	Ipswich
+[1994-10-15]
+	15.00		Arsenal	3-1	Chelsea
+
+Matchday 10
+
+[1994-10-15]
+	15.00		Aston Villa	1-1	Norwich
+	15.00		Blackburn	3-2	Liverpool
+	15.00		Crystal Palace	0-1	Newcastle
+	15.00		Everton	0-2	Coventry
+	15.00		Leeds	1-1	Tottenham
+	15.00		Leicester	4-3	Southampton
+	15.00		Man United	1-0	West Ham
+	15.00		QPR	1-2	Man City
+[1994-10-16]
+	15.00		Ipswich	1-2	Sheffield Weds
+[1994-10-17]
+	15.00		Nott'm Forest	3-1	Wimbledon
+[1994-10-22]
+	15.00		Aston Villa	0-2	Nott'm Forest
+
+Matchday 11
+
+[1994-10-22]
+	15.00		Crystal Palace	1-0	Everton
+	15.00		Liverpool	3-0	Wimbledon
+	15.00		Man City	5-2	Tottenham
+	15.00		Newcastle	2-1	Sheffield Weds
+	15.00		Norwich	4-2	QPR
+	15.00		West Ham	2-0	Southampton
+[1994-10-23]
+	15.00		Arsenal	2-1	Coventry
+	15.00		Blackburn	2-4	Man United
+	15.00		Chelsea	2-0	Ipswich
+[1994-10-24]
+	15.00		Leeds	2-1	Leicester
+[1994-10-29]
+	15.00		Coventry	1-0	Man City
+
+Matchday 12
+
+[1994-10-29]
+	15.00		Everton	1-1	Arsenal
+	15.00		Ipswich	1-3	Liverpool
+	15.00		Leicester	0-1	Crystal Palace
+	15.00		Man United	2-0	Newcastle
+	15.00		Nott'm Forest	0-2	Blackburn
+	15.00		QPR	2-0	Aston Villa
+	15.00		Sheffield Weds	1-1	Chelsea
+	15.00		Southampton	1-3	Leeds
+	15.00		Tottenham	3-1	West Ham
+[1994-10-30]
+	15.00		Wimbledon	1-0	Norwich
+[1994-10-31]
+	15.00		QPR	2-1	Liverpool
+
+Matchday 13
+
+[1994-11-01]
+	15.00		Everton	1-0	West Ham
+	15.00		Ipswich	2-0	Leeds
+[1994-11-02]
+	15.00		Coventry	1-4	Crystal Palace
+	15.00		Sheffield Weds	0-1	Blackburn
+	15.00		Southampton	1-1	Norwich
+[1994-11-05]
+	15.00		Blackburn	2-0	Tottenham
+	15.00		Crystal Palace	3-0	Ipswich
+	15.00		Leeds	3-1	Wimbledon
+	15.00		Liverpool	1-0	Nott'm Forest
+	15.00		Man City	3-3	Southampton
+	15.00		Newcastle	2-1	QPR
+
+Matchday 14
+
+[1994-11-05]
+	15.00		Norwich	0-0	Everton
+	15.00		West Ham	1-0	Leicester
+[1994-11-06]
+	15.00		Arsenal	0-0	Sheffield Weds
+	15.00		Aston Villa	1-2	Man United
+	15.00		Chelsea	2-2	Coventry
+[1994-11-07]
+	15.00		Nott'm Forest	0-0	Newcastle
+[1994-11-09]
+	15.00		Liverpool	3-1	Chelsea
+	15.00		Wimbledon	4-3	Aston Villa
+[1994-11-10]
+	15.00		Man United	5-0	Man City
+[1994-11-19]
+	15.00		Coventry	1-0	Norwich
+	15.00		Ipswich	1-3	Blackburn
+
+Matchday 15
+
+[1994-11-19]
+	15.00		Man United	3-0	Crystal Palace
+	15.00		Nott'm Forest	0-1	Chelsea
+	15.00		QPR	3-2	Leeds
+	15.00		Sheffield Weds	1-0	West Ham
+	15.00		Southampton	1-0	Arsenal
+	15.00		Tottenham	3-4	Aston Villa
+	15.00		Wimbledon	3-2	Newcastle
+[1994-11-20]
+	15.00		Leicester	0-1	Man City
+[1994-11-21]
+	15.00		Everton	2-0	Liverpool
+[1994-11-23]
+	15.00		Leicester	2-1	Arsenal
+	15.00		Tottenham	0-0	Chelsea
+
+Matchday 16
+
+[1994-11-26]
+	15.00		Arsenal	0-0	Man United
+	15.00		Blackburn	4-0	QPR
+	15.00		Chelsea	0-1	Everton
+	15.00		Crystal Palace	0-0	Southampton
+	15.00		Leeds	1-0	Nott'm Forest
+	15.00		Liverpool	1-1	Tottenham
+	15.00		Man City	2-0	Wimbledon
+	15.00		Newcastle	1-1	Ipswich
+	15.00		Norwich	2-1	Leicester
+	15.00		West Ham	0-1	Coventry
+[1994-11-27]
+	15.00		Aston Villa	1-1	Sheffield Weds
+
+Matchday 17
+
+[1994-12-03]
+	15.00		Coventry	1-1	Liverpool
+	15.00		Ipswich	1-2	Man City
+	15.00		Leicester	1-1	Aston Villa
+	15.00		Man United	1-0	Norwich
+	15.00		Nott'm Forest	2-2	Arsenal
+	15.00		Sheffield Weds	1-0	Crystal Palace
+	15.00		Southampton	0-1	Chelsea
+	15.00		Tottenham	4-2	Newcastle
+	15.00		Wimbledon	0-3	Blackburn
+[1994-12-04]
+	15.00		Everton	3-0	Leeds
+	15.00		QPR	2-1	West Ham
+
+Matchday 18
+
+[1994-12-10]
+	15.00		Aston Villa	0-0	Everton
+	15.00		Blackburn	3-2	Southampton
+	15.00		Leeds	2-2	West Ham
+	15.00		Newcastle	3-1	Leicester
+	15.00		Norwich	3-0	Chelsea
+	15.00		Nott'm Forest	4-1	Ipswich
+	15.00		QPR	2-3	Man United
+	15.00		Tottenham	3-1	Sheffield Weds
+	15.00		Wimbledon	2-0	Coventry
+[1994-12-11]
+	15.00		Liverpool	0-0	Crystal Palace
+[1994-12-12]
+	15.00		Man City	1-2	Arsenal
+
+Matchday 19
+
+[1994-12-16]
+	15.00		Ipswich	2-2	Wimbledon
+[1994-12-17]
+	15.00		Arsenal	1-3	Leeds
+	15.00		Coventry	0-0	Newcastle
+	15.00		Crystal Palace	0-1	Norwich
+	15.00		Everton	0-0	Tottenham
+	15.00		Leicester	0-0	Blackburn
+	15.00		Man United	1-2	Nott'm Forest
+	15.00		Sheffield Weds	0-2	QPR
+	15.00		West Ham	3-0	Man City
+[1994-12-18]
+	15.00		Chelsea	0-0	Liverpool
+[1994-12-19]
+	15.00		Southampton	2-1	Aston Villa
+
+Matchday 20
+
+[1994-12-26]
+	15.00		Arsenal	0-0	Aston Villa
+	15.00		Chelsea	2-3	Man United
+	15.00		Coventry	0-0	Nott'm Forest
+	15.00		Crystal Palace	0-0	QPR
+	15.00		Everton	1-4	Sheffield Weds
+	15.00		Leeds	0-0	Newcastle
+	15.00		Leicester	1-2	Liverpool
+	15.00		Man City	1-3	Blackburn
+	15.00		Norwich	0-2	Tottenham
+	15.00		Southampton	2-3	Wimbledon
+	15.00		West Ham	1-1	Ipswich
+
+Matchday 21
+
+[1994-12-27]
+	15.00		Nott'm Forest	1-0	Norwich
+	15.00		Tottenham	0-0	Crystal Palace
+[1994-12-28]
+	15.00		Aston Villa	3-0	Chelsea
+	15.00		Ipswich	0-2	Arsenal
+	15.00		Liverpool	2-0	Man City
+	15.00		Man United	1-1	Leicester
+	15.00		QPR	2-2	Southampton
+	15.00		Sheffield Weds	5-1	Coventry
+	15.00		Wimbledon	1-0	West Ham
+[1994-12-31]
+	15.00		Arsenal	1-3	QPR
+	15.00		Chelsea	1-1	Wimbledon
+
+Matchday 22
+
+[1994-12-31]
+	15.00		Coventry	0-4	Tottenham
+	15.00		Crystal Palace	0-1	Blackburn
+	15.00		Everton	4-1	Ipswich
+	15.00		Leeds	0-2	Liverpool
+	15.00		Leicester	0-1	Sheffield Weds
+	15.00		Man City	2-2	Aston Villa
+	15.00		Norwich	2-1	Newcastle
+	15.00		Southampton	2-2	Man United
+	15.00		West Ham	3-1	Nott'm Forest
+[1995-01-02]
+	15.00		Aston Villa	0-0	Leeds
+	15.00		Blackburn	4-2	West Ham
+
+Matchday 23
+
+[1995-01-02]
+	15.00		Ipswich	4-1	Leicester
+	15.00		Liverpool	4-0	Norwich
+	15.00		Newcastle	0-0	Man City
+	15.00		Nott'm Forest	1-0	Crystal Palace
+	15.00		Sheffield Weds	1-1	Southampton
+	15.00		Tottenham	1-0	Arsenal
+	15.00		Wimbledon	2-1	Everton
+[1995-01-03]
+	15.00		Man United	2-0	Coventry
+[1995-01-14]
+	15.00		Arsenal	1-1	Everton
+	15.00		Aston Villa	2-1	QPR
+	15.00		Blackburn	3-0	Nott'm Forest
+
+Matchday 24
+
+[1995-01-14]
+	15.00		Chelsea	1-1	Sheffield Weds
+	15.00		Crystal Palace	2-0	Leicester
+	15.00		Leeds	0-0	Southampton
+	15.00		Liverpool	0-1	Ipswich
+	15.00		Man City	0-0	Coventry
+	15.00		Norwich	1-2	Wimbledon
+	15.00		West Ham	1-2	Tottenham
+[1995-01-15]
+	15.00		Newcastle	1-1	Man United
+[1995-01-21]
+	15.00		Coventry	0-1	Arsenal
+	15.00		Everton	3-1	Crystal Palace
+	15.00		Ipswich	2-2	Chelsea
+
+Matchday 25
+
+[1995-01-21]
+	15.00		Nott'm Forest	1-2	Aston Villa
+	15.00		Sheffield Weds	0-0	Newcastle
+[1995-01-22]
+	15.00		Man United	1-0	Blackburn
+[1995-01-23]
+	15.00		West Ham	0-2	Sheffield Weds
+[1995-01-24]
+	15.00		Arsenal	1-1	Southampton
+	15.00		Leeds	4-0	QPR
+	15.00		Liverpool	0-0	Everton
+[1995-01-25]
+	15.00		Aston Villa	1-0	Tottenham
+	15.00		Chelsea	0-2	Nott'm Forest
+	15.00		Crystal Palace	1-1	Man United
+	15.00		Man City	0-1	Leicester
+
+Matchday 26
+
+[1995-01-25]
+	15.00		Newcastle	2-1	Wimbledon
+	15.00		Norwich	2-2	Coventry
+[1995-01-28]
+	15.00		Blackburn	4-1	Ipswich
+[1995-02-01]
+	15.00		Blackburn	1-1	Leeds
+	15.00		Newcastle	2-0	Everton
+[1995-02-04]
+	15.00		Coventry	2-2	Chelsea
+	15.00		Everton	2-1	Norwich
+	15.00		Ipswich	0-2	Crystal Palace
+	15.00		Leicester	1-2	West Ham
+	15.00		Man United	1-0	Aston Villa
+	15.00		Nott'm Forest	1-1	Liverpool
+
+Matchday 27
+
+[1995-02-04]
+	15.00		QPR	3-0	Newcastle
+	15.00		Sheffield Weds	3-1	Arsenal
+	15.00		Southampton	2-2	Man City
+	15.00		Wimbledon	0-0	Leeds
+[1995-02-05]
+	15.00		Tottenham	3-1	Blackburn
+[1995-02-11]
+	15.00		Arsenal	1-1	Leicester
+	15.00		Aston Villa	7-1	Wimbledon
+	15.00		Chelsea	1-1	Tottenham
+	15.00		Crystal Palace	0-2	Coventry
+	15.00		Liverpool	1-1	QPR
+	15.00		Man City	0-3	Man United
+
+Matchday 28
+
+[1995-02-11]
+	15.00		Newcastle	2-1	Nott'm Forest
+	15.00		Norwich	2-2	Southampton
+[1995-02-12]
+	15.00		Blackburn	3-1	Sheffield Weds
+[1995-02-13]
+	15.00		West Ham	2-2	Everton
+[1995-02-18]
+	15.00		Coventry	2-0	West Ham
+	15.00		Sheffield Weds	1-2	Aston Villa
+[1995-02-21]
+	15.00		Arsenal	1-0	Nott'm Forest
+[1995-02-22]
+	15.00		Aston Villa	4-4	Leicester
+	15.00		Blackburn	2-1	Wimbledon
+	15.00		Leeds	1-0	Everton
+	15.00		Man City	2-0	Ipswich
+
+Matchday 29
+
+[1995-02-22]
+	15.00		Norwich	0-2	Man United
+[1995-02-25]
+	15.00		Blackburn	0-0	Norwich
+	15.00		Coventry	4-2	Leicester
+	15.00		Crystal Palace	0-3	Arsenal
+	15.00		Everton	1-0	Man United
+	15.00		Ipswich	2-1	Southampton
+	15.00		Man City	0-0	Leeds
+	15.00		Newcastle	3-1	Aston Villa
+	15.00		Sheffield Weds	1-2	Liverpool
+	15.00		Tottenham	1-2	Wimbledon
+	15.00		West Ham	1-2	Chelsea
+
+Matchday 30
+
+[1995-02-26]
+	15.00		QPR	1-1	Nott'm Forest
+[1995-02-28]
+	15.00		Ipswich	0-2	Newcastle
+[1995-03-04]
+	15.00		Aston Villa	0-1	Blackburn
+	15.00		Leeds	0-1	Sheffield Weds
+	15.00		Leicester	2-2	Everton
+	15.00		Liverpool	2-0	Newcastle
+	15.00		Man United	9-0	Ipswich
+	15.00		Norwich	1-1	Man City
+	15.00		Nott'm Forest	2-2	Tottenham
+	15.00		Southampton	0-0	Coventry
+	15.00		Wimbledon	1-3	QPR
+
+Matchday 31
+
+[1995-03-05]
+	15.00		Arsenal	0-1	West Ham
+	15.00		Chelsea	0-0	Crystal Palace
+[1995-03-06]
+	15.00		Aston Villa	0-0	Coventry
+[1995-03-07]
+	15.00		Wimbledon	0-1	Man United
+[1995-03-08]
+	15.00		Blackburn	3-1	Arsenal
+	15.00		Man City	1-2	Chelsea
+	15.00		Newcastle	2-0	West Ham
+	15.00		Norwich	0-0	Sheffield Weds
+	15.00		Nott'm Forest	2-1	Everton
+	15.00		QPR	2-0	Leicester
+	15.00		Tottenham	3-0	Ipswich
+
+Matchday 32
+
+[1995-03-11]
+	15.00		Chelsea	0-3	Leeds
+	15.00		Coventry	1-1	Blackburn
+	15.00		Leicester	2-4	Nott'm Forest
+	15.00		Sheffield Weds	0-1	Wimbledon
+	15.00		West Ham	2-2	Norwich
+[1995-03-14]
+	15.00		Crystal Palace	2-1	Sheffield Weds
+	15.00		Liverpool	2-3	Coventry
+[1995-03-15]
+	15.00		Everton	1-1	Man City
+	15.00		Leicester	1-3	Leeds
+	15.00		Man United	0-0	Tottenham
+	15.00		QPR	2-0	Norwich
+
+Matchday 33
+
+[1995-03-15]
+	15.00		Southampton	1-1	West Ham
+[1995-03-18]
+	15.00		Aston Villa	0-2	West Ham
+	15.00		Blackburn	2-1	Chelsea
+	15.00		Leeds	3-0	Coventry
+	15.00		Man City	3-2	Sheffield Weds
+	15.00		Nott'm Forest	3-0	Southampton
+	15.00		QPR	2-3	Everton
+	15.00		Tottenham	1-0	Leicester
+	15.00		Wimbledon	2-0	Crystal Palace
+[1995-03-19]
+	15.00		Liverpool	2-0	Man United
+	15.00		Newcastle	1-0	Arsenal
+
+Matchday 34
+
+[1995-03-20]
+	15.00		Norwich	3-0	Ipswich
+[1995-03-21]
+	15.00		Wimbledon	2-0	Man City
+[1995-03-22]
+	15.00		Man United	3-0	Arsenal
+	15.00		Nott'm Forest	3-0	Leeds
+	15.00		QPR	1-0	Chelsea
+	15.00		Southampton	3-1	Newcastle
+	15.00		Tottenham	0-0	Liverpool
+[1995-04-01]
+	15.00		Arsenal	5-1	Norwich
+	15.00		Chelsea	1-1	Newcastle
+	15.00		Coventry	0-1	QPR
+	15.00		Crystal Palace	2-1	Man City
+
+Matchday 35
+
+[1995-04-01]
+	15.00		Everton	1-2	Blackburn
+	15.00		Ipswich	0-1	Aston Villa
+	15.00		Leicester	3-4	Wimbledon
+	15.00		Sheffield Weds	1-7	Nott'm Forest
+[1995-04-02]
+	15.00		Man United	0-0	Leeds
+	15.00		Southampton	4-3	Tottenham
+[1995-04-04]
+	15.00		Crystal Palace	0-0	Aston Villa
+	15.00		QPR	0-1	Blackburn
+[1995-04-05]
+	15.00		Leeds	4-0	Ipswich
+	15.00		Leicester	1-0	Norwich
+	15.00		Liverpool	3-1	Southampton
+
+Matchday 36
+
+[1995-04-08]
+	15.00		Newcastle	3-0	Norwich
+	15.00		Nott'm Forest	1-1	West Ham
+	15.00		QPR	3-1	Arsenal
+	15.00		Sheffield Weds	1-0	Leicester
+[1995-04-09]
+	15.00		Liverpool	0-1	Leeds
+[1995-04-10]
+	15.00		Wimbledon	1-1	Chelsea
+[1995-04-11]
+	15.00		Ipswich	0-1	QPR
+	15.00		Tottenham	2-1	Man City
+[1995-04-12]
+	15.00		Arsenal	0-1	Liverpool
+	15.00		Chelsea	0-2	Southampton
+	15.00		Norwich	0-1	Nott'm Forest
+
+Matchday 37
+
+[1995-04-13]
+	15.00		West Ham	3-0	Wimbledon
+[1995-04-14]
+	15.00		Crystal Palace	1-1	Tottenham
+	15.00		Everton	2-0	Newcastle
+	15.00		Man City	2-1	Liverpool
+[1995-04-15]
+	15.00		Arsenal	4-1	Ipswich
+	15.00		Chelsea	1-0	Aston Villa
+	15.00		Coventry	2-0	Sheffield Weds
+	15.00		Leeds	1-1	Blackburn
+	15.00		Leicester	0-4	Man United
+	15.00		Southampton	2-1	QPR
+[1995-04-17]
+	15.00		Aston Villa	0-4	Arsenal
+
+Matchday 38
+
+[1995-04-17]
+	15.00		Blackburn	2-3	Man City
+	15.00		Ipswich	1-1	West Ham
+	15.00		Liverpool	2-0	Leicester
+	15.00		Man United	0-0	Chelsea
+	15.00		Newcastle	1-2	Leeds
+	15.00		Nott'm Forest	2-0	Coventry
+	15.00		QPR	0-1	Crystal Palace
+	15.00		Sheffield Weds	0-0	Everton
+	15.00		Tottenham	1-0	Norwich
+	15.00		Wimbledon	0-2	Southampton
+[1995-04-19]
+	15.00		Blackburn	2-1	Crystal Palace
+
+Matchday 39
+
+[1995-04-29]
+	15.00		Arsenal	1-1	Tottenham
+	15.00		Chelsea	1-0	QPR
+	15.00		Crystal Palace	1-2	Nott'm Forest
+	15.00		Everton	0-0	Wimbledon
+	15.00		Leeds	1-0	Aston Villa
+	15.00		Leicester	2-0	Ipswich
+	15.00		Man City	0-0	Newcastle
+	15.00		Norwich	1-2	Liverpool
+	15.00		Southampton	0-0	Sheffield Weds
+[1995-04-30]
+	15.00		West Ham	2-0	Blackburn
+[1995-05-01]
+	15.00		Coventry	2-3	Man United
+
+Matchday 40
+
+[1995-05-02]
+	15.00		Wimbledon	0-0	Liverpool
+[1995-05-03]
+	15.00		Aston Villa	1-1	Man City
+	15.00		Everton	3-3	Chelsea
+	15.00		Newcastle	3-3	Tottenham
+	15.00		Southampton	3-1	Crystal Palace
+	15.00		West Ham	0-0	QPR
+[1995-05-04]
+	15.00		Arsenal	0-0	Wimbledon
+[1995-05-06]
+	15.00		Aston Villa	2-0	Liverpool
+	15.00		Crystal Palace	1-0	West Ham
+	15.00		Everton	0-0	Southampton
+	15.00		Ipswich	2-0	Coventry
+
+Matchday 41
+
+[1995-05-06]
+	15.00		Leeds	2-1	Norwich
+	15.00		Leicester	1-1	Chelsea
+	15.00		Nott'm Forest	1-0	Man City
+	15.00		QPR	2-1	Tottenham
+[1995-05-07]
+	15.00		Man United	1-0	Sheffield Weds
+[1995-05-08]
+	15.00		Blackburn	1-0	Newcastle
+[1995-05-09]
+	15.00		Ipswich	0-1	Everton
+	15.00		Leeds	3-1	Crystal Palace
+	15.00		Tottenham	1-3	Coventry
+[1995-05-10]
+	15.00		Man United	2-1	Southampton
+	15.00		West Ham	3-0	Liverpool
+
+Matchday 42
+
+[1995-05-13]
+	15.00		Wimbledon	2-2	Nott'm Forest
+[1995-05-14]
+	15.00		Chelsea	2-1	Arsenal
+	15.00		Coventry	0-0	Everton
+	15.00		Liverpool	2-1	Blackburn
+	15.00		Man City	2-3	QPR
+	15.00		Newcastle	3-2	Crystal Palace
+	15.00		Norwich	1-1	Aston Villa
+	15.00		Sheffield Weds	4-1	Ipswich
+	15.00		Southampton	2-2	Leicester
+	15.00		Tottenham	1-1	Leeds
+	15.00		West Ham	1-1	Man United
+

@@ -1,0 +1,626 @@
+############################
+# Premier League 2008-2009
+
+Matchday 1
+
+[1908-08-16]
+	15.00		Arsenal	1-0	West Brom
+	15.00		Bolton	3-1	Stoke
+	15.00		Everton	2-3	Blackburn
+	15.00		Hull	2-1	Fulham
+	15.00		Middlesbrough	2-1	Tottenham
+	15.00		Sunderland	0-1	Liverpool
+	15.00		West Ham	2-1	Wigan
+[1908-08-17]
+	15.00		Aston Villa	4-2	Man City
+	15.00		Chelsea	4-0	Portsmouth
+	15.00		Man United	1-1	Newcastle
+
+Matchday 2
+
+[1908-08-23]
+	15.00		Blackburn	1-1	Hull
+	15.00		Fulham	1-0	Arsenal
+	15.00		Liverpool	2-1	Middlesbrough
+	15.00		Newcastle	1-0	Bolton
+	15.00		Stoke	3-2	Aston Villa
+	15.00		Tottenham	1-2	Sunderland
+	15.00		West Brom	1-2	Everton
+[1908-08-24]
+	15.00		Man City	3-0	West Ham
+	15.00		Wigan	0-1	Chelsea
+[1908-08-25]
+	15.00		Portsmouth	0-1	Man United
+
+Matchday 3
+
+[1908-08-30]
+	15.00		Arsenal	3-0	Newcastle
+	15.00		Bolton	0-0	West Brom
+	15.00		Everton	0-3	Portsmouth
+	15.00		Hull	0-5	Wigan
+	15.00		Middlesbrough	2-1	Stoke
+	15.00		West Ham	4-1	Blackburn
+[1908-08-31]
+	15.00		Aston Villa	0-0	Liverpool
+	15.00		Chelsea	1-1	Tottenham
+	15.00		Sunderland	0-3	Man City
+[1908-09-13]
+	15.00		Blackburn	0-4	Arsenal
+
+Matchday 4
+
+[1908-09-13]
+	15.00		Fulham	2-1	Bolton
+	15.00		Liverpool	2-1	Man United
+	15.00		Man City	1-3	Chelsea
+	15.00		Newcastle	1-2	Hull
+	15.00		Portsmouth	2-1	Middlesbrough
+	15.00		West Brom	3-2	West Ham
+	15.00		Wigan	1-1	Sunderland
+[1908-09-14]
+	15.00		Stoke	2-3	Everton
+[1908-09-15]
+	15.00		Tottenham	1-2	Aston Villa
+[1908-09-20]
+	15.00		Blackburn	1-0	Fulham
+
+Matchday 5
+
+[1908-09-20]
+	15.00		Bolton	1-3	Arsenal
+	15.00		Liverpool	0-0	Stoke
+	15.00		Sunderland	2-0	Middlesbrough
+	15.00		West Ham	3-1	Newcastle
+[1908-09-21]
+	15.00		Chelsea	1-1	Man United
+	15.00		Hull	2-2	Everton
+	15.00		Man City	6-0	Portsmouth
+	15.00		Tottenham	0-0	Wigan
+	15.00		West Brom	1-2	Aston Villa
+[1908-09-27]
+	15.00		Arsenal	1-2	Hull
+
+Matchday 6
+
+[1908-09-27]
+	15.00		Aston Villa	2-1	Sunderland
+	15.00		Everton	0-2	Liverpool
+	15.00		Fulham	1-2	West Ham
+	15.00		Man United	2-0	Bolton
+	15.00		Middlesbrough	0-1	West Brom
+	15.00		Newcastle	1-2	Blackburn
+	15.00		Stoke	0-2	Chelsea
+[1908-09-28]
+	15.00		Portsmouth	2-0	Tottenham
+	15.00		Wigan	2-1	Man City
+[1908-10-04]
+	15.00		Blackburn	0-2	Man United
+
+Matchday 7
+
+[1908-10-04]
+	15.00		Sunderland	1-1	Arsenal
+	15.00		West Brom	1-0	Fulham
+	15.00		Wigan	0-1	Middlesbrough
+[1908-10-05]
+	15.00		Chelsea	2-0	Aston Villa
+	15.00		Everton	2-2	Newcastle
+	15.00		Man City	2-3	Liverpool
+	15.00		Portsmouth	2-1	Stoke
+	15.00		Tottenham	0-1	Hull
+	15.00		West Ham	1-3	Bolton
+[1908-10-18]
+	15.00		Arsenal	3-1	Everton
+
+Matchday 8
+
+[1908-10-18]
+	15.00		Aston Villa	0-0	Portsmouth
+	15.00		Bolton	0-0	Blackburn
+	15.00		Fulham	0-0	Sunderland
+	15.00		Liverpool	3-2	Wigan
+	15.00		Man United	4-0	West Brom
+	15.00		Middlesbrough	0-5	Chelsea
+[1908-10-19]
+	15.00		Hull	1-0	West Ham
+	15.00		Stoke	2-1	Tottenham
+[1908-10-20]
+	15.00		Newcastle	2-2	Man City
+[1908-10-25]
+	15.00		Blackburn	1-1	Middlesbrough
+
+Matchday 9
+
+[1908-10-25]
+	15.00		Everton	1-1	Man United
+	15.00		Sunderland	2-1	Newcastle
+	15.00		West Brom	0-3	Hull
+[1908-10-26]
+	15.00		Chelsea	0-1	Liverpool
+	15.00		Man City	3-0	Stoke
+	15.00		Portsmouth	1-1	Fulham
+	15.00		Tottenham	2-0	Bolton
+	15.00		West Ham	0-2	Arsenal
+	15.00		Wigan	0-4	Aston Villa
+[1908-10-28]
+	15.00		Newcastle	2-1	West Brom
+
+Matchday 10
+
+[1908-10-29]
+	15.00		Arsenal	4-4	Tottenham
+	15.00		Aston Villa	3-2	Blackburn
+	15.00		Bolton	0-1	Everton
+	15.00		Fulham	2-0	Wigan
+	15.00		Hull	0-3	Chelsea
+	15.00		Liverpool	1-0	Portsmouth
+	15.00		Man United	2-0	West Ham
+	15.00		Middlesbrough	2-0	Man City
+	15.00		Stoke	1-0	Sunderland
+[1908-11-01]
+	15.00		Chelsea	5-0	Sunderland
+
+Matchday 11
+
+[1908-11-01]
+	15.00		Everton	1-0	Fulham
+	15.00		Man United	4-3	Hull
+	15.00		Middlesbrough	1-1	West Ham
+	15.00		Portsmouth	1-2	Wigan
+	15.00		Stoke	2-1	Arsenal
+	15.00		Tottenham	2-1	Liverpool
+	15.00		West Brom	2-2	Blackburn
+[1908-11-02]
+	15.00		Bolton	2-0	Man City
+[1908-11-03]
+	15.00		Newcastle	2-0	Aston Villa
+[1908-11-08]
+	15.00		Arsenal	2-1	Man United
+
+Matchday 12
+
+[1908-11-08]
+	15.00		Hull	0-1	Bolton
+	15.00		Liverpool	3-0	West Brom
+	15.00		Sunderland	1-2	Portsmouth
+	15.00		West Ham	1-3	Everton
+	15.00		Wigan	0-0	Stoke
+[1908-11-09]
+	15.00		Aston Villa	1-2	Middlesbrough
+	15.00		Blackburn	0-2	Chelsea
+	15.00		Fulham	2-1	Newcastle
+	15.00		Man City	1-2	Tottenham
+[1908-11-15]
+	15.00		Arsenal	0-2	Aston Villa
+
+Matchday 13
+
+[1908-11-15]
+	15.00		Blackburn	1-2	Sunderland
+	15.00		Bolton	0-2	Liverpool
+	15.00		Fulham	2-1	Tottenham
+	15.00		Man United	5-0	Stoke
+	15.00		Newcastle	2-2	Wigan
+	15.00		West Brom	0-3	Chelsea
+	15.00		West Ham	0-0	Portsmouth
+[1908-11-16]
+	15.00		Everton	1-1	Middlesbrough
+	15.00		Hull	2-2	Man City
+[1908-11-22]
+	15.00		Aston Villa	0-0	Man United
+
+Matchday 14
+
+[1908-11-22]
+	15.00		Chelsea	0-0	Newcastle
+	15.00		Liverpool	0-0	Fulham
+	15.00		Man City	3-0	Arsenal
+	15.00		Middlesbrough	1-3	Bolton
+	15.00		Portsmouth	2-2	Hull
+	15.00		Stoke	1-0	West Brom
+[1908-11-23]
+	15.00		Sunderland	0-1	West Ham
+	15.00		Tottenham	1-0	Blackburn
+[1908-11-24]
+	15.00		Wigan	1-0	Everton
+[1908-11-29]
+	15.00		Aston Villa	0-0	Fulham
+
+Matchday 15
+
+[1908-11-29]
+	15.00		Middlesbrough	0-0	Newcastle
+	15.00		Stoke	1-1	Hull
+	15.00		Sunderland	1-4	Bolton
+	15.00		Wigan	2-1	West Brom
+[1908-11-30]
+	15.00		Chelsea	1-2	Arsenal
+	15.00		Man City	0-1	Man United
+	15.00		Portsmouth	3-2	Blackburn
+	15.00		Tottenham	0-1	Everton
+[1908-12-01]
+	15.00		Liverpool	0-0	West Ham
+[1908-12-06]
+	15.00		Arsenal	1-0	Wigan
+
+Matchday 16
+
+[1908-12-06]
+	15.00		Blackburn	1-3	Liverpool
+	15.00		Bolton	0-2	Chelsea
+	15.00		Fulham	1-1	Man City
+	15.00		Hull	2-1	Middlesbrough
+	15.00		Man United	1-0	Sunderland
+	15.00		Newcastle	2-2	Stoke
+[1908-12-07]
+	15.00		Everton	2-3	Aston Villa
+	15.00		West Brom	1-1	Portsmouth
+[1908-12-08]
+	15.00		West Ham	0-2	Tottenham
+[1908-12-13]
+	15.00		Aston Villa	4-2	Bolton
+
+Matchday 17
+
+[1908-12-13]
+	15.00		Liverpool	2-2	Hull
+	15.00		Man City	0-1	Everton
+	15.00		Middlesbrough	1-1	Arsenal
+	15.00		Stoke	0-0	Fulham
+	15.00		Sunderland	4-0	West Brom
+	15.00		Tottenham	0-0	Man United
+	15.00		Wigan	3-0	Blackburn
+[1908-12-14]
+	15.00		Chelsea	1-1	West Ham
+	15.00		Portsmouth	0-3	Newcastle
+[1908-12-20]
+	15.00		Blackburn	3-0	Stoke
+
+Matchday 18
+
+[1908-12-20]
+	15.00		Bolton	2-1	Portsmouth
+	15.00		Fulham	3-0	Middlesbrough
+	15.00		Hull	1-4	Sunderland
+	15.00		West Ham	0-1	Aston Villa
+[1908-12-21]
+	15.00		Arsenal	1-1	Liverpool
+	15.00		Newcastle	2-1	Tottenham
+	15.00		West Brom	2-1	Man City
+[1908-12-22]
+	15.00		Everton	0-0	Chelsea
+[1908-12-26]
+	15.00		Aston Villa	2-2	Arsenal
+	15.00		Chelsea	2-0	West Brom
+
+Matchday 19
+
+[1908-12-26]
+	15.00		Liverpool	3-0	Bolton
+	15.00		Man City	5-1	Hull
+	15.00		Middlesbrough	0-1	Everton
+	15.00		Portsmouth	1-4	West Ham
+	15.00		Stoke	0-1	Man United
+	15.00		Sunderland	0-0	Blackburn
+	15.00		Tottenham	0-0	Fulham
+	15.00		Wigan	2-1	Newcastle
+[1908-12-28]
+	15.00		Arsenal	1-0	Portsmouth
+	15.00		Blackburn	2-2	Man City
+
+Matchday 20
+
+[1908-12-28]
+	15.00		Bolton	0-1	Wigan
+	15.00		Everton	3-0	Sunderland
+	15.00		Fulham	2-2	Chelsea
+	15.00		Newcastle	1-5	Liverpool
+	15.00		West Brom	2-0	Tottenham
+	15.00		West Ham	2-1	Stoke
+[1908-12-29]
+	15.00		Man United	1-0	Middlesbrough
+[1908-12-30]
+	15.00		Hull	0-1	Aston Villa
+[1909-01-10]
+	15.00		Arsenal	1-0	Bolton
+	15.00		Aston Villa	2-1	West Brom
+
+Matchday 21
+
+[1909-01-10]
+	15.00		Everton	2-0	Hull
+	15.00		Middlesbrough	1-1	Sunderland
+	15.00		Newcastle	2-2	West Ham
+	15.00		Stoke	0-0	Liverpool
+[1909-01-11]
+	15.00		Man United	3-0	Chelsea
+	15.00		Wigan	1-0	Tottenham
+[1909-01-14]
+	15.00		Man United	1-0	Wigan
+[1909-01-17]
+	15.00		Blackburn	3-0	Newcastle
+	15.00		Bolton	0-1	Man United
+	15.00		Chelsea	2-1	Stoke
+
+Matchday 22
+
+[1909-01-17]
+	15.00		Hull	1-3	Arsenal
+	15.00		Man City	1-0	Wigan
+	15.00		Sunderland	1-2	Aston Villa
+	15.00		West Brom	3-0	Middlesbrough
+[1909-01-18]
+	15.00		Tottenham	1-1	Portsmouth
+	15.00		West Ham	3-1	Fulham
+[1909-01-19]
+	15.00		Liverpool	1-1	Everton
+[1909-01-27]
+	15.00		Portsmouth	0-1	Aston Villa
+	15.00		Sunderland	1-0	Fulham
+	15.00		Tottenham	3-1	Stoke
+
+Matchday 23
+
+[1909-01-27]
+	15.00		West Brom	0-5	Man United
+[1909-01-28]
+	15.00		Blackburn	2-2	Bolton
+	15.00		Chelsea	2-0	Middlesbrough
+	15.00		Everton	1-1	Arsenal
+	15.00		Man City	2-1	Newcastle
+	15.00		West Ham	2-0	Hull
+	15.00		Wigan	1-1	Liverpool
+[1909-01-31]
+	15.00		Arsenal	0-0	West Ham
+	15.00		Aston Villa	0-0	Wigan
+	15.00		Bolton	3-2	Tottenham
+
+Matchday 24
+
+[1909-01-31]
+	15.00		Fulham	3-1	Portsmouth
+	15.00		Hull	2-2	West Brom
+	15.00		Man United	1-0	Everton
+	15.00		Middlesbrough	0-0	Blackburn
+	15.00		Stoke	1-0	Man City
+[1909-02-01]
+	15.00		Liverpool	2-0	Chelsea
+	15.00		Newcastle	1-1	Sunderland
+[1909-02-07]
+	15.00		Blackburn	0-2	Aston Villa
+	15.00		Chelsea	0-0	Hull
+	15.00		Everton	3-0	Bolton
+
+Matchday 25
+
+[1909-02-07]
+	15.00		Man City	1-0	Middlesbrough
+	15.00		Portsmouth	2-3	Liverpool
+	15.00		Sunderland	2-0	Stoke
+	15.00		West Brom	2-3	Newcastle
+	15.00		Wigan	0-0	Fulham
+[1909-02-08]
+	15.00		Tottenham	0-0	Arsenal
+	15.00		West Ham	0-1	Man United
+[1909-02-14]
+	15.00		Portsmouth	2-0	Man City
+[1909-02-18]
+	15.00		Man United	3-0	Fulham
+[1909-02-21]
+	15.00		Arsenal	0-0	Sunderland
+
+Matchday 26
+
+[1909-02-21]
+	15.00		Aston Villa	0-1	Chelsea
+	15.00		Bolton	2-1	West Ham
+	15.00		Man United	2-1	Blackburn
+	15.00		Middlesbrough	0-0	Wigan
+	15.00		Stoke	2-2	Portsmouth
+[1909-02-22]
+	15.00		Fulham	2-0	West Brom
+	15.00		Liverpool	1-1	Man City
+	15.00		Newcastle	0-0	Everton
+[1909-02-23]
+	15.00		Hull	1-2	Tottenham
+[1909-02-28]
+	15.00		Arsenal	0-0	Fulham
+
+Matchday 27
+
+[1909-02-28]
+	15.00		Chelsea	2-1	Wigan
+	15.00		Everton	2-0	West Brom
+	15.00		Middlesbrough	2-0	Liverpool
+[1909-03-01]
+	15.00		Aston Villa	2-2	Stoke
+	15.00		Bolton	1-0	Newcastle
+	15.00		Hull	1-2	Blackburn
+	15.00		West Ham	1-0	Man City
+[1909-03-03]
+	15.00		Liverpool	2-0	Sunderland
+	15.00		Portsmouth	0-1	Chelsea
+	15.00		West Brom	1-3	Arsenal
+
+Matchday 28
+
+[1909-03-04]
+	15.00		Blackburn	0-0	Everton
+	15.00		Fulham	0-1	Hull
+	15.00		Man City	2-0	Aston Villa
+	15.00		Newcastle	1-2	Man United
+	15.00		Stoke	2-0	Bolton
+	15.00		Tottenham	4-0	Middlesbrough
+	15.00		Wigan	0-1	West Ham
+[1909-03-07]
+	15.00		Sunderland	1-1	Tottenham
+[1909-03-11]
+	15.00		Fulham	1-2	Blackburn
+[1909-03-14]
+	15.00		Arsenal	4-0	Blackburn
+
+Matchday 29
+
+[1909-03-14]
+	15.00		Bolton	1-3	Fulham
+	15.00		Everton	3-1	Stoke
+	15.00		Hull	1-1	Newcastle
+	15.00		Man United	1-4	Liverpool
+	15.00		Middlesbrough	1-1	Portsmouth
+	15.00		Sunderland	1-2	Wigan
+[1909-03-15]
+	15.00		Aston Villa	1-2	Tottenham
+	15.00		Chelsea	1-0	Man City
+[1909-03-16]
+	15.00		West Ham	0-0	West Brom
+[1909-03-21]
+	15.00		Blackburn	1-1	West Ham
+
+Matchday 30
+
+[1909-03-21]
+	15.00		Fulham	2-0	Man United
+	15.00		Newcastle	1-3	Arsenal
+	15.00		Portsmouth	2-1	Everton
+	15.00		Stoke	1-0	Middlesbrough
+	15.00		Tottenham	1-0	Chelsea
+	15.00		West Brom	1-1	Bolton
+[1909-03-22]
+	15.00		Liverpool	5-0	Aston Villa
+	15.00		Man City	1-0	Sunderland
+	15.00		Wigan	1-0	Hull
+[1909-04-04]
+	15.00		Arsenal	2-0	Man City
+
+Matchday 31
+
+[1909-04-04]
+	15.00		Blackburn	2-1	Tottenham
+	15.00		Bolton	4-1	Middlesbrough
+	15.00		Fulham	0-1	Liverpool
+	15.00		Hull	0-0	Portsmouth
+	15.00		Newcastle	0-2	Chelsea
+	15.00		West Brom	0-2	Stoke
+	15.00		West Ham	2-0	Sunderland
+[1909-04-05]
+	15.00		Everton	4-0	Wigan
+	15.00		Man United	3-2	Aston Villa
+[1909-04-11]
+	15.00		Chelsea	4-3	Bolton
+
+Matchday 32
+
+[1909-04-11]
+	15.00		Liverpool	4-0	Blackburn
+	15.00		Middlesbrough	3-1	Hull
+	15.00		Portsmouth	2-2	West Brom
+	15.00		Stoke	1-1	Newcastle
+	15.00		Sunderland	1-2	Man United
+	15.00		Tottenham	1-0	West Ham
+	15.00		Wigan	1-4	Arsenal
+[1909-04-12]
+	15.00		Aston Villa	3-3	Everton
+	15.00		Man City	1-3	Fulham
+[1909-04-18]
+	15.00		Aston Villa	1-1	West Ham
+
+Matchday 33
+
+[1909-04-18]
+	15.00		Middlesbrough	0-0	Fulham
+	15.00		Portsmouth	1-0	Bolton
+	15.00		Stoke	1-0	Blackburn
+	15.00		Sunderland	1-0	Hull
+[1909-04-19]
+	15.00		Man City	4-2	West Brom
+	15.00		Tottenham	1-0	Newcastle
+[1909-04-21]
+	15.00		Liverpool	4-4	Arsenal
+[1909-04-22]
+	15.00		Chelsea	0-0	Everton
+	15.00		Man United	2-0	Portsmouth
+[1909-04-25]
+	15.00		Bolton	1-1	Aston Villa
+
+Matchday 34
+
+[1909-04-25]
+	15.00		Everton	1-2	Man City
+	15.00		Fulham	1-0	Stoke
+	15.00		Hull	1-3	Liverpool
+	15.00		Man United	5-2	Tottenham
+	15.00		West Brom	3-0	Sunderland
+	15.00		West Ham	0-1	Chelsea
+[1909-04-26]
+	15.00		Arsenal	2-0	Middlesbrough
+	15.00		Blackburn	2-0	Wigan
+[1909-04-27]
+	15.00		Newcastle	0-0	Portsmouth
+[1909-05-02]
+	15.00		Chelsea	3-1	Fulham
+
+Matchday 35
+
+[1909-05-02]
+	15.00		Man City	3-1	Blackburn
+	15.00		Middlesbrough	0-2	Man United
+	15.00		Portsmouth	0-3	Arsenal
+	15.00		Stoke	0-1	West Ham
+	15.00		Tottenham	1-0	West Brom
+	15.00		Wigan	0-0	Bolton
+[1909-05-03]
+	15.00		Liverpool	3-0	Newcastle
+	15.00		Sunderland	0-2	Everton
+[1909-05-04]
+	15.00		Aston Villa	1-0	Hull
+[1909-05-09]
+	15.00		Blackburn	2-0	Portsmouth
+
+Matchday 36
+
+[1909-05-09]
+	15.00		Bolton	0-0	Sunderland
+	15.00		Everton	0-0	Tottenham
+	15.00		Fulham	3-1	Aston Villa
+	15.00		Hull	1-2	Stoke
+	15.00		West Brom	3-1	Wigan
+	15.00		West Ham	0-3	Liverpool
+[1909-05-10]
+	15.00		Arsenal	1-4	Chelsea
+	15.00		Man United	2-0	Man City
+[1909-05-11]
+	15.00		Newcastle	3-1	Middlesbrough
+[1909-05-13]
+	15.00		Wigan	1-2	Man United
+
+Matchday 37
+
+[1909-05-16]
+	15.00		Bolton	1-1	Hull
+	15.00		Everton	3-1	West Ham
+	15.00		Man United	0-0	Arsenal
+	15.00		Middlesbrough	1-1	Aston Villa
+	15.00		Newcastle	0-1	Fulham
+	15.00		Stoke	2-0	Wigan
+	15.00		Tottenham	2-1	Man City
+[1909-05-17]
+	15.00		Chelsea	2-0	Blackburn
+	15.00		West Brom	0-2	Liverpool
+[1909-05-18]
+	15.00		Portsmouth	3-1	Sunderland
+
+Matchday 38
+
+[1909-05-24]
+	15.00		Arsenal	4-1	Stoke
+	15.00		Aston Villa	1-0	Newcastle
+	15.00		Blackburn	0-0	West Brom
+	15.00		Fulham	0-2	Everton
+	15.00		Hull	0-1	Man United
+	15.00		Liverpool	3-1	Tottenham
+	15.00		Man City	1-0	Bolton
+	15.00		Sunderland	2-3	Chelsea
+	15.00		West Ham	2-1	Middlesbrough
+	15.00		Wigan	1-0	Portsmouth
+

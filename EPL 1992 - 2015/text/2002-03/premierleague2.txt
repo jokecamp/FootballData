@@ -1,0 +1,799 @@
+############################
+# Premier League 2002-2003
+
+Matchday 1
+
+[1902-08-10]
+	15.00		Bristol City	2-0	Blackpool
+	15.00		Cheltenham	0-2	Wigan
+	15.00		Colchester	1-0	Stockport
+	15.00		Huddersfield	0-2	Brentford
+	15.00		Luton	2-3	Peterboro
+	15.00		Mansfield	4-3	Plymouth
+	15.00		Northampton	1-1	Crewe
+	15.00		Notts County	1-1	Wycombe
+	15.00		Oldham	1-2	Cardiff
+	15.00		Port Vale	1-4	Tranmere
+	15.00		QPR	3-1	Chesterfield
+	15.00		Swindon	3-1	Barnsley
+
+Matchday 2
+
+[1902-08-13]
+	15.00		Barnsley	1-1	Cheltenham
+	15.00		Blackpool	5-2	Luton
+	15.00		Brentford	1-0	Bristol City
+	15.00		Cardiff	3-1	Port Vale
+	15.00		Chesterfield	2-4	Swindon
+	15.00		Crewe	0-3	Notts County
+	15.00		Peterboro	0-1	Oldham
+	15.00		Plymouth	2-1	Huddersfield
+	15.00		Stockport	1-1	QPR
+	15.00		Tranmere	1-1	Colchester
+	15.00		Wigan	3-2	Mansfield
+	15.00		Wycombe	1-1	Northampton
+
+Matchday 3
+
+[1902-08-17]
+	15.00		Barnsley	1-0	QPR
+	15.00		Blackpool	0-0	Swindon
+	15.00		Brentford	0-0	Oldham
+	15.00		Cardiff	1-2	Northampton
+	15.00		Chesterfield	2-1	Port Vale
+	15.00		Crewe	2-0	Colchester
+	15.00		Peterboro	0-1	Huddersfield
+	15.00		Plymouth	2-1	Luton
+	15.00		Stockport	0-0	Notts County
+	15.00		Tranmere	1-0	Cheltenham
+	15.00		Wigan	2-0	Bristol City
+	15.00		Wycombe	3-3	Mansfield
+
+Matchday 4
+
+[1902-08-23]
+	15.00		Northampton	0-1	Blackpool
+[1902-08-24]
+	15.00		Bristol City	3-0	Wycombe
+	15.00		Cheltenham	1-2	Plymouth
+	15.00		Colchester	0-1	Brentford
+	15.00		Huddersfield	1-1	Crewe
+	15.00		Luton	2-3	Barnsley
+	15.00		Mansfield	0-2	Chesterfield
+	15.00		Notts County	0-2	Wigan
+	15.00		Oldham	2-0	Tranmere
+	15.00		Port Vale	0-1	Stockport
+	15.00		QPR	2-0	Peterboro
+	15.00		Swindon	0-1	Cardiff
+
+Matchday 5
+
+[1902-08-26]
+	15.00		Barnsley	0-0	Notts County
+	15.00		Blackpool	0-0	Oldham
+	15.00		Brentford	3-1	Swindon
+	15.00		Cardiff	0-0	Luton
+	15.00		Peterboro	0-1	Colchester
+	15.00		Plymouth	2-0	Bristol City
+	15.00		Stockport	2-0	Mansfield
+	15.00		Tranmere	2-1	Huddersfield
+	15.00		Wigan	0-1	Port Vale
+	15.00		Wycombe	4-1	QPR
+[1902-08-27]
+	15.00		Chesterfield	4-0	Northampton
+	15.00		Crewe	1-0	Cheltenham
+
+Matchday 6
+
+[1902-08-31]
+	15.00		Bristol City	2-0	Tranmere
+	15.00		Cheltenham	1-1	Cardiff
+	15.00		Colchester	1-0	Wigan
+	15.00		Huddersfield	0-0	Blackpool
+	15.00		Luton	3-0	Chesterfield
+	15.00		Mansfield	0-5	Crewe
+	15.00		Northampton	1-0	Barnsley
+	15.00		Notts County	2-2	Brentford
+	15.00		Oldham	0-2	Wycombe
+	15.00		Port Vale	1-0	Peterboro
+	15.00		QPR	2-2	Plymouth
+	15.00		Swindon	0-1	Stockport
+
+Matchday 7
+
+[1902-09-06]
+	15.00		Bristol City	3-0	Northampton
+[1902-09-07]
+	15.00		Blackpool	3-0	Tranmere
+	15.00		Brentford	0-0	Luton
+	15.00		Colchester	1-1	Cheltenham
+	15.00		Crewe	0-0	Chesterfield
+	15.00		Huddersfield	1-0	Barnsley
+	15.00		Mansfield	0-4	QPR
+	15.00		Notts County	1-3	Oldham
+	15.00		Swindon	1-2	Port Vale
+	15.00		Wigan	3-0	Wycombe
+[1902-09-14]
+	15.00		Barnsley	1-1	Plymouth
+	15.00		Cardiff	2-1	Stockport
+
+Matchday 8
+
+[1902-09-14]
+	15.00		Cheltenham	2-3	Bristol City
+	15.00		Chesterfield	0-0	Wigan
+	15.00		Luton	2-2	Notts County
+	15.00		Northampton	0-0	Huddersfield
+	15.00		Oldham	6-1	Mansfield
+	15.00		Peterboro	0-0	Crewe
+	15.00		Port Vale	1-0	Colchester
+	15.00		QPR	2-0	Swindon
+	15.00		Tranmere	3-1	Brentford
+	15.00		Wycombe	1-2	Blackpool
+[1902-09-17]
+	15.00		Barnsley	2-1	Blackpool
+	15.00		Cardiff	2-0	Brentford
+
+Matchday 9
+
+[1902-09-17]
+	15.00		Cheltenham	2-0	Swindon
+	15.00		Chesterfield	1-0	Stockport
+	15.00		Luton	2-3	Mansfield
+	15.00		Northampton	4-1	Colchester
+	15.00		Oldham	1-0	Bristol City
+	15.00		Peterboro	2-0	Plymouth
+	15.00		Port Vale	3-2	Notts County
+	15.00		QPR	3-0	Huddersfield
+	15.00		Tranmere	0-2	Wigan
+	15.00		Wycombe	1-2	Crewe
+[1902-09-21]
+	15.00		Blackpool	3-2	Port Vale
+	15.00		Brentford	1-0	Wycombe
+
+Matchday 10
+
+[1902-09-21]
+	15.00		Bristol City	1-3	QPR
+	15.00		Colchester	0-1	Oldham
+	15.00		Crewe	2-0	Tranmere
+	15.00		Huddersfield	0-1	Luton
+	15.00		Mansfield	0-2	Cheltenham
+	15.00		Notts County	0-1	Cardiff
+	15.00		Plymouth	0-1	Chesterfield
+	15.00		Stockport	4-1	Barnsley
+	15.00		Swindon	2-0	Northampton
+	15.00		Wigan	2-2	Peterboro
+[1902-09-24]
+	15.00		Plymouth	2-2	Cardiff
+[1902-09-28]
+	15.00		Barnsley	1-3	Wigan
+
+Matchday 11
+
+[1902-09-28]
+	15.00		Cardiff	2-1	Crewe
+	15.00		Cheltenham	1-4	Notts County
+	15.00		Chesterfield	1-0	Blackpool
+	15.00		Luton	3-0	Swindon
+	15.00		Northampton	2-0	Mansfield
+	15.00		Oldham	4-0	Huddersfield
+	15.00		Peterboro	5-1	Brentford
+	15.00		Port Vale	2-3	Bristol City
+	15.00		QPR	2-0	Colchester
+	15.00		Tranmere	1-0	Stockport
+	15.00		Wycombe	2-1	Plymouth
+[1902-10-05]
+	15.00		Blackpool	3-1	Cheltenham
+
+Matchday 12
+
+[1902-10-05]
+	15.00		Brentford	1-2	Barnsley
+	15.00		Bristol City	4-0	Chesterfield
+	15.00		Colchester	0-1	Wycombe
+	15.00		Crewe	2-0	QPR
+	15.00		Huddersfield	2-2	Port Vale
+	15.00		Mansfield	6-1	Tranmere
+	15.00		Notts County	2-2	Peterboro
+	15.00		Plymouth	0-0	Northampton
+	15.00		Stockport	2-3	Luton
+	15.00		Swindon	0-1	Oldham
+	15.00		Wigan	2-2	Cardiff
+[1902-10-08]
+	15.00		Stockport	2-1	Peterboro
+
+Matchday 13
+
+[1902-10-12]
+	15.00		Barnsley	1-4	Bristol City
+	15.00		Cardiff	1-0	Wycombe
+	15.00		Chesterfield	1-0	Tranmere
+	15.00		Huddersfield	3-0	Notts County
+	15.00		Luton	2-1	Cheltenham
+	15.00		Northampton	1-2	Brentford
+	15.00		Peterboro	0-0	Mansfield
+	15.00		Plymouth	1-3	Wigan
+	15.00		Port Vale	1-1	Oldham
+	15.00		Stockport	1-4	Crewe
+	15.00		Swindon	2-2	Colchester
+[1902-10-14]
+	15.00		QPR	2-1	Blackpool
+
+Matchday 14
+
+[1902-10-18]
+	15.00		Colchester	2-0	Chesterfield
+[1902-10-19]
+	15.00		Blackpool	1-0	Cardiff
+	15.00		Brentford	1-1	Port Vale
+	15.00		Bristol City	2-0	Swindon
+	15.00		Cheltenham	1-1	QPR
+	15.00		Crewe	0-1	Plymouth
+	15.00		Mansfield	0-2	Huddersfield
+	15.00		Notts County	2-1	Northampton
+	15.00		Oldham	1-2	Luton
+	15.00		Tranmere	1-0	Barnsley
+	15.00		Wigan	2-1	Stockport
+	15.00		Wycombe	3-2	Peterboro
+
+Matchday 15
+
+[1902-10-26]
+	15.00		Barnsley	1-1	Wycombe
+	15.00		Cardiff	4-0	Tranmere
+	15.00		Chesterfield	0-0	Notts County
+	15.00		Huddersfield	1-1	Colchester
+	15.00		Luton	1-1	Wigan
+	15.00		Northampton	1-2	Cheltenham
+	15.00		Peterboro	1-3	Bristol City
+	15.00		Plymouth	1-3	Blackpool
+	15.00		Port Vale	1-2	Crewe
+	15.00		QPR	1-2	Oldham
+	15.00		Stockport	2-3	Brentford
+	15.00		Swindon	2-1	Mansfield
+
+Matchday 16
+
+[1902-10-29]
+	15.00		Blackpool	1-3	Stockport
+	15.00		Brentford	0-0	Plymouth
+	15.00		Bristol City	1-0	Huddersfield
+	15.00		Cheltenham	0-1	Port Vale
+	15.00		Colchester	1-1	Barnsley
+	15.00		Crewe	0-1	Luton
+	15.00		Mansfield	0-1	Cardiff
+	15.00		Notts County	1-1	Swindon
+	15.00		Oldham	4-0	Northampton
+	15.00		Tranmere	1-1	Peterboro
+	15.00		Wigan	1-1	QPR
+	15.00		Wycombe	2-0	Chesterfield
+
+Matchday 17
+
+[1902-11-01]
+	15.00		Mansfield	4-2	Colchester
+[1902-11-02]
+	15.00		Brentford	5-0	Blackpool
+	15.00		Cardiff	3-0	Peterboro
+	15.00		Cheltenham	1-0	Huddersfield
+	15.00		Chesterfield	1-0	Barnsley
+	15.00		Northampton	3-0	Luton
+	15.00		Oldham	2-0	Stockport
+	15.00		Port Vale	0-0	QPR
+	15.00		Tranmere	2-1	Plymouth
+	15.00		Wigan	2-0	Crewe
+	15.00		Wycombe	2-3	Swindon
+[1902-11-09]
+	15.00		Barnsley	3-2	Cardiff
+
+Matchday 18
+
+[1902-11-09]
+	15.00		Blackpool	0-2	Wigan
+	15.00		Colchester	2-2	Bristol City
+	15.00		Crewe	2-1	Brentford
+	15.00		Huddersfield	0-0	Wycombe
+	15.00		Luton	0-0	Port Vale
+	15.00		Notts County	2-2	Mansfield
+	15.00		Peterboro	1-0	Chesterfield
+	15.00		Plymouth	2-2	Oldham
+	15.00		QPR	0-1	Northampton
+	15.00		Stockport	1-1	Cheltenham
+	15.00		Swindon	1-1	Tranmere
+[1902-11-23]
+	15.00		Brentford	0-1	Wigan
+
+Matchday 19
+
+[1902-11-23]
+	15.00		Crewe	3-0	Blackpool
+	15.00		Huddersfield	2-3	Swindon
+	15.00		Luton	0-0	QPR
+	15.00		Mansfield	4-5	Bristol City
+	15.00		Northampton	3-0	Port Vale
+	15.00		Notts County	2-3	Colchester
+	15.00		Oldham	0-0	Cheltenham
+	15.00		Peterboro	1-3	Barnsley
+	15.00		Plymouth	4-1	Stockport
+	15.00		Wycombe	1-3	Tranmere
+[1902-11-24]
+	15.00		Cardiff	1-0	Chesterfield
+[1902-11-29]
+	15.00		QPR	0-4	Cardiff
+
+Matchday 20
+
+[1902-11-30]
+	15.00		Barnsley	2-2	Oldham
+	15.00		Blackpool	1-1	Notts County
+	15.00		Bristol City	2-2	Crewe
+	15.00		Cheltenham	1-0	Brentford
+	15.00		Chesterfield	1-0	Huddersfield
+	15.00		Colchester	0-0	Plymouth
+	15.00		Port Vale	4-2	Mansfield
+	15.00		Stockport	2-1	Wycombe
+	15.00		Swindon	1-1	Peterboro
+	15.00		Tranmere	1-3	Luton
+	15.00		Wigan	1-0	Northampton
+[1902-12-03]
+	15.00		Bristol City	3-2	Notts County
+
+Matchday 21
+
+[1902-12-14]
+	15.00		Brentford	2-1	Chesterfield
+	15.00		Cardiff	0-2	Bristol City
+	15.00		Crewe	2-0	Barnsley
+	15.00		Huddersfield	2-1	Stockport
+	15.00		Luton	1-2	Colchester
+	15.00		Mansfield	4-0	Blackpool
+	15.00		Northampton	0-4	Tranmere
+	15.00		Notts County	3-0	QPR
+	15.00		Oldham	0-2	Wigan
+	15.00		Peterboro	4-1	Cheltenham
+	15.00		Plymouth	1-1	Swindon
+	15.00		Wycombe	3-1	Port Vale
+
+Matchday 22
+
+[1902-12-20]
+	15.00		Colchester	1-2	Cardiff
+	15.00		Stockport	4-0	Northampton
+[1902-12-21]
+	15.00		Barnsley	0-1	Mansfield
+	15.00		Blackpool	3-0	Peterboro
+	15.00		Bristol City	1-1	Luton
+	15.00		Cheltenham	0-0	Wycombe
+	15.00		Chesterfield	0-1	Oldham
+	15.00		Port Vale	1-2	Plymouth
+	15.00		QPR	1-1	Brentford
+	15.00		Swindon	1-3	Crewe
+	15.00		Tranmere	2-2	Notts County
+	15.00		Wigan	1-0	Huddersfield
+
+Matchday 23
+
+[1902-12-26]
+	15.00		Bristol City	0-0	Plymouth
+	15.00		Cheltenham	0-4	Crewe
+	15.00		Colchester	1-1	Peterboro
+	15.00		Huddersfield	1-2	Tranmere
+	15.00		Luton	2-0	Cardiff
+	15.00		Mansfield	4-2	Stockport
+	15.00		Northampton	0-1	Chesterfield
+	15.00		Notts County	3-2	Barnsley
+	15.00		Oldham	1-1	Blackpool
+	15.00		Port Vale	0-1	Wigan
+	15.00		QPR	2-1	Wycombe
+	15.00		Swindon	2-1	Brentford
+
+Matchday 24
+
+[1902-12-28]
+	15.00		Barnsley	2-1	Port Vale
+	15.00		Blackpool	3-1	Colchester
+	15.00		Brentford	1-0	Mansfield
+	15.00		Chesterfield	2-2	Cheltenham
+	15.00		Peterboro	0-0	Northampton
+	15.00		Plymouth	1-0	Notts County
+	15.00		Stockport	1-4	Bristol City
+	15.00		Tranmere	3-0	QPR
+	15.00		Wigan	2-0	Swindon
+	15.00		Wycombe	1-2	Luton
+[1902-12-29]
+	15.00		Cardiff	4-0	Huddersfield
+	15.00		Crewe	1-2	Oldham
+
+Matchday 25
+
+[1903-01-01]
+	15.00		Barnsley	1-2	Northampton
+	15.00		Blackpool	1-1	Huddersfield
+	15.00		Cardiff	1-1	Swindon
+	15.00		Chesterfield	2-1	Luton
+	15.00		Crewe	2-0	Mansfield
+	15.00		Peterboro	0-2	QPR
+	15.00		Plymouth	3-1	Cheltenham
+	15.00		Stockport	1-1	Port Vale
+	15.00		Tranmere	1-2	Oldham
+	15.00		Wigan	3-1	Notts County
+	15.00		Wycombe	2-1	Bristol City
+[1903-01-04]
+	15.00		Colchester	2-2	Tranmere
+
+Matchday 26
+
+[1903-01-04]
+	15.00		Northampton	0-5	Wycombe
+	15.00		Oldham	0-0	Peterboro
+	15.00		QPR	1-0	Stockport
+	15.00		Swindon	3-0	Chesterfield
+[1903-01-10]
+	15.00		Bristol City	0-1	Wigan
+[1903-01-11]
+	15.00		Colchester	1-2	Crewe
+	15.00		Huddersfield	0-1	Peterboro
+	15.00		Mansfield	0-0	Wycombe
+	15.00		QPR	1-0	Barnsley
+[1903-01-14]
+	15.00		Oldham	2-1	Brentford
+[1903-01-18]
+	15.00		Barnsley	2-3	Luton
+	15.00		Blackpool	2-1	Northampton
+
+Matchday 27
+
+[1903-01-18]
+	15.00		Brentford	1-1	Notts County
+	15.00		Cardiff	2-1	Cheltenham
+	15.00		Chesterfield	1-2	Mansfield
+	15.00		Crewe	1-0	Huddersfield
+	15.00		Peterboro	1-2	Port Vale
+	15.00		Plymouth	0-1	QPR
+	15.00		Stockport	2-5	Swindon
+	15.00		Tranmere	1-1	Bristol City
+	15.00		Wigan	2-1	Colchester
+	15.00		Wycombe	2-2	Oldham
+[1903-01-21]
+	15.00		Notts County	3-2	Stockport
+[1903-01-22]
+	15.00		Swindon	1-1	Blackpool
+
+Matchday 28
+
+[1903-01-25]
+	15.00		Bristol City	1-1	Stockport
+	15.00		Cheltenham	0-0	Chesterfield
+	15.00		Colchester	0-2	Blackpool
+	15.00		Huddersfield	1-0	Cardiff
+	15.00		Luton	1-0	Wycombe
+	15.00		Northampton	0-1	Peterboro
+	15.00		Notts County	0-2	Plymouth
+	15.00		Oldham	1-3	Crewe
+	15.00		Port Vale	0-0	Barnsley
+	15.00		QPR	1-2	Tranmere
+	15.00		Swindon	2-1	Wigan
+[1903-01-28]
+	15.00		Mansfield	1-2	Wigan
+
+Matchday 29
+
+[1903-01-31]
+	15.00		Cardiff	1-1	Oldham
+[1903-02-01]
+	15.00		Barnsley	1-1	Swindon
+	15.00		Blackpool	0-0	Bristol City
+	15.00		Crewe	3-3	Northampton
+	15.00		Peterboro	1-1	Luton
+	15.00		Plymouth	3-1	Mansfield
+	15.00		Stockport	1-1	Colchester
+	15.00		Tranmere	1-0	Port Vale
+	15.00		Wigan	0-0	Cheltenham
+	15.00		Wycombe	3-1	Notts County
+[1903-02-02]
+	15.00		Chesterfield	2-4	QPR
+[1903-02-04]
+	15.00		Cheltenham	3-1	Tranmere
+
+Matchday 30
+
+[1903-02-04]
+	15.00		Huddersfield	1-0	Plymouth
+	15.00		Mansfield	0-0	Brentford
+	15.00		Northampton	0-1	Cardiff
+	15.00		Notts County	2-2	Crewe
+[1903-02-08]
+	15.00		Brentford	1-2	Crewe
+	15.00		Bristol City	1-2	Colchester
+	15.00		Cardiff	1-1	Barnsley
+	15.00		Cheltenham	0-2	Stockport
+	15.00		Chesterfield	0-0	Peterboro
+	15.00		Mansfield	3-2	Notts County
+	15.00		Northampton	1-1	QPR
+	15.00		Oldham	0-1	Plymouth
+
+Matchday 31
+
+[1903-02-08]
+	15.00		Port Vale	1-2	Luton
+	15.00		Tranmere	0-1	Swindon
+	15.00		Wigan	1-1	Blackpool
+	15.00		Wycombe	0-0	Huddersfield
+[1903-02-11]
+	15.00		Bristol City	0-0	Brentford
+	15.00		Luton	1-3	Blackpool
+	15.00		Port Vale	5-2	Chesterfield
+[1903-02-14]
+	15.00		Colchester	1-0	Mansfield
+[1903-02-15]
+	15.00		Barnsley	2-1	Chesterfield
+	15.00		Blackpool	1-0	Brentford
+	15.00		Huddersfield	3-3	Cheltenham
+	15.00		Luton	3-2	Northampton
+
+Matchday 32
+
+[1903-02-15]
+	15.00		Notts County	2-0	Bristol City
+	15.00		Plymouth	0-1	Tranmere
+	15.00		QPR	4-0	Port Vale
+	15.00		Stockport	1-2	Oldham
+	15.00		Swindon	0-3	Wycombe
+[1903-02-18]
+	15.00		Cheltenham	1-3	Barnsley
+[1903-02-21]
+	15.00		Cardiff	1-1	Plymouth
+[1903-02-22]
+	15.00		Barnsley	0-1	Huddersfield
+	15.00		Cheltenham	1-1	Colchester
+	15.00		Chesterfield	0-2	Crewe
+	15.00		Luton	0-1	Brentford
+	15.00		Northampton	1-2	Bristol City
+
+Matchday 33
+
+[1903-02-22]
+	15.00		Oldham	1-1	Notts County
+	15.00		Peterboro	2-0	Stockport
+	15.00		Port Vale	1-1	Swindon
+	15.00		QPR	2-2	Mansfield
+	15.00		Tranmere	2-1	Blackpool
+	15.00		Wycombe	0-2	Wigan
+[1903-02-25]
+	15.00		Brentford	1-0	Huddersfield
+	15.00		Crewe	0-1	Wigan
+	15.00		Luton	1-0	Plymouth
+	15.00		Port Vale	0-2	Cardiff
+[1903-03-01]
+	15.00		Blackpool	1-0	Wycombe
+	15.00		Brentford	1-2	Tranmere
+
+Matchday 34
+
+[1903-03-01]
+	15.00		Bristol City	3-1	Cheltenham
+	15.00		Colchester	4-1	Port Vale
+	15.00		Crewe	0-1	Peterboro
+	15.00		Huddersfield	2-0	Northampton
+	15.00		Mansfield	0-1	Oldham
+	15.00		Notts County	2-1	Luton
+	15.00		Plymouth	1-1	Barnsley
+	15.00		Stockport	1-1	Cardiff
+	15.00		Swindon	3-1	QPR
+	15.00		Wigan	3-1	Chesterfield
+[1903-03-04]
+	15.00		Blackpool	1-2	Barnsley
+	15.00		Brentford	0-2	Cardiff
+
+Matchday 35
+
+[1903-03-04]
+	15.00		Bristol City	2-0	Oldham
+	15.00		Colchester	2-0	Northampton
+	15.00		Crewe	4-2	Wycombe
+	15.00		Huddersfield	0-3	QPR
+	15.00		Mansfield	3-2	Luton
+	15.00		Notts County	1-0	Port Vale
+	15.00		Plymouth	6-1	Peterboro
+	15.00		Stockport	2-1	Chesterfield
+	15.00		Wigan	0-0	Tranmere
+[1903-03-08]
+	15.00		Barnsley	1-0	Stockport
+	15.00		Cardiff	0-2	Notts County
+	15.00		Cheltenham	3-1	Mansfield
+
+Matchday 36
+
+[1903-03-08]
+	15.00		Chesterfield	3-2	Plymouth
+	15.00		Luton	3-0	Huddersfield
+	15.00		Northampton	1-0	Swindon
+	15.00		Oldham	2-0	Colchester
+	15.00		Peterboro	1-1	Wigan
+	15.00		Port Vale	1-0	Blackpool
+	15.00		QPR	1-0	Bristol City
+	15.00		Tranmere	2-1	Crewe
+	15.00		Wycombe	4-0	Brentford
+[1903-03-11]
+	15.00		Brentford	1-1	Colchester
+[1903-03-12]
+	15.00		Swindon	0-3	Cheltenham
+[1903-03-14]
+	15.00		Tranmere	3-3	Cardiff
+
+Matchday 37
+
+[1903-03-15]
+	15.00		Blackpool	1-1	Plymouth
+	15.00		Brentford	1-2	Stockport
+	15.00		Bristol City	1-0	Peterboro
+	15.00		Cheltenham	1-1	Northampton
+	15.00		Colchester	2-0	Huddersfield
+	15.00		Crewe	1-1	Port Vale
+	15.00		Mansfield	2-1	Swindon
+	15.00		Notts County	1-1	Chesterfield
+	15.00		Oldham	0-0	QPR
+	15.00		Wigan	1-1	Luton
+	15.00		Wycombe	2-2	Barnsley
+[1903-03-18]
+	15.00		Barnsley	1-1	Tranmere
+
+Matchday 38
+
+[1903-03-18]
+	15.00		Cardiff	2-1	Blackpool
+	15.00		Chesterfield	0-4	Colchester
+	15.00		Huddersfield	1-1	Mansfield
+	15.00		Luton	0-0	Oldham
+	15.00		Northampton	2-0	Notts County
+	15.00		Peterboro	1-2	Wycombe
+	15.00		Plymouth	1-3	Crewe
+	15.00		Port Vale	1-0	Brentford
+	15.00		QPR	4-1	Cheltenham
+	15.00		Stockport	1-1	Wigan
+[1903-03-19]
+	15.00		Swindon	1-1	Bristol City
+[1903-03-21]
+	15.00		Cardiff	1-0	Mansfield
+
+Matchday 39
+
+[1903-03-22]
+	15.00		Barnsley	1-1	Colchester
+	15.00		Chesterfield	4-0	Wycombe
+	15.00		Huddersfield	1-2	Bristol City
+	15.00		Luton	0-4	Crewe
+	15.00		Northampton	0-2	Oldham
+	15.00		Peterboro	0-0	Tranmere
+	15.00		Plymouth	3-0	Brentford
+	15.00		Port Vale	1-2	Cheltenham
+	15.00		QPR	0-1	Wigan
+	15.00		Stockport	2-2	Blackpool
+	15.00		Swindon	5-0	Notts County
+[1903-03-29]
+	15.00		Blackpool	1-3	QPR
+
+Matchday 40
+
+[1903-03-29]
+	15.00		Brentford	3-0	Northampton
+	15.00		Bristol City	2-0	Barnsley
+	15.00		Colchester	1-0	Swindon
+	15.00		Crewe	1-0	Stockport
+	15.00		Mansfield	1-5	Peterboro
+	15.00		Notts County	3-2	Huddersfield
+	15.00		Oldham	1-1	Port Vale
+	15.00		Tranmere	2-1	Chesterfield
+	15.00		Wigan	0-1	Plymouth
+[1903-04-04]
+	15.00		Northampton	0-2	Wigan
+[1903-04-05]
+	15.00		Brentford	2-2	Cheltenham
+	15.00		Cardiff	1-2	QPR
+
+Matchday 41
+
+[1903-04-05]
+	15.00		Huddersfield	4-0	Chesterfield
+	15.00		Luton	0-0	Tranmere
+	15.00		Mansfield	0-1	Port Vale
+	15.00		Notts County	3-1	Blackpool
+	15.00		Oldham	2-1	Barnsley
+	15.00		Peterboro	1-1	Swindon
+	15.00		Plymouth	0-0	Colchester
+	15.00		Wycombe	1-4	Stockport
+[1903-04-08]
+	15.00		Cheltenham	2-2	Luton
+	15.00		Wycombe	0-4	Cardiff
+[1903-04-12]
+	15.00		Barnsley	1-2	Peterboro
+	15.00		Blackpool	0-1	Crewe
+
+Matchday 42
+
+[1903-04-12]
+	15.00		Bristol City	5-2	Mansfield
+	15.00		Cheltenham	1-1	Oldham
+	15.00		Colchester	1-1	Notts County
+	15.00		Port Vale	3-2	Northampton
+	15.00		QPR	2-0	Luton
+	15.00		Stockport	2-1	Plymouth
+	15.00		Swindon	0-1	Huddersfield
+	15.00		Tranmere	1-0	Wycombe
+	15.00		Wigan	2-0	Brentford
+[1903-04-13]
+	15.00		Chesterfield	0-3	Cardiff
+[1903-04-15]
+	15.00		Crewe	1-1	Bristol City
+[1903-04-16]
+	15.00		Peterboro	2-0	Cardiff
+
+Matchday 43
+
+[1903-04-18]
+	15.00		Northampton	0-3	Stockport
+[1903-04-19]
+	15.00		Brentford	1-2	QPR
+	15.00		Cardiff	0-3	Colchester
+	15.00		Crewe	0-1	Swindon
+	15.00		Huddersfield	0-0	Wigan
+	15.00		Luton	2-2	Bristol City
+	15.00		Mansfield	0-1	Barnsley
+	15.00		Notts County	0-1	Tranmere
+	15.00		Oldham	4-0	Chesterfield
+	15.00		Peterboro	1-0	Blackpool
+	15.00		Plymouth	3-0	Port Vale
+	15.00		Wycombe	1-1	Cheltenham
+
+Matchday 44
+
+[1903-04-21]
+	15.00		Barnsley	1-2	Crewe
+	15.00		Blackpool	3-3	Mansfield
+	15.00		Cheltenham	1-1	Peterboro
+	15.00		Chesterfield	0-2	Brentford
+	15.00		Colchester	0-5	Luton
+	15.00		Port Vale	1-1	Wycombe
+	15.00		QPR	2-0	Notts County
+	15.00		Stockport	2-1	Huddersfield
+	15.00		Tranmere	4-0	Northampton
+	15.00		Wigan	3-1	Oldham
+[1903-04-22]
+	15.00		Bristol City	2-0	Cardiff
+[1903-04-23]
+	15.00		Swindon	2-0	Plymouth
+
+Matchday 45
+
+[1903-04-26]
+	15.00		Barnsley	1-0	Brentford
+	15.00		Cardiff	0-0	Wigan
+	15.00		Cheltenham	3-0	Blackpool
+	15.00		Chesterfield	2-0	Bristol City
+	15.00		Luton	1-1	Stockport
+	15.00		Northampton	2-2	Plymouth
+	15.00		Oldham	4-0	Swindon
+	15.00		Peterboro	1-0	Notts County
+	15.00		Port Vale	5-1	Huddersfield
+	15.00		QPR	0-0	Crewe
+	15.00		Wycombe	0-0	Colchester
+[1903-04-29]
+	15.00		Tranmere	3-1	Mansfield
+
+Matchday 46
+
+[1903-05-03]
+	15.00		Blackpool	1-1	Chesterfield
+	15.00		Brentford	1-1	Peterboro
+	15.00		Bristol City	2-0	Port Vale
+	15.00		Colchester	0-1	QPR
+	15.00		Crewe	1-1	Cardiff
+	15.00		Huddersfield	1-1	Oldham
+	15.00		Mansfield	2-1	Northampton
+	15.00		Notts County	1-0	Cheltenham
+	15.00		Plymouth	1-0	Wycombe
+	15.00		Stockport	2-3	Tranmere
+	15.00		Swindon	2-1	Luton
+	15.00		Wigan	1-0	Barnsley
+

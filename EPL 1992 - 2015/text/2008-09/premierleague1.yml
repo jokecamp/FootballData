@@ -1,0 +1,36 @@
+############################
+# Premier League 2008-2009
+
+league: en
+season: 2008/09
+start_at: 1908-08-09
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Blackpool
+- Bristol City
+- Burnley
+- Cardiff
+- Charlton
+- Coventry
+- Crystal Palace
+- Derby
+- Doncaster
+- Ipswich
+- Norwich
+- Nott'm Forest
+- Plymouth
+- Preston
+- QPR
+- Reading
+- Sheffield United
+- Sheffield Weds
+- Southampton
+- Swansea
+- Watford
+- Wolves
+

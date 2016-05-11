@@ -1,0 +1,32 @@
+############################
+# Premier League 1998-1999
+
+league: en
+season: 1998/99
+start_at: 1998-08-15
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Charlton
+- Chelsea
+- Coventry
+- Derby
+- Everton
+- Leeds
+- Leicester
+- Liverpool
+- Man United
+- Middlesbrough
+- Newcastle
+- Nott'm Forest
+- Sheffield Weds
+- Southampton
+- Tottenham
+- West Ham
+- Wimbledon
+

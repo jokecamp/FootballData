@@ -1,0 +1,861 @@
+############################
+# Premier League 1996-1997
+
+Matchday 1
+
+[1996-08-16]
+	15.00		Man City	1-0	Ipswich
+[1996-08-17]
+	15.00		Bradford	3-1	Portsmouth
+	15.00		Grimsby	1-3	Wolves
+	15.00		Huddersfield	2-0	Charlton
+	15.00		Norwich	2-0	Swindon
+	15.00		Oldham	1-2	Stoke
+	15.00		Port Vale	1-1	Bolton
+	15.00		QPR	2-1	Oxford
+	15.00		Reading	1-0	Sheffield United
+	15.00		Southend	1-1	Tranmere
+	15.00		West Brom	1-2	Barnsley
+[1996-08-18]
+	15.00		Birmingham	1-0	Crystal Palace
+
+Matchday 2
+
+[1996-08-20]
+	15.00		Bolton	1-0	Man City
+[1996-08-23]
+	15.00		Portsmouth	1-2	QPR
+	15.00		Tranmere	3-2	Grimsby
+[1996-08-24]
+	15.00		Bolton	3-1	Norwich
+	15.00		Charlton	1-1	West Brom
+	15.00		Crystal Palace	3-1	Oldham
+	15.00		Ipswich	5-2	Reading
+	15.00		Oxford	5-0	Southend
+	15.00		Sheffield United	4-4	Birmingham
+	15.00		Stoke	2-1	Man City
+	15.00		Swindon	1-1	Port Vale
+	15.00		Wolves	1-0	Bradford
+
+Matchday 3
+
+[1996-08-25]
+	15.00		Barnsley	3-1	Huddersfield
+[1996-08-27]
+	15.00		Crystal Palace	0-0	West Brom
+	15.00		Ipswich	1-1	Grimsby
+	15.00		Oxford	0-1	Norwich
+	15.00		Portsmouth	1-0	Southend
+	15.00		Tranmere	2-0	Port Vale
+[1996-08-28]
+	15.00		Barnsley	3-0	Reading
+	15.00		Stoke	1-0	Bradford
+	15.00		Swindon	1-0	Oldham
+	15.00		Wolves	1-1	QPR
+[1996-08-31]
+	15.00		Bradford	1-0	Tranmere
+	15.00		Grimsby	0-1	Portsmouth
+
+Matchday 4
+
+[1996-08-31]
+	15.00		Huddersfield	1-1	Crystal Palace
+	15.00		Norwich	1-0	Wolves
+	15.00		Oldham	3-3	Ipswich
+	15.00		Port Vale	2-0	Oxford
+	15.00		Reading	2-2	Stoke
+	15.00		Southend	1-3	Swindon
+[1996-09-01]
+	15.00		QPR	1-2	Bolton
+[1996-09-03]
+	15.00		Man City	2-1	Charlton
+[1996-09-06]
+	15.00		Wolves	1-0	Charlton
+[1996-09-07]
+	15.00		Bradford	0-2	Norwich
+	15.00		Grimsby	2-1	Swindon
+	15.00		Ipswich	1-3	Huddersfield
+
+Matchday 5
+
+[1996-09-07]
+	15.00		Man City	1-2	Barnsley
+	15.00		Oldham	0-2	Sheffield United
+	15.00		Portsmouth	1-1	Port Vale
+	15.00		QPR	0-2	West Brom
+	15.00		Southend	5-2	Bolton
+	15.00		Stoke	2-2	Crystal Palace
+	15.00		Tranmere	1-0	Birmingham
+[1996-09-08]
+	15.00		Reading	2-0	Oxford
+[1996-09-10]
+	15.00		Barnsley	3-0	Stoke
+	15.00		Birmingham	0-0	Oldham
+	15.00		Bolton	6-1	Grimsby
+	15.00		Charlton	2-0	Southend
+
+Matchday 6
+
+[1996-09-10]
+	15.00		Crystal Palace	0-0	Ipswich
+	15.00		Huddersfield	0-1	Tranmere
+	15.00		Oxford	1-1	Wolves
+	15.00		Port Vale	0-2	Man City
+	15.00		Sheffield United	3-0	Bradford
+	15.00		West Brom	3-2	Reading
+[1996-09-11]
+	15.00		Norwich	1-1	QPR
+	15.00		Swindon	0-1	Portsmouth
+[1996-09-13]
+	15.00		Huddersfield	3-2	Oldham
+[1996-09-14]
+	15.00		Barnsley	1-3	QPR
+	15.00		Birmingham	3-1	Stoke
+	15.00		Bolton	2-0	Portsmouth
+
+Matchday 7
+
+[1996-09-14]
+	15.00		Charlton	1-0	Reading
+	15.00		Crystal Palace	3-1	Man City
+	15.00		Norwich	0-0	Southend
+	15.00		Oxford	2-0	Bradford
+	15.00		Port Vale	1-1	Grimsby
+	15.00		Sheffield United	1-3	Ipswich
+	15.00		Swindon	2-1	Tranmere
+[1996-09-15]
+	15.00		West Brom	2-4	Wolves
+[1996-09-20]
+	15.00		Ipswich	2-1	Charlton
+[1996-09-21]
+	15.00		Bradford	2-4	Bolton
+	15.00		Grimsby	0-2	Oxford
+	15.00		Man City	1-0	Birmingham
+
+Matchday 8
+
+[1996-09-21]
+	15.00		Oldham	0-1	Barnsley
+	15.00		Portsmouth	0-1	Norwich
+	15.00		QPR	1-1	Swindon
+	15.00		Reading	1-6	Crystal Palace
+	15.00		Southend	0-0	Port Vale
+	15.00		Tranmere	2-3	West Brom
+	15.00		Wolves	1-2	Sheffield United
+[1996-09-22]
+	15.00		Stoke	3-2	Huddersfield
+[1996-09-27]
+	15.00		Swindon	1-2	Wolves
+[1996-09-28]
+	15.00		Barnsley	1-3	Grimsby
+	15.00		Birmingham	0-0	QPR
+	15.00		Bolton	1-1	Stoke
+
+Matchday 9
+
+[1996-09-28]
+	15.00		Charlton	1-0	Oldham
+	15.00		Crystal Palace	6-1	Southend
+	15.00		Huddersfield	1-0	Reading
+	15.00		Norwich	1-1	Tranmere
+	15.00		Oxford	2-0	Portsmouth
+	15.00		Sheffield United	2-0	Man City
+	15.00		West Brom	0-0	Ipswich
+[1996-09-29]
+	15.00		Port Vale	1-1	Bradford
+[1996-10-01]
+	15.00		Grimsby	1-4	Norwich
+	15.00		Ipswich	1-1	Barnsley
+	15.00		Oldham	1-1	West Brom
+	15.00		Portsmouth	2-2	Crystal Palace
+
+Matchday 10
+
+[1996-10-01]
+	15.00		Southend	3-2	Sheffield United
+	15.00		Tranmere	0-0	Oxford
+[1996-10-02]
+	15.00		Bradford	2-1	Swindon
+	15.00		QPR	1-2	Port Vale
+	15.00		Wolves	1-2	Bolton
+[1996-10-04]
+	15.00		Tranmere	4-3	Portsmouth
+[1996-10-05]
+	15.00		Bradford	0-0	Southend
+	15.00		Grimsby	2-0	QPR
+	15.00		Oldham	3-0	Port Vale
+	15.00		Wolves	0-1	Reading
+[1996-10-08]
+	15.00		Huddersfield	3-0	Birmingham
+[1996-10-11]
+	15.00		Norwich	3-1	Ipswich
+
+Matchday 11
+
+[1996-10-12]
+	15.00		Barnsley	0-0	Crystal Palace
+	15.00		Birmingham	3-0	Bradford
+	15.00		Bolton	3-1	Oldham
+	15.00		Portsmouth	2-0	Charlton
+	15.00		QPR	2-2	Man City
+	15.00		Reading	1-1	Grimsby
+	15.00		Sheffield United	0-0	Tranmere
+	15.00		Swindon	1-0	Oxford
+	15.00		West Brom	1-1	Huddersfield
+[1996-10-13]
+	15.00		Port Vale	1-1	Stoke
+	15.00		Southend	1-1	Wolves
+[1996-10-15]
+	15.00		Barnsley	0-0	Oxford
+
+Matchday 12
+
+[1996-10-15]
+	15.00		Birmingham	1-0	Ipswich
+	15.00		Bolton	1-0	Tranmere
+	15.00		Portsmouth	0-2	Wolves
+	15.00		Reading	2-0	Man City
+	15.00		Sheffield United	3-0	Charlton
+[1996-10-16]
+	15.00		Norwich	2-0	Oldham
+	15.00		Port Vale	0-2	Crystal Palace
+	15.00		QPR	1-0	Bradford
+	15.00		Southend	1-0	Grimsby
+	15.00		Swindon	6-0	Huddersfield
+	15.00		West Brom	0-2	Stoke
+[1996-10-18]
+	15.00		Oxford	0-0	Birmingham
+
+Matchday 13
+
+[1996-10-19]
+	15.00		Bradford	2-2	Barnsley
+	15.00		Charlton	3-3	Bolton
+	15.00		Crystal Palace	1-2	Swindon
+	15.00		Grimsby	1-1	West Brom
+	15.00		Huddersfield	0-0	Southend
+	15.00		Ipswich	1-1	Portsmouth
+	15.00		Man City	2-1	Norwich
+	15.00		Oldham	1-1	Reading
+	15.00		Stoke	0-4	Sheffield United
+	15.00		Wolves	0-1	Port Vale
+[1996-10-20]
+	15.00		Tranmere	2-3	QPR
+[1996-10-25]
+	15.00		Barnsley	2-2	Bolton
+
+Matchday 14
+
+[1996-10-26]
+	15.00		Birmingham	2-3	Norwich
+	15.00		Charlton	2-0	Oxford
+	15.00		Crystal Palace	3-0	Grimsby
+	15.00		Huddersfield	0-1	Port Vale
+	15.00		Ipswich	0-2	Tranmere
+	15.00		Oldham	0-0	Southend
+	15.00		Reading	2-0	Swindon
+	15.00		Sheffield United	1-1	QPR
+	15.00		Stoke	3-1	Portsmouth
+	15.00		West Brom	0-0	Bradford
+[1996-10-27]
+	15.00		Man City	0-1	Wolves
+[1996-10-29]
+	15.00		Bolton	2-1	Reading
+
+Matchday 15
+
+[1996-10-29]
+	15.00		Bradford	0-4	Crystal Palace
+	15.00		Grimsby	0-3	Oldham
+	15.00		Oxford	4-1	Stoke
+	15.00		Port Vale	1-3	Barnsley
+	15.00		Portsmouth	1-1	Birmingham
+	15.00		Southend	2-3	Man City
+	15.00		Tranmere	4-0	Charlton
+[1996-10-30]
+	15.00		Norwich	1-1	Sheffield United
+	15.00		QPR	0-1	Ipswich
+	15.00		Swindon	2-3	West Brom
+	15.00		Wolves	0-0	Huddersfield
+[1996-11-02]
+	15.00		Bolton	2-0	Huddersfield
+
+Matchday 16
+
+[1996-11-02]
+	15.00		Bradford	0-3	Oldham
+	15.00		Norwich	1-2	Charlton
+	15.00		Oxford	3-1	Ipswich
+	15.00		Port Vale	3-0	Birmingham
+	15.00		Portsmouth	4-0	West Brom
+	15.00		QPR	1-1	Stoke
+	15.00		Southend	2-1	Reading
+	15.00		Swindon	2-0	Man City
+	15.00		Tranmere	1-3	Crystal Palace
+	15.00		Wolves	3-3	Barnsley
+[1996-11-03]
+	15.00		Grimsby	2-4	Sheffield United
+[1996-11-08]
+	15.00		Huddersfield	3-3	Bradford
+
+Matchday 17
+
+[1996-11-09]
+	15.00		Ipswich	1-1	Southend
+	15.00		Oldham	0-0	Portsmouth
+	15.00		West Brom	1-1	Port Vale
+[1996-11-10]
+	15.00		Crystal Palace	3-0	QPR
+[1996-11-12]
+	15.00		Barnsley	3-1	Norwich
+[1996-11-13]
+	15.00		Birmingham	3-1	Bolton
+	15.00		Man City	2-3	Oxford
+	15.00		West Brom	1-2	Sheffield United
+[1996-11-15]
+	15.00		Tranmere	1-1	Oldham
+[1996-11-16]
+	15.00		Bolton	2-2	Crystal Palace
+	15.00		Bradford	2-1	Ipswich
+	15.00		Grimsby	1-1	Stoke
+
+Matchday 18
+
+[1996-11-16]
+	15.00		Norwich	1-1	Reading
+	15.00		Oxford	1-0	Huddersfield
+	15.00		Port Vale	0-0	Sheffield United
+	15.00		Portsmouth	2-1	Man City
+	15.00		QPR	1-2	Charlton
+	15.00		Southend	2-3	West Brom
+	15.00		Swindon	3-0	Barnsley
+[1996-11-17]
+	15.00		Wolves	1-2	Birmingham
+[1996-11-19]
+	15.00		Ipswich	3-2	Swindon
+	15.00		Man City	0-0	Huddersfield
+	15.00		Oxford	0-0	Bolton
+[1996-11-20]
+	15.00		Charlton	2-1	Birmingham
+
+Matchday 19
+
+[1996-11-22]
+	15.00		Sheffield United	1-1	Bolton
+[1996-11-23]
+	15.00		Barnsley	3-2	Portsmouth
+	15.00		Birmingham	1-0	Swindon
+	15.00		Charlton	0-2	Bradford
+	15.00		Crystal Palace	2-3	Wolves
+	15.00		Huddersfield	2-0	Grimsby
+	15.00		Ipswich	2-1	Port Vale
+	15.00		Man City	1-2	Tranmere
+	15.00		Oldham	2-1	Oxford
+	15.00		Reading	2-1	QPR
+	15.00		Stoke	1-2	Southend
+[1996-11-26]
+	15.00		Charlton	1-3	Grimsby
+
+Matchday 20
+
+[1996-11-26]
+	15.00		Reading	0-0	Birmingham
+	15.00		Sheffield United	2-0	Swindon
+[1996-11-27]
+	15.00		Man City	3-2	West Brom
+[1996-11-30]
+	15.00		Bolton	2-2	Barnsley
+	15.00		Bradford	1-1	West Brom
+	15.00		Grimsby	2-1	Crystal Palace
+	15.00		Norwich	0-1	Birmingham
+	15.00		Oxford	0-2	Charlton
+	15.00		Port Vale	0-0	Huddersfield
+	15.00		Portsmouth	1-0	Stoke
+	15.00		QPR	1-0	Sheffield United
+	15.00		Southend	1-1	Oldham
+
+Matchday 21
+
+[1996-11-30]
+	15.00		Swindon	3-1	Reading
+	15.00		Tranmere	3-0	Ipswich
+[1996-12-01]
+	15.00		Wolves	3-0	Man City
+[1996-12-03]
+	15.00		Birmingham	0-0	Barnsley
+	15.00		Reading	2-0	Tranmere
+	15.00		Sheffield United	3-1	Huddersfield
+[1996-12-04]
+	15.00		Stoke	1-0	Charlton
+[1996-12-07]
+	15.00		Barnsley	3-0	Southend
+	15.00		Birmingham	0-0	Grimsby
+	15.00		Charlton	2-0	Swindon
+	15.00		Crystal Palace	2-2	Oxford
+	15.00		Huddersfield	2-0	Norwich
+
+Matchday 22
+
+[1996-12-07]
+	15.00		Ipswich	0-0	Wolves
+	15.00		Man City	3-2	Bradford
+	15.00		Oldham	0-2	QPR
+	15.00		Reading	0-1	Port Vale
+	15.00		Sheffield United	1-0	Portsmouth
+	15.00		Stoke	2-0	Tranmere
+[1996-12-08]
+	15.00		West Brom	2-2	Bolton
+[1996-12-14]
+	15.00		Barnsley	3-0	Tranmere
+	15.00		Bolton	1-2	Ipswich
+	15.00		Charlton	1-3	Port Vale
+	15.00		Norwich	1-1	Crystal Palace
+	15.00		Oxford	4-1	Sheffield United
+
+Matchday 23
+
+[1996-12-14]
+	15.00		Portsmouth	3-1	Huddersfield
+	15.00		QPR	4-0	Southend
+	15.00		Stoke	2-0	Swindon
+	15.00		Wolves	0-1	Oldham
+[1996-12-17]
+	15.00		Bradford	0-0	Reading
+	15.00		Crystal Palace	0-1	Sheffield United
+[1996-12-18]
+	15.00		West Brom	5-1	Norwich
+[1996-12-20]
+	15.00		Southend	1-1	Birmingham
+[1996-12-21]
+	15.00		Crystal Palace	1-0	Charlton
+	15.00		Grimsby	1-1	Bradford
+	15.00		Huddersfield	1-2	QPR
+	15.00		Ipswich	1-1	Stoke
+
+Matchday 24
+
+[1996-12-21]
+	15.00		Oldham	2-1	Man City
+	15.00		Port Vale	6-1	Norwich
+	15.00		Reading	0-0	Portsmouth
+	15.00		Sheffield United	0-1	Barnsley
+	15.00		Tranmere	0-2	Wolves
+	15.00		West Brom	3-3	Oxford
+[1996-12-22]
+	15.00		Swindon	2-2	Bolton
+[1996-12-26]
+	15.00		Bradford	1-2	Sheffield United
+	15.00		Grimsby	1-2	Bolton
+	15.00		Ipswich	3-1	Crystal Palace
+	15.00		Man City	0-1	Port Vale
+	15.00		Portsmouth	0-1	Swindon
+
+Matchday 25
+
+[1996-12-26]
+	15.00		QPR	3-2	Norwich
+	15.00		Reading	2-2	West Brom
+	15.00		Southend	0-2	Charlton
+	15.00		Stoke	1-0	Barnsley
+	15.00		Tranmere	1-1	Huddersfield
+	15.00		Wolves	3-1	Oxford
+[1996-12-28]
+	15.00		Barnsley	2-0	Man City
+	15.00		Bolton	3-1	Southend
+	15.00		Charlton	0-0	Wolves
+	15.00		Huddersfield	2-0	Ipswich
+	15.00		Norwich	2-0	Bradford
+	15.00		Oxford	2-1	Reading
+
+Matchday 26
+
+[1996-12-28]
+	15.00		Port Vale	0-2	Portsmouth
+	15.00		Sheffield United	2-2	Oldham
+	15.00		West Brom	4-1	QPR
+[1997-01-01]
+	15.00		Bolton	2-1	Bradford
+	15.00		Charlton	1-1	Ipswich
+	15.00		Huddersfield	2-1	Stoke
+	15.00		Norwich	1-0	Portsmouth
+	15.00		West Brom	1-2	Tranmere
+[1997-01-10]
+	15.00		Stoke	1-0	Birmingham
+	15.00		Tranmere	2-1	Swindon
+[1997-01-11]
+	15.00		Bradford	2-0	Oxford
+	15.00		Grimsby	1-1	Port Vale
+
+Matchday 27
+
+[1997-01-11]
+	15.00		Man City	1-1	Crystal Palace
+	15.00		Portsmouth	0-3	Bolton
+	15.00		QPR	3-1	Barnsley
+	15.00		Reading	2-2	Charlton
+[1997-01-12]
+	15.00		Wolves	2-0	West Brom
+[1997-01-18]
+	15.00		Barnsley	1-2	Ipswich
+	15.00		Birmingham	4-1	Reading
+	15.00		Bolton	3-0	Wolves
+	15.00		Charlton	1-2	Stoke
+	15.00		Crystal Palace	1-2	Portsmouth
+	15.00		Huddersfield	1-1	Man City
+	15.00		Norwich	2-1	Grimsby
+
+Matchday 28
+
+[1997-01-18]
+	15.00		Oxford	2-1	Tranmere
+	15.00		Sheffield United	3-0	Southend
+	15.00		Swindon	1-1	Bradford
+	15.00		West Brom	1-1	Oldham
+[1997-01-19]
+	15.00		Port Vale	4-4	QPR
+[1997-01-22]
+	15.00		Stoke	1-2	Norwich
+[1997-01-24]
+	15.00		Sheffield United	2-3	Wolves
+[1997-01-25]
+	15.00		Ipswich	5-0	West Brom
+	15.00		Oldham	1-2	Huddersfield
+	15.00		Port Vale	2-1	Southend
+	15.00		Swindon	3-3	Grimsby
+[1997-01-28]
+	15.00		Bradford	1-0	Port Vale
+
+Matchday 29
+
+[1997-01-28]
+	15.00		Grimsby	2-3	Barnsley
+	15.00		Portsmouth	2-1	Oxford
+	15.00		Reading	4-1	Huddersfield
+	15.00		Southend	2-1	Crystal Palace
+	15.00		Tranmere	3-1	Norwich
+[1997-01-29]
+	15.00		Man City	0-0	Sheffield United
+	15.00		QPR	1-1	Birmingham
+	15.00		Stoke	1-2	Bolton
+	15.00		Wolves	1-0	Swindon
+[1997-02-01]
+	15.00		Bolton	2-1	Birmingham
+	15.00		Bradford	1-1	Huddersfield
+	15.00		Grimsby	2-0	Charlton
+
+Matchday 30
+
+[1997-02-01]
+	15.00		Norwich	1-1	Barnsley
+	15.00		Port Vale	2-2	West Brom
+	15.00		Portsmouth	1-0	Oldham
+	15.00		QPR	0-1	Crystal Palace
+	15.00		Southend	0-0	Ipswich
+	15.00		Swindon	2-1	Sheffield United
+	15.00		Tranmere	2-2	Reading
+	15.00		Wolves	2-0	Stoke
+[1997-02-02]
+	15.00		Oxford	1-4	Man City
+[1997-02-04]
+	15.00		Birmingham	2-3	West Brom
+[1997-02-05]
+	15.00		Swindon	1-1	QPR
+[1997-02-07]
+	15.00		Charlton	3-1	Tranmere
+
+Matchday 31
+
+[1997-02-07]
+	15.00		Stoke	2-1	Oxford
+[1997-02-08]
+	15.00		Barnsley	1-0	Port Vale
+	15.00		Birmingham	0-3	Portsmouth
+	15.00		Crystal Palace	3-1	Bradford
+	15.00		Huddersfield	0-2	Wolves
+	15.00		Ipswich	2-0	QPR
+	15.00		Man City	3-0	Southend
+	15.00		Oldham	0-3	Grimsby
+	15.00		Reading	3-2	Bolton
+	15.00		West Brom	1-2	Swindon
+[1997-02-09]
+	15.00		Sheffield United	2-3	Norwich
+[1997-02-15]
+	15.00		Bolton	2-2	Sheffield United
+
+Matchday 32
+
+[1997-02-15]
+	15.00		Charlton	2-2	Barnsley
+	15.00		Grimsby	2-2	Huddersfield
+	15.00		Norwich	2-4	West Brom
+	15.00		Oxford	3-1	Oldham
+	15.00		Port Vale	2-2	Ipswich
+	15.00		Southend	2-1	Stoke
+	15.00		Wolves	0-3	Crystal Palace
+[1997-02-22]
+	15.00		Barnsley	1-3	Wolves
+	15.00		Charlton	4-4	Norwich
+	15.00		Crystal Palace	0-1	Tranmere
+	15.00		Huddersfield	1-2	Bolton
+	15.00		Ipswich	2-1	Oxford
+
+Matchday 33
+
+[1997-02-22]
+	15.00		Man City	3-0	Swindon
+	15.00		Oldham	1-2	Bradford
+	15.00		Reading	3-2	Southend
+	15.00		Sheffield United	3-1	Grimsby
+	15.00		Stoke	0-0	QPR
+	15.00		West Brom	0-2	Portsmouth
+[1997-02-23]
+	15.00		Birmingham	1-2	Port Vale
+[1997-02-25]
+	15.00		Southend	1-1	Norwich
+[1997-02-26]
+	15.00		Swindon	3-1	Birmingham
+[1997-02-28]
+	15.00		Tranmere	0-0	Stoke
+[1997-03-01]
+	15.00		Bradford	1-3	Man City
+	15.00		Grimsby	1-2	Birmingham
+
+Matchday 34
+
+[1997-03-01]
+	15.00		Norwich	2-0	Huddersfield
+	15.00		Oxford	1-4	Crystal Palace
+	15.00		Port Vale	1-0	Reading
+	15.00		Portsmouth	1-1	Sheffield United
+	15.00		QPR	0-1	Oldham
+	15.00		Southend	1-2	Barnsley
+	15.00		Swindon	1-0	Charlton
+	15.00		Wolves	0-0	Ipswich
+[1997-03-02]
+	15.00		Bolton	1-0	West Brom
+[1997-03-04]
+	15.00		Barnsley	1-1	Swindon
+	15.00		Birmingham	1-2	Wolves
+	15.00		Charlton	2-1	QPR
+
+Matchday 35
+
+[1997-03-04]
+	15.00		Crystal Palace	1-1	Bolton
+	15.00		Huddersfield	1-0	Oxford
+	15.00		Ipswich	3-2	Bradford
+	15.00		Oldham	1-2	Tranmere
+	15.00		Reading	2-1	Norwich
+	15.00		Sheffield United	3-0	Port Vale
+[1997-03-05]
+	15.00		Man City	1-1	Portsmouth
+	15.00		Stoke	3-1	Grimsby
+	15.00		West Brom	4-0	Southend
+[1997-03-07]
+	15.00		Barnsley	2-0	Sheffield United
+[1997-03-08]
+	15.00		Birmingham	2-1	Southend
+	15.00		Bolton	7-0	Swindon
+
+Matchday 36
+
+[1997-03-08]
+	15.00		Bradford	3-4	Grimsby
+	15.00		Charlton	2-1	Crystal Palace
+	15.00		Man City	1-0	Oldham
+	15.00		Norwich	1-1	Port Vale
+	15.00		Oxford	1-0	West Brom
+	15.00		QPR	2-0	Huddersfield
+	15.00		Stoke	0-1	Ipswich
+	15.00		Wolves	3-2	Tranmere
+[1997-03-11]
+	15.00		Birmingham	2-0	Man City
+[1997-03-12]
+	15.00		QPR	0-2	Reading
+[1997-03-15]
+	15.00		Crystal Palace	2-0	Norwich
+	15.00		Grimsby	1-1	Man City
+
+Matchday 37
+
+[1997-03-15]
+	15.00		Huddersfield	1-3	Portsmouth
+	15.00		Ipswich	0-1	Bolton
+	15.00		Oldham	3-2	Wolves
+	15.00		Port Vale	2-0	Charlton
+	15.00		Reading	0-0	Bradford
+	15.00		Sheffield United	3-1	Oxford
+	15.00		Southend	0-1	QPR
+	15.00		Swindon	1-0	Stoke
+	15.00		Tranmere	1-1	Barnsley
+[1997-03-16]
+	15.00		West Brom	2-0	Birmingham
+[1997-03-18]
+	15.00		Bolton	4-2	Port Vale
+	15.00		Ipswich	3-1	Sheffield United
+
+Matchday 38
+
+[1997-03-18]
+	15.00		Oldham	1-1	Charlton
+	15.00		Oxford	3-2	Grimsby
+	15.00		Stoke	1-0	Wolves
+	15.00		Tranmere	1-1	Man City
+[1997-03-22]
+	15.00		Birmingham	1-1	Sheffield United
+	15.00		Bradford	2-1	Wolves
+	15.00		Grimsby	0-0	Tranmere
+	15.00		Huddersfield	0-0	Barnsley
+	15.00		Man City	2-0	Stoke
+	15.00		Norwich	0-1	Bolton
+	15.00		Port Vale	1-0	Swindon
+	15.00		QPR	2-1	Portsmouth
+
+Matchday 39
+
+[1997-03-22]
+	15.00		Reading	1-0	Ipswich
+	15.00		Southend	2-2	Oxford
+	15.00		West Brom	1-2	Charlton
+[1997-03-23]
+	15.00		Oldham	0-1	Crystal Palace
+[1997-03-25]
+	15.00		Portsmouth	1-0	Reading
+[1997-03-28]
+	15.00		Barnsley	2-0	West Brom
+	15.00		Tranmere	2-0	Southend
+[1997-03-29]
+	15.00		Crystal Palace	0-1	Birmingham
+	15.00		Oxford	2-3	QPR
+	15.00		Portsmouth	3-1	Bradford
+	15.00		Sheffield United	2-0	Reading
+	15.00		Stoke	2-1	Oldham
+
+Matchday 40
+
+[1997-03-29]
+	15.00		Swindon	0-3	Norwich
+[1997-03-31]
+	15.00		Birmingham	0-0	Charlton
+	15.00		Bradford	1-0	Stoke
+	15.00		Grimsby	2-1	Ipswich
+	15.00		Huddersfield	2-1	Sheffield United
+	15.00		Norwich	1-1	Oxford
+	15.00		Oldham	5-1	Swindon
+	15.00		Port Vale	2-1	Tranmere
+	15.00		QPR	2-2	Wolves
+	15.00		Reading	1-2	Barnsley
+	15.00		Southend	2-1	Portsmouth
+[1997-04-04]
+	15.00		Tranmere	3-0	Bradford
+
+Matchday 41
+
+[1997-04-05]
+	15.00		Barnsley	0-1	Birmingham
+	15.00		Bolton	2-1	QPR
+	15.00		Charlton	1-1	Man City
+	15.00		Crystal Palace	1-1	Huddersfield
+	15.00		Ipswich	4-0	Oldham
+	15.00		Oxford	0-2	Port Vale
+	15.00		Portsmouth	1-0	Grimsby
+	15.00		Sheffield United	1-2	West Brom
+	15.00		Stoke	1-1	Reading
+	15.00		Swindon	0-0	Southend
+	15.00		Wolves	3-2	Norwich
+[1997-04-08]
+	15.00		Oldham	2-2	Birmingham
+
+Matchday 42
+
+[1997-04-09]
+	15.00		Charlton	2-1	Huddersfield
+	15.00		Man City	1-2	Bolton
+	15.00		West Brom	1-0	Crystal Palace
+[1997-04-12]
+	15.00		Barnsley	4-0	Charlton
+	15.00		Birmingham	1-0	Huddersfield
+	15.00		Bolton	4-0	Oxford
+	15.00		Norwich	2-0	Stoke
+	15.00		Port Vale	3-2	Oldham
+	15.00		Portsmouth	1-3	Tranmere
+	15.00		QPR	3-0	Grimsby
+	15.00		Reading	2-1	Wolves
+	15.00		Sheffield United	3-0	Crystal Palace
+
+Matchday 43
+
+[1997-04-12]
+	15.00		Southend	1-1	Bradford
+	15.00		Swindon	0-4	Ipswich
+	15.00		West Brom	1-3	Man City
+[1997-04-15]
+	15.00		Barnsley	2-0	Oldham
+	15.00		Birmingham	0-0	Tranmere
+	15.00		Crystal Palace	2-0	Stoke
+[1997-04-16]
+	15.00		Man City	3-0	Grimsby
+[1997-04-18]
+	15.00		Ipswich	2-0	Norwich
+[1997-04-19]
+	15.00		Bradford	0-2	Birmingham
+	15.00		Charlton	2-1	Portsmouth
+	15.00		Crystal Palace	1-1	Barnsley
+	15.00		Grimsby	2-0	Reading
+
+Matchday 44
+
+[1997-04-19]
+	15.00		Huddersfield	0-0	West Brom
+	15.00		Man City	0-3	QPR
+	15.00		Oldham	0-0	Bolton
+	15.00		Oxford	2-0	Swindon
+	15.00		Tranmere	1-1	Sheffield United
+	15.00		Wolves	4-1	Southend
+[1997-04-20]
+	15.00		Stoke	2-0	Port Vale
+[1997-04-22]
+	15.00		Ipswich	1-0	Man City
+	15.00		Portsmouth	4-2	Barnsley
+[1997-04-23]
+	15.00		Crystal Palace	3-2	Reading
+	15.00		Wolves	1-1	Grimsby
+[1997-04-25]
+	15.00		Bolton	4-1	Charlton
+
+Matchday 45
+
+[1997-04-25]
+	15.00		Norwich	0-0	Man City
+	15.00		Portsmouth	0-1	Ipswich
+	15.00		Sheffield United	1-0	Stoke
+[1997-04-26]
+	15.00		Barnsley	2-0	Bradford
+	15.00		Birmingham	2-0	Oxford
+	15.00		QPR	2-0	Tranmere
+	15.00		Reading	2-0	Oldham
+	15.00		Southend	1-2	Huddersfield
+	15.00		Swindon	0-2	Crystal Palace
+	15.00		West Brom	2-0	Grimsby
+[1997-04-27]
+	15.00		Port Vale	1-2	Wolves
+[1997-05-01]
+	15.00		Bradford	1-0	Charlton
+
+Matchday 46
+
+[1997-05-03]
+	15.00		Man City	3-2	Reading
+[1997-05-04]
+	15.00		Bradford	3-0	QPR
+	15.00		Charlton	0-0	Sheffield United
+	15.00		Crystal Palace	1-1	Port Vale
+	15.00		Grimsby	4-0	Southend
+	15.00		Huddersfield	0-0	Swindon
+	15.00		Ipswich	1-1	Birmingham
+	15.00		Oldham	3-0	Norwich
+	15.00		Oxford	5-1	Barnsley
+	15.00		Stoke	2-1	West Brom
+	15.00		Tranmere	2-2	Bolton
+	15.00		Wolves	0-1	Portsmouth
+

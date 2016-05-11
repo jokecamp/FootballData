@@ -1,0 +1,36 @@
+############################
+# Premier League 1997-1998
+
+league: en
+season: 1997/98
+start_at: 1997-08-09
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Birmingham
+- Bradford
+- Bury
+- Charlton
+- Crewe
+- Huddersfield
+- Ipswich
+- Man City
+- Middlesbrough
+- Norwich
+- Nott'm Forest
+- Oxford
+- Port Vale
+- Portsmouth
+- QPR
+- Reading
+- Sheffield United
+- Stockport
+- Stoke
+- Sunderland
+- Swindon
+- Tranmere
+- West Brom
+- Wolves
+

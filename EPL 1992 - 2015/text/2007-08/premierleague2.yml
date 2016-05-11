@@ -1,0 +1,36 @@
+############################
+# Premier League 2007-2008
+
+league: en
+season: 2007/08
+start_at: 1907-08-11
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Bournemouth
+- Brighton
+- Bristol Rvs
+- Carlisle
+- Cheltenham
+- Crewe
+- Doncaster
+- Gillingham
+- Hartlepool
+- Huddersfield
+- Leeds
+- Leyton Orient
+- Luton
+- Millwall
+- Northampton
+- Nott'm Forest
+- Oldham
+- Port Vale
+- Southend
+- Swansea
+- Swindon
+- Tranmere
+- Walsall
+- Yeovil
+

@@ -1,0 +1,36 @@
+############################
+# Premier League 1994-1995
+
+league: en
+season: 1994/95
+start_at: 1994-08-13
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Birmingham
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Brighton
+- Bristol Rvs
+- Cambridge
+- Cardiff
+- Chester
+- Crewe
+- Huddersfield
+- Hull
+- Leyton Orient
+- Oxford
+- Peterboro
+- Plymouth
+- Rotherham
+- Shrewsbury
+- Stockport
+- Swansea
+- Wrexham
+- Wycombe
+- York
+

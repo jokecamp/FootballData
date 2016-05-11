@@ -1,0 +1,29 @@
+[
+  { "home": "Palestine", "away": "Saudi Arabia", "homescore": "0", "awayscore": "0" },
+  { "home": "FC United of Manchester", "away": "Chesterfield", "homescore": "1", "awayscore": "4" },
+  { "home": "Palestine", "away": "Saudi Arabia", "homescore": "0", "awayscore": "0" },
+  { "home": "FC United of Manchester", "away": "Chesterfield", "homescore": "1", "awayscore": "4" },
+  { "home": "Athletic Bilbao B", "away": "Llagostera", "homescore": "2", "awayscore": "0" },
+  { "home": "Crotone", "away": "US Avellino", "homescore": "3", "awayscore": "1" },
+  { "home": "St Pauli", "away": "Fortuna Düsseldorf", "homescore": "4", "awayscore": "0" },
+  { "home": "AS Nancy Lorraine", "away": "Dijon FCO", "homescore": "3", "awayscore": "1" },
+  { "home": "Belenenses", "away": "Tondela", "homescore": "2", "awayscore": "1" },
+  { "home": "Uniao da Madeira", "away": "Braga", "homescore": "0", "awayscore": "1" },
+  { "home": "Panetolikos", "away": "Giannina", "homescore": "2", "awayscore": "1" },
+  { "home": "Huracán", "away": "Belgrano de Córdoba", "homescore": "1", "awayscore": "1" },
+  { "home": "Nueva Chicago", "away": "Quilmes", "homescore": "2", "awayscore": "1" },
+  { "home": "Temperley", "away": "Argentinos Juniors", "homescore": "0", "awayscore": "0" },
+  { "home": "Crucero del Norte", "away": "Aldosivi", "homescore": "0", "awayscore": "2" },
+  { "home": "Santamarina", "away": "Sp. Estudiantes (San Luis)", "homescore": "1", "awayscore": "0" },
+  { "home": "Defensores Cambaceres", "away": "Dock Sud", "homescore": "2", "awayscore": "0" },
+  { "home": "Unión Española", "away": "Audax Italiano", "homescore": "3", "awayscore": "2" },
+  {
+    "home": "Santiago Wanderers",
+    "away": "Universidad de Concepción",
+    "homescore": "1",
+    "awayscore": "2"
+  },
+  { "home": "Bucaramanga", "away": "Real Cartagena" },
+  { "home": "Geylang International", "away": "Hougang United", "homescore": "2", "awayscore": "2" },
+  { "home": "Cavalier SC", "away": "Harbour View" }
+]

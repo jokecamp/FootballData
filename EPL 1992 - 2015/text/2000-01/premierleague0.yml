@@ -1,0 +1,32 @@
+############################
+# Premier League 2000-2001
+
+league: en
+season: 2000/01
+start_at: 1900-08-19
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Bradford
+- Charlton
+- Chelsea
+- Coventry
+- Derby
+- Everton
+- Ipswich
+- Leeds
+- Leicester
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Southampton
+- Sunderland
+- Tottenham
+- West Ham
+

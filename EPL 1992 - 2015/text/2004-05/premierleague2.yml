@@ -1,0 +1,36 @@
+############################
+# Premier League 2004-2005
+
+league: en
+season: 2004/05
+start_at: 1904-08-07
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Barnsley
+- Blackpool
+- Bournemouth
+- Bradford
+- Brentford
+- Bristol City
+- Chesterfield
+- Colchester
+- Doncaster
+- Hartlepool
+- Huddersfield
+- Hull
+- Luton
+- Milton Keynes Dons
+- Oldham
+- Peterboro
+- Port Vale
+- Sheffield Weds
+- Stockport
+- Swindon
+- Torquay
+- Tranmere
+- Walsall
+- Wrexham
+

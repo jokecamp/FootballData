@@ -1,0 +1,32 @@
+############################
+# Premier League 2008-2009
+
+league: en
+season: 2008/09
+start_at: 1908-08-16
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Bolton
+- Chelsea
+- Everton
+- Fulham
+- Hull
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Portsmouth
+- Stoke
+- Sunderland
+- Tottenham
+- West Brom
+- West Ham
+- Wigan
+

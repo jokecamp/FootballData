@@ -1,0 +1,36 @@
+############################
+# Premier League 2003-2004
+
+league: en
+season: 2003/04
+start_at: 1903-08-09
+
+fixtures:
+- premierleague2
+
+24 teams:
+- Barnsley
+- Blackpool
+- Bournemouth
+- Brentford
+- Brighton
+- Bristol City
+- Chesterfield
+- Colchester
+- Grimsby
+- Hartlepool
+- Luton
+- Notts County
+- Oldham
+- Peterboro
+- Plymouth
+- Port Vale
+- QPR
+- Rushden & D
+- Sheffield Weds
+- Stockport
+- Swindon
+- Tranmere
+- Wrexham
+- Wycombe
+

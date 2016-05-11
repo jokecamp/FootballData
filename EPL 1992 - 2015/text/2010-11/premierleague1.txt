@@ -1,0 +1,800 @@
+############################
+# Premier League 2010-2011
+
+Matchday 1
+
+[1910-08-06]
+	15.00		Norwich	2-3	Watford
+[1910-08-07]
+	15.00		Bristol City	0-3	Millwall
+	15.00		Burnley	1-0	Nott'm Forest
+	15.00		Coventry	2-0	Portsmouth
+	15.00		Crystal Palace	3-2	Leicester
+	15.00		Hull	2-0	Swansea
+	15.00		Leeds	1-2	Derby
+	15.00		Middlesbrough	1-3	Ipswich
+	15.00		Preston	0-2	Doncaster
+	15.00		QPR	4-0	Barnsley
+	15.00		Reading	1-2	Scunthorpe
+[1910-08-08]
+	15.00		Cardiff	1-1	Sheffield United
+
+Matchday 2
+
+[1910-08-14]
+	15.00		Barnsley	1-0	Crystal Palace
+	15.00		Derby	1-2	Cardiff
+	15.00		Doncaster	1-1	Bristol City
+	15.00		Ipswich	1-1	Burnley
+	15.00		Leicester	0-0	Middlesbrough
+	15.00		Millwall	4-0	Hull
+	15.00		Portsmouth	1-1	Reading
+	15.00		Scunthorpe	0-1	Norwich
+	15.00		Sheffield United	0-3	QPR
+	15.00		Swansea	4-0	Preston
+	15.00		Watford	2-2	Coventry
+[1910-08-15]
+	15.00		Nott'm Forest	1-1	Leeds
+
+Matchday 3
+
+[1910-08-21]
+	15.00		Bristol City	3-3	Barnsley
+	15.00		Burnley	3-0	Leicester
+	15.00		Cardiff	4-0	Doncaster
+	15.00		Coventry	2-1	Derby
+	15.00		Crystal Palace	1-2	Ipswich
+	15.00		Hull	0-0	Watford
+	15.00		Leeds	3-1	Millwall
+	15.00		Norwich	2-0	Swansea
+	15.00		Preston	1-0	Portsmouth
+	15.00		QPR	2-0	Scunthorpe
+	15.00		Reading	1-1	Nott'm Forest
+[1910-08-22]
+	15.00		Middlesbrough	1-0	Sheffield United
+
+Matchday 4
+
+[1910-08-28]
+	15.00		Barnsley	2-0	Middlesbrough
+	15.00		Derby	2-2	QPR
+	15.00		Doncaster	3-1	Hull
+	15.00		Ipswich	2-0	Bristol City
+	15.00		Leicester	1-2	Reading
+	15.00		Millwall	3-1	Coventry
+	15.00		Nott'm Forest	1-1	Norwich
+	15.00		Portsmouth	0-2	Cardiff
+	15.00		Scunthorpe	3-0	Crystal Palace
+	15.00		Sheffield United	1-0	Preston
+	15.00		Swansea	1-0	Burnley
+	15.00		Watford	0-1	Leeds
+
+Matchday 5
+
+[1910-09-11]
+	15.00		Burnley	4-3	Preston
+	15.00		Cardiff	2-0	Hull
+	15.00		Coventry	1-1	Leicester
+	15.00		Derby	0-1	Sheffield United
+	15.00		Leeds	2-1	Swansea
+	15.00		Norwich	2-1	Barnsley
+	15.00		Nott'm Forest	1-1	Millwall
+	15.00		Portsmouth	0-0	Ipswich
+	15.00		QPR	3-0	Middlesbrough
+	15.00		Reading	3-0	Crystal Palace
+	15.00		Scunthorpe	0-2	Bristol City
+	15.00		Watford	2-2	Doncaster
+
+Matchday 6
+
+[1910-09-14]
+	15.00		Barnsley	5-2	Leeds
+	15.00		Bristol City	0-2	Watford
+	15.00		Crystal Palace	4-1	Portsmouth
+	15.00		Doncaster	3-1	Norwich
+	15.00		Hull	2-0	Derby
+	15.00		Ipswich	0-3	QPR
+	15.00		Leicester	2-1	Cardiff
+	15.00		Middlesbrough	2-1	Burnley
+	15.00		Millwall	0-0	Reading
+	15.00		Preston	1-2	Nott'm Forest
+	15.00		Sheffield United	0-4	Scunthorpe
+	15.00		Swansea	2-1	Coventry
+
+Matchday 7
+
+[1910-09-17]
+	15.00		Doncaster	0-0	Leeds
+[1910-09-18]
+	15.00		Barnsley	1-1	Derby
+	15.00		Bristol City	1-2	Coventry
+	15.00		Crystal Palace	0-0	Burnley
+	15.00		Hull	0-0	Nott'm Forest
+	15.00		Ipswich	2-0	Cardiff
+	15.00		Leicester	0-2	QPR
+	15.00		Middlesbrough	3-1	Reading
+	15.00		Millwall	1-6	Watford
+	15.00		Preston	0-1	Norwich
+	15.00		Sheffield United	1-0	Portsmouth
+	15.00		Swansea	2-0	Scunthorpe
+
+Matchday 8
+
+[1910-09-24]
+	15.00		Portsmouth	6-1	Leicester
+[1910-09-25]
+	15.00		Burnley	0-0	Bristol City
+	15.00		Cardiff	2-1	Millwall
+	15.00		Coventry	1-2	Preston
+	15.00		Derby	5-0	Crystal Palace
+	15.00		Leeds	1-0	Sheffield United
+	15.00		Norwich	0-2	Hull
+	15.00		Nott'm Forest	3-1	Swansea
+	15.00		QPR	3-0	Doncaster
+	15.00		Reading	3-0	Barnsley
+	15.00		Scunthorpe	1-1	Ipswich
+	15.00		Watford	3-1	Middlesbrough
+
+Matchday 9
+
+[1910-09-28]
+	15.00		Burnley	4-0	Hull
+	15.00		Cardiff	0-0	Crystal Palace
+	15.00		Coventry	2-1	Doncaster
+	15.00		Derby	3-1	Middlesbrough
+	15.00		Leeds	4-6	Preston
+	15.00		Norwich	4-3	Leicester
+	15.00		Nott'm Forest	1-1	Sheffield United
+	15.00		Portsmouth	3-1	Bristol City
+	15.00		QPR	0-0	Millwall
+	15.00		Reading	1-0	Ipswich
+	15.00		Scunthorpe	0-0	Barnsley
+	15.00		Watford	2-3	Swansea
+
+Matchday 10
+
+[1910-10-02]
+	15.00		Barnsley	1-2	Cardiff
+	15.00		Bristol City	0-3	Norwich
+	15.00		Crystal Palace	1-2	QPR
+	15.00		Doncaster	1-1	Nott'm Forest
+	15.00		Hull	0-0	Coventry
+	15.00		Ipswich	2-1	Leeds
+	15.00		Leicester	3-1	Scunthorpe
+	15.00		Middlesbrough	2-2	Portsmouth
+	15.00		Millwall	1-1	Burnley
+	15.00		Preston	1-1	Reading
+	15.00		Sheffield United	0-1	Watford
+	15.00		Swansea	0-0	Derby
+
+Matchday 11
+
+[1910-10-16]
+	15.00		Barnsley	3-1	Nott'm Forest
+	15.00		Cardiff	3-2	Bristol City
+	15.00		Crystal Palace	0-1	Millwall
+	15.00		Derby	3-0	Preston
+	15.00		Ipswich	1-2	Coventry
+	15.00		Leicester	1-1	Hull
+	15.00		Middlesbrough	1-2	Leeds
+	15.00		Portsmouth	3-2	Watford
+	15.00		QPR	0-0	Norwich
+	15.00		Reading	0-1	Swansea
+	15.00		Scunthorpe	1-3	Doncaster
+	15.00		Sheffield United	3-3	Burnley
+
+Matchday 12
+
+[1910-10-19]
+	15.00		Bristol City	1-0	Reading
+	15.00		Burnley	3-0	Barnsley
+	15.00		Coventry	1-2	Cardiff
+	15.00		Doncaster	2-3	Derby
+	15.00		Hull	0-1	Sheffield United
+	15.00		Leeds	1-2	Leicester
+	15.00		Millwall	0-1	Portsmouth
+	15.00		Norwich	1-2	Crystal Palace
+	15.00		Nott'm Forest	1-0	Middlesbrough
+	15.00		Preston	2-3	Scunthorpe
+	15.00		Swansea	0-0	QPR
+	15.00		Watford	2-1	Ipswich
+
+Matchday 13
+
+[1910-10-22]
+	15.00		Bristol City	1-1	QPR
+[1910-10-23]
+	15.00		Burnley	0-4	Reading
+	15.00		Coventry	3-0	Barnsley
+	15.00		Doncaster	2-0	Sheffield United
+	15.00		Hull	1-2	Portsmouth
+	15.00		Millwall	2-0	Derby
+	15.00		Norwich	1-0	Middlesbrough
+	15.00		Nott'm Forest	2-0	Ipswich
+	15.00		Preston	4-3	Crystal Palace
+	15.00		Swansea	2-0	Leicester
+	15.00		Watford	0-2	Scunthorpe
+[1910-10-25]
+	15.00		Leeds	0-4	Cardiff
+
+Matchday 14
+
+[1910-10-30]
+	15.00		Barnsley	1-1	Hull
+	15.00		Cardiff	3-1	Norwich
+	15.00		Crystal Palace	0-3	Swansea
+	15.00		Derby	4-1	Watford
+	15.00		Ipswich	2-0	Millwall
+	15.00		Leicester	1-0	Preston
+	15.00		Middlesbrough	1-2	Bristol City
+	15.00		Portsmouth	2-1	Nott'm Forest
+	15.00		QPR	1-1	Burnley
+	15.00		Reading	4-3	Doncaster
+	15.00		Scunthorpe	1-4	Leeds
+	15.00		Sheffield United	0-1	Coventry
+
+Matchday 15
+
+[1910-11-06]
+	15.00		Barnsley	0-2	Leicester
+	15.00		Bristol City	1-1	Preston
+	15.00		Coventry	2-3	Leeds
+	15.00		Derby	2-0	Portsmouth
+	15.00		Doncaster	2-1	Millwall
+	15.00		Hull	0-1	Scunthorpe
+	15.00		Middlesbrough	2-1	Crystal Palace
+	15.00		Norwich	2-2	Burnley
+	15.00		QPR	3-1	Reading
+	15.00		Sheffield United	1-2	Ipswich
+	15.00		Watford	1-1	Nott'm Forest
+[1910-11-07]
+	15.00		Cardiff	0-1	Swansea
+
+Matchday 16
+
+[1910-11-09]
+	15.00		Burnley	1-1	Doncaster
+	15.00		Crystal Palace	3-2	Watford
+	15.00		Ipswich	0-2	Derby
+	15.00		Leeds	2-2	Hull
+	15.00		Millwall	1-1	Norwich
+	15.00		Nott'm Forest	2-1	Coventry
+	15.00		Portsmouth	1-1	QPR
+	15.00		Preston	1-2	Barnsley
+	15.00		Scunthorpe	0-2	Middlesbrough
+[1910-11-10]
+	15.00		Leicester	2-2	Sheffield United
+	15.00		Reading	1-1	Cardiff
+	15.00		Swansea	0-1	Bristol City
+
+Matchday 17
+
+[1910-11-12]
+	15.00		Preston	0-2	Hull
+[1910-11-13]
+	15.00		Burnley	3-2	Watford
+	15.00		Crystal Palace	2-0	Coventry
+	15.00		Ipswich	1-3	Barnsley
+	15.00		Leeds	3-1	Bristol City
+	15.00		Leicester	2-0	Derby
+	15.00		Millwall	0-1	Sheffield United
+	15.00		Nott'm Forest	0-0	QPR
+	15.00		Portsmouth	2-3	Doncaster
+	15.00		Reading	3-3	Norwich
+	15.00		Scunthorpe	2-4	Cardiff
+[1910-11-14]
+	15.00		Swansea	1-0	Middlesbrough
+
+Matchday 18
+
+[1910-11-20]
+	15.00		Barnsley	1-0	Portsmouth
+	15.00		Bristol City	2-0	Leicester
+	15.00		Cardiff	0-2	Nott'm Forest
+	15.00		Coventry	1-0	Burnley
+	15.00		Derby	3-2	Scunthorpe
+	15.00		Doncaster	1-1	Swansea
+	15.00		Hull	1-0	Ipswich
+	15.00		Middlesbrough	0-1	Millwall
+	15.00		Norwich	1-1	Leeds
+	15.00		QPR	3-1	Preston
+	15.00		Sheffield United	3-2	Crystal Palace
+	15.00		Watford	1-1	Reading
+
+Matchday 19
+
+[1910-11-26]
+	15.00		Swansea	1-2	Portsmouth
+[1910-11-27]
+	15.00		Barnsley	0-0	Watford
+	15.00		Bristol City	3-0	Sheffield United
+	15.00		Burnley	2-1	Derby
+	15.00		Crystal Palace	1-0	Doncaster
+	15.00		Middlesbrough	2-2	Hull
+	15.00		Preston	0-0	Millwall
+	15.00		QPR	2-1	Cardiff
+	15.00		Reading	0-0	Leeds
+	15.00		Scunthorpe	0-2	Coventry
+[1910-11-28]
+	15.00		Norwich	4-1	Ipswich
+[1910-11-29]
+	15.00		Leicester	1-0	Nott'm Forest
+
+Matchday 20
+
+[1910-12-04]
+	15.00		Cardiff	1-1	Preston
+	15.00		Coventry	1-0	Middlesbrough
+	15.00		Derby	1-2	Norwich
+	15.00		Ipswich	1-3	Swansea
+	15.00		Leeds	2-1	Crystal Palace
+	15.00		Millwall	3-0	Scunthorpe
+	15.00		Watford	3-2	Leicester
+[1910-12-10]
+	15.00		QPR	1-3	Watford
+	15.00		Swansea	1-1	Millwall
+[1910-12-11]
+	15.00		Barnsley	1-0	Sheffield United
+	15.00		Bristol City	2-0	Derby
+	15.00		Burnley	2-3	Leeds
+
+Matchday 21
+
+[1910-12-11]
+	15.00		Crystal Palace	0-0	Hull
+	15.00		Leicester	5-1	Doncaster
+	15.00		Middlesbrough	1-0	Cardiff
+	15.00		Norwich	0-2	Portsmouth
+	15.00		Preston	1-0	Ipswich
+	15.00		Reading	0-0	Coventry
+[1910-12-17]
+	15.00		Doncaster	2-1	Middlesbrough
+[1910-12-18]
+	15.00		Coventry	1-2	Norwich
+	15.00		Derby	1-2	Reading
+	15.00		Hull	2-0	Bristol City
+	15.00		Ipswich	3-0	Leicester
+	15.00		Leeds	2-0	QPR
+
+Matchday 22
+
+[1910-12-18]
+	15.00		Nott'm Forest	3-0	Crystal Palace
+	15.00		Sheffield United	1-0	Swansea
+[1910-12-26]
+	15.00		Barnsley	1-2	Burnley
+	15.00		Cardiff	2-0	Coventry
+	15.00		Leicester	2-2	Leeds
+	15.00		Portsmouth	1-1	Millwall
+	15.00		QPR	4-0	Swansea
+	15.00		Reading	4-1	Bristol City
+	15.00		Sheffield United	2-3	Hull
+[1910-12-28]
+	15.00		Bristol City	1-1	Crystal Palace
+	15.00		Burnley	0-2	Scunthorpe
+	15.00		Coventry	0-2	QPR
+
+Matchday 23
+
+[1910-12-28]
+	15.00		Hull	1-1	Reading
+	15.00		Leeds	3-3	Portsmouth
+	15.00		Millwall	2-0	Leicester
+	15.00		Norwich	4-2	Sheffield United
+	15.00		Preston	1-3	Middlesbrough
+	15.00		Swansea	1-0	Barnsley
+	15.00		Watford	4-1	Cardiff
+[1910-12-29]
+	15.00		Nott'm Forest	5-2	Derby
+[1911-01-01]
+	15.00		Bristol City	3-0	Cardiff
+	15.00		Burnley	4-2	Sheffield United
+	15.00		Coventry	1-1	Ipswich
+	15.00		Doncaster	3-0	Scunthorpe
+
+Matchday 24
+
+[1911-01-01]
+	15.00		Hull	0-1	Leicester
+	15.00		Leeds	1-1	Middlesbrough
+	15.00		Millwall	3-0	Crystal Palace
+	15.00		Norwich	1-0	QPR
+	15.00		Nott'm Forest	2-2	Barnsley
+	15.00		Preston	1-2	Derby
+	15.00		Swansea	1-0	Reading
+	15.00		Watford	3-0	Portsmouth
+[1911-01-03]
+	15.00		Barnsley	2-1	Coventry
+	15.00		Crystal Palace	1-0	Preston
+	15.00		Derby	0-0	Millwall
+	15.00		Ipswich	0-1	Nott'm Forest
+
+Matchday 25
+
+[1911-01-03]
+	15.00		Leicester	2-1	Swansea
+	15.00		Middlesbrough	1-1	Norwich
+	15.00		Portsmouth	2-3	Hull
+	15.00		QPR	2-2	Bristol City
+	15.00		Reading	2-1	Burnley
+	15.00		Scunthorpe	1-2	Watford
+	15.00		Sheffield United	2-2	Doncaster
+[1911-01-04]
+	15.00		Cardiff	2-1	Leeds
+[1911-01-15]
+	15.00		Bristol City	0-4	Middlesbrough
+	15.00		Burnley	0-0	QPR
+	15.00		Coventry	0-0	Sheffield United
+	15.00		Doncaster	0-3	Reading
+
+Matchday 26
+
+[1911-01-15]
+	15.00		Hull	2-0	Barnsley
+	15.00		Leeds	4-0	Scunthorpe
+	15.00		Millwall	2-1	Ipswich
+	15.00		Norwich	1-1	Cardiff
+	15.00		Nott'm Forest	2-1	Portsmouth
+	15.00		Preston	1-1	Leicester
+	15.00		Swansea	3-0	Crystal Palace
+	15.00		Watford	3-0	Derby
+[1911-01-22]
+	15.00		Barnsley	1-1	Swansea
+	15.00		Cardiff	4-2	Watford
+	15.00		Crystal Palace	0-0	Bristol City
+	15.00		Derby	0-1	Nott'm Forest
+
+Matchday 27
+
+[1911-01-22]
+	15.00		Ipswich	3-2	Doncaster
+	15.00		Leicester	4-2	Millwall
+	15.00		Middlesbrough	1-1	Preston
+	15.00		Portsmouth	2-2	Leeds
+	15.00		Reading	1-1	Hull
+	15.00		Scunthorpe	0-0	Burnley
+	15.00		Sheffield United	1-2	Norwich
+[1911-01-23]
+	15.00		QPR	2-1	Coventry
+[1911-01-25]
+	15.00		Doncaster	0-2	Barnsley
+	15.00		Nott'm Forest	1-0	Bristol City
+	15.00		Portsmouth	1-2	Burnley
+[1911-01-28]
+	15.00		Millwall	2-0	Barnsley
+
+Matchday 28
+
+[1911-01-29]
+	15.00		Crystal Palace	0-0	Norwich
+	15.00		Hull	0-0	QPR
+[1911-02-01]
+	15.00		Barnsley	2-0	Preston
+	15.00		Bristol City	0-2	Swansea
+	15.00		Cardiff	2-2	Reading
+	15.00		Coventry	1-2	Nott'm Forest
+	15.00		Derby	1-2	Ipswich
+	15.00		Doncaster	1-0	Burnley
+	15.00		Hull	2-2	Leeds
+	15.00		Middlesbrough	2-0	Scunthorpe
+	15.00		Norwich	2-1	Millwall
+	15.00		QPR	2-0	Portsmouth
+
+Matchday 29
+
+[1911-02-01]
+	15.00		Sheffield United	0-1	Leicester
+	15.00		Watford	1-1	Crystal Palace
+[1911-02-04]
+	15.00		Reading	0-1	QPR
+[1911-02-05]
+	15.00		Burnley	2-1	Norwich
+	15.00		Crystal Palace	1-0	Middlesbrough
+	15.00		Ipswich	3-0	Sheffield United
+	15.00		Leeds	1-0	Coventry
+	15.00		Leicester	4-1	Barnsley
+	15.00		Millwall	1-0	Doncaster
+	15.00		Nott'm Forest	1-0	Watford
+	15.00		Portsmouth	1-1	Derby
+	15.00		Preston	0-4	Bristol City
+
+Matchday 30
+
+[1911-02-05]
+	15.00		Scunthorpe	1-5	Hull
+[1911-02-06]
+	15.00		Swansea	0-1	Cardiff
+[1911-02-12]
+	15.00		Barnsley	1-1	Ipswich
+	15.00		Bristol City	0-2	Leeds
+	15.00		Cardiff	1-0	Scunthorpe
+	15.00		Coventry	2-1	Crystal Palace
+	15.00		Derby	0-2	Leicester
+	15.00		Doncaster	0-2	Portsmouth
+	15.00		Hull	1-0	Preston
+	15.00		Middlesbrough	3-4	Swansea
+	15.00		Norwich	2-1	Reading
+	15.00		Sheffield United	1-1	Millwall
+
+Matchday 31
+
+[1911-02-12]
+	15.00		Watford	1-3	Burnley
+[1911-02-13]
+	15.00		QPR	1-1	Nott'm Forest
+[1911-02-15]
+	15.00		Cardiff	1-1	Burnley
+	15.00		Doncaster	0-6	Ipswich
+	15.00		Sheffield United	1-1	Reading
+	15.00		Watford	2-2	Preston
+[1911-02-16]
+	15.00		Scunthorpe	1-0	Nott'm Forest
+[1911-02-18]
+	15.00		Leicester	2-1	Bristol City
+[1911-02-19]
+	15.00		Crystal Palace	1-0	Sheffield United
+	15.00		Ipswich	1-1	Hull
+	15.00		Leeds	2-2	Norwich
+	15.00		Millwall	2-3	Middlesbrough
+
+Matchday 32
+
+[1911-02-19]
+	15.00		Nott'm Forest	2-1	Cardiff
+	15.00		Portsmouth	1-0	Barnsley
+	15.00		Preston	1-1	QPR
+	15.00		Reading	1-1	Watford
+	15.00		Scunthorpe	0-0	Derby
+	15.00		Swansea	3-0	Doncaster
+[1911-02-22]
+	15.00		Cardiff	2-0	Leicester
+	15.00		Coventry	0-1	Swansea
+	15.00		Derby	0-1	Hull
+	15.00		Leeds	3-3	Barnsley
+	15.00		Norwich	1-1	Doncaster
+	15.00		Nott'm Forest	2-2	Preston
+
+Matchday 33
+
+[1911-02-22]
+	15.00		Portsmouth	1-0	Crystal Palace
+	15.00		QPR	2-0	Ipswich
+	15.00		Reading	2-1	Millwall
+	15.00		Scunthorpe	3-2	Sheffield United
+	15.00		Watford	1-3	Bristol City
+[1911-02-26]
+	15.00		Barnsley	0-2	Norwich
+	15.00		Bristol City	2-0	Scunthorpe
+	15.00		Crystal Palace	3-3	Reading
+	15.00		Doncaster	1-1	Watford
+	15.00		Hull	0-2	Cardiff
+	15.00		Ipswich	0-2	Portsmouth
+	15.00		Leicester	1-1	Coventry
+
+Matchday 34
+
+[1911-02-26]
+	15.00		Middlesbrough	0-3	QPR
+	15.00		Millwall	0-0	Nott'm Forest
+	15.00		Preston	1-2	Burnley
+	15.00		Sheffield United	0-1	Derby
+	15.00		Swansea	3-0	Leeds
+[1911-03-01]
+	15.00		Derby	1-3	Doncaster
+	15.00		Middlesbrough	1-1	Nott'm Forest
+	15.00		Portsmouth	2-0	Scunthorpe
+[1911-03-05]
+	15.00		Burnley	1-0	Crystal Palace
+	15.00		Cardiff	0-2	Ipswich
+	15.00		Coventry	1-4	Bristol City
+	15.00		Derby	0-0	Barnsley
+
+Matchday 35
+
+[1911-03-05]
+	15.00		Leeds	5-2	Doncaster
+	15.00		Norwich	1-1	Preston
+	15.00		Nott'm Forest	0-1	Hull
+	15.00		Portsmouth	1-0	Sheffield United
+	15.00		QPR	1-0	Leicester
+	15.00		Reading	5-2	Middlesbrough
+	15.00		Scunthorpe	1-0	Swansea
+	15.00		Watford	1-0	Millwall
+[1911-03-08]
+	15.00		Barnsley	2-1	Scunthorpe
+	15.00		Bristol City	2-1	Portsmouth
+	15.00		Crystal Palace	1-0	Cardiff
+	15.00		Doncaster	1-1	Coventry
+
+Matchday 36
+
+[1911-03-08]
+	15.00		Hull	0-1	Burnley
+	15.00		Ipswich	1-3	Reading
+	15.00		Leicester	2-3	Norwich
+	15.00		Middlesbrough	2-1	Derby
+	15.00		Millwall	2-0	QPR
+	15.00		Preston	1-2	Leeds
+	15.00		Sheffield United	2-1	Nott'm Forest
+	15.00		Swansea	1-1	Watford
+[1911-03-12]
+	15.00		Burnley	0-3	Millwall
+	15.00		Coventry	0-1	Hull
+	15.00		Derby	2-1	Swansea
+	15.00		Leeds	0-0	Ipswich
+
+Matchday 37
+
+[1911-03-12]
+	15.00		Nott'm Forest	0-0	Doncaster
+	15.00		Portsmouth	0-0	Middlesbrough
+	15.00		QPR	2-1	Crystal Palace
+	15.00		Scunthorpe	0-3	Leicester
+	15.00		Watford	3-0	Sheffield United
+[1911-03-13]
+	15.00		Cardiff	2-2	Barnsley
+[1911-03-14]
+	15.00		Norwich	3-1	Bristol City
+[1911-03-15]
+	15.00		Burnley	2-2	Coventry
+	15.00		Ipswich	0-3	Watford
+	15.00		Scunthorpe	0-3	Preston
+[1911-03-19]
+	15.00		Barnsley	0-1	Reading
+	15.00		Bristol City	2-0	Burnley
+
+Matchday 38
+
+[1911-03-19]
+	15.00		Crystal Palace	2-2	Derby
+	15.00		Doncaster	0-1	QPR
+	15.00		Hull	1-1	Norwich
+	15.00		Ipswich	2-0	Scunthorpe
+	15.00		Leicester	0-1	Portsmouth
+	15.00		Middlesbrough	2-1	Watford
+	15.00		Millwall	3-3	Cardiff
+	15.00		Preston	2-1	Coventry
+	15.00		Sheffield United	2-0	Leeds
+	15.00		Swansea	3-2	Nott'm Forest
+[1911-04-02]
+	15.00		Bristol City	1-0	Doncaster
+	15.00		Burnley	1-2	Ipswich
+
+Matchday 39
+
+[1911-04-02]
+	15.00		Cardiff	4-1	Derby
+	15.00		Coventry	2-0	Watford
+	15.00		Crystal Palace	2-1	Barnsley
+	15.00		Hull	0-1	Millwall
+	15.00		Leeds	4-1	Nott'm Forest
+	15.00		Middlesbrough	3-3	Leicester
+	15.00		Norwich	6-0	Scunthorpe
+	15.00		Preston	2-1	Swansea
+	15.00		Reading	2-0	Portsmouth
+[1911-04-04]
+	15.00		QPR	3-0	Sheffield United
+[1911-04-05]
+	15.00		Reading	2-1	Preston
+[1911-04-09]
+	15.00		Barnsley	4-2	Bristol City
+
+Matchday 40
+
+[1911-04-09]
+	15.00		Derby	2-2	Coventry
+	15.00		Doncaster	1-3	Cardiff
+	15.00		Ipswich	2-1	Crystal Palace
+	15.00		Leicester	4-0	Burnley
+	15.00		Millwall	3-2	Leeds
+	15.00		Nott'm Forest	3-4	Reading
+	15.00		Portsmouth	1-1	Preston
+	15.00		Scunthorpe	4-1	QPR
+	15.00		Sheffield United	1-2	Middlesbrough
+	15.00		Swansea	3-0	Norwich
+	15.00		Watford	1-2	Hull
+[1911-04-12]
+	15.00		Barnsley	0-1	QPR
+
+Matchday 41
+
+[1911-04-12]
+	15.00		Derby	2-1	Leeds
+	15.00		Doncaster	1-1	Preston
+	15.00		Ipswich	3-3	Middlesbrough
+	15.00		Leicester	1-1	Crystal Palace
+	15.00		Millwall	0-0	Bristol City
+	15.00		Nott'm Forest	2-0	Burnley
+	15.00		Portsmouth	0-3	Coventry
+	15.00		Scunthorpe	0-2	Reading
+	15.00		Sheffield United	0-2	Cardiff
+	15.00		Swansea	1-1	Hull
+	15.00		Watford	2-2	Norwich
+[1911-04-15]
+	15.00		Norwich	2-1	Nott'm Forest
+
+Matchday 42
+
+[1911-04-16]
+	15.00		Bristol City	0-1	Ipswich
+	15.00		Burnley	2-1	Swansea
+	15.00		Cardiff	3-0	Portsmouth
+	15.00		Coventry	2-1	Millwall
+	15.00		Crystal Palace	1-2	Scunthorpe
+	15.00		Hull	3-1	Doncaster
+	15.00		Leeds	2-2	Watford
+	15.00		Middlesbrough	1-1	Barnsley
+	15.00		Preston	3-1	Sheffield United
+	15.00		Reading	3-1	Leicester
+[1911-04-18]
+	15.00		QPR	0-0	Derby
+[1911-04-19]
+	15.00		Burnley	3-1	Middlesbrough
+
+Matchday 43
+
+[1911-04-21]
+	15.00		Ipswich	1-5	Norwich
+[1911-04-22]
+	15.00		Coventry	1-1	Scunthorpe
+	15.00		Doncaster	0-0	Crystal Palace
+	15.00		Leeds	0-0	Reading
+	15.00		Nott'm Forest	3-2	Leicester
+[1911-04-23]
+	15.00		Cardiff	2-2	QPR
+	15.00		Derby	2-4	Burnley
+	15.00		Hull	2-4	Middlesbrough
+	15.00		Millwall	4-0	Preston
+	15.00		Portsmouth	0-0	Swansea
+	15.00		Sheffield United	3-2	Bristol City
+	15.00		Watford	1-0	Barnsley
+
+Matchday 44
+
+[1911-04-25]
+	15.00		Barnsley	2-2	Doncaster
+	15.00		Bristol City	2-3	Nott'm Forest
+	15.00		Burnley	1-1	Portsmouth
+	15.00		Crystal Palace	1-0	Leeds
+	15.00		Leicester	4-2	Watford
+	15.00		Middlesbrough	2-1	Coventry
+	15.00		Norwich	3-2	Derby
+	15.00		Preston	0-1	Cardiff
+	15.00		QPR	1-1	Hull
+	15.00		Reading	2-3	Sheffield United
+	15.00		Scunthorpe	1-2	Millwall
+	15.00		Swansea	4-1	Ipswich
+
+Matchday 45
+
+[1911-04-30]
+	15.00		Coventry	0-0	Reading
+	15.00		Derby	0-2	Bristol City
+	15.00		Doncaster	1-1	Leicester
+	15.00		Hull	1-1	Crystal Palace
+	15.00		Ipswich	2-1	Preston
+	15.00		Leeds	1-0	Burnley
+	15.00		Millwall	0-2	Swansea
+	15.00		Nott'm Forest	5-1	Scunthorpe
+	15.00		Sheffield United	2-2	Barnsley
+	15.00		Watford	0-2	QPR
+[1911-05-02]
+	15.00		Cardiff	0-3	Middlesbrough
+	15.00		Portsmouth	0-1	Norwich
+
+Matchday 46
+
+[1911-05-07]
+	15.00		Barnsley	1-0	Millwall
+	15.00		Bristol City	3-0	Hull
+	15.00		Burnley	1-1	Cardiff
+	15.00		Crystal Palace	0-3	Nott'm Forest
+	15.00		Leicester	4-2	Ipswich
+	15.00		Middlesbrough	3-0	Doncaster
+	15.00		Norwich	2-2	Coventry
+	15.00		Preston	3-1	Watford
+	15.00		QPR	1-2	Leeds
+	15.00		Reading	2-1	Derby
+	15.00		Scunthorpe	1-1	Portsmouth
+	15.00		Swansea	4-0	Sheffield United
+

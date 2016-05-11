@@ -1,0 +1,32 @@
+############################
+# Premier League 1996-1997
+
+league: en
+season: 1996/97
+start_at: 1996-08-17
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Chelsea
+- Coventry
+- Derby
+- Everton
+- Leeds
+- Leicester
+- Liverpool
+- Man United
+- Middlesbrough
+- Newcastle
+- Nott'm Forest
+- Sheffield Weds
+- Southampton
+- Sunderland
+- Tottenham
+- West Ham
+- Wimbledon
+

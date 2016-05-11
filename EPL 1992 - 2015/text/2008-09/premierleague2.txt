@@ -1,0 +1,802 @@
+############################
+# Premier League 2008-2009
+
+Matchday 1
+
+[1908-08-09]
+	15.00		Bristol Rvs	2-3	Carlisle
+	15.00		Crewe	1-2	Brighton
+	15.00		Hartlepool	4-2	Colchester
+	15.00		Huddersfield	1-1	Stockport
+	15.00		Leicester	2-0	Milton Keynes Dons
+	15.00		Leyton Orient	2-1	Hereford
+	15.00		Northampton	4-2	Cheltenham
+	15.00		Oldham	4-3	Millwall
+	15.00		Scunthorpe	1-2	Leeds
+	15.00		Southend	1-0	Peterboro
+	15.00		Swindon	3-1	Tranmere
+	15.00		Yeovil	1-1	Walsall
+
+Matchday 2
+
+[1908-08-16]
+	15.00		Brighton	1-1	Bristol Rvs
+	15.00		Carlisle	4-2	Crewe
+	15.00		Cheltenham	2-0	Swindon
+	15.00		Colchester	0-0	Huddersfield
+	15.00		Hereford	1-2	Yeovil
+	15.00		Leeds	0-2	Oldham
+	15.00		Millwall	1-1	Southend
+	15.00		Milton Keynes Dons	1-0	Northampton
+	15.00		Peterboro	3-0	Leyton Orient
+	15.00		Stockport	0-0	Leicester
+	15.00		Tranmere	1-0	Hartlepool
+	15.00		Walsall	2-1	Scunthorpe
+
+Matchday 3
+
+[1908-08-22]
+	15.00		Southend	0-2	Brighton
+[1908-08-23]
+	15.00		Bristol Rvs	6-1	Hereford
+	15.00		Crewe	2-1	Walsall
+	15.00		Hartlepool	0-1	Stockport
+	15.00		Huddersfield	1-3	Milton Keynes Dons
+	15.00		Leicester	3-1	Tranmere
+	15.00		Leyton Orient	0-0	Carlisle
+	15.00		Northampton	0-0	Millwall
+	15.00		Oldham	4-0	Cheltenham
+	15.00		Scunthorpe	1-0	Peterboro
+	15.00		Swindon	1-3	Colchester
+	15.00		Yeovil	1-1	Leeds
+
+Matchday 4
+
+[1908-08-30]
+	15.00		Brighton	0-0	Leyton Orient
+	15.00		Carlisle	4-1	Yeovil
+	15.00		Cheltenham	0-4	Leicester
+	15.00		Colchester	2-2	Oldham
+	15.00		Hereford	2-0	Crewe
+	15.00		Leeds	2-2	Bristol Rvs
+	15.00		Millwall	2-1	Huddersfield
+	15.00		Milton Keynes Dons	1-2	Swindon
+	15.00		Peterboro	1-2	Hartlepool
+	15.00		Stockport	0-3	Scunthorpe
+	15.00		Tranmere	4-1	Northampton
+	15.00		Walsall	5-2	Southend
+
+Matchday 5
+
+[1908-09-05]
+	15.00		Hereford	1-1	Swindon
+[1908-09-06]
+	15.00		Brighton	1-4	Scunthorpe
+	15.00		Carlisle	2-1	Southend
+	15.00		Cheltenham	1-2	Huddersfield
+	15.00		Leeds	5-2	Crewe
+	15.00		Millwall	2-0	Hartlepool
+	15.00		Milton Keynes Dons	3-0	Yeovil
+	15.00		Peterboro	5-4	Bristol Rvs
+	15.00		Tranmere	0-1	Oldham
+	15.00		Walsall	0-2	Leyton Orient
+[1908-09-12]
+	15.00		Hartlepool	4-1	Cheltenham
+[1908-09-13]
+	15.00		Bristol Rvs	1-3	Walsall
+
+Matchday 6
+
+[1908-09-13]
+	15.00		Crewe	2-0	Colchester
+	15.00		Huddersfield	1-2	Tranmere
+	15.00		Leicester	0-1	Millwall
+	15.00		Leyton Orient	0-3	Stockport
+	15.00		Northampton	1-1	Peterboro
+	15.00		Oldham	2-0	Milton Keynes Dons
+	15.00		Scunthorpe	2-1	Carlisle
+	15.00		Southend	1-0	Hereford
+	15.00		Swindon	1-3	Leeds
+	15.00		Yeovil	1-1	Brighton
+[1908-09-16]
+	15.00		Cheltenham	2-1	Bristol Rvs
+	15.00		Stockport	1-1	Northampton
+
+Matchday 7
+
+[1908-09-20]
+	15.00		Brighton	0-1	Walsall
+	15.00		Carlisle	0-2	Leeds
+	15.00		Colchester	0-3	Milton Keynes Dons
+	15.00		Crewe	3-4	Southend
+	15.00		Hartlepool	3-3	Oldham
+	15.00		Hereford	1-2	Scunthorpe
+	15.00		Huddersfield	3-2	Northampton
+	15.00		Leyton Orient	1-3	Leicester
+	15.00		Millwall	2-0	Cheltenham
+	15.00		Peterboro	2-2	Tranmere
+	15.00		Stockport	1-1	Swindon
+	15.00		Yeovil	2-2	Bristol Rvs
+
+Matchday 8
+
+[1908-09-26]
+	15.00		Southend	3-0	Leyton Orient
+	15.00		Tranmere	3-4	Colchester
+[1908-09-27]
+	15.00		Bristol Rvs	0-0	Crewe
+	15.00		Cheltenham	2-2	Stockport
+	15.00		Leeds	1-0	Hereford
+	15.00		Leicester	1-0	Hartlepool
+	15.00		Milton Keynes Dons	1-2	Peterboro
+	15.00		Northampton	2-2	Brighton
+	15.00		Oldham	1-1	Huddersfield
+	15.00		Scunthorpe	2-0	Yeovil
+	15.00		Walsall	2-1	Carlisle
+[1908-09-28]
+	15.00		Swindon	1-2	Millwall
+
+Matchday 9
+
+[1908-09-30]
+	15.00		Colchester	0-1	Leicester
+[1908-10-03]
+	15.00		Hartlepool	3-3	Swindon
+	15.00		Stockport	3-1	Oldham
+[1908-10-04]
+	15.00		Brighton	3-3	Cheltenham
+	15.00		Carlisle	1-2	Tranmere
+	15.00		Colchester	0-1	Bristol Rvs
+	15.00		Crewe	1-3	Northampton
+	15.00		Hereford	0-0	Walsall
+	15.00		Huddersfield	2-3	Leicester
+	15.00		Leyton Orient	2-2	Scunthorpe
+	15.00		Millwall	0-4	Milton Keynes Dons
+	15.00		Peterboro	2-0	Leeds
+
+Matchday 10
+
+[1908-10-04]
+	15.00		Yeovil	1-2	Southend
+[1908-10-10]
+	15.00		Northampton	1-0	Hartlepool
+[1908-10-11]
+	15.00		Bristol Rvs	2-1	Leyton Orient
+	15.00		Cheltenham	4-3	Colchester
+	15.00		Leeds	3-1	Brighton
+	15.00		Milton Keynes Dons	3-1	Carlisle
+	15.00		Scunthorpe	3-0	Crewe
+	15.00		Southend	1-1	Stockport
+	15.00		Swindon	1-3	Huddersfield
+	15.00		Tranmere	1-3	Millwall
+	15.00		Walsall	1-2	Peterboro
+[1908-10-12]
+	15.00		Oldham	4-0	Hereford
+
+Matchday 11
+
+[1908-10-18]
+	15.00		Brighton	0-0	Hereford
+	15.00		Carlisle	3-3	Peterboro
+	15.00		Cheltenham	1-2	Scunthorpe
+	15.00		Crewe	2-2	Milton Keynes Dons
+	15.00		Huddersfield	1-1	Bristol Rvs
+	15.00		Leyton Orient	0-1	Tranmere
+	15.00		Millwall	3-1	Leeds
+	15.00		Northampton	3-0	Yeovil
+	15.00		Oldham	1-1	Leicester
+	15.00		Southend	2-1	Swindon
+	15.00		Stockport	1-2	Colchester
+	15.00		Walsall	2-3	Hartlepool
+
+Matchday 12
+
+[1908-10-21]
+	15.00		Bristol Rvs	2-0	Oldham
+	15.00		Colchester	1-2	Millwall
+	15.00		Hartlepool	5-3	Huddersfield
+	15.00		Hereford	1-0	Carlisle
+	15.00		Leeds	2-1	Leyton Orient
+	15.00		Leicester	2-2	Walsall
+	15.00		Milton Keynes Dons	1-2	Stockport
+	15.00		Peterboro	0-0	Brighton
+	15.00		Scunthorpe	1-1	Southend
+	15.00		Swindon	2-1	Northampton
+	15.00		Tranmere	2-0	Cheltenham
+	15.00		Yeovil	3-2	Crewe
+
+Matchday 13
+
+[1908-10-24]
+	15.00		Tranmere	2-0	Crewe
+[1908-10-25]
+	15.00		Bristol Rvs	4-2	Southend
+	15.00		Colchester	5-0	Carlisle
+	15.00		Hartlepool	1-0	Brighton
+	15.00		Hereford	0-1	Stockport
+	15.00		Leeds	3-0	Walsall
+	15.00		Leicester	0-0	Northampton
+	15.00		Milton Keynes Dons	3-1	Cheltenham
+	15.00		Peterboro	4-0	Huddersfield
+	15.00		Scunthorpe	3-2	Millwall
+	15.00		Swindon	2-0	Oldham
+	15.00		Yeovil	0-0	Leyton Orient
+
+Matchday 14
+
+[1908-10-28]
+	15.00		Brighton	3-2	Leicester
+	15.00		Carlisle	0-1	Hartlepool
+	15.00		Crewe	1-1	Peterboro
+	15.00		Huddersfield	0-0	Yeovil
+	15.00		Leyton Orient	1-2	Milton Keynes Dons
+	15.00		Millwall	1-0	Hereford
+	15.00		Oldham	3-0	Scunthorpe
+	15.00		Southend	1-0	Leeds
+	15.00		Stockport	0-0	Tranmere
+[1908-11-01]
+	15.00		Brighton	4-1	Millwall
+	15.00		Cheltenham	0-1	Leeds
+	15.00		Huddersfield	3-2	Crewe
+
+Matchday 15
+
+[1908-11-01]
+	15.00		Leicester	2-1	Bristol Rvs
+	15.00		Leyton Orient	1-0	Hartlepool
+	15.00		Milton Keynes Dons	1-0	Tranmere
+	15.00		Oldham	0-2	Yeovil
+	15.00		Peterboro	2-0	Hereford
+	15.00		Scunthorpe	3-3	Swindon
+	15.00		Southend	3-3	Colchester
+	15.00		Stockport	3-0	Carlisle
+	15.00		Walsall	3-1	Northampton
+[1908-11-11]
+	15.00		Leicester	1-0	Yeovil
+[1908-11-14]
+	15.00		Bristol Rvs	1-2	Scunthorpe
+[1908-11-15]
+	15.00		Carlisle	3-1	Brighton
+
+Matchday 16
+
+[1908-11-15]
+	15.00		Colchester	0-2	Walsall
+	15.00		Crewe	0-2	Leyton Orient
+	15.00		Hartlepool	1-3	Milton Keynes Dons
+	15.00		Hereford	3-0	Cheltenham
+	15.00		Leeds	1-2	Huddersfield
+	15.00		Millwall	1-0	Stockport
+	15.00		Northampton	0-1	Oldham
+	15.00		Swindon	2-2	Leicester
+	15.00		Tranmere	2-2	Southend
+	15.00		Yeovil	0-1	Peterboro
+[1908-11-22]
+	15.00		Brighton	0-1	Huddersfield
+	15.00		Bristol Rvs	2-2	Swindon
+
+Matchday 17
+
+[1908-11-22]
+	15.00		Carlisle	1-0	Cheltenham
+	15.00		Crewe	0-3	Stockport
+	15.00		Hereford	0-2	Northampton
+	15.00		Leeds	4-1	Hartlepool
+	15.00		Leyton Orient	0-0	Millwall
+	15.00		Peterboro	2-1	Colchester
+	15.00		Scunthorpe	1-2	Leicester
+	15.00		Southend	1-2	Oldham
+	15.00		Walsall	0-3	Milton Keynes Dons
+	15.00		Yeovil	1-0	Tranmere
+[1908-11-25]
+	15.00		Cheltenham	0-0	Southend
+	15.00		Colchester	1-0	Yeovil
+
+Matchday 18
+
+[1908-11-25]
+	15.00		Hartlepool	1-1	Bristol Rvs
+	15.00		Huddersfield	0-1	Leyton Orient
+	15.00		Leicester	2-1	Crewe
+	15.00		Millwall	1-0	Carlisle
+	15.00		Milton Keynes Dons	3-0	Hereford
+	15.00		Northampton	2-1	Leeds
+	15.00		Oldham	3-2	Walsall
+	15.00		Stockport	2-0	Brighton
+	15.00		Swindon	2-2	Peterboro
+	15.00		Tranmere	2-0	Scunthorpe
+[1908-11-29]
+	15.00		Northampton	1-2	Colchester
+	15.00		Walsall	2-1	Swindon
+
+Matchday 19
+
+[1908-12-06]
+	15.00		Cheltenham	1-0	Crewe
+	15.00		Colchester	1-2	Hereford
+	15.00		Hartlepool	0-0	Yeovil
+	15.00		Huddersfield	2-1	Walsall
+	15.00		Leicester	3-0	Southend
+	15.00		Millwall	3-2	Bristol Rvs
+	15.00		Milton Keynes Dons	0-2	Scunthorpe
+	15.00		Northampton	1-1	Leyton Orient
+	15.00		Oldham	1-1	Brighton
+	15.00		Stockport	1-3	Peterboro
+	15.00		Swindon	1-1	Carlisle
+	15.00		Tranmere	2-1	Leeds
+
+Matchday 20
+
+[1908-12-12]
+	15.00		Brighton	2-4	Milton Keynes Dons
+[1908-12-13]
+	15.00		Bristol Rvs	2-0	Tranmere
+	15.00		Carlisle	1-2	Leicester
+	15.00		Crewe	1-0	Swindon
+	15.00		Hereford	1-1	Hartlepool
+	15.00		Leeds	1-2	Colchester
+	15.00		Leyton Orient	1-2	Cheltenham
+	15.00		Peterboro	2-2	Oldham
+	15.00		Scunthorpe	4-4	Northampton
+	15.00		Southend	0-1	Huddersfield
+	15.00		Walsall	1-2	Millwall
+	15.00		Yeovil	2-4	Stockport
+
+Matchday 21
+
+[1908-12-19]
+	15.00		Hartlepool	3-0	Southend
+[1908-12-20]
+	15.00		Cheltenham	0-0	Walsall
+	15.00		Colchester	0-0	Scunthorpe
+	15.00		Huddersfield	2-0	Hereford
+	15.00		Leicester	4-0	Peterboro
+	15.00		Millwall	0-0	Crewe
+	15.00		Milton Keynes Dons	3-1	Leeds
+	15.00		Northampton	1-0	Carlisle
+	15.00		Oldham	1-1	Leyton Orient
+	15.00		Stockport	3-1	Bristol Rvs
+	15.00		Swindon	2-3	Yeovil
+	15.00		Tranmere	1-0	Brighton
+
+Matchday 22
+
+[1908-12-26]
+	15.00		Brighton	1-2	Colchester
+	15.00		Bristol Rvs	1-2	Milton Keynes Dons
+	15.00		Carlisle	3-0	Huddersfield
+	15.00		Crewe	0-3	Oldham
+	15.00		Hereford	2-2	Tranmere
+	15.00		Leeds	1-1	Leicester
+	15.00		Leyton Orient	1-2	Swindon
+	15.00		Peterboro	1-0	Millwall
+	15.00		Scunthorpe	3-0	Hartlepool
+	15.00		Southend	1-0	Northampton
+	15.00		Walsall	1-0	Stockport
+	15.00		Yeovil	1-1	Cheltenham
+
+Matchday 23
+
+[1908-12-28]
+	15.00		Cheltenham	3-6	Peterboro
+	15.00		Colchester	1-0	Leyton Orient
+	15.00		Hartlepool	1-4	Crewe
+	15.00		Huddersfield	2-0	Scunthorpe
+	15.00		Leicester	2-1	Hereford
+	15.00		Millwall	1-1	Yeovil
+	15.00		Milton Keynes Dons	2-0	Southend
+	15.00		Northampton	0-0	Bristol Rvs
+	15.00		Oldham	0-0	Carlisle
+	15.00		Stockport	1-3	Leeds
+	15.00		Swindon	0-2	Brighton
+	15.00		Tranmere	2-1	Walsall
+
+Matchday 24
+
+[1909-01-03]
+	15.00		Huddersfield	1-1	Oldham
+[1909-01-10]
+	15.00		Leeds	0-2	Carlisle
+	15.00		Leicester	3-0	Leyton Orient
+	15.00		Northampton	1-1	Huddersfield
+[1909-01-12]
+	15.00		Milton Keynes Dons	1-1	Colchester
+	15.00		Oldham	2-1	Hartlepool
+[1909-01-13]
+	15.00		Swindon	1-1	Stockport
+	15.00		Yeovil	1-2	Scunthorpe
+[1909-01-16]
+	15.00		Hartlepool	2-0	Northampton
+[1909-01-17]
+	15.00		Brighton	0-2	Leeds
+	15.00		Carlisle	3-2	Milton Keynes Dons
+	15.00		Colchester	3-1	Cheltenham
+
+Matchday 25
+
+[1909-01-17]
+	15.00		Crewe	3-2	Scunthorpe
+	15.00		Hereford	5-0	Oldham
+	15.00		Huddersfield	2-1	Swindon
+	15.00		Leyton Orient	1-2	Bristol Rvs
+	15.00		Millwall	1-0	Tranmere
+	15.00		Peterboro	1-0	Walsall
+	15.00		Stockport	3-1	Southend
+[1909-01-19]
+	15.00		Yeovil	0-2	Leicester
+[1909-01-20]
+	15.00		Leyton Orient	1-1	Southend
+	15.00		Peterboro	0-0	Milton Keynes Dons
+[1909-01-24]
+	15.00		Bristol Rvs	0-0	Colchester
+	15.00		Cheltenham	2-2	Brighton
+
+Matchday 26
+
+[1909-01-24]
+	15.00		Leeds	3-1	Peterboro
+	15.00		Leicester	4-2	Huddersfield
+	15.00		Northampton	5-1	Crewe
+	15.00		Oldham	3-1	Stockport
+	15.00		Scunthorpe	2-1	Leyton Orient
+	15.00		Southend	0-1	Yeovil
+	15.00		Tranmere	4-1	Carlisle
+	15.00		Walsall	1-1	Hereford
+[1909-01-27]
+	15.00		Bristol Rvs	3-2	Cheltenham
+	15.00		Colchester	2-1	Northampton
+	15.00		Hartlepool	2-2	Carlisle
+	15.00		Hereford	0-2	Millwall
+
+Matchday 27
+
+[1909-01-27]
+	15.00		Leeds	2-0	Southend
+	15.00		Leicester	0-0	Brighton
+	15.00		Milton Keynes Dons	1-2	Leyton Orient
+	15.00		Peterboro	4-2	Crewe
+	15.00		Scunthorpe	2-0	Oldham
+	15.00		Swindon	3-2	Walsall
+	15.00		Tranmere	2-1	Stockport
+	15.00		Yeovil	1-0	Huddersfield
+[1909-01-31]
+	15.00		Brighton	2-1	Hartlepool
+	15.00		Carlisle	0-2	Colchester
+	15.00		Cheltenham	3-5	Milton Keynes Dons
+	15.00		Crewe	2-1	Tranmere
+
+Matchday 28
+
+[1909-01-31]
+	15.00		Huddersfield	1-0	Peterboro
+	15.00		Leyton Orient	0-1	Yeovil
+	15.00		Millwall	1-2	Scunthorpe
+	15.00		Northampton	1-2	Leicester
+	15.00		Oldham	0-0	Swindon
+	15.00		Southend	1-0	Bristol Rvs
+	15.00		Stockport	4-1	Hereford
+	15.00		Walsall	1-0	Leeds
+[1909-02-03]
+	15.00		Huddersfield	1-1	Hartlepool
+	15.00		Stockport	0-1	Milton Keynes Dons
+	15.00		Walsall	1-4	Leicester
+[1909-02-07]
+	15.00		Hartlepool	2-2	Walsall
+
+Matchday 29
+
+[1909-02-07]
+	15.00		Leicester	0-0	Oldham
+	15.00		Tranmere	0-0	Leyton Orient
+[1909-02-09]
+	15.00		Leeds	2-0	Millwall
+[1909-02-10]
+	15.00		Brighton	2-4	Peterboro
+	15.00		Carlisle	1-1	Walsall
+	15.00		Colchester	0-1	Tranmere
+[1909-02-14]
+	15.00		Brighton	0-2	Carlisle
+	15.00		Cheltenham	2-3	Hereford
+	15.00		Huddersfield	1-0	Leeds
+	15.00		Leicester	1-1	Swindon
+	15.00		Leyton Orient	1-0	Crewe
+	15.00		Milton Keynes Dons	3-1	Hartlepool
+
+Matchday 30
+
+[1909-02-14]
+	15.00		Oldham	2-1	Northampton
+	15.00		Peterboro	1-3	Yeovil
+	15.00		Scunthorpe	0-2	Bristol Rvs
+	15.00		Southend	2-1	Tranmere
+	15.00		Stockport	2-2	Millwall
+	15.00		Walsall	2-0	Colchester
+[1909-02-17]
+	15.00		Bristol Rvs	3-0	Yeovil
+	15.00		Hartlepool	2-2	Leicester
+	15.00		Hereford	2-0	Leeds
+	15.00		Millwall	1-1	Swindon
+	15.00		Southend	0-1	Crewe
+	15.00		Stockport	1-0	Cheltenham
+
+Matchday 31
+
+[1909-02-17]
+	15.00		Tranmere	1-1	Peterboro
+[1909-02-21]
+	15.00		Bristol Rvs	0-1	Leicester
+	15.00		Carlisle	1-2	Stockport
+	15.00		Colchester	0-1	Southend
+	15.00		Crewe	3-1	Huddersfield
+	15.00		Hartlepool	0-1	Leyton Orient
+	15.00		Hereford	0-1	Peterboro
+	15.00		Leeds	2-0	Cheltenham
+	15.00		Millwall	0-1	Brighton
+	15.00		Northampton	0-2	Walsall
+	15.00		Swindon	4-2	Scunthorpe
+	15.00		Tranmere	1-1	Milton Keynes Dons
+
+Matchday 32
+
+[1909-02-21]
+	15.00		Yeovil	2-2	Oldham
+[1909-02-24]
+	15.00		Brighton	1-1	Northampton
+	15.00		Cheltenham	1-3	Millwall
+	15.00		Colchester	1-0	Stockport
+	15.00		Crewe	2-0	Yeovil
+	15.00		Oldham	0-2	Bristol Rvs
+	15.00		Peterboro	1-0	Carlisle
+	15.00		Southend	2-0	Scunthorpe
+	15.00		Swindon	0-1	Hartlepool
+[1909-02-28]
+	15.00		Brighton	0-4	Crewe
+	15.00		Carlisle	1-1	Bristol Rvs
+	15.00		Cheltenham	0-1	Northampton
+
+Matchday 33
+
+[1909-02-28]
+	15.00		Colchester	1-1	Hartlepool
+	15.00		Hereford	2-1	Leyton Orient
+	15.00		Leeds	3-2	Scunthorpe
+	15.00		Millwall	2-3	Oldham
+	15.00		Milton Keynes Dons	2-2	Leicester
+	15.00		Peterboro	1-2	Southend
+	15.00		Stockport	1-1	Huddersfield
+	15.00		Tranmere	1-0	Swindon
+	15.00		Walsall	2-0	Yeovil
+[1909-03-02]
+	15.00		Oldham	1-1	Leeds
+[1909-03-03]
+	15.00		Crewe	1-2	Carlisle
+	15.00		Hartlepool	2-1	Tranmere
+
+Matchday 34
+
+[1909-03-03]
+	15.00		Huddersfield	2-2	Colchester
+	15.00		Leicester	1-1	Stockport
+	15.00		Leyton Orient	2-3	Peterboro
+	15.00		Scunthorpe	1-1	Walsall
+	15.00		Southend	0-1	Millwall
+	15.00		Swindon	2-2	Cheltenham
+[1909-03-07]
+	15.00		Bristol Rvs	2-2	Leeds
+	15.00		Crewe	2-1	Hereford
+	15.00		Hartlepool	1-2	Peterboro
+	15.00		Huddersfield	1-2	Millwall
+	15.00		Leicester	4-0	Cheltenham
+	15.00		Leyton Orient	2-1	Brighton
+
+Matchday 35
+
+[1909-03-07]
+	15.00		Northampton	1-1	Tranmere
+	15.00		Oldham	0-1	Colchester
+	15.00		Scunthorpe	2-1	Stockport
+	15.00		Southend	2-0	Walsall
+	15.00		Swindon	1-1	Milton Keynes Dons
+	15.00		Yeovil	1-1	Carlisle
+[1909-03-10]
+	15.00		Brighton	1-3	Southend
+	15.00		Carlisle	1-3	Leyton Orient
+	15.00		Colchester	3-2	Swindon
+	15.00		Hereford	0-3	Bristol Rvs
+	15.00		Leeds	4-0	Yeovil
+	15.00		Millwall	1-0	Northampton
+
+Matchday 36
+
+[1909-03-10]
+	15.00		Milton Keynes Dons	1-1	Huddersfield
+	15.00		Peterboro	2-1	Scunthorpe
+	15.00		Stockport	2-1	Hartlepool
+	15.00		Walsall	1-1	Crewe
+[1909-03-11]
+	15.00		Tranmere	2-0	Leicester
+[1909-03-14]
+	15.00		Brighton	5-0	Yeovil
+	15.00		Carlisle	1-1	Scunthorpe
+	15.00		Cheltenham	2-0	Hartlepool
+	15.00		Colchester	0-1	Crewe
+	15.00		Hereford	0-1	Southend
+	15.00		Leeds	1-0	Swindon
+	15.00		Millwall	0-1	Leicester
+
+Matchday 37
+
+[1909-03-14]
+	15.00		Milton Keynes Dons	6-2	Oldham
+	15.00		Peterboro	1-0	Northampton
+	15.00		Stockport	0-1	Leyton Orient
+	15.00		Tranmere	3-1	Huddersfield
+	15.00		Walsall	0-5	Bristol Rvs
+[1909-03-17]
+	15.00		Cheltenham	1-0	Tranmere
+	15.00		Crewe	1-1	Bristol Rvs
+	15.00		Milton Keynes Dons	0-1	Millwall
+	15.00		Scunthorpe	3-0	Hereford
+	15.00		Swindon	3-0	Southend
+	15.00		Walsall	3-0	Brighton
+[1909-03-21]
+	15.00		Bristol Rvs	0-1	Peterboro
+
+Matchday 38
+
+[1909-03-21]
+	15.00		Crewe	2-3	Leeds
+	15.00		Hartlepool	2-3	Millwall
+	15.00		Huddersfield	2-2	Cheltenham
+	15.00		Leicester	1-1	Colchester
+	15.00		Leyton Orient	0-1	Walsall
+	15.00		Northampton	4-0	Stockport
+	15.00		Oldham	0-2	Tranmere
+	15.00		Scunthorpe	2-0	Brighton
+	15.00		Southend	3-0	Carlisle
+	15.00		Swindon	3-0	Hereford
+	15.00		Yeovil	0-0	Milton Keynes Dons
+[1909-03-24]
+	15.00		Carlisle	1-2	Hereford
+
+Matchday 39
+
+[1909-03-24]
+	15.00		Cheltenham	1-1	Oldham
+	15.00		Milton Keynes Dons	2-2	Crewe
+	15.00		Northampton	3-4	Swindon
+[1909-03-27]
+	15.00		Southend	3-2	Hartlepool
+[1909-03-28]
+	15.00		Brighton	0-0	Tranmere
+	15.00		Bristol Rvs	2-0	Stockport
+	15.00		Carlisle	1-1	Northampton
+	15.00		Crewe	0-1	Millwall
+	15.00		Hereford	0-1	Huddersfield
+	15.00		Leeds	2-0	Milton Keynes Dons
+	15.00		Leyton Orient	2-1	Oldham
+	15.00		Peterboro	2-0	Leicester
+
+Matchday 40
+
+[1909-03-28]
+	15.00		Scunthorpe	3-0	Colchester
+	15.00		Walsall	1-1	Cheltenham
+	15.00		Yeovil	1-0	Swindon
+[1909-03-31]
+	15.00		Bristol Rvs	1-2	Huddersfield
+	15.00		Millwall	0-1	Colchester
+	15.00		Yeovil	1-0	Northampton
+[1909-04-04]
+	15.00		Cheltenham	0-1	Leyton Orient
+	15.00		Colchester	0-1	Leeds
+	15.00		Hartlepool	4-2	Hereford
+	15.00		Huddersfield	0-1	Southend
+	15.00		Leicester	2-2	Carlisle
+	15.00		Millwall	3-1	Walsall
+
+Matchday 41
+
+[1909-04-04]
+	15.00		Milton Keynes Dons	2-0	Brighton
+	15.00		Oldham	1-2	Peterboro
+	15.00		Stockport	0-0	Yeovil
+	15.00		Swindon	0-0	Crewe
+[1909-04-05]
+	15.00		Tranmere	2-0	Bristol Rvs
+[1909-04-07]
+	15.00		Hereford	1-2	Brighton
+	15.00		Leyton Orient	2-2	Leeds
+[1909-04-10]
+	15.00		Bristol Rvs	1-0	Northampton
+	15.00		Carlisle	1-1	Oldham
+	15.00		Peterboro	1-1	Cheltenham
+	15.00		Scunthorpe	1-2	Huddersfield
+	15.00		Southend	0-2	Milton Keynes Dons
+
+Matchday 42
+
+[1909-04-10]
+	15.00		Yeovil	2-0	Millwall
+[1909-04-11]
+	15.00		Brighton	2-3	Swindon
+	15.00		Crewe	0-0	Hartlepool
+	15.00		Hereford	1-3	Leicester
+	15.00		Leeds	1-0	Stockport
+	15.00		Leyton Orient	2-1	Colchester
+	15.00		Walsall	0-1	Tranmere
+[1909-04-13]
+	15.00		Cheltenham	1-0	Yeovil
+	15.00		Colchester	0-1	Brighton
+	15.00		Hartlepool	2-3	Scunthorpe
+	15.00		Huddersfield	1-0	Carlisle
+	15.00		Leicester	1-0	Leeds
+
+Matchday 43
+
+[1909-04-13]
+	15.00		Millwall	2-0	Peterboro
+	15.00		Milton Keynes Dons	2-1	Bristol Rvs
+	15.00		Northampton	2-3	Southend
+	15.00		Oldham	1-1	Crewe
+	15.00		Stockport	1-2	Walsall
+	15.00		Swindon	0-1	Leyton Orient
+	15.00		Tranmere	2-1	Hereford
+[1909-04-18]
+	15.00		Brighton	3-1	Oldham
+	15.00		Bristol Rvs	4-2	Millwall
+	15.00		Carlisle	1-1	Swindon
+	15.00		Crewe	1-2	Cheltenham
+	15.00		Hereford	0-2	Colchester
+
+Matchday 44
+
+[1909-04-18]
+	15.00		Leeds	3-1	Tranmere
+	15.00		Leyton Orient	1-3	Northampton
+	15.00		Peterboro	1-0	Stockport
+	15.00		Scunthorpe	0-1	Milton Keynes Dons
+	15.00		Southend	0-2	Leicester
+	15.00		Walsall	2-3	Huddersfield
+	15.00		Yeovil	2-3	Hartlepool
+[1909-04-21]
+	15.00		Bristol Rvs	1-2	Brighton
+	15.00		Northampton	3-3	Scunthorpe
+	15.00		Yeovil	2-2	Hereford
+[1909-04-24]
+	15.00		Leicester	2-2	Scunthorpe
+	15.00		Stockport	4-3	Crewe
+
+Matchday 45
+
+[1909-04-25]
+	15.00		Cheltenham	1-1	Carlisle
+	15.00		Colchester	0-1	Peterboro
+	15.00		Hartlepool	0-1	Leeds
+	15.00		Huddersfield	2-2	Brighton
+	15.00		Millwall	2-1	Leyton Orient
+	15.00		Milton Keynes Dons	0-1	Walsall
+	15.00		Northampton	2-1	Hereford
+	15.00		Oldham	1-1	Southend
+	15.00		Swindon	2-1	Bristol Rvs
+	15.00		Tranmere	1-1	Yeovil
+[1909-04-28]
+	15.00		Northampton	0-1	Milton Keynes Dons
+	15.00		Scunthorpe	3-0	Cheltenham
+
+Matchday 46
+
+[1909-05-02]
+	15.00		Brighton	1-0	Stockport
+	15.00		Bristol Rvs	4-1	Hartlepool
+	15.00		Carlisle	2-0	Millwall
+	15.00		Crewe	0-3	Leicester
+	15.00		Hereford	0-1	Milton Keynes Dons
+	15.00		Leeds	3-0	Northampton
+	15.00		Leyton Orient	1-1	Huddersfield
+	15.00		Peterboro	2-2	Swindon
+	15.00		Scunthorpe	1-1	Tranmere
+	15.00		Southend	2-0	Cheltenham
+	15.00		Walsall	1-2	Oldham
+	15.00		Yeovil	0-2	Colchester
+

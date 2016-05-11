@@ -1,0 +1,36 @@
+############################
+# Premier League 1996-1997
+
+league: en
+season: 1996/97
+start_at: 1996-08-16
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Birmingham
+- Bolton
+- Bradford
+- Charlton
+- Crystal Palace
+- Grimsby
+- Huddersfield
+- Ipswich
+- Man City
+- Norwich
+- Oldham
+- Oxford
+- Port Vale
+- Portsmouth
+- QPR
+- Reading
+- Sheffield United
+- Southend
+- Stoke
+- Swindon
+- Tranmere
+- West Brom
+- Wolves
+

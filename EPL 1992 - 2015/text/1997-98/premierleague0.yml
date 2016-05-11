@@ -1,0 +1,32 @@
+############################
+# Premier League 1997-1998
+
+league: en
+season: 1997/98
+start_at: 1997-08-09
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Barnsley
+- Blackburn
+- Bolton
+- Chelsea
+- Coventry
+- Crystal Palace
+- Derby
+- Everton
+- Leeds
+- Leicester
+- Liverpool
+- Man United
+- Newcastle
+- Sheffield Weds
+- Southampton
+- Tottenham
+- West Ham
+- Wimbledon
+

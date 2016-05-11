@@ -1,0 +1,36 @@
+############################
+# Premier League 2009-2010
+
+league: en
+season: 2009/10
+start_at: 1909-08-07
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Barnsley
+- Blackpool
+- Bristol City
+- Cardiff
+- Coventry
+- Crystal Palace
+- Derby
+- Doncaster
+- Ipswich
+- Leicester
+- Middlesbrough
+- Newcastle
+- Nott'm Forest
+- Peterboro
+- Plymouth
+- Preston
+- QPR
+- Reading
+- Scunthorpe
+- Sheffield United
+- Sheffield Weds
+- Swansea
+- Watford
+- West Brom
+

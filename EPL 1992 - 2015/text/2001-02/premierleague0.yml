@@ -1,0 +1,32 @@
+############################
+# Premier League 2001-2002
+
+league: en
+season: 2001/02
+start_at: 1901-08-18
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Derby
+- Everton
+- Fulham
+- Ipswich
+- Leeds
+- Leicester
+- Liverpool
+- Man United
+- Middlesbrough
+- Newcastle
+- Southampton
+- Sunderland
+- Tottenham
+- West Ham
+

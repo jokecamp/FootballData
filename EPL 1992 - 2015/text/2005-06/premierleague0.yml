@@ -1,0 +1,32 @@
+############################
+# Premier League 2005-2006
+
+league: en
+season: 2005/06
+start_at: 1905-08-13
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Charlton
+- Chelsea
+- Everton
+- Fulham
+- Liverpool
+- Man City
+- Man United
+- Middlesbrough
+- Newcastle
+- Portsmouth
+- Sunderland
+- Tottenham
+- West Brom
+- West Ham
+- Wigan
+

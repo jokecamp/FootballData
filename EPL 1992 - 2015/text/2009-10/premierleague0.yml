@@ -1,0 +1,32 @@
+############################
+# Premier League 2009-2010
+
+league: en
+season: 2009/10
+start_at: 1909-08-15
+
+fixtures:
+- premierleague0
+
+20 teams:
+- Arsenal
+- Aston Villa
+- Birmingham
+- Blackburn
+- Bolton
+- Burnley
+- Chelsea
+- Everton
+- Fulham
+- Hull
+- Liverpool
+- Man City
+- Man United
+- Portsmouth
+- Stoke
+- Sunderland
+- Tottenham
+- West Ham
+- Wigan
+- Wolves
+

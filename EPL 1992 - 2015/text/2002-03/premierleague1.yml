@@ -1,0 +1,36 @@
+############################
+# Premier League 2002-2003
+
+league: en
+season: 2002/03
+start_at: 1902-08-10
+
+fixtures:
+- premierleague1
+
+24 teams:
+- Bradford
+- Brighton
+- Burnley
+- Coventry
+- Crystal Palace
+- Derby
+- Gillingham
+- Grimsby
+- Ipswich
+- Leicester
+- Millwall
+- Norwich
+- Nott'm Forest
+- Portsmouth
+- Preston
+- Reading
+- Rotherham
+- Sheffield United
+- Sheffield Weds
+- Stoke
+- Walsall
+- Watford
+- Wimbledon
+- Wolves
+

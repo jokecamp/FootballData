@@ -1,0 +1,799 @@
+############################
+# Premier League 2006-2007
+
+Matchday 1
+
+[1906-08-05]
+	15.00		Bournemouth	0-3	Chesterfield
+	15.00		Brentford	1-0	Blackpool
+	15.00		Bristol City	1-0	Scunthorpe
+	15.00		Carlisle	1-0	Doncaster
+	15.00		Crewe	2-2	Northampton
+	15.00		Gillingham	2-1	Huddersfield
+	15.00		Millwall	1-1	Yeovil
+	15.00		Nott'm Forest	1-0	Bradford
+	15.00		Port Vale	3-0	Leyton Orient
+	15.00		Rotherham	0-1	Brighton
+	15.00		Swansea	1-2	Cheltenham
+	15.00		Tranmere	1-0	Oldham
+
+Matchday 2
+
+[1906-08-08]
+	15.00		Blackpool	0-2	Nott'm Forest
+	15.00		Bradford	2-1	Bristol City
+	15.00		Brighton	1-0	Gillingham
+	15.00		Cheltenham	1-0	Tranmere
+	15.00		Doncaster	3-1	Crewe
+	15.00		Huddersfield	3-0	Rotherham
+	15.00		Leyton Orient	2-0	Millwall
+	15.00		Northampton	0-1	Brentford
+	15.00		Oldham	0-1	Port Vale
+	15.00		Scunthorpe	2-2	Swansea
+	15.00		Yeovil	0-0	Bournemouth
+[1906-08-09]
+	15.00		Chesterfield	0-0	Carlisle
+
+Matchday 3
+
+[1906-08-12]
+	15.00		Blackpool	0-1	Rotherham
+	15.00		Bradford	4-2	Gillingham
+	15.00		Brighton	2-2	Brentford
+	15.00		Cheltenham	0-1	Port Vale
+	15.00		Chesterfield	5-1	Millwall
+	15.00		Doncaster	0-0	Tranmere
+	15.00		Huddersfield	2-1	Bristol City
+	15.00		Leyton Orient	3-2	Bournemouth
+	15.00		Northampton	0-1	Nott'm Forest
+	15.00		Oldham	1-0	Swansea
+	15.00		Scunthorpe	2-2	Crewe
+	15.00		Yeovil	2-1	Carlisle
+
+Matchday 4
+
+[1906-08-19]
+	15.00		Bournemouth	2-1	Cheltenham
+	15.00		Brentford	2-2	Huddersfield
+	15.00		Bristol City	2-4	Blackpool
+	15.00		Carlisle	3-1	Leyton Orient
+	15.00		Crewe	0-3	Bradford
+	15.00		Gillingham	0-1	Northampton
+	15.00		Millwall	1-0	Oldham
+	15.00		Nott'm Forest	2-1	Brighton
+	15.00		Port Vale	3-2	Chesterfield
+	15.00		Rotherham	2-1	Scunthorpe
+	15.00		Swansea	2-0	Doncaster
+	15.00		Tranmere	2-1	Yeovil
+
+Matchday 5
+
+[1906-08-26]
+	15.00		Blackpool	1-1	Gillingham
+	15.00		Bradford	1-1	Rotherham
+	15.00		Cheltenham	3-2	Millwall
+	15.00		Chesterfield	0-2	Tranmere
+	15.00		Doncaster	1-1	Bournemouth
+	15.00		Huddersfield	1-1	Nott'm Forest
+	15.00		Leyton Orient	0-1	Swansea
+	15.00		Scunthorpe	1-1	Brentford
+	15.00		Yeovil	1-0	Port Vale
+[1906-08-27]
+	15.00		Brighton	1-4	Crewe
+	15.00		Oldham	0-0	Carlisle
+[1906-08-29]
+	15.00		Northampton	1-3	Bristol City
+
+Matchday 6
+
+[1906-09-01]
+	15.00		Gillingham	0-2	Scunthorpe
+	15.00		Rotherham	1-2	Northampton
+	15.00		Swansea	1-1	Yeovil
+[1906-09-02]
+	15.00		Bournemouth	3-2	Oldham
+	15.00		Brentford	2-1	Bradford
+	15.00		Bristol City	1-0	Brighton
+	15.00		Crewe	2-0	Huddersfield
+	15.00		Millwall	0-0	Blackpool
+	15.00		Nott'm Forest	4-0	Chesterfield
+	15.00		Tranmere	3-0	Leyton Orient
+[1906-09-03]
+	15.00		Carlisle	2-0	Cheltenham
+	15.00		Port Vale	1-2	Doncaster
+
+Matchday 7
+
+[1906-09-08]
+	15.00		Tranmere	1-0	Bristol City
+[1906-09-09]
+	15.00		Bournemouth	1-0	Crewe
+	15.00		Carlisle	1-1	Northampton
+	15.00		Cheltenham	2-1	Huddersfield
+	15.00		Chesterfield	2-1	Rotherham
+	15.00		Doncaster	1-2	Gillingham
+	15.00		Leyton Orient	1-1	Brentford
+	15.00		Millwall	0-1	Brighton
+	15.00		Oldham	1-0	Scunthorpe
+	15.00		Port Vale	2-1	Blackpool
+	15.00		Swansea	1-0	Bradford
+	15.00		Yeovil	0-1	Nott'm Forest
+
+Matchday 8
+
+[1906-09-12]
+	15.00		Blackpool	1-1	Chesterfield
+	15.00		Bradford	1-1	Carlisle
+	15.00		Brentford	0-2	Swansea
+	15.00		Brighton	2-2	Bournemouth
+	15.00		Bristol City	2-1	Leyton Orient
+	15.00		Crewe	3-1	Cheltenham
+	15.00		Gillingham	2-1	Millwall
+	15.00		Huddersfield	0-0	Doncaster
+	15.00		Northampton	1-1	Yeovil
+	15.00		Nott'm Forest	0-2	Oldham
+	15.00		Rotherham	2-1	Tranmere
+	15.00		Scunthorpe	3-0	Port Vale
+
+Matchday 9
+
+[1906-09-16]
+	15.00		Blackpool	2-2	Oldham
+	15.00		Bradford	2-0	Port Vale
+	15.00		Brentford	0-0	Bournemouth
+	15.00		Brighton	4-1	Leyton Orient
+	15.00		Bristol City	3-1	Chesterfield
+	15.00		Crewe	1-0	Millwall
+	15.00		Gillingham	3-1	Swansea
+	15.00		Huddersfield	2-3	Yeovil
+	15.00		Northampton	1-3	Tranmere
+	15.00		Nott'm Forest	0-0	Carlisle
+	15.00		Rotherham	0-0	Doncaster
+	15.00		Scunthorpe	1-0	Cheltenham
+
+Matchday 10
+
+[1906-09-23]
+	15.00		Bournemouth	1-1	Scunthorpe
+	15.00		Carlisle	3-1	Brighton
+	15.00		Cheltenham	1-2	Bradford
+	15.00		Chesterfield	3-1	Brentford
+	15.00		Doncaster	0-0	Blackpool
+	15.00		Leyton Orient	2-3	Rotherham
+	15.00		Millwall	0-1	Northampton
+	15.00		Oldham	4-1	Gillingham
+	15.00		Port Vale	0-2	Bristol City
+	15.00		Swansea	1-2	Huddersfield
+	15.00		Tranmere	0-0	Nott'm Forest
+	15.00		Yeovil	2-0	Crewe
+
+Matchday 11
+
+[1906-09-26]
+	15.00		Bournemouth	0-1	Bristol City
+	15.00		Carlisle	2-0	Blackpool
+	15.00		Cheltenham	0-2	Northampton
+	15.00		Doncaster	3-3	Bradford
+	15.00		Leyton Orient	3-3	Gillingham
+	15.00		Millwall	1-1	Brentford
+	15.00		Oldham	2-1	Rotherham
+	15.00		Port Vale	1-1	Nott'm Forest
+	15.00		Swansea	2-1	Crewe
+	15.00		Tranmere	2-2	Huddersfield
+	15.00		Yeovil	2-0	Brighton
+[1906-09-27]
+	15.00		Chesterfield	0-1	Scunthorpe
+
+Matchday 12
+
+[1906-09-30]
+	15.00		Blackpool	3-0	Leyton Orient
+	15.00		Bradford	2-0	Tranmere
+	15.00		Brentford	1-2	Yeovil
+	15.00		Brighton	1-2	Chesterfield
+	15.00		Bristol City	0-0	Oldham
+	15.00		Crewe	5-1	Carlisle
+	15.00		Gillingham	2-1	Cheltenham
+	15.00		Huddersfield	2-2	Bournemouth
+	15.00		Northampton	0-2	Port Vale
+	15.00		Nott'm Forest	3-1	Swansea
+	15.00		Rotherham	2-3	Millwall
+	15.00		Scunthorpe	2-0	Doncaster
+
+Matchday 13
+
+[1906-10-06]
+	15.00		Bournemouth	0-0	Northampton
+	15.00		Doncaster	1-1	Oldham
+	15.00		Swansea	0-0	Tranmere
+	15.00		Yeovil	0-1	Cheltenham
+[1906-10-07]
+	15.00		Bradford	0-1	Huddersfield
+	15.00		Brentford	1-1	Bristol City
+	15.00		Carlisle	1-2	Millwall
+	15.00		Crewe	4-3	Gillingham
+	15.00		Leyton Orient	0-0	Chesterfield
+	15.00		Nott'm Forest	0-4	Scunthorpe
+[1906-10-08]
+	15.00		Brighton	0-3	Blackpool
+	15.00		Port Vale	1-3	Rotherham
+
+Matchday 14
+
+[1906-10-13]
+	15.00		Northampton	0-0	Bradford
+	15.00		Tranmere	1-2	Port Vale
+[1906-10-14]
+	15.00		Blackpool	1-1	Yeovil
+	15.00		Bristol City	2-1	Crewe
+	15.00		Cheltenham	0-2	Doncaster
+	15.00		Chesterfield	2-3	Swansea
+	15.00		Gillingham	0-1	Nott'm Forest
+	15.00		Huddersfield	2-1	Carlisle
+	15.00		Millwall	1-0	Bournemouth
+	15.00		Oldham	3-3	Leyton Orient
+	15.00		Rotherham	2-0	Brentford
+	15.00		Scunthorpe	1-2	Brighton
+
+Matchday 15
+
+[1906-10-21]
+	15.00		Bournemouth	1-3	Rotherham
+	15.00		Bradford	0-1	Scunthorpe
+	15.00		Brentford	2-2	Gillingham
+	15.00		Brighton	1-1	Northampton
+	15.00		Carlisle	1-0	Tranmere
+	15.00		Crewe	1-2	Blackpool
+	15.00		Doncaster	1-0	Chesterfield
+	15.00		Leyton Orient	2-0	Cheltenham
+	15.00		Nott'm Forest	1-0	Bristol City
+	15.00		Port Vale	1-2	Huddersfield
+	15.00		Yeovil	1-0	Oldham
+[1906-10-22]
+	15.00		Swansea	2-0	Millwall
+
+Matchday 16
+
+[1906-10-28]
+	15.00		Blackpool	4-1	Bradford
+	15.00		Bristol City	1-0	Doncaster
+	15.00		Cheltenham	0-2	Nott'm Forest
+	15.00		Chesterfield	1-1	Yeovil
+	15.00		Gillingham	2-0	Carlisle
+	15.00		Huddersfield	0-3	Brighton
+	15.00		Millwall	1-1	Port Vale
+	15.00		Northampton	1-0	Swansea
+	15.00		Oldham	3-0	Brentford
+	15.00		Rotherham	5-1	Crewe
+	15.00		Scunthorpe	3-1	Leyton Orient
+	15.00		Tranmere	1-0	Bournemouth
+
+Matchday 17
+
+[1906-11-03]
+	15.00		Swansea	4-2	Bournemouth
+	15.00		Tranmere	3-1	Millwall
+[1906-11-04]
+	15.00		Bradford	2-3	Brighton
+	15.00		Carlisle	1-1	Rotherham
+	15.00		Cheltenham	1-2	Oldham
+	15.00		Crewe	2-1	Port Vale
+	15.00		Doncaster	0-0	Leyton Orient
+	15.00		Gillingham	2-1	Chesterfield
+	15.00		Huddersfield	1-1	Scunthorpe
+	15.00		Northampton	1-1	Blackpool
+	15.00		Nott'm Forest	2-0	Brentford
+	15.00		Yeovil	2-1	Bristol City
+
+Matchday 18
+
+[1906-11-18]
+	15.00		Blackpool	3-1	Huddersfield
+	15.00		Bournemouth	0-1	Carlisle
+	15.00		Brentford	0-4	Crewe
+	15.00		Brighton	0-1	Tranmere
+	15.00		Bristol City	3-1	Gillingham
+	15.00		Chesterfield	1-0	Cheltenham
+	15.00		Leyton Orient	0-0	Yeovil
+	15.00		Millwall	2-2	Doncaster
+	15.00		Oldham	2-0	Bradford
+	15.00		Port Vale	0-2	Swansea
+	15.00		Rotherham	1-1	Nott'm Forest
+	15.00		Scunthorpe	1-0	Northampton
+
+Matchday 19
+
+[1906-11-24]
+	15.00		Cheltenham	2-0	Brentford
+	15.00		Tranmere	2-0	Blackpool
+[1906-11-25]
+	15.00		Bradford	0-0	Bournemouth
+	15.00		Carlisle	3-2	Port Vale
+	15.00		Crewe	2-2	Chesterfield
+	15.00		Doncaster	1-0	Brighton
+	15.00		Gillingham	1-0	Rotherham
+	15.00		Huddersfield	0-3	Oldham
+	15.00		Nott'm Forest	3-1	Millwall
+	15.00		Yeovil	0-2	Scunthorpe
+[1906-11-26]
+	15.00		Swansea	0-0	Bristol City
+[1906-12-02]
+	15.00		Rotherham	3-2	Yeovil
+
+Matchday 20
+
+[1906-12-05]
+	15.00		Blackpool	2-1	Cheltenham
+	15.00		Bournemouth	2-0	Nott'm Forest
+	15.00		Brentford	0-4	Doncaster
+	15.00		Brighton	3-2	Swansea
+	15.00		Bristol City	1-0	Carlisle
+	15.00		Leyton Orient	1-2	Bradford
+	15.00		Millwall	0-0	Huddersfield
+	15.00		Oldham	1-0	Crewe
+	15.00		Port Vale	2-0	Gillingham
+	15.00		Scunthorpe	1-1	Tranmere
+[1906-12-06]
+	15.00		Chesterfield	0-0	Northampton
+[1906-12-09]
+	15.00		Blackpool	1-1	Swansea
+
+Matchday 21
+
+[1906-12-09]
+	15.00		Bournemouth	0-4	Port Vale
+	15.00		Brentford	1-1	Tranmere
+	15.00		Brighton	2-1	Cheltenham
+	15.00		Carlisle	0-2	Scunthorpe
+	15.00		Chesterfield	2-1	Oldham
+	15.00		Crewe	1-4	Nott'm Forest
+	15.00		Leyton Orient	1-0	Huddersfield
+	15.00		Millwall	2-0	Bradford
+	15.00		Northampton	0-2	Doncaster
+	15.00		Rotherham	1-1	Bristol City
+	15.00		Yeovil	2-0	Gillingham
+[1906-12-15]
+	15.00		Scunthorpe	1-3	Blackpool
+
+Matchday 22
+
+[1906-12-16]
+	15.00		Bradford	1-0	Chesterfield
+	15.00		Bristol City	1-0	Millwall
+	15.00		Cheltenham	2-0	Rotherham
+	15.00		Gillingham	1-1	Bournemouth
+	15.00		Huddersfield	1-1	Northampton
+	15.00		Nott'm Forest	1-3	Leyton Orient
+	15.00		Oldham	1-1	Brighton
+	15.00		Port Vale	1-0	Brentford
+	15.00		Swansea	5-0	Carlisle
+[1906-12-19]
+	15.00		Northampton	0-1	Leyton Orient
+[1906-12-22]
+	15.00		Millwall	0-1	Scunthorpe
+[1906-12-23]
+	15.00		Bournemouth	1-3	Blackpool
+
+Matchday 23
+
+[1906-12-23]
+	15.00		Carlisle	2-0	Brentford
+	15.00		Cheltenham	2-2	Bristol City
+	15.00		Chesterfield	0-0	Huddersfield
+	15.00		Doncaster	1-0	Nott'm Forest
+	15.00		Leyton Orient	1-1	Crewe
+	15.00		Oldham	3-0	Northampton
+	15.00		Port Vale	2-1	Brighton
+	15.00		Swansea	1-1	Rotherham
+	15.00		Tranmere	2-3	Gillingham
+	15.00		Yeovil	0-0	Bradford
+[1906-12-26]
+	15.00		Blackpool	2-1	Carlisle
+	15.00		Bradford	0-1	Doncaster
+
+Matchday 24
+
+[1906-12-26]
+	15.00		Brentford	1-4	Millwall
+	15.00		Brighton	1-3	Yeovil
+	15.00		Bristol City	2-2	Bournemouth
+	15.00		Crewe	1-3	Swansea
+	15.00		Gillingham	2-1	Leyton Orient
+	15.00		Huddersfield	2-2	Tranmere
+	15.00		Northampton	2-0	Cheltenham
+	15.00		Nott'm Forest	3-0	Port Vale
+	15.00		Rotherham	2-3	Oldham
+	15.00		Scunthorpe	1-0	Chesterfield
+[1906-12-30]
+	15.00		Blackpool	3-1	Doncaster
+	15.00		Bradford	2-2	Cheltenham
+
+Matchday 25
+
+[1906-12-30]
+	15.00		Brentford	2-1	Chesterfield
+	15.00		Brighton	1-2	Carlisle
+	15.00		Bristol City	2-1	Port Vale
+	15.00		Crewe	2-3	Yeovil
+	15.00		Gillingham	0-3	Oldham
+	15.00		Huddersfield	3-2	Swansea
+	15.00		Nott'm Forest	1-1	Tranmere
+	15.00		Rotherham	2-2	Leyton Orient
+	15.00		Scunthorpe	3-2	Bournemouth
+[1907-01-01]
+	15.00		Bournemouth	1-0	Brighton
+	15.00		Carlisle	1-0	Bradford
+	15.00		Chesterfield	2-0	Blackpool
+
+Matchday 26
+
+[1907-01-01]
+	15.00		Doncaster	3-0	Huddersfield
+	15.00		Leyton Orient	1-1	Bristol City
+	15.00		Millwall	4-1	Gillingham
+	15.00		Oldham	5-0	Nott'm Forest
+	15.00		Port Vale	0-0	Scunthorpe
+	15.00		Swansea	2-0	Brentford
+	15.00		Tranmere	2-1	Rotherham
+	15.00		Yeovil	0-0	Northampton
+[1907-01-02]
+	15.00		Cheltenham	1-1	Crewe
+[1907-01-05]
+	15.00		Yeovil	3-1	Huddersfield
+[1907-01-06]
+	15.00		Bournemouth	1-0	Brentford
+	15.00		Port Vale	0-1	Bradford
+
+Matchday 27
+
+[1907-01-06]
+	15.00		Tranmere	1-1	Northampton
+[1907-01-13]
+	15.00		Blackpool	2-1	Port Vale
+	15.00		Bradford	2-2	Swansea
+	15.00		Brentford	2-2	Leyton Orient
+	15.00		Brighton	0-1	Millwall
+	15.00		Bristol City	3-2	Tranmere
+	15.00		Crewe	2-0	Bournemouth
+	15.00		Gillingham	0-2	Doncaster
+	15.00		Huddersfield	2-0	Cheltenham
+	15.00		Northampton	3-2	Carlisle
+	15.00		Nott'm Forest	1-0	Yeovil
+	15.00		Rotherham	0-1	Chesterfield
+
+Matchday 28
+
+[1907-01-13]
+	15.00		Scunthorpe	1-1	Oldham
+[1907-01-16]
+	15.00		Cheltenham	1-1	Scunthorpe
+	15.00		Tranmere	1-0	Crewe
+[1907-01-19]
+	15.00		Tranmere	1-1	Bradford
+[1907-01-20]
+	15.00		Bournemouth	1-2	Huddersfield
+	15.00		Carlisle	0-2	Crewe
+	15.00		Cheltenham	1-1	Gillingham
+	15.00		Chesterfield	0-1	Brighton
+	15.00		Doncaster	2-2	Scunthorpe
+	15.00		Leyton Orient	0-1	Blackpool
+	15.00		Millwall	4-0	Rotherham
+	15.00		Oldham	0-3	Bristol City
+
+Matchday 29
+
+[1907-01-20]
+	15.00		Swansea	0-0	Nott'm Forest
+	15.00		Yeovil	1-0	Brentford
+[1907-01-23]
+	15.00		Northampton	3-0	Millwall
+	15.00		Swansea	2-0	Gillingham
+[1907-01-26]
+	15.00		Gillingham	2-0	Tranmere
+[1907-01-27]
+	15.00		Bradford	0-2	Yeovil
+	15.00		Brentford	0-0	Carlisle
+	15.00		Brighton	0-0	Port Vale
+	15.00		Crewe	0-4	Leyton Orient
+	15.00		Doncaster	3-2	Rotherham
+	15.00		Huddersfield	1-1	Chesterfield
+	15.00		Scunthorpe	3-0	Millwall
+
+Matchday 30
+
+[1907-01-28]
+	15.00		Northampton	2-3	Oldham
+[1907-01-31]
+	15.00		Bristol City	0-1	Cheltenham
+	15.00		Carlisle	1-0	Nott'm Forest
+[1907-02-03]
+	15.00		Blackpool	1-3	Brentford
+	15.00		Bradford	2-2	Nott'm Forest
+	15.00		Brighton	0-0	Rotherham
+	15.00		Cheltenham	2-1	Swansea
+	15.00		Chesterfield	0-1	Bournemouth
+	15.00		Doncaster	1-2	Carlisle
+	15.00		Huddersfield	3-1	Gillingham
+	15.00		Leyton Orient	2-1	Port Vale
+	15.00		Northampton	1-2	Crewe
+
+Matchday 31
+
+[1907-02-03]
+	15.00		Oldham	1-0	Tranmere
+	15.00		Yeovil	0-1	Millwall
+[1907-02-05]
+	15.00		Scunthorpe	1-0	Bristol City
+[1907-02-06]
+	15.00		Port Vale	1-0	Northampton
+[1907-02-10]
+	15.00		Bournemouth	5-0	Leyton Orient
+	15.00		Brentford	1-0	Brighton
+	15.00		Bristol City	1-1	Huddersfield
+	15.00		Carlisle	1-4	Yeovil
+	15.00		Gillingham	1-0	Bradford
+	15.00		Millwall	2-1	Chesterfield
+	15.00		Nott'm Forest	1-0	Northampton
+	15.00		Swansea	0-1	Oldham
+
+Matchday 32
+
+[1907-02-10]
+	15.00		Tranmere	1-0	Doncaster
+[1907-02-13]
+	15.00		Leyton Orient	1-4	Brighton
+[1907-02-16]
+	15.00		Northampton	1-1	Gillingham
+[1907-02-17]
+	15.00		Blackpool	0-1	Bristol City
+	15.00		Bradford	0-1	Crewe
+	15.00		Brighton	2-1	Nott'm Forest
+	15.00		Cheltenham	1-0	Bournemouth
+	15.00		Chesterfield	3-0	Port Vale
+	15.00		Doncaster	2-2	Swansea
+	15.00		Huddersfield	0-2	Brentford
+	15.00		Leyton Orient	1-1	Carlisle
+	15.00		Oldham	1-2	Millwall
+
+Matchday 33
+
+[1907-02-17]
+	15.00		Scunthorpe	1-0	Rotherham
+	15.00		Yeovil	0-2	Tranmere
+[1907-02-19]
+	15.00		Brentford	0-1	Northampton
+[1907-02-20]
+	15.00		Bournemouth	0-2	Yeovil
+	15.00		Carlisle	0-0	Chesterfield
+	15.00		Crewe	2-1	Doncaster
+	15.00		Gillingham	0-1	Brighton
+	15.00		Millwall	2-5	Leyton Orient
+	15.00		Nott'm Forest	1-1	Blackpool
+	15.00		Port Vale	3-0	Oldham
+	15.00		Rotherham	2-3	Huddersfield
+	15.00		Swansea	0-2	Scunthorpe
+
+Matchday 34
+
+[1907-02-20]
+	15.00		Tranmere	2-2	Cheltenham
+[1907-02-24]
+	15.00		Blackpool	0-1	Millwall
+	15.00		Bradford	1-1	Brentford
+	15.00		Brighton	0-2	Bristol City
+	15.00		Cheltenham	0-1	Carlisle
+	15.00		Chesterfield	1-2	Nott'm Forest
+	15.00		Doncaster	1-0	Port Vale
+	15.00		Huddersfield	1-2	Crewe
+	15.00		Leyton Orient	3-1	Tranmere
+	15.00		Northampton	3-0	Rotherham
+	15.00		Oldham	1-2	Bournemouth
+	15.00		Scunthorpe	3-1	Gillingham
+
+Matchday 35
+
+[1907-02-24]
+	15.00		Yeovil	1-0	Swansea
+[1907-02-27]
+	15.00		Crewe	1-3	Scunthorpe
+	15.00		Doncaster	0-0	Yeovil
+	15.00		Oldham	0-1	Blackpool
+	15.00		Rotherham	1-2	Swansea
+[1907-03-02]
+	15.00		Tranmere	2-0	Chesterfield
+[1907-03-03]
+	15.00		Bournemouth	2-0	Doncaster
+	15.00		Brentford	0-2	Scunthorpe
+	15.00		Bristol City	1-0	Northampton
+	15.00		Carlisle	1-1	Oldham
+	15.00		Crewe	1-1	Brighton
+	15.00		Gillingham	2-2	Blackpool
+
+Matchday 36
+
+[1907-03-03]
+	15.00		Millwall	2-0	Cheltenham
+	15.00		Nott'm Forest	5-1	Huddersfield
+	15.00		Port Vale	4-2	Yeovil
+	15.00		Rotherham	4-1	Bradford
+	15.00		Swansea	0-0	Leyton Orient
+[1907-03-06]
+	15.00		Blackpool	2-0	Bournemouth
+	15.00		Nott'm Forest	0-1	Doncaster
+	15.00		Port Vale	1-1	Cheltenham
+[1907-03-07]
+	15.00		Chesterfield	1-3	Bristol City
+[1907-03-10]
+	15.00		Blackpool	0-0	Brighton
+	15.00		Bristol City	1-0	Brentford
+	15.00		Cheltenham	1-2	Yeovil
+
+Matchday 37
+
+[1907-03-10]
+	15.00		Chesterfield	0-1	Leyton Orient
+	15.00		Gillingham	1-0	Crewe
+	15.00		Huddersfield	2-0	Bradford
+	15.00		Millwall	2-0	Carlisle
+	15.00		Northampton	3-1	Bournemouth
+	15.00		Rotherham	1-5	Port Vale
+	15.00		Scunthorpe	1-1	Nott'm Forest
+	15.00		Tranmere	0-2	Swansea
+[1907-03-11]
+	15.00		Oldham	4-0	Doncaster
+[1907-03-13]
+	15.00		Bristol City	2-3	Bradford
+	15.00		Millwall	2-2	Crewe
+[1907-03-16]
+	15.00		Swansea	2-0	Chesterfield
+
+Matchday 38
+
+[1907-03-17]
+	15.00		Bournemouth	1-0	Millwall
+	15.00		Bradford	1-2	Northampton
+	15.00		Brentford	0-1	Rotherham
+	15.00		Brighton	1-1	Scunthorpe
+	15.00		Carlisle	1-1	Huddersfield
+	15.00		Crewe	0-1	Bristol City
+	15.00		Doncaster	0-2	Cheltenham
+	15.00		Leyton Orient	2-2	Oldham
+	15.00		Nott'm Forest	1-0	Gillingham
+	15.00		Port Vale	2-3	Tranmere
+	15.00		Yeovil	0-1	Blackpool
+[1907-03-21]
+	15.00		Chesterfield	1-1	Doncaster
+
+Matchday 39
+
+[1907-03-24]
+	15.00		Bournemouth	2-0	Tranmere
+	15.00		Bradford	1-3	Blackpool
+	15.00		Brighton	0-0	Huddersfield
+	15.00		Carlisle	5-0	Gillingham
+	15.00		Crewe	1-0	Rotherham
+	15.00		Doncaster	0-1	Bristol City
+	15.00		Leyton Orient	2-2	Scunthorpe
+	15.00		Nott'm Forest	3-0	Cheltenham
+	15.00		Port Vale	2-0	Millwall
+	15.00		Swansea	2-1	Northampton
+	15.00		Yeovil	1-0	Chesterfield
+[1907-03-25]
+	15.00		Brentford	2-2	Oldham
+
+Matchday 40
+
+[1907-03-27]
+	15.00		Rotherham	1-0	Blackpool
+[1907-03-30]
+	15.00		Tranmere	0-2	Carlisle
+[1907-03-31]
+	15.00		Blackpool	2-1	Crewe
+	15.00		Bristol City	1-1	Nott'm Forest
+	15.00		Cheltenham	2-1	Leyton Orient
+	15.00		Gillingham	2-1	Brentford
+	15.00		Huddersfield	2-2	Port Vale
+	15.00		Millwall	2-0	Swansea
+	15.00		Northampton	0-2	Brighton
+	15.00		Oldham	1-0	Yeovil
+	15.00		Rotherham	0-2	Bournemouth
+	15.00		Scunthorpe	2-0	Bradford
+
+Matchday 41
+
+[1907-04-06]
+	15.00		Scunthorpe	1-0	Yeovil
+[1907-04-07]
+	15.00		Blackpool	3-2	Tranmere
+	15.00		Bournemouth	1-1	Bradford
+	15.00		Brentford	0-2	Cheltenham
+	15.00		Brighton	0-2	Doncaster
+	15.00		Bristol City	0-0	Swansea
+	15.00		Chesterfield	2-1	Crewe
+	15.00		Leyton Orient	0-2	Northampton
+	15.00		Millwall	1-0	Nott'm Forest
+	15.00		Oldham	1-1	Huddersfield
+	15.00		Port Vale	0-2	Carlisle
+	15.00		Rotherham	3-2	Gillingham
+
+Matchday 42
+
+[1907-04-09]
+	15.00		Bradford	1-1	Oldham
+	15.00		Carlisle	3-1	Bournemouth
+	15.00		Cheltenham	0-0	Chesterfield
+	15.00		Crewe	3-1	Brentford
+	15.00		Doncaster	1-2	Millwall
+	15.00		Gillingham	1-0	Bristol City
+	15.00		Huddersfield	0-2	Blackpool
+	15.00		Northampton	2-1	Scunthorpe
+	15.00		Nott'm Forest	1-1	Rotherham
+	15.00		Swansea	3-0	Port Vale
+	15.00		Tranmere	2-1	Brighton
+	15.00		Yeovil	2-1	Leyton Orient
+
+Matchday 43
+
+[1907-04-14]
+	15.00		Blackpool	4-1	Northampton
+	15.00		Bournemouth	2-2	Swansea
+	15.00		Brentford	2-4	Nott'm Forest
+	15.00		Brighton	0-1	Bradford
+	15.00		Bristol City	2-0	Yeovil
+	15.00		Chesterfield	0-1	Gillingham
+	15.00		Leyton Orient	1-1	Doncaster
+	15.00		Millwall	2-2	Tranmere
+	15.00		Oldham	0-2	Cheltenham
+	15.00		Port Vale	3-0	Crewe
+	15.00		Rotherham	0-1	Carlisle
+	15.00		Scunthorpe	2-0	Huddersfield
+
+Matchday 44
+
+[1907-04-21]
+	15.00		Bradford	0-2	Leyton Orient
+	15.00		Carlisle	1-3	Bristol City
+	15.00		Cheltenham	1-2	Blackpool
+	15.00		Crewe	2-1	Oldham
+	15.00		Doncaster	3-0	Brentford
+	15.00		Gillingham	3-2	Port Vale
+	15.00		Huddersfield	4-2	Millwall
+	15.00		Northampton	1-0	Chesterfield
+	15.00		Nott'm Forest	3-0	Bournemouth
+	15.00		Swansea	2-1	Brighton
+	15.00		Tranmere	0-2	Scunthorpe
+	15.00		Yeovil	1-0	Rotherham
+
+Matchday 45
+
+[1907-04-27]
+	15.00		Northampton	1-1	Huddersfield
+[1907-04-28]
+	15.00		Blackpool	3-1	Scunthorpe
+	15.00		Bournemouth	1-1	Gillingham
+	15.00		Brentford	4-3	Port Vale
+	15.00		Brighton	1-2	Oldham
+	15.00		Carlisle	1-2	Swansea
+	15.00		Chesterfield	3-0	Bradford
+	15.00		Crewe	1-1	Tranmere
+	15.00		Leyton Orient	1-3	Nott'm Forest
+	15.00		Millwall	1-0	Bristol City
+	15.00		Rotherham	2-4	Cheltenham
+	15.00		Yeovil	1-0	Doncaster
+
+Matchday 46
+
+[1907-05-05]
+	15.00		Bradford	2-2	Millwall
+	15.00		Bristol City	3-1	Rotherham
+	15.00		Cheltenham	1-1	Brighton
+	15.00		Doncaster	2-2	Northampton
+	15.00		Gillingham	0-2	Yeovil
+	15.00		Huddersfield	3-1	Leyton Orient
+	15.00		Nott'm Forest	0-0	Crewe
+	15.00		Oldham	1-0	Chesterfield
+	15.00		Port Vale	2-1	Bournemouth
+	15.00		Scunthorpe	3-0	Carlisle
+	15.00		Swansea	3-6	Blackpool
+	15.00		Tranmere	3-1	Brentford
+

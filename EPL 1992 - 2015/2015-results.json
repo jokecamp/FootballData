@@ -1,0 +1,8377 @@
+[
+  {
+    "date": "31 Oct 12:45",
+    "home": "Chelsea",
+    "away": "Liverpool",
+    "score": "1 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ramires",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Azpilicueta",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mikel",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ramires",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Coutinho",
+        "count": "2"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ibe",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Firmino",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lucas",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coutinho",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Can",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Coutinho",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Benteke",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "Crystal Palace",
+    "away": "Man Utd",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Kelly",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gayle",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ward",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Delaney",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Smalling",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rojo",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Darmian",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "de Gea",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rojo",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "Man City",
+    "away": "Norwich",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Otamendi",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sterling",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Penalties missed",
+        "name": "Kolarov",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernando",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Otamendi",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Yaya Touré",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Jerome",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Brady",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tettey",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jerome",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Martin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mulumbu",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Jerome",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "Newcastle",
+    "away": "Stoke",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Mitrovic",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Elliot",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Elliot",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dummett",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mbemba",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Wollscheid",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Adam",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Butland",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pieters",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wollscheid",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "Swansea",
+    "away": "Arsenal",
+    "score": "0 - 3",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Williams",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ki Sung-yueng",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Koscielny",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Campbell",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "2"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koscielny",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Campbell",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "Watford",
+    "away": "West Ham",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ighalo",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Aké",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Anya",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Aké",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Nyom",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Capoue",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gomes",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Aké",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ighalo",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Red cards",
+        "name": "Collins",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "31 Oct 15:00",
+    "home": "West Brom",
+    "away": "Leicester",
+    "score": "2 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lambert",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Rondón",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sessegnon",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "McManaman",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mahrez",
+        "count": "2"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Albrighton",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schmeichel",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Huth",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mahrez",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Albrighton",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "01 Nov 13:30",
+    "home": "Everton",
+    "away": "Sunderland",
+    "score": "6 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Deulofeu",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Koné",
+        "count": "3"
+      },
+      {
+        "type": "Assists",
+        "name": "McCarthy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deulofeu",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Lukaku",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Koné",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Stones",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Galloway",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Deulofeu",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "7"
+      },
+      {
+        "type": "Bonus",
+        "name": "Deulofeu",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lukaku",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koné",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Defoe",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Fletcher",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "van Aanholt",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Coates",
+        "count": "1"
+      },
+      {
+        "type": "Own goals",
+        "name": "Coates",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rodwell",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Defoe",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "01 Nov 16:00",
+    "home": "Southampton",
+    "away": "Bournemouth",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Davis",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Bertrand",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Tadic",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Wanyama",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bertrand",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cédric",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Davis",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Francis",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gosling",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "02 Nov 20:00",
+    "home": "Spurs",
+    "away": "Aston Villa",
+    "score": "3 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dembélé",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Alli",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Kane",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Rose",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dembélé",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Alli",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kane",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Richardson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Hutton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 12:45",
+    "home": "Bournemouth",
+    "away": "Newcastle",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Smith",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Arter",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayoze",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Wijnaldum",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Janmaat",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tioté",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Elliot",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Elliot",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dummett",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayoze",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 15:00",
+    "home": "Leicester",
+    "away": "Watford",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Kanté",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kanté",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Deeney",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Paredes",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gomes",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Deeney",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 15:00",
+    "home": "Man Utd",
+    "away": "West Brom",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lingard",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Martial",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rojo",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Smalling",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lingard",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Dawson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rondón",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "McAuley",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 15:00",
+    "home": "Norwich",
+    "away": "Swansea",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Howson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mbokani",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "O&#39;Neil",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wisdom",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bassong",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Howson",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "4"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 15:00",
+    "home": "Sunderland",
+    "away": "Southampton",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Tadic",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Bertrand",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bertrand",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fonte",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Yoshida",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "van Dijk",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 15:00",
+    "home": "West Ham",
+    "away": "Everton",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Zárate",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Tomkins",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lanzini",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deulofeu",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Funes Mori",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McCarthy",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lukaku",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "07 Nov 17:30",
+    "home": "Stoke",
+    "away": "Chelsea",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Shawcross",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Whelan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Butland",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wollscheid",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Arnautovic",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Baba Rahman",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "08 Nov 13:30",
+    "home": "Aston Villa",
+    "away": "Man City",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Guzan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Amavi",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Otamendi",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kolarov",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kompany",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Otamendi",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "08 Nov 16:00",
+    "home": "Arsenal",
+    "away": "Spurs",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Gibbs",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Özil",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Kane",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Rose",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rose",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kane",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "08 Nov 16:00",
+    "home": "Liverpool",
+    "away": "Crystal Palace",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Coutinho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lallana",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Clyne",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Coutinho",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lallana",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dann",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Bolasie",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Souaré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Puncheon",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dann",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "14 Aug 19:45",
+    "home": "Aston Villa",
+    "away": "Man Utd",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Gueye",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Januzaj",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Darmian",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Herrera",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Romero",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Smalling",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Shaw",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Darmian",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mata",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 12:45",
+    "home": "Southampton",
+    "away": "Everton",
+    "score": "0 - 3",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Targett",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Davis",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Romeu",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lukaku",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Coleman",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Koné",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McCarthy",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Howard",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Coleman",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Stones",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lukaku",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 15:00",
+    "home": "Spurs",
+    "away": "Stoke",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Chadli",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Davies",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Eriksen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Walker",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Davies",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Chadli",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Eriksen",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Diouf",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ireland",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Joselu",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Muniesa",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Whelan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Arnautovic",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 15:00",
+    "home": "Sunderland",
+    "away": "Norwich",
+    "score": "1 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Watmore",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Whittaker",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Martin",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Redmond",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hoolahan",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Brady",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bassong",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tettey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Redmond",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Hoolahan",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Brady",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 15:00",
+    "home": "Swansea",
+    "away": "Newcastle",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Gomis",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Shelvey",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Montero",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Naughton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Naughton",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Williams",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Taylor",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Mitrovic",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Janmaat",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "4"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 15:00",
+    "home": "Watford",
+    "away": "West Brom",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Nyom",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cathcart",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Prödl",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Olsson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lambert",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Myhill",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "15 Aug 15:00",
+    "home": "West Ham",
+    "away": "Leicester",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Kouyaté",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jenkinson",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Adrián",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Payet",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Okazaki",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Albrighton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Benalouane",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Okazaki",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mahrez",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Okazaki",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "16 Aug 13:30",
+    "home": "Crystal Palace",
+    "away": "Arsenal",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ward",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "McArthur",
+        "count": "1"
+      },
+      {
+        "type": "Own goals",
+        "name": "Delaney",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McArthur",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "McCarthy",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ward",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sánchez",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coquelin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Özil",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Giroud",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "16 Aug 16:00",
+    "home": "Man City",
+    "away": "Chelsea",
+    "score": "3 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Kompany",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Agüero",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Silva",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kompany",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mangala",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kolarov",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Silva",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fernandinho",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Ivanovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Hazard",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "17 Aug 20:00",
+    "home": "Liverpool",
+    "away": "Bournemouth",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Henderson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gomez",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Skrtel",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lovren",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Benteke",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Cook",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "O&#39;Kane",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tomlin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 12:45",
+    "home": "Man Utd",
+    "away": "Newcastle",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Shaw",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Darmian",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Shaw",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Haidara",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Obertan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "8"
+      },
+      {
+        "type": "Bonus",
+        "name": "Krul",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mbemba",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 15:00",
+    "home": "Crystal Palace",
+    "away": "Aston Villa",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dann",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sako",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Dann",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Puncheon",
+        "count": "1"
+      },
+      {
+        "type": "Own goals",
+        "name": "Souaré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ward",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Puncheon",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "McCarthy",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dann",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sako",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Assists",
+        "name": "Traoré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bacuna",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Clark",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gestede",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Westwood",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 15:00",
+    "home": "Leicester",
+    "away": "Spurs",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "King",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mahrez",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Alli",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Chadli",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dembélé",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mason",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vertonghen",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Chadli",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 15:00",
+    "home": "Norwich",
+    "away": "Stoke",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Martin",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Redmond",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bassong",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Whittaker",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Martin",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tettey",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Redmond",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Brady",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Diouf",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Shaqiri",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pieters",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Shaqiri",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Diouf",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 15:00",
+    "home": "Sunderland",
+    "away": "Swansea",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Defoe",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "van Aanholt",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coates",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cattermole",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "8"
+      },
+      {
+        "type": "Bonus",
+        "name": "Defoe",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Gomis",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Naughton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Sigurdsson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Naughton",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Shelvey",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "22 Aug 15:00",
+    "home": "West Ham",
+    "away": "Bournemouth",
+    "score": "3 - 4",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Kouyaté",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Maiga",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cresswell",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sakho",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Jenkinson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Randolph",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kouyaté",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Pugh",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Wilson",
+        "count": "3"
+      },
+      {
+        "type": "Assists",
+        "name": "Francis",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Gradel",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Boruc",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Francis",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wilson",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "23 Aug 13:30",
+    "home": "West Brom",
+    "away": "Chelsea",
+    "score": "2 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Morrison",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "McManaman",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Rondón",
+        "count": "1"
+      },
+      {
+        "type": "Penalties missed",
+        "name": "Morrison",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McManaman",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McClean",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Morrison",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Azpilicueta",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Pedro",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hazard",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Pedro",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Penalties saved",
+        "name": "Courtois",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Matic",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Terry",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Courtois",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pedro",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Costa",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "23 Aug 16:00",
+    "home": "Everton",
+    "away": "Man City",
+    "score": "0 - 2",
+    "homeEvents": [
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "7"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Kolarov",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Nasri",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sterling",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mangala",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Nasri",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kolarov",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sagna",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Yaya Touré",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "23 Aug 16:00",
+    "home": "Watford",
+    "away": "Southampton",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gomes",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Nyom",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Wanyama",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Oriol Romeu",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Caulker",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "24 Aug 20:00",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Gabriel",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "8"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cech",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bellerín",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Monreal",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Chambers",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Mignolet",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Skrtel",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gomez",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Can",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 12:45",
+    "home": "Newcastle",
+    "away": "Arsenal",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Own goals",
+        "name": "Coloccini",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coloccini",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mbemba",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Anita",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Sissoko",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Wijnaldum",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Thauvin",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Mitrovic",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "9"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Assists",
+        "name": "Chamberlain",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cazorla",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koscielny",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gabriel",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Monreal",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Aston Villa",
+    "away": "Sunderland",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sinclair",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Amavi",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Clark",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Carles Gil",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Amavi",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sinclair",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "M&#39;Vila",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Toivonen",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Graham",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pantilimon",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "M&#39;Vila",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Bournemouth",
+    "away": "Leicester",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Wilson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Gradel",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "O&#39;Kane",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gradel",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wilson",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schlupp",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "de Laet",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Huth",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "King",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kanté",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Chelsea",
+    "away": "Crystal Palace",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Falcao",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Pedro",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cahill",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Courtois",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pedro",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Falcao",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ward",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sako",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sako",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "McCarthy",
+        "count": "7"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sako",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Liverpool",
+    "away": "West Ham",
+    "score": "0 - 3",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Clyne",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lucas",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ings",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Coutinho",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sakho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cresswell",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Randolph",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cresswell",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ogbonna",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lanzini",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Man City",
+    "away": "Watford",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sterling",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sagna",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Silva",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kompany",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sagna",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sterling",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fernandinho",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Prödl",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Nyom",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 15:00",
+    "home": "Stoke",
+    "away": "West Brom",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Pieters",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Adam",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Afellay",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "4"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Rondón",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lambert",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gamboa",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McAuley",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gardner",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lambert",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Myhill",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Olsson",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lescott",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rondón",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "29 Aug 17:30",
+    "home": "Spurs",
+    "away": "Everton",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Chadli",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bentaleb",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Alli",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vertonghen",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Barry",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Howard",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Jagielka",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "30 Aug 13:30",
+    "home": "Southampton",
+    "away": "Norwich",
+    "score": "3 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Tadic",
+        "count": "2"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mané",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cédric",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Tadic",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mané",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Red cards",
+        "name": "Whittaker",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "30 Aug 16:00",
+    "home": "Swansea",
+    "away": "Man Utd",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Gomis",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sigurdsson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Routledge",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Shelvey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayew",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gomis",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Shaw",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Depay",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schneiderlin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Romero",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Shaw",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 12:45",
+    "home": "Everton",
+    "away": "Chelsea",
+    "score": "3 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Naismith",
+        "count": "3"
+      },
+      {
+        "type": "Assists",
+        "name": "Galloway",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Barkley",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Stones",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Galloway",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Naismith",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Matic",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mikel",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Azpilicueta",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Matic",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 15:00",
+    "home": "Arsenal",
+    "away": "Stoke",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Walcott",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cazorla",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koscielny",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bellerín",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cazorla",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Bardsley",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "10"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 15:00",
+    "home": "Crystal Palace",
+    "away": "Man City",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Dann",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Hangeland",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "McCarthy",
+        "count": "6"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Iheanacho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Nasri",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mangala",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Nasri",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kolarov",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sagna",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Iheanacho",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 15:00",
+    "home": "Norwich",
+    "away": "Bournemouth",
+    "score": "3 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Hoolahan",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Jarvis",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Jerome",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hoolahan",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Howson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Hoolahan",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tettey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Hoolahan",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Howson",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Cook",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Francis",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Francis",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Smith",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cook",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 15:00",
+    "home": "Watford",
+    "away": "Swansea",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ighalo",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deeney",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Capoue",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Behrami",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gomes",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Nyom",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ighalo",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Ki Sung-yueng",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 15:00",
+    "home": "West Brom",
+    "away": "Southampton",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Myhill",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fonte",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Targett",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "van Dijk",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "12 Sep 17:30",
+    "home": "Man Utd",
+    "away": "Liverpool",
+    "score": "3 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Herrera",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Blind",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Martial",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Young",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Darmian",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Herrera",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Blind",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Martial",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Clyne",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Milner",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "13 Sep 13:30",
+    "home": "Sunderland",
+    "away": "Spurs",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Jones",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Borini",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mason",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Vertonghen",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Alderweireld",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dier",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mason",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "13 Sep 16:00",
+    "home": "Leicester",
+    "away": "Aston Villa",
+    "score": "3 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "de Laet",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Dyer",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mahrez",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Albrighton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dyer",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "de Laet",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mahrez",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Drinkwater",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Carles Gil",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Grealish",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Richards",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Agbonlahor",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Amavi",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "14 Sep 20:00",
+    "home": "West Ham",
+    "away": "Newcastle",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Payet",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Moses",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Randolph",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Randolph",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Tomkins",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Payet",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Janmaat",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Colback",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 12:45",
+    "home": "Chelsea",
+    "away": "Arsenal",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Zouma",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Hazard",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Fàbregas",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Remy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ivanovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Oscar",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Azpilicueta",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Zouma",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Hazard",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Chambers",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Gabriel",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Cazorla",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 15:00",
+    "home": "Aston Villa",
+    "away": "West Brom",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Amavi",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Carles Gil",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Richards",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Berahino",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Morrison",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Morrison",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Yacob",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Evans",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Berahino",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 15:00",
+    "home": "Bournemouth",
+    "away": "Sunderland",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Wilson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Gosling",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gosling",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Murray",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Francis",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Daniels",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wilson",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Jones",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coates",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Toivonen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Borini",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Kaboul",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 15:00",
+    "home": "Newcastle",
+    "away": "Watford",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Janmaat",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sissoko",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Colback",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Janmaat",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ighalo",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Capoue",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deeney",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Capoue",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Abdi",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Capoue",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ighalo",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 15:00",
+    "home": "Stoke",
+    "away": "Leicester",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Walters",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Bojan",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Butland",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bojan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Butland",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bojan",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schlupp",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kanté",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mahrez",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 15:00",
+    "home": "Swansea",
+    "away": "Everton",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Cork",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Williams",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fernández",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Browning",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Barry",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Mirallas",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Stones",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "19 Sep 17:30",
+    "home": "Man City",
+    "away": "West Ham",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Agüero",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kolarov",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sagna",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "De Bruyne",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Moses",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sakho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Obiang",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Obiang",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "8"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sakho",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "20 Sep 13:30",
+    "home": "Spurs",
+    "away": "Crystal Palace",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Son",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Eriksen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Walker",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vertonghen",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Son",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Kelly",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bolasie",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "McCarthy",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "20 Sep 16:00",
+    "home": "Liverpool",
+    "away": "Norwich",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ings",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Moreno",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Moreno",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ings",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Martin",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dorrans",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tettey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ruddy",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Martin",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "20 Sep 16:00",
+    "home": "Southampton",
+    "away": "Man Utd",
+    "score": "2 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Pellè",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Mané",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fonte",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "van Dijk",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pellè",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Martial",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Depay",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Martial",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 12:45",
+    "home": "Spurs",
+    "away": "Man City",
+    "score": "4 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Alderweireld",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Kane",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Eriksen",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "N&#39;Jie",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Eriksen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Alli",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kane",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "7"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Alderweireld",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lamela",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kane",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Yaya Touré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Demichelis",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Caballero",
+        "count": "4"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "Leicester",
+    "away": "Arsenal",
+    "score": "2 - 5",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ulloa",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Drinkwater",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "6"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sánchez",
+        "count": "3"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Walcott",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Bellerín",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Monreal",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cazorla",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Arteta",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Monreal",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sánchez",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cazorla",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "Liverpool",
+    "away": "Aston Villa",
+    "score": "3 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sturridge",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Coutinho",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Coutinho",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sturridge",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Gestede",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Hutton",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Amavi",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "9"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gestede",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "Man Utd",
+    "away": "Sunderland",
+    "score": "3 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Depay",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Rooney",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Young",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Martial",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Smalling",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mata",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rooney",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Jones",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cattermole",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "4"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "Southampton",
+    "away": "Swansea",
+    "score": "3 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "van Dijk",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Tadic",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ward-Prowse",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Pellè",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fonte",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Wanyama",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Oriol Romeu",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "van Dijk",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ward-Prowse",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Tadic",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sigurdsson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Taylor",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Shelvey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sigurdsson",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "Stoke",
+    "away": "Bournemouth",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Walters",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Diouf",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Whelan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Walters",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Diouf",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Gosling",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Pugh",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gosling",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 15:00",
+    "home": "West Ham",
+    "away": "Norwich",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Kouyaté",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Sakho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Carroll",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kouyaté",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Payet",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Redmond",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Brady",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hoolahan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Brady",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "26 Sep 17:30",
+    "home": "Newcastle",
+    "away": "Chelsea",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Wijnaldum",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Ayoze",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Anita",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ayoze",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Colback",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wijnaldum",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayoze",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Willian",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Ramires",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hazard",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ivanovic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pedro",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Willian",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "27 Sep 16:00",
+    "home": "Watford",
+    "away": "Crystal Palace",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Cathcart",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Prödl",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Abdi",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jurado",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Zaha",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Hennessey",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Puncheon",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Zaha",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dann",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Hangeland",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cabaye",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "28 Sep 20:00",
+    "home": "West Brom",
+    "away": "Everton",
+    "score": "2 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dawson",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Berahino",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Morrison",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Berahino",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lukaku",
+        "count": "2"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Koné",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deulofeu",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McCarthy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Naismith",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Koné",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Deulofeu",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lukaku",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 12:45",
+    "home": "Spurs",
+    "away": "Liverpool",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rose",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vertonghen",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Lucas",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Skrtel",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "Chelsea",
+    "away": "Aston Villa",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Willian",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Willian",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Terry",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Willian",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Costa",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Own goals",
+        "name": "Hutton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Richardson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Grealish",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "Crystal Palace",
+    "away": "West Ham",
+    "score": "1 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Gayle",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jedinak",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Gayle",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cabaye",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Jenkinson",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Moses",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Jelavic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tomkins",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jelavic",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lanzini",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "Everton",
+    "away": "Man Utd",
+    "score": "0 - 3",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Coleman",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Herrera",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Schneiderlin",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Rooney",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Smalling",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Rojo",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Herrera",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rojo",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schweinsteiger",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Smalling",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Herrera",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Schneiderlin",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "Man City",
+    "away": "Bournemouth",
+    "score": "5 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sterling",
+        "count": "3"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Bony",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Navas",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Bony",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Sagna",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Otamendi",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sterling",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Navas",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bony",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Murray",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "O&#39;Kane",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Federici",
+        "count": "6"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "Southampton",
+    "away": "Leicester",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Fonte",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "van Dijk",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Tadic",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bertrand",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Wanyama",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Davis K",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fonte",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "van Dijk",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Dyer",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 15:00",
+    "home": "West Brom",
+    "away": "Sunderland",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Berahino",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dawson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Yacob",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Myhill",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "McAuley",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Berahino",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Pantilimon",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Borini",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "17 Oct 17:30",
+    "home": "Watford",
+    "away": "Arsenal",
+    "score": "0 - 3",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Gomes",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Nyom",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sánchez",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Ramsey",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Bellerín",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mertesacker",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koscielny",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bellerín",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sánchez",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Özil",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "18 Oct 16:00",
+    "home": "Newcastle",
+    "away": "Norwich",
+    "score": "6 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Wijnaldum",
+        "count": "4"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Ayoze",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Mitrovic",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Janmaat",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Sissoko",
+        "count": "3"
+      },
+      {
+        "type": "Assists",
+        "name": "Ayoze",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Tioté",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Elliot",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sissoko",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wijnaldum",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayoze",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Redmond",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Mbokani",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Olsson",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dorrans",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "19 Oct 20:00",
+    "home": "Swansea",
+    "away": "Stoke",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Williams",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Shelvey",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Bojan",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pieters",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Shaqiri",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cameron",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Wollscheid",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bojan",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 15:00",
+    "home": "Aston Villa",
+    "away": "Swansea",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Agbonlahor",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Richardson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Richards",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayew",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sigurdsson",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Naughton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Naughton",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Williams",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Sigurdsson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sigurdsson",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayew",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 15:00",
+    "home": "Leicester",
+    "away": "Crystal Palace",
+    "score": "1 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mahrez",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schlupp",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Simpson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fuchs",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Simpson",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Huth",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Zaha",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 15:00",
+    "home": "Norwich",
+    "away": "West Brom",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Howson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Rondón",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "McClean",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Brunt",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McClean",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Myhill",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "McAuley",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Rondón",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 15:00",
+    "home": "Stoke",
+    "away": "Watford",
+    "score": "0 - 2",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Pieters",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Adam",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Whelan",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Abdi",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Deeney",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ighalo",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ighalo",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Aké",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Nyom",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Abdi",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 15:00",
+    "home": "West Ham",
+    "away": "Chelsea",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Carroll",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Zárate",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cresswell",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Kouyaté",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Carroll",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Zárate",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Cahill",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Zouma",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Azpilicueta",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fàbregas",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Willian",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mikel",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Costa",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Matic",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Zouma",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "24 Oct 17:30",
+    "home": "Arsenal",
+    "away": "Everton",
+    "score": "2 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Koscielny",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cazorla",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coquelin",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Giroud",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Koscielny",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cazorla",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Giroud",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Deulofeu",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Barry",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "25 Oct 12:00",
+    "home": "Sunderland",
+    "away": "Newcastle",
+    "score": "3 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Jones",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Fletcher",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Kaboul",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "M&#39;Vila",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Fletcher",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "8"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pantilimon",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Jones",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fletcher",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Tioté",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Colback",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Coloccini",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "25 Oct 14:05",
+    "home": "Bournemouth",
+    "away": "Spurs",
+    "score": "1 - 5",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Daniels",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ritchie",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Dembélé",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Lamela",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Kane",
+        "count": "3"
+      },
+      {
+        "type": "Assists",
+        "name": "Alderweireld",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Rose",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Eriksen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rose",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dembélé",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kane",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "25 Oct 14:05",
+    "home": "Man Utd",
+    "away": "Man City",
+    "score": "0 - 0",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Mata",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Schneiderlin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Jones",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Valencia",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Kompany",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kompany",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Otamendi",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "25 Oct 16:15",
+    "home": "Liverpool",
+    "away": "Southampton",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Benteke",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lucas",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Milner",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Benteke",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ramírez",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cédric",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 12:45",
+    "home": "Crystal Palace",
+    "away": "West Brom",
+    "score": "2 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Bolasie",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Zaha",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Cabaye",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Souaré",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Zaha",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Campbell",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hennessey",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Dann",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bolasie",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Cabaye",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Chester",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Yacob",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McClean",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Myhill",
+        "count": "6"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 15:00",
+    "home": "Aston Villa",
+    "away": "Stoke",
+    "score": "0 - 1",
+    "homeEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Westwood",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Guzan",
+        "count": "4"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Arnautovic",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Johnson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Butland",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pieters",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Johnson",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Arnautovic",
+        "count": "1"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 15:00",
+    "home": "Bournemouth",
+    "away": "Watford",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Murray",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Ritchie",
+        "count": "1"
+      },
+      {
+        "type": "Penalties missed",
+        "name": "Murray",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Murray",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Boruc",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ritchie",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ighalo",
+        "count": "1"
+      },
+      {
+        "type": "Penalties saved",
+        "name": "Gomes",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Gomes",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Gomes",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Gomes",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ighalo",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 15:00",
+    "home": "Man City",
+    "away": "Newcastle",
+    "score": "6 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "De Bruyne",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Agüero",
+        "count": "5"
+      },
+      {
+        "type": "Assists",
+        "name": "Silva",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Navas",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "De Bruyne",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Zabaleta",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mangala",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Hart",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fernandinho",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "De Bruyne",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Agüero",
+        "count": "3"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mitrovic",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Wijnaldum",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Anita",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Krul",
+        "count": "5"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 15:00",
+    "home": "Norwich",
+    "away": "Leicester",
+    "score": "1 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Mbokani",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Howson",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Ruddy",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Howson",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Brady",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mbokani",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Schlupp",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Vardy",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Kanté",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Huth",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Schmeichel",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Kanté",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Vardy",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 15:00",
+    "home": "Sunderland",
+    "away": "West Ham",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Fletcher",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "M&#39;Vila",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coates",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cattermole",
+        "count": "1"
+      },
+      {
+        "type": "Red cards",
+        "name": "Lens",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Pantilimon",
+        "count": "4"
+      },
+      {
+        "type": "Bonus",
+        "name": "M&#39;Vila",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Fletcher",
+        "count": "1"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Jenkinson",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Payet",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Moses",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Lanzini",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Jenkinson",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Reid",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Cresswell",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Noble",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Adrián",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Payet",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "03 Oct 17:30",
+    "home": "Chelsea",
+    "away": "Southampton",
+    "score": "1 - 3",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Willian",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Hazard",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ramires",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Falcao",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Begovic",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Davis",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Pellè",
+        "count": "2"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Bertrand",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Ward-Prowse",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Mané",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Oriol Romeu",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Pellè",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Stekelenburg",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Davis",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Mané",
+        "count": "2"
+      },
+      {
+        "type": "Bonus",
+        "name": "Pellè",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "04 Oct 13:30",
+    "home": "Everton",
+    "away": "Liverpool",
+    "score": "1 - 1",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Barkley",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "McCarthy",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lukaku",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Howard",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Lukaku",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ings",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Sakho",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Lucas",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Can",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Mignolet",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Milner",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ings",
+        "count": "3"
+      }
+    ]
+  },
+  {
+    "date": "04 Oct 16:00",
+    "home": "Arsenal",
+    "away": "Man Utd",
+    "score": "3 - 0",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Sánchez",
+        "count": "2"
+      },
+      {
+        "type": "Goals scored",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Walcott",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Özil",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Coquelin",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Cech",
+        "count": "5"
+      },
+      {
+        "type": "Bonus",
+        "name": "Bellerín",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Sánchez",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Özil",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Yellow cards",
+        "name": "Darmian",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Young",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Rooney",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "de Gea",
+        "count": "2"
+      }
+    ]
+  },
+  {
+    "date": "04 Oct 16:00",
+    "home": "Swansea",
+    "away": "Spurs",
+    "score": "2 - 2",
+    "homeEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Ayew",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Shelvey",
+        "count": "1"
+      },
+      {
+        "type": "Assists",
+        "name": "Montero",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Fernández",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Fabianski",
+        "count": "9"
+      },
+      {
+        "type": "Bonus",
+        "name": "Ayew",
+        "count": "2"
+      }
+    ],
+    "awayEvents": [
+      {
+        "type": "Goals scored",
+        "name": "Eriksen",
+        "count": "2"
+      },
+      {
+        "type": "Assists",
+        "name": "Alli",
+        "count": "2"
+      },
+      {
+        "type": "Own goals",
+        "name": "Kane",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Walker",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Vertonghen",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Davies",
+        "count": "1"
+      },
+      {
+        "type": "Yellow cards",
+        "name": "Dier",
+        "count": "1"
+      },
+      {
+        "type": "Saves",
+        "name": "Lloris",
+        "count": "1"
+      },
+      {
+        "type": "Bonus",
+        "name": "Eriksen",
+        "count": "3"
+      },
+      {
+        "type": "Bonus",
+        "name": "Alli",
+        "count": "1"
+      }
+    ]
+  }
+]

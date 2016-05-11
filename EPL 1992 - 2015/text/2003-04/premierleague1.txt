@@ -1,0 +1,818 @@
+############################
+# Premier League 2003-2004
+
+Matchday 1
+
+[1903-08-09]
+	15.00		Bradford	2-2	Norwich
+	15.00		Burnley	2-3	Crystal Palace
+	15.00		Derby	0-3	Stoke
+	15.00		Ipswich	1-1	Reading
+	15.00		Millwall	2-0	Wigan
+	15.00		Nott'm Forest	2-0	Sunderland
+	15.00		Preston	1-2	West Ham
+	15.00		Rotherham	0-0	Cardiff
+	15.00		Sheffield United	0-0	Gillingham
+	15.00		Walsall	4-1	West Brom
+	15.00		Wimbledon	3-1	Crewe
+[1903-08-16]
+	15.00		Cardiff	0-2	Bradford
+
+Matchday 2
+
+[1903-08-16]
+	15.00		Coventry	0-0	Walsall
+	15.00		Crewe	1-0	Ipswich
+	15.00		Crystal Palace	1-0	Watford
+	15.00		Gillingham	0-0	Derby
+	15.00		Norwich	2-0	Rotherham
+	15.00		Reading	3-0	Nott'm Forest
+	15.00		Stoke	2-1	Wimbledon
+	15.00		Sunderland	0-1	Millwall
+	15.00		West Brom	4-1	Burnley
+	15.00		West Ham	0-0	Sheffield United
+	15.00		Wigan	1-1	Preston
+[1903-08-23]
+	15.00		Bradford	0-1	Gillingham
+
+Matchday 3
+
+[1903-08-23]
+	15.00		Burnley	0-2	Wigan
+	15.00		Derby	2-3	Reading
+	15.00		Ipswich	1-1	Coventry
+	15.00		Millwall	1-1	Crewe
+	15.00		Nott'm Forest	1-2	Cardiff
+	15.00		Preston	0-2	Sunderland
+	15.00		Rotherham	1-0	West Ham
+	15.00		Sheffield United	1-0	Norwich
+	15.00		Walsall	1-1	Stoke
+	15.00		Watford	0-1	West Brom
+	15.00		Wimbledon	1-3	Crystal Palace
+[1903-08-25]
+	15.00		Cardiff	4-1	Derby
+
+Matchday 4
+
+[1903-08-25]
+	15.00		Crewe	1-0	Walsall
+	15.00		Gillingham	0-3	Burnley
+	15.00		Reading	0-0	Rotherham
+	15.00		Sunderland	2-0	Watford
+	15.00		West Brom	1-0	Preston
+[1903-08-26]
+	15.00		Crystal Palace	1-2	Sheffield United
+	15.00		Norwich	3-2	Wimbledon
+	15.00		Stoke	0-0	Millwall
+	15.00		West Ham	1-0	Bradford
+	15.00		Wigan	1-0	Ipswich
+[1903-08-27]
+	15.00		Coventry	1-3	Nott'm Forest
+[1903-08-30]
+	15.00		Bradford	0-4	Sunderland
+
+Matchday 5
+
+[1903-08-30]
+	15.00		Burnley	1-0	Crewe
+	15.00		Derby	0-1	West Brom
+	15.00		Ipswich	1-2	West Ham
+	15.00		Millwall	1-1	Crystal Palace
+	15.00		Nott'm Forest	2-0	Norwich
+	15.00		Preston	1-0	Stoke
+	15.00		Rotherham	0-3	Wigan
+	15.00		Sheffield United	2-1	Coventry
+	15.00		Walsall	1-1	Cardiff
+	15.00		Watford	2-2	Gillingham
+	15.00		Wimbledon	0-3	Reading
+[1903-09-06]
+	15.00		Gillingham	4-3	Millwall
+
+Matchday 6
+
+[1903-09-06]
+	15.00		Stoke	1-2	Burnley
+[1903-09-13]
+	15.00		Bradford	2-1	Preston
+	15.00		Cardiff	5-0	Gillingham
+	15.00		Coventry	4-2	Stoke
+	15.00		Norwich	2-0	Burnley
+	15.00		Nott'm Forest	3-1	Sheffield United
+	15.00		Rotherham	0-2	Crewe
+	15.00		Sunderland	2-1	Crystal Palace
+	15.00		Walsall	0-1	Derby
+	15.00		Watford	3-1	Millwall
+	15.00		West Brom	4-1	Ipswich
+	15.00		West Ham	1-0	Reading
+
+Matchday 7
+
+[1903-09-13]
+	15.00		Wimbledon	2-4	Wigan
+[1903-09-16]
+	15.00		Burnley	0-3	Nott'm Forest
+	15.00		Crewe	0-3	West Ham
+	15.00		Crystal Palace	0-1	Bradford
+	15.00		Gillingham	1-2	Norwich
+	15.00		Ipswich	2-1	Walsall
+	15.00		Millwall	2-0	Wimbledon
+	15.00		Preston	4-2	Coventry
+	15.00		Reading	2-1	Cardiff
+	15.00		Sheffield United	5-0	Rotherham
+	15.00		Stoke	3-1	Sunderland
+	15.00		Wigan	1-0	West Brom
+
+Matchday 8
+
+[1903-09-17]
+	15.00		Derby	3-2	Watford
+[1903-09-20]
+	15.00		Burnley	4-0	Bradford
+	15.00		Crewe	3-1	Nott'm Forest
+	15.00		Crystal Palace	2-2	West Brom
+	15.00		Derby	1-1	Sunderland
+	15.00		Gillingham	2-0	West Ham
+	15.00		Ipswich	4-1	Wimbledon
+	15.00		Millwall	2-1	Walsall
+	15.00		Preston	4-1	Rotherham
+	15.00		Reading	1-2	Coventry
+	15.00		Sheffield United	5-3	Cardiff
+	15.00		Stoke	1-1	Norwich
+
+Matchday 9
+
+[1903-09-20]
+	15.00		Wigan	1-0	Watford
+[1903-09-27]
+	15.00		Bradford	1-2	Sheffield United
+	15.00		Cardiff	3-0	Crewe
+	15.00		Coventry	1-1	Wigan
+	15.00		Norwich	2-1	Crystal Palace
+	15.00		Nott'm Forest	1-1	Derby
+	15.00		Rotherham	1-1	Gillingham
+	15.00		Sunderland	2-0	Reading
+	15.00		Walsall	2-1	Preston
+	15.00		Watford	1-2	Ipswich
+	15.00		West Brom	1-0	Stoke
+	15.00		Wimbledon	2-2	Burnley
+
+Matchday 10
+
+[1903-09-28]
+	15.00		West Ham	1-1	Millwall
+[1903-09-29]
+	15.00		Walsall	2-1	Gillingham
+[1903-09-30]
+	15.00		Bradford	1-2	Derby
+	15.00		Cardiff	0-0	Wigan
+	15.00		Norwich	2-1	Reading
+	15.00		Rotherham	3-0	Stoke
+	15.00		Sunderland	3-2	Ipswich
+	15.00		Watford	1-1	Burnley
+	15.00		West Brom	2-1	Millwall
+	15.00		Wimbledon	1-2	Sheffield United
+[1903-10-01]
+	15.00		Coventry	2-0	Crewe
+	15.00		Nott'm Forest	0-1	Preston
+
+Matchday 11
+
+[1903-10-01]
+	15.00		West Ham	3-0	Crystal Palace
+[1903-10-04]
+	15.00		Burnley	3-1	Walsall
+	15.00		Crewe	0-1	Watford
+	15.00		Crystal Palace	2-1	Cardiff
+	15.00		Derby	0-1	West Ham
+	15.00		Gillingham	0-2	West Brom
+	15.00		Ipswich	2-1	Rotherham
+	15.00		Millwall	2-1	Coventry
+	15.00		Preston	1-0	Wimbledon
+	15.00		Reading	2-2	Bradford
+	15.00		Sheffield United	0-1	Sunderland
+	15.00		Stoke	2-1	Nott'm Forest
+
+Matchday 12
+
+[1903-10-04]
+	15.00		Wigan	1-1	Norwich
+[1903-10-11]
+	15.00		Bradford	0-1	Ipswich
+	15.00		Derby	2-2	Wigan
+	15.00		Rotherham	0-0	Millwall
+[1903-10-14]
+	15.00		Crewe	2-2	Bradford
+	15.00		Crystal Palace	1-1	Derby
+	15.00		Ipswich	6-1	Burnley
+	15.00		Millwall	0-1	Preston
+	15.00		Nott'm Forest	2-2	Rotherham
+	15.00		Reading	2-1	Gillingham
+	15.00		Sunderland	0-0	Cardiff
+	15.00		Watford	1-1	Walsall
+
+Matchday 13
+
+[1903-10-14]
+	15.00		West Brom	0-2	Sheffield United
+	15.00		Wigan	2-1	Stoke
+[1903-10-15]
+	15.00		Coventry	1-0	Wimbledon
+	15.00		West Ham	1-1	Norwich
+[1903-10-18]
+	15.00		Coventry	1-3	Cardiff
+	15.00		Crewe	3-0	Derby
+	15.00		Crystal Palace	1-1	Rotherham
+	15.00		Ipswich	1-0	Stoke
+	15.00		Millwall	2-0	Sheffield United
+	15.00		Nott'm Forest	6-0	Wimbledon
+	15.00		Reading	3-2	Preston
+	15.00		Sunderland	1-0	Walsall
+
+Matchday 14
+
+[1903-10-18]
+	15.00		Watford	1-0	Bradford
+	15.00		West Brom	1-0	Norwich
+	15.00		West Ham	2-2	Burnley
+	15.00		Wigan	1-0	Gillingham
+[1903-10-21]
+	15.00		Crewe	2-1	Preston
+	15.00		Crystal Palace	3-4	Ipswich
+	15.00		Norwich	2-1	Derby
+	15.00		Reading	0-1	Walsall
+	15.00		Sunderland	0-0	Rotherham
+	15.00		Watford	1-1	Coventry
+	15.00		West Brom	0-1	Wimbledon
+	15.00		Wigan	1-1	Sheffield United
+
+Matchday 15
+
+[1903-10-22]
+	15.00		West Ham	1-1	Nott'm Forest
+[1903-10-24]
+	15.00		Sheffield United	1-2	Reading
+[1903-10-25]
+	15.00		Bradford	1-2	Nott'm Forest
+	15.00		Burnley	1-1	Millwall
+	15.00		Cardiff	0-0	West Ham
+	15.00		Derby	1-3	Coventry
+	15.00		Gillingham	1-0	Crystal Palace
+	15.00		Norwich	1-0	Sunderland
+	15.00		Preston	1-1	Ipswich
+	15.00		Rotherham	0-3	West Brom
+	15.00		Stoke	1-1	Crewe
+	15.00		Walsall	2-0	Wigan
+
+Matchday 16
+
+[1903-10-25]
+	15.00		Wimbledon	1-3	Watford
+[1903-10-28]
+	15.00		Cardiff	3-0	Watford
+[1903-11-01]
+	15.00		Burnley	1-1	Cardiff
+	15.00		Coventry	1-1	West Ham
+	15.00		Crewe	1-0	Reading
+	15.00		Ipswich	3-4	Gillingham
+	15.00		Millwall	1-0	Nott'm Forest
+	15.00		Preston	3-0	Derby
+	15.00		Stoke	2-2	Sheffield United
+	15.00		Walsall	1-3	Norwich
+	15.00		Watford	1-0	Rotherham
+	15.00		West Brom	0-0	Sunderland
+
+Matchday 17
+
+[1903-11-01]
+	15.00		Wigan	5-0	Crystal Palace
+	15.00		Wimbledon	2-1	Bradford
+[1903-11-04]
+	15.00		Gillingham	1-3	Sunderland
+	15.00		Preston	2-1	Watford
+	15.00		Sheffield United	2-0	Crewe
+	15.00		Walsall	4-1	Nott'm Forest
+[1903-11-05]
+	15.00		Coventry	0-0	Bradford
+[1903-11-08]
+	15.00		Bradford	1-1	Walsall
+	15.00		Cardiff	3-1	Stoke
+	15.00		Crystal Palace	1-1	Preston
+	15.00		Derby	2-2	Ipswich
+	15.00		Gillingham	2-0	Crewe
+
+Matchday 18
+
+[1903-11-08]
+	15.00		Norwich	3-1	Millwall
+	15.00		Nott'm Forest	1-1	Watford
+	15.00		Reading	1-0	Wigan
+	15.00		Rotherham	3-1	Wimbledon
+	15.00		Sheffield United	1-0	Burnley
+	15.00		Sunderland	0-0	Coventry
+	15.00		West Ham	3-4	West Brom
+[1903-11-15]
+	15.00		Derby	2-0	Burnley
+	15.00		Gillingham	1-2	Wimbledon
+	15.00		Norwich	1-2	Watford
+	15.00		Reading	1-0	Millwall
+[1903-11-22]
+	15.00		Burnley	1-1	Rotherham
+
+Matchday 19
+
+[1903-11-22]
+	15.00		Coventry	2-2	Gillingham
+	15.00		Crewe	3-0	Sunderland
+	15.00		Ipswich	3-0	Sheffield United
+	15.00		Millwall	0-0	Derby
+	15.00		Preston	0-0	Norwich
+	15.00		Stoke	1-0	Bradford
+	15.00		Walsall	0-0	Crystal Palace
+	15.00		Watford	0-0	West Ham
+	15.00		West Brom	0-0	Reading
+	15.00		Wigan	2-2	Nott'm Forest
+	15.00		Wimbledon	0-1	Cardiff
+[1903-11-25]
+	15.00		Burnley	3-0	Reading
+
+Matchday 20
+
+[1903-11-25]
+	15.00		Cardiff	1-1	West Brom
+	15.00		Norwich	1-1	Coventry
+	15.00		Stoke	0-1	Crystal Palace
+	15.00		Wimbledon	1-1	West Ham
+[1903-11-29]
+	15.00		Bradford	3-2	Millwall
+	15.00		Cardiff	2-3	Ipswich
+	15.00		Crystal Palace	1-1	Coventry
+	15.00		Derby	3-1	Wimbledon
+	15.00		Gillingham	3-1	Stoke
+	15.00		Norwich	1-0	Crewe
+	15.00		Nott'm Forest	0-3	West Brom
+	15.00		Reading	2-1	Watford
+
+Matchday 21
+
+[1903-11-29]
+	15.00		Rotherham	2-0	Walsall
+	15.00		Sheffield United	2-0	Preston
+	15.00		Sunderland	1-1	Burnley
+	15.00		West Ham	4-0	Wigan
+[1903-12-02]
+	15.00		Rotherham	2-0	Coventry
+	15.00		Sunderland	1-1	Wigan
+[1903-12-03]
+	15.00		Nott'm Forest	1-1	Ipswich
+[1903-12-06]
+	15.00		Burnley	3-2	Sheffield United
+	15.00		Crewe	1-1	Gillingham
+	15.00		Ipswich	2-1	Derby
+	15.00		Millwall	0-0	Norwich
+	15.00		Preston	4-1	Crystal Palace
+
+Matchday 22
+
+[1903-12-06]
+	15.00		Stoke	2-3	Cardiff
+	15.00		Walsall	1-0	Bradford
+	15.00		Watford	1-1	Nott'm Forest
+	15.00		West Brom	1-1	West Ham
+	15.00		Wigan	0-2	Reading
+	15.00		Wimbledon	1-2	Rotherham
+[1903-12-08]
+	15.00		Coventry	1-1	Sunderland
+[1903-12-09]
+	15.00		Bradford	0-1	West Brom
+	15.00		Cardiff	2-2	Preston
+	15.00		Crystal Palace	1-3	Crewe
+	15.00		Sheffield United	2-0	Walsall
+	15.00		West Ham	0-1	Stoke
+
+Matchday 23
+
+[1903-12-13]
+	15.00		Burnley	1-2	Coventry
+	15.00		Crystal Palace	1-0	Nott'm Forest
+	15.00		Gillingham	0-1	Preston
+	15.00		Millwall	0-0	Ipswich
+	15.00		Norwich	4-1	Cardiff
+	15.00		Rotherham	0-0	Derby
+	15.00		Sheffield United	2-2	Watford
+	15.00		Stoke	3-0	Reading
+	15.00		West Brom	2-2	Crewe
+	15.00		West Ham	3-2	Sunderland
+	15.00		Wigan	1-0	Bradford
+	15.00		Wimbledon	0-1	Walsall
+
+Matchday 24
+
+[1903-12-20]
+	15.00		Bradford	0-2	Rotherham
+	15.00		Cardiff	1-3	Millwall
+	15.00		Coventry	1-0	West Brom
+	15.00		Crewe	2-3	Wigan
+	15.00		Preston	5-3	Burnley
+	15.00		Reading	0-3	Crystal Palace
+	15.00		Sunderland	2-1	Wimbledon
+	15.00		Walsall	1-1	West Ham
+	15.00		Watford	1-3	Stoke
+[1903-12-21]
+	15.00		Ipswich	0-2	Norwich
+[1903-12-26]
+	15.00		Cardiff	0-1	Walsall
+	15.00		Coventry	0-1	Sheffield United
+
+Matchday 25
+
+[1903-12-26]
+	15.00		Crewe	3-1	Burnley
+	15.00		Crystal Palace	0-1	Millwall
+	15.00		Gillingham	1-0	Watford
+	15.00		Norwich	1-0	Nott'm Forest
+	15.00		Reading	0-3	Wimbledon
+	15.00		Stoke	1-1	Preston
+	15.00		Sunderland	3-0	Bradford
+	15.00		West Brom	1-1	Derby
+	15.00		West Ham	1-2	Ipswich
+	15.00		Wigan	1-2	Rotherham
+[1903-12-28]
+	15.00		Bradford	1-0	Coventry
+	15.00		Burnley	0-1	Stoke
+
+Matchday 26
+
+[1903-12-28]
+	15.00		Derby	0-4	Norwich
+	15.00		Ipswich	1-3	Crystal Palace
+	15.00		Millwall	1-2	Gillingham
+	15.00		Nott'm Forest	0-2	West Ham
+	15.00		Preston	0-0	Crewe
+	15.00		Rotherham	0-2	Sunderland
+	15.00		Sheffield United	1-1	Wigan
+	15.00		Walsall	1-1	Reading
+	15.00		Watford	2-1	Cardiff
+[1903-12-30]
+	15.00		Wimbledon	0-0	West Brom
+[1904-01-09]
+	15.00		West Brom	2-0	Walsall
+[1904-01-10]
+	15.00		Cardiff	3-2	Rotherham
+
+Matchday 27
+
+[1904-01-10]
+	15.00		Coventry	0-0	Watford
+	15.00		Crewe	1-0	Wimbledon
+	15.00		Crystal Palace	0-0	Burnley
+	15.00		Gillingham	0-3	Sheffield United
+	15.00		Norwich	0-1	Bradford
+	15.00		Reading	1-1	Ipswich
+	15.00		Stoke	2-1	Derby
+	15.00		Sunderland	1-0	Nott'm Forest
+	15.00		West Ham	1-2	Preston
+	15.00		Wigan	0-0	Millwall
+[1904-01-17]
+	15.00		Bradford	0-1	Cardiff
+	15.00		Burnley	1-1	West Brom
+
+Matchday 28
+
+[1904-01-17]
+	15.00		Derby	2-1	Gillingham
+	15.00		Ipswich	6-4	Crewe
+	15.00		Millwall	2-1	Sunderland
+	15.00		Nott'm Forest	0-1	Reading
+	15.00		Preston	2-4	Wigan
+	15.00		Rotherham	4-4	Norwich
+	15.00		Sheffield United	3-3	West Ham
+	15.00		Walsall	1-6	Coventry
+	15.00		Watford	1-5	Crystal Palace
+	15.00		Wimbledon	0-1	Stoke
+[1904-01-24]
+	15.00		Bradford	1-2	Crystal Palace
+[1904-01-28]
+	15.00		Derby	2-0	Sheffield United
+
+Matchday 29
+
+[1904-01-31]
+	15.00		Cardiff	0-0	Nott'm Forest
+	15.00		Coventry	1-1	Ipswich
+	15.00		Crewe	1-2	Millwall
+	15.00		Crystal Palace	3-1	Wimbledon
+	15.00		Gillingham	1-0	Bradford
+	15.00		Norwich	1-0	Sheffield United
+	15.00		Reading	3-1	Derby
+	15.00		Stoke	3-2	Walsall
+	15.00		West Brom	3-1	Watford
+	15.00		West Ham	2-1	Rotherham
+	15.00		Wigan	0-0	Burnley
+[1904-02-07]
+	15.00		Bradford	1-2	West Ham
+
+Matchday 30
+
+[1904-02-07]
+	15.00		Burnley	1-0	Gillingham
+	15.00		Derby	2-2	Cardiff
+	15.00		Ipswich	1-3	Wigan
+	15.00		Millwall	1-1	Stoke
+	15.00		Nott'm Forest	0-1	Coventry
+	15.00		Preston	3-0	West Brom
+	15.00		Rotherham	5-1	Reading
+	15.00		Sheffield United	0-3	Crystal Palace
+	15.00		Walsall	1-1	Crewe
+	15.00		Watford	2-2	Sunderland
+	15.00		Wimbledon	0-1	Norwich
+[1904-02-14]
+	15.00		Coventry	0-2	Norwich
+
+Matchday 31
+
+[1904-02-14]
+	15.00		Crystal Palace	6-3	Stoke
+	15.00		Ipswich	3-1	Bradford
+	15.00		Nott'm Forest	3-3	Walsall
+	15.00		Watford	2-0	Preston
+	15.00		West Brom	2-1	Cardiff
+	15.00		Wigan	2-0	Derby
+[1904-02-21]
+	15.00		Bradford	2-1	Crewe
+	15.00		Burnley	4-2	Ipswich
+	15.00		Cardiff	4-0	Sunderland
+	15.00		Derby	2-1	Crystal Palace
+	15.00		Gillingham	0-1	Reading
+	15.00		Norwich	1-1	West Ham
+
+Matchday 32
+
+[1904-02-21]
+	15.00		Preston	1-2	Millwall
+	15.00		Rotherham	1-1	Nott'm Forest
+	15.00		Sheffield United	1-2	West Brom
+	15.00		Stoke	1-1	Wigan
+	15.00		Walsall	0-1	Watford
+	15.00		Wimbledon	0-3	Coventry
+[1904-02-24]
+	15.00		Crewe	0-1	Sheffield United
+	15.00		Millwall	2-1	Rotherham
+	15.00		Reading	2-2	Burnley
+[1904-02-25]
+	15.00		Nott'm Forest	0-0	Gillingham
+[1904-02-28]
+	15.00		Coventry	2-0	Derby
+	15.00		Crystal Palace	1-0	Gillingham
+
+Matchday 33
+
+[1904-02-28]
+	15.00		Ipswich	2-0	Preston
+	15.00		Millwall	2-0	Burnley
+	15.00		Nott'm Forest	2-1	Bradford
+	15.00		Reading	2-1	Sheffield United
+	15.00		Watford	4-0	Wimbledon
+	15.00		West Brom	0-1	Rotherham
+	15.00		West Ham	1-0	Cardiff
+	15.00		Wigan	1-0	Walsall
+[1904-03-02]
+	15.00		Burnley	1-1	West Ham
+	15.00		Cardiff	0-1	Coventry
+	15.00		Norwich	0-0	West Brom
+	15.00		Preston	2-1	Reading
+
+Matchday 34
+
+[1904-03-02]
+	15.00		Sheffield United	2-1	Millwall
+	15.00		Stoke	2-0	Ipswich
+	15.00		Wimbledon	0-1	Nott'm Forest
+[1904-03-03]
+	15.00		Derby	0-0	Crewe
+	15.00		Walsall	1-3	Sunderland
+[1904-03-06]
+	15.00		Burnley	1-1	Preston
+	15.00		Crystal Palace	2-2	Reading
+	15.00		Gillingham	2-1	Nott'm Forest
+	15.00		Rotherham	1-2	Bradford
+	15.00		Stoke	3-1	Watford
+	15.00		West Brom	3-0	Coventry
+	15.00		West Ham	0-0	Walsall
+
+Matchday 35
+
+[1904-03-06]
+	15.00		Wigan	2-3	Crewe
+[1904-03-07]
+	15.00		Norwich	3-1	Ipswich
+[1904-03-09]
+	15.00		Bradford	2-0	Watford
+	15.00		West Ham	5-0	Wimbledon
+[1904-03-10]
+	15.00		Sunderland	3-3	Preston
+[1904-03-13]
+	15.00		Bradford	0-0	Wigan
+	15.00		Cardiff	2-1	Norwich
+	15.00		Coventry	4-0	Burnley
+	15.00		Crewe	1-2	West Brom
+	15.00		Derby	1-0	Rotherham
+	15.00		Ipswich	1-3	Millwall
+	15.00		Nott'm Forest	3-2	Crystal Palace
+
+Matchday 36
+
+[1904-03-13]
+	15.00		Preston	0-0	Gillingham
+	15.00		Reading	0-0	Stoke
+	15.00		Sunderland	2-0	West Ham
+	15.00		Walsall	1-0	Wimbledon
+	15.00		Watford	0-2	Sheffield United
+[1904-03-16]
+	15.00		Cardiff	2-3	Reading
+	15.00		Norwich	3-0	Gillingham
+	15.00		Rotherham	1-1	Sheffield United
+	15.00		Sunderland	1-1	Stoke
+	15.00		Walsall	1-3	Ipswich
+	15.00		Watford	2-1	Derby
+	15.00		West Brom	2-1	Wigan
+
+Matchday 37
+
+[1904-03-17]
+	15.00		Coventry	4-1	Preston
+	15.00		Nott'm Forest	1-1	Burnley
+	15.00		West Ham	4-2	Crewe
+[1904-03-20]
+	15.00		Crewe	0-1	Cardiff
+	15.00		Crystal Palace	1-0	Norwich
+	15.00		Derby	4-2	Nott'm Forest
+	15.00		Gillingham	2-0	Rotherham
+	15.00		Ipswich	4-1	Watford
+	15.00		Preston	1-2	Walsall
+	15.00		Reading	0-2	Sunderland
+	15.00		Sheffield United	2-0	Bradford
+	15.00		Wigan	2-1	Coventry
+
+Matchday 38
+
+[1904-03-21]
+	15.00		Millwall	4-1	West Ham
+[1904-03-23]
+	15.00		Crewe	2-0	Stoke
+	15.00		Sheffield United	1-1	Derby
+	15.00		Sunderland	2-1	Gillingham
+[1904-03-24]
+	15.00		Wimbledon	0-1	Millwall
+[1904-03-27]
+	15.00		Bradford	1-2	Burnley
+	15.00		Cardiff	2-1	Sheffield United
+	15.00		Coventry	1-2	Reading
+	15.00		Norwich	1-0	Stoke
+	15.00		Nott'm Forest	2-0	Crewe
+	15.00		Rotherham	1-0	Preston
+	15.00		Sunderland	2-1	Derby
+
+Matchday 39
+
+[1904-03-27]
+	15.00		Walsall	1-1	Millwall
+	15.00		Watford	1-1	Wigan
+	15.00		West Brom	2-0	Crystal Palace
+	15.00		West Ham	2-1	Gillingham
+	15.00		Wimbledon	1-2	Ipswich
+[1904-04-03]
+	15.00		Burnley	3-5	Norwich
+	15.00		Crewe	0-0	Rotherham
+	15.00		Derby	0-1	Walsall
+	15.00		Gillingham	1-2	Cardiff
+	15.00		Preston	1-0	Bradford
+	15.00		Reading	2-0	West Ham
+	15.00		Sheffield United	1-2	Nott'm Forest
+
+Matchday 40
+
+[1904-04-03]
+	15.00		Stoke	1-0	Coventry
+	15.00		Wigan	0-1	Wimbledon
+[1904-04-04]
+	15.00		Ipswich	2-3	West Brom
+[1904-04-06]
+	15.00		Gillingham	0-3	Wigan
+	15.00		Rotherham	1-2	Crystal Palace
+	15.00		Wimbledon	1-2	Sunderland
+[1904-04-07]
+	15.00		Millwall	0-0	Cardiff
+[1904-04-09]
+	15.00		Norwich	2-0	Wigan
+	15.00		Sunderland	3-0	Sheffield United
+[1904-04-10]
+	15.00		Bradford	2-1	Reading
+	15.00		Cardiff	0-2	Crystal Palace
+	15.00		Coventry	4-0	Millwall
+
+Matchday 41
+
+[1904-04-10]
+	15.00		Nott'm Forest	0-0	Stoke
+	15.00		Rotherham	1-3	Ipswich
+	15.00		Walsall	0-1	Burnley
+	15.00		Watford	2-1	Crewe
+	15.00		West Brom	1-0	Gillingham
+	15.00		West Ham	0-0	Derby
+	15.00		Wimbledon	3-3	Preston
+[1904-04-12]
+	15.00		Burnley	2-3	Watford
+	15.00		Crewe	3-1	Coventry
+	15.00		Crystal Palace	1-0	West Ham
+	15.00		Derby	3-2	Bradford
+	15.00		Gillingham	3-0	Walsall
+
+Matchday 42
+
+[1904-04-12]
+	15.00		Ipswich	1-0	Sunderland
+	15.00		Millwall	1-1	West Brom
+	15.00		Preston	2-2	Nott'm Forest
+	15.00		Reading	0-1	Norwich
+	15.00		Sheffield United	2-1	Wimbledon
+	15.00		Stoke	0-2	Rotherham
+[1904-04-13]
+	15.00		Wigan	3-0	Cardiff
+[1904-04-17]
+	15.00		Bradford	2-3	Wimbledon
+	15.00		Cardiff	2-0	Burnley
+	15.00		Crystal Palace	1-1	Wigan
+	15.00		Derby	5-1	Preston
+	15.00		Gillingham	1-2	Ipswich
+
+Matchday 43
+
+[1904-04-17]
+	15.00		Norwich	5-0	Walsall
+	15.00		Nott'm Forest	2-2	Millwall
+	15.00		Reading	1-1	Crewe
+	15.00		Rotherham	1-1	Watford
+	15.00		Sheffield United	0-1	Stoke
+	15.00		West Ham	2-0	Coventry
+[1904-04-18]
+	15.00		Sunderland	0-1	West Brom
+[1904-04-20]
+	15.00		Burnley	2-0	Wimbledon
+	15.00		Millwall	1-2	Watford
+[1904-04-21]
+	15.00		Crystal Palace	3-0	Sunderland
+[1904-04-24]
+	15.00		Burnley	1-0	Derby
+	15.00		Coventry	1-1	Rotherham
+
+Matchday 44
+
+[1904-04-24]
+	15.00		Crewe	2-3	Crystal Palace
+	15.00		Ipswich	1-2	Nott'm Forest
+	15.00		Millwall	0-1	Reading
+	15.00		Preston	2-2	Cardiff
+	15.00		Stoke	0-2	West Ham
+	15.00		Walsall	0-1	Sheffield United
+	15.00		Watford	1-2	Norwich
+	15.00		West Brom	2-0	Bradford
+	15.00		Wigan	0-0	Sunderland
+	15.00		Wimbledon	1-2	Gillingham
+[1904-04-30]
+	15.00		Sheffield United	1-1	Ipswich
+[1904-05-01]
+	15.00		Bradford	0-2	Stoke
+
+Matchday 45
+
+[1904-05-01]
+	15.00		Cardiff	1-1	Wimbledon
+	15.00		Crystal Palace	1-0	Walsall
+	15.00		Derby	2-0	Millwall
+	15.00		Gillingham	2-5	Coventry
+	15.00		Norwich	3-2	Preston
+	15.00		Nott'm Forest	1-0	Wigan
+	15.00		Reading	1-0	West Brom
+	15.00		Rotherham	3-0	Burnley
+	15.00		Sunderland	1-1	Crewe
+	15.00		West Ham	4-0	Watford
+[1904-05-04]
+	15.00		Stoke	4-1	West Brom
+	15.00		Sunderland	1-0	Norwich
+
+Matchday 46
+
+[1904-05-09]
+	15.00		Burnley	1-2	Sunderland
+	15.00		Coventry	2-1	Crystal Palace
+	15.00		Crewe	1-3	Norwich
+	15.00		Ipswich	1-1	Cardiff
+	15.00		Millwall	1-0	Bradford
+	15.00		Preston	3-3	Sheffield United
+	15.00		Stoke	0-0	Gillingham
+	15.00		Walsall	3-2	Rotherham
+	15.00		Watford	1-0	Reading
+	15.00		West Brom	0-2	Nott'm Forest
+	15.00		Wigan	1-1	West Ham
+	15.00		Wimbledon	1-0	Derby
+
