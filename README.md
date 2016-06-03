@@ -11,6 +11,7 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 
 ## Files
 
+- [Euro 2016] - teams and rosters
 - [FA English Premier League (EPL) 1992 to 2015](EPL%201992%20-%202015)
 - Germany
  - [Bundesliga 2015-2016 Roster/Players](Germany/bundesliga-2015-2016-rosters.json)
@@ -64,3 +65,9 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - [https://github.com/alexrockt/bundesliga](https://github.com/alexrockt/bundesliga)
 - <https://github.com/anuvrat/soccerstats>
 - <http://overlays.nbcsports.com/services/midttl/pl.asmx>
+- <http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france>
+
+### Worth Investigating
+
+- https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions
+- https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions
