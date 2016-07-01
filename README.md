@@ -56,6 +56,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 
 ## Data Sources
 
+- Some Data provided by http://sportsopendata.net/ under Creative Commons License
 - Wikipedia
 - [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 - [www.football-data.co.uk](http://www.football-data.co.uk/data.php)
