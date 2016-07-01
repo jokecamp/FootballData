@@ -1,0 +1,816 @@
+[
+    {
+        "identifier": "68e8d2c8464e47ed116d39d8985038a2",
+        "position": 1,
+        "team_identifier": "c37f33b07c0ddc7148a0dba9c7f12279",
+        "team": "Cagliari",
+        "overall": {
+            "wins": 24,
+            "draws": 8,
+            "losts": 9,
+            "points": 80,
+            "scores": 76,
+            "conceded": 40,
+            "macthes_played": 41,
+            "goal_difference": 36
+        },
+        "home": {
+            "wins": 15,
+            "draws": 3,
+            "losts": 3,
+            "scores": 46,
+            "conceded": 17,
+            "points": 48,
+            "macthes_played": 21,
+            "goal_difference": 29
+        },
+        "away": {
+            "wins": 9,
+            "draws": 5,
+            "losts": 6,
+            "scores": 30,
+            "conceded": 23,
+            "points": 32,
+            "macthes_played": 20,
+            "goal_difference": 7
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "35ab8fab6d731dc970c9281e787e4a4d",
+        "position": 2,
+        "team_identifier": "8dd22681d945ebc7981247112ef7c8e2",
+        "team": "Crotone",
+        "overall": {
+            "wins": 22,
+            "draws": 13,
+            "losts": 6,
+            "points": 79,
+            "scores": 60,
+            "conceded": 36,
+            "macthes_played": 41,
+            "goal_difference": 24
+        },
+        "home": {
+            "wins": 14,
+            "draws": 5,
+            "losts": 1,
+            "scores": 40,
+            "conceded": 11,
+            "points": 47,
+            "macthes_played": 20,
+            "goal_difference": 29
+        },
+        "away": {
+            "wins": 8,
+            "draws": 8,
+            "losts": 5,
+            "scores": 20,
+            "conceded": 25,
+            "points": 32,
+            "macthes_played": 21,
+            "goal_difference": -5
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "72936026ac5c9429f3f03a70e7663ebc",
+        "position": 3,
+        "team_identifier": "9bc9dbb031a54742bf59dffc89ab0ee1",
+        "team": "Pescara",
+        "overall": {
+            "wins": 21,
+            "draws": 8,
+            "losts": 12,
+            "points": 71,
+            "scores": 68,
+            "conceded": 51,
+            "macthes_played": 41,
+            "goal_difference": 17
+        },
+        "home": {
+            "wins": 13,
+            "draws": 4,
+            "losts": 3,
+            "scores": 37,
+            "conceded": 20,
+            "points": 43,
+            "macthes_played": 20,
+            "goal_difference": 17
+        },
+        "away": {
+            "wins": 8,
+            "draws": 4,
+            "losts": 9,
+            "scores": 31,
+            "conceded": 31,
+            "points": 28,
+            "macthes_played": 21,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "17b934ba17dc07debcca56dd4f51eddd",
+        "position": 4,
+        "team_identifier": "3691ae1ebc8c24a00bb4688acda03409",
+        "team": "Trapani",
+        "overall": {
+            "wins": 19,
+            "draws": 13,
+            "losts": 9,
+            "points": 70,
+            "scores": 62,
+            "conceded": 48,
+            "macthes_played": 41,
+            "goal_difference": 14
+        },
+        "home": {
+            "wins": 11,
+            "draws": 7,
+            "losts": 3,
+            "scores": 39,
+            "conceded": 23,
+            "points": 40,
+            "macthes_played": 21,
+            "goal_difference": 16
+        },
+        "away": {
+            "wins": 8,
+            "draws": 6,
+            "losts": 6,
+            "scores": 23,
+            "conceded": 25,
+            "points": 30,
+            "macthes_played": 20,
+            "goal_difference": -2
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "342fb3c77d355b8e0ec052739acbc078",
+        "position": 5,
+        "team_identifier": "a6fe5380cb5f9cadba7b5b151ccd203a",
+        "team": "Bari 1908",
+        "overall": {
+            "wins": 19,
+            "draws": 11,
+            "losts": 11,
+            "points": 68,
+            "scores": 57,
+            "conceded": 46,
+            "macthes_played": 41,
+            "goal_difference": 11
+        },
+        "home": {
+            "wins": 11,
+            "draws": 6,
+            "losts": 3,
+            "scores": 34,
+            "conceded": 18,
+            "points": 39,
+            "macthes_played": 20,
+            "goal_difference": 16
+        },
+        "away": {
+            "wins": 8,
+            "draws": 5,
+            "losts": 8,
+            "scores": 23,
+            "conceded": 28,
+            "points": 29,
+            "macthes_played": 21,
+            "goal_difference": -5
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "de08ea3f555403578bdc94b43b4dd269",
+        "position": 6,
+        "team_identifier": "9c247185ac49a4e94a6a535c7c8924b4",
+        "team": "Cesena",
+        "overall": {
+            "wins": 18,
+            "draws": 11,
+            "losts": 12,
+            "points": 65,
+            "scores": 55,
+            "conceded": 36,
+            "macthes_played": 41,
+            "goal_difference": 19
+        },
+        "home": {
+            "wins": 16,
+            "draws": 2,
+            "losts": 3,
+            "scores": 40,
+            "conceded": 12,
+            "points": 50,
+            "macthes_played": 21,
+            "goal_difference": 28
+        },
+        "away": {
+            "wins": 2,
+            "draws": 9,
+            "losts": 9,
+            "scores": 15,
+            "conceded": 24,
+            "points": 15,
+            "macthes_played": 20,
+            "goal_difference": -9
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "12b6db1686d39d64ecdb05137b4e854f",
+        "position": 7,
+        "team_identifier": "b26bc19b8b90f7b44d0e05fe2b3c438e",
+        "team": "Spezia",
+        "overall": {
+            "wins": 17,
+            "draws": 14,
+            "losts": 10,
+            "points": 65,
+            "scores": 47,
+            "conceded": 45,
+            "macthes_played": 41,
+            "goal_difference": 2
+        },
+        "home": {
+            "wins": 10,
+            "draws": 6,
+            "losts": 4,
+            "scores": 23,
+            "conceded": 14,
+            "points": 36,
+            "macthes_played": 20,
+            "goal_difference": 9
+        },
+        "away": {
+            "wins": 7,
+            "draws": 8,
+            "losts": 6,
+            "scores": 24,
+            "conceded": 31,
+            "points": 29,
+            "macthes_played": 21,
+            "goal_difference": -7
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "50cb10eb3d34c7ef35b87f63d48a9128",
+        "position": 8,
+        "team_identifier": "5e5b5b6d0ea8d26e071067249d6d6982",
+        "team": "Virtus Entella",
+        "overall": {
+            "wins": 17,
+            "draws": 13,
+            "losts": 11,
+            "points": 64,
+            "scores": 51,
+            "conceded": 39,
+            "macthes_played": 41,
+            "goal_difference": 12
+        },
+        "home": {
+            "wins": 12,
+            "draws": 7,
+            "losts": 2,
+            "scores": 36,
+            "conceded": 15,
+            "points": 43,
+            "macthes_played": 21,
+            "goal_difference": 21
+        },
+        "away": {
+            "wins": 5,
+            "draws": 6,
+            "losts": 9,
+            "scores": 15,
+            "conceded": 24,
+            "points": 21,
+            "macthes_played": 20,
+            "goal_difference": -9
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "f3bbc1bd88e13c34d93b01e8d4a399e5",
+        "position": 9,
+        "team_identifier": "b14c3bca5c4967c31e8a5eca3075d07e",
+        "team": "Novara",
+        "overall": {
+            "wins": 18,
+            "draws": 10,
+            "losts": 13,
+            "points": 62,
+            "scores": 53,
+            "conceded": 35,
+            "macthes_played": 41,
+            "goal_difference": 18
+        },
+        "home": {
+            "wins": 11,
+            "draws": 5,
+            "losts": 4,
+            "scores": 35,
+            "conceded": 16,
+            "points": 38,
+            "macthes_played": 20,
+            "goal_difference": 19
+        },
+        "away": {
+            "wins": 7,
+            "draws": 5,
+            "losts": 9,
+            "scores": 18,
+            "conceded": 19,
+            "points": 26,
+            "macthes_played": 21,
+            "goal_difference": -1
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "d2cce413d99b76e6157a7f991917dff0",
+        "position": 10,
+        "team_identifier": "0f49ff60727073d888e4b22adda0ae15",
+        "team": "Perugia",
+        "overall": {
+            "wins": 14,
+            "draws": 12,
+            "losts": 15,
+            "points": 54,
+            "scores": 40,
+            "conceded": 40,
+            "macthes_played": 41,
+            "goal_difference": 0
+        },
+        "home": {
+            "wins": 8,
+            "draws": 7,
+            "losts": 6,
+            "scores": 21,
+            "conceded": 17,
+            "points": 31,
+            "macthes_played": 21,
+            "goal_difference": 4
+        },
+        "away": {
+            "wins": 6,
+            "draws": 5,
+            "losts": 9,
+            "scores": 19,
+            "conceded": 23,
+            "points": 23,
+            "macthes_played": 20,
+            "goal_difference": -4
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "b5e398b2ceaba68dae28e8dbf83e4a62",
+        "position": 11,
+        "team_identifier": "0ae159cdaae8265157481a96657a6f89",
+        "team": "Brescia",
+        "overall": {
+            "wins": 14,
+            "draws": 12,
+            "losts": 15,
+            "points": 54,
+            "scores": 53,
+            "conceded": 61,
+            "macthes_played": 41,
+            "goal_difference": -8
+        },
+        "home": {
+            "wins": 11,
+            "draws": 7,
+            "losts": 3,
+            "scores": 36,
+            "conceded": 19,
+            "points": 40,
+            "macthes_played": 21,
+            "goal_difference": 17
+        },
+        "away": {
+            "wins": 3,
+            "draws": 5,
+            "losts": 12,
+            "scores": 17,
+            "conceded": 42,
+            "points": 14,
+            "macthes_played": 20,
+            "goal_difference": -25
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "d5b1adff90acdcae7180d747fcad3999",
+        "position": 12,
+        "team_identifier": "beb010c6464f308d18043eb8cf4a1481",
+        "team": "Ternana",
+        "overall": {
+            "wins": 14,
+            "draws": 8,
+            "losts": 19,
+            "points": 50,
+            "scores": 47,
+            "conceded": 54,
+            "macthes_played": 41,
+            "goal_difference": -7
+        },
+        "home": {
+            "wins": 8,
+            "draws": 5,
+            "losts": 7,
+            "scores": 30,
+            "conceded": 22,
+            "points": 29,
+            "macthes_played": 20,
+            "goal_difference": 8
+        },
+        "away": {
+            "wins": 6,
+            "draws": 3,
+            "losts": 12,
+            "scores": 17,
+            "conceded": 32,
+            "points": 21,
+            "macthes_played": 21,
+            "goal_difference": -15
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "9dcab6e95d31a078fe2eabbaa2921f4b",
+        "position": 13,
+        "team_identifier": "ee06a5e816bc0d5527bf7c2f4ff47732",
+        "team": "Avellino",
+        "overall": {
+            "wins": 13,
+            "draws": 10,
+            "losts": 18,
+            "points": 49,
+            "scores": 51,
+            "conceded": 64,
+            "macthes_played": 41,
+            "goal_difference": -13
+        },
+        "home": {
+            "wins": 8,
+            "draws": 5,
+            "losts": 7,
+            "scores": 27,
+            "conceded": 26,
+            "points": 29,
+            "macthes_played": 20,
+            "goal_difference": 1
+        },
+        "away": {
+            "wins": 5,
+            "draws": 5,
+            "losts": 11,
+            "scores": 24,
+            "conceded": 38,
+            "points": 20,
+            "macthes_played": 21,
+            "goal_difference": -14
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "12f28b1cb067c3801f6154a29668974d",
+        "position": 14,
+        "team_identifier": "117465ea8982e9e93c31e88d6d482088",
+        "team": "Vicenza",
+        "overall": {
+            "wins": 11,
+            "draws": 15,
+            "losts": 15,
+            "points": 48,
+            "scores": 41,
+            "conceded": 53,
+            "macthes_played": 41,
+            "goal_difference": -12
+        },
+        "home": {
+            "wins": 5,
+            "draws": 9,
+            "losts": 6,
+            "scores": 21,
+            "conceded": 24,
+            "points": 24,
+            "macthes_played": 20,
+            "goal_difference": -3
+        },
+        "away": {
+            "wins": 6,
+            "draws": 6,
+            "losts": 9,
+            "scores": 20,
+            "conceded": 29,
+            "points": 24,
+            "macthes_played": 21,
+            "goal_difference": -9
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "c4ed54f60de4e3673842e6618d271e38",
+        "position": 15,
+        "team_identifier": "f785e73159440771597369d52c1b0a00",
+        "team": "Pro Vercelli",
+        "overall": {
+            "wins": 11,
+            "draws": 13,
+            "losts": 17,
+            "points": 46,
+            "scores": 42,
+            "conceded": 51,
+            "macthes_played": 41,
+            "goal_difference": -9
+        },
+        "home": {
+            "wins": 7,
+            "draws": 6,
+            "losts": 7,
+            "scores": 25,
+            "conceded": 22,
+            "points": 27,
+            "macthes_played": 20,
+            "goal_difference": 3
+        },
+        "away": {
+            "wins": 4,
+            "draws": 7,
+            "losts": 10,
+            "scores": 17,
+            "conceded": 29,
+            "points": 19,
+            "macthes_played": 21,
+            "goal_difference": -12
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "fe9df47965855946090dc40188dda8c2",
+        "position": 16,
+        "team_identifier": "19e4169544e5368344f0f18c0554a2ce",
+        "team": "Ascoli",
+        "overall": {
+            "wins": 13,
+            "draws": 7,
+            "losts": 21,
+            "points": 46,
+            "scores": 45,
+            "conceded": 64,
+            "macthes_played": 41,
+            "goal_difference": -19
+        },
+        "home": {
+            "wins": 9,
+            "draws": 4,
+            "losts": 8,
+            "scores": 24,
+            "conceded": 23,
+            "points": 31,
+            "macthes_played": 21,
+            "goal_difference": 1
+        },
+        "away": {
+            "wins": 4,
+            "draws": 3,
+            "losts": 13,
+            "scores": 21,
+            "conceded": 41,
+            "points": 15,
+            "macthes_played": 20,
+            "goal_difference": -20
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "baaffa2c43c3b8662b0a955603b8468c",
+        "position": 17,
+        "team_identifier": "2efdb9f793967b8276f6a91654be1bc3",
+        "team": "Latina",
+        "overall": {
+            "wins": 10,
+            "draws": 15,
+            "losts": 16,
+            "points": 45,
+            "scores": 43,
+            "conceded": 50,
+            "macthes_played": 41,
+            "goal_difference": -7
+        },
+        "home": {
+            "wins": 8,
+            "draws": 7,
+            "losts": 6,
+            "scores": 27,
+            "conceded": 23,
+            "points": 31,
+            "macthes_played": 21,
+            "goal_difference": 4
+        },
+        "away": {
+            "wins": 2,
+            "draws": 8,
+            "losts": 10,
+            "scores": 16,
+            "conceded": 27,
+            "points": 14,
+            "macthes_played": 20,
+            "goal_difference": -11
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "a9afe9a9c2e2221ce53bfcacb2b6a6f6",
+        "position": 18,
+        "team_identifier": "08eba0a4f9cbaf35bab92b774fa356b9",
+        "team": "Lanciano",
+        "overall": {
+            "wins": 12,
+            "draws": 11,
+            "losts": 18,
+            "points": 43,
+            "scores": 41,
+            "conceded": 54,
+            "macthes_played": 41,
+            "goal_difference": -13
+        },
+        "home": {
+            "wins": 10,
+            "draws": 5,
+            "losts": 6,
+            "scores": 24,
+            "conceded": 21,
+            "points": 35,
+            "macthes_played": 21,
+            "goal_difference": 3
+        },
+        "away": {
+            "wins": 2,
+            "draws": 6,
+            "losts": 12,
+            "scores": 17,
+            "conceded": 33,
+            "points": 12,
+            "macthes_played": 20,
+            "goal_difference": -16
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "8fa3e71ac652a50ddf3a1084016d1051",
+        "position": 19,
+        "team_identifier": "9b0445663470c52655227951323c785e",
+        "team": "Modena",
+        "overall": {
+            "wins": 11,
+            "draws": 9,
+            "losts": 21,
+            "points": 42,
+            "scores": 37,
+            "conceded": 51,
+            "macthes_played": 41,
+            "goal_difference": -14
+        },
+        "home": {
+            "wins": 10,
+            "draws": 4,
+            "losts": 7,
+            "scores": 25,
+            "conceded": 22,
+            "points": 34,
+            "macthes_played": 21,
+            "goal_difference": 3
+        },
+        "away": {
+            "wins": 1,
+            "draws": 5,
+            "losts": 14,
+            "scores": 12,
+            "conceded": 29,
+            "points": 8,
+            "macthes_played": 20,
+            "goal_difference": -17
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "4f51a32f8f2c3a7cbbd4477316f99be6",
+        "position": 20,
+        "team_identifier": "6d2f73346cc68885cb1f51b394bee1b2",
+        "team": "Salernitana",
+        "overall": {
+            "wins": 8,
+            "draws": 18,
+            "losts": 15,
+            "points": 42,
+            "scores": 47,
+            "conceded": 62,
+            "macthes_played": 41,
+            "goal_difference": -15
+        },
+        "home": {
+            "wins": 7,
+            "draws": 7,
+            "losts": 6,
+            "scores": 29,
+            "conceded": 26,
+            "points": 28,
+            "macthes_played": 20,
+            "goal_difference": 3
+        },
+        "away": {
+            "wins": 1,
+            "draws": 11,
+            "losts": 9,
+            "scores": 18,
+            "conceded": 36,
+            "points": 14,
+            "macthes_played": 21,
+            "goal_difference": -18
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "5864122d405ee77b43f986afd24dc8e7",
+        "position": 21,
+        "team_identifier": "8ae59550d608eef9e093611692fdc2ea",
+        "team": "Livorno",
+        "overall": {
+            "wins": 10,
+            "draws": 11,
+            "losts": 20,
+            "points": 41,
+            "scores": 43,
+            "conceded": 55,
+            "macthes_played": 41,
+            "goal_difference": -12
+        },
+        "home": {
+            "wins": 6,
+            "draws": 9,
+            "losts": 5,
+            "scores": 23,
+            "conceded": 17,
+            "points": 27,
+            "macthes_played": 20,
+            "goal_difference": 6
+        },
+        "away": {
+            "wins": 4,
+            "draws": 2,
+            "losts": 15,
+            "scores": 20,
+            "conceded": 38,
+            "points": 14,
+            "macthes_played": 21,
+            "goal_difference": -18
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "3b9e8a4d4718e9dd7318f196e8fcac77",
+        "position": 22,
+        "team_identifier": "f405b33b8089c613ef4e9880b43b4bd4",
+        "team": "Como",
+        "overall": {
+            "wins": 5,
+            "draws": 18,
+            "losts": 18,
+            "points": 33,
+            "scores": 39,
+            "conceded": 63,
+            "macthes_played": 41,
+            "goal_difference": -24
+        },
+        "home": {
+            "wins": 3,
+            "draws": 10,
+            "losts": 8,
+            "scores": 20,
+            "conceded": 28,
+            "points": 19,
+            "macthes_played": 21,
+            "goal_difference": -8
+        },
+        "away": {
+            "wins": 2,
+            "draws": 8,
+            "losts": 10,
+            "scores": 19,
+            "conceded": 35,
+            "points": 14,
+            "macthes_played": 20,
+            "goal_difference": -16
+        },
+        "penalization_points": 0
+    }
+]

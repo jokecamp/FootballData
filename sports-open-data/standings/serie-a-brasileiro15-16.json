@@ -1,0 +1,742 @@
+[
+    {
+        "identifier": "b09216cef20ea060069e4b63f6dab17e",
+        "position": 1,
+        "team_identifier": "5a0e87029f75dd2aa3c9b93cb0fce4b5",
+        "team": "Corinthians",
+        "overall": {
+            "wins": 24,
+            "draws": 9,
+            "losts": 5,
+            "points": 81,
+            "scores": 71,
+            "conceded": 31,
+            "macthes_played": 38,
+            "goal_difference": 40
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "a1f54d0efbea8bc8bdab7380b859eb52",
+        "position": 2,
+        "team_identifier": "9501075e9e2ca088c58c9a6889465d34",
+        "team": "Atletico Mineiro",
+        "overall": {
+            "wins": 21,
+            "draws": 6,
+            "losts": 11,
+            "points": 69,
+            "scores": 65,
+            "conceded": 47,
+            "macthes_played": 38,
+            "goal_difference": 18
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "3273a13ce1b6bc32e4416f486956c024",
+        "position": 3,
+        "team_identifier": "4bb27720ae013189345e659a991e5bcd",
+        "team": "Grêmio",
+        "overall": {
+            "wins": 20,
+            "draws": 8,
+            "losts": 10,
+            "points": 68,
+            "scores": 52,
+            "conceded": 32,
+            "macthes_played": 38,
+            "goal_difference": 20
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "bd981bae2a0a5a724178394c4ce51b82",
+        "position": 4,
+        "team_identifier": "7ced8f6dfe60b025d942985576de0341",
+        "team": "São Paulo",
+        "overall": {
+            "wins": 18,
+            "draws": 8,
+            "losts": 12,
+            "points": 62,
+            "scores": 53,
+            "conceded": 47,
+            "macthes_played": 38,
+            "goal_difference": 6
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "ab926a0655da6ed2c9daba8aafc80778",
+        "position": 5,
+        "team_identifier": "7d7e75a04b9be1e1b3fb0b1970a3037f",
+        "team": "Internacional",
+        "overall": {
+            "wins": 17,
+            "draws": 9,
+            "losts": 12,
+            "points": 60,
+            "scores": 39,
+            "conceded": 38,
+            "macthes_played": 38,
+            "goal_difference": 1
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "f67bdddd6705bf21213b344fb9776d0b",
+        "position": 6,
+        "team_identifier": "76a4f28c186a6c496cb6b61cb38d44c0",
+        "team": "Sport",
+        "overall": {
+            "wins": 15,
+            "draws": 14,
+            "losts": 9,
+            "points": 59,
+            "scores": 53,
+            "conceded": 38,
+            "macthes_played": 38,
+            "goal_difference": 15
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "8bb3d791659e3b2f219836d77c825dcc",
+        "position": 7,
+        "team_identifier": "5d43758dc933f12f98f2e50d045eae77",
+        "team": "Santos",
+        "overall": {
+            "wins": 16,
+            "draws": 10,
+            "losts": 12,
+            "points": 58,
+            "scores": 59,
+            "conceded": 41,
+            "macthes_played": 38,
+            "goal_difference": 18
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "70ec6d113261f5121cacc9cd4519c8a2",
+        "position": 8,
+        "team_identifier": "bbf1884038fee9ecbffb7c0a4c5c97d0",
+        "team": "Cruzeiro",
+        "overall": {
+            "wins": 15,
+            "draws": 10,
+            "losts": 13,
+            "points": 55,
+            "scores": 44,
+            "conceded": 35,
+            "macthes_played": 38,
+            "goal_difference": 9
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "12a4157a1dba81f0b2fdae3fdc0105ce",
+        "position": 9,
+        "team_identifier": "1e1934a85ae61698b1c87d2a6ae45b60",
+        "team": "Palmeiras",
+        "overall": {
+            "wins": 15,
+            "draws": 8,
+            "losts": 15,
+            "points": 53,
+            "scores": 60,
+            "conceded": 51,
+            "macthes_played": 38,
+            "goal_difference": 9
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "ec2feea3eb426779347a3e3b75979254",
+        "position": 10,
+        "team_identifier": "fd44979f6395b22dee799df6d3ef52ce",
+        "team": "Atletico Paranaense",
+        "overall": {
+            "wins": 14,
+            "draws": 9,
+            "losts": 15,
+            "points": 51,
+            "scores": 43,
+            "conceded": 48,
+            "macthes_played": 38,
+            "goal_difference": -5
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "9ab6de0bbaad48e5ab8890d83b8e8fd6",
+        "position": 11,
+        "team_identifier": "d4a33f95b8886f6d91afe76666e10224",
+        "team": "Ponte Preta",
+        "overall": {
+            "wins": 13,
+            "draws": 12,
+            "losts": 13,
+            "points": 51,
+            "scores": 41,
+            "conceded": 40,
+            "macthes_played": 38,
+            "goal_difference": 1
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "cb79bd69df148c26b297b27f1780c371",
+        "position": 12,
+        "team_identifier": "0456d461197eedec7066eeb13222d96c",
+        "team": "Flamengo",
+        "overall": {
+            "wins": 15,
+            "draws": 4,
+            "losts": 19,
+            "points": 49,
+            "scores": 45,
+            "conceded": 53,
+            "macthes_played": 38,
+            "goal_difference": -8
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "04767c1b74e86d773af37d554e834a90",
+        "position": 13,
+        "team_identifier": "6979d02147db9e5338b44adcd59ca55c",
+        "team": "Fluminense",
+        "overall": {
+            "wins": 15,
+            "draws": 5,
+            "losts": 19,
+            "points": 47,
+            "scores": 40,
+            "conceded": 49,
+            "macthes_played": 38,
+            "goal_difference": -9
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "76ebb8ba972c542acf03191c9debb577",
+        "position": 14,
+        "team_identifier": "4f788e0a45c2f9a93ae97e72e4ecc773",
+        "team": "Chapecoense",
+        "overall": {
+            "wins": 12,
+            "draws": 11,
+            "losts": 15,
+            "points": 47,
+            "scores": 34,
+            "conceded": 44,
+            "macthes_played": 38,
+            "goal_difference": -10
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "2016e96b795eb17e4782a22bf85195b4",
+        "position": 15,
+        "team_identifier": "563bd888f9e2d0825e546304ae338e13",
+        "team": "Coritiba",
+        "overall": {
+            "wins": 11,
+            "draws": 11,
+            "losts": 16,
+            "points": 44,
+            "scores": 31,
+            "conceded": 42,
+            "macthes_played": 38,
+            "goal_difference": -11
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "9fa059667b3da83fa85eed3b8460394b",
+        "position": 16,
+        "team_identifier": "093082947d160280e489703412544edf",
+        "team": "Figueirense",
+        "overall": {
+            "wins": 11,
+            "draws": 10,
+            "losts": 17,
+            "points": 43,
+            "scores": 36,
+            "conceded": 50,
+            "macthes_played": 38,
+            "goal_difference": -14
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "a27e7826c49acc44a30f2c6a975d47de",
+        "position": 17,
+        "team_identifier": "fc667e43d834f6e4e49e722e67de8e02",
+        "team": "Avai",
+        "overall": {
+            "wins": 11,
+            "draws": 9,
+            "losts": 18,
+            "points": 42,
+            "scores": 38,
+            "conceded": 60,
+            "macthes_played": 38,
+            "goal_difference": -22
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "3746e4ffd8029b3fdb5bee2af847c449",
+        "position": 18,
+        "team_identifier": "0f8900d1c8b84f7708ac13322708f9cc",
+        "team": "Vasco da Gama",
+        "overall": {
+            "wins": 10,
+            "draws": 11,
+            "losts": 17,
+            "points": 41,
+            "scores": 28,
+            "conceded": 54,
+            "macthes_played": 38,
+            "goal_difference": -26
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "3976d2b06325f1ba8e6b1e99a47f7765",
+        "position": 19,
+        "team_identifier": "7bc2ca6dca41749be98aee22cf74368b",
+        "team": "Goiás",
+        "overall": {
+            "wins": 10,
+            "draws": 8,
+            "losts": 20,
+            "points": 38,
+            "scores": 39,
+            "conceded": 49,
+            "macthes_played": 38,
+            "goal_difference": -10
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    },
+    {
+        "identifier": "673c5735be153f153580af0eafeda661",
+        "position": 20,
+        "team_identifier": "6854c4d9f2b094f77d58d8aed88e8d32",
+        "team": "Joinville",
+        "overall": {
+            "wins": 7,
+            "draws": 10,
+            "losts": 21,
+            "points": 31,
+            "scores": 26,
+            "conceded": 48,
+            "macthes_played": 38,
+            "goal_difference": -22
+        },
+        "home": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "away": {
+            "wins": 0,
+            "draws": 0,
+            "losts": 0,
+            "scores": 0,
+            "conceded": 0,
+            "points": 0,
+            "macthes_played": 0,
+            "goal_difference": 0
+        },
+        "penalization_points": 0
+    }
+]

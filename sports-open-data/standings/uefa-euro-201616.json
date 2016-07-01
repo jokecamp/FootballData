@@ -1,0 +1,398 @@
+{
+    "Group A": [
+        {
+            "identifier": "d3624d356b2639fd9fe62d8bd2d6cb25",
+            "position": 1,
+            "team": "France",
+            "team_identifier": "5cd092e8eb2d56cdfd80d4ed042b8107",
+            "stats": {
+                "wins": 2,
+                "draws": 1,
+                "losts": 0,
+                "points": 7,
+                "scores": 4,
+                "conceded": 1,
+                "macthes_played": 3,
+                "goal_difference": 3
+            }
+        },
+        {
+            "identifier": "f1fc796ad961da76383e28f757f4bd7a",
+            "position": 2,
+            "team": "Switzerland",
+            "team_identifier": "8e99b27a5adafa7dffaa85e7321b271e",
+            "stats": {
+                "wins": 1,
+                "draws": 2,
+                "losts": 0,
+                "points": 5,
+                "scores": 2,
+                "conceded": 1,
+                "macthes_played": 3,
+                "goal_difference": 1
+            }
+        },
+        {
+            "identifier": "5d9b3dbc282aff70d6588cad2df6d05f",
+            "position": 3,
+            "team": "Albania",
+            "team_identifier": "22b0fb1c5130697b7ebaec234b85a1ae",
+            "stats": {
+                "wins": 1,
+                "draws": 0,
+                "losts": 2,
+                "points": 3,
+                "scores": 1,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": -2
+            }
+        },
+        {
+            "identifier": "15034ee8995ae1fc9fc67dd4c0eff26c",
+            "position": 4,
+            "team": "Romania",
+            "team_identifier": "2268ac53fb90b9d5e6d9b46d2a9a14f4",
+            "stats": {
+                "wins": 0,
+                "draws": 1,
+                "losts": 2,
+                "points": 1,
+                "scores": 2,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": -2
+            }
+        }
+    ],
+    "Group B": [
+        {
+            "identifier": "523fef03cb19a1e9a42f2f4c5ac4311f",
+            "position": 1,
+            "team": "Wales",
+            "team_identifier": "1c25422fac3702fa8d1c2360e11f15ad",
+            "stats": {
+                "wins": 2,
+                "draws": 0,
+                "losts": 1,
+                "points": 6,
+                "scores": 6,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": 3
+            }
+        },
+        {
+            "identifier": "f97de685d2b0f1ef327413407a757745",
+            "position": 2,
+            "team": "England",
+            "team_identifier": "85f9644fc9b5b11412739e3afa12869c",
+            "stats": {
+                "wins": 2,
+                "draws": 1,
+                "losts": 0,
+                "points": 4,
+                "scores": 3,
+                "conceded": 2,
+                "macthes_played": 3,
+                "goal_difference": 1
+            }
+        },
+        {
+            "identifier": "6b62ff7eabb2a84530fc499fbccfd0c6",
+            "position": 3,
+            "team": "Slovakia",
+            "team_identifier": "cc02af5eb0c481b89e8e1e62a49bb832",
+            "stats": {
+                "wins": 1,
+                "draws": 1,
+                "losts": 1,
+                "points": 4,
+                "scores": 3,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": 0
+            }
+        },
+        {
+            "identifier": "332238eeb329f177b61109801cc092f7",
+            "position": 4,
+            "team": "Russia",
+            "team_identifier": "d11fb0f6edeb63fec47df2d55077e8f1",
+            "stats": {
+                "wins": 0,
+                "draws": 1,
+                "losts": 2,
+                "points": 1,
+                "scores": 2,
+                "conceded": 6,
+                "macthes_played": 3,
+                "goal_difference": -4
+            }
+        }
+    ],
+    "Group C": [
+        {
+            "identifier": "f6acfd3174699213e33b60410caaf4fa",
+            "position": 1,
+            "team": "Germany",
+            "team_identifier": "bc38c076a426f09b449b96fe99c5cea6",
+            "stats": {
+                "wins": 2,
+                "draws": 1,
+                "losts": 0,
+                "points": 7,
+                "scores": 3,
+                "conceded": 0,
+                "macthes_played": 3,
+                "goal_difference": 3
+            }
+        },
+        {
+            "identifier": "df506020e9c467820d6ad5bd370fe06d",
+            "position": 2,
+            "team": "Poland",
+            "team_identifier": "f7f5f21c2138dfaadae0f944668800c8",
+            "stats": {
+                "wins": 2,
+                "draws": 1,
+                "losts": 0,
+                "points": 7,
+                "scores": 2,
+                "conceded": 0,
+                "macthes_played": 3,
+                "goal_difference": 2
+            }
+        },
+        {
+            "identifier": "3def8deb0b7782b5316ceee98bde5ee7",
+            "position": 3,
+            "team": "Northern Ireland",
+            "team_identifier": "c47726bf6fec0888dcc966716098a243",
+            "stats": {
+                "wins": 1,
+                "draws": 0,
+                "losts": 2,
+                "points": 3,
+                "scores": 2,
+                "conceded": 2,
+                "macthes_played": 3,
+                "goal_difference": 0
+            }
+        },
+        {
+            "identifier": "4a31f74c7e14783559ee8201321fa118",
+            "position": 4,
+            "team": "Ukraine",
+            "team_identifier": "1683e260b4e9e7bbeb8bab5655f1698f",
+            "stats": {
+                "wins": 0,
+                "draws": 0,
+                "losts": 3,
+                "points": 0,
+                "scores": 0,
+                "conceded": 5,
+                "macthes_played": 3,
+                "goal_difference": -5
+            }
+        }
+    ],
+    "Group D": [
+        {
+            "identifier": "dd8890722b663b85e954f79fbd8712e7",
+            "position": 1,
+            "team": "Croatia",
+            "team_identifier": "3d039737c418cd6c60743c42af96da74",
+            "stats": {
+                "wins": 2,
+                "draws": 1,
+                "losts": 0,
+                "points": 7,
+                "scores": 5,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": 2
+            }
+        },
+        {
+            "identifier": "f6bacf707254548e993c246b3922ec8f",
+            "position": 2,
+            "team": "Spain",
+            "team_identifier": "1404bb217021a6723c5fddafd373579c",
+            "stats": {
+                "wins": 2,
+                "draws": 0,
+                "losts": 1,
+                "points": 6,
+                "scores": 5,
+                "conceded": 2,
+                "macthes_played": 3,
+                "goal_difference": 3
+            }
+        },
+        {
+            "identifier": "8b246c91a86f7912a770dac5022f9352",
+            "position": 3,
+            "team": "Turkey",
+            "team_identifier": "bfbd9c2e8278a595369997951fd940a7",
+            "stats": {
+                "wins": 1,
+                "draws": 0,
+                "losts": 2,
+                "points": 3,
+                "scores": 2,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": -2
+            }
+        },
+        {
+            "identifier": "6d1e4ce423f7c92cbabbdeba7b45902a",
+            "position": 4,
+            "team": "Czech Republic",
+            "team_identifier": "e18e2d441d27a8245291065eef0917b3",
+            "stats": {
+                "wins": 0,
+                "draws": 1,
+                "losts": 2,
+                "points": 1,
+                "scores": 2,
+                "conceded": 5,
+                "macthes_played": 3,
+                "goal_difference": -3
+            }
+        }
+    ],
+    "Group E": [
+        {
+            "identifier": "c6067983cb6a7dc6c3f5da819ac25eca",
+            "position": 1,
+            "team": "Italy",
+            "team_identifier": "93c914fee86f9c98c2c752eb86116ece",
+            "stats": {
+                "wins": 2,
+                "draws": 0,
+                "losts": 1,
+                "points": 6,
+                "scores": 3,
+                "conceded": 1,
+                "macthes_played": 3,
+                "goal_difference": 2
+            }
+        },
+        {
+            "identifier": "2ef621b90a9ca13bfaf3be68545dadc0",
+            "position": 2,
+            "team": "Belgium",
+            "team_identifier": "ef36958fa4d8b19a08f91e6d429ae737",
+            "stats": {
+                "wins": 2,
+                "draws": 0,
+                "losts": 1,
+                "points": 6,
+                "scores": 4,
+                "conceded": 2,
+                "macthes_played": 3,
+                "goal_difference": 2
+            }
+        },
+        {
+            "identifier": "fc56f1021c0ffda543e31052887814bf",
+            "position": 3,
+            "team": "Republic of Ireland",
+            "team_identifier": "d006a2ceb30b49f893169e3f4ea877fb",
+            "stats": {
+                "wins": 1,
+                "draws": 1,
+                "losts": 1,
+                "points": 4,
+                "scores": 2,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": -2
+            }
+        },
+        {
+            "identifier": "64f7384aebe312718b152de865fe2a43",
+            "position": 4,
+            "team": "Sweden",
+            "team_identifier": "fcf35cf091cdadb261efbb291905dbce",
+            "stats": {
+                "wins": 0,
+                "draws": 1,
+                "losts": 2,
+                "points": 1,
+                "scores": 1,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": -2
+            }
+        }
+    ],
+    "Group F": [
+        {
+            "identifier": "4632f74470909bb8fc1fa41616feee3c",
+            "position": 1,
+            "team": "Hungary",
+            "team_identifier": "9150b8a88c85a020fc93736a276fdb55",
+            "stats": {
+                "wins": 1,
+                "draws": 2,
+                "losts": 0,
+                "points": 5,
+                "scores": 6,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": 2
+            }
+        },
+        {
+            "identifier": "04dd745a1e5a7ad30f0538ca8a720811",
+            "position": 2,
+            "team": "Iceland",
+            "team_identifier": "af446ad338254e475321885dc3046be7",
+            "stats": {
+                "wins": 1,
+                "draws": 2,
+                "losts": 0,
+                "points": 5,
+                "scores": 4,
+                "conceded": 3,
+                "macthes_played": 3,
+                "goal_difference": 1
+            }
+        },
+        {
+            "identifier": "16bd6c5d20a12ec81bb32e6ecba6a24c",
+            "position": 3,
+            "team": "Portugal",
+            "team_identifier": "9492023813325ce49174876f05f87a80",
+            "stats": {
+                "wins": 0,
+                "draws": 3,
+                "losts": 0,
+                "points": 3,
+                "scores": 4,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": 0
+            }
+        },
+        {
+            "identifier": "d248f080da3e3e9ef2d78c545b765668",
+            "position": 4,
+            "team": "Austria",
+            "team_identifier": "6282ee2756a275c7dcfcfc024b40fb79",
+            "stats": {
+                "wins": 0,
+                "draws": 1,
+                "losts": 2,
+                "points": 1,
+                "scores": 1,
+                "conceded": 4,
+                "macthes_played": 3,
+                "goal_difference": -3
+            }
+        }
+    ]
+}
