@@ -1,0 +1,19 @@
+[
+  { "home": "Switzerland", "away": "Poland" },
+  { "home": "Wales", "away": "Northern Ireland" },
+  { "home": "Croatia", "away": "Portugal" },
+  { "home": "United States", "away": "Colombia" },
+  {
+    "home": "Crucero del Norte",
+    "away": "Juventud Unida (G)",
+    "homescore": "(1) 0",
+    "awayscore": "(3) 0"
+  },
+  { "home": "Chapecoense AF", "away": "Atletico Paranaense", "homescore": "0", "awayscore": "0" },
+  { "home": "Gremio", "away": "EC Vitória", "homescore": "1", "awayscore": "2" },
+  { "home": "São Paulo", "away": "Sport", "homescore": "0", "awayscore": "0" },
+  { "home": "Coritiba FBC", "away": "Internacional", "homescore": "0", "awayscore": "1" },
+  { "home": "Comerciantes Unidos", "away": "Sporting Cristal", "homescore": "1", "awayscore": "3" },
+  { "home": "Home United", "away": "Geylang International", "homescore": "1", "awayscore": "2" },
+  { "home": "Hougang United", "away": "Warriors", "homescore": "1", "awayscore": "3" }
+]

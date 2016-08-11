@@ -1,0 +1,20 @@
+[
+  { "home": "Stoke City", "away": "Manchester United" },
+  { "home": "Chelsea", "away": "Watford" },
+  { "home": "Liverpool", "away": "Leicester City" },
+  { "home": "Manchester City", "away": "Sunderland" },
+  { "home": "Tottenham Hotspur", "away": "Norwich City" },
+  { "home": "Newcastle United", "away": "Everton" },
+  { "home": "Southampton", "away": "Arsenal" },
+  { "home": "Bari", "away": "Brescia", "homescore": "1", "awayscore": "2" },
+  { "home": "Crotone", "away": "Trapani", "homescore": "0", "awayscore": "0" },
+  { "home": "Livorno", "away": "Ascoli", "homescore": "1", "awayscore": "3" },
+  { "home": "Novara", "away": "Cesena", "homescore": "0", "awayscore": "0" },
+  { "home": "Pro Vercelli", "away": "Perugia", "homescore": "0", "awayscore": "1" },
+  { "home": "Spezia", "away": "Como", "homescore": "1", "awayscore": "1" },
+  { "home": "Ternana", "away": "Lanciano", "homescore": "1", "awayscore": "1" },
+  { "home": "US Pescara", "away": "Modena", "homescore": "1", "awayscore": "0" },
+  { "home": "Vicenza", "away": "Latina", "homescore": "1", "awayscore": "1" },
+  { "home": "KSC Lokeren", "away": "Anderlecht", "homescore": "1", "awayscore": "1" },
+  { "home": "Alajuelense", "away": "Saprissa" }
+]

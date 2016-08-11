@@ -1,0 +1,18 @@
+[
+  { "home": "Wales", "away": "Belgium", "homescore": "3", "awayscore": "1" },
+  { "home": "Germany", "away": "Italy" },
+  { "home": "France", "away": "Iceland" },
+  { "home": "Poland", "away": "Portugal", "homescore": "(3) 1", "awayscore": "(5) 1" },
+  { "home": "Wales", "away": "Belgium", "homescore": "3", "awayscore": "1" },
+  { "home": "Cork", "away": "Sligo" },
+  { "home": "Derry City", "away": "Dundalk", "homescore": "0", "awayscore": "5" },
+  { "home": "Galway Utd", "away": "Shamrock Rovers" },
+  { "home": "Lillestrom", "away": "Tromso", "homescore": "2", "awayscore": "4" },
+  { "home": "Chicago Fire", "away": "San Jose Earthquakes", "homescore": "1", "awayscore": "0" },
+  { "home": "Real Salt Lake", "away": "DC United" },
+  { "home": "Sampaio Correa-MA", "away": "Paysandu SC", "homescore": "0", "awayscore": "0" },
+  { "home": "Vila Nova-GO", "away": "Tupi (MG)", "homescore": "1", "awayscore": "0" },
+  { "home": "Londrina", "away": "Criciúma", "homescore": "2", "awayscore": "2" },
+  { "home": "Alianza Petrolera", "away": "Atlético Nacional", "homescore": "1", "awayscore": "1" },
+  { "home": "San Martin", "away": "Unión Comercio", "homescore": "1", "awayscore": "1" }
+]

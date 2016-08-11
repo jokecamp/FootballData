@@ -1,0 +1,20 @@
+[
+  { "home": "Seattle Sounders FC", "away": "West Ham United" },
+  { "home": "Portugal", "away": "Wales" },
+  { "home": "Germany", "away": "France" },
+  { "home": "Alashkert FC", "away": "Santa Coloma", "homescore": "3", "awayscore": "0" },
+  { "home": "B36 Torshavn", "away": "Valletta", "homescore": "2", "awayscore": "1" },
+  { "home": "Tre Penne", "away": "T.N.S.", "homescore": "0", "awayscore": "3" },
+  { "home": "Birkirkara", "away": "Siroki Brijeg", "homescore": "2", "awayscore": "0" },
+  { "home": "Chikhura Sachkhere", "away": "Zimbru Chisinau", "homescore": "2", "awayscore": "3" },
+  { "home": "Jeunesse Esch", "away": "St Patricks", "homescore": "2", "awayscore": "1" },
+  { "home": "Dundalk", "away": "Longford Town", "homescore": "4", "awayscore": "3" },
+  { "home": "Guangzhou R&amp;F", "away": "Schalke 04", "homescore": "1", "awayscore": "6" },
+  { "home": "Cowdenbeath", "away": "Motherwell", "homescore": "3", "awayscore": "1" },
+  { "home": "Raith Rovers", "away": "Partick Thistle", "homescore": "0", "awayscore": "0" },
+  { "home": "Seattle Sounders FC", "away": "West Ham United" },
+  { "home": "Paraná Clube", "away": "Avaí", "homescore": "0", "awayscore": "0" },
+  { "home": "Bahia", "away": "Vila Nova-GO", "homescore": "0", "awayscore": "1" },
+  { "home": "Deportivo Municipal Lima", "away": "La Bocana", "homescore": "0", "awayscore": "0" },
+  { "home": "César Vallejo", "away": "San Martin" }
+]

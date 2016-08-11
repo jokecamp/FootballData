@@ -1,0 +1,21 @@
+[
+  { "home": "Portugal", "away": "Wales", "homescore": "2", "awayscore": "0" },
+  { "home": "Germany", "away": "France" },
+  { "home": "Portugal", "away": "Wales", "homescore": "2", "awayscore": "0" },
+  { "home": "Lincoln Red Imps", "away": "Flora", "homescore": "2", "awayscore": "0" },
+  { "home": "FC Infonet", "away": "Heart of Midlothian", "homescore": "2", "awayscore": "4" },
+  { "home": "Atlas", "away": "Necaxa", "homescore": "0", "awayscore": "3" },
+  { "home": "NEC Nijmegen", "away": "Steaua Bucharest", "homescore": "0", "awayscore": "1" },
+  { "home": "Guiseley", "away": "Huddersfield Town", "homescore": "0", "awayscore": "1" },
+  { "home": "New England Revolution", "away": "New York City FC", "homescore": "0", "awayscore": "1" },
+  { "home": "São Paulo", "away": "Atlético Nacional", "homescore": "0", "awayscore": "0" },
+  { "home": "Figueirense FC", "away": "Sampaio Correa-MA", "homescore": "1", "awayscore": "0" },
+  { "home": "Paysandu SC", "away": "Operario PR", "homescore": "2", "awayscore": "0" },
+  { "home": "Fluminense FC", "away": "Ypiranga AP", "homescore": "1", "awayscore": "1" },
+  { "home": "EC Vitória", "away": "Cruzeiro", "homescore": "1", "awayscore": "1" },
+  { "home": "Alianza Atlético", "away": "Ayacucho FC", "homescore": "2", "awayscore": "0" },
+  { "home": "Real Garcilaso", "away": "Juan Aurich", "homescore": "3", "awayscore": "2" },
+  { "home": "Unión Comercio", "away": "Sporting Cristal", "homescore": "1", "awayscore": "2" },
+  { "home": "Melgar", "away": "Sport Huancayo", "homescore": "1", "awayscore": "2" },
+  { "home": "Alianza Lima", "away": "UTC" }
+]

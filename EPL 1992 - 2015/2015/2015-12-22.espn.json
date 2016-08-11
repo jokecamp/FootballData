@@ -1,0 +1,13 @@
+[
+  { "home": "Stoke City", "away": "Manchester United" },
+  { "home": "Chelsea", "away": "Watford" },
+  { "home": "Liverpool", "away": "Leicester City" },
+  { "home": "Manchester City", "away": "Sunderland" },
+  { "home": "Tottenham Hotspur", "away": "Norwich City" },
+  { "home": "Newcastle United", "away": "Everton" },
+  { "home": "Southampton", "away": "Arsenal" },
+  { "home": "Linlithgow Rose", "away": "Wick Academy", "homescore": "5", "awayscore": "1" },
+  { "home": "Aberystwyth", "away": "Carmarthen" },
+  { "home": "US Avellino", "away": "Virtus Entella", "homescore": "2", "awayscore": "0" },
+  { "home": "Mouscron-Peruwelz", "away": "Royal Charleroi SC", "homescore": "0", "awayscore": "1" }
+]

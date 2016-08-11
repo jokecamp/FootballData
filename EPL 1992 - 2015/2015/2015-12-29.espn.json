@@ -1,0 +1,19 @@
+[
+  { "home": "Manchester United", "away": "Chelsea", "homescore": "0", "awayscore": "0" },
+  { "home": "Leicester City", "away": "Manchester City", "homescore": "0", "awayscore": "0" },
+  { "home": "Brighton &amp; Hove Albion", "away": "Ipswich Town", "homescore": "0", "awayscore": "1" },
+  { "home": "Cardiff City", "away": "Nottingham Forest", "homescore": "1", "awayscore": "1" },
+  { "home": "Fulham", "away": "Rotherham United", "homescore": "4", "awayscore": "1" },
+  { "home": "Leeds United", "away": "Derby County", "homescore": "2", "awayscore": "2" },
+  { "home": "Leicester City", "away": "Manchester City", "homescore": "0", "awayscore": "0" },
+  { "home": "Brighton &amp; Hove Albion", "away": "Ipswich Town", "homescore": "0", "awayscore": "1" },
+  { "home": "Cardiff City", "away": "Nottingham Forest", "homescore": "1", "awayscore": "1" },
+  { "home": "Fulham", "away": "Rotherham United", "homescore": "4", "awayscore": "1" },
+  { "home": "Leeds United", "away": "Derby County", "homescore": "2", "awayscore": "2" },
+  { "home": "Ross County", "away": "Kilmarnock", "homescore": "3", "awayscore": "2" },
+  { "home": "Falkirk", "away": "Livingston", "homescore": "2", "awayscore": "0" },
+  { "home": "Airdrieonians", "away": "Stenhousemuir", "homescore": "0", "awayscore": "1" },
+  { "home": "Cowdenbeath", "away": "Ayr United", "homescore": "4", "awayscore": "2" },
+  { "home": "Aberystwyth", "away": "Carmarthen", "homescore": "1", "awayscore": "2" },
+  { "home": "Rhyl", "away": "Bala Town", "homescore": "1", "awayscore": "3" }
+]

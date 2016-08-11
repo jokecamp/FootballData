@@ -1,0 +1,33 @@
+[
+  { "home": "Pachuca", "away": "Monterrey", "homescore": "0", "awayscore": "0" },
+  { "home": "PAOK Salonika", "away": "Panionios", "homescore": "2", "awayscore": "0" },
+  { "home": "AEK Athens", "away": "Panathinaikos", "homescore": "3", "awayscore": "1" },
+  { "home": "England", "away": "Australia" },
+  { "home": "Republic of Ireland", "away": "Netherlands" },
+  { "home": "Argentina", "away": "Honduras" },
+  { "home": "Azerbaijan", "away": "Andorra", "homescore": "0", "awayscore": "0" },
+  { "home": "Athletic Bilbao B", "away": "Alavés", "homescore": "2", "awayscore": "3" },
+  { "home": "Huesca", "away": "Real Zaragoza", "homescore": "1", "awayscore": "1" },
+  { "home": "Real Oviedo", "away": "Leganes", "homescore": "0", "awayscore": "1" },
+  { "home": "PAOK Salonika", "away": "Panionios", "homescore": "2", "awayscore": "0" },
+  { "home": "AEK Athens", "away": "Panathinaikos", "homescore": "3", "awayscore": "1" },
+  { "home": "Royal Charleroi SC", "away": "Racing Genk", "homescore": "2", "awayscore": "0" },
+  { "home": "AaB", "away": "FC Midtjylland", "homescore": "0", "awayscore": "0" },
+  { "home": "AGF Aarhus", "away": "Odense BK", "homescore": "2", "awayscore": "1" },
+  { "home": "Esbjerg", "away": "FC Copenhagen", "homescore": "1", "awayscore": "4" },
+  { "home": "FC Nordsjaelland", "away": "Viborg FF", "homescore": "1", "awayscore": "0" },
+  { "home": "Hobro IK", "away": "Brøndby", "homescore": "0", "awayscore": "2" },
+  { "home": "Sonderjyske", "away": "Randers FC", "homescore": "1", "awayscore": "1" },
+  { "home": "Pachuca", "away": "Monterrey", "homescore": "0", "awayscore": "0" },
+  {
+    "home": "Arsenal de Sarandí",
+    "away": "Talleres de Remedios de Escalada",
+    "homescore": "2",
+    "awayscore": "1"
+  },
+  { "home": "Banfield", "away": "Defensores de Belgrano (VR)" },
+  { "home": "Corinthians", "away": "AA Ponte Preta", "homescore": "3", "awayscore": "0" },
+  { "home": "Internacional", "away": "Sport", "homescore": "1", "awayscore": "0" },
+  { "home": "Atlético MG", "away": "Gremio", "homescore": "0", "awayscore": "3" },
+  { "home": "Comunicaciones", "away": "Suchitepequez" }
+]

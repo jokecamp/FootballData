@@ -1,0 +1,16 @@
+[
+  { "home": "Portugal", "away": "France", "homescore": "1", "awayscore": "0" },
+  { "home": "Lincoln Red Imps", "away": "Celtic" },
+  { "home": "FK Qarabag", "away": "F91 Dudelange" },
+  { "home": "Alashkert FC", "away": "Dinamo Tbilisi" },
+  { "home": "T.N.S.", "away": "Apoel Nicosia" },
+  { "home": "Carolina RailHawks", "away": "West Ham United" },
+  { "home": "Germany U19", "away": "Italy U19", "homescore": "0", "awayscore": "1" },
+  { "home": "Portugal U19", "away": "Austria U19", "homescore": "1", "awayscore": "1" },
+  { "home": "FC Groningen", "away": "Queens Park Rangers", "homescore": "3", "awayscore": "1" },
+  { "home": "Malmo FF", "away": "Orebro SK", "homescore": "1", "awayscore": "0" },
+  { "home": "Cruzeiro", "away": "Atletico Paranaense", "homescore": "0", "awayscore": "3" },
+  { "home": "Deportes Quindío", "away": "Deportivo Pereira" },
+  { "home": "La Bocana", "away": "Comerciantes Unidos", "homescore": "2", "awayscore": "0" },
+  { "home": "UTC", "away": "Unión Comercio", "homescore": "1", "awayscore": "1" }
+]

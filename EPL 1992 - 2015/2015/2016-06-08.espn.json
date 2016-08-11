@@ -1,0 +1,32 @@
+[
+  { "home": "Brazil", "away": "Haiti", "homescore": "7", "awayscore": "1" },
+  { "home": "Ecuador", "away": "Peru" },
+  { "home": "Portugal", "away": "Estonia", "homescore": "7", "awayscore": "0" },
+  { "home": "Uruguay", "away": "Venezuela" },
+  { "home": "Mexico", "away": "Jamaica" },
+  { "home": "France", "away": "Romania" },
+  { "home": "Brazil", "away": "Haiti", "homescore": "7", "awayscore": "1" },
+  { "home": "Ecuador", "away": "Peru" },
+  { "home": "Namibia", "away": "Malawi", "homescore": "0", "awayscore": "0" },
+  { "home": "Portugal", "away": "Estonia", "homescore": "7", "awayscore": "0" },
+  { "home": "Osasuna", "away": "Gimnastic de Tarragona", "homescore": "3", "awayscore": "1" },
+  { "home": "Salernitana", "away": "Lanciano", "homescore": "1", "awayscore": "0" },
+  { "home": "Midland", "away": "Cañuelas", "homescore": "1", "awayscore": "0" },
+  {
+    "home": "Central Ballester",
+    "away": "Juventud Unida San Miguel",
+    "homescore": "2",
+    "awayscore": "0"
+  },
+  { "home": "Puerto Nuevo", "away": "Leandro Nicéforo Alem", "homescore": "2", "awayscore": "1" },
+  { "home": "Atlético Junior", "away": "Atlético Nacional", "homescore": "1", "awayscore": "1" },
+  { "home": "Abia Warriors", "away": "Ikorodu United", "homescore": "1", "awayscore": "1" },
+  { "home": "Akwa United", "away": "Sunshine Stars", "homescore": "3", "awayscore": "3" },
+  { "home": "Enugu Rangers", "away": "Kano Pillars", "homescore": "1", "awayscore": "0" },
+  { "home": "Ifeanyi Ubah FC", "away": "Giwa FC" },
+  { "home": "Lobi Stars", "away": "Shooting Stars SC", "homescore": "3", "awayscore": "1" },
+  { "home": "MFM FC", "away": "Nasarawa United", "homescore": "2", "awayscore": "0" },
+  { "home": "Niger Tornadoes", "away": "Plateau United", "homescore": "1", "awayscore": "0" },
+  { "home": "Warri Wolves", "away": "Heartland", "homescore": "2", "awayscore": "2" },
+  { "home": "Wikki Tourists", "away": "El Kanemi Warriors", "homescore": "1", "awayscore": "0" }
+]

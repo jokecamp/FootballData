@@ -1,0 +1,16 @@
+[
+  { "home": "Valencia", "away": "Las Palmas", "homescore": "1", "awayscore": "1" },
+  { "home": "Sevilla FC", "away": "Mirandes", "homescore": "2", "awayscore": "0" },
+  { "home": "St Etienne", "away": "AC Ajaccio", "homescore": "2", "awayscore": "1" },
+  { "home": "Congo DR", "away": "Angola", "homescore": "4", "awayscore": "2" },
+  { "home": "Cameroon", "away": "Ethiopia", "homescore": "0", "awayscore": "0" },
+  { "home": "Valencia", "away": "Las Palmas", "homescore": "1", "awayscore": "1" },
+  { "home": "Sevilla FC", "away": "Mirandes", "homescore": "2", "awayscore": "0" },
+  { "home": "St Etienne", "away": "AC Ajaccio", "homescore": "2", "awayscore": "1" },
+  { "home": "Pasaquina FC", "away": "Universidad de El Salvador", "homescore": "2", "awayscore": "0" },
+  { "home": "Juventud Independiente", "away": "CD FAS" },
+  { "home": "Metapan", "away": "Alianza FC" },
+  { "home": "CD Sonsonate", "away": "Aguila" },
+  { "home": "Congo DR", "away": "Angola", "homescore": "4", "awayscore": "2" },
+  { "home": "Cameroon", "away": "Ethiopia", "homescore": "0", "awayscore": "0" }
+]

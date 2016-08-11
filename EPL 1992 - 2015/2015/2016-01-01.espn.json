@@ -1,0 +1,32 @@
+[
+  {
+    "home": "Brighton &amp; Hove Albion",
+    "away": "Wolverhampton Wanderers",
+    "homescore": "0",
+    "awayscore": "1"
+  },
+  { "home": "Queens Park Rangers", "away": "Hull City", "homescore": "1", "awayscore": "2" },
+  { "home": "Western Sydney Wanderers", "away": "Adelaide United", "homescore": "0", "awayscore": "0" },
+  { "home": "Brisbane Roar", "away": "Perth Glory" },
+  {
+    "home": "Brighton &amp; Hove Albion",
+    "away": "Wolverhampton Wanderers",
+    "homescore": "0",
+    "awayscore": "1"
+  },
+  { "home": "Queens Park Rangers", "away": "Hull City", "homescore": "1", "awayscore": "2" },
+  { "home": "Forest Green Rovers", "away": "Torquay United", "homescore": "3", "awayscore": "1" },
+  { "home": "Aberystwyth", "away": "Haverfordwest", "homescore": "1", "awayscore": "2" },
+  { "home": "Airbus UK", "away": "Connah&#39;s Quay", "homescore": "3", "awayscore": "2" },
+  { "home": "Bala Town", "away": "Rhyl", "homescore": "0", "awayscore": "0" },
+  { "home": "Bangor City", "away": "Llandudno Town", "homescore": "0", "awayscore": "3" },
+  { "home": "T.N.S.", "away": "Newtown", "homescore": "4", "awayscore": "1" },
+  { "home": "Carrick", "away": "Glenavon" },
+  { "home": "Cliftonville", "away": "Warrenpoint Town", "homescore": "1", "awayscore": "1" },
+  { "home": "Coleraine", "away": "Ballinamallard Utd", "homescore": "1", "awayscore": "0" },
+  { "home": "Dungannon Swifts", "away": "Glentoran", "homescore": "3", "awayscore": "1" },
+  { "home": "Linfield", "away": "Crusaders", "homescore": "2", "awayscore": "0" },
+  { "home": "Portadown", "away": "Ballymena", "homescore": "3", "awayscore": "4" },
+  { "home": "Western Sydney Wanderers", "away": "Adelaide United", "homescore": "0", "awayscore": "0" },
+  { "home": "Brisbane Roar", "away": "Perth Glory" }
+]

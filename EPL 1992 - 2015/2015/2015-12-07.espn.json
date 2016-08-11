@@ -1,0 +1,32 @@
+[
+  { "home": "Everton", "away": "Crystal Palace", "homescore": "1", "awayscore": "1" },
+  { "home": "Espanyol", "away": "Levante", "homescore": "1", "awayscore": "1" },
+  { "home": "Grimsby Town", "away": "Shrewsbury Town", "homescore": "0", "awayscore": "0" },
+  { "home": "Guimaraes", "away": "Rio Ave", "homescore": "3", "awayscore": "1" },
+  {
+    "home": "Fortuna Düsseldorf",
+    "away": "TSV Eintracht Braunschweig",
+    "homescore": "1",
+    "awayscore": "0"
+  },
+  { "home": "Everton", "away": "Crystal Palace", "homescore": "1", "awayscore": "1" },
+  { "home": "Espanyol", "away": "Levante", "homescore": "1", "awayscore": "1" },
+  { "home": "Grimsby Town", "away": "Shrewsbury Town", "homescore": "0", "awayscore": "0" },
+  { "home": "Arbroath", "away": "Cowdenbeath", "homescore": "2", "awayscore": "4" },
+  { "home": "Lothian Thistle Hutchison Vale", "away": "Huntly", "homescore": "3", "awayscore": "0" },
+  { "home": "Guimaraes", "away": "Rio Ave", "homescore": "3", "awayscore": "1" },
+  { "home": "Athletic Bilbao B", "away": "Real Zaragoza", "homescore": "0", "awayscore": "1" },
+  {
+    "home": "Fortuna Düsseldorf",
+    "away": "TSV Eintracht Braunschweig",
+    "homescore": "1",
+    "awayscore": "0"
+  },
+  { "home": "Jong PSV", "away": "NAC Breda", "homescore": "0", "awayscore": "3" },
+  { "home": "Akhisar Belediye", "away": "Sivasspor", "homescore": "1", "awayscore": "0" },
+  { "home": "Trabzonspor", "away": "Eskisehirspor K", "homescore": "3", "awayscore": "1" },
+  { "home": "Panetolikos", "away": "Atromitos", "homescore": "1", "awayscore": "1" },
+  { "home": "AaB", "away": "Viborg FF", "homescore": "2", "awayscore": "0" },
+  { "home": "Deportivo Morón", "away": "Almagro", "homescore": "1", "awayscore": "1" },
+  { "home": "Arnett Gardens FC", "away": "Humble Lions" }
+]

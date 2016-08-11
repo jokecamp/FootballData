@@ -1,0 +1,33 @@
+[
+  { "home": "Portugal", "away": "Iceland", "homescore": "1", "awayscore": "1" },
+  { "home": "Austria", "away": "Hungary", "homescore": "0", "awayscore": "2" },
+  { "home": "Chile", "away": "Panama", "homescore": "4", "awayscore": "2" },
+  { "home": "Argentina", "away": "Bolivia" },
+  { "home": "Austria", "away": "Hungary", "homescore": "0", "awayscore": "2" },
+  { "home": "Portugal", "away": "Iceland", "homescore": "1", "awayscore": "1" },
+  { "home": "Chile", "away": "Panama", "homescore": "4", "awayscore": "2" },
+  { "home": "Argentina", "away": "Bolivia" },
+  {
+    "home": "Colorado Rapids",
+    "away": "Colorado Springs Switchbacks FC",
+    "homescore": "0",
+    "awayscore": "0"
+  },
+  { "home": "Real Salt Lake", "away": "Wilmington Hammerheads" },
+  { "home": "LA Galaxy", "away": "La Máquina FC" },
+  { "home": "Portland Timbers", "away": "San Jose Earthquakes" },
+  { "home": "Crucero del Norte", "away": "Nueva Chicago", "homescore": "1", "awayscore": "0" },
+  { "home": "CR Vasco da Gama", "away": "Náutico", "homescore": "3", "awayscore": "2" },
+  { "home": "Criciúma", "away": "Bahia", "homescore": "3", "awayscore": "2" },
+  { "home": "Joinville", "away": "Goianiense", "homescore": "0", "awayscore": "0" },
+  { "home": "Oeste", "away": "Londrina", "homescore": "1", "awayscore": "1" },
+  { "home": "Paraná Clube", "away": "Goiás EC", "homescore": "2", "awayscore": "0" },
+  { "home": "Tupi (MG)", "away": "Luverdense", "homescore": "0", "awayscore": "0" },
+  { "home": "Vila Nova-GO", "away": "Sampaio Correa-MA", "homescore": "1", "awayscore": "0" },
+  { "home": "Ceará", "away": "Brasil de Pelotas", "homescore": "1", "awayscore": "0" },
+  { "home": "CRB", "away": "Bragantino", "homescore": "2", "awayscore": "0" },
+  { "home": "Paysandu SC", "away": "Avaí", "homescore": "1", "awayscore": "0" },
+  { "home": "Guangzhou Evergrande", "away": "Tianjin Teda", "homescore": "2", "awayscore": "0" },
+  { "home": "Home United", "away": "Balestier Khalsa", "homescore": "1", "awayscore": "3" },
+  { "home": "Tampines Rovers", "away": "Young Lions", "homescore": "6", "awayscore": "1" }
+]
