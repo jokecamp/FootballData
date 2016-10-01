@@ -1,0 +1,43 @@
+[
+  {
+    "home": "St. Vincent and the Grenadines",
+    "away": "United States",
+    "homescore": "0",
+    "awayscore": "6"
+  },
+  { "home": "Honduras", "away": "Canada", "homescore": "2", "awayscore": "1" },
+  { "home": "El Salvador", "away": "Mexico" },
+  { "home": "South Africa", "away": "Mauritania", "homescore": "1", "awayscore": "1" },
+  {
+    "home": "St. Vincent and the Grenadines",
+    "away": "United States",
+    "homescore": "0",
+    "awayscore": "6"
+  },
+  { "home": "Honduras", "away": "Canada", "homescore": "2", "awayscore": "1" },
+  { "home": "Trinidad and Tobago", "away": "Guatemala", "homescore": "2", "awayscore": "2" },
+  { "home": "Haiti", "away": "Costa Rica", "homescore": "0", "awayscore": "1" },
+  { "home": "Panama", "away": "Jamaica", "homescore": "0", "awayscore": "0" },
+  { "home": "El Salvador", "away": "Mexico" },
+  { "home": "Sudan", "away": "Gabon", "homescore": "1", "awayscore": "2" },
+  { "home": "South Africa", "away": "Mauritania", "homescore": "1", "awayscore": "1" },
+  { "home": "Philippines", "away": "Turkmenistan", "homescore": "0", "awayscore": "0" },
+  { "home": "Latvia", "away": "Luxembourg", "homescore": "3", "awayscore": "1" },
+  { "home": "Bohemians", "away": "Wexford Youths" },
+  { "home": "Derry City", "away": "Galway Utd", "homescore": "0", "awayscore": "0" },
+  { "home": "Dundalk", "away": "Cork" },
+  { "home": "Shamrock Rovers", "away": "St Patricks", "homescore": "0", "awayscore": "0" },
+  { "home": "Bohemians", "away": "Dundalk", "homescore": "1", "awayscore": "2" },
+  { "home": "Sevilla Atletico", "away": "UCAM Murcia", "homescore": "1", "awayscore": "1" },
+  { "home": "Cordoba", "away": "Lugo", "homescore": "3", "awayscore": "3" },
+  { "home": "Ottawa Fury FC", "away": "FC Edmonton", "homescore": "2", "awayscore": "2" },
+  { "home": "Berazategui", "away": "Argentino Quilmes", "homescore": "0", "awayscore": "1" },
+  { "home": "Argentino Merlo", "away": "San Martín Burzaco" },
+  { "home": "Mineros de Zacatecas", "away": "Venados FC", "homescore": "4", "awayscore": "0" },
+  { "home": "UAEM Potros", "away": "Cimarrones de Sonora", "homescore": "1", "awayscore": "1" },
+  { "home": "Coras Tepic", "away": "FC Juarez" },
+  { "home": "Murcielagos FC", "away": "Correcaminos" },
+  { "home": "Brasil de Pelotas", "away": "Goiás EC", "homescore": "2", "awayscore": "1" },
+  { "home": "Luverdense", "away": "Paysandu SC", "homescore": "2", "awayscore": "1" },
+  { "home": "Club Deportivo Cuenca", "away": "Fuerza Amarilla" }
+]

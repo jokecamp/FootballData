@@ -1,0 +1,21 @@
+[
+  { "home": "Celta Vigo", "away": "Sevilla FC", "homescore": "2", "awayscore": "2" },
+  { "home": "Lazio", "away": "Hellas Verona", "homescore": "5", "awayscore": "2" },
+  { "home": "Trelissac FC", "away": "Marseille", "homescore": "0", "awayscore": "2" },
+  { "home": "Guaraní", "away": "Independiente del Valle", "homescore": "2", "awayscore": "1" },
+  { "home": "Independiente Santa Fe", "away": "Oriente Petrolero", "homescore": "3", "awayscore": "0" },
+  { "home": "Celta Vigo", "away": "Sevilla FC", "homescore": "2", "awayscore": "2" },
+  { "home": "Lazio", "away": "Hellas Verona", "homescore": "5", "awayscore": "2" },
+  { "home": "Trelissac FC", "away": "Marseille", "homescore": "0", "awayscore": "2" },
+  { "home": "Carrick", "away": "Dungannon Swifts", "homescore": "2", "awayscore": "2" },
+  { "home": "Guaraní", "away": "Independiente del Valle", "homescore": "2", "awayscore": "1" },
+  { "home": "Independiente Santa Fe", "away": "Oriente Petrolero", "homescore": "3", "awayscore": "0" },
+  { "home": "Cabofriense", "away": "Bonsucesso", "homescore": "3", "awayscore": "1" },
+  { "home": "Madureira", "away": "Fluminense FC", "homescore": "3", "awayscore": "3" },
+  { "home": "Botafogo (RP)", "away": "Sao Bernardo", "homescore": "1", "awayscore": "1" },
+  { "home": "XV de Piracicaba", "away": "Água Santa", "homescore": "0", "awayscore": "0" },
+  { "home": "Corinthians", "away": "Capivariano", "homescore": "2", "awayscore": "1" },
+  { "home": "Internacional", "away": "Passo Fundo", "homescore": "2", "awayscore": "1" },
+  { "home": "Universitario de Deportes", "away": "Juan Aurich", "homescore": "2", "awayscore": "2" },
+  { "home": "Belen", "away": "Limon" }
+]

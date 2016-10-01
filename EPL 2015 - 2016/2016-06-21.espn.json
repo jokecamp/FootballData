@@ -1,0 +1,23 @@
+[
+  { "home": "United States", "away": "Argentina", "homescore": "0", "awayscore": "2" },
+  { "home": "Croatia", "away": "Spain", "homescore": "2", "awayscore": "1" },
+  { "home": "Czech Republic", "away": "Turkey", "homescore": "0", "awayscore": "2" },
+  { "home": "Northern Ireland", "away": "Germany", "homescore": "0", "awayscore": "1" },
+  { "home": "Ukraine", "away": "Poland", "homescore": "0", "awayscore": "1" },
+  { "home": "Northern Ireland", "away": "Germany", "homescore": "0", "awayscore": "1" },
+  { "home": "Ukraine", "away": "Poland", "homescore": "0", "awayscore": "1" },
+  { "home": "Croatia", "away": "Spain", "homescore": "2", "awayscore": "1" },
+  { "home": "Czech Republic", "away": "Turkey", "homescore": "0", "awayscore": "2" },
+  { "home": "United States", "away": "Argentina", "homescore": "0", "awayscore": "2" },
+  { "home": "Palmeiras", "away": "América Mineiro", "homescore": "2", "awayscore": "0" },
+  { "home": "Avaí", "away": "Goianiense", "homescore": "1", "awayscore": "1" },
+  { "home": "Ceará", "away": "Oeste", "homescore": "1", "awayscore": "0" },
+  { "home": "CRB", "away": "Paraná Clube", "homescore": "1", "awayscore": "1" },
+  { "home": "Londrina", "away": "CR Vasco da Gama", "homescore": "0", "awayscore": "1" },
+  { "home": "Paysandu SC", "away": "Joinville", "homescore": "1", "awayscore": "0" },
+  { "home": "Tupi (MG)", "away": "Bahia", "homescore": "2", "awayscore": "1" },
+  { "home": "Bragantino", "away": "Goiás EC", "homescore": "0", "awayscore": "1" },
+  { "home": "Brasil de Pelotas", "away": "Náutico", "homescore": "0", "awayscore": "0" },
+  { "home": "Luverdense", "away": "Sampaio Correa-MA", "homescore": "0", "awayscore": "0" },
+  { "home": "Vila Nova-GO", "away": "Criciúma", "homescore": "1", "awayscore": "3" }
+]

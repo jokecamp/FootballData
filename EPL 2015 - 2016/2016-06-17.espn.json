@@ -1,0 +1,25 @@
+[
+  { "home": "Italy", "away": "Sweden", "homescore": "1", "awayscore": "0" },
+  { "home": "Czech Republic", "away": "Croatia", "homescore": "2", "awayscore": "2" },
+  { "home": "Spain", "away": "Turkey", "homescore": "3", "awayscore": "0" },
+  { "home": "Peru", "away": "Colombia", "homescore": "0", "awayscore": "0" },
+  { "home": "Papua New Guinea", "away": "Malaysia", "homescore": "2", "awayscore": "0" },
+  { "home": "Italy", "away": "Sweden", "homescore": "1", "awayscore": "0" },
+  { "home": "Czech Republic", "away": "Croatia", "homescore": "2", "awayscore": "2" },
+  { "home": "Spain", "away": "Turkey", "homescore": "3", "awayscore": "0" },
+  { "home": "Peru", "away": "Colombia", "homescore": "0", "awayscore": "0" },
+  { "home": "Papua New Guinea", "away": "Malaysia", "homescore": "2", "awayscore": "0" },
+  {
+    "home": "Juventud Unida (G)",
+    "away": "Independiente Rivadavia",
+    "homescore": "0",
+    "awayscore": "0"
+  },
+  { "home": "Brown de Adrogué", "away": "All Boys", "homescore": "0", "awayscore": "2" },
+  { "home": "Boca Unidos", "away": "Crucero del Norte", "homescore": "2", "awayscore": "2" },
+  { "home": "Joinville", "away": "Ceará", "homescore": "1", "awayscore": "1" },
+  { "home": "Paraná Clube", "away": "Luverdense", "homescore": "1", "awayscore": "2" },
+  { "home": "Sampaio Correa-MA", "away": "Brasil de Pelotas", "homescore": "1", "awayscore": "1" },
+  { "home": "Goiás EC", "away": "Avaí", "homescore": "0", "awayscore": "0" },
+  { "home": "Balestier Khalsa", "away": "Tampines Rovers", "homescore": "2", "awayscore": "3" }
+]

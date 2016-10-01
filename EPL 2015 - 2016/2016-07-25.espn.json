@@ -1,0 +1,25 @@
+[
+  { "home": "Manchester City", "away": "Manchester United" },
+  { "home": "Cheltenham Town", "away": "Bristol City", "homescore": "1", "awayscore": "2" },
+  { "home": "Sarmiento de Junín", "away": "Los Andes", "homescore": "1", "awayscore": "2" },
+  { "home": "Flamengo", "away": "América Mineiro", "homescore": "2", "awayscore": "1" },
+  { "home": "Juventus", "away": "Tottenham Hotspur" },
+  { "home": "Manchester City", "away": "Manchester United" },
+  { "home": "Cheltenham Town", "away": "Bristol City", "homescore": "1", "awayscore": "2" },
+  { "home": "Rangers", "away": "Stranraer", "homescore": "3", "awayscore": "0" },
+  { "home": "Djurgardens IF", "away": "GIF Sundsvall", "homescore": "1", "awayscore": "3" },
+  { "home": "Elfsborg", "away": "Östersunds FK", "homescore": "3", "awayscore": "1" },
+  { "home": "Sarmiento de Junín", "away": "Los Andes", "homescore": "1", "awayscore": "2" },
+  { "home": "Flamengo", "away": "América Mineiro", "homescore": "2", "awayscore": "1" },
+  { "home": "Deportes Quindío", "away": "Valledupar F.C." },
+  { "home": "San Martin", "away": "Ayacucho FC", "homescore": "1", "awayscore": "1" },
+  {
+    "home": "Comerciantes Unidos",
+    "away": "Deportivo Municipal Lima",
+    "homescore": "1",
+    "awayscore": "0"
+  },
+  { "home": "General Caballero", "away": "Rubio Ñú", "homescore": "1", "awayscore": "1" },
+  { "home": "Nacional", "away": "Sportivo Luqueño", "homescore": "1", "awayscore": "2" },
+  { "home": "Rapid Bucuresti", "away": "FC Botosani" }
+]

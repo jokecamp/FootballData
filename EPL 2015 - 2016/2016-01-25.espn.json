@@ -1,0 +1,22 @@
+[
+  { "home": "Melbourne City FC", "away": "Wellington Phoenix FC", "homescore": "3", "awayscore": "1" },
+  { "home": "Levante", "away": "Las Palmas", "homescore": "3", "awayscore": "2" },
+  { "home": "Burnley", "away": "Derby County", "homescore": "4", "awayscore": "1" },
+  { "home": "Cameroon", "away": "Congo DR", "homescore": "3", "awayscore": "1" },
+  { "home": "Ethiopia", "away": "Angola", "homescore": "1", "awayscore": "2" },
+  { "home": "Levante", "away": "Las Palmas", "homescore": "3", "awayscore": "2" },
+  { "home": "Burnley", "away": "Derby County", "homescore": "4", "awayscore": "1" },
+  { "home": "Greenock Morton", "away": "Rangers", "homescore": "0", "awayscore": "2" },
+  { "home": "Tondela", "away": "Boavista", "homescore": "1", "awayscore": "2" },
+  { "home": "Livorno", "away": "Como", "homescore": "1", "awayscore": "1" },
+  { "home": "AC Ajaccio", "away": "Brest", "homescore": "2", "awayscore": "1" },
+  { "home": "Clermont Foot", "away": "Le Havre AC", "homescore": "2", "awayscore": "1" },
+  { "home": "Achilles &#39;29", "away": "Fortuna Sittard", "homescore": "3", "awayscore": "0" },
+  { "home": "Jong Ajax", "away": "NAC Breda", "homescore": "2", "awayscore": "1" },
+  { "home": "Istanbul Buyuksehir BSK", "away": "Kasimpasa", "homescore": "1", "awayscore": "1" },
+  { "home": "Iraklis", "away": "Platanias", "homescore": "0", "awayscore": "0" },
+  { "home": "Melbourne City FC", "away": "Wellington Phoenix FC", "homescore": "3", "awayscore": "1" },
+  { "home": "Harbour View", "away": "UWI FC" },
+  { "home": "Cameroon", "away": "Congo DR", "homescore": "3", "awayscore": "1" },
+  { "home": "Ethiopia", "away": "Angola", "homescore": "1", "awayscore": "2" }
+]

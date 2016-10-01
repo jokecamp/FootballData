@@ -1,0 +1,14 @@
+[
+  { "home": "Belgium", "away": "Italy", "homescore": "0", "awayscore": "2" },
+  { "home": "Spain", "away": "Czech Republic", "homescore": "1", "awayscore": "0" },
+  { "home": "Republic of Ireland", "away": "Sweden", "homescore": "1", "awayscore": "1" },
+  { "home": "Mexico", "away": "Venezuela", "homescore": "1", "awayscore": "1" },
+  { "home": "Uruguay", "away": "Jamaica" },
+  { "home": "Spain", "away": "Czech Republic", "homescore": "1", "awayscore": "0" },
+  { "home": "Republic of Ireland", "away": "Sweden", "homescore": "1", "awayscore": "1" },
+  { "home": "Belgium", "away": "Italy", "homescore": "0", "awayscore": "2" },
+  { "home": "Mexico", "away": "Venezuela", "homescore": "1", "awayscore": "1" },
+  { "home": "Uruguay", "away": "Jamaica" },
+  { "home": "San Carlos", "away": "Defensores de Belgrano", "homescore": "1", "awayscore": "0" },
+  { "home": "Deportivo Laferrere", "away": "Defensores Cambaceres", "homescore": "1", "awayscore": "2" }
+]

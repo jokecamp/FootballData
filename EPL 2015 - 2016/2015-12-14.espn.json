@@ -1,0 +1,18 @@
+[
+  { "home": "Leicester City", "away": "Chelsea", "homescore": "2", "awayscore": "1" },
+  { "home": "Lazio", "away": "Sampdoria", "homescore": "1", "awayscore": "1" },
+  { "home": "Blackburn Rovers", "away": "Nottingham Forest", "homescore": "0", "awayscore": "0" },
+  { "home": "Academica de Coimbra", "away": "Belenenses", "homescore": "4", "awayscore": "3" },
+  { "home": "Leicester City", "away": "Chelsea", "homescore": "2", "awayscore": "1" },
+  { "home": "Lazio", "away": "Sampdoria", "homescore": "1", "awayscore": "1" },
+  { "home": "Blackburn Rovers", "away": "Nottingham Forest", "homescore": "0", "awayscore": "0" },
+  { "home": "Academica de Coimbra", "away": "Belenenses", "homescore": "4", "awayscore": "3" },
+  { "home": "Portadown", "away": "Glentoran", "homescore": "5", "awayscore": "3" },
+  { "home": "Novara", "away": "Trapani", "homescore": "4", "awayscore": "1" },
+  { "home": "Arminia Bielefeld", "away": "St Pauli", "homescore": "0", "awayscore": "0" },
+  { "home": "AS Nancy Lorraine", "away": "Valenciennes", "homescore": "1", "awayscore": "0" },
+  { "home": "Besiktas", "away": "Galatasaray", "homescore": "2", "awayscore": "1" },
+  { "home": "Levadiakos", "away": "PAOK Salonika", "homescore": "0", "awayscore": "0" },
+  { "home": "Sport Boys Warnes", "away": "Real Potosí", "homescore": "1", "awayscore": "0" },
+  { "home": "Montego Bay United FC", "away": "Reno" }
+]

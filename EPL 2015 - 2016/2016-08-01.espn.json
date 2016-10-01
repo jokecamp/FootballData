@@ -1,0 +1,21 @@
+[
+  { "home": "Liverpool", "away": "AS Roma", "homescore": "1", "awayscore": "2" },
+  { "home": "Torquay United", "away": "West Bromwich Albion", "homescore": "2", "awayscore": "1" },
+  { "home": "FK Rubin Kazan", "away": "FK Amkar Perm", "homescore": "0", "awayscore": "0" },
+  { "home": "Krasnodar", "away": "FK Tom Tomsk", "homescore": "3", "awayscore": "0" },
+  { "home": "Torquay United", "away": "West Bromwich Albion", "homescore": "2", "awayscore": "1" },
+  { "home": "Liverpool", "away": "AS Roma", "homescore": "1", "awayscore": "2" },
+  { "home": "FK Rubin Kazan", "away": "FK Amkar Perm", "homescore": "0", "awayscore": "0" },
+  { "home": "Krasnodar", "away": "FK Tom Tomsk", "homescore": "3", "awayscore": "0" },
+  { "home": "Wexford Youths", "away": "St Patricks", "homescore": "0", "awayscore": "1" },
+  { "home": "SC Amiens", "away": "Stade de Reims", "homescore": "1", "awayscore": "1" },
+  { "home": "Universitatea Craiova", "away": "ASA Targu Mures", "homescore": "2", "awayscore": "1" },
+  { "home": "Concordia Chiajna", "away": "Voluntari", "homescore": "0", "awayscore": "4" },
+  { "home": "AaB", "away": "Odense Boldklub", "homescore": "2", "awayscore": "2" },
+  { "home": "Kalmar FF", "away": "Djurgardens IF", "homescore": "2", "awayscore": "1" },
+  { "home": "Orebro SK", "away": "Malmo FF", "homescore": "0", "awayscore": "3" },
+  { "home": "Valerenga", "away": "Molde", "homescore": "3", "awayscore": "0" },
+  { "home": "Once Caldas", "away": "Fortaleza CE", "homescore": "0", "awayscore": "0" },
+  { "home": "Deportivo Pereira", "away": "Atlético FC", "homescore": "7", "awayscore": "2" },
+  { "home": "Rubio Ñú", "away": "River Plate (Asunción)", "homescore": "5", "awayscore": "1" }
+]

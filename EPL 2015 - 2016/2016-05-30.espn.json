@@ -1,0 +1,30 @@
+[
+  { "home": "Sweden", "away": "Slovenia", "homescore": "0", "awayscore": "0" },
+  { "home": "France", "away": "Cameroon", "homescore": "3", "awayscore": "2" },
+  { "home": "Vanuatu", "away": "New Zealand" },
+  { "home": "AFC Wimbledon", "away": "Plymouth Argyle", "homescore": "2", "awayscore": "0" },
+  { "home": "Sweden", "away": "Slovenia", "homescore": "0", "awayscore": "0" },
+  { "home": "Zambia", "away": "Gambia", "homescore": "0", "awayscore": "0" },
+  { "home": "France", "away": "Cameroon", "homescore": "3", "awayscore": "2" },
+  { "home": "Vanuatu", "away": "New Zealand" },
+  {
+    "home": "Sp. Estudiantes (San Luis)",
+    "away": "Chacarita Juniors",
+    "homescore": "0",
+    "awayscore": "1"
+  },
+  { "home": "Acassuso", "away": "Deportivo Morón", "homescore": "0", "awayscore": "1" },
+  { "home": "San Carlos", "away": "Estudiantes de Caseros", "homescore": "1", "awayscore": "1" },
+  { "home": "UAI Urquiza", "away": "Flandria", "homescore": "0", "awayscore": "1" },
+  { "home": "Berazategui", "away": "Sacachispas", "homescore": "2", "awayscore": "1" },
+  {
+    "home": "Defensores Unidos",
+    "away": "Central Córdoba de Rosario",
+    "homescore": "4",
+    "awayscore": "2"
+  },
+  { "home": "Liniers", "away": "Midland", "homescore": "1", "awayscore": "0" },
+  { "home": "San Martín Burzaco", "away": "San Miguel", "homescore": "2", "awayscore": "3" },
+  { "home": "Deportivo Pereira", "away": "Llaneros" },
+  { "home": "Universitario de Deportes", "away": "Sport Huancayo" }
+]

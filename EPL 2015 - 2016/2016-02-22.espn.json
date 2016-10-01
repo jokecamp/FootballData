@@ -1,0 +1,32 @@
+[
+  { "home": "Shrewsbury Town", "away": "Manchester United", "homescore": "0", "awayscore": "3" },
+  { "home": "Napoli", "away": "AC Milan", "homescore": "1", "awayscore": "1" },
+  { "home": "Sporting CP", "away": "Boavista", "homescore": "2", "awayscore": "0" },
+  { "home": "Shrewsbury Town", "away": "Manchester United", "homescore": "0", "awayscore": "3" },
+  { "home": "Napoli", "away": "AC Milan", "homescore": "1", "awayscore": "1" },
+  { "home": "Southend United", "away": "Burton Albion", "homescore": "3", "awayscore": "1" },
+  { "home": "Sporting CP", "away": "Boavista", "homescore": "2", "awayscore": "0" },
+  { "home": "Perugia", "away": "Trapani", "homescore": "0", "awayscore": "2" },
+  { "home": "Fortuna Düsseldorf", "away": "Nurnberg", "homescore": "1", "awayscore": "1" },
+  { "home": "Nimes", "away": "Metz", "homescore": "2", "awayscore": "1" },
+  { "home": "Besiktas", "away": "Genclerbirligi", "homescore": "1", "awayscore": "0" },
+  { "home": "Veria", "away": "Panionios", "homescore": "1", "awayscore": "1" },
+  { "home": "Quilmes", "away": "Patronato", "homescore": "2", "awayscore": "2" },
+  { "home": "Arsenal de Sarandí", "away": "Sarmiento de Junín", "homescore": "2", "awayscore": "0" },
+  { "home": "Unión de Santa Fe", "away": "San Martín de San Juan", "homescore": "1", "awayscore": "1" },
+  {
+    "home": "Juventud Unida Universitario",
+    "away": "Talleres de Córdoba",
+    "homescore": "0",
+    "awayscore": "3"
+  },
+  { "home": "Estudiantes de Caseros", "away": "Almirante Brown", "homescore": "2", "awayscore": "1" },
+  { "home": "Fénix", "away": "Atlanta", "homescore": "2", "awayscore": "0" },
+  { "home": "Midland", "away": "Excursionistas", "homescore": "1", "awayscore": "2" },
+  { "home": "Sacachispas", "away": "Luján", "homescore": "2", "awayscore": "2" },
+  { "home": "Universidad de Concepción", "away": "Arica", "homescore": "2", "awayscore": "1" },
+  { "home": "Deportivo Pereira", "away": "Deportes Quindío", "homescore": "1", "awayscore": "0" },
+  { "home": "America Cali", "away": "Real Santander" },
+  { "home": "Club Deportivo Cuenca", "away": "Emelec", "homescore": "0", "awayscore": "1" },
+  { "home": "Arnett Gardens FC", "away": "Rivoli United" }
+]

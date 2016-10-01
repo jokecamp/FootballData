@@ -1,0 +1,19 @@
+[
+  { "home": "Real Sociedad", "away": "Espanyol" },
+  { "home": "Schalke 04", "away": "Bayern Munich" },
+  { "home": "Paris Saint-Germain", "away": "St Etienne" },
+  { "home": "Reading", "away": "Ipswich Town" },
+  { "home": "Sporting Kansas City", "away": "Houston Dynamo" },
+  { "home": "Veracruz", "away": "Pachuca" },
+  { "home": "Huesca", "away": "Girona", "homescore": "1", "awayscore": "0" },
+  { "home": "UCAM Murcia", "away": "Real Oviedo", "homescore": "4", "awayscore": "3" },
+  { "home": "AD Alcorcon", "away": "Getafe", "homescore": "1", "awayscore": "0" },
+  { "home": "San Carlos", "away": "Deportivo Riestra", "homescore": "0", "awayscore": "1" },
+  { "home": "Dock Sud", "away": "Club Sportivo Italiano", "homescore": "0", "awayscore": "2" },
+  { "home": "Centro Español", "away": "Puerto Nuevo", "homescore": "2", "awayscore": "1" },
+  { "home": "Claypole", "away": "Liniers", "homescore": "0", "awayscore": "1" },
+  { "home": "Corinthians", "away": "Sport", "homescore": "3", "awayscore": "0" },
+  { "home": "América Mineiro", "away": "Cruzeiro", "homescore": "0", "awayscore": "2" },
+  { "home": "Internacional", "away": "Santos FC", "homescore": "2", "awayscore": "1" },
+  { "home": "Olimpia", "away": "CD Motagua" }
+]

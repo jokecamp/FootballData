@@ -1,0 +1,22 @@
+[
+  { "home": "Switzerland", "away": "Poland" },
+  { "home": "Wales", "away": "Northern Ireland" },
+  { "home": "Croatia", "away": "Portugal" },
+  { "home": "United States", "away": "Colombia" },
+  { "home": "Bohemians", "away": "Galway Utd", "homescore": "1", "awayscore": "1" },
+  { "home": "Derry City", "away": "Wexford Youths", "homescore": "1", "awayscore": "0" },
+  { "home": "Dundalk", "away": "St Patricks", "homescore": "2", "awayscore": "0" },
+  { "home": "Sligo", "away": "Bray", "homescore": "0", "awayscore": "0" },
+  { "home": "Longford Town", "away": "Finn Harps", "homescore": "0", "awayscore": "2" },
+  { "home": "Shamrock Rovers", "away": "Cork", "homescore": "0", "awayscore": "0" },
+  { "home": "Nueva Chicago", "away": "Santamarina" },
+  { "home": "Criciúma", "away": "Bragantino", "homescore": "1", "awayscore": "1" },
+  { "home": "Paysandu SC", "away": "Goianiense", "homescore": "0", "awayscore": "0" },
+  { "home": "Brasil de Pelotas", "away": "Bahia", "homescore": "1", "awayscore": "0" },
+  { "home": "Luverdense", "away": "Londrina", "homescore": "2", "awayscore": "0" },
+  { "home": "Chongqing Lifan", "away": "Shandong Luneng Taishan", "homescore": "2", "awayscore": "1" },
+  { "home": "Guangzhou Evergrande", "away": "Jiangsu Suning FC", "homescore": "2", "awayscore": "0" },
+  { "home": "Balestier Khalsa", "away": "Brunei DPMM", "homescore": "1", "awayscore": "4" },
+  { "home": "Tampines Rovers", "away": "Albirex Niigata", "homescore": "1", "awayscore": "0" },
+  { "home": "Enugu Rangers", "away": "Warri Wolves", "homescore": "2", "awayscore": "1" }
+]

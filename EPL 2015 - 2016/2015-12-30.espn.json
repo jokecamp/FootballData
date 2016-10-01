@@ -1,0 +1,29 @@
+[
+  { "home": "Sunderland", "away": "Liverpool", "homescore": "0", "awayscore": "1" },
+  { "home": "Real Madrid", "away": "Real Sociedad", "homescore": "3", "awayscore": "1" },
+  { "home": "Rayo Vallecano", "away": "Atletico Madrid", "homescore": "0", "awayscore": "2" },
+  { "home": "Sevilla FC", "away": "Espanyol", "homescore": "2", "awayscore": "0" },
+  { "home": "Barcelona", "away": "Real Betis", "homescore": "4", "awayscore": "0" },
+  { "home": "Dundee", "away": "Celtic" },
+  { "home": "Sunderland", "away": "Liverpool", "homescore": "0", "awayscore": "1" },
+  { "home": "Levante", "away": "Malaga", "homescore": "0", "awayscore": "1" },
+  { "home": "Real Madrid", "away": "Real Sociedad", "homescore": "3", "awayscore": "1" },
+  { "home": "Rayo Vallecano", "away": "Atletico Madrid", "homescore": "0", "awayscore": "2" },
+  { "home": "Sevilla FC", "away": "Espanyol", "homescore": "2", "awayscore": "0" },
+  { "home": "Eibar", "away": "Sporting Gijon", "homescore": "2", "awayscore": "0" },
+  { "home": "Barcelona", "away": "Real Betis", "homescore": "4", "awayscore": "0" },
+  { "home": "Celta Vigo", "away": "Athletic Bilbao", "homescore": "0", "awayscore": "1" },
+  { "home": "Getafe", "away": "Deportivo La Coruña", "homescore": "0", "awayscore": "0" },
+  { "home": "Las Palmas", "away": "Granada", "homescore": "4", "awayscore": "1" },
+  {
+    "home": "Hamilton Academical",
+    "away": "Inverness Caledonian Thistle",
+    "homescore": "3",
+    "awayscore": "4"
+  },
+  { "home": "Aberdeen", "away": "Partick Thistle", "homescore": "0", "awayscore": "0" },
+  { "home": "Dundee", "away": "Celtic" },
+  { "home": "Heart of Midlothian", "away": "Dundee United", "homescore": "3", "awayscore": "2" },
+  { "home": "Motherwell", "away": "St Johnstone", "homescore": "2", "awayscore": "0" },
+  { "home": "Cavalier SC", "away": "Portmore Utd" }
+]

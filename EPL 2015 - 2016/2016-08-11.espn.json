@@ -1,0 +1,33 @@
+[
+  { "home": "Bristol Rovers", "away": "Cardiff City", "homescore": "1", "awayscore": "0" },
+  { "home": "TSG Hoffenheim", "away": "Athletic Bilbao" },
+  { "home": "Bastia", "away": "Paris Saint-Germain" },
+  { "home": "AS Monaco", "away": "Guingamp" },
+  { "home": "United States", "away": "Sweden" },
+  { "home": "China", "away": "Germany" },
+  { "home": "Canada", "away": "France" },
+  { "home": "Brazil", "away": "Australia" },
+  { "home": "Vancouver Whitecaps", "away": "San Jose Earthquakes" },
+  { "home": "Bristol Rovers", "away": "Cardiff City", "homescore": "1", "awayscore": "0" },
+  { "home": "Viking FK", "away": "Rosenborg", "homescore": "0", "awayscore": "2" },
+  { "home": "FC Thun", "away": "Grasshoppers", "homescore": "2", "awayscore": "1" },
+  { "home": "Lausanne Sports", "away": "St Gallen", "homescore": "1", "awayscore": "0" },
+  { "home": "Aucas", "away": "Real Garcilaso", "homescore": "2", "awayscore": "1" },
+  { "home": "Deportivo Anzoategui", "away": "Sport Huancayo", "homescore": "2", "awayscore": "1" },
+  { "home": "Blooming", "away": "Plaza Colonia", "homescore": "1", "awayscore": "0" },
+  { "home": "Palestino", "away": "Libertad", "homescore": "1", "awayscore": "0" },
+  { "home": "Deportes Tolima", "away": "Deportivo La Guaira", "homescore": "0", "awayscore": "0" },
+  {
+    "home": "Deportivo Municipal Lima",
+    "away": "Atlético Nacional",
+    "homescore": "0",
+    "awayscore": "0"
+  },
+  { "home": "Defensores de Belgrano", "away": "Arsenal de Sarandí", "homescore": "1", "awayscore": "2" },
+  { "home": "Albirex Niigata", "away": "Young Lions" },
+  { "home": "Geylang International", "away": "Brunei DPMM" },
+  { "home": "Herediano", "away": "Universidad De Costa Rica" },
+  { "home": "CD Dragon", "away": "CD Sonsonate", "homescore": "0", "awayscore": "0" },
+  { "home": "Aguila", "away": "Pasaquina FC" },
+  { "home": "Rivers United FC", "away": "Ikorodu United" }
+]

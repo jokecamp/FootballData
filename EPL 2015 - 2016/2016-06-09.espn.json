@@ -1,0 +1,11 @@
+[
+  { "home": "Uruguay", "away": "Venezuela", "homescore": "0", "awayscore": "1" },
+  { "home": "Mexico", "away": "Jamaica" },
+  { "home": "France", "away": "Romania" },
+  { "home": "Uruguay", "away": "Venezuela", "homescore": "0", "awayscore": "1" },
+  { "home": "Mexico", "away": "Jamaica" },
+  { "home": "Cordoba", "away": "Girona", "homescore": "2", "awayscore": "1" },
+  { "home": "Trapani", "away": "US Pescara", "homescore": "1", "awayscore": "1" },
+  { "home": "Cortuluá", "away": "Independiente Medellín", "homescore": "1", "awayscore": "2" },
+  { "home": "Enyimba", "away": "Rivers United FC", "homescore": "0", "awayscore": "0" }
+]

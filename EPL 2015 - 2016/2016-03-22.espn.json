@@ -1,0 +1,14 @@
+[
+  { "home": "Italy", "away": "Spain" },
+  { "home": "Turkey", "away": "Sweden" },
+  { "home": "Wales", "away": "Northern Ireland" },
+  { "home": "Netherlands", "away": "France" },
+  { "home": "Guatemala", "away": "United States" },
+  { "home": "Canada", "away": "Mexico" },
+  { "home": "Germany", "away": "England" },
+  { "home": "St Mirren", "away": "Raith Rovers", "homescore": "1", "awayscore": "2" },
+  { "home": "Clyde", "away": "Annan Athletic", "homescore": "2", "awayscore": "1" },
+  { "home": "Carrick", "away": "Crusaders", "homescore": "4", "awayscore": "3" },
+  { "home": "Defensores de Belgrano", "away": "Tristán Suárez" },
+  { "home": "Cúcuta Deportivo", "away": "Real Cartagena" }
+]

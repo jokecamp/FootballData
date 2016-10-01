@@ -1,0 +1,21 @@
+[
+  { "home": "England U19", "away": "Croatia U19", "homescore": "2", "awayscore": "1" },
+  { "home": "Netherlands U19", "away": "France U19", "homescore": "1", "awayscore": "5" },
+  { "home": "Sporting CP", "away": "PSV Eindhoven", "homescore": "0", "awayscore": "5" },
+  { "home": "Real Salt Lake", "away": "Internazionale" },
+  { "home": "Cork", "away": "Wolverhampton Wanderers", "homescore": "1", "awayscore": "2" },
+  { "home": "Atlético MG", "away": "Coritiba FBC", "homescore": "2", "awayscore": "1" },
+  { "home": "England U19", "away": "Croatia U19", "homescore": "2", "awayscore": "1" },
+  { "home": "Netherlands U19", "away": "France U19", "homescore": "1", "awayscore": "5" },
+  { "home": "Sporting CP", "away": "PSV Eindhoven", "homescore": "0", "awayscore": "5" },
+  { "home": "Cork", "away": "Wolverhampton Wanderers", "homescore": "1", "awayscore": "2" },
+  { "home": "FC Midtjylland", "away": "Randers FC", "homescore": "2", "awayscore": "2" },
+  { "home": "Gefle IF", "away": "Kalmar FF", "homescore": "4", "awayscore": "2" },
+  { "home": "Jonkopings Sodra", "away": "Djurgardens IF", "homescore": "1", "awayscore": "0" },
+  { "home": "Huracán", "away": "Central Córdoba de Rosario" },
+  { "home": "Atlético MG", "away": "Coritiba FBC", "homescore": "2", "awayscore": "1" },
+  { "home": "Envigado", "away": "Patriotas F.C.", "homescore": "0", "awayscore": "0" },
+  { "home": "Boyacá Chicó FC", "away": "Jaguares de Córdoba", "homescore": "0", "awayscore": "0" },
+  { "home": "Bogotá FC", "away": "Magdalena", "homescore": "4", "awayscore": "0" },
+  { "home": "River (E)", "away": "Aucas", "homescore": "3", "awayscore": "0" }
+]
