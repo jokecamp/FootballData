@@ -13,7 +13,7 @@
    },
    {
       "rank":2,
-      "team":"Chelsea ",
+      "team":"Chelsea",
       "played":38,
       "wins":24,
       "draws":11,
@@ -25,7 +25,7 @@
    },
    {
       "rank":3,
-      "team":"Liverpool ",
+      "team":"Liverpool",
       "played":38,
       "wins":20,
       "draws":8,
@@ -37,7 +37,7 @@
    },
    {
       "rank":4,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":38,
       "wins":19,
       "draws":11,
@@ -49,7 +49,7 @@
    },
    {
       "rank":5,
-      "team":"Tottenham Hotspur ",
+      "team":"Tottenham Hotspur",
       "played":38,
       "wins":17,
       "draws":9,
@@ -61,7 +61,7 @@
    },
    {
       "rank":6,
-      "team":"Everton ",
+      "team":"Everton",
       "played":38,
       "wins":15,
       "draws":13,
@@ -73,7 +73,7 @@
    },
    {
       "rank":7,
-      "team":"Bolton Wanderers ",
+      "team":"Bolton Wanderers",
       "played":38,
       "wins":16,
       "draws":8,
@@ -157,7 +157,7 @@
    },
    {
       "rank":14,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":11,
       "draws":9,
@@ -169,7 +169,7 @@
    },
    {
       "rank":15,
-      "team":"West Ham United ",
+      "team":"West Ham United",
       "played":38,
       "wins":12,
       "draws":5,
@@ -181,7 +181,7 @@
    },
    {
       "rank":16,
-      "team":"Fulham !Fulham",
+      "team":"Fulham",
       "played":38,
       "wins":8,
       "draws":15,
@@ -193,7 +193,7 @@
    },
    {
       "rank":17,
-      "team":"Wigan Athletic ",
+      "team":"Wigan Athletic",
       "played":38,
       "wins":10,
       "draws":8,
@@ -217,7 +217,7 @@
    },
    {
       "rank":19,
-      "team":"Charlton Athletic ",
+      "team":"Charlton Athletic",
       "played":38,
       "wins":8,
       "draws":10,

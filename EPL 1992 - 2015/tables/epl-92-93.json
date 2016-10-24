@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":42,
       "wins":24,
       "draws":12,
@@ -14,7 +14,7 @@
    },
    {
       "rank":2,
-      "team":"Aston Villa ",
+      "team":"Aston Villa",
       "played":42,
       "wins":21,
       "draws":11,
@@ -27,7 +27,7 @@
    },
    {
       "rank":3,
-      "team":"Norwich City ",
+      "team":"Norwich City",
       "played":42,
       "wins":21,
       "draws":9,
@@ -40,7 +40,7 @@
    },
    {
       "rank":4,
-      "team":"Blackburn Rovers ",
+      "team":"Blackburn Rovers",
       "played":42,
       "wins":20,
       "draws":11,
@@ -53,7 +53,7 @@
    },
    {
       "rank":5,
-      "team":"Queens Park Rangers ",
+      "team":"Queens Park Rangers",
       "played":42,
       "wins":17,
       "draws":12,
@@ -66,7 +66,7 @@
    },
    {
       "rank":6,
-      "team":"Liverpool ",
+      "team":"Liverpool",
       "played":42,
       "wins":16,
       "draws":11,
@@ -79,7 +79,7 @@
    },
    {
       "rank":7,
-      "team":"Sheffield Wednesday ",
+      "team":"Sheffield Wednesday",
       "played":42,
       "wins":15,
       "draws":14,
@@ -92,7 +92,7 @@
    },
    {
       "rank":8,
-      "team":"Tottenham Hotspur ",
+      "team":"Tottenham Hotspur",
       "played":42,
       "wins":16,
       "draws":11,
@@ -105,7 +105,7 @@
    },
    {
       "rank":9,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":42,
       "wins":15,
       "draws":12,
@@ -118,7 +118,7 @@
    },
    {
       "rank":10,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":42,
       "wins":15,
       "draws":11,
@@ -131,7 +131,7 @@
    },
    {
       "rank":11,
-      "team":"Chelsea ",
+      "team":"Chelsea",
       "played":42,
       "wins":14,
       "draws":14,
@@ -144,7 +144,7 @@
    },
    {
       "rank":12,
-      "team":"Wimbledon ",
+      "team":"Wimbledon",
       "played":42,
       "wins":14,
       "draws":12,
@@ -157,7 +157,7 @@
    },
    {
       "rank":13,
-      "team":"Everton ",
+      "team":"Everton",
       "played":42,
       "wins":15,
       "draws":8,
@@ -170,7 +170,7 @@
    },
    {
       "rank":14,
-      "team":"Sheffield United ",
+      "team":"Sheffield United",
       "played":42,
       "wins":14,
       "draws":10,
@@ -183,7 +183,7 @@
    },
    {
       "rank":15,
-      "team":"Coventry City ",
+      "team":"Coventry City",
       "played":42,
       "wins":13,
       "draws":13,
@@ -196,7 +196,7 @@
    },
    {
       "rank":16,
-      "team":"Ipswich Town ",
+      "team":"Ipswich Town",
       "played":42,
       "wins":12,
       "draws":16,
@@ -209,7 +209,7 @@
    },
    {
       "rank":17,
-      "team":"Leeds United ",
+      "team":"Leeds United",
       "played":42,
       "wins":12,
       "draws":15,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Southampton ",
+      "team":"Southampton",
       "played":42,
       "wins":13,
       "draws":11,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Oldham Athletic ",
+      "team":"Oldham Athletic",
       "played":42,
       "wins":13,
       "draws":10,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Crystal Palace ",
+      "team":"Crystal Palace",
       "played":42,
       "wins":11,
       "draws":16,
@@ -261,7 +261,7 @@
    },
    {
       "rank":21,
-      "team":"Middlesbrough ",
+      "team":"Middlesbrough",
       "played":42,
       "wins":11,
       "draws":11,
@@ -274,7 +274,7 @@
    },
    {
       "rank":22,
-      "team":"Nottingham Forest ",
+      "team":"Nottingham Forest",
       "played":42,
       "wins":10,
       "draws":10,

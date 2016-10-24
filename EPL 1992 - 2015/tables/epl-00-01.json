@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":24,
       "draws":8,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":8,
       "draws":10,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Coventry City ",
+      "team":"Coventry City",
       "played":38,
       "wins":8,
       "draws":10,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Bradford City ",
+      "team":"Bradford City",
       "played":38,
       "wins":5,
       "draws":11,

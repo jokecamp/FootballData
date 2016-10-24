@@ -37,7 +37,7 @@
    },
    {
       "rank":4,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":38,
       "wins":20,
       "draws":7,
@@ -49,7 +49,7 @@
    },
    {
       "rank":5,
-      "team":"Tottenham Hotspur ",
+      "team":"Tottenham Hotspur",
       "played":38,
       "wins":18,
       "draws":11,
@@ -73,7 +73,7 @@
    },
    {
       "rank":7,
-      "team":"Newcastle United ",
+      "team":"Newcastle United",
       "played":38,
       "wins":17,
       "draws":7,
@@ -85,7 +85,7 @@
    },
    {
       "rank":8,
-      "team":"Bolton Wanderers ",
+      "team":"Bolton Wanderers",
       "played":38,
       "wins":15,
       "draws":11,
@@ -97,7 +97,7 @@
    },
    {
       "rank":9,
-      "team":"West Ham United ",
+      "team":"West Ham United",
       "played":38,
       "wins":16,
       "draws":7,
@@ -145,7 +145,7 @@
    },
    {
       "rank":13,
-      "team":"Charlton Athletic ",
+      "team":"Charlton Athletic",
       "played":38,
       "wins":13,
       "draws":8,
@@ -169,7 +169,7 @@
    },
    {
       "rank":15,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":13,
       "draws":4,

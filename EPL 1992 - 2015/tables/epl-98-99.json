@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":22,
       "draws":13,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Charlton Athletic ",
+      "team":"Charlton Athletic",
       "played":38,
       "wins":8,
       "draws":12,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Blackburn Rovers ",
+      "team":"Blackburn Rovers",
       "played":38,
       "wins":7,
       "draws":14,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Nottingham Forest ",
+      "team":"Nottingham Forest",
       "played":38,
       "wins":7,
       "draws":9,

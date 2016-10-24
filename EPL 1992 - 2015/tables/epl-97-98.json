@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":38,
       "wins":23,
       "draws":9,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Bolton Wanderers ",
+      "team":"Bolton Wanderers",
       "played":38,
       "wins":9,
       "draws":13,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Barnsley ",
+      "team":"Barnsley",
       "played":38,
       "wins":10,
       "draws":5,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Crystal Palace ",
+      "team":"Crystal Palace",
       "played":38,
       "wins":8,
       "draws":9,

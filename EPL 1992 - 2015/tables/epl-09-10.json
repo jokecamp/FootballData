@@ -27,7 +27,7 @@
    },
    {
       "rank":3,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":38,
       "wins":23,
       "draws":6,
@@ -40,7 +40,7 @@
    },
    {
       "rank":4,
-      "team":"Tottenham Hotspur ",
+      "team":"Tottenham Hotspur",
       "played":38,
       "wins":21,
       "draws":7,
@@ -53,7 +53,7 @@
    },
    {
       "rank":5,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":18,
       "draws":13,
@@ -92,7 +92,7 @@
    },
    {
       "rank":8,
-      "team":"Everton ",
+      "team":"Everton",
       "played":38,
       "wins":16,
       "draws":13,
@@ -131,7 +131,7 @@
    },
    {
       "rank":11,
-      "team":"Stoke City ",
+      "team":"Stoke City",
       "played":38,
       "wins":11,
       "draws":14,
@@ -196,7 +196,7 @@
    },
    {
       "rank":16,
-      "team":"Wigan Athletic ",
+      "team":"Wigan Athletic",
       "played":38,
       "wins":9,
       "draws":9,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Hull City ",
+      "team":"Hull City",
       "played":38,
       "wins":6,
       "draws":12,

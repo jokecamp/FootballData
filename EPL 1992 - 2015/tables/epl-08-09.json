@@ -53,7 +53,7 @@
    },
    {
       "rank":5,
-      "team":"Everton ",
+      "team":"Everton",
       "played":38,
       "wins":17,
       "draws":12,
@@ -105,7 +105,7 @@
    },
    {
       "rank":9,
-      "team":"West Ham United ",
+      "team":"West Ham United",
       "played":38,
       "wins":14,
       "draws":9,
@@ -118,7 +118,7 @@
    },
    {
       "rank":10,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":15,
       "draws":5,
@@ -131,7 +131,7 @@
    },
    {
       "rank":11,
-      "team":"Wigan Athletic ",
+      "team":"Wigan Athletic",
       "played":38,
       "wins":12,
       "draws":9,
@@ -144,7 +144,7 @@
    },
    {
       "rank":12,
-      "team":"Stoke City ",
+      "team":"Stoke City",
       "played":38,
       "wins":12,
       "draws":9,
@@ -170,7 +170,7 @@
    },
    {
       "rank":14,
-      "team":"Portsmouth ",
+      "team":"Portsmouth",
       "played":38,
       "wins":10,
       "draws":11,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Newcastle United ",
+      "team":"Newcastle United",
       "played":38,
       "wins":7,
       "draws":13,

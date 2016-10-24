@@ -13,7 +13,7 @@
    },
    {
       "rank":2,
-      "team":"Chelsea ",
+      "team":"Chelsea",
       "played":38,
       "wins":24,
       "draws":7,
@@ -37,7 +37,7 @@
    },
    {
       "rank":4,
-      "team":"Liverpool ",
+      "team":"Liverpool",
       "played":38,
       "wins":16,
       "draws":12,
@@ -97,7 +97,7 @@
    },
    {
       "rank":9,
-      "team":"Fulham ",
+      "team":"Fulham",
       "played":38,
       "wins":14,
       "draws":10,
@@ -121,7 +121,7 @@
    },
    {
       "rank":11,
-      "team":"Middlesbrough ",
+      "team":"Middlesbrough",
       "played":38,
       "wins":13,
       "draws":9,
@@ -133,7 +133,7 @@
    },
    {
       "rank":12,
-      "team":"Southampton ",
+      "team":"Southampton",
       "played":38,
       "wins":12,
       "draws":11,
@@ -145,7 +145,7 @@
    },
    {
       "rank":13,
-      "team":"Portsmouth ",
+      "team":"Portsmouth",
       "played":38,
       "wins":12,
       "draws":9,
@@ -205,7 +205,7 @@
    },
    {
       "rank":18,
-      "team":"Leicester City ",
+      "team":"Leicester City",
       "played":38,
       "wins":6,
       "draws":15,
