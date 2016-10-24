@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":25,
       "draws":7,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Manchester City ",
+      "team":"Manchester City",
       "played":38,
       "wins":9,
       "draws":11,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Queens Park Rangers ",
+      "team":"Queens Park Rangers",
       "played":38,
       "wins":9,
       "draws":6,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Bolton Wanderers ",
+      "team":"Bolton Wanderers",
       "played":38,
       "wins":8,
       "draws":5,

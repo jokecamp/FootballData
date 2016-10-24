@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":28,
       "draws":7,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Wimbledon ",
+      "team":"Wimbledon",
       "played":38,
       "wins":7,
       "draws":12,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Sheffield Wednesday ",
+      "team":"Sheffield Wednesday",
       "played":38,
       "wins":8,
       "draws":7,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Watford ",
+      "team":"Watford",
       "played":38,
       "wins":6,
       "draws":6,

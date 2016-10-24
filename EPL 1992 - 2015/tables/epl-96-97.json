@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":21,
       "draws":12,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Sunderland ",
+      "team":"Sunderland",
       "played":38,
       "wins":10,
       "draws":10,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Middlesbrough ",
+      "team":"Middlesbrough",
       "played":38,
       "wins":10,
       "draws":12,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Nottingham Forest ",
+      "team":"Nottingham Forest",
       "played":38,
       "wins":6,
       "draws":16,

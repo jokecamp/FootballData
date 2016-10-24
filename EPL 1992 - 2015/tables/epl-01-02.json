@@ -1,7 +1,7 @@
 [
    {
       "rank":1,
-      "team":"Arsenal ",
+      "team":"Arsenal",
       "played":38,
       "wins":26,
       "draws":9,
@@ -14,7 +14,7 @@
    },
    {
       "rank":2,
-      "team":"Liverpool ",
+      "team":"Liverpool",
       "played":38,
       "wins":24,
       "draws":8,
@@ -27,7 +27,7 @@
    },
    {
       "rank":3,
-      "team":"Manchester United ",
+      "team":"Manchester United",
       "played":38,
       "wins":24,
       "draws":5,
@@ -40,7 +40,7 @@
    },
    {
       "rank":4,
-      "team":"Newcastle United ",
+      "team":"Newcastle United",
       "played":38,
       "wins":21,
       "draws":8,
@@ -53,7 +53,7 @@
    },
    {
       "rank":5,
-      "team":"Leeds United ",
+      "team":"Leeds United",
       "played":38,
       "wins":18,
       "draws":12,
@@ -66,7 +66,7 @@
    },
    {
       "rank":6,
-      "team":"Chelsea ",
+      "team":"Chelsea",
       "played":38,
       "wins":17,
       "draws":13,
@@ -79,7 +79,7 @@
    },
    {
       "rank":7,
-      "team":"West Ham United ",
+      "team":"West Ham United",
       "played":38,
       "wins":15,
       "draws":8,
@@ -92,7 +92,7 @@
    },
    {
       "rank":8,
-      "team":"Aston Villa ",
+      "team":"Aston Villa",
       "played":38,
       "wins":12,
       "draws":14,
@@ -105,7 +105,7 @@
    },
    {
       "rank":9,
-      "team":"Tottenham Hotspur ",
+      "team":"Tottenham Hotspur",
       "played":38,
       "wins":14,
       "draws":8,
@@ -118,7 +118,7 @@
    },
    {
       "rank":10,
-      "team":"Blackburn Rovers ",
+      "team":"Blackburn Rovers",
       "played":38,
       "wins":12,
       "draws":10,
@@ -131,7 +131,7 @@
    },
    {
       "rank":11,
-      "team":"Southampton ",
+      "team":"Southampton",
       "played":38,
       "wins":12,
       "draws":9,
@@ -144,7 +144,7 @@
    },
    {
       "rank":12,
-      "team":"Middlesbrough ",
+      "team":"Middlesbrough",
       "played":38,
       "wins":12,
       "draws":9,
@@ -157,7 +157,7 @@
    },
    {
       "rank":13,
-      "team":"Fulham ",
+      "team":"Fulham",
       "played":38,
       "wins":10,
       "draws":14,
@@ -170,7 +170,7 @@
    },
    {
       "rank":14,
-      "team":"Charlton Athletic ",
+      "team":"Charlton Athletic",
       "played":38,
       "wins":10,
       "draws":14,
@@ -183,7 +183,7 @@
    },
    {
       "rank":15,
-      "team":"Everton ",
+      "team":"Everton",
       "played":38,
       "wins":11,
       "draws":10,
@@ -196,7 +196,7 @@
    },
    {
       "rank":16,
-      "team":"Bolton Wanderers ",
+      "team":"Bolton Wanderers",
       "played":38,
       "wins":9,
       "draws":13,
@@ -209,7 +209,7 @@
    },
    {
       "rank":17,
-      "team":"Sunderland ",
+      "team":"Sunderland",
       "played":38,
       "wins":10,
       "draws":10,
@@ -222,7 +222,7 @@
    },
    {
       "rank":18,
-      "team":"Ipswich Town ",
+      "team":"Ipswich Town",
       "played":38,
       "wins":9,
       "draws":9,
@@ -235,7 +235,7 @@
    },
    {
       "rank":19,
-      "team":"Derby County ",
+      "team":"Derby County",
       "played":38,
       "wins":8,
       "draws":6,
@@ -248,7 +248,7 @@
    },
    {
       "rank":20,
-      "team":"Leicester City ",
+      "team":"Leicester City",
       "played":38,
       "wins":5,
       "draws":13,
