@@ -72,3 +72,4 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 
 - https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions
 - https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions
+- https://public.tableau.com/profile/jurijfedorov#!/
