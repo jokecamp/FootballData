@@ -1,0 +1,3538 @@
+[
+    {
+        "week": "1.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ALANYASPOR"
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "2.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "3 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "3.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "4.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 5"
+                }
+            }
+        ]
+    },
+    {
+        "week": "5.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "6.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 5"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "7.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "8.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "9.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "5 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "5 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "10.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "4 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "11.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "12.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 5"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "13.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "14.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "15.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "16.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "5 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            }
+        ]
+    },
+    {
+        "week": "17.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "5 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "18.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "1 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "19.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "6 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "5 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "20.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "21.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 5"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "22.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "23.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            }
+        ]
+    },
+    {
+        "week": "24.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            }
+        ]
+    },
+    {
+        "week": "25.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "3 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "3 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "26.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "27.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "3 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            }
+        ]
+    },
+    {
+        "week": "28.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "3 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "5 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "3 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "29.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 5"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "3 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "0 - 5"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "30.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "6 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "6 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            }
+        ]
+    },
+    {
+        "week": "31.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "4 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "4 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "32.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "2 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "3 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            }
+        ]
+    },
+    {
+        "week": "33.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "awayTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "awayTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "awayTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "match": {
+                    "score": "0 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "awayTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "match": {
+                    "score": "2 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "awayTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "match": {
+                    "score": "0 - 4"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BURSASPOR"
+                },
+                "awayTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "awayTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "awayTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            }
+        ]
+    },
+    {
+        "week": "34.Hafta",
+        "matches": [
+            {
+                "homeTeam": {
+                    "name": "ANTALYASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "GAZİANTEPSPOR"
+                },
+                "match": {
+                    "score": "4 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "AKHİSAR BELEDİYE GENÇLİK VE SPOR"
+                },
+                "awayTeam": {
+                    "name": "KARDEMİR KARABÜKSPOR"
+                },
+                "match": {
+                    "score": "2 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GENÇLERBİRLİĞİ"
+                },
+                "awayTeam": {
+                    "name": "KASIMPAŞA A.Ş."
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ÇAYKUR RİZESPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "AYTEMİZ ALANYASPOR"
+                },
+                "match": {
+                    "score": "1 - 0"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "TRABZONSPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "BURSASPOR"
+                },
+                "match": {
+                    "score": "1 - 2"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "GALATASARAY A.Ş."
+                },
+                "awayTeam": {
+                    "name": "ATİKER KONYASPOR"
+                },
+                "match": {
+                    "score": "2 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "ADANASPOR A.Ş."
+                },
+                "awayTeam": {
+                    "name": "FENERBAHÇE A.Ş."
+                },
+                "match": {
+                    "score": "1 - 3"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "KAYSERİSPOR"
+                },
+                "awayTeam": {
+                    "name": "MEDİPOL BAŞAKŞEHİR FK"
+                },
+                "match": {
+                    "score": "0 - 1"
+                }
+            },
+            {
+                "homeTeam": {
+                    "name": "BEŞİKTAŞ A.Ş."
+                },
+                "awayTeam": {
+                    "name": "OSMANLISPOR FUTBOL KULÜBÜ"
+                },
+                "match": {
+                    "score": "4 - 0"
+                }
+            }
+        ]
+    }
+]
