@@ -41,6 +41,7 @@ Special Thanks to:
 - [@michaelkunc](https://github.com/michaelkunc)
 - [@ArtemBernatskyy](https://github.com/ArtemBernatskyy)
 - [@ilkermutlu](https://github.com/ilkermutlu)
+- [@div3](https://github.com/div3)
 
 
 ### To Contribute
