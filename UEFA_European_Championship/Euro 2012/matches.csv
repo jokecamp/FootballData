@@ -1,0 +1,32 @@
+match_num,round/group,matchday,date,time,stadium,where,home,home_score,away_score,extraTimeScore,penaltiesScore,away
+1,Group A,1,Jun 8,18:00, National Stadium Warszawa,Warszawa,Poland,1,1,,,Greece
+2,Group A,1,Jun 8,20:45, Municipal Stadium Wrocław,Wrocław,Russia,4,1,,,Czech Republic
+9,Group A,2,Jun 12,18:00, Municipal Stadium Wrocław,Wrocław,Greece,1,2,,,Czech Republic
+10,Group A,2,Jun 12,20:45, National Stadium Warszawa,Warszawa,Poland,1,1,,,Russia
+17,Group A,3,Jun 16,20:45, Municipal Stadium Wrocław,Wrocław,Czech Republic,1,0,,,Poland
+18,Group A,3,Jun 16,20:45, National Stadium Warszawa,Warszawa,Greece,1,0,,,Russia
+3,Group B,1,Jun 9,18:00, Metalist Stadium,Kharkiv,Netherlands,0,1,,,Denmark
+4,Group B,1,Jun 9,20:45, Arena Lviv,Lviv,Germany,1,0,,,Portugal
+11,Group B,2,Jun 13,18:00, Arena Lviv,Lviv,Denmark,2,3,,,Portugal
+12,Group B,2,Jun 13,20:45, Metalist Stadium,Kharkiv,Netherlands,1,2,,,Germany
+19,Group B,3,Jun 17,20:45, Metalist Stadium,Kharkiv,Portugal,2,1,,,Netherlands
+20,Group B,3,Jun 17,20:45, Arena Lviv,Lviv,Denmark,1,2,,,Germany
+5,Group C,1,Jun 10,18:00,,,ESP,1,1,,,ITA
+6,Group C,1,Jun 10,20:45,,,IRL,1,3,,,CRO
+13,Group C,2,Jun 14,18:00,,,ITA,1,1,,,CRO
+14,Group C,2,Jun 14,20:45,,,ESP,4,0,,,IRL
+21,Group C,3,Jun 18,20:45,,,CRO,0,1,,,ESP
+22,Group C,3,Jun 18,20:45,,,ITA,2,0,,,IRL
+7,Group D,1,Jun 11,18:00,,,FRA,1,1,,,ENG
+8,Group D,1,Jun 11,20:45,,,UKR,2,1,,,SWE
+15,Group D,2,Jun 15,20:45,,,SWE,2,3,,,ENG
+16,Group D,2,Jun 15,18:00,,,UKR,0,2,,,FRA
+23,Group D,3,Jun 19,20:45,,,ENG,1,0,,,UKR
+24,Group D,3,Jun 19,20:45,,,SWE,2,0,,,FRA
+25,Quarter-finals,0,Jun 21,20:45,,,CZE,0,1,,,POR
+26,Quarter-finals,0,Jun 22,20:45,,,GER,4,2,,,GRE
+27,Quarter-finals,0,Jun 23,20:45,,,ESP,2,0,,,FRA
+28,Quarter-finals,0,Jun 24,20:45,,,ENG,0,0,0:0,2:4,ITA
+29,Semi-finals,0,Jun 27,20:45,,,Portugal,0,0,0:0,2:4,Spain
+30,Semi-finals,0,Jun 28,20:45,,,Germany,1,2,,,Italy
+31,Final,0,Jul 1,20:45,,,Spain,4,0,,,Italy

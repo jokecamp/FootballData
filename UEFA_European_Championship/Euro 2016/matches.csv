@@ -1,0 +1,52 @@
+match_num,round/group,matchday,date,time,stadium,where,home,home_score,away_score,extraTimeScore,penaltiesScore,away
+1,Group A,1,Jun 10,21:00, Stade de France,Saint-Denis,France,2,1,,,Romania
+2,Group A,1,Jun 11,15:00, Stade Bollaert-Delelis,Lens,Albania,0,1,,,Switzerland
+14,Group A,2,Jun 15,18:00, Parc des Princes,Paris,Romania,1,1,,,Switzerland
+15,Group A,2,Jun 15,21:00, Stade Vélodrome,Marseille,France,2,0,,,Albania
+25,Group A,3,Jun 19,21:00, Stade Pierre-Mauroy,Lille,Romania,0,1,,,Albania
+26,Group A,3,Jun 19,21:00, Parc Olympique Lyonnais,Lyon,Switzerland,0,0,,,France
+3,Group B,1,Jun 11,18:00, Nouveau Stade de Bordeaux,Bordeaux,Wales,2,1,,,Slovakia
+4,Group B,1,Jun 11,21:00, Stade Vélodrome,Marseille,England,1,1,,,Russia
+13,Group B,2,Jun 15,15:00, Stade Pierre-Mauroy,Lille,Russia,1,2,,,Slovakia
+16,Group B,2,Jun 16,15:00, Stade Bollaert-Delelis,Lens,England,2,1,,,Wales
+27,Group B,3,Jun 20,21:00, Stadium Municipal,Toulouse,Russia,0,3,,,Wales
+28,Group B,3,Jun 20,21:00, Stade Geoffroy-Guichard,Saint-Étienne,Slovakia,0,0,,,England
+6,Group C,1,Jun 12,18:00, Allianz Riviera,Nice,Poland,1,0,,,Northern Ireland
+7,Group C,1,Jun 12,21:00, Stade Pierre-Mauroy,Lille,Germany,2,0,,,Ukraine
+17,Group C,2,Jun 16,18:00, Parc Olympique Lyonnais,Lyon,Ukraine,0,2,,,Northern Ireland
+18,Group C,2,Jun 16,21:00, Stade de France,Saint-Denis,Germany,0,0,,,Poland
+29,Group C,3,Jun 21,18:00, Parc des Princes,Paris,Northern Ireland,0,1,,,Germany
+30,Group C,3,Jun 21,18:00, Stade Vélodrome,Marseille,Ukraine,0,1,,,Poland
+5,Group D,1,Jun 12,15:00, Parc des Princes,Paris,Turkey,0,1,,,Croatia
+8,Group D,1,Jun 13,15:00, Stadium Municipal,Toulouse,Spain,1,0,,,Czech Republic
+20,Group D,2,Jun 17,18:00, Stade Geoffroy-Guichard,Saint-Étienne,Czech Republic,2,2,,,Croatia
+21,Group D,2,Jun 17,21:00, Allianz Riviera,Nice,Spain,3,0,,,Turkey
+31,Group D,3,Jun 21,21:00, Nouveau Stade de Bordeaux,Bordeaux,Croatia,2,1,,,Spain
+32,Group D,3,Jun 21,21:00, Stade Bollaert-Delelis,Lens,Czech Republic,0,2,,,Turkey
+10,Group E,1,Jun 13,21:00, Parc Olympique Lyonnais,Lyon,Belgium,0,2,,,Italy
+9,Group E,1,Jun 13,18:00, Stade de France,Saint-Denis,Ireland,1,1,,,Sweden
+19,Group E,2,Jun 17,15:00, Stadium Municipal,Toulouse,Italy,1,0,,,Sweden
+22,Group E,2,Jun 18,15:00, Nouveau Stade de Bordeaux,Bordeaux,Belgium,3,0,,,Ireland
+35,Group E,3,Jun 21,21:00, Stade Pierre-Mauroy,Lille,Italy,0,1,,,Ireland
+36,Group E,3,Jun 21,21:00, Allianz Riviera,Nice,Sweden,0,1,,,Belgium
+11,Group F,1,Jun 14,18:00, Nouveau Stade de Bordeaux,Bordeaux,Austria,0,2,,,Hungary
+12,Group F,1,Jun 14,21:00, Stade Geoffroy-Guichard,Saint-Étienne,Portugal,1,1,,,Iceland
+23,Group F,2,Jun 18,18:00, Stade Vélodrome,Marseille,Iceland,1,1,,,Hungary
+24,Group F,2,Jun 18,21:00, Parc des Princes,Paris,Portugal,0,0,,,Austria
+33,Group F,3,Jun 22,18:00, Parc Olympique Lyonnais,Lyon,Hungary,3,3,,,Portugal
+34,Group F,3,Jun 21,18:00, Stade de France,Saint-Denis,Iceland,2,1,,,Austria
+37,Round of 16,1,Jun 25,15:00, Stade Geoffroy-Guichard,Saint-Étienne,Switzerland,1,1,0:0,4:5,Poland
+38,Round of 16,1,Jun 25,18:00, Parc des Princes,Paris,Wales,1,0,,,Northern Ireland
+39,Round of 16,1,Jun 25,21:00, Stade Bollaert-Delelis,Lens,Croatia,0,0,0:1,,Portugal
+40,Round of 16,2,Jun 26,15:00, Parc Olympique Lyonnais,Lyon,France,2,1,,,Ireland
+41,Round of 16,2,Jun 26,18:00, Stade Pierre-Mauroy,Lille,Germany,3,0,,,Slovakia
+42,Round of 16,2,Jun 26,21:00, Stadium Municipal,Toulouse,Hungary,0,4,,,Belgium
+43,Round of 16,3,Jun 27,18:00, Stade de France,Saint-Denis,Italy,2,0,,,Spain
+44,Round of 16,3,Jun 27,21:00, Allianz Riviera,Nice,England,1,2,,,Iceland
+45,Quarter-finals,0,Jun 30,21:00, Stade Vélodrome,Marseille,Poland,1,1,0:0,3:5,Portugal
+46,Quarter-finals,0,Jul 01,21:00, Stade Pierre-Mauroy,Lille,Wales,3,1,,,Belgium
+47,Quarter-finals,0,Jul 02,21:00, Nouveau Stade de Bordeaux,Bordeaux,Germany,1,1,0:0,6:5,Italy
+48,Quarter-finals,0,Jul 03,21:00, Stade de France,Saint-Denis,France,5,2,,,Iceland
+49,Semi-finals,0,Jul 06,21:00, Parc Olympique Lyonnais,Lyon,Portugal,2,0,,,Wales
+50,Semi-finals,0,Jul 07,21:00, Stade Vélodrome,Marseille,Germany,0,2,,,France
+51,Final,0,Jul 10,21:00, Stade de France,Saint-Denis,Portugal,0,0,1:0,,France
