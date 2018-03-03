@@ -5,3 +5,4 @@
 	- Added Euro data in csv format
 2/29/2018
 	- Added WC 2014 Data in csv
+	- Added WC 1950 to 2010 in csv
