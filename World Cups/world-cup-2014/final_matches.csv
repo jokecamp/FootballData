@@ -1,0 +1,17 @@
+match_num,round/group,date,time,stadium,where,home,score,away,home_scorers,away_scorers
+49,Round of 16,Jun 28,13:00,Estádio Mineirão,Belo Horizonte,Brazil,"3-2 pen. 1-1 (1-1, 1-1)",Chile,David Luiz 18', Alexis Sánchez 32'
+50,Round of 16,Jun 28,17:00,Estádio do Maracanã,Rio de Janeiro,Colombia,2-0 (1-0),Uruguay,"James Rodríguez 28', 50'",
+51,Round of 16,Jun 29,13:00,Estádio Castelão,Fortaleza,Netherlands,2-1 (0-0),Mexico,Wesley Sneijder 88' Klaas Jan Huntelaar 90' (pen), Giovani dos Santos 48'
+52,Round of 16,Jun 29,17:00,Arena Pernambuco,Recife,Costa Rica,"5-3 pen. 1-1 (1-1, 0-0)",Greece,Bryan Ruiz 52', Socratis Papastathopoulos 90'
+53,Round of 16,Jun 30,13:00,Estádio Nacional Mané Garrincha,Brasília,France,2-0 (0-0),Nigeria,Paul Pogba 79' Joseph Yobo 90+2' (o.g.),
+54,Round of 16,Jun 30,17:00,Estádio Beira-Rio,Porto Alegre,Germany,"2-1 (0-0, 0-0)",Algeria,André Schürrle 92' Mesut Özil 120', Abdelmoumene Djabou 121'
+55,Round of 16,Jul 1,13:00,Arena de São Paulo,São Paulo,Argentina,"1-0 (0-0, 0-0)",Switzerland,Ángel di María 118',
+56,Round of 16,Jul 1,17:00,Arena Fonte Nova,Salvador,Belgium,"2-1 (0-0, 0-0)",United States,Kevin De Bruyne 93' Romelu Lukaku 105', Julian Green 107'
+57,Quarter-finals,Jul 4,17:00,Estádio Castelão,Fortaleza,Brazil,2-1 (1-0),Colombia,Thiago Silva 7' David Luiz 69', Rodríguez 80' (pen.)
+58,Quarter-finals,Jul 4,13:00,Estádio do Maracanã,Rio de Janeiro,France,0-1 (0-1),Germany,-, Mats Hummels 13'
+59,Quarter-finals,Jul 5,17:00,Arena Fonte Nova,Salvador,Netherlands,"4-3 pen. 0-0 (0-0, 0-0)",Costa Rica,None,None
+60,Quarter-finals,Jul 5,13:00,Estádio Nacional Mané Garrincha,Brasília,Argentina,1-0 (1-0),Belgium,Gonzalo Higuaín 8',
+61,Semi-finals,Jul 8,17:00,Estádio Mineirão,Belo Horizonte,Brazil,1-7 (0-5),Germany,Oscar 90'," Thomas Müller 11' Miroslav Klose 23' Toni Kroos 24', 26' Sami Khedira 29' Andre Schürrle 69', 79'"
+62,Semi-finals,Jul 9,17:00,Arena de São Paulo,São Paulo,Netherlands,"2-4 pen. 0-0 (0-0, 0-0)",Argentina,None,None
+63,Match for third place,Jul 12,17:00,Estádio Nacional Mané Garrincha,Brasília,Brazil,0-3 (0-2),Netherlands,-, Robin Van Persie 3' (pen.) Daley Blind 17' Georginio Wijnaldum 90+1'
+64,Final,Jul 13,16:00,Estádio do Maracanã,Rio de Janeiro,Germany,"1-0 (0-0, 0-0)",Argentina,Mario Götze 113',
