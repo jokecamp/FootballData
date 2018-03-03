@@ -1,0 +1,31 @@
+##############################
+# Sweden (SWE) 
+#   - 23 players
+
+ (1)  GK  Andreas Isaksson                   ##   39, Rennes (FRA)
+(12)  GK  John Alvbåge                       ##    2, Viborg (DEN)
+(23)  GK  Rami Shaaban                       ##    1, Fredrikstad (NOR)
+
+ (2)  DF  Mikael Nilsson                     ##   27, Panathinaikos (GRE)
+ (3)  DF  Olof Mellberg                      ##   64, Aston Villa (ENG)
+ (4)  DF  Teddy Lucic                        ##   81, Häcken (SWE)
+ (5)  DF  Erik Edman                         ##   37, Rennes (FRA)
+(13)  DF  Petter Hansson                     ##   13, Heerenveen (NED)
+(14)  DF  Fredrik Stenman                    ##    1, Bayer Leverkusen (GER)
+(15)  DF  Karl Svensson                      ##    1, Göteborg (SWE)
+
+ (6)  MF  Tobias Linderoth                   ##   58, Copenhagen (DEN)
+ (7)  MF  Niclas Alexandersson               ##   87, Göteborg (SWE)
+ (8)  MF  Anders Svensson                    ##   66, Elfsborg (SWE)
+ (9)  MF  Fredrik Ljungberg                  ##   57, Arsenal (ENG)
+(16)  MF  Kim Källström                      ##   34, Rennes (FRA)
+(18)  MF  Mattias Jonson                     ##   53, Djurgården (SWE)
+(19)  MF  Daniel Andersson                   ##   47, Malmö (SWE)
+(21)  MF  Christian Wilhelmsson              ##   29, Anderlecht (BEL)
+
+(10)  FW  Zlatan Ibrahimović                 ##   38, Juventus (ITA)
+(11)  FW  Henrik Larsson                     ##   89, Barcelona (ESP)
+(17)  FW  Johan Elmander                     ##   18, Brøndby (DEN)
+(20)  FW  Marcus Allbäck                     ##   56, Copenhagen (DEN)
+(22)  FW  Markus Rosenberg                   ##    8, Ajax (NED)
+

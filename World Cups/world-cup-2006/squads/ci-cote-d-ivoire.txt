@@ -1,0 +1,31 @@
+##############################
+# Côte d'Ivoire (CIV) 
+#   - 23 players
+
+ (1)  GK  Jean-Jacques Tizié                 ##   24, Espérance (TUN)
+(16)  GK  Gérard Gnanhouan                   ##    6, Montpellier (FRA)
+(23)  GK  Boubacar Barry                     ##    6, Beveren (BEL)
+
+ (3)  DF  Arthur Boka                        ##   23, Strasbourg (FRA)
+ (4)  DF  Kolo Touré                         ##   42, Arsenal (ENG)
+ (6)  DF  Blaise Kouassi                     ##   36, Troyes (FRA)
+(12)  DF  Abdoulaye Méïté                    ##   18, Marseille (FRA)
+(13)  DF  Marco Zoro                         ##   13, Messina (ITA)
+(17)  DF  Cyril Domoraud                     ##   50, Créteil (FRA)
+(20)  DF  Guy Demel                          ##    7, Hamburg (GER)
+(21)  DF  Emmanuel Eboué                     ##   11, Arsenal (ENG)
+
+ (2)  MF  Kanga Akalé                        ##   22, Auxerre (FRA)
+ (5)  MF  Didier Zokora                      ##   38, Saint-Étienne (FRA)
+ (7)  MF  Emerse Faé                         ##   14, Nantes (FRA)
+(10)  MF  Gilles Yapi Yapo                   ##   26, Young Boys (SUI)
+(18)  MF  Abdul Kader Keïta                  ##   26, Lille (FRA)
+(19)  MF  Yaya Touré                         ##   14, Olympiacos (GRE)
+(22)  MF  Romaric                            ##    8, Le Mans (FRA)
+
+ (8)  FW  Bonaventure Kalou                  ##   49, Paris Saint-Germain (FRA)
+ (9)  FW  Arouna Koné                        ##   17, PSV Eindhoven (NED)
+(11)  FW  Didier Drogba                      ##   32, Chelsea (ENG)
+(14)  FW  Bakari Koné                        ##   16, Nice (FRA)
+(15)  FW  Aruna Dindane                      ##   34, Lens (FRA)
+

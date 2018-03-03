@@ -1,0 +1,30 @@
+##############################
+# Norway (NOR) 
+#   - 22 players
+
+ (1)  GK  Erik Thorstvedt                    ##   84, Tottenham Hotspur 
+(12)  GK  Frode Grodås                       ##   12, Lillestrøm 
+(13)  GK  Ola By Rise                        ##   25, Rosenborg 
+
+ (2)  DF  Gunnar Halle                       ##   44, Oldham Athletic 
+ (3)  DF  Erland Johnsen                     ##   20, Chelsea 
+ (4)  DF  Rune Bratseth                      ##   57, Werder Bremen 
+ (5)  DF  Stig Inge Bjørnebye                ##   34, Liverpool 
+(14)  DF  Roger Nilsen                       ##   20, Sheffield United 
+(17)  DF  Dan Eggen                          ##    2, Brøndby 
+(18)  DF  Alf-Inge Håland                    ##    3, Nottingham Forest 
+(20)  DF  Henning Berg                       ##   16, Blackburn Rovers 
+
+ (7)  MF  Erik Mykland                       ##   25, Start 
+ (8)  MF  Øyvind Leonhardsen                 ##   29, Rosenborg 
+(10)  MF  Kjetil Rekdal                      ##   32, Lierse 
+(11)  MF  Mini Jakobsen                      ##   44, Young Boys 
+(15)  MF  Karl Petter Løken                  ##   32, Rosenborg 
+(19)  MF  Roar Strand                        ##    1, Rosenborg 
+(22)  MF  Lars Bohinen                       ##   29, Nottingham Forest 
+
+ (6)  FW  Jostein Flo                        ##   23, Sheffield United 
+ (9)  FW  Jan Åge Fjørtoft                   ##   50, Swindon Town 
+(16)  FW  Gøran Sørloth                      ##   54, Bursaspor 
+(21)  FW  Sigurd Rushfeldt                   ##    1, Tromsø 
+

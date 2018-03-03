@@ -1,0 +1,31 @@
+##############################
+# Morocco (MAR) 
+#   - 23 players
+
+ (1)  GK  Badou Zaki                         ##    -, Wydad Casablanca 
+(12)  GK  Salahdine Hmied                    ##    -, FAR Rabat 
+(22)  GK  Abdelfettah Mouddani               ##    -, Kenitra 
+
+ (2)  DF  Labid Khalifa                      ##    -, Kenitra 
+ (3)  DF  Abdelmajid Lamriss                 ##    -, FAR Rabat 
+ (4)  DF  Mustafa El Biyaz                   ##    -, KAC Marrakesh 
+ (5)  DF  Noureddine Bouyahyaoui             ##    -, Kenitra 
+(14)  DF  Lahcen Ouadani                     ##    -, FAR Rabat 
+(20)  DF  Abdellah Bidane                    ##    -, CODM Meknes 
+(23)  DF  Abderrazak Dinar                   ##    -, FK Austria Wien 
+
+ (6)  MF  Abdelmajid Dolmy                   ##    -, Raja Casablanca 
+ (7)  MF  Mustafa El Haddaoui                ##    -, Lausanne 
+ (8)  MF  Aziz Bouderbala                    ##    -, Sion 
+(10)  MF  Mohammed Timoumi                   ##    -, FAR Rabat 
+(15)  MF  Mouncif El Haddaoui                ##    -, AS Sale 
+(18)  MF  Mohammed Sahil                     ##    -, KAC Marrakesh 
+(19)  MF  Fadel Jilal                        ##    -, Wydad Casablanca 
+(21)  MF  Abdelaziz Souleimani               ##    -, Maghreb Fez 
+
+ (9)  FW  Abdelkrim Merry "Krimau"           ##    -, Le Havre 
+(11)  FW  Mustafa Merry                      ##    -, Valenciennes 
+(13)  FW  Abdelfettah Rhiati                 ##    -, Maghreb Fez 
+(16)  FW  Azzedine Amanallah                 ##    -, Besançon 
+(17)  FW  Abderrazak Khairi                  ##    -, FAR Rabat 
+

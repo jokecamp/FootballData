@@ -1,0 +1,49 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,away
+1,Group A,31 May,Seoul World Cup Stadium,Seoul,France,0,1,Senegal
+3,Group A,1 June,Munsu Cup Stadium,Ulsan,Uruguay,1,2,Denmark
+18,Group A,6 June,Asiad Main Stadium,Busan,France,0,0,Uruguay
+19,Group A,6 June,Daegu World Cup Stadium,Daegu,Denmark,1,1,Senegal
+33,Group A,11 June,Incheon Munhak Stadium,Incheon,Denmark,2,0,France
+34,Group A,11 June,Suwon World Cup Stadium,Suwon,Senegal,3,3,Uruguay
+6,Group B,2 June,Asiad Main Stadium,Busan,Paraguay,2,2,South Africa
+8,Group B,2 June,Gwangju World Cup Stadium,Gwangju,Spain,3,1,Slovenia
+22,Group B,7 June,Jeonju World Cup Stadium,Jeonju,Spain,3,1,Paraguay
+24,Group B,8 June,Daegu World Cup Stadium,Daegu,South Africa,1,0,Slovenia
+39,Group B,12 June,Daejeon World Cup Stadium,Daejeon,South Africa,2,3,Spain
+40,Group B,12 June,Jeju World Cup Stadium,Jeju,Slovenia,1,3,Paraguay
+10,Group C,3 June,Munsu Cup Stadium,Ulsan,Brazil,2,1,Turkey
+12,Group C,4 June,Gwangju World Cup Stadium,Gwangju,China,0,2,Costa Rica
+26,Group C,8 June,Jeju World Cup Stadium,Jeju,Brazil,4,0,China
+28,Group C,9 June,Incheon Munhak Stadium,Incheon,Costa Rica,1,1,Turkey
+41,Group C,13 June,Suwon World Cup Stadium,Suwon,Costa Rica,2,5,Brazil
+42,Group C,13 June,Seoul World Cup Stadium,Seoul,Turkey,3,0,China
+14,Group D,4 June,Asiad Main Stadium,Busan,South Korea,2,0,Poland
+16,Group D,5 June,Suwon World Cup Stadium,Suwon,United States,3,2,Portugal
+30,Group D,10 June,Daegu World Cup Stadium,Daegu,South Korea,1,1,United States
+32,Group D,10 June,Jeonju World Cup Stadium,Jeonju,Portugal,4,0,Poland
+47,Group D,14 June,Incheon Munhak Stadium,Incheon,Portugal,0,1,South Korea
+48,Group D,14 June,Daejeon World Cup Stadium,Daejeon,Poland,3,1,United States
+2,Group E,1 June,Niigata Stadium,Niigata,Ireland,1,1,Cameroon
+4,Group E,1 June,Sapporo Dome,Sapporo,Germany,8,0,Saudi Arabia
+17,Group E,5 June,Kashima Soccer Stadium,Ibaraki,Germany,1,1,Republic of Ireland
+19,Group E,6 June,Saitama Stadium,Saitama,Cameroon,1,0,Saudi Arabia
+35,Group E,11 June,Shizuoka Stadium,Shizuoka,Cameroon,0,2,Germany
+36,Group E,11 June,International Stadium Yokohama,Yokohama,Saudi Arabia,0,3,Ireland
+5,Group F,2 June,Saitama Stadium,Saitama,England,1,1,Sweden
+7,Group F,2 June,Kashima Soccer Stadium,Ibaraki,Argentina,1,0,Nigeria
+21,Group F,7 June,Kobe Wing Stadium,Kobe,Sweden,2,1,Nigeria
+23,Group F,7 June,Sapporo Dome,Sapporo,Argentina,0,1,England
+37,Group F,12 June,Miyagi Stadium,Miyagi,Sweden,1,1,Argentina
+38,Group F,12 June,Nagai Stadium,Osaka,Nigeria,0,0,England
+9,Group G,3 June,Niigata Stadium,Niigata,Croatia,0,1,Mexico
+11,Group G,3 June,Sapporo Dome,Sapporo,Italy,2,0,Ecuador
+25,Group G,8 June,Kashima Soccer Stadium,Ibaraki,Italy,1,2,Croatia
+27,Group G,9 June,Miyagi Stadium,Miyagi,Mexico,2,1,Ecuador
+43,Group G,13 June,Ōita Stadium,Ōita,Mexico,1,1,Italy
+44,Group G,13 June,International Stadium Yokohama,Yokohama,Ecuador,1,0,Croatia
+13,Group H,4 June,Saitama Stadium,Saitama,Japan,2,2,Belgium
+15,Group H,5 June,Kobe Wing Stadium,Kobe,Russia,2,0,Tunisia
+29,Group H,9 June,International Stadium Yokohama,Yokohama,Japan,1,0,Russia
+31,Group H,10 June,Ōita Stadium,Ōita,Tunisia,1,1,Belgium
+45,Group H,14 June,Nagai Stadium,Osaka,Tunisia,0,2,Japan
+46,Group H,14 June,Shizuoka Stadium,Shizuoka,Belgium,3,2,Russia

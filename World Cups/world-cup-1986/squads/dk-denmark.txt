@@ -1,0 +1,30 @@
+##############################
+# Denmark (DEN) 
+#   - 22 players
+
+ (1)  GK  Troels Rasmussen                   ##   15, Aarhus GF 
+(16)  GK  Ole Qvist                          ##   38, KB 
+(22)  GK  Lars Høgh                          ##    3, Odense 
+
+ (2)  DF  John Sivebæk                       ##   36, Manchester United 
+ (3)  DF  Søren Busk                         ##   46, MVV Maastricht 
+ (4)  DF  Morten Olsen                       ##   79, Anderlecht 
+ (5)  DF  Ivan Nielsen                       ##   31, Feyenoord 
+(12)  DF  Jens Jørn Bertelsen                ##   58, Aarau 
+(17)  DF  Kent Nielsen                       ##    4, Brønshøj 
+(21)  DF  Henrik Andersen                    ##    6, Anderlecht 
+
+ (6)  MF  Søren Lerby                        ##   51, Bayern Munich 
+ (7)  MF  Jan Mølby                          ##   20, Liverpool 
+ (8)  MF  Jesper Olsen                       ##   26, Manchester United 
+(11)  MF  Michael Laudrup                    ##   30, Juventus 
+(13)  MF  Per Frimann                        ##   10, Anderlecht 
+(15)  MF  Frank Arnesen                      ##   45, PSV 
+(18)  MF  Flemming Christensen               ##   10, Lyngby 
+(20)  MF  Jan Bartram                        ##    3, Aarhus 
+
+ (9)  FW  Klaus Berggreen                    ##   32, Pisa 
+(10)  FW  Preben Elkjær Larsen               ##   56, Verona 
+(14)  FW  Allan Simonsen                     ##   53, Vejle 
+(19)  FW  John Eriksen                       ##    5, Feyenoord 
+

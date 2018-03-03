@@ -1,0 +1,30 @@
+##############################
+# Nigeria (NGA) 
+#   - 22 players
+
+ (1)  GK  Peter Rufai                        ##   45, Deportivo La Coruña 
+(12)  GK  William Okpara                     ##    5, Orlando Pirates 
+(22)  GK  Abiodun Baruwa                     ##    3, Sion 
+
+ (2)  DF  Mobi Oparaku                       ##    3, Kapellen 
+ (3)  DF  Celestine Babayaro                 ##    6, Chelsea 
+ (5)  DF  Uche Okechukwu                     ##   41, Fenerbahçe 
+ (6)  DF  Taribo West                        ##    8, Internazionale 
+(16)  DF  Uche Okafor                        ##   33, Kansas City Wizards (USA)
+(17)  DF  Augustine Eguavoen                 ##   52, Torpedo Moscow 
+(19)  DF  Benedict Iroha                     ##   33, Elche 
+(21)  DF  Godwin Okpara                      ##    6, Strasbourg 
+
+ (7)  MF  Finidi George                      ##   36, Real Betis 
+ (8)  MF  Mutiu Adepoju                      ##   35, Real Sociedad 
+(10)  MF  Jay-Jay Okocha                     ##   26, Fenerbahçe 
+(11)  MF  Garba Lawal                        ##    3, Roda JC 
+(13)  MF  Tijjani Babangida                  ##    4, Ajax 
+(15)  MF  Sunday Oliseh                      ##   22, Ajax 
+(18)  MF  Wilson Oruma                       ##    4, Lens 
+
+ (4)  FW  Nwankwo Kanu                       ##    7, Internazionale 
+ (9)  FW  Rashidi Yekini                     ##   63, Zürich 
+(14)  FW  Daniel Amokachi                    ##   43, Beşiktaş 
+(20)  FW  Victor Ikpeba                      ##   15, AS Monaco 
+

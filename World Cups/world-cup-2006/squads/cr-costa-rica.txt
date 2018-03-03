@@ -1,0 +1,31 @@
+##############################
+# Costa Rica (CRC) 
+#   - 23 players
+
+ (1)  GK  Álvaro Mesén                       ##   38, Herediano (CRC)
+(18)  GK  José Porras                        ##   16, Deportivo Saprissa (CRC)
+(23)  GK  Wardy Alfaro                       ##    2, Alajuelense (CRC)
+
+ (2)  DF  Jervis Drummond                    ##   56, Deportivo Saprissa (CRC)
+ (3)  DF  Luis Marín                         ##  120, Alajuelense (CRC)
+ (4)  DF  Michael Umaña                      ##   18, Brujas (CRC)
+ (5)  DF  Gilberto Martínez                  ##   57, Brescia (ITA)
+(12)  DF  Leonardo González                  ##   36, Herediano (CRC)
+(15)  DF  Harold Wallace                     ##   78, Alajuelense (CRC)
+(17)  DF  Gabriel Badilla                    ##    7, Deportivo Saprissa (CRC)
+(22)  DF  Michael Rodríguez                  ##    3, Alajuelense (CRC)
+
+ (6)  MF  Danny Fonseca                      ##   22, Cartaginés (CRC)
+ (7)  MF  Christian Bolaños                  ##   16, Deportivo Saprissa (CRC)
+ (8)  MF  Mauricio Solís                     ##  107, CSD Comunicaciones (GUA)
+(10)  MF  Walter Centeno                     ##   93, Deportivo Saprissa (CRC)
+(14)  MF  Randall Azofeifa                   ##    5, Deportivo Saprissa (CRC)
+(16)  MF  Carlos Hernández                   ##   17, Alajuelense (CRC)
+(20)  MF  Douglas Sequeira                   ##   29, Real Salt Lake (USA)
+
+ (9)  FW  Paulo Wanchope                     ##   69, Herediano (CRC)
+(11)  FW  Rónald Gómez                       ##   80, Deportivo Saprissa (CRC)
+(13)  FW  Kurt Bernard                       ##    3, Puntarenas (CRC)
+(19)  FW  Álvaro Saborío                     ##   23, Deportivo Saprissa (CRC)
+(21)  FW  Victor Núñez                       ##    3, Cartaginés (CRC)
+

@@ -1,0 +1,37 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,away
+1,Group A,31 May,Estadio Azteca,Mexico City,Bulgaria,1,1,Italy
+4,Group A,2 June,Estadio Olímpico Universitario,Mexico City,Argentina,3,1,South Korea
+13,Group A,5 June,Estadio Cuauhtémoc,Puebla,Italy,1,1,Argentina
+14,Group A,5 June,Estadio Olímpico Universitario,Mexico City,South Korea,1,1,Bulgaria
+27,Group A,10 June,Estadio Cuauhtémoc,Puebla,South Korea,2,3,Italy
+28,Group A,10 June,Estadio Olímpico Universitario,Mexico City,Argentina,2,0,Bulgaria
+7,Group B,3 June,Estadio Azteca,Mexico City,Belgium,1,2,Mexico
+10,Group B,4 June,Estadio Nemesio Díez,Toluca,Paraguay,1,0,Iraq
+19,Group B,7 June,Estadio Azteca,Mexico City,Mexico,1,1,Paraguay
+22,Group B,8 June,Estadio Nemesio Díez,Toluca,Iraq,1,2,Belgium
+29,Group B,11 June,Estadio Azteca,Mexico City,Iraq,0,1,Mexico
+30,Group B,11 June,Estadio Nemesio Díez,Toluca,Paraguay,2,2,Belgium
+2,Group C,1 June,Estadio Nou Camp,León,Canada,0,1,France
+5,Group C,2 June,Estadio Sergio León Chavez,Irapuato,Soviet Union,6,0,Hungary
+15,Group C,5 June,Estadio Nou Camp,León,France,1,1,Soviet Union
+16,Group C,6 June,Estadio Sergio León Chavez,Irapuato,Hungary,2,0,Canada
+25,Group C,9 June,Estadio Nou Camp,León,Hungary,0,3,France
+26,Group C,9 June,Estadio Sergio León Chavez,Irapuato,Soviet Union,2,0,Canada
+3,Group D,1 June,Estadio Jalisco,Guadalajara,Spain,0,1,Brazil
+8,Group D,3 June,Estadio Tres de Marzo,Guadalajara,Algeria,1,1,Northern Ireland
+17,Group D,6 June,Estadio Jalisco,Guadalajara,Brazil,1,0,Algeria
+20,Group D,7 June,Estadio Tres de Marzo,Guadalajara,Northern Ireland,1,2,Spain
+33,Group D,12 June,Estadio Jalisco,Guadalajara,Northern Ireland,0,3,Brazil
+34,Group D,12 June,Estadio Tecnológico,Monterrey,Algeria,0,3,Spain
+11,Group E,4 June,Estadio La Corregidora,Querétaro,Uruguay,1,1,West Germany
+12,Group E,4 June,Estadio Neza 86,Nezahualcóyotl,Scotland,0,1,Denmark
+23,Group E,8 June,Estadio La Corregidora,Querétaro,West Germany,2,1,Scotland
+24,Group E,8 June,Estadio Neza 86,Nezahualcóyotl,Denmark,6,1,Uruguay
+35,Group E,13 June,Estadio La Corregidora,Querétaro,Denmark,2,0,West Germany
+36,Group E,13 June,Estadio Neza 86,Nezahualcóyotl,Scotland,0,0,Uruguay
+6,Group F,2 June,Estadio Universitario,Monterrey,Morocco,0,0,Poland
+9,Group F,3 June,Estadio Tecnológico,Monterrey,Portugal,1,0,England
+18,Group F,6 June,Estadio Tecnológico,Monterrey,England,0,0,Morocco
+21,Group F,7 June,Estadio Universitario,Monterrey,Poland,1,0,Portugal
+31,Group F,11 June,Estadio Tres de Marzo,Guadalajara,Portugal,1,3,Morocco
+32,Group F,11 June,Estadio Tecnológico,Monterrey,England,3,0,Poland

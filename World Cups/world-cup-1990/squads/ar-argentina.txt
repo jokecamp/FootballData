@@ -1,0 +1,36 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Nery Pumpido                       ##    -, Real Betis 
+(12)  GK  Sergio Goycochea                   ##    -, Millonarios 
+(22)  GK  Fabián Cancelarich                 ##    -, Ferro Carril Oeste 
+
+ (5)  DF  Edgardo Bauza                      ##    -, Veracruz 
+(11)  DF  Néstor Fabbri                      ##    -, Racing 
+(13)  DF  Néstor Lorenzo                     ##    -, Bari 
+(15)  DF  Pedro Monzón                       ##    -, Independiente 
+(16)  DF  Julio Olarticoechea                ##    -, Racing 
+(17)  DF  Roberto Néstor Sensini             ##    -, Udinese 
+(18)  DF  José Serrizuela                    ##    -, River Plate 
+(19)  DF  Oscar Ruggeri                      ##    -, Real Madrid 
+(20)  DF  Juan Simón                         ##    -, Boca Juniors 
+
+ (2)  MF  Sergio Batista                     ##    -, River Plate 
+ (4)  MF  José Basualdo                      ##    -, VfB Stuttgart 
+ (6)  MF  Gabriel Calderón                   ##    -, Paris Saint-Germain 
+ (7)  MF  Jorge Burruchaga                   ##    -, Nantes 
+(10)  MF  Diego Maradona                     ##    -, Napoli 
+(14)  MF  Ricardo Giusti                     ##    -, Independiente 
+(21)  MF  Pedro Troglio                      ##    -, Lazio 
+
+ (3)  FW  Abel Balbo                         ##    -, Udinese 
+ (8)  FW  Claudio Caniggia                   ##    -, Atalanta 
+ (9)  FW  Gustavo Dezotti                    ##    -, Cremonese 
+
+##############################
+# Argentina (ARG) Replacements 
+#   - 1 players
+
+ (1)  GK  Ángel Comizzo                      ##    -, River Plate 
+

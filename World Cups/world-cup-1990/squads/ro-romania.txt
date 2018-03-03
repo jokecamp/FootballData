@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+ (1)  GK  Silviu Lung                        ##   65, Steaua Bucureşti 
+(12)  GK  Bogdan Stelea                      ##    3, Dinamo Bucureşti 
+(22)  GK  Gheorghe Liliac                    ##    2, Petrolul Ploieşti 
+
+ (2)  DF  Mircea Rednic                      ##   74, Dinamo Bucureşti 
+ (3)  DF  Michael Klein                      ##   78, Dinamo Bucureşti 
+ (4)  DF  Ioan Andone                        ##   49, Dinamo Bucureşti 
+ (5)  DF  Iosif Rotariu                      ##   11, Steaua Bucureşti 
+ (6)  DF  Gheorghe Popescu                   ##   18, Universitatea Craiova 
+(13)  DF  Adrian Popescu                     ##    1, Universitatea Craiova 
+(19)  DF  Emil Săndoi                        ##    8, Universitatea Craiova 
+
+ (8)  MF  Ioan Sabău                         ##   21, Dinamo Bucureşti 
+(10)  MF  Gheorghe Hagi                      ##   59, Steaua Bucureşti 
+(11)  MF  Dănuţ Lupu                         ##    7, Dinamo Bucureşti 
+(15)  MF  Dorin Mateuţ                       ##   45, Dinamo Bucureşti 
+(16)  MF  Daniel Timofte                     ##    4, Dinamo Bucureşti 
+(20)  MF  Zsolt Muzsnay                      ##    6, Steaua Bucureşti 
+(21)  MF  Ioan Lupescu                       ##    4, Dinamo Bucureşti 
+
+ (7)  FW  Marius Lăcătuş                     ##   38, Steaua Bucureşti 
+ (9)  FW  Rodion Cămătaru                    ##   74, Charleroi 
+(14)  FW  Florin Răducioiu                   ##    3, Dinamo Bucureşti 
+(17)  FW  Ilie Dumitrescu                    ##    9, Steaua Bucureşti 
+(18)  FW  Gavril Balint                      ##   24, Steaua Bucureşti 
+

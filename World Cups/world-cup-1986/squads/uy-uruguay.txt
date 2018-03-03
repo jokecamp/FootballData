@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+ (1)  GK  Rodolfo Rodríguez                  ##    -, Santos 
+(12)  GK  Fernando Alvez                     ##    -, Peñarol 
+(22)  GK  Celso Otero                        ##    -, Montevideo Wanderers 
+
+ (2)  DF  Nelson Gutiérrez                   ##    -, River Plate 
+ (3)  DF  Eduardo Mario Acevedo              ##    -, Defensor Sporting 
+ (4)  DF  Víctor Diogo                       ##    -, Palmeiras 
+ (6)  DF  José Batista                       ##    -, Deportivo Español 
+(13)  DF  César Vega                         ##    -, Danubio 
+(14)  DF  Darío Pereyra                      ##    -, São Paulo 
+(15)  DF  Eliseo Rivero                      ##    -, Peñarol 
+
+ (5)  MF  Miguel Bossio                      ##    -, Peñarol 
+ (8)  MF  Jorge Barrios                      ##    -, Olympiakos 
+(10)  MF  Enzo Francescoli                   ##    -, River Plate 
+(11)  MF  Sergio Santín                      ##    -, Atlético Nacional 
+(16)  MF  Mario Saralegui                    ##    -, Peñarol 
+(17)  MF  José Zalazar                       ##    -, Peñarol 
+(18)  MF  Rubén Paz                          ##    -, Internacional 
+
+ (7)  FW  Antonio Alzamendi                  ##    -, River Plate 
+ (9)  FW  Jorge da Silva                     ##    -, Atlético Madrid 
+(19)  FW  Venancio Ramos                     ##    -, Lens 
+(20)  FW  Carlos Aguilera                    ##    -, Nacional 
+(21)  FW  Wilmar Cabrera                     ##    -, Valencia 
+

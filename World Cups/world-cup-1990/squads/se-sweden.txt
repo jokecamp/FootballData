@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+ (1)  GK  Sven Andersson                     ##    -, Örgryte 
+(12)  GK  Lars Eriksson                      ##    -, Norrköping 
+(22)  GK  Thomas Ravelli                     ##    -, IFK Göteborg 
+
+ (2)  DF  Jan Eriksson                       ##    -, AIK 
+ (3)  DF  Glenn Hysén                        ##    -, Liverpool 
+ (4)  DF  Peter Larsson                      ##    -, Ajax 
+ (5)  DF  Roger Ljung                        ##    -, Young Boys 
+ (6)  DF  Roland Nilsson                     ##    -, Sheffield Wednesday 
+ (7)  DF  Niklas Nyhlén                      ##    -, Malmö 
+ (8)  DF  Stefan Schwarz                     ##    -, Malmö 
+
+ (9)  MF  Leif Engqvist                      ##    -, Malmö 
+(10)  MF  Klas Ingesson                      ##    -, IFK Göteborg 
+(11)  MF  Ulrik Jansson                      ##    -,  
+(13)  MF  Anders Limpar                      ##    -, Cremonese 
+(14)  MF  Joakim Nilsson                     ##    -, Malmö 
+(15)  MF  Glenn Strömberg                    ##    -, Atalanta 
+(16)  MF  Jonas Thern                        ##    -, Benfica 
+(19)  MF  Mats Gren                          ##    -, Grasshopper 
+
+(17)  FW  Tomas Brolin                       ##    -, Norrköping 
+(18)  FW  Johnny Ekström                     ##    -, Cannes 
+(20)  FW  Mats Magnusson                     ##    -, Benfica 
+(21)  FW  Stefan Pettersson                  ##    -, Ajax 
+

@@ -1,0 +1,31 @@
+##############################
+# Deutschland (GER) 
+#   - 23 players
+
+ (1)  GK  Jens Lehmann                       ##   32, Arsenal (ENG)
+(12)  GK  Oliver Kahn                        ##   85, Bayern Munich (GER)
+(23)  GK  Timo Hildebrand                    ##    3, Stuttgart (GER)
+
+ (2)  DF  Marcell Jansen                     ##    7, Borussia Mönchengladbach (GER)
+ (3)  DF  Arne Friedrich                     ##   36, Hertha BSC (GER)
+ (4)  DF  Robert Huth                        ##   16, Chelsea (ENG)
+ (6)  DF  Jens Nowotny                       ##   46, Bayer Leverkusen (GER)
+(16)  DF  Philipp Lahm                       ##   18, Bayern Munich (GER)
+(17)  DF  Per Mertesacker                    ##   23, Hannover 96 (GER)
+(21)  DF  Christoph Metzelder                ##   22, Borussia Dortmund (GER)
+
+ (5)  MF  Sebastian Kehl                     ##   27, Borussia Dortmund (GER)
+ (7)  MF  Bastian Schweinsteiger             ##   28, Bayern Munich (GER)
+ (8)  MF  Torsten Frings                     ##   52, Werder Bremen (GER)
+(13)  MF  Michael Ballack                    ##   65, Bayern Munich (GER)
+(15)  MF  Thomas Hitzlsperger                ##   15, Stuttgart (GER)
+(18)  MF  Tim Borowski                       ##   20, Werder Bremen (GER)
+(19)  MF  Bernd Schneider                    ##   64, Bayer Leverkusen (GER)
+(22)  MF  David Odonkor                      ##    1, Borussia Dortmund (GER)
+
+ (9)  FW  Mike Hanke                         ##    6, Wolfsburg (GER)
+(10)  FW  Oliver Neuville                    ##   55, Borussia Mönchengladbach (GER)
+(11)  FW  Miroslav Klose                     ##   55, Werder Bremen (GER)
+(14)  FW  Gerald Asamoah                     ##   40, Schalke 04 (GER)
+(20)  FW  Lukas Podolski                     ##   25, Köln (GER)
+

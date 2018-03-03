@@ -1,0 +1,31 @@
+##############################
+# Denmark (DEN) 
+#   - 23 players
+
+ (1)  GK  Thomas Sørensen                    ##   14, Sunderland 
+(16)  GK  Peter Kjær                         ##    4, Aberdeen 
+(22)  GK  Jesper Christiansen                ##    0, Vejle 
+
+ (3)  DF  René Henriksen                     ##   39, Panathinaikos 
+ (4)  DF  Martin Laursen                     ##   15, Milan 
+ (5)  DF  Jan Heintze                        ##   83, PSV 
+ (6)  DF  Thomas Helveg                      ##   67, Milan 
+(12)  DF  Niclas Jensen                      ##    8, Manchester City 
+(13)  DF  Steven Lustü                       ##    4, Lyn 
+(20)  DF  Kasper Bøgelund                    ##    2, PSV 
+
+ (2)  MF  Stig Tøfting                       ##   36, Bolton Wanderers 
+ (7)  MF  Thomas Gravesen                    ##   22, Everton 
+ (8)  MF  Jesper Grønkjær                    ##   25, Chelsea 
+(10)  MF  Martin Jørgensen                   ##   32, Udinese 
+(14)  MF  Claus Jensen                       ##   13, Charlton Athletic 
+(15)  MF  Jan Michaelsen                     ##   11, Panathinaikos 
+(17)  MF  Christian Poulsen                  ##    3, Copenhagen 
+(19)  MF  Dennis Rommedahl                   ##   19, PSV 
+(23)  MF  Brian Steen Nielsen                ##   65, Malmö 
+
+ (9)  FW  Jon Dahl Tomasson                  ##   38, Feyenoord 
+(11)  FW  Ebbe Sand                          ##   44, Schalke 04 
+(18)  FW  Peter Løvenkrands                  ##    4, Rangers 
+(21)  FW  Peter Madsen                       ##    4, Brøndby 
+

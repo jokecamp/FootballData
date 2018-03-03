@@ -1,0 +1,30 @@
+##############################
+# Jamaica (JAM) 
+#   - 22 players
+
+ (1)  GK  Warren Barrett                     ##  128, Violet Kickers 
+(13)  GK  Aaron Lawrence                     ##   17, Reno 
+(14)  GK  Donovan Ricketts                   ##    0, Wadadah 
+
+ (2)  DF  Stephen Malcolm                    ##   62, Seba United 
+ (3)  DF  Chris Dawes                        ##    -, Galaxy 
+ (4)  DF  Linval Dixon                       ##  104, Hazard 
+ (5)  DF  Ian Goodison                       ##   55, Olympic Gardens 
+(12)  DF  Dean Sewell                        ##    4, Constant Spring 
+(15)  DF  Ricardo Gardner                    ##   34, Harbour View 
+(19)  DF  Frank Sinclair                     ##    5, Chelsea 
+(21)  DF  Durrant Brown                      ##  125, Wadadah 
+
+ (6)  MF  Fitzroy Simpson                    ##   23, Portsmouth 
+ (7)  MF  Peter Cargill                      ##   76, Harbour View 
+(11)  MF  Theodore Whitmore                  ##   76, Seba United 
+(16)  MF  Robbie Earle                       ##    8, Wimbledon 
+(20)  MF  Darryl Powell                      ##    2, Derby County 
+
+ (8)  FW  Marcus Gayle                       ##    5, Wimbledon 
+ (9)  FW  Andy Williams                      ##   25, Columbus Crew (USA)
+(10)  FW  Walter Boyd                        ##   57, Arnett Gardens 
+(17)  FW  Onandi Lowe                        ##   30, Harbour View 
+(18)  FW  Deon Burton                        ##   18, Derby County 
+(22)  FW  Paul Hall                          ##   23, Portsmouth 
+

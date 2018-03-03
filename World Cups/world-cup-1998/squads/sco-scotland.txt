@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Jim Leighton                       ##   86, Aberdeen 
+(12)  GK  Neil Sullivan                      ##    3, Wimbledon 
+(21)  GK  Jonathan Gould                     ##    0, Celtic 
+
+ (3)  DF  Tom Boyd                           ##   55, Celtic 
+ (4)  DF  Colin Calderwood                   ##   28, Tottenham Hotspur 
+ (5)  DF  Colin Hendry                       ##   32, Blackburn Rovers 
+ (6)  DF  Tosh McKinlay                      ##   19, Celtic 
+(16)  DF  David Weir                         ##    5, Hearts 
+(18)  DF  Matt Elliott                       ##    3, Leicester City 
+(19)  DF  Derek Whyte                        ##   11, Aberdeen 
+(22)  DF  Christian Dailly                   ##   10, Derby County 
+
+ (2)  MF  Jackie McNamara                    ##    6, Celtic 
+ (8)  MF  Craig Burley                       ##   25, Celtic 
+(10)  MF  Darren Jackson                     ##   24, Celtic 
+(11)  MF  John Collins                       ##   49, AS Monaco 
+(14)  MF  Paul Lambert                       ##   12, Celtic 
+(15)  MF  Scot Gemmill                       ##   13, Nottingham Forest 
+(17)  MF  Billy McKinlay                     ##   25, Blackburn Rovers 
+
+ (7)  FW  Kevin Gallacher                    ##   36, Blackburn Rovers 
+ (9)  FW  Gordon Durie                       ##   40, Rangers 
+(13)  FW  Simon Donnelly                     ##    8, Celtic 
+(20)  FW  Scott Booth                        ##   16, Utrecht 
+

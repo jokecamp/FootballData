@@ -1,0 +1,30 @@
+##############################
+# Colombia (COL) 
+#   - 22 players
+
+ (1)  GK  René Higuita                       ##    -, Atlético Nacional 
+(12)  GK  Eduardo Niño                       ##    -, Independiente Santa Fe 
+
+ (2)  DF  Andrés Escobar                     ##    -, Young Boys 
+ (3)  DF  Gildardo Gómez                     ##    -, Atlético Nacional 
+ (4)  DF  Luis Fernando Herrera              ##    -, Atlético Nacional 
+ (6)  DF  José Ricardo Pérez                 ##    -, Atlético Nacional 
+(13)  DF  Carlos Hoyos                       ##    -, Atlético Junior 
+(15)  DF  Luis Carlos Perea                  ##    -, Atlético Nacional 
+(17)  DF  Geovanis Cassiani                  ##    -, Millonarios 
+(18)  DF  Wilmer Cabrera                     ##    -, América de Cali 
+(21)  DF  Alexis Mendoza                     ##    -, Atlético Junior 
+
+ (8)  MF  Gabriel Gómez                      ##    -, Independiente Medellín 
+(10)  MF  Carlos Valderrama                  ##    -, Montpellier 
+(11)  MF  Bernardo Redín                     ##    -, Deportivo Cali 
+(14)  MF  Leonel Álvarez                     ##    -, Atlético Nacional 
+(19)  MF  Freddy Rincón                      ##    -, América de Cali 
+(20)  MF  Luis Fajardo                       ##    -, Atlético Nacional 
+
+ (5)  FW  León Villa                         ##    -, Atlético Nacional 
+ (7)  FW  Carlos Estrada                     ##    -, Millonarios 
+ (9)  FW  Miguel Guerrero                    ##    -, América de Cali 
+(16)  FW  Arnoldo Iguarán                    ##    -, Millonarios 
+(22)  FW  Rubén Darío Hernández              ##    -, Millonarios 
+

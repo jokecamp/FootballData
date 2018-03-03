@@ -1,0 +1,30 @@
+##############################
+# Paraguay (PAR) 
+#   - 22 players
+
+ (1)  GK  José Luis Chilavert                ##   40, Vélez Sársfield 
+(12)  GK  Danilo Aceval                      ##    3, Unión de Santa Fe 
+(22)  GK  Rubén Ruiz Díaz                    ##   12, Monterrey 
+
+ (2)  DF  Francisco Arce                     ##   28, Palmeiras 
+ (3)  DF  Catalino Rivarola                  ##   49, Grêmio 
+ (4)  DF  Carlos Gamarra                     ##   48, Corinthians 
+ (5)  DF  Celso Ayala                        ##   42, River Plate 
+ (6)  DF  Edgar Aguilera                     ##    1, Cerro Corá 
+(11)  DF  Pedro Sarabia                      ##   20, River Plate 
+(14)  DF  Ricardo Rojas                      ##    6, Estudiantes 
+(20)  DF  Denis Caniza                       ##    8, Olimpia 
+
+ (7)  MF  Julio César Yegros                 ##    6, Cruz Azul 
+(10)  MF  Roberto Acuña                      ##   40, Real Zaragoza 
+(13)  MF  Carlos Paredes                     ##    3, Olimpia 
+(16)  MF  Julio César Enciso                 ##    4, Internacional 
+(19)  MF  Carlos Morales                     ##    0, Gimnasia de Jujuy 
+(21)  MF  Jorge Luis Campos                  ##   10, Beijing Guo'an 
+
+ (8)  FW  Arístides Rojas                    ##    5, Unión de Santa Fe 
+ (9)  FW  José Cardozo                       ##   12, Toluca 
+(15)  FW  Miguel Ángel Benítez               ##   32, Espanyol 
+(17)  FW  Hugo Brizuela                      ##   11, Argentinos Juniors 
+(18)  FW  César Ramírez                      ##    3, Sporting CP 
+

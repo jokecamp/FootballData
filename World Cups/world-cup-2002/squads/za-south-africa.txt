@@ -1,0 +1,31 @@
+##############################
+# South Africa (RSA) 
+#   - 23 players
+
+ (1)  GK  Hans Vonk                          ##   29, Heerenveen 
+(16)  GK  André Arendse                      ##   49, Santos Cape Town 
+(20)  GK  Calvin Marlin                      ##    2, Ajax Cape Town 
+
+ (2)  DF  Cyril Nzama                        ##   19, Kaizer Chiefs 
+ (3)  DF  Bradley Carnell                    ##   21, VfB Stuttgart 
+ (4)  DF  Aaron Mokoena                      ##   22, Germinal Beerschot 
+ (5)  DF  Jacob Lekgetho                     ##   15, Lokomotiv Moscow 
+(13)  DF  Pierre Issa                        ##   41, Watford 
+(19)  DF  Lucas Radebe                       ##   65, Leeds United 
+(22)  DF  Thabang Molefe                     ##    5, Jomo Cosmos 
+
+ (6)  MF  MacBeth Sibaya                     ##    9, Jomo Cosmos 
+ (7)  MF  Quinton Fortune                    ##   39, Manchester United 
+ (8)  MF  Thabo Mngomeni                     ##   37, Orlando Pirates 
+ (9)  MF  MacDonald Mukansi                  ##    7, Lokomotiv Sofia 
+(10)  MF  Bennett Mnguni                     ##    9, Lokomotiv Moscow 
+(11)  MF  Jabu Pule                          ##    9, Kaizer Chiefs 
+(12)  MF  Teboho Mokoena                     ##   10, St. Gallen 
+(15)  MF  Sibusiso Zuma                      ##   22, Copenhagen 
+(18)  MF  Delron Buckley                     ##   32, VfL Bochum 
+(21)  MF  Steven Pienaar                     ##    0, Ajax 
+
+(14)  FW  Siyabonga Nomvethe                 ##   30, Udinese 
+(17)  FW  Benni McCarthy                     ##   43, Porto 
+(23)  FW  George Koumantarakis               ##    6, Basel 
+

@@ -1,0 +1,31 @@
+##############################
+# France (FRA) 
+#   - 23 players
+
+ (1)  GK  Mickaël Landreau                   ##    3, Nantes (FRA)
+(16)  GK  Fabien Barthez                     ##   80, Marseille (FRA)
+(23)  GK  Grégory Coupet                     ##   18, Lyon (FRA)
+
+ (2)  DF  Jean-Alain Boumsong                ##   19, Newcastle United (ENG)
+ (3)  DF  Éric Abidal                        ##    8, Lyon (FRA)
+ (5)  DF  William Gallas                     ##   40, Chelsea (ENG)
+(13)  DF  Mikaël Silvestre                   ##   39, Manchester United (ENG)
+(15)  DF  Lilian Thuram                      ##  114, Juventus (ITA)
+(17)  DF  Gaël Givet                         ##   11, AS Monaco (FRA)
+(19)  DF  Willy Sagnol                       ##   38, Bayern Munich (GER)
+(21)  DF  Pascal Chimbonda                   ##    1, Wigan Athletic (ENG)
+
+ (4)  MF  Patrick Vieira                     ##   87, Juventus (ITA)
+ (6)  MF  Claude Makélélé                    ##   43, Chelsea (ENG)
+ (7)  MF  Florent Malouda                    ##   13, Lyon (FRA)
+ (8)  MF  Vikash Dhorasoo                    ##   16, Paris Saint-Germain (FRA)
+(10)  MF  Zinedine Zidane                    ##  102, Real Madrid (ESP)
+(18)  MF  Alou Diarra                        ##    9, Lens (FRA)
+(22)  MF  Franck Ribéry                      ##    3, Marseille (FRA)
+
+ (9)  FW  Sidney Govou                       ##   19, Lyon (FRA)
+(11)  FW  Sylvain Wiltord                    ##   80, Lyon (FRA)
+(12)  FW  Thierry Henry                      ##   78, Arsenal (ENG)
+(14)  FW  Louis Saha                         ##    9, Manchester United (ENG)
+(20)  FW  David Trézéguet                    ##   63, Juventus (ITA)
+

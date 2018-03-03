@@ -1,0 +1,30 @@
+##############################
+# Colombia (COL) 
+#   - 22 players
+
+ (1)  GK  Óscar Córdoba                      ##    -, América de Cali 
+(12)  GK  Farid Mondragón                    ##    -, Argentinos Juniors 
+(22)  GK  José María Pazo                    ##    -, Atlético Junior 
+
+ (2)  DF  Andrés Escobar                     ##    -, Atlético Nacional 
+ (3)  DF  Alexis Mendoza                     ##    -, Atlético Junior 
+ (4)  DF  Luis Fernando Herrera              ##    -, Atlético Nacional 
+(13)  DF  Néstor Ortiz                       ##    -, Once Caldas 
+(15)  DF  Luis Carlos Perea                  ##    -, Atlético Junior 
+(18)  DF  Óscar Cortés                       ##    -, Millonarios 
+(20)  DF  Wilson Pérez                       ##    -, América de Cali 
+
+ (5)  MF  Hernán Gaviria                     ##    -, Atlético Nacional 
+ (6)  MF  Gabriel Gómez                      ##    -, Atlético Nacional 
+ (8)  MF  John Harold Lozano                 ##    -, América de Cali 
+(10)  MF  Carlos Valderrama                  ##    -, Atlético Junior 
+(14)  MF  Leonel Álvarez                     ##    -, América de Cali 
+(17)  MF  Mauricio Serna                     ##    -, Atlético Nacional 
+(19)  MF  Freddy Rincón                      ##    -, Palmeiras 
+
+ (7)  FW  Antony de Ávila                    ##    -, América de Cali 
+ (9)  FW  Iván Valenciano                    ##    -, Atlético Junior 
+(11)  FW  Adolfo Valencia                    ##    -, Bayern Munich 
+(16)  FW  Víctor Aristizábal                 ##    -, Atlético Nacional 
+(21)  FW  Faustino Asprilla                  ##    -, Parma 
+

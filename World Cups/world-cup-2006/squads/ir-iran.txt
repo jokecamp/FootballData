@@ -1,0 +1,31 @@
+##############################
+# Iran (IRN) 
+#   - 23 players
+
+ (1)  GK  Ebrahim Mirzapour                  ##   64, Foolad (IRN)
+(12)  GK  Hassan Roudbarian                  ##    3, Pas (IRN)
+(22)  GK  Vahid Talebloo                     ##    1, Esteghlal (IRN)
+
+ (3)  DF  Sohrab Bakhtiarizadeh              ##   31, Saba Battery (IRN)
+ (4)  DF  Yahya Golmohammadi                 ##   69, Saba Battery (IRN)
+ (5)  DF  Rahman Rezaei                      ##   43, Messina (ITA)
+(13)  DF  Hossein Kaebi                      ##   44, Foolad (IRN)
+(19)  DF  Amir Hossein Sadeghi               ##    1, Esteghlal (IRN)
+(20)  DF  Mohammad Nosrati                   ##   44, Pas (IRN)
+
+ (2)  MF  Mehdi Mahdavikia                   ##   89, Hamburg (GER)
+ (6)  MF  Javad Nekounam                     ##   71, Al-Sharjah (UAE)
+ (7)  MF  Ferydoon Zandi                     ##   10, Kaiserslautern (GER)
+ (8)  MF  Ali Karimi                         ##   90, Bayern Munich (GER)
+(14)  MF  Andranik Teymourian                ##    7, Abu Moslem (IRN)
+(18)  MF  Moharram Navidkia                  ##   24, Bochum (GER)
+(21)  MF  Mehrzad Madanchi                   ##    6, Persepolis (IRN)
+(23)  MF  Masoud Shojaei                     ##    3, Saipa (IRN)
+
+ (9)  FW  Vahid Hashemian                    ##   28, Hannover 96 (GER)
+(10)  FW  Ali Daei                           ##  147, Saba Battery (IRN)
+(11)  FW  Rasoul Khatibi                     ##   12, Sepahan (IRN)
+(15)  FW  Arash Borhani                      ##   20, Pas (IRN)
+(16)  FW  Reza Enayati                       ##   15, Esteghlal (IRN)
+(17)  FW  Javad Kazemian                     ##   25, Persepolis (IRN)
+

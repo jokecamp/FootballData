@@ -1,0 +1,31 @@
+##############################
+# Brazil (BRA) 
+#   - 23 players
+
+ (1)  GK  Marcos                             ##   15, Palmeiras 
+(12)  GK  Dida                               ##   49, Corinthians 
+(22)  GK  Rogério Ceni                       ##   12, São Paulo 
+
+ (2)  DF  Cafu                               ##  103, Roma 
+ (3)  DF  Lúcio                              ##   15, Bayer Leverkusen 
+ (4)  DF  Roque Júnior                       ##   17, Milan 
+ (5)  DF  Edmílson                           ##   12, Lyon 
+ (6)  DF  Roberto Carlos                     ##   84, Real Madrid 
+(13)  DF  Juliano Belletti                   ##   10, São Paulo 
+(14)  DF  Ânderson Polga                     ##    5, Grêmio 
+(16)  DF  Júnior                             ##   12, Parma 
+
+ (7)  MF  Ricardinho                         ##    3, Corinthians 
+ (8)  MF  Gilberto Silva                     ##    6, Atlético Mineiro 
+(10)  MF  Rivaldo                            ##   58, Barcelona 
+(11)  MF  Ronaldinho                         ##   24, Paris Saint-Germain 
+(15)  MF  Kléberson                          ##    5, Atlético Paranaense 
+(18)  MF  Vampeta                            ##   36, Corinthians 
+(19)  MF  Juninho                            ##   43, Middlesbrough 
+(23)  MF  Kaká                               ##    2, São Paulo 
+
+ (9)  FW  Ronaldo                            ##   56, Internazionale 
+(17)  FW  Denílson                           ##   53, Real Betis 
+(20)  FW  Edílson                            ##   17, Cruzeiro 
+(21)  FW  Luizão                             ##    8, Grêmio 
+

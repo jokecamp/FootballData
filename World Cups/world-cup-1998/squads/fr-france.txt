@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Bernard Lama                       ##   37, Paris Saint Germain 
+(16)  GK  Fabien Barthez                     ##   12, AS Monaco 
+(22)  GK  Lionel Charbonnier                 ##    1, Auxerre 
+
+ (2)  DF  Vincent Candela                    ##   10, Roma 
+ (3)  DF  Bixente Lizarazu                   ##   32, Bayern Munich 
+ (5)  DF  Laurent Blanc                      ##   68, Marseille 
+ (8)  DF  Marcel Desailly                    ##   41, Milan 
+(15)  DF  Lilian Thuram                      ##   32, Parma 
+(18)  DF  Frank Lebœuf                       ##   13, Chelsea 
+
+ (4)  MF  Patrick Vieira                     ##    7, Arsenal 
+ (7)  MF  Didier Deschamps                   ##   69, Juventus 
+(10)  MF  Zinedine Zidane                    ##   33, Juventus 
+(11)  MF  Robert Pirès                       ##   13, Metz 
+(13)  MF  Bernard Diomède                    ##    6, Auxerre 
+(14)  MF  Alain Boghossian                   ##    6, Sampdoria 
+(17)  MF  Emmanuel Petit                     ##   17, Arsenal 
+(19)  MF  Christian Karembeu                 ##   31, Real Madrid 
+
+ (6)  FW  Youri Djorkaeff                    ##   37, Internazionale 
+ (9)  FW  Stéphane Guivarc'h                 ##    6, Auxerre 
+(12)  FW  Thierry Henry                      ##    3, AS Monaco 
+(20)  FW  David Trezeguet                    ##    4, AS Monaco 
+(21)  FW  Christophe Dugarry                 ##   23, Marseille 
+

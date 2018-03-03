@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Pablo Larios                       ##    -, Cruz Azul 
+(12)  GK  Ignacio Rodríguez                  ##    -, Atlante 
+(20)  GK  Olaf Heredia                       ##    -, Tigres 
+
+ (2)  DF  Mario Trejo                        ##    -, Club América 
+ (3)  DF  Fernando Quirarte                  ##    -, Guadalajara 
+ (4)  DF  Armando Manzo                      ##    -, Club América 
+(14)  DF  Felix Cruz                         ##    -, UNAM Pumas 
+(17)  DF  Raúl Servín                        ##    -, UNAM Pumas 
+(18)  DF  Rafael Amador                      ##    -, UNAM Pumas 
+
+ (6)  MF  Carlos de los Cobos                ##    -, Club América 
+ (7)  MF  Miguel España                      ##    -, UNAM Pumas 
+ (8)  MF  Alejandro Domínguez                ##    -, Club América 
+(10)  MF  Tomás Boy                          ##    -, Tigres 
+(13)  MF  Javier Aguirre                     ##    -, Club América 
+(16)  MF  Carlos Muñoz                       ##    -, Tigres 
+
+ (5)  FW  Francisco Javier Cruz              ##    -, Monterrey 
+ (9)  FW  Hugo Sánchez                       ##    -, Real Madrid 
+(11)  FW  Carlos Hermosillo                  ##    -, Club América 
+(15)  FW  Luis Flores                        ##    -, UNAM Pumas 
+(19)  FW  Javier Hernández                   ##    -, Tecos 
+(21)  FW  Cristóbal Ortega                   ##    -, Club América 
+(22)  FW  Manuel Negrete                     ##    -, UNAM Pumas 
+

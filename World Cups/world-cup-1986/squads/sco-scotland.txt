@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Jim Leighton                       ##   26, Aberdeen 
+(12)  GK  Andy Goram                         ##    3, Oldham Athletic 
+(22)  GK  Alan Rough                         ##   53, Hibernian 
+
+ (2)  DF  Richard Gough                      ##   23, Dundee United 
+ (3)  DF  Maurice Malpas                     ##   10, Dundee United 
+ (5)  DF  Alex McLeish                       ##   43, Aberdeen 
+ (6)  DF  Willie Miller                      ##   48, Aberdeen 
+(13)  DF  Steve Nicol                        ##    8, Liverpool 
+(14)  DF  David Narey                        ##   28, Dundee United 
+(15)  DF  Arthur Albiston                    ##   13, Manchester United 
+
+ (4)  MF  Graeme Souness                     ##   52, Sampdoria 
+ (7)  MF  Gordon Strachan                    ##   34, Manchester United 
+ (8)  MF  Roy Aitken                         ##   20, Celtic 
+(10)  MF  Jim Bett                           ##   17, Aberdeen 
+(11)  MF  Paul McStay                        ##   14, Celtic 
+(16)  MF  Frank McAvennie                    ##    2, West Ham United 
+(21)  MF  Davie Cooper                       ##   14, Rangers 
+
+ (9)  FW  Eamonn Bannon                      ##    9, Dundee United 
+(17)  FW  Steve Archibald                    ##   26, Barcelona 
+(18)  FW  Graeme Sharp                       ##    6, Everton 
+(19)  FW  Charlie Nicholas                   ##   15, Arsenal 
+(20)  FW  Paul Sturrock                      ##   17, Dundee United 
+

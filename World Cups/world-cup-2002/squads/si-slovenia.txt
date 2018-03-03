@@ -1,0 +1,31 @@
+##############################
+# Slovenia (SVN) 
+#   - 23 players
+
+ (1)  GK  Marko Simeunovič                   ##   43, Maribor 
+(12)  GK  Mladen Dabanovič                   ##   20, Lokeren Oost-Vlaanderen 
+(23)  GK  Dejan Nemec                        ##    1, Club Brugge 
+
+ (2)  DF  Goran Sankovič                     ##    5, Slavia Prague 
+ (3)  DF  Željko Milinovič                   ##   35, JEF United Ichihara 
+ (4)  DF  Muamer Vugdalič                    ##   13, Maribor 
+ (5)  DF  Marinko Galič                      ##   65, Koper 
+ (6)  DF  Aleksander Knavs                   ##   38, 1. FC Kaiserslautern 
+(14)  DF  Saša Gajser                        ##   20, Gent 
+(19)  DF  Amir Karić                         ##   43, Maribor 
+(22)  DF  Spasoje Bulajič                    ##   15, 1. FC Köln 
+
+ (7)  MF  Džoni Novak                        ##   68, SpVgg Unterhaching 
+ (8)  MF  Aleš Čeh                           ##   71, Grazer 
+(10)  MF  Zlatko Zahovič                     ##   64, Benfica 
+(11)  MF  Miran Pavlin                       ##   45, Porto 
+(15)  MF  Rajko Tavčar                       ##    6, 1. FC Nürnberg 
+(17)  MF  Zoran Pavlović                     ##   21, Austria Wien 
+(20)  MF  Nastja Čeh                         ##    6, Club Brugge 
+
+ (9)  FW  Milan Osterc                       ##   41, Hapoel Tel Aviv 
+(13)  FW  Mladen Rudonja                     ##   58, Portsmouth 
+(16)  FW  Senad Tiganj                       ##    3, Olimpija Ljubljana 
+(18)  FW  Milenko Ačimovič                   ##   39, Tottenham Hotspur 
+(21)  FW  Sebastjan Cimirotič                ##   12, Lecce 
+

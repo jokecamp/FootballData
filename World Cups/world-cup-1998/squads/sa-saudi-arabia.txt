@@ -1,0 +1,30 @@
+##############################
+# Saudi Arabia (KSA) 
+#   - 22 players
+
+ (1)  GK  Mohamed Al-Deayea                  ##   94, Al-Ta'ee 
+(21)  GK  Hussein Al-Sadiq                   ##   64, Al-Qadisiya 
+(22)  GK  Tisir Al-Antaif                    ##    0, Al-Ittifaq 
+
+ (2)  DF  Mohammed Al-Jahani                 ##   64, Al-Ahli 
+ (3)  DF  Mohammed Al-Khilaiwi               ##   86, Al-Ittihad 
+ (5)  DF  Ahmad Jamil Madani                 ##   94, Al-Ittihad 
+(13)  DF  Hussein Sulaimani                  ##   40, Al-Ahli 
+(17)  DF  Ahmed Dokhi                        ##   12, Al-Hilal 
+(19)  DF  Abdulaziz Al-Janoubi               ##    3, Al-Nasr 
+
+ (4)  MF  Abdullah Zubromawi                 ##   83, Al-Ahli 
+ (6)  MF  Fuad Amin                          ##   95, Al-Shabab 
+(12)  MF  Ibrahim Al-Harbi                   ##   47, Al-Nasr 
+(14)  MF  Khalid Al-Muwallid                 ##   91, Al-Ahli 
+(15)  MF  Yousuf Al-Thunayan                 ##   86, Al-Hilal 
+(16)  MF  Khamis Al-Owairan                  ##   48, Al-Hilal 
+(18)  MF  Nawaf Al-Temyat                    ##    0, Al-Hilal 
+(20)  MF  Hamzah Saleh                       ##   38, Al-Ahli 
+
+ (7)  FW  Ibrahim Al-Shahrani                ##   19, Al-Ahli 
+ (8)  FW  Obeid Al-Dosari                    ##   61, Al-Wehda 
+ (9)  FW  Sami Al-Jaber                      ##   85, Al-Hilal 
+(10)  FW  Saeed Al-Owairan                   ##   55, Al-Shabab 
+(11)  FW  Fahad Al-Mehallel                  ##   85, Al-Shabab 
+

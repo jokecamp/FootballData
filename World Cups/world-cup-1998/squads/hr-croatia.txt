@@ -1,0 +1,30 @@
+##############################
+# Croatia (CRO) 
+#   - 22 players
+
+ (1)  GK  Dražen Ladić                       ##   41, Croatia Zagreb 
+(12)  GK  Marijan Mrmić                      ##   12, Beşiktaş 
+(22)  GK  Vladimir Vasilj                    ##    1, Hrvatski Dragovoljac 
+
+ (3)  DF  Anthony Šerić                      ##    3, Hajduk Split 
+ (4)  DF  Igor Štimac                        ##   29, Derby County 
+ (5)  DF  Goran Jurić                        ##   11, Croatia Zagreb 
+ (6)  DF  Slaven Bilić                       ##   36, Everton 
+(15)  DF  Igor Tudor                         ##    5, Hajduk Split 
+(17)  DF  Robert Jarni                       ##   38, Real Betis 
+(20)  DF  Dario Šimić                        ##   17, Croatia Zagreb 
+
+ (7)  MF  Aljoša Asanović                    ##   39, Napoli 
+ (8)  MF  Robert Prosinečki                  ##   29, Croatia Zagreb 
+(10)  MF  Zvonimir Boban                     ##   35, Milan 
+(11)  MF  Silvio Marić                       ##    7, Croatia Zagreb 
+(13)  MF  Mario Stanić                       ##   16, Parma 
+(14)  MF  Zvonimir Soldo                     ##   26, VfB Stuttgart 
+(18)  MF  Zoran Mamić                        ##    6, VfL Bochum 
+(21)  MF  Krunoslav Jurčić                   ##    9, Croatia Zagreb 
+
+ (2)  FW  Petar Krpan                        ##    1, Osijek 
+ (9)  FW  Davor Šuker                        ##   36, Real Madrid 
+(16)  FW  Ardian Kozniku                     ##    7, Bastia 
+(19)  FW  Goran Vlaović                      ##   28, Valencia 
+

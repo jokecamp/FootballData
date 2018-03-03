@@ -1,0 +1,31 @@
+##############################
+# Sweden (SWE) 
+#   - 23 players
+
+ (1)  GK  Magnus Hedman                      ##   44, Coventry City 
+(12)  GK  Magnus Kihlstedt                   ##   12, Copenhagen 
+(23)  GK  Andreas Isaksson                   ##    1, Djurgården 
+
+ (2)  DF  Olof Mellberg                      ##   21, Aston Villa 
+ (3)  DF  Patrik Andersson                   ##   95, Barcelona 
+ (4)  DF  Johan Mjällby                      ##   35, Celtic 
+ (5)  DF  Michael Svensson                   ##   11, Troyes 
+(13)  DF  Tomas Antonelius                   ##    6, Copenhagen 
+(14)  DF  Erik Edman                         ##    5, Heerenveen 
+(15)  DF  Andreas Jakobsson                  ##   12, Hansa Rostock 
+(16)  DF  Teddy Lucic                        ##   41, AIK 
+
+ (6)  MF  Tobias Linderoth                   ##   19, Everton 
+ (7)  MF  Niclas Alexandersson               ##   58, Everton 
+ (8)  MF  Anders Svensson                    ##   24, Southampton 
+ (9)  MF  Fredrik Ljungberg                  ##   31, Arsenal 
+(17)  MF  Magnus Svensson                    ##   24, Brøndby 
+(18)  MF  Mattias Jonson                     ##   23, Brøndby 
+(19)  MF  Pontus Farnerud                    ##    2, AS Monaco 
+(20)  MF  Daniel Andersson                   ##   38, Venezia 
+
+(10)  FW  Marcus Allbäck                     ##   18, Heerenveen 
+(11)  FW  Henrik Larsson                     ##   67, Celtic 
+(21)  FW  Zlatan Ibrahimović                 ##    9, Ajax 
+(22)  FW  Andreas Andersson                  ##   32, AIK 
+

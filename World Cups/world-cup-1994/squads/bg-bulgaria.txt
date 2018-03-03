@@ -1,0 +1,30 @@
+##############################
+# Bulgaria (BUL) 
+#   - 22 players
+
+ (1)  GK  Borislav Mikhailov                 ##   66, Mulhouse 
+(12)  GK  Plamen Nikolov                     ##    5, Levski Sofia 
+
+ (2)  DF  Emil Kremenliev                    ##    7, Olympiacos 
+ (3)  DF  Trifon Ivanov                      ##   39, Neuchâtel 
+ (4)  DF  Tsanko Tsvetanov                   ##   16, Waldhof Mannheim 
+ (5)  DF  Petar Houbchev                     ##   15, Hamburger SV 
+(15)  DF  Nikolay Iliev                      ##   48, Rennes 
+(16)  DF  Ilian Kiriakov                     ##   35, Merida 
+
+ (6)  MF  Zlatko Yankov                      ##   31, Beşiktaş 
+ (9)  MF  Yordan Letchkov                    ##   14, Hamburger SV 
+(11)  MF  Daniel Borimirov                   ##    9, Munchen 1860 
+(14)  MF  Boncho Genchev                     ##    4, Ipswich Town 
+(19)  MF  Georgi Georgiev                    ##   10, Mulhouse 
+(20)  MF  Krassimir Balakov                  ##   33, Sporting CP 
+
+ (7)  FW  Emil Kostadinov                    ##   32, Porto 
+ (8)  FW  Hristo Stoichkov                   ##   41, Barcelona 
+(10)  FW  Nasko Sirakov                      ##   55, Zaragoza 
+(13)  FW  Ivaylo Yordanov                    ##   10, Sporting CP 
+(17)  FW  Petar Mihtarski                    ##    5, Pirin Blagoevgrad 
+(18)  FW  Petar Aleksandrov                  ##   26, Aarau 
+(21)  FW  Velko Yotov                        ##    6, Espanyol 
+(22)  FW  Ivaylo Andonov                     ##    5, CSKA Sofia 
+

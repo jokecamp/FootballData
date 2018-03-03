@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Walter Zenga                       ##   35, Internazionale 
+(12)  GK  Stefano Tacconi                    ##    5, Juventus 
+(22)  GK  Gianluca Pagliuca                  ##    0, Sampdoria 
+
+ (2)  DF  Franco Baresi                      ##   39, Milan 
+ (3)  DF  Giuseppe Bergomi                   ##   65, Internazionale 
+ (4)  DF  Luigi De Agostini                  ##   24, Juventus 
+ (5)  DF  Ciro Ferrara                       ##   16, Napoli 
+ (6)  DF  Riccardo Ferri                     ##   29, Internazionale 
+ (7)  DF  Paolo Maldini                      ##   19, Milan 
+ (8)  DF  Pietro Vierchowod                  ##   29, Sampdoria 
+
+ (9)  MF  Carlo Ancelotti                    ##   22, Milan 
+(10)  MF  Nicola Berti                       ##   11, Internazionale 
+(11)  MF  Fernando De Napoli                 ##   38, Napoli 
+(13)  MF  Giuseppe Giannini                  ##   34, Roma 
+(14)  MF  Giancarlo Marocchi                 ##    7, Juventus 
+(17)  MF  Roberto Donadoni                   ##   29, Milan 
+
+(15)  FW  Roberto Baggio                     ##    8, Fiorentina 
+(16)  FW  Andrea Carnevale                   ##    8, Napoli 
+(18)  FW  Roberto Mancini                    ##   20, Sampdoria 
+(19)  FW  Salvatore Schillaci                ##    1, Juventus 
+(20)  FW  Aldo Serena                        ##   18, Internazionale 
+(21)  FW  Gianluca Vialli                    ##   42, Sampdoria 
+

@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  Andoni Zubizarreta                 ##   49, Barcelona 
+(13)  GK  Juan Carlos Ablanedo               ##    2, Sporting Gijón 
+(22)  GK  José Manuel Ochotorena             ##    1, Valencia 
+
+ (2)  DF  Chendo                             ##   17, Real Madrid 
+ (3)  DF  Manuel Jiménez                     ##   13, Sevilla 
+ (4)  DF  Genar Andrinúa                     ##   24, Athletic Club 
+ (5)  DF  Manuel Sanchís                     ##   30, Real Madrid 
+ (8)  DF  Quique                             ##   11, Valencia 
+(12)  DF  Rafael Alkorta                     ##    1, Athletic Club 
+(14)  DF  Alberto Górriz                     ##    8, Real Sociedad 
+(17)  DF  Fernando Hierro                    ##    2, Real Madrid 
+
+ (6)  MF  Rafael Martín Vázquez              ##   22, Real Madrid 
+(10)  MF  Fernando                           ##    2, Valencia 
+(11)  MF  Francisco Villarroya               ##    7, Real Zaragoza 
+(15)  MF  Roberto                            ##   22, Barcelona 
+(16)  MF  José Mari Bakero                   ##   11, Barcelona 
+(18)  MF  Rafael Paz                         ##    3, Sevilla 
+(21)  MF  Míchel                             ##   44, Real Madrid 
+
+ (7)  FW  Miguel Pardeza                     ##    4, Real Zaragoza 
+ (9)  FW  Emilio Butragueño                  ##   49, Real Madrid 
+(19)  FW  Julio Salinas                      ##   26, Barcelona 
+(20)  FW  Manolo                             ##   13, Atlético Madrid 
+

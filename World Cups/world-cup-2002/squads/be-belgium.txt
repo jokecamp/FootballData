@@ -1,0 +1,31 @@
+##############################
+# Belgium (BEL) 
+#   - 23 players
+
+ (1)  GK  Geert De Vlieger                   ##   25, Willem II 
+(13)  GK  Franky Vandendriessche             ##    0, Mouscron 
+(23)  GK  Frédéric Herpoel                   ##    7, Gent 
+
+ (2)  DF  Eric Deflandre                     ##   41, Lyon 
+ (3)  DF  Glen De Boeck                      ##   33, Anderlecht 
+ (4)  DF  Eric Van Meir                      ##   32, Standard Liège 
+ (5)  DF  Nico Van Kerckhoven                ##   40, Schalke 04 
+(12)  DF  Peter Van Der Heyden               ##    4, Club Brugge 
+(15)  DF  Jacky Peeters                      ##   13, Gent 
+(16)  DF  Daniel Van Buyten                  ##    7, Marseille 
+
+ (6)  MF  Timmy Simons                       ##   12, Club Brugge 
+ (8)  MF  Bart Goor                          ##   38, Hertha BSC 
+(10)  MF  Johan Walem                        ##   33, Standard Liège 
+(11)  MF  Gert Verheyen                      ##   46, Club Brugge 
+(14)  MF  Sven Vermant                       ##   12, Schalke 04 
+(17)  MF  Gaëtan Englebert                   ##    4, Club Brugge 
+(18)  MF  Yves Vanderhaeghe                  ##   30, Anderlecht 
+(19)  MF  Bernd Thijs                        ##    2, Racing Genk 
+(21)  MF  Danny Boffin                       ##   52, St. Truiden 
+
+ (7)  FW  Marc Wilmots                       ##   66, Schalke 04 
+ (9)  FW  Wesley Sonck                       ##   12, Racing Genk 
+(20)  FW  Branko Strupar                     ##   14, Derby County 
+(22)  FW  Mbo Mpenza                         ##   26, Mouscron 
+

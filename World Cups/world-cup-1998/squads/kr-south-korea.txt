@@ -1,0 +1,30 @@
+##############################
+# South Korea (KOR) 
+#   - 22 players
+
+ (1)  GK  Kim Byung-Ji                       ##   34, Ulsan Hyundai Horangi 
+(22)  GK  Seo Dong-Myung                     ##   21, Sangmu 
+
+ (3)  DF  Lee Lim-Saeng                      ##   17, Bucheon SK 
+ (4)  DF  Choi Young-Il                      ##   54, Busan Daewoo Royals 
+ (5)  DF  Lee Min-Sung                       ##   29, Busan Daewoo Royals 
+ (6)  DF  Yoo Sang-Chul                      ##   57, Ulsan Hyundai Horangi 
+(12)  DF  Lee Sang-Hun                       ##   13, Anyang LG Cheetahs 
+(13)  DF  Kim Tae-Young                      ##   35, Jeonnam Dragons 
+(16)  DF  Jang Hyung-Seok                    ##    7, Ulsan Hyundai Horangi 
+(19)  DF  Jang Dae-Il                        ##   14, Cheonan Ilhwa Chunma 
+(20)  DF  Hong Myung-Bo                      ##   94, Bellmare Hiratsuka 
+
+ (2)  MF  Choi Sung-Yong                     ##   27, Sangmu 
+ (7)  MF  Kim Do-Keun                        ##   13, Jeonnam Dragons 
+ (8)  MF  Noh Jung-Yoon                      ##   36, NAC Breda 
+(14)  MF  Ko Jong-Soo                        ##   22, Suwon Samsung Bluewings 
+(15)  MF  Lee Sang-Yoon                      ##   28, Cheonan Ilhwa Chunma 
+(17)  MF  Ha Seok-Ju                         ##   80, Cerezo Osaka 
+
+ (9)  FW  Kim Do-Hoon                        ##   37, Vissel Kobe 
+(10)  FW  Choi Yong-Soo                      ##   33, Sangmu 
+(11)  FW  Seo Jung-Won                       ##   73, Strasbourg 
+(18)  FW  Hwang Sun-Hong                     ##   80, Pohang Steelers 
+(21)  FW  Lee Dong-Gook                      ##    0, Pohang Steelers 
+

@@ -1,0 +1,37 @@
+##############################
+# Ukraine (UKR) 
+#   - 23 players
+
+ (1)  GK  Oleksandr Shovkovskyi              ##   68, Dynamo Kyiv (UKR)
+(12)  GK  Andriy Pyatov                      ##    1, Vorskla Poltava (UKR)
+(23)  GK  Bohdan Shust                       ##    2, Shakhtar Donetsk (UKR)
+
+ (2)  DF  Andriy Nesmachnyi                  ##   49, Dynamo Kyiv (UKR)
+ (3)  DF  Oleksandr Yatsenko                 ##    1, Kharkiv (UKR)
+ (5)  DF  Volodymyr Yezerskyi                ##   24, Dnipro Dnipropetrovsk (UKR)
+ (6)  DF  Andriy Rusol                       ##   23, Dnipro Dnipropetrovsk (UKR)
+(13)  DF  Dmytro Chyhrynskyi                 ##    0, Shakhtar Donetsk (UKR)
+(17)  DF  Vladyslav Vashchuk                 ##   58, Dynamo Kyiv (UKR)
+(22)  DF  Vyacheslav Sviderskyi              ##    6, Shakhtar Donetsk (UKR)
+
+ (4)  MF  Anatoliy Tymoshchuk                ##   55, Shakhtar Donetsk (UKR)
+ (8)  MF  Oleh Shelayev                      ##   19, Dnipro Dnipropetrovsk (UKR)
+ (9)  MF  Oleh Husyev                        ##   25, Dynamo Kyiv (UKR)
+(14)  MF  Andriy Husin                       ##   64, Krylya Sovetov Samara (RUS)
+(18)  MF  Serhiy Nazarenko                   ##   15, Dnipro Dnipropetrovsk (UKR)
+(19)  MF  Maksym Kalynychenko                ##   21, Spartak Moscow (RUS)
+(21)  MF  Ruslan Rotan                       ##   19, Dynamo Kyiv (UKR)
+
+ (7)  FW  Andriy Shevchenko                  ##   64, Milan (ITA)
+(10)  FW  Andriy Voronin                     ##   32, Bayer Leverkusen (GER)
+(11)  FW  Serhiy Rebrov                      ##   70, Dynamo Kyiv (UKR)
+(15)  FW  Artem Milevskyi                    ##    0, Dynamo Kyiv (UKR)
+(16)  FW  Andriy Vorobey                     ##   53, Shakhtar Donetsk (UKR)
+(20)  FW  Oleksiy Byelik                     ##   15, Shakhtar Donetsk (UKR)
+
+##############################
+# Ukraine (UKR) Replacements 
+#   - 1 players
+
+ (3)  DF  Vyacheslav Shevchuk                ##   16, Shakhtar Donetsk (UKR)
+

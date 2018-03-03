@@ -1,0 +1,31 @@
+##############################
+# Angola (ANG) 
+#   - 23 players
+
+ (1)  GK  João Ricardo                       ##   26, Moreirense 
+(12)  GK  Lamá                               ##    9, Petro Atletico (ANG)
+(22)  GK  Mário                              ##    1, InterClube (ANG)
+
+ (2)  DF  Marco Airosa                       ##    2, Barreirense (POR)
+ (3)  DF  Jamba                              ##   35, Aviação (ANG)
+ (4)  DF  Lebo Lebo                          ##   15, Petro Atletico (ANG)
+ (5)  DF  Kali                               ##   21, Barreirense (POR)
+(15)  DF  Rui Marques                        ##    1, Leeds United (ENG)
+(20)  DF  Locó                               ##   11, Primeiro Agosto (ANG)
+(21)  DF  Delgado                            ##   17, Petro Atletico (ANG)
+(23)  DF  Marco Abreu                        ##    3, Portimonense (POR)
+
+ (6)  MF  Miloy                              ##   11, InterClube (ANG)
+ (7)  MF  Figueiredo                         ##   22, Varzim (POR)
+ (8)  MF  André                              ##   33, Al-Salmiya (KUW)
+(13)  MF  Édson                              ##    7, Paços de Ferreira (POR)
+(14)  MF  Mendonça                           ##   34, Varzim (POR)
+(17)  MF  Zé Kalanga                         ##   23, Petro Atletico (ANG)
+
+ (9)  FW  Mantorras                          ##   11, Benfica (POR)
+(10)  FW  Akwá                               ##   77, Al-Wakra (QAT)
+(11)  FW  Mateus                             ##    4, Gil Vicente (POR)
+(16)  FW  Flávio                             ##   46, Al-Ahly (EGY)
+(18)  FW  Love                               ##   35, Aviação (ANG)
+(19)  FW  Titi Buengo                        ##    2, Clermont Foot (FRA)
+

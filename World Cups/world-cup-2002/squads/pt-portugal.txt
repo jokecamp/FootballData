@@ -1,0 +1,31 @@
+##############################
+# Portugal (POR) 
+#   - 23 players
+
+ (1)  GK  Vítor Baía                         ##   75, Porto 
+(15)  GK  Nélson                             ##    1, Sporting CP 
+(16)  GK  Ricardo                            ##   10, Boavista 
+
+ (2)  DF  Jorge Costa                        ##   46, Porto 
+ (3)  DF  Abel Xavier                        ##   18, Liverpool 
+ (4)  DF  Marco Caneira                      ##    1, Benfica 
+ (5)  DF  Fernando Couto                     ##   82, Lazio 
+(13)  DF  Jorge Andrade                      ##    5, Porto 
+(18)  DF  Nuno Frechaut                      ##    9, Boavista 
+(22)  DF  Beto                               ##   16, Sporting CP 
+(23)  DF  Rui Jorge                          ##   20, Sporting CP 
+
+ (6)  MF  Paulo Sousa                        ##   50, Espanyol 
+ (7)  MF  Luís Figo                          ##   81, Real Madrid 
+(10)  MF  Rui Costa                          ##   67, Milan 
+(11)  MF  Sérgio Conceição                   ##   41, Internazionale 
+(12)  MF  Hugo Viana                         ##    4, Sporting CP 
+(14)  MF  Pedro Barbosa                      ##   21, Sporting CP 
+(17)  MF  Paulo Bento                        ##   31, Sporting CP 
+(19)  MF  Capucho                            ##   29, Porto 
+(20)  MF  Petit                              ##    9, Boavista 
+
+ (8)  FW  João Pinto                         ##   77, Sporting CP 
+ (9)  FW  Pauleta                            ##   33, Bordeaux 
+(21)  FW  Nuno Gomes                         ##   28, Fiorentina 
+

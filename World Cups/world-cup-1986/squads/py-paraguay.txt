@@ -1,0 +1,30 @@
+##############################
+# Paraguay (PAR) 
+#   - 22 players
+
+ (1)  GK  Roberto Fernández                  ##    -, Deportivo Cali 
+(12)  GK  Jorge Battaglia                    ##    -, Sol de America 
+(22)  GK  Julián Coronel                     ##    -, Guaraní 
+
+ (2)  DF  Juan Torales                       ##    -, Libertad 
+ (3)  DF  César Zabala                       ##    -, Cerro Porteño 
+ (4)  DF  Vladimiro Schettina                ##    -, Guaraní 
+ (5)  DF  Rogelio Delgado                    ##    -, Olimpia 
+(13)  DF  Virginio Cáceres                   ##    -, Guaraní 
+(14)  DF  Luis Caballero                     ##    -, Guaraní 
+
+ (6)  MF  Jorge Amado Nunes                  ##    -, Deportivo Cali 
+ (8)  MF  Julio César Romero                 ##    -, Fluminense 
+(10)  MF  Adolfino Cañete                    ##    -, Cruz Azul 
+(15)  MF  Eufemio Cabral                     ##    -, Guaraní 
+(16)  MF  Jorge Guasch                       ##    -, Olimpia 
+(19)  MF  Rolando Chilavert                  ##    -, Guaraní 
+
+ (7)  FW  Buenaventura Ferreira              ##    -, Deportivo Cali 
+ (9)  FW  Roberto Cabañas                    ##    -, América de Cali 
+(11)  FW  Alfredo Mendoza                    ##    -, Independiente Medellín 
+(17)  FW  Francisco Alcaraz                  ##    -, Nacional 
+(18)  FW  Evaristo Isasi                     ##    -, Olimpia 
+(20)  FW  Ramón Hicks                        ##    -, Libertad 
+(21)  FW  Faustino Alonso                    ##    -, Sol de America 
+

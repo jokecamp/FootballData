@@ -1,0 +1,30 @@
+##############################
+# United States (USA) 
+#   - 22 players
+
+ (1)  GK  Brad Friedel                       ##   56, Liverpool 
+(16)  GK  Juergen Sommer                     ##    8, Columbus Crew (USA)
+(18)  GK  Kasey Keller                       ##   33, Leicester City 
+
+ (2)  DF  Frankie Hejduk                     ##   11, Tampa Bay Mutiny (USA)
+ (3)  DF  Eddie Pope                         ##   23, D.C. United (USA)
+ (4)  DF  Mike Burns                         ##   73, New England Revolution (USA)
+ (5)  DF  Thomas Dooley                      ##   77, Columbus Crew (USA)
+ (6)  DF  David Regis                        ##    2, Karlsruher SC 
+(12)  DF  Jeff Agoos                         ##   87, D.C. United (USA)
+(17)  DF  Marcelo Balboa                     ##  126, Colorado Rapids (USA)
+(22)  DF  Alexi Lalas                        ##   98, MetroStars (USA)
+
+ (8)  MF  Earnie Stewart                     ##   47, NAC Breda 
+(10)  MF  Tab Ramos                          ##   80, MetroStars (USA)
+(13)  MF  Cobi Jones                         ##  107, Los Angeles Galaxy (USA)
+(14)  MF  Predrag Radosavljević              ##   24, Kansas City Wizards (USA)
+(15)  MF  Chad Deering                       ##   10, VfL Wolfsburg 
+(19)  MF  Brian Maisonneuve                  ##    7, Columbus Crew (USA)
+(21)  MF  Claudio Reyna                      ##   59, VfL Wolfsburg 
+
+ (7)  FW  Roy Wegerle                        ##   39, Tampa Bay Mutiny (USA)
+ (9)  FW  Joe-Max Moore                      ##   68, New England Revolution (USA)
+(11)  FW  Eric Wynalda                       ##  100, San Jose Clash (USA)
+(20)  FW  Brian McBride                      ##   21, Columbus Crew (USA)
+

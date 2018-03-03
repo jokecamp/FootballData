@@ -1,0 +1,30 @@
+##############################
+# Morocco (MAR) 
+#   - 22 players
+
+ (1)  GK  Abelkader El Brazi                 ##   37, FAR Rabat 
+(12)  GK  Driss Benzekri                     ##    6, RS Settat 
+(22)  GK  Mustapha Chadili                   ##    0, Raja Casablanca 
+
+ (2)  DF  Abdelilah Saber                    ##   25, Sporting CP 
+ (3)  DF  Abdelkrim El Hadrioui              ##   59, Benfica 
+ (4)  DF  Youssef Rossi                      ##   20, Rennes 
+ (5)  DF  Smahi Triki                        ##   16, Lausanne 
+ (6)  DF  Noureddine Naybet                  ##   91, Deportivo La Coruña 
+(13)  DF  Rachid Neqrouz                     ##   13, Bari 
+(15)  DF  Lahcen Abrami                      ##   41, Wydad Casablanca 
+(19)  DF  Jamal Sellami                      ##    0, Raja Casablanca 
+(20)  DF  Tahar El Khalej                    ##   54, Benfica 
+
+ (7)  MF  Mustapha Hadji                     ##   42, Deportivo La Coruña 
+ (8)  MF  Saïd Chiba                         ##   23, Compostela 
+(11)  MF  Ali El Khattabi                    ##    6, Heerenveen 
+(16)  MF  Rachid Azzouzi                     ##   35, Greuther Fürth 
+(17)  MF  Gharib Amzine                      ##    2, Mulhouse 
+(18)  MF  Youssef Chippo                     ##   20, Porto 
+
+ (9)  FW  Abdeljalil Hadda                   ##   11, Club Africain 
+(10)  FW  Abderrahim Ouakili                 ##    8, 1860 Munich 
+(14)  FW  Salaheddine Bassir                 ##   26, Deportivo La Coruña 
+(21)  FW  Rachid Rokki                       ##    2, SCCM Mohammédia 
+

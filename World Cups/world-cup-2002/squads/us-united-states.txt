@@ -1,0 +1,31 @@
+##############################
+# United States (USA) 
+#   - 23 players
+
+ (1)  GK  Brad Friedel                       ##   74, Blackburn Rovers 
+(18)  GK  Kasey Keller                       ##   58, Tottenham Hotspur 
+(19)  GK  Tony Meola                         ##   98, Kansas City Wizards (USA)
+
+ (3)  DF  Gregg Berhalter                    ##   25, Crystal Palace 
+ (4)  DF  Pablo Mastroeni                    ##    8, Miami Fusion (USA)
+ (6)  DF  David Regis                        ##   28, Metz 
+(12)  DF  Jeff Agoos                         ##  127, San Jose Earthquakes (USA)
+(14)  DF  Steve Cherundolo                   ##   10, Hannover 96 
+(16)  DF  Carlos Llamosa                     ##   26, New England Revolution (USA)
+(22)  DF  Tony Sanneh                        ##   29, 1. FC Nürnberg 
+(23)  DF  Eddie Pope                         ##   48, D.C. United (USA)
+
+ (2)  MF  Frankie Hejduk                     ##   38, Bayer Leverkusen 
+ (5)  MF  John O'Brien                       ##   13, Ajax 
+ (7)  MF  Eddie Lewis                        ##   38, Fulham 
+ (8)  MF  Earnie Stewart                     ##   77, NAC Breda 
+(10)  MF  Claudio Reyna                      ##   86, Sunderland 
+(13)  MF  Cobi Jones                         ##  153, LA Galaxy (USA)
+(17)  MF  DaMarcus Beasley                   ##    9, Chicago Fire (USA)
+
+ (9)  FW  Joe-Max Moore                      ##   95, Everton 
+(11)  FW  Clint Mathis                       ##   19, MetroStars (USA)
+(15)  FW  Josh Wolff                         ##   16, Chicago Fire (USA)
+(20)  FW  Brian McBride                      ##   58, Columbus Crew (USA)
+(21)  FW  Landon Donovan                     ##   20, San Jose Earthquakes (USA)
+

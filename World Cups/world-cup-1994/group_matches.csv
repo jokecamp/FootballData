@@ -1,0 +1,37 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,away
+3,Group A,18 June,Pontiac Silverdome,Pontiac,United States,1,1,Switzerland
+5,Group A,18 June,Rose Bowl,Pasadena,Colombia,1,3,Romania
+14,Group A,22 June,Pontiac Silverdome,Pontiac,Romania,1,4,Switzerland
+15,Group A,22 June,Rose Bowl,Pasadena,United States,2,1,Colombia
+25,Group A,26 June,Rose Bowl,Pasadena,United States,0,1,Romania
+26,Group A,26 June,Stanford Stadium,Stanford,Switzerland,0,2,Colombia
+8,Group B,19 June,Rose Bowl,Pasadena,Cameroon,2,2,Sweden
+9,Group B,20 June,Stanford Stadium,Stanford,Brazil,2,0,Russia
+19,Group B,24 June,Stanford Stadium,Stanford,Brazil,3,0,Cameroon
+20,Group B,24 June,Pontiac Silverdome,Pontiac,Sweden,3,1,Russia
+31,Group B,28 June,Stanford Stadium,Stanford,Russia,6,1,Cameroon
+32,Group B,28 June,Pontiac Silverdome,Pontiac,Brazil,1,1,Sweden
+1,Group C,17 June,Soldier Field,Chicago,Germany,1,0,Bolivia
+2,Group C,17 June,Cotton Bowl,Dallas,Spain,2,2,South Korea
+12,Group C,21 June,Soldier Field,Chicago,Germany,1,1,Spain
+17,Group C,23 June,Foxboro Stadium,Foxborough,South Korea,0,0,Bolivia
+27,Group C,27 June,Soldier Field,Chicago,Bolivia,1,3,Spain
+28,Group C,27 June,Cotton Bowl,Dallas,Germany,3,2,South Korea
+11,Group D,21 June,Foxboro Stadium,Foxborough,Argentina,4,0,Greece
+13,Group D,21 June,Cotton Bowl,Dallas,Nigeria,3,0,Bulgaria
+23,Group D,25 June,Foxboro Stadium,Foxborough,Argentina,2,1,Nigeria
+24,Group D,26 June,Soldier Field,Chicago,Greece,0,4,Bulgaria
+35,Group D,30 June,Foxboro Stadium,Foxborough,Greece,0,2,Nigeria
+36,Group D,30 June,Cotton Bowl,Dallas,Argentina,0,2,Bulgaria
+4,Group E,18 June,Giants Stadium,East Rutherford,Italy,0,1,Ireland
+7,Group E,19 June,RFK Stadium,Washington,Norway,1,0,Mexico
+16,Group E,23 June,Giants Stadium,East Rutherford,Italy,1,0,Norway
+18,Group E,24 June,Citrus Bowl,Orlando,Mexico,2,1,Ireland
+29,Group E,28 June,Giants Stadium,East Rutherford,Ireland,0,0,Norway
+30,Group E,28 June,RFK Stadium,Washington,Italy,1,1,Mexico
+6,Group F,19 June,Citrus Bowl,Orlando,Belgium,1,0,Morocco
+10,Group F,20 June,RFK Stadium,Washington,Netherlands,2,1,Saudi Arabia
+21,Group F,25 June,Citrus Bowl,Orlando,Belgium,1,0,Netherlands
+22,Group F,25 June,Giants Stadium,East Rutherford,Saudi Arabia,2,1,Morocco
+33,Group F,29 June,Citrus Bowl,Orlando,Morocco,1,2,Netherlands
+34,Group F,29 June,RFK Stadium,Washington,Belgium,0,1,Saudi Arabia

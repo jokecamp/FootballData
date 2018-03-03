@@ -1,0 +1,30 @@
+##############################
+# Portugal (POR) 
+#   - 22 players
+
+ (1)  GK  Manuel Bento                       ##    -, Benfica 
+(12)  GK  Jorge Martins                      ##    -, Belenenses 
+(22)  GK  Vítor Damas                        ##    -, Sporting CP 
+
+ (2)  DF  João Pinto                         ##    -, Porto 
+ (4)  DF  José Ribeiro                       ##    -, Boavista 
+ (5)  DF  Álvaro                             ##    -, Benfica 
+ (8)  DF  Frederico                          ##    -, Boavista 
+(13)  DF  António Morato                     ##    -, Sporting CP 
+(16)  DF  José António                       ##    -, Belenenses 
+(20)  DF  Augusto Inácio                     ##    -, Porto 
+
+ (3)  MF  António Sousa                      ##    -, Sporting CP 
+ (6)  MF  Carlos Manuel                      ##    -, Benfica 
+ (7)  MF  Jaime Pacheco                      ##    -, Sporting CP 
+(11)  MF  Fernando Óscar Bandeirinha         ##    -, Académica de Coimbra 
+(14)  MF  Jaime Magalhães                    ##    -, Porto 
+(18)  MF  Luís Sobrinho                      ##    -, Belenenses 
+(21)  MF  António André                      ##    -, Porto 
+
+ (9)  FW  Fernando Gomes                     ##    -, Porto 
+(10)  FW  Paulo Futre                        ##    -, Porto 
+(15)  FW  António Oliveira                   ##    -, Benfica 
+(17)  FW  Diamantino                         ##    -, Benfica 
+(19)  FW  Rui Águas                          ##    -, Benfica 
+

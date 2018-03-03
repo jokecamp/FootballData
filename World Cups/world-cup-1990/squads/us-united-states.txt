@@ -1,0 +1,30 @@
+##############################
+# United States (USA) 
+#   - 22 players
+
+ (1)  GK  Tony Meola                         ##    -, U.S. Soccer Federation (USA)
+(18)  GK  Kasey Keller                       ##    -, Portland Timbers (USA)
+(22)  GK  David Vanole                       ##    -, Los Angeles Heat (USA)
+
+ (2)  DF  Steve Trittschuh                   ##    -, Tampa Bay Rowdies (USA)
+ (3)  DF  John Doyle                         ##    -, S.F. Bay Blackhawks (USA)
+ (4)  DF  Jimmy Banks                        ##    -, Milwaukee Wave (USA)
+ (5)  DF  Mike Windischmann                  ##    -, Albany Capitals (USA)
+(15)  DF  Desmond Armstrong                  ##    -, Baltimore Blast (USA)
+(17)  DF  Marcelo Balboa                     ##    -, San Diego Sockers (USA)
+
+ (6)  MF  John Harkes                        ##    -, Albany Capitals (USA)
+ (7)  MF  Tab Ramos                          ##    -, Figueres 
+ (8)  MF  Brian Bliss                        ##    -, Albany Capitals (USA)
+(12)  MF  Paul Krumpe                        ##    -, Real Santa Barbara (USA)
+(13)  MF  Eric Eichmann                      ##    -, Fort Lauderdale Strikers (USA)
+(14)  MF  John Stollmeyer                    ##    -, Washington Stars (USA)
+(19)  MF  Chris Henderson                    ##    -, UCLA Bruins (USA)
+(20)  MF  Paul Caligiuri                     ##    -, SV Meppen (GER)
+(21)  MF  Neil Covone                        ##    -, Wake Forest Demon Deacons (USA)
+
+ (9)  FW  Christopher Sullivan               ##    -, Győri (HUN)
+(10)  FW  Peter Vermes                       ##    -, Volendam (NED)
+(11)  FW  Eric Wynalda                       ##    -, S.F. Bay Blackhawks (USA)
+(16)  FW  Bruce Murray                       ##    -, Washington Stars (USA)
+

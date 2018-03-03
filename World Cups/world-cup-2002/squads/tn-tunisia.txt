@@ -1,0 +1,31 @@
+##############################
+# Tunisia (TUN) 
+#   - 23 players
+
+ (1)  GK  Ali Boumnijel                      ##   14, Bastia 
+(16)  GK  Hassen Bejaoui                     ##    2, Bizertin 
+(22)  GK  Ahmed Jaouachi                     ##    0, Monastir 
+
+ (2)  DF  Khaled Badra                       ##   72, Espérance 
+ (4)  DF  Mohamed Mkacher                    ##   15, ES Sahel 
+ (6)  DF  Hatem Trabelsi                     ##   27, Ajax 
+(12)  DF  Raouf Bouzaiene                    ##   39, Genoa 
+(14)  DF  Hamdi Marzouki                     ##    7, Club Africain 
+(15)  DF  Radhi Jaïdi                        ##   40, Espérance 
+(17)  DF  Tarek Thabet                       ##   70, Espérance 
+(19)  DF  Emir Mkademi                       ##    9, ES Sahel 
+(23)  DF  José Clayton                       ##   12, Espérance 
+
+ (3)  MF  Zoubeir Baya                       ##   77, Beşiktaş 
+ (7)  MF  Imed Mhedhebi                      ##   30, Genoa 
+ (8)  MF  Hassen Gabsi                       ##   48, Genoa 
+(10)  MF  Kaies Ghodhbane                    ##   62, ES Sahel 
+(13)  MF  Riadh Bouazizi                     ##   47, Bursaspor 
+(18)  MF  Selim Ben Achour                   ##    3, Martigues 
+(21)  MF  Mourad Melki                       ##   11, Espérance 
+
+ (5)  FW  Ziad Jaziri                        ##   26, ES Sahel 
+ (9)  FW  Riadh Jelassi                      ##   20, Club Africain 
+(11)  FW  Adel Sellimi                       ##   64, SC Freiburg 
+(20)  FW  Ali Zitouni                        ##   23, Espérance 
+

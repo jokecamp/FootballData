@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Tomislav Ivković                   ##   26, Sporting CP 
+(12)  GK  Fahrudin Omerović                  ##    0, FK Partizan (SFR)
+(22)  GK  Dragoje Leković                    ##    3, Budućnost Titograd (SFR)
+
+ (2)  DF  Vujadin Stanojković                ##   16, FK Partizan (SFR)
+ (3)  DF  Predrag Spasić                     ##   18, FK Partizan (SFR)
+ (4)  DF  Zoran Vulić                        ##   15, Mallorca 
+ (5)  DF  Faruk Hadžibegić                   ##   45, Sochaux 
+ (6)  DF  Davor Jozić                        ##   17, Cesena 
+(17)  DF  Robert Jarni                       ##    1, Hajduk Split (SFR)
+(18)  DF  Mirsad Baljić                      ##   28, Sion 
+(21)  DF  Andrej Panadić                     ##    3, Dinamo Zagreb (SFR)
+
+ (7)  MF  Dragoljub Brnović                  ##   20, Metz 
+ (8)  MF  Safet Sušić                        ##   47, Paris Saint-Germain 
+(10)  MF  Dragan Stojković                   ##   33, Red Star Belgrade (SFR)
+(13)  MF  Srečko Katanec                     ##   26, Sampdoria 
+(15)  MF  Robert Prosinečki                  ##    7, Red Star Belgrade (SFR)
+(16)  MF  Refik Šabanadžović                 ##    4, Red Star Belgrade (SFR)
+
+ (9)  FW  Darko Pančev                       ##   14, Red Star Belgrade (SFR)
+(11)  FW  Zlatko Vujović                     ##   63, Paris Saint-Germain 
+(14)  FW  Alen Bokšić                        ##    0, Hajduk Split (SFR)
+(19)  FW  Dejan Savićević                    ##   13, Red Star Belgrade (SFR)
+(20)  FW  Davor Šuker                        ##    0, Dinamo Zagreb (SFR)
+

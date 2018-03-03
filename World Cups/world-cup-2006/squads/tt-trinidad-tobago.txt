@@ -1,0 +1,31 @@
+##############################
+# Trinidad n Tobago (TRI) 
+#   - 23 players
+
+ (1)  GK  Shaka Hislop                       ##   24, West Ham United (ENG)
+(21)  GK  Kelvin Jack                        ##   32, Dundee (SCO)
+(22)  GK  Clayton Ince                       ##   63, Coventry City (ENG)
+
+ (2)  DF  Ian Cox                            ##   16, Gillingham (ENG)
+ (3)  DF  Avery John                         ##   57, New England Revolution (USA)
+ (4)  DF  Marvin Andrews                     ##   98, Rangers (SCO)
+ (5)  DF  Brent Sancho                       ##   40, Gillingham (ENG)
+ (6)  DF  Dennis Lawrence                    ##   63, Wrexham (WAL)
+ (8)  DF  Cyd Gray                           ##   39, San Juan Jabloteh (TRI)
+(17)  DF  David Atiba Charles                ##   19, W Connection (TRI)
+
+ (7)  MF  Chris Birchall                     ##   19, Port Vale (ENG)
+ (9)  MF  Aurtis Whitley                     ##   24, San Juan Jabloteh (TRI)
+(10)  MF  Russell Latapy                     ##   66, Falkirk (SCO)
+(11)  MF  Carlos Edwards                     ##   51, Luton Town (ENG)
+(16)  MF  Evans Wise                         ##   16, Waldhof Mannheim (GER)
+(18)  MF  Densill Theobald                   ##   38, Falkirk (SCO)
+(23)  MF  Anthony Wolfe                      ##    4, San Juan Jabloteh (TRI)
+
+(12)  FW  Collin Samuel                      ##   18, Dundee United (SCO)
+(13)  FW  Cornell Glen                       ##   35, LA Galaxy (USA)
+(14)  FW  Stern John                         ##   95, Coventry City (ENG)
+(15)  FW  Kenwyne Jones                      ##   29, Southampton (ENG)
+(19)  FW  Dwight Yorke                       ##   54, Sydney FC (AUS)
+(20)  FW  Jason Scotland                     ##   25, St. Johnstone (SCO)
+

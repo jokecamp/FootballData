@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+ (1)  GK  Dumitru Stângaciu                  ##    5, Kocaelispor 
+(12)  GK  Bogdan Stelea                      ##   46, Salamanca 
+(22)  GK  Florin Prunea                      ##   35, Universitatea Craiova 
+
+ (2)  DF  Dan Petrescu                       ##   68, Chelsea 
+ (3)  DF  Cristian Dulca                     ##    5, Rapid Bucureşti 
+ (4)  DF  Anton Doboş                        ##   21, AEK Athens 
+ (6)  DF  Gheorghe Popescu                   ##   78, Galatasaray 
+(13)  DF  Liviu Ciobotariu                   ##    4, Naţional Bucureşti 
+(20)  DF  Tibor Selymes                      ##   44, Anderlecht 
+
+ (5)  MF  Constantin Gâlcă                   ##   32, Espanyol 
+ (8)  MF  Dorinel Munteanu                   ##   63, 1. FC Köln 
+(10)  MF  Gheorghe Hagi                      ##  111, Galatasaray 
+(14)  MF  Radu Niculescu                     ##   11, Naţional Bucureşti 
+(15)  MF  Lucian Marinescu                   ##    4, Rapid Bucureşti 
+(16)  MF  Gabriel Popescu                    ##   12, Salamanca 
+(18)  MF  Iulian Filipescu                   ##   15, Galatasaray 
+(19)  MF  Ovidiu Stîngă                      ##   19, PSV 
+
+ (7)  FW  Marius Lăcătuş                     ##   81, Steaua Bucureşti 
+ (9)  FW  Viorel Moldovan                    ##   24, Coventry City 
+(11)  FW  Adrian Ilie                        ##   20, Valencia 
+(17)  FW  Ilie Dumitrescu                    ##   62, Atlante 
+(21)  FW  Gheorghe Craioveanu                ##   18, Real Sociedad 
+

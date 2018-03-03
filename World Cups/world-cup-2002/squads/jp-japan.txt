@@ -1,0 +1,31 @@
+##############################
+# Japan (JPN) 
+#   - 23 players
+
+ (1)  GK  Yoshikatsu Kawaguchi               ##   43, Portsmouth 
+(12)  GK  Seigo Narazaki                     ##   15, Nagoya Grampus Eight 
+(23)  GK  Hitoshi Sogahata                   ##    1, Kashima Antlers 
+
+ (2)  DF  Yutaka Akita                       ##   38, Kashima Antlers 
+ (3)  DF  Naoki Matsuda                      ##   24, Yokohama F. Marinos 
+ (4)  DF  Ryuzo Morioka                      ##   32, Shimizu S-Pulse 
+ (6)  DF  Toshihiro Hattori                  ##   35, Jubilo Iwata 
+(16)  DF  Kōji Nakata                        ##   20, Kashima Antlers 
+(17)  DF  Tsuneyasu Miyamoto                 ##    5, Gamba Osaka 
+
+ (5)  MF  Junichi Inamoto                    ##   22, Arsenal 
+ (7)  MF  Hidetoshi Nakata                   ##   39, Parma 
+ (8)  MF  Hiroaki Morishima                  ##   57, Cerezo Osaka 
+(14)  MF  Alessandro dos Santos              ##    0, Shimizu S-Pulse 
+(15)  MF  Takashi Fukunishi                  ##    5, Jubilo Iwata 
+(18)  MF  Shinji Ono                         ##   21, Feyenoord 
+(19)  MF  Mitsuo Ogasawara                   ##    0, Kashima Antlers 
+(20)  MF  Tomokazu Myojin                    ##   16, Kashiwa Reysol 
+(21)  MF  Kazuyuki Toda                      ##   10, Shimizu S-Pulse 
+(22)  MF  Daisuke Ichikawa                   ##    1, Shimizu S-Pulse 
+
+ (9)  FW  Akinori Nishizawa                  ##   24, Cerezo Osaka 
+(10)  FW  Masashi Nakayama                   ##   47, Jubilo Iwata 
+(11)  FW  Takayuki Suzuki                    ##   10, Kashima Antlers 
+(13)  FW  Atsushi Yanagisawa                 ##   22, Kashima Antlers 
+
