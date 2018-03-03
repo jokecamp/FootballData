@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Francesco Toldo                    ##    6, Fiorentina 
+(12)  GK  Gianluca Pagliuca                  ##   34, Internazionale 
+(22)  GK  Gianluigi Buffon                   ##    2, Parma 
+
+ (2)  DF  Giuseppe Bergomi                   ##   78, Internazionale 
+ (3)  DF  Paolo Maldini                      ##   88, Milan 
+ (4)  DF  Fabio Cannavaro                    ##   14, Parma 
+ (5)  DF  Alessandro Costacurta              ##   54, Milan 
+ (6)  DF  Alessandro Nesta                   ##   12, Lazio 
+ (7)  DF  Gianluca Pessotto                  ##    4, Juventus 
+ (8)  DF  Moreno Torricelli                  ##    6, Juventus 
+
+ (9)  MF  Demetrio Albertini                 ##   57, Milan 
+(11)  MF  Dino Baggio                        ##   46, Parma 
+(13)  MF  Sandro Cois                        ##    1, Fiorentina 
+(14)  MF  Luigi Di Biagio                    ##   13, Roma 
+(15)  MF  Angelo Di Livio                    ##   21, Juventus 
+(16)  MF  Roberto Di Matteo                  ##   32, Chelsea 
+(17)  MF  Francesco Moriero                  ##    3, Internazionale 
+
+(10)  FW  Alessandro Del Piero               ##   19, Juventus 
+(18)  FW  Roberto Baggio                     ##   48, Bologna 
+(19)  FW  Filippo Inzaghi                    ##    4, Juventus 
+(20)  FW  Enrico Chiesa                      ##    6, Parma 
+(21)  FW  Christian Vieri                    ##    8, Atlético Madrid 
+

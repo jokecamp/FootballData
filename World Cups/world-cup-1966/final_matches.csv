@@ -1,0 +1,9 @@
+match_num,round/group,date,stadium,where,home,penalties,extra_time_score,fulltime_score,away
+25,Quarter-finals,23 July,Wembley Stadium,London,England,,,1-0,Argentina
+26,Quarter-finals,23 July,Hillsborough Stadium,Sheffield,West Germany,,,4-0,Uruguay
+27,Quarter-finals,23 July,Roker Park,Sunderland,Soviet Union,,,2-1,Hungary
+28,Quarter-finals,23 July,Goodison Park,Liverpool,Portugal,,,5-3,North Korea
+29,Semi-finals,25 July,Goodison Park,Liverpool,West Germany,,,2-1,Soviet Union
+30,Semi-finals,26 July,Wembley Stadium,London,England,,,2-1,Portugal
+31,Semi-finals,28 July,Wembley Stadium,London,Portugal,,,2-1,Soviet Union
+32,Final,30 July,Wembley Stadium,London,England,,4-2,2-2,West Germany

@@ -1,0 +1,31 @@
+##############################
+# Costa Rica (CRC) 
+#   - 23 players
+
+ (1)  GK  Erick Lonnis                       ##   74, Deportivo Saprissa 
+(18)  GK  Álvaro Mesén                       ##   16, Alajuelense 
+(23)  GK  Lester Morgan                      ##    5, Herdiano 
+
+ (2)  DF  Jervis Drummond                    ##   38, Deportivo Saprissa 
+ (3)  DF  Luis Marín                         ##   74, Alajuelense 
+ (4)  DF  Mauricio Wright                    ##   40, Herdiano 
+ (5)  DF  Gilberto Martínez                  ##   27, Deportivo Saprissa 
+(14)  DF  Juan José Rodríguez                ##    2, San Carlos 
+(15)  DF  Harold Wallace                     ##   54, Alajuelense 
+(21)  DF  Pablo Chinchilla                   ##   12, Alajuelense 
+(22)  DF  Carlos Castro                      ##   22, Alajuelense 
+
+ (6)  MF  Wilmer López                       ##   68, Alajuelense 
+ (8)  MF  Mauricio Solís                     ##   84, Alajuelense 
+(10)  MF  Walter Centeno                     ##   49, Deportivo Saprissa 
+(17)  MF  Hernán Medford                     ##   87, Deportivo Saprissa 
+(19)  MF  Rodrigo Cordero                    ##   25, Herdiano 
+
+ (7)  FW  Rolando Fonseca                    ##   79, Deportivo Saprissa 
+ (9)  FW  Paulo Wanchope                     ##   48, Manchester City 
+(11)  FW  Rónald Gómez                       ##   53, OFI Crete 
+(12)  FW  Winston Parks                      ##    3, Udinese 
+(13)  FW  Daniel Vallejos                    ##    2, Herdiano 
+(16)  FW  Steven Bryce                       ##   33, Alajuelense 
+(20)  FW  William Sunsing                    ##   23, Herdiano 
+

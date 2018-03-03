@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+ (1)  GK  Leopoldo Vallejos                  ##   13, Universidad Católica 
+(21)  GK  Juan Olivares                      ##   32, Unión Española 
+(22)  GK  Adolfo Nef                         ##   26, Colo Colo 
+
+ (2)  DF  Rolando García                     ##   14, Colo Colo 
+ (3)  DF  Alberto Quintano                   ##   33, Universidad de Chile 
+ (4)  DF  Antonio Arias                      ##   25, Unión Española 
+ (5)  DF  Elías Figueroa                     ##   19, Internacional 
+ (6)  DF  Juan Rodríguez                     ##   24, Atlético Español 
+(12)  DF  Juan Machuca                       ##   18, Unión Española 
+(13)  DF  Rafael González                    ##   10, Colo Colo 
+(15)  DF  Mario Galindo                      ##    6, Colo Colo 
+
+ (8)  MF  Francisco Valdés                   ##   44, Colo Colo 
+(10)  MF  Carlos Reinoso                     ##   25, América 
+(14)  MF  Alfonso Lara                       ##   27, Colo Colo 
+(16)  MF  Guillermo Páez                     ##   11, Colo Colo 
+(18)  MF  Jorge Socías                       ##    2, Universidad de Chile 
+(19)  MF  Rogelio Farías                     ##   10, Unión Española 
+
+ (7)  FW  Carlos Caszely                     ##   20, Levante 
+ (9)  FW  Sergio Ahumada                     ##   12, Colo Colo 
+(11)  FW  Leonardo Véliz                     ##   18, Colo Colo 
+(17)  FW  Guillermo Yávar                    ##   24, Universidad de Chile 
+(20)  FW  Osvaldo Castro                     ##   24, América 
+

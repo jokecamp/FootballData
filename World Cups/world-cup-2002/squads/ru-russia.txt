@@ -1,0 +1,31 @@
+##############################
+# Russia (RUS) 
+#   - 23 players
+
+ (1)  GK  Ruslan Nigmatullin                 ##   20, Hellas Verona 
+(12)  GK  Stanislav Cherchesov               ##   49, Tirol Innsbruck 
+(23)  GK  Aleksandr Filimonov                ##   16, Uralan Elista 
+
+ (2)  DF  Yuri Kovtun                        ##   44, Spartak Moscow 
+ (3)  DF  Yuri Nikiforov                     ##   56, PSV 
+ (5)  DF  Andrei Solomatin                   ##    5, CSKA Moscow 
+ (7)  DF  Viktor Onopko                      ##   97, Real Oviedo 
+(13)  DF  Vyacheslav Dayev                   ##    7, CSKA Moscow 
+(14)  DF  Igor Chugainov                     ##   30, Uralan Elista 
+(18)  DF  Dmitri Sennikov                    ##    4, Lokomotiv Moscow 
+
+ (4)  MF  Alexey Smertin                     ##   25, Bordeaux 
+ (6)  MF  Igor Semshov                       ##    2, Torpedo Moscow 
+ (8)  MF  Valery Karpin                      ##   69, Celta Vigo 
+ (9)  MF  Yegor Titov                        ##   30, Spartak Moscow 
+(10)  MF  Aleksandr Mostovoi                 ##   59, Celta Vigo 
+(15)  MF  Dmitri Alenichev                   ##   43, Porto 
+(17)  MF  Sergei Semak                       ##   31, CSKA Moscow 
+(20)  MF  Marat Izmailov                     ##    8, Lokomotiv Moscow 
+(21)  MF  Dmitri Khokhlov                    ##   39, Real Sociedad 
+
+(11)  FW  Vladimir Beschastnykh              ##   64, Spartak Moscow 
+(16)  FW  Aleksandr Kerzhakov                ##    3, Zenit St. Petersburg 
+(19)  FW  Ruslan Pimenov                     ##    1, Lokomotiv Moscow 
+(22)  FW  Dmitri Sychev                      ##    3, Spartak Moscow 
+

@@ -1,0 +1,30 @@
+##############################
+# Turkey (TUR) 
+#   - 22 players
+
+ (1)  GK  Turgay Şeren                       ##   11, Galatasaray S.K. 
+(12)  GK  Şükrü Ersoy                        ##    3, MKE Ankaragücü SK 
+(13)  GK  Bülent Gurbuz                      ##    0, Besiktas 
+
+ (2)  DF  Rıdvan Bolatlı                     ##    2, MKE Ankaragücü SK 
+ (3)  DF  Basri Dirimlili                    ##    3, Fenerbahçe SK 
+ (4)  DF  Mustafa Ertan                      ##    4, MKE Ankaragücü SK 
+(14)  DF  Ali Beratlıgil                     ##    2, Galatasaray S.K. 
+(16)  DF  Nedim Günar                        ##    0, Fenerbahçe SK 
+(17)  DF  Naci Erdem                         ##    0, Fenerbahçe SK 
+(18)  DF  Kaçmaz Akgün                       ##    1, Fenerbahçe SK 
+(19)  DF  Esinduy Ozcan                      ##    0, Beşiktaş J.K. 
+
+ (5)  MF  Çetin Zeybek                       ##    2, Kasımpaşa SK 
+ (6)  MF  Rober Eryol                        ##    5, Galatasaray S.K. 
+(15)  MF  Gokcen Dinçer                      ##    0, Fenerbahçe SK 
+
+ (7)  FW  Erol Keskin                        ##    1, Adalet SK Istanbul 
+ (8)  FW  Suat Mamat                         ##    2, Galatasaray S.K. 
+ (9)  FW  Feridun Buğeker                    ##    3, Fenerbahçe SK 
+(10)  FW  Burhan Sargun                      ##    5, Fenerbahçe SK 
+(11)  FW  Lefter Küçükandonyadis             ##    3, Fenerbahçe SK 
+(20)  FW  Necmi Onarıcı                      ##    0, Adalet SK Istanbul 
+(21)  FW  Kadri Aytaç                        ##    0, Galatasaray S.K. 
+(22)  FW  Coşkun Taş                         ##    2, Beşiktaş J.K. 
+

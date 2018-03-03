@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Dino Zoff                          ##    -, Juventus 
+(12)  GK  Ivano Bordon                       ##    -, Internazionale 
+(22)  GK  Giovanni Galli                     ##    -, Fiorentina 
+
+ (2)  DF  Franco Baresi                      ##    -, Milan 
+ (3)  DF  Giuseppe Bergomi                   ##    -, Internazionale 
+ (4)  DF  Antonio Cabrini                    ##    -, Juventus 
+ (5)  DF  Fulvio Collovati                   ##    -, Milan 
+ (6)  DF  Claudio Gentile                    ##    -, Juventus 
+ (7)  DF  Gaetano Scirea                     ##    -, Juventus 
+ (8)  DF  Pietro Vierchowod                  ##    -, Fiorentina 
+
+ (9)  MF  Giancarlo Antognoni                ##    -, Fiorentina 
+(10)  MF  Giuseppe Dossena                   ##    -, Torino 
+(11)  MF  Giampiero Marini                   ##    -, Internazionale 
+(13)  MF  Gabriele Oriali                    ##    -, Internazionale 
+(14)  MF  Marco Tardelli                     ##    -, Juventus 
+(15)  MF  Franco Causio                      ##    -, Udinese 
+(16)  MF  Bruno Conti                        ##    -, Roma 
+
+(17)  FW  Daniele Massaro                    ##    -, Fiorentina 
+(18)  FW  Alessandro Altobelli               ##    -, Internazionale 
+(19)  FW  Francesco Graziani                 ##    -, Fiorentina 
+(20)  FW  Paolo Rossi                        ##    -, Juventus 
+(21)  FW  Franco Selvaggi                    ##    -, Cagliari 
+

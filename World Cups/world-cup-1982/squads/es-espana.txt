@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  Luis Arconada                      ##    -, Real Sociedad 
+(21)  GK  Urruti                             ##    -, FC Barcelona 
+(22)  GK  Miguel Ángel                       ##    -, Real Madrid 
+
+ (2)  DF  José Antonio Camacho               ##    -, Real Madrid 
+ (3)  DF  Rafael Gordillo                    ##    -, Real Betis 
+ (5)  DF  Miguel Tendillo                    ##    -, Valencia 
+ (6)  DF  José Ramón Alexanko                ##    -, FC Barcelona 
+(12)  DF  Santiago Urquiaga                  ##    -, Athletic Bilbao 
+(13)  DF  Manuel Jiménez                     ##    -, Sporting de Gijón 
+(14)  DF  Antonio Maceda                     ##    -, Sporting de Gijón 
+
+ (4)  MF  Miguel Ángel Alonso                ##    -, Real Sociedad 
+ (8)  MF  Joaquín                            ##    -, Sporting de Gijón 
+(10)  MF  Jesús María Zamora                 ##    -, Real Sociedad 
+(15)  MF  Enrique Saura                      ##    -, Valencia CF 
+(16)  MF  José Vicente Sánchez               ##    -, FC Barcelona 
+(17)  MF  Ricardo Gallego                    ##    -, Real Madrid 
+
+ (7)  FW  Juanito                            ##    -, Real Madrid 
+ (9)  FW  Jesús María Satrústegui            ##    -, Real Sociedad 
+(11)  FW  Roberto López Ufarte               ##    -, Real Sociedad 
+(18)  FW  Pedro Uralde                       ##    -, Real Sociedad 
+(19)  FW  Santillana                         ##    -, Real Madrid 
+(20)  FW  Quini                              ##    -, FC Barcelona 
+

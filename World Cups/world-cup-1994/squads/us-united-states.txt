@@ -1,0 +1,30 @@
+##############################
+# United States (USA) 
+#   - 22 players
+
+ (1)  GK  Tony Meola                         ##    -, Buffalo Blizzard 
+(12)  GK  Juergen Sommer                     ##    -, Luton Town 
+(18)  GK  Brad Friedel                       ##    -, Newcastle United 
+
+ (2)  DF  Mike Lapper                        ##    -, VfL Wolfsburg 
+ (3)  DF  Mike Burns                         ##    -, Viborg 
+ (4)  DF  Cle Kooiman                        ##    -, Cruz Azul 
+ (5)  DF  Thomas Dooley                      ##    -, Bayer Leverkusen 
+(17)  DF  Marcelo Balboa                     ##    -, León 
+(20)  DF  Paul Caligiuri                     ##    -, SC Freiburg 
+(21)  DF  Fernando Clavijo                   ##    -, St. Louis Storm 
+(22)  DF  Alexi Lalas                        ##    -, Padova 
+
+ (6)  MF  John Harkes                        ##    -, Derby County 
+ (7)  MF  Hugo Perez                         ##    -, San Diego Sockers 
+ (9)  MF  Tab Ramos                          ##    -, Real Betis 
+(13)  MF  Cobi Jones                         ##    -, Coventry City 
+(16)  MF  Mike Sorber                        ##    -, UNAM Pumas 
+(19)  MF  Claudio Reyna                      ##    -, Virginia Cavaliers 
+
+ (8)  FW  Earnie Stewart                     ##    -, Willem II 
+(10)  FW  Roy Wegerle                        ##    -, Coventry City 
+(11)  FW  Eric Wynalda                       ##    -, 1. FC Saarbrücken 
+(14)  FW  Frank Klopas                       ##    -, AEK Athens FC 
+(15)  FW  Joe-Max Moore                      ##    -, 1. FC Saarbrücken 
+

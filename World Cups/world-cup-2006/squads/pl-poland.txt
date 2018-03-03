@@ -1,0 +1,31 @@
+##############################
+# Poland (POL) 
+#   - 23 players
+
+ (1)  GK  Artur Boruc                        ##   17, Celtic (SCO)
+(12)  GK  Tomasz Kuszczak                    ##    4, West Bromwich Albion (ENG)
+(22)  GK  Łukasz Fabiański                   ##    2, Legia Warszawa (POL)
+
+ (2)  DF  Mariusz Jop                        ##   12, FC Moscow (RUS)
+ (3)  DF  Seweryn Gancarczyk                 ##    2, Metalist Kharkiv (UKR)
+ (4)  DF  Marcin Baszczyński                 ##   32, Wisła Kraków (POL)
+ (6)  DF  Jacek Bąk                          ##   72, Al-Rayyan (QAT)
+(14)  DF  Michał Żewłakow                    ##   56, Anderlecht (BEL)
+(18)  DF  Mariusz Lewandowski                ##   25, Shakhtar Donetsk (UKR)
+(19)  DF  Bartosz Bosacki                    ##   11, Lech Poznań (POL)
+
+ (7)  MF  Radosław Sobolewski                ##   19, Wisła Kraków (POL)
+ (8)  MF  Jacek Krzynówek                    ##   58, Bayer Leverkusen (GER)
+(10)  MF  Mirosław Szymkowiak                ##   29, Trabzonspor (TUR)
+(13)  MF  Sebastian Mila                     ##   27, Austria Wien (AUT)
+(16)  MF  Arkadiusz Radomski                 ##   20, Austria Vienna (AUT)
+(17)  MF  Dariusz Dudka                      ##    7, Wisła Kraków (POL)
+(20)  MF  Piotr Giza                         ##    4, Cracovia (POL)
+
+ (5)  FW  Kamil Kosowski                     ##   45, Kaiserslautern (GER)
+ (9)  FW  Maciej Żurawski                    ##   50, Celtic (SCO)
+(11)  FW  Grzegorz Rasiak                    ##   30, Tottenham Hotspur (ENG)
+(15)  FW  Euzebiusz Smolarek                 ##   13, Borussia Dortmund (GER)
+(21)  FW  Ireneusz Jeleń                     ##    9, Wisła Płock (POL)
+(23)  FW  Paweł Brożek                       ##    4, Wisła Kraków (POL)
+

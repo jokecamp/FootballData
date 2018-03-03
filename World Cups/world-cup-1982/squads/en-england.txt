@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Ray Clemence                       ##   59, Tottenham Hotspur 
+(13)  GK  Joe Corrigan                       ##    9, Manchester City 
+(22)  GK  Peter Shilton                      ##   37, Nottingham Forest 
+
+ (2)  DF  Viv Anderson                       ##   10, Nottingham Forest 
+ (4)  DF  Terry Butcher                      ##    4, Ipswich Town 
+ (6)  DF  Steve Foster                       ##    2, Brighton and Hove Albion 
+(12)  DF  Mick Mills                         ##   37, Ipswich Town 
+(14)  DF  Phil Neal                          ##   37, Liverpool 
+(17)  DF  Kenny Sansom                       ##   23, Arsenal 
+(18)  DF  Phil Thompson                      ##   35, Liverpool 
+
+ (3)  MF  Trevor Brooking                    ##   46, West Ham United 
+ (5)  MF  Steve Coppell                      ##   36, Manchester United 
+ (9)  MF  Glenn Hoddle                       ##   11, Tottenham Hotspur 
+(10)  MF  Terry McDermott                    ##   25, Liverpool 
+(15)  MF  Graham Rix                         ##    8, Arsenal 
+(16)  MF  Bryan Robson                       ##   19, Manchester United 
+(19)  MF  Ray Wilkins                        ##   47, Manchester United 
+
+ (7)  FW  Kevin Keegan                       ##   62, Southampton 
+ (8)  FW  Trevor Francis                     ##   27, Manchester City 
+(11)  FW  Paul Mariner                       ##   21, Ipswich Town 
+(20)  FW  Peter Withe                        ##    6, Aston Villa 
+(21)  FW  Tony Woodcock                      ##   22, FC Köln 
+

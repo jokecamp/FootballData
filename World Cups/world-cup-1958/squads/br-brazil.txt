@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Carlos José Castilho               ##   20, Fluminense 
+ (3)  GK  Gilmar                             ##   31, Corinthians 
+
+ (2)  DF  Hilderaldo Bellini                 ##    8, Vasco da Gama 
+ (4)  DF  Djalma Santos                      ##   47, Portuguesa 
+(12)  DF  Nílton Santos                      ##   46, Botafogo 
+(14)  DF  De Sordi                           ##   14, São Paulo 
+(15)  DF  Orlando                            ##    1, Vasco da Gama 
+(16)  DF  Mauro Ramos                        ##   10, São Paulo 
+
+ (5)  MF  Dino Sani                          ##    5, São Paulo 
+ (6)  MF  Didi                               ##   41, Botafogo 
+ (8)  MF  Oreco                              ##    9, Corinthians 
+ (9)  MF  Zózimo                             ##   26, Bangu 
+(13)  MF  Moacir                             ##    5, Flamengo 
+(19)  MF  Zito                               ##    3, Santos 
+
+ (7)  FW  Mário Zagallo                      ##    3, Flamengo 
+(10)  FW  Pelé                               ##    5, Santos 
+(11)  FW  Garrincha                          ##    8, Botafogo 
+(17)  FW  Joel Antônio Martins               ##   11, Flamengo 
+(18)  FW  Mazzola                            ##    5, Palmeiras 
+(20)  FW  Vavá                               ##    3, Vasco da Gama 
+(21)  FW  Dida                               ##    3, Flamengo 
+(22)  FW  Pepe                               ##   11, Santos 
+

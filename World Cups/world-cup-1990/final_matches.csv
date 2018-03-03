@@ -1,0 +1,17 @@
+match_num,round/group,date,stadium,where,home,penalties,extra_time_score,fulltime_score,away
+37,Round of 16,23 June,Stadio San Paolo,Naples,Cameroon,,2-1,0-0,Colombia
+38,Round of 16,23 June,Stadio San Nicola,Bari,Czechoslovakia,,,4-1,Costa Rica
+39,Round of 16,24 June,Stadio Delle Alpi,Turin,Brazil,,,0-1,Argentina
+40,Round of 16,24 June,San Siro,Milan,West Germany,,,2-1,Netherlands
+41,Round of 16,25 June,Stadio Luigi Ferraris,Genoa,Ireland,5-4,0-0,0-0,Romania
+42,Round of 16,25 June,Stadio Olimpico,Rome,Italy,,,2-0,Uruguay
+43,Round of 16,26 June,Stadio Marc'Antonio Bentegodi,Verona,Spain,,1-2,1-1,Yugoslavia
+44,Round of 16,26 June,Stadio Renato Dall'Ara,Bologna,England,,1-0,0-0,Belgium
+45,Quarter-finals,30 June,Stadio Artemio Franchi,Florence,Yugoslavia,2-3,0-0,0-0,Argentina
+46,Quarter-finals,30 June,Stadio Olimpico,Rome,Italy,,,1-0,Ireland
+47,Quarter-finals,1 July,San Siro,Milan,West Germany,,,1-0,Czechoslovakia
+48,Quarter-finals,1 July,Stadio San Paolo,Naples,England,,3-2,2-2,Cameroon
+49,Semi-finals,3 July,Stadio San Paolo,Naples,Italy,3-4,1-1,1-1,Argentina
+50,Semi-finals,4 July,Stadio delle Alpi,Turin,West Germany,4-3,1-1,1-1,England
+51,Semi-finals,7 July,Stadio San Nicola,Bari,Italy,,,2-1,England
+52,Final,8 July,Stadio Olimpico,Rome,West Germany,,,1-0,Argentina

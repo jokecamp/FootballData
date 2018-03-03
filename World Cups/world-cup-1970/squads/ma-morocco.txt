@@ -1,0 +1,27 @@
+##############################
+# Morocco (MAR) 
+#   - 19 players
+
+ (1)  GK  Allal Ben Kassou                   ##    -, FAR Rabat 
+(12)  GK  Mohammed Hazzaz                    ##    -, MAS Fes 
+(19)  GK  Abdelkader Ouaraghli               ##    -, WAC Casablanca 
+
+ (2)  DF  Abdallah Lamrani                   ##    -, FAR Rabat 
+ (3)  DF  Boujemaa Benkhrif                  ##    -, KAC Kenitra 
+ (4)  DF  Moulay Khanousi                    ##    -, MAS Fes 
+ (5)  DF  Kacem Slimani                      ##    -, RS Settat 
+(13)  DF  Jalili Fadili                      ##    -, FAR Rabat 
+(18)  DF  Abdelkader El Khiati               ##    -, FAR Rabat 
+
+ (6)  MF  Mohammed Mahroufi                  ##    -, DH Jadida 
+ (7)  MF  Said Ghandi                        ##    -, RCA Casablanca 
+ (8)  MF  Driss Bamous                       ##    -, FAR Rabat 
+(11)  MF  Maouhoub Ghazouani                 ##    -, FAR Rabat 
+(15)  MF  Hamed Dahane                       ##    -, Union Sidi Kacem 
+(16)  MF  Moustapha Choukri                  ##    -, RCA Casablanca 
+
+ (9)  FW  Ahmed Faras                        ##    -, Chabab Mohammedia 
+(10)  FW  Mohammed El Filali                 ##    -, Mouloudia Oujda 
+(14)  FW  Houmane Jarir                      ##    -, RCA Casablanca 
+(17)  FW  Ahmed Alaoui                       ##    -, RS Settat 
+

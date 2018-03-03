@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+ (9)  GK  Adán Godoy                         ##   14, Universidad Católica 
+(13)  GK  Juan Olivares                      ##    4, Santiago Wanderers 
+
+ (2)  DF  Hugo Berly                         ##    0, Audax Italiano 
+ (5)  DF  Humberto Donoso                    ##   14, Universidad de Chile 
+ (6)  DF  Luis Eyzaguirre                    ##   38, Universidad de Chile 
+ (7)  DF  Elías Figueroa                     ##    7, Santiago Wanderers 
+(20)  DF  Alberto Valentini                  ##   17, Colo-Colo 
+(21)  DF  Hugo Villanueva                    ##   15, Universidad de Chile 
+
+ (3)  MF  Carlos Campos                      ##   10, Universidad de Chile 
+ (4)  MF  Humberto Cruz                      ##   16, Colo-Colo 
+(10)  MF  Roberto Hodge                      ##    9, Universidad de Chile 
+(12)  MF  Rubén Marcos                       ##   17, Universidad de Chile 
+(14)  MF  Ignacio Prieto                     ##   15, Universidad Católica 
+(15)  MF  Jaime Ramírez                      ##   46, Universidad de Chile 
+(17)  MF  Leonel Sánchez                     ##   77, Universidad de Chile 
+(18)  MF  Armando Tobar                      ##   29, Universidad Católica 
+
+ (1)  FW  Pedro Araya                        ##   20, Universidad de Chile 
+ (8)  FW  Alberto Fouilloux                  ##   36, Universidad Católica 
+(11)  FW  Honorino Landa                     ##   23, Green Cross Temuco 
+(16)  FW  Orlando Ramírez                    ##   11, Universidad de Chile 
+(19)  FW  Francisco Valdés                   ##   11, Colo-Colo 
+(22)  FW  Guillermo Yávar                    ##   11, Universidad de Chile 
+

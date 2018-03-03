@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Carlos                             ##    -, Corinthians 
+(12)  GK  Paulo Vitor                        ##    -, Fluminense 
+(22)  GK  Leão                               ##    -, Palmeiras 
+
+ (2)  DF  Édson                              ##    -, Corinthians 
+ (3)  DF  Oscar                              ##    -, São Paulo 
+ (4)  DF  Edinho                             ##    -, Udinese 
+ (6)  DF  Júnior                             ##    -, Torino 
+(13)  DF  Josimar                            ##    -, Botafogo 
+(14)  DF  Júlio César                        ##    -, Guarani 
+(16)  DF  Mauro Galvão                       ##    -, Internacional 
+(17)  DF  Branco                             ##    -, Fluminense 
+
+ (5)  MF  Falcão                             ##    -, São Paulo 
+(15)  MF  Alemão                             ##    -, Botafogo 
+(18)  MF  Sócrates                           ##    -, Flamengo 
+(19)  MF  Elzo                               ##    -, Atlético Mineiro 
+(20)  MF  Silas                              ##    -, São Paulo 
+(21)  MF  Valdo                              ##    -, Grêmio 
+
+ (7)  FW  Müller                             ##    -, São Paulo 
+ (8)  FW  Casagrande                         ##    -, Corinthians 
+ (9)  FW  Careca                             ##    -, São Paulo 
+(10)  FW  Zico                               ##    -, Flamengo 
+(11)  FW  Edivaldo                           ##    -, Atlético Mineiro 
+

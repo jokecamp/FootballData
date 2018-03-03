@@ -1,0 +1,31 @@
+##############################
+# Ecuador (ECU) 
+#   - 23 players
+
+ (1)  GK  José Francisco Cevallos            ##   62, Barcelona 
+(12)  GK  Oswaldo Ibarra                     ##   21, El Nacional 
+(22)  GK  Daniel Viteri                      ##    0, Emelec 
+
+ (2)  DF  Augusto Porozo                     ##   26, Emelec 
+ (3)  DF  Iván Hurtado                       ##   90, Barcelona 
+ (4)  DF  Ulises de la Cruz                  ##   52, Hibernian 
+ (6)  DF  Raúl Guerrón                       ##   23, Deportivo Quito 
+(15)  DF  Marlon Ayoví                       ##   26, Deportivo Quito 
+(17)  DF  Giovanny Espinoza                  ##   19, Aucas 
+(23)  DF  Walter Ayoví                       ##    2, Emelec 
+
+ (5)  MF  Alfonso Obregón                    ##   40, LDU Quito 
+ (8)  MF  Luis Gómez                         ##    8, Barcelona 
+(10)  MF  Álex Aguinaga                      ##   92, Necaxa 
+(14)  MF  Juan Carlos Burbano                ##   18, El Nacional 
+(16)  MF  Cléber Chalá                       ##   64, El Nacional 
+(20)  MF  Edwin Tenorio                      ##   33, Barcelona 
+(21)  MF  Wellington Sánchez                 ##   35, Emelec 
+
+ (7)  FW  Nicolás Asencio                    ##    4, Barcelona 
+ (9)  FW  Iván Kaviedes                      ##   26, Barcelona 
+(11)  FW  Agustín Delgado                    ##   46, Southampton 
+(13)  FW  Ángel Fernández                    ##   68, El Nacional 
+(18)  FW  Carlos Tenorio                     ##    9, LDU Quito 
+(19)  FW  Edison Méndez                      ##   24, Deportivo Quito 
+

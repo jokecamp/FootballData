@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+ (1)  GK  Edwin van der Sar                  ##   25, Ajax 
+(18)  GK  Ed de Goeij                        ##   31, Chelsea 
+(22)  GK  Ruud Hesp                          ##    0, Barcelona 
+
+ (2)  DF  Michael Reiziger                   ##   26, Barcelona 
+ (3)  DF  Jaap Stam                          ##   14, PSV 
+ (4)  DF  Frank de Boer                      ##   55, Ajax 
+ (5)  DF  Arthur Numan                       ##   29, PSV 
+(13)  DF  André Ooijer                       ##    0, PSV 
+(15)  DF  Winston Bogarde                    ##   14, Barcelona 
+
+ (6)  MF  Wim Jonk                           ##   42, PSV 
+ (7)  MF  Ronald de Boer                     ##   41, Ajax 
+(10)  MF  Clarence Seedorf                   ##   31, Real Madrid 
+(11)  MF  Phillip Cocu                       ##   20, PSV 
+(12)  MF  Boudewijn Zenden                   ##    6, PSV 
+(14)  MF  Marc Overmars                      ##   40, Arsenal 
+(16)  MF  Edgar Davids                       ##   12, Juventus 
+(19)  MF  Giovanni van Bronckhorst           ##    8, Feyenoord 
+(20)  MF  Aron Winter                        ##   72, Internazionale 
+
+ (8)  FW  Dennis Bergkamp                    ##   57, Arsenal 
+ (9)  FW  Patrick Kluivert                   ##   19, Milan 
+(17)  FW  Pierre van Hooijdonk               ##   12, Nottingham Forest 
+(21)  FW  Jimmy Floyd Hasselbaink            ##    3, Leeds United 
+

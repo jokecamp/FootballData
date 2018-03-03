@@ -1,0 +1,30 @@
+##############################
+# Paraguay (PAR) 
+#   - 22 players
+
+ (1)  GK  Ramón Mayeregger                   ##    -, Nacional 
+(12)  GK  Samuel Aguilar                     ##    -, Libertad 
+
+ (2)  DF  Edelmiro Arévalo                   ##    -, Olimpia 
+ (4)  DF  Ignacio Achúcarro                  ##    -, Olimpia 
+ (6)  DF  Eligio Echagüe                     ##    -, Olimpia 
+(13)  DF  Luis Gini                          ##    -, Sol de América 
+(14)  DF  Darío Segovia                      ##    -, Sol de América 
+(17)  DF  Agustín Miranda                    ##    -, Cerro Porteño 
+
+ (3)  MF  Juan Vicente Lezcano               ##    -, Olimpia 
+ (5)  MF  Salvador Villalba                  ##    -, Libertad 
+(15)  MF  Luis Santos Silva                  ##    -, Cerro Porteño 
+
+ (7)  FW  Juan Bautista Agüero               ##    -, Olimpia 
+ (8)  FW  José Parodi                        ##    -, Olimpia 
+ (9)  FW  Jorge Lino Romero                  ##    -, Sol de América 
+(10)  FW  Oscar Aguilera                     ##    -, Olimpia 
+(11)  FW  Florencio Amarilla                 ##    -, Nacional 
+(16)  FW  Claudio Lezcano                    ##    -, Olimpia 
+(18)  FW  Gilberto Penayo                    ##    -, Sol de América 
+(19)  FW  Eliseo Insfrán                     ##    -, Guaraní 
+(20)  FW  José Raúl Aveiro                   ##    -, Sportivo Luqueño 
+(21)  FW  Cayetano Ré                        ##    -, Cerro Porteño 
+(22)  FW  Eligio Insfrán                     ##    -, Guaraní 
+

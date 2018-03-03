@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Castilho                           ##   13, Fluminense 
+(21)  GK  Veludo                             ##    3, Fluminense 
+(22)  GK  Cabeção                            ##    -, Corinthians 
+
+ (2)  DF  Djalma Santos                      ##   14, Portuguesa 
+ (3)  DF  Nílton Santos                      ##   18, Botafogo 
+ (4)  DF  Brandãozinho                       ##   12, Portuguesa 
+(12)  DF  Paulinho                           ##    -, Vasco da Gama 
+(13)  DF  Alfredo                            ##    -, São Paulo FC 
+(15)  DF  Mauro                              ##    4, São Paulo FC 
+
+ (5)  MF  Pinheiro                           ##   13, Fluminense 
+ (6)  MF  Bauer                              ##   21, São Paulo FC 
+ (8)  MF  Didi                               ##   13, Fluminense 
+(14)  MF  Ely                                ##   15, Vasco da Gama 
+(16)  MF  Dequinha                           ##    7, Flamengo 
+
+ (7)  FW  Julinho                            ##   13, Portuguesa 
+ (9)  FW  Baltazar                           ##   19, Corinthians 
+(10)  FW  Pinga                              ##   14, Vasco da Gama 
+(11)  FW  Rodrigues                          ##   14, Palmeiras 
+(17)  FW  Maurinho                           ##    0, São Paulo FC 
+(18)  FW  Humberto                           ##    3, Palmeiras 
+(19)  FW  Índio                              ##    0, Flamengo 
+(20)  FW  Rubens                             ##    1, Flamengo 
+

@@ -1,0 +1,30 @@
+##############################
+# South Korea (KOR) 
+#   - 22 players
+
+ (1)  GK  Kim Poong-Joo                      ##    -, Daewoo Royals 
+(19)  GK  Jeong Gi-Dong                      ##    -, POSCO Atoms 
+(21)  GK  Choi In-Young                      ##    -, Hyundai Horangi 
+
+ (2)  DF  Park Kyung-Hoon                    ##    -, POSCO Atoms 
+ (3)  DF  Choi Kang-Hee                      ##    -, Hyundai Horangi 
+ (5)  DF  Chung Yong-Hwan                    ##    -, Daewoo Royals 
+ (7)  DF  Noh Soo-Jin                        ##    -, Yukong Elephants 
+(13)  DF  Chung Jong-Soo                     ##    -, Hyundai Horangi 
+(15)  DF  Cho Min-Kook                       ##    -, Lucky-Goldstar Hwangso 
+(17)  DF  Gu Sang-Bum                        ##    -, Lucky-Goldstar Hwangso 
+(20)  DF  Hong Myung-Bo                      ##    -, Korea University 
+
+ (4)  MF  Yoon Deuk-Yeo                      ##    -, Hyundai Horangi 
+ (6)  MF  Lee Tae-Ho                         ##    -, Daewoo Royals 
+(10)  MF  Lee Sang-Yoon                      ##    -, Ilhwa Chunma 
+(12)  MF  Lee Heung-Sil                      ##    -, POSCO Atoms 
+(14)  MF  Choi Soon-Ho                       ##    -, Lucky-Goldstar Hwangso 
+(16)  MF  Kim Joo-Sung                       ##    -, Daewoo Royals 
+(22)  MF  Lee Young-jin                      ##    -, Lucky-Goldstar Hwangso 
+
+ (8)  FW  Chung Hae-Won                      ##    -, Daewoo Royals 
+ (9)  FW  Hwangbo Kwan                       ##    -, Yukong Elephants 
+(11)  FW  Byun Byung-Joo                     ##    -, Hyundai Horangi 
+(18)  FW  Hwang Sun-Hong                     ##    -, Konkuk University 
+

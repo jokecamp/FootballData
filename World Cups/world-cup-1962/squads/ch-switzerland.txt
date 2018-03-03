@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+ (1)  GK  Karl Elsener                       ##    -, Grasshopper Club Zürich 
+(21)  GK  Antonio Permunian                  ##    -, FC Luzern 
+(22)  GK  Kurt Stettler                      ##    -, FC Basel 
+
+ (2)  DF  Ely Tacchella                      ##    -, Lausanne Sports 
+ (5)  DF  Fritz Morf                         ##    -, FC Grenchen 
+ (6)  DF  Peter Rösch                        ##    -, Servette FC 
+ (7)  DF  Heinz Schneiter                    ##    -, Young Boys Bern 
+(10)  DF  Fritz Kehl                         ##    -, FC Zurich 
+(11)  DF  Eugen Meier                        ##    -, Young Boys Bern 
+
+ (3)  MF  André Grobéty                      ##    -, Lausanne Sports 
+ (4)  MF  Willy Kernen                       ##    -, FC La Chaux-de-Fonds 
+(13)  MF  Hans Weber                         ##    -, FC Basel 
+(14)  MF  Anton Allemann                     ##    -, A.C. Mantova 
+(20)  MF  Roger Vonlanthen                   ##    -, Lausanne Sports 
+
+ (8)  FW  Rolf Wüthrich                      ##    -, Servette FC 
+ (9)  FW  Roberto Frigerio                   ##    -, FC La Chaux-de-Fonds 
+(12)  FW  Marcel Vonlanthen                  ##    -, Lausanne Sports 
+(15)  FW  Charles Antenen                    ##    -, FC La Chaux-de-Fonds 
+(16)  FW  Richard Dürr                       ##    -, Lausanne Sports 
+(17)  FW  Norbert Eschmann                   ##    -, Stade Français Paris 
+(18)  FW  Philippe Pottier                   ##    -, Stade Français Paris 
+(19)  FW  Gilbert Rey                        ##    -, Lausanne Sports 
+

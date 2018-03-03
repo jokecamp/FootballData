@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Amadeo Carrizo                     ##    -, River Plate 
+(12)  GK  Julio Musimessi                    ##    -, Boca Juniors 
+
+ (3)  DF  Federico Vairo                     ##    -, River Plate 
+ (4)  DF  Juan Francisco Lombardo            ##    -, Boca Juniors 
+ (5)  DF  Néstor Rossi                       ##    -, River Plate 
+(13)  DF  Alfredo Pérez                      ##    -, River Plate 
+(14)  DF  Federico Edwards                   ##    -, Boca Juniors 
+(15)  DF  David Acevedo                      ##    -, Independiente 
+(17)  DF  José Ramos Delgado                 ##    -, Lanús 
+
+ (2)  MF  Pedro Dellacha                     ##    -, Racing 
+ (6)  MF  José Varacka                       ##    -, Independiente 
+(16)  MF  Eliseo Mouriño                     ##    -, Boca Juniors 
+
+ (7)  FW  Omar Oreste Corbatta               ##    -, Racing 
+ (8)  FW  Eliseo Prado                       ##    -, River Plate 
+ (9)  FW  Norberto Menéndez                  ##    -, River Plate 
+(10)  FW  Alfredo Rojas                      ##    -, Lanús 
+(11)  FW  Ángel Labruna                      ##    -, River Plate 
+(18)  FW  Norberto Boggio                    ##    -, San Lorenzo de Almagro 
+(19)  FW  Ludovico Avio                      ##    -, Vélez Sarsfield 
+(20)  FW  Ricardo Infante                    ##    -, Estudiantes de La Plata 
+(21)  FW  José Sanfilippo                    ##    -, San Lorenzo de Almagro 
+(22)  FW  Osvaldo Cruz                       ##    -, Independiente 
+

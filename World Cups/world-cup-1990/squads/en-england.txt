@@ -1,0 +1,31 @@
+##############################
+# England (ENG) 
+#   - 23 players
+
+ (1)  GK  Peter Shilton                      ##  118, Derby County 
+   -  GK  David Seaman                       ##    2, Queens Park Rangers 
+(13)  GK  Chris Woods                        ##   16, Rangers 
+   -  GK  Dave Beasant                       ##    2, Chelsea 
+
+ (2)  DF  Gary Stevens                       ##   39, Rangers 
+ (3)  DF  Stuart Pearce                      ##   24, Nottingham Forest 
+ (5)  DF  Des Walker                         ##   18, Nottingham Forest 
+ (6)  DF  Terry Butcher                      ##   72, Rangers 
+(12)  DF  Paul Parker                        ##    5, Queens Park Rangers 
+(14)  DF  Mark Wright                        ##   24, Derby County 
+(15)  DF  Tony Dorigo                        ##    3, Chelsea 
+
+ (4)  MF  Neil Webb                          ##   24, Manchester United 
+ (7)  MF  Bryan Robson                       ##   85, Manchester United 
+ (8)  MF  Chris Waddle                       ##   52, Marseille 
+(11)  MF  John Barnes                        ##   53, Liverpool 
+(16)  MF  Steve McMahon                      ##   12, Liverpool 
+(17)  MF  David Platt                        ##    5, Aston Villa 
+(18)  MF  Steve Hodge                        ##   22, Nottingham Forest 
+(19)  MF  Paul Gascoigne                     ##   11, Tottenham Hotspur 
+(20)  MF  Trevor Steven                      ##   26, Rangers 
+
+ (9)  FW  Peter Beardsley                    ##   40, Liverpool 
+(10)  FW  Gary Lineker                       ##   51, Tottenham Hotspur 
+(21)  FW  Steve Bull                         ##    7, Wolverhampton Wanderers 
+

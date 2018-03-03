@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Taffarel                           ##    -, Atlético Mineiro 
+(12)  GK  Carlos Germano                     ##    -, Vasco da Gama 
+(22)  GK  Dida                               ##    -, Cruzeiro 
+
+ (2)  DF  Cafu                               ##    -, Roma 
+ (3)  DF  Aldair                             ##    -, Roma 
+ (4)  DF  Júnior Baiano                      ##    -, Flamengo 
+ (6)  DF  Roberto Carlos                     ##    -, Real Madrid 
+(13)  DF  Zé Carlos                          ##    -, São Paulo 
+(14)  DF  Gonçalves                          ##    -, Botafogo 
+(15)  DF  André Cruz                         ##    -, Milan 
+
+ (5)  MF  César Sampaio                      ##    -, Yokohama Flügels 
+ (7)  MF  Giovanni                           ##    -, Barcelona 
+ (8)  MF  Dunga                              ##    -, Júbilo Iwata 
+(10)  MF  Rivaldo                            ##    -, Barcelona 
+(11)  MF  Emerson                            ##    -, Bayer Leverkusen 
+(16)  MF  Zé Roberto                         ##    -, Flamengo 
+(17)  MF  Doriva                             ##    -, Porto 
+(18)  MF  Leonardo                           ##    -, Milan 
+(19)  MF  Denílson                           ##    -, São Paulo 
+
+ (9)  FW  Ronaldo                            ##    -, Internazionale 
+(20)  FW  Bebeto                             ##    -, Botafogo 
+(21)  FW  Edmundo                            ##    -, Fiorentina 
+

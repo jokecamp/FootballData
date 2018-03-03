@@ -1,0 +1,30 @@
+##############################
+# Denmark (DEN) 
+#   - 22 players
+
+ (1)  GK  Peter Schmeichel                   ##  100, Manchester United 
+(16)  GK  Mogens Krogh                       ##    8, Brøndby 
+(22)  GK  Peter Kjær                         ##    0, Silkeborg 
+
+ (2)  DF  Michael Schjønberg                 ##   28, 1. FC Kaiserslautern 
+ (3)  DF  Marc Rieper                        ##   53, Celtic 
+ (4)  DF  Jes Høgh                           ##   37, Fenerbahçe 
+ (5)  DF  Jan Heintze                        ##   39, Bayer Leverkusen 
+ (6)  DF  Thomas Helveg                      ##   30, Udinese 
+(12)  DF  Søren Colding                      ##    4, Brøndby 
+(13)  DF  Jacob Laursen                      ##   22, Derby County 
+(20)  DF  René Henriksen                     ##    2, Akademisk 
+
+ (7)  MF  Allan Nielsen                      ##   18, Tottenham Hotspur 
+ (8)  MF  Per Frandsen                       ##   12, Bolton Wanderers 
+(10)  MF  Michael Laudrup                    ##   99, Ajax 
+(14)  MF  Morten Wieghorst                   ##   11, Celtic 
+(15)  MF  Stig Tøfting                       ##    4, MSV Duisburg 
+(17)  MF  Bjarne Goldbæk                     ##   11, Copenhagen 
+(21)  MF  Martin Jørgensen                   ##    4, Udinese 
+
+ (9)  FW  Miklos Molnar                      ##    9, Sevilla 
+(11)  FW  Brian Laudrup                      ##   77, Rangers 
+(18)  FW  Peter Møller                       ##   11, PSV 
+(19)  FW  Ebbe Sand                          ##    2, Brøndby 
+

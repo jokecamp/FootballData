@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+   -  GK  Kalle Svensson                     ##    4, Helsingborgs IF 
+   -  GK  Torsten Lindberg                   ##   18, IFK Norrköping 
+   -  GK  Tore Svensson                      ##    0, Malmö FF 
+
+   -  DF  Lennart Samuelsson                 ##    1, IF Elfsborg Borås 
+   -  DF  Ivan Bodin                         ##    0, AIK Stockholm 
+   -  DF  Gunnar Johansson                   ##    0, GAIS 
+   -  DF  Arne Månsson                       ##    1, Malmö FF 
+   -  DF  Erik Nilsson                       ##   28, Malmö FF 
+
+   -  MF  Olle Åhlund                        ##   15, Degerfors IF 
+   -  MF  Ingvar Gärd                        ##    1, Malmö FF 
+   -  MF  Sune Andersson                     ##   23, AIK Stockholm 
+   -  MF  Knut Nordahl                       ##   22, IFK Norrköping 
+
+   -  FW  Stellan Nilsson                    ##   15, Malmö FF 
+   -  FW  Karl-Erik Palmér                   ##    5, Malmö FF 
+   -  FW  Ingvar Rydell                      ##    2, Malmö FF 
+   -  FW  Bror Mellberg                      ##    1, AIK Stockholm 
+   -  FW  Lennart Skoglund                   ##    1, AIK Stockholm 
+   -  FW  Stig Sundqvist                     ##    6, IFK Norrköping 
+   -  FW  Egon Jönsson                       ##    7, Malmö FF 
+   -  FW  Kurt Svensson                      ##    0, IS Halmia 
+   -  FW  Hasse Jeppson                      ##    1, Djurgårdens IF Stockholm 
+   -  FW  Börje Tapper                       ##    4, Malmö FF 
+

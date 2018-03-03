@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Dominique Baratelli                ##   21, Paris St-Germain 
+(21)  GK  Jean Castaneda                     ##    7, St-Etienne 
+(22)  GK  Jean-Luc Ettori                    ##    2, AS Monaco 
+
+ (2)  DF  Manuel Amoros                      ##    4, AS Monaco 
+ (3)  DF  Patrick Battiston                  ##   19, St-Etienne 
+ (4)  DF  Maxime Bossis                      ##   37, Nantes 
+ (5)  DF  Gérard Janvion                     ##   32, St-Etienne 
+ (6)  DF  Christian Lopez                    ##   35, St-Etienne 
+ (7)  DF  Philippe Mahut                     ##    4, Metz 
+ (8)  DF  Marius Trésor                      ##   53, Girondins Bordeaux 
+
+ (9)  MF  Bernard Genghini                   ##    8, Sochaux 
+(10)  MF  Michel Platini                     ##   35, St-Etienne 
+(11)  MF  René Girard                        ##    2, Girondins Bordeaux 
+(12)  MF  Alain Giresse                      ##   14, Girondins Bordeaux 
+(13)  MF  Jean-François Larios               ##   15, St-Etienne 
+(14)  MF  Jean Tigana                        ##   13, Girondins Bordeaux 
+(15)  MF  Bruno Bellone                      ##    6, AS Monaco 
+(18)  MF  Dominique Rocheteau                ##   24, Paris St-Germain 
+(19)  MF  Didier Six                         ##   36, VfB Stuttgart 
+
+(16)  FW  Alain Couriol                      ##    7, AS Monaco 
+(17)  FW  Bernard Lacombe                    ##   29, Girondins Bordeaux 
+(20)  FW  Gérard Soler                       ##    7, Girondins Bordeaux 
+

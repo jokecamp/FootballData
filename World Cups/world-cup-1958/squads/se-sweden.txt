@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+ (1)  GK  Kalle Svensson                     ##   67, Helsingborg 
+(12)  GK  Tore Svensson                      ##    1, Malmö 
+(16)  GK  Ingemar Haraldsson                 ##    0, Elfsborg 
+
+ (2)  DF  Orvar Bergmark                     ##   37, Örebro 
+ (3)  DF  Sven Axbom                         ##   16, Norrköping 
+(13)  DF  Prawitz Öberg                      ##    2, Malmö 
+
+ (4)  MF  Nils Liedholm                      ##   18, AC Milan 
+ (5)  MF  Åke Johansson                      ##   16, Norrköping 
+ (6)  MF  Sigge Parling                      ##   11, Djurgården 
+(14)  MF  Bengt Gustavsson                   ##   42, Atalanta 
+(15)  MF  Reino Börjesson                    ##    3, Norrby 
+(17)  MF  Olle Håkansson                     ##    7, Norrköping 
+
+ (7)  FW  Kurt Hamrin                        ##   20, Padova 
+ (8)  FW  Gunnar Gren                        ##   49, Örgryte 
+ (9)  FW  Agne Simonsson                     ##    3, Örgryte 
+(10)  FW  Arne Selmosson                     ##    1, Lazio 
+(11)  FW  Lennart Skoglund                   ##    4, Inter Milan 
+(18)  FW  Gösta Löfgren                      ##   38, Motala 
+(19)  FW  Henry Källgren                     ##    5, Norrköping 
+(20)  FW  Bror Mellberg                      ##    3, AIK 
+(21)  FW  Bengt Berndtsson                   ##    4, Göteborg 
+(22)  FW  Ove Olsson                         ##    1, Göteborg 
+

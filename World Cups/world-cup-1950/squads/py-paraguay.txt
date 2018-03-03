@@ -1,0 +1,30 @@
+##############################
+# Paraguay (PAR) 
+#   - 22 players
+
+   -  GK  Marcelino Vargas                   ##    -, Libertad 
+   -  GK  Pablo Centurión                    ##    -, Cerro Porteño 
+
+   -  DF  Manuel Gavilán                     ##    -, Libertad 
+   -  DF  Elioro Paredes                     ##    -, Sportivo Luqueño 
+   -  DF  Antonio Cabrera                    ##    -, Libertad 
+   -  DF  Casiano Céspedes                   ##    -, Olimpia 
+   -  DF  Alberto González                   ##    -, Olimpia 
+
+   -  MF  Castor Cantero                     ##    -, Olimpia 
+   -  MF  Victoriano Leguizamón              ##    -, Olimpia 
+   -  MF  Armando González                   ##    -, Guaraní 
+   -  MF  Melanio Baez                       ##    -, Nacional 
+
+   -  FW  Atilio López                       ##    -, Nacional 
+   -  FW  Lorenzo Calonga                    ##    -, Guaraní 
+   -  FW  Juan Cañete                        ##    -, Presidente Hayes 
+   -  FW  Ángel Berni                        ##    -, Sportivo Luqueño 
+   -  FW  César López Fretes                 ##    -, Olimpia 
+   -  FW  Hilarión Osorio                    ##    -, Sportivo Luqueño 
+   -  FW  Marcial Avalos                     ##    -, Cerro Porteño 
+   -  FW  Darío Saguier                      ##    -, Cerro Porteño 
+   -  FW  Francisco Sosa                     ##    -, Cerro Porteño 
+   -  FW  Leongino Unzaim                    ##    -, Olimpia 
+   -  FW  Enrique Avalos                     ##    -, Cerro Porteño 
+

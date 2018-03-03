@@ -1,0 +1,30 @@
+##############################
+# Bulgaria (BUL) 
+#   - 22 players
+
+ (1)  GK  Borislav Mikhailov                 ##   21, Vitosha Sofia 
+(22)  GK  Iliya Valov                        ##   10, Vratsa 
+
+ (3)  DF  Nikolay Arabov                     ##   36, Sliven 
+ (4)  DF  Petar Petrov                       ##   28, Vitosha Sofia 
+ (5)  DF  Georgi Dimitrov                    ##   57, Sredec Sofia 
+(13)  DF  Aleksandar Markov                  ##   13, Spartak Pleven 
+(21)  DF  Iliya Dyakov                       ##    3, Dobrudzha Tolbuchin 
+
+ (2)  MF  Nasko Sirakov                      ##   17, Vitosha Sofia 
+ (6)  MF  Andrey Zhelyazkov                  ##   46, Strasbourg 
+ (8)  MF  Ayan Sadakov                       ##   35, Lokomotiv Plovdiv 
+(10)  MF  Zhivko Gospodinov                  ##   24, Spartak Varna 
+(11)  MF  Plamen Getov                       ##   16, Spartak Pleven 
+(12)  MF  Radoslav Zdravkov                  ##   61, Sredec Sofia 
+(15)  MF  Georgi Yordanov                    ##    4, Vitosha Sofia 
+(17)  MF  Hristo Kolev                       ##    6, Lokomotiv Plovdiv 
+(19)  MF  Atanas Pashev                      ##   11, Trakia Plovdiv 
+
+ (7)  FW  Bozhidar Iskrenov                  ##   25, Vitosha Sofia 
+ (9)  FW  Stoycho Mladenov                   ##   48, Sredec Sofia 
+(14)  FW  Plamen Markov                      ##   33, Metz 
+(16)  FW  Vasil Dragolov                     ##    2, Beroe Stara Zagora 
+(18)  FW  Boycho Velichkov                   ##   24, Lokomotiv Sofia 
+(20)  FW  Kostadin Kostadinov                ##   37, Trakia Plovdiv 
+

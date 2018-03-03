@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+ (1)  GK  Marco Pascolo                      ##   18, Servette 
+(12)  GK  Stephan Lehmann                    ##    6, Sion 
+(22)  GK  Martin Brunner                     ##   33, Grasshopper 
+
+ (2)  DF  Marc Hottiger                      ##   41, Sion 
+ (3)  DF  Yvan Quentin                       ##   14, Sion 
+ (5)  DF  Alain Geiger                       ##   94, Sion 
+ (8)  DF  Christophe Ohrel                   ##   28, Servette 
+(13)  DF  André Egli                         ##   79, Servette 
+(18)  DF  Martin Rueda                       ##    5, Lucerne 
+(19)  DF  Jürg Studer                        ##    5, Zürich 
+
+ (4)  MF  Dominique Herr                     ##   39, Sion 
+ (7)  MF  Alain Sutter                       ##   46, 1. FC Nürnberg 
+(10)  MF  Ciriaco Sforza                     ##   23, 1. FC Kaiserslautern 
+(16)  MF  Thomas Bickel                      ##   41, Grasshopper 
+(17)  MF  Sébastien Fournier                 ##    4, Sion 
+(20)  MF  Patrick Sylvestre                  ##    9, Lausanne 
+(21)  MF  Thomas Wyss                        ##    5, Aarau 
+
+ (6)  FW  Georges Bregy                      ##   50, Young Boys 
+ (9)  FW  Adrian Knup                        ##   34, VfB Stuttgart 
+(11)  FW  Stéphane Chapuisat                 ##   36, Borussia Dortmund 
+(14)  FW  Nestor Subiat                      ##    7, Lugano 
+(15)  FW  Marco Grassi                       ##    9, Servette 
+

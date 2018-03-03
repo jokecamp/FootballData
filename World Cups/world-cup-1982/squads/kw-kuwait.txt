@@ -1,0 +1,30 @@
+##############################
+# Kuwait (KUW) 
+#   - 22 players
+
+ (1)  GK  Ahmed Al-Tarabulsi                 ##    -, Kuwait SC 
+(21)  GK  Adam Marjam                        ##    -, Kazma SC 
+(22)  GK  Jasem Bahman                       ##    -, Al-Qadsia SC 
+
+ (2)  DF  Naeem Saad                         ##    -, Al Tadamun SC 
+ (3)  DF  Mahboub Juma'a                     ##    -, Al-Salmiya SC 
+ (4)  DF  Jamal Al-Qabendi                   ##    -, Kazma SC 
+ (5)  DF  Waleed Al-Jasem                    ##    -, Kuwait SC 
+(13)  DF  Mubarak Marzouq                    ##    -, Al Tadamun SC 
+(14)  DF  Abdullah Mayouf                    ##    -, Kazma SC 
+(15)  DF  Sami Al-Hashash                    ##    -, Al-Arabi SC 
+(17)  DF  Hamoud Al-Shemmari                 ##    -, Kazma SC 
+
+ (6)  MF  Saad Al-Houti                      ##    -, Kuwait SC 
+ (8)  MF  Abdullah Al-Buloushi               ##    -, Al-Arabi SC 
+(11)  MF  Nassir Al-Ghanim                   ##    -, Kazma SC 
+(12)  MF  Yussef Al-Suwayed                  ##    -, Kazma SC 
+(18)  MF  Mohammed Karam                     ##    -, Al-Arabi SC 
+
+ (7)  FW  Fathi Kameel                       ##    -, Al Tadamun SC 
+ (9)  FW  Jasem Yaqoub                       ##    -, Al-Qadsia SC 
+(10)  FW  Abdulaziz Al-Anberi                ##    -, Kuwait SC 
+(16)  FW  Faisal Al-Dakhil                   ##    -, Al-Qadsia SC 
+(19)  FW  Muayad Al-Haddad                   ##    -, Khaitan SC 
+(20)  FW  Abdulaziz Al-Buloushi              ##    -, Al-Qadsia SC 
+

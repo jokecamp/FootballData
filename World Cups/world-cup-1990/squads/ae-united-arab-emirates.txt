@@ -1,0 +1,30 @@
+##############################
+# United Arab Emirates (UAE) 
+#   - 22 players
+
+ (1)  GK  Abdullah Musa                      ##    -, Al-Ahli 
+(17)  GK  Muhsin Musabah                     ##    -, Sharjah 
+(22)  GK  Abdulqadir Hassan                  ##    -, Al Shabab 
+
+ (2)  DF  Khalil Ghanim                      ##    -, Al Khaleej Club 
+ (4)  DF  Mubarak Ghanim                     ##    -, Al Khaleej Club 
+ (6)  DF  Abdulrahman Mohamed                ##    -, Al-Nasr 
+(15)  DF  Ibrahim Meer                       ##    -, Sharjah 
+(16)  DF  Mohamed Salim                      ##    -, Al-Ahli 
+(19)  DF  Eissa Meer                         ##    -, Sharjah 
+(20)  DF  Yousuf Hussain                     ##    -, Sharjah 
+(21)  DF  Abdulrahman Al-Haddad              ##    -, Sharjah 
+
+ (3)  MF  Ali Thani Jumaa                    ##    -, Sharjah 
+ (5)  MF  Abdualla Sultan                    ##    -, Al Khaleej Club 
+ (8)  MF  Khalid Ismaïl                      ##    -, Al-Nasr 
+(12)  MF  Hussain Ghuloum                    ##    -, Sharjah 
+(13)  MF  Hassan Mohamed                     ##    -, Al-Wasl 
+(14)  MF  Nasir Khamees                      ##    -, Al-Wasl 
+(18)  MF  Fahad Abdulrahman                  ##    -, Al-Wasl 
+
+ (7)  FW  Fahad Khamees                      ##    -, Al-Wasl 
+ (9)  FW  Abdulaziz Mohamed                  ##    -, Sharjah 
+(10)  FW  Adnan Al Talyani                   ##    -, Al Shaab 
+(11)  FW  Zuhair Bakhit                      ##    -, Al-Wasl 
+

@@ -1,0 +1,31 @@
+##############################
+# Ireland (IRL) 
+#   - 23 players
+
+ (1)  GK  Shay Given                         ##   39, Newcastle United 
+(16)  GK  Dean Kiely                         ##    6, Charlton Athletic 
+(23)  GK  Alan Kelly                         ##   34, Blackburn Rovers 
+
+ (2)  DF  Steve Finnan                       ##   13, Fulham 
+ (3)  DF  Ian Harte                          ##   40, Leeds United 
+ (4)  DF  Kenny Cunningham                   ##   38, Wimbledon 
+ (5)  DF  Steve Staunton                     ##   98, Aston Villa 
+(14)  DF  Gary Breen                         ##   43, Coventry City 
+(15)  DF  Richard Dunne                      ##   14, Manchester City 
+(18)  DF  Gary Kelly                         ##   46, Leeds United 
+(20)  DF  Andrew O'Brien                     ##    5, Newcastle United 
+
+ (6)  MF  Roy Keane                          ##   58, Manchester United 
+ (7)  MF  Jason McAteer                      ##   47, Sunderland 
+ (8)  MF  Matt Holland                       ##   19, Ipswich Town 
+ (9)  MF  Damien Duff                        ##   26, Blackburn Rovers 
+(11)  MF  Kevin Kilbane                      ##   31, Sunderland 
+(12)  MF  Mark Kinsella                      ##   28, Charlton Athletic 
+(21)  MF  Steven Reid                        ##    5, Millwall 
+(22)  MF  Lee Carsley                        ##   19, Everton 
+
+(10)  FW  Robbie Keane                       ##   33, Leeds United 
+(13)  FW  David Connolly                     ##   33, Wimbledon 
+(17)  FW  Niall Quinn                        ##   88, Sunderland 
+(19)  FW  Clinton Morrison                   ##    7, Crystal Palace 
+

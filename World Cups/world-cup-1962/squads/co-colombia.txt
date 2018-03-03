@@ -1,0 +1,30 @@
+##############################
+# Colombia (COL) 
+#   - 22 players
+
+ (1)  GK  Efraín Sánchez                     ##   27, Independiente Medellín 
+ (2)  GK  Achito Vivas                       ##    0, Deportivo Pereira 
+
+ (3)  DF  Francisco Zuluaga                  ##    9, Independiente Santa Fe 
+ (4)  DF  Aníbal Alzate                      ##    4, Deportes Tolima 
+ (5)  DF  Jaime González                     ##    2, América de Cali 
+ (6)  DF  Ignacio Calle                      ##    8, Atlético Nacional 
+ (7)  DF  Carlos Aponte                      ##    1, Independiente Santa Fe 
+ (8)  DF  Héctor Echeverry                   ##    5, Independiente Medellín 
+(11)  DF  Óscar López                        ##    4, Once Caldas 
+
+ (9)  MF  Jaime Silva                        ##   12, Independiente Santa Fe 
+(10)  MF  Rolando Serrano                    ##    5, América de Cali 
+(12)  MF  Hernando Tovar                     ##    0, Independiente Santa Fe 
+(15)  MF  Marcos Coll                        ##    4, América de Cali 
+
+(13)  FW  Germán Aceros                      ##    6, Deportivo Cali 
+(14)  FW  Luis Paz                           ##    0, América de Cali 
+(16)  FW  Ignacio Pérez                      ##    4, Once Caldas 
+(17)  FW  Marino Klinger                     ##    3, Millonarios 
+(18)  FW  Eusebio Escobar                    ##    2, Deportivo Pereira 
+(19)  FW  Delio Gamboa                       ##    9, Millonarios 
+(20)  FW  Antonio Rada                       ##    2, Deportivo Pereira 
+(21)  FW  Héctor González                    ##    3, Independiente Santa Fe 
+(22)  FW  Jairo Arias                        ##    4, Atlético Nacional 
+

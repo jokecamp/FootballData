@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Joël Bats                          ##   23, Paris Saint-Germain 
+(21)  GK  Philippe Bergeroo                  ##    3, Toulouse 
+(22)  GK  Albert Rust                        ##    0, Sochaux 
+
+ (2)  DF  Manuel Amoros                      ##   32, AS Monaco 
+ (3)  DF  William Ayache                     ##    9, Nantes 
+ (4)  DF  Patrick Battiston                  ##   42, Bordeaux 
+ (5)  DF  Michel Bibard                      ##    5, Paris Saint-Germain 
+ (6)  DF  Maxime Bossis                      ##   69, Racing Paris 
+ (7)  DF  Yvon Le Roux                       ##   18, Nantes 
+ (8)  DF  Thierry Tusseau                    ##   18, Bordeaux 
+
+ (9)  MF  Luis Fernández                     ##   28, Paris Saint-Germain 
+(10)  MF  Michel Platini                     ##   63, Juventus 
+(11)  MF  Jean-Marc Ferreri                  ##   14, Auxerre 
+(12)  MF  Alain Giresse                      ##   41, Bordeaux 
+(13)  MF  Bernard Genghini                   ##   25, AS Monaco 
+(14)  MF  Jean Tigana                        ##   40, Bordeaux 
+(15)  MF  Philippe Vercruysse                ##    2, Lens 
+
+(16)  FW  Bruno Bellone                      ##   24, AS Monaco 
+(17)  FW  Jean-Pierre Papin                  ##    1, Club Brugge 
+(18)  FW  Dominique Rocheteau                ##   45, Paris Saint-Germain 
+(19)  FW  Yannick Stopyra                    ##   16, Toulouse 
+(20)  FW  Daniel Xuereb                      ##    3, Lens 
+

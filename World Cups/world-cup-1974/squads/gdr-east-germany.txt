@@ -1,0 +1,30 @@
+##############################
+# East Germany (GDR) 
+#   - 22 players
+
+ (1)  GK  Jürgen Croy                        ##   43, Sachsenring Zwickau 
+(21)  GK  Wolfgang Blochwitz                 ##   17, Carl Zeiss Jena 
+(22)  GK  Werner Friese                      ##    0, Lokomotiv Leipzig 
+
+ (2)  DF  Lothar Kurbjuweit                  ##   30, Carl Zeiss Jena 
+ (3)  DF  Bernd Bransch                      ##   52, Carl Zeiss Jena 
+ (4)  DF  Konrad Weise                       ##   23, Carl Zeiss Jena 
+ (5)  DF  Joachim Fritsche                   ##    7, Lokomotiv Leipzig 
+(12)  DF  Siegmar Wätzlich                   ##    9, Dynamo Dresden 
+(18)  DF  Gerd Kische                        ##   13, Hansa Rostock 
+
+ (6)  MF  Rüdiger Schnuphase                 ##    4, Rot-Weiss Erfurt 
+ (7)  MF  Jürgen Pommerenke                  ##   10, FC Magdeburg 
+(10)  MF  Hans-Jürgen Kreische               ##   36, Dynamo Dresden 
+(13)  MF  Reinhard Lauck                     ##   14, Dynamo Berlin 
+(16)  MF  Harald Irmscher                    ##   29, Carl Zeiss Jena 
+(17)  MF  Erich Hamann                       ##    1, FC Vorwärts Frankfurt/Oder 
+(19)  MF  Wolfgang Seguin                    ##   13, FC Magdeburg 
+
+ (8)  FW  Wolfram Löwe                       ##   33, Lokomotiv Leipzig 
+ (9)  FW  Peter Ducke                        ##   57, Carl Zeiss Jena 
+(11)  FW  Joachim Streich                    ##   26, Hansa Rostock 
+(14)  FW  Jürgen Sparwasser                  ##   28, FC Magdeburg 
+(15)  FW  Eberhard Vogel                     ##   53, Carl Zeiss Jena 
+(20)  FW  Martin Hoffmann                    ##    3, FC Magdeburg 
+

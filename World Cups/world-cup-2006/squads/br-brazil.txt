@@ -1,0 +1,31 @@
+##############################
+# Brazil (BRA) 
+#   - 23 players
+
+ (1)  GK  Dida                               ##   86, Milan (ITA)
+(12)  GK  Rogério Ceni                       ##   15, São Paulo (BRA)
+(22)  GK  Júlio César                        ##   11, Internazionale (ITA)
+
+ (2)  DF  Cafu                               ##  138, Milan (ITA)
+ (3)  DF  Lúcio                              ##   50, Bayern Munich (GER)
+ (4)  DF  Juan                               ##   38, Bayer Leverkusen (GER)
+ (6)  DF  Roberto Carlos                     ##  121, Real Madrid (ESP)
+(13)  DF  Cicinho                            ##   10, Real Madrid (ESP)
+(14)  DF  Luisão                             ##   19, Benfica (POR)
+(15)  DF  Cris                               ##   16, Lyon (FRA)
+(16)  DF  Gilberto                           ##    9, Hertha BSC (GER)
+
+ (5)  MF  Emerson                            ##   70, Juventus (ITA)
+ (8)  MF  Kaká                               ##   38, Milan (ITA)
+(10)  MF  Ronaldinho                         ##   63, Barcelona (ESP)
+(11)  MF  Zé Roberto                         ##   79, Bayern Munich (GER)
+(17)  MF  Gilberto Silva                     ##   36, Arsenal (ENG)
+(18)  MF  Mineiro                            ##    2, São Paulo (BRA)
+(19)  MF  Juninho                            ##   37, Lyon (FRA)
+(20)  MF  Ricardinho                         ##   19, Corinthians (BRA)
+
+ (7)  FW  Adriano                            ##   32, Internazionale (ITA)
+ (9)  FW  Ronaldo                            ##   92, Real Madrid (ESP)
+(21)  FW  Fred                               ##    3, Lyon (FRA)
+(23)  FW  Robinho                            ##   23, Real Madrid (ESP)
+

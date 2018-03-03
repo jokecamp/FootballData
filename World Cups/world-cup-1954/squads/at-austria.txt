@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Kurt Schmied                       ##    1, First Vienna FC 
+(15)  GK  Franz Pelikan                      ##    3, Wacker Wien 
+(16)  GK  Walter Zeman                       ##   38, Rapid Wien 
+
+ (2)  DF  Gerhard Hanappi                    ##   37, Rapid Wien 
+ (4)  DF  Leopold Barschandt                 ##    2, Wiener Sportclub 
+ (5)  DF  Ernst Ocwirk                       ##   44, Austria Wien 
+(20)  DF  Paul Halla                         ##    3, Rapid Wien 
+
+ (3)  MF  Ernst Happel                       ##   39, Rapid Wien 
+ (6)  MF  Karl Koller                        ##    7, First Vienna FC 
+(10)  MF  Erich Probst                       ##    8, Rapid Wien 
+(12)  MF  Karl Stotz                         ##   10, Austria Wien 
+(13)  MF  Walter Kollmann                    ##    3, Wacker Wien 
+(14)  MF  Karl Giesser                       ##    1, Rapid Wien 
+(17)  MF  Alfred Teinitzer                   ##    0, Linzer ASK 
+(18)  MF  Johann Riegler                     ##    3, Rapid Wien 
+
+ (7)  FW  Robert Körner                      ##    -, Rapid Wien 
+ (8)  FW  Walter Schleger                    ##    8, Austria Wien 
+ (9)  FW  Theodor Wagner                     ##   28, Wacker Wien 
+(11)  FW  Alfred Körner                      ##    -, Rapid Wien 
+(19)  FW  Robert Dienst                      ##   16, Rapid Wien 
+(21)  FW  Ernst Stojaspal                    ##   27, Austria Wien 
+(22)  FW  Walter Haummer                     ##    4, Wacker Wien 
+

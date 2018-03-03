@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+   -  GK  Giuseppe Moro                      ##    2, Torino 
+   -  GK  Giuseppe Casari                    ##    2, Atalanta 
+   -  GK  Lucidio Sentimenti                 ##    7, Lazio 
+
+   -  DF  Attilio Giovannini                 ##    4, Internazionale 
+   -  DF  Carlo Annovazzi                    ##   10, Milan 
+   -  DF  Zeffiro Furiassi                   ##    0, Lazio 
+   -  DF  Ivano Blason                       ##    0, Triestina 
+   -  DF  Osvaldo Fattori                    ##    3, Internazionale 
+
+   -  MF  Leandro Remondini                  ##    0, Lazio 
+   -  MF  Giacomo Mari                       ##    3, Juventus 
+   -  MF  Carlo Parola                       ##    9, Juventus 
+   -  MF  Augusto Magli                      ##    0, Fiorentina 
+   -  MF  Omero Tognon                       ##    4, Milan 
+
+   -  FW  Benito Lorenzi                     ##    5, Internazionale 
+   -  FW  Riccardo Carapellese               ##   11, Torino 
+   -  FW  Emilio Caprile                     ##    2, Atalanta 
+   -  FW  Ermes Muccinelli                   ##    2, Juventus 
+   -  FW  Egisto Pandolfini                  ##    0, Fiorentina 
+   -  FW  Gino Cappello                      ##    3, Bologna 
+   -  FW  Aldo Campatelli                    ##    6, Internazionale 
+   -  FW  Giampiero Boniperti                ##    6, Juventus 
+   -  FW  Amedeo Amadei                      ##    6, Internazionale 
+

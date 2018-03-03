@@ -1,0 +1,30 @@
+##############################
+# Algeria (ALG) 
+#   - 22 players
+
+ (1)  GK  Mehdi Cerbah                       ##    -, RS Kouba 
+(21)  GK  Mourad Amara                       ##    -, JE Tizi-Ouzou 
+(22)  GK  Yacine Bentalaa                    ##    -, MA Hussein Dey 
+
+ (2)  DF  Mahmoud Guendouz                   ##    -, MA Hussein Dey 
+ (3)  DF  Mustafa Kouici                     ##    -, MA Hussein Dey 
+ (4)  DF  Nourredine Kourichi                ##    -, Girondins Bordeaux 
+ (5)  DF  Chaabane Merzekane                 ##    -, MA Hussein Dey 
+(12)  DF  Salah Larbes                       ##    -, JE Tizi-Ouzou 
+(16)  DF  Faouzi Mansouri                    ##    -, Montpellier SC 
+(17)  DF  Abdelkader Horr                    ##    -, DNC Alger 
+
+ (6)  MF  Ali Bencheikh                      ##    -, MP Alger 
+ (8)  MF  Ali Fergani                        ##    -, JE Tizi-Ouzou 
+(10)  MF  Lakhdar Belloumi                   ##    -, GCR Mascara 
+(13)  MF  Hocine Yahi                        ##    -, CM Belcourt 
+(14)  MF  Djamel Zidane                      ##    -, KV Kortrijk 
+(15)  MF  Mustapha Dahleb                    ##    -, Paris St-Germain 
+(18)  MF  Karim Maroc                        ##    -, Tours FC 
+(19)  MF  Djamel Tlemçani                    ##    -, Stade de Reims 
+
+ (7)  FW  Salah Assad                        ##    -, RS Kouba 
+ (9)  FW  Tedj Bensaoula                     ##    -, MP Oran 
+(11)  FW  Rabah Madjer                       ##    -, MA Hussein Dey 
+(20)  FW  Abdelmajid Bourebbou               ##    -, Stade Lavallois 
+

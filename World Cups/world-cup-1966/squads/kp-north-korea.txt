@@ -1,0 +1,30 @@
+##############################
+# North Korea (PRK) 
+#   - 22 players
+
+ (1)  GK  Lee Chang-Myung                    ##    -, Kigwancha 
+ (9)  GK  Lee Keun-Hak                       ##    -, Moranbong 
+
+ (2)  DF  Pak Li-Sup                         ##    -, Amrokgang 
+ (3)  DF  Shin Yung-Kyoo                     ##    -, Moranbong 
+ (5)  DF  Lim Zoong-Sun                      ##    -, Moranbong 
+(13)  DF  Oh Yoon-Kyung                      ##    -, 8 August 
+(14)  DF  Ha Jung-Won                        ##    -, 8 August 
+(19)  DF  Kim Yung-Kil                       ##    -, Rodongja 
+(20)  DF  Ryoo Chang-Kil                     ##    -, Kigwancha 
+
+ (4)  MF  Kang Bong-Chil                     ##    -, 8 February 
+ (6)  MF  Im Seung-Hwi                       ##    -, 8 February 
+(11)  MF  Han Bong-Zin                       ##    -, 8 February 
+(16)  MF  Li Dong-Woon                       ##    -, Rodongja 
+(17)  MF  Kim Bong-Hwan                      ##    -, Kigwancha 
+(18)  MF  Ke Seung-Woon                      ##    -, Rodongja 
+(21)  MF  An Se-Bok                          ##    -, Amrokgang 
+
+ (7)  FW  Pak Doo-Ik                         ##    -, Moranbong 
+ (8)  FW  Pak Seung-Zin                      ##    -, Moranbong 
+(10)  FW  Kang Ryong-Woon                    ##    -, Rodongja 
+(12)  FW  Kim Seung-Il                       ##    -, Moranbong 
+(15)  FW  Yang Seung-Kook                    ##    -, Kigwancha 
+(22)  FW  Li Chi-An                          ##    -, 8 February 
+

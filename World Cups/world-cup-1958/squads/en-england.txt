@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Colin McDonald                     ##    1, Burnley 
+(12)  GK  Eddie Hopkinson                    ##    6, Bolton Wanderers 
+(13)  GK  Alan Hodgkinson                    ##    4, Sheffield United 
+
+ (2)  DF  Don Howe                           ##    7, West Bromwich Albion 
+ (3)  DF  Tommy Banks                        ##    1, Bolton Wanderers 
+(14)  DF  Peter Sillett                      ##    3, Chelsea 
+(15)  DF  Ronnie Clayton                     ##   20, Blackburn Rovers 
+(16)  DF  Maurice Norman                     ##    0, Tottenham Hotspur 
+
+ (4)  MF  Eddie Clamp                        ##    1, Wolverhampton Wanderers 
+ (5)  MF  Billy Wright                       ##   92, Wolverhampton Wanderers 
+ (6)  MF  Bill Slater                        ##    6, Wolverhampton Wanderers 
+(20)  MF  Bobby Charlton                     ##    3, Manchester United 
+
+ (7)  FW  Bryan Douglas                      ##    7, Blackburn Rovers 
+ (8)  FW  Bobby Robson                       ##    2, West Bromwich Albion 
+ (9)  FW  Derek Kevan                        ##    7, West Bromwich Albion 
+(10)  FW  Johnny Haynes                      ##   20, Fulham 
+(11)  FW  Tom Finney                         ##   73, Preston North End 
+(17)  FW  Peter Brabrook                     ##    0, Chelsea 
+(18)  FW  Peter Broadbent                    ##    0, Wolverhampton Wanderers 
+(19)  FW  Bobby Smith                        ##    0, Tottenham Hotspur 
+(21)  FW  Alan A'Court                       ##    1, Liverpool 
+(22)  FW  Maurice Setters                    ##    0, West Bromwich Albion 
+

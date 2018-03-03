@@ -1,0 +1,31 @@
+##############################
+# Czech Republic (CZE) 
+#   - 23 players
+
+ (1)  GK  Petr Čech                          ##   41, Chelsea (ENG)
+(16)  GK  Jaromír Blažek                     ##   11, Sparta Prague (CZE)
+(23)  GK  Antonín Kinský                     ##    5, Saturn Ramenskoye (RUS)
+
+ (2)  DF  Zdeněk Grygera                     ##   41, Ajax (NED)
+ (3)  DF  Pavel Mareš                        ##   10, Zenit St. Petersburg (RUS)
+ (5)  DF  Radoslav Kováč                     ##    6, Spartak Moscow (RUS)
+ (6)  DF  Marek Jankulovski                  ##   48, Milan (ITA)
+(13)  DF  Martin Jiránek                     ##   24, Spartak Moscow (RUS)
+(21)  DF  Tomáš Ujfaluši                     ##   48, Fiorentina (ITA)
+(22)  DF  David Rozehnal                     ##   22, Paris Saint-Germain (FRA)
+
+ (4)  MF  Tomáš Galásek                      ##   49, Ajax (NED)
+ (7)  MF  Libor Sionko                       ##   17, Austria Wien (AUT)
+ (8)  MF  Karel Poborský                     ##  115, Dynamo České Budějovice (CZE)
+(10)  MF  Tomáš Rosický                      ##   54, Borussia Dortmund (GER)
+(11)  MF  Pavel Nedvěd                       ##   87, Juventus (ITA)
+(14)  MF  David Jarolím                      ##    3, Hamburg (GER)
+(19)  MF  Jan Polák                          ##   18, Nuremberg (GER)
+(20)  MF  Jaroslav Plašil                    ##   14, AS Monaco (FRA)
+
+ (9)  FW  Jan Koller                         ##   68, Borussia Dortmund (GER)
+(12)  FW  Vratislav Lokvenc                  ##   72, Red Bull Salzburg (AUT)
+(15)  FW  Milan Baroš                        ##   49, Aston Villa (ENG)
+(17)  FW  Jiří Štajner                       ##   21, Hannover 96 (GER)
+(18)  FW  Marek Heinz                        ##   28, Galatasaray (TUR)
+

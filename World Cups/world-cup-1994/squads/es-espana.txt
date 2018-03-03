@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  Andoni Zubizarreta                 ##   87, Barcelona 
+(13)  GK  Santiago Cañizares                 ##    4, Celta Vigo 
+(22)  GK  Julen Lopetegui                    ##    1, Logroñés 
+
+ (2)  DF  Albert Ferrer                      ##   16, Barcelona 
+ (3)  DF  Jorge Otero                        ##    5, Celta Vigo 
+ (4)  DF  Francisco José Camarasa            ##    9, Valencia 
+ (5)  DF  Abelardo                           ##    9, Sporting Gijón 
+(12)  DF  Sergi                              ##    2, Barcelona 
+(17)  DF  Voro                               ##    4, Deportivo La Coruña 
+(18)  DF  Rafael Alkorta                     ##   19, Real Madrid 
+(20)  DF  Miguel Ángel Nadal                 ##   11, Barcelona 
+
+ (6)  MF  Fernando Hierro                    ##   23, Real Madrid 
+ (7)  MF  Ion Andoni Goikoetxea              ##   22, Barcelona 
+ (8)  MF  Julen Guerrero                     ##    9, Athletic Bilbao 
+ (9)  MF  Josep Guardiola                    ##   11, Barcelona 
+(10)  MF  José Mari Bakero                   ##   25, Barcelona 
+(11)  MF  Txiki Begiristain                  ##   21, Barcelona 
+(15)  MF  José Luis Caminero                 ##    4, Atlético Madrid 
+(21)  MF  Luis Enrique                       ##    5, Real Madrid 
+
+(14)  FW  Juanele                            ##    4, Sporting Gijón 
+(16)  FW  Felipe Miñambres                   ##    4, Tenerife 
+(19)  FW  Julio Salinas                      ##   43, Barcelona 
+

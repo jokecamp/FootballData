@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Sepp Maier                         ##   19, Bayern Munich 
+(21)  GK  Manfred Manglitz                   ##    4, FC Köln 
+(22)  GK  Horst Wolter                       ##   12, Eintracht Braunschweig 
+
+ (2)  DF  Horst-Dieter Höttges               ##   49, Werder Bremen 
+ (3)  DF  Karl-Heinz Schnellinger            ##   41, AC Milan 
+ (5)  DF  Willi Schulz                       ##   61, Hamburg 
+ (7)  DF  Berti Vogts                        ##   24, Borussia M'gladbach 
+(11)  DF  Klaus Fichtel                      ##   13, Schalke 04 
+(15)  DF  Bernd Patzke                       ##   19, Hertha Berlin 
+(18)  DF  Klaus-Dieter Sieloff               ##    9, Borussia M'gladbach 
+
+ (4)  MF  Franz Beckenbauer                  ##   38, Bayern Munich 
+ (6)  MF  Wolfgang Weber                     ##   37, FC Köln 
+(12)  MF  Wolfgang Overath                   ##   49, FC Köln 
+(16)  MF  Max Lorenz                         ##   19, Eintracht Braunschweig 
+(19)  MF  Peter Dietrich                     ##    1, Borussia M'gladbach 
+
+ (8)  FW  Helmut Haller                      ##   32, Juventus 
+ (9)  FW  Uwe Seeler                         ##   65, Hamburg 
+(10)  FW  Sigfried Held                      ##   27, Borussia Dortmund 
+(13)  FW  Gerd Müller                        ##   19, Bayern Munich 
+(14)  FW  Reinhard Libuda                    ##   15, Schalke 04 
+(17)  FW  Hannes Löhr                        ##   13, FC Köln 
+(20)  FW  Jürgen Grabowski                   ##    7, Eintracht Frankfurt 
+

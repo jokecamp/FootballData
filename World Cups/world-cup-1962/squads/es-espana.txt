@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  José Araquistáin                   ##    5, Real Madrid 
+ (2)  GK  Salvador Sadurní                   ##    0, CF Barcelona 
+ (3)  GK  Carmelo                            ##   10, Atlético de Bilbao 
+
+ (7)  DF  Luis María Echeberría              ##    0, Atlético de Bilbao 
+(10)  DF  Sígfrid Gràcia                     ##    8, CF Barcelona 
+(11)  DF  Feliciano Rivilla                  ##    9, Atlético Madrid 
+(13)  DF  Pachín                             ##    4, Real Madrid 
+(16)  DF  Severino Reija                     ##    0, Real Zaragoza 
+(17)  DF  Rodri                              ##    0, CF Barcelona 
+(19)  DF  José Santamaría                    ##   14, Real Madrid 
+(20)  DF  Joan Segarra                       ##   24, CF Barcelona 
+
+ (5)  MF  Luis del Sol                       ##   10, Real Madrid 
+ (8)  MF  Jesús Garay                        ##   28, CF Barcelona 
+(22)  MF  Martí Vergés                       ##   10, CF Barcelona 
+
+ (4)  FW  Enrique Collar                     ##   10, Atlético Madrid 
+ (6)  FW  Alfredo Di Stéfano                 ##   31, Real Madrid 
+ (9)  FW  Francisco Gento                    ##   26, Real Madrid 
+(12)  FW  Joaquín Peiró                      ##    7, Atlético Madrid 
+(14)  FW  Ferenc Puskás                      ##    1, Real Madrid 
+(15)  FW  Eulogio Martínez                   ##    7, CF Barcelona 
+(18)  FW  Adelardo                           ##    0, Atlético Madrid 
+(21)  FW  Luis Suárez                        ##   22, Internazionale Milano F.C. 
+

@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+ (1)  GK  Ronnie Hellström                   ##    -, 1. FC Kaiserslautern 
+(12)  GK  Göran Hagberg                      ##    -, Östers IF 
+(17)  GK  Jan Möller                         ##    -, Malmö FF 
+
+ (2)  DF  Hasse Borg                         ##    -, Eintracht Braunschweig 
+ (3)  DF  Roy Andersson                      ##    -, Malmö FF 
+ (5)  DF  Ingemar Erlandsson                 ##    -, Malmö FF 
+(13)  DF  Magnus Andersson                   ##    -, Malmö FF 
+(19)  DF  Kent Karlsson                      ##    -, IFK Eskilstuna 
+(20)  DF  Roland Andersson                   ##    -, Malmö FF 
+
+ (4)  MF  Björn Nordqvist                    ##    -, IFK Göteborg 
+ (6)  MF  Staffan Tapper                     ##    -, Malmö FF 
+ (7)  MF  Anders Linderoth                   ##    -, Olympique de Marseille 
+ (9)  MF  Lennart Larsson                    ##    -, FC Schalke 04 
+(14)  MF  Ronald Åhman                       ##    -, Örebro SK 
+(18)  MF  Olle Nordin                        ##    -, IFK Göteborg 
+
+ (8)  FW  Bo Larsson                         ##    -, Malmö FF 
+(10)  FW  Thomas Sjöberg                     ##    -, Malmö FF 
+(11)  FW  Benny Wendt                        ##    -, 1. FC Kaiserslautern 
+(15)  FW  Torbjörn Nilsson                   ##    -, IFK Göteborg 
+(16)  FW  Conny Torstensson                  ##    -, FC Zürich 
+(21)  FW  Sanny Åslund                       ##    -, AIK Fotboll 
+(22)  FW  Ralf Edström                       ##    -, IFK Göteborg 
+

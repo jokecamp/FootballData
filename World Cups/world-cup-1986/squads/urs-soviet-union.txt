@@ -1,0 +1,30 @@
+##############################
+# Soviet Union (URS) 
+#   - 22 players
+
+ (1)  GK  Rinat Dasayev                      ##   58, Spartak Moscow 
+(16)  GK  Viktor Chanov                      ##    1, Dynamo Kyiv 
+(22)  GK  Serhiy Krakovskiy                  ##    0, Dniporo Dnipropetrovsk 
+
+ (2)  DF  Volodymyr Bezsonov                 ##   53, Dynamo Kyiv 
+ (3)  DF  Aleksandr Chivadze                 ##   42, Dinamo Tbilisi 
+ (4)  DF  Gennady Morozov                    ##    9, Spartak Moscow 
+ (5)  DF  Anatoliy Demyanenko                ##   46, Dynamo Kyiv 
+ (6)  DF  Aleksandr Bubnov                   ##   32, Spartak Moscow 
+(10)  DF  Oleh Kuznetsov                     ##    5, Dynamo Kyiv 
+(15)  DF  Nikolay Larionov                   ##   15, Zenit Leningrad 
+(21)  DF  Vasiliy Rats                       ##    2, Dynamo Kyiv 
+
+ (7)  MF  Ivan Yaremchuk                     ##    2, Dynamo Kyiv 
+ (8)  MF  Pavel Yakovenko                    ##    1, Dynamo Kyiv 
+ (9)  MF  Aleksandr Zavarov                  ##    7, Dynamo Kyiv 
+(12)  MF  Andriy Bal                         ##   17, Dynamo Kyiv 
+(13)  MF  Gennadiy Litovchenko               ##   18, Dnipro Dnipropetrovsk 
+(17)  MF  Vadym Yevtushenko                  ##    7, Dynamo Kyiv 
+(20)  MF  Sergei Aleinikov                   ##   23, Dinamo Minsk 
+
+(11)  FW  Oleh Blokhin                       ##  104, Dynamo Kyiv 
+(14)  FW  Sergey Rodionov                    ##   17, Spartak Moscow 
+(18)  FW  Oleh Protasov                      ##   19, Dnipro Dnipropetrovsk 
+(19)  FW  Ihor Belanov                       ##    4, Dynamo Kyiv 
+

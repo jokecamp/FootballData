@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Fred Martin                        ##    2, Aberdeen 
+(14)  GK  John Anderson                      ##    1, Leicester City 
+
+ (2)  DF  Willie Cunningham                  ##    3, Preston North End 
+ (3)  DF  Jock Aird                          ##    2, Burnley 
+ (4)  DF  Bobby Evans                        ##   17, Celtic 
+ (5)  DF  Tommy Docherty                     ##    5, Preston North End 
+(18)  DF  Alex Wilson                        ##    1, Portsmouth 
+
+ (6)  MF  Jimmy Davidson                     ##    2, Partick Thistle 
+ (7)  MF  Doug Cowie                         ##    6, Dundee 
+(17)  MF  David Mathers                      ##    1, Partick Thistle 
+
+ (8)  FW  John Mackenzie                     ##    4, Partick Thistle 
+ (9)  FW  George Hamilton                    ##    5, Aberdeen 
+(10)  FW  Allan Brown                        ##   11, Blackpool 
+(11)  FW  Neil Mochan                        ##    1, Celtic 
+(12)  FW  Willie Fernie                      ##    1, Celtic 
+(13)  FW  Willie Ormond                      ##    3, Hibernian 
+(15)  FW  Bobby Johnstone                    ##   11, Hibernian 
+(16)  FW  Jackie Henderson                   ##    4, Portsmouth 
+(19)  FW  Jimmy Binning                      ##    0, Queen of the South 
+(20)  FW  Bobby Combe                        ##    3, Hibernian 
+(21)  FW  Ernie Copland                      ##    0, Raith Rovers 
+(22)  FW  Ian McMillan                       ##    3, Airdrieonians 
+

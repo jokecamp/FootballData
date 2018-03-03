@@ -1,0 +1,31 @@
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Roberto Abbondanzieri              ##   22, Boca Juniors (ARG)
+(12)  GK  Leo Franco                         ##    3, Atlético Madrid (ESP)
+(23)  GK  Óscar Ustari                       ##    0, Independiente (ARG)
+
+ (2)  DF  Roberto Ayala                      ##  100, Valencia (ESP)
+ (3)  DF  Juan Pablo Sorín                   ##   71, Villarreal (ESP)
+ (4)  DF  Fabricio Coloccini                 ##   23, Deportivo La Coruña (ESP)
+ (6)  DF  Gabriel Heinze                     ##   29, Manchester United (ENG)
+(13)  DF  Lionel Scaloni                     ##    6, Deportivo La Coruña (ESP)
+(15)  DF  Gabriel Milito                     ##   15, Real Zaragoza (ESP)
+(17)  DF  Leandro Cufré                      ##    2, Roma (ITA)
+(21)  DF  Nicolás Burdisso                   ##    8, Internazionale (ITA)
+
+ (5)  MF  Esteban Cambiasso                  ##   22, Internazionale (ITA)
+ (8)  MF  Javier Mascherano                  ##   15, Corinthians (BRA)
+(10)  MF  Juan Román Riquelme                ##   31, Villarreal (ESP)
+(16)  MF  Pablo Aimar                        ##   40, Valencia (ESP)
+(18)  MF  Maxi Rodríguez                     ##   13, Atlético Madrid (ESP)
+(22)  MF  Lucho González                     ##   27, Porto (POR)
+
+ (7)  FW  Javier Saviola                     ##   31, Barcelona (ESP)
+ (9)  FW  Hernán Crespo                      ##   55, Chelsea (ENG)
+(11)  FW  Carlos Tevez                       ##   21, Corinthians (BRA)
+(14)  FW  Rodrigo Palacio                    ##    2, Boca Juniors (ARG)
+(19)  FW  Lionel Messi                       ##    7, Barcelona (ESP)
+(20)  FW  Julio Cruz                         ##   15, Internazionale (ITA)
+

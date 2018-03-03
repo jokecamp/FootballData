@@ -1,0 +1,31 @@
+##############################
+# France (FRA) 
+#   - 23 players
+
+ (1)  GK  Ulrich Ramé                        ##   11, Bordeaux 
+(16)  GK  Fabien Barthez                     ##   47, Manchester United 
+(23)  GK  Grégory Coupet                     ##    1, Lyon 
+
+ (2)  DF  Vincent Candela                    ##   36, Roma 
+ (3)  DF  Bixente Lizarazu                   ##   74, Bayern Munich 
+ (5)  DF  Philippe Christanval               ##    4, Barcelona 
+ (8)  DF  Marcel Desailly                    ##   93, Chelsea 
+(13)  DF  Mikaël Silvestre                   ##   10, Manchester United 
+(15)  DF  Lilian Thuram                      ##   73, Juventus 
+(18)  DF  Frank Leboeuf                      ##   47, Marseille 
+(19)  DF  Willy Sagnol                       ##    9, Bayern Munich 
+
+ (4)  MF  Patrick Vieira                     ##   52, Arsenal 
+ (6)  MF  Youri Djorkaeff                    ##   79, Bolton Wanderers 
+ (7)  MF  Claude Makélélé                    ##   14, Real Madrid 
+(10)  MF  Zinedine Zidane                    ##   73, Real Madrid 
+(14)  MF  Alain Boghossian                   ##   26, Parma 
+(17)  MF  Emmanuel Petit                     ##   57, Chelsea 
+(22)  MF  Johan Micoud                       ##   14, Parma 
+
+ (9)  FW  Djibril Cissé                      ##    1, Auxerre 
+(11)  FW  Sylvain Wiltord                    ##   38, Arsenal 
+(12)  FW  Thierry Henry                      ##   35, Arsenal 
+(20)  FW  David Trezeguet                    ##   36, Juventus 
+(21)  FW  Christophe Dugarry                 ##   51, Bordeaux 
+

@@ -1,0 +1,30 @@
+##############################
+# Morocco (MAR) 
+#   - 22 players
+
+ (1)  GK  Khalil Azmi                        ##    -, Raja Casablanca 
+(12)  GK  Said Dghay                         ##    -, Olympique Casablanca 
+(22)  GK  Zakaria Alaoui                     ##    -, KAC Marrakesh 
+
+ (2)  DF  Nacer Abdellah                     ##    -, Waregem 
+ (3)  DF  Abdelkrim El Hadrioui              ##    -, FAR Rabat 
+ (4)  DF  Tahar El Khalej                    ##    -, KAC Marrakesh 
+ (5)  DF  Smahi Triki                        ##    -, Châteauroux 
+ (6)  DF  Noureddine Naybet                  ##    -, Nantes 
+(11)  DF  Rachid Daoudi                      ##    -, WAC Casablanca 
+(13)  DF  Ahmed Bahja                        ##    -, KAC Marrakesh 
+(14)  DF  Ahmed Masbahi                      ##    -, KAC Marrakesh 
+(18)  DF  Rachid Neqrouz                     ##    -, Mouloudia Oujda 
+
+ (7)  MF  Mustapha Hadji                     ##    -, Nancy 
+ (8)  MF  Rachid Azzouzi                     ##    -, MSV Duisburg 
+(10)  MF  Mustafa El Haddaoui                ##    -, Angers 
+(15)  MF  El Arbi Hababi                     ##    -, Olympique Khouribga 
+(20)  MF  Hassan Kachloul                    ##    -, Nîmes 
+(21)  MF  Mohammed Samadi                    ##    -, FAR Rabat 
+
+ (9)  FW  Mohammed Chaouch                   ##    -, Nice 
+(16)  FW  Hassan Nader                       ##    -, Farense 
+(17)  FW  Abdeslam Laghrissi                 ##    -, Raja Casablanca 
+(19)  FW  Abdelmajid Bouyboud                ##    -, WAC Casablanca 
+

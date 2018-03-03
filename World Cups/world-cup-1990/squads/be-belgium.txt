@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+ (1)  GK  Michel Preud'homme                 ##    -, Mechelen 
+(12)  GK  Gilbert Bodart                     ##    -, Standard Liège 
+(20)  GK  Filip De Wilde                     ##    -, Anderlecht 
+
+ (2)  DF  Eric Gerets                        ##    -, PSV 
+ (3)  DF  Philippe Albert                    ##    -, Mechelen 
+ (4)  DF  Lei Clijsters                      ##    -, Mechelen 
+ (6)  DF  Marc Emmers                        ##    -, Mechelen 
+ (7)  DF  Stéphane Demol                     ##    -, Porto 
+(13)  DF  Georges Grün                       ##    -, Anderlecht 
+(16)  DF  Michel De Wolf                     ##    -, Kortrijk 
+(17)  DF  Pascal Plovie                      ##    -, Club Brugge 
+
+ (5)  MF  Bruno Versavel                     ##    -, Mechelen 
+ (8)  MF  Franky Van Der Elst                ##    -, Club Brugge 
+(10)  MF  Enzo Scifo                         ##    -, Auxerre 
+(15)  MF  Jean-François De Sart              ##    -, FC Liège 
+(18)  MF  Lorenzo Staelens                   ##    -, Club Brugge 
+(21)  MF  Marc Wilmots                       ##    -, Mechelen 
+(22)  MF  Patrick Vervoort                   ##    -, Anderlecht 
+
+ (9)  FW  Marc Degryse                       ##    -, Anderlecht 
+(11)  FW  Jan Ceulemans                      ##    -, Club Brugge 
+(14)  FW  Nico Claesen                       ##    -, Royal Antwerp 
+(19)  FW  Marc Van Der Linden                ##    -, Anderlecht 
+

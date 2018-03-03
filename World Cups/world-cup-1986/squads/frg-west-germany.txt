@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Harald Schumacher                  ##    -, Köln 
+(12)  GK  Uli Stein                          ##    -, Hamburg 
+(22)  GK  Eike Immel                         ##    -, Borussia Dortmund 
+
+ (2)  DF  Hans-Peter Briegel                 ##    -, Verona 
+ (3)  DF  Andreas Brehme                     ##    -, Kaiserslautern 
+ (4)  DF  Karlheinz Förster                  ##    -, Stuttgart 
+ (5)  DF  Matthias Herget                    ##    -, Bayer Uedingen 
+ (6)  DF  Norbert Eder                       ##    -, Bayern Munich 
+(14)  DF  Thomas Berthold                    ##    -, Eintracht Frankfurt 
+(15)  DF  Klaus Augenthaler                  ##    -, Bayern Munich 
+(17)  DF  Ditmar Jakobs                      ##    -, Hamburg 
+
+ (7)  MF  Pierre Littbarski                  ##    -, Köln 
+ (8)  MF  Lothar Matthäus                    ##    -, Bayern Munich 
+(10)  MF  Felix Magath                       ##    -, Hamburg 
+(13)  MF  Karl Allgöwer                      ##    -, Stuttgart 
+(16)  MF  Olaf Thon                          ##    -, Schalke 04 
+(18)  MF  Uwe Rahn                           ##    -, Borussia Mönchengladbach 
+(21)  MF  Wolfgang Rolff                     ##    -, Hamburg 
+
+ (9)  FW  Rudi Völler                        ##    -, Werder Bremen 
+(11)  FW  Karl-Heinz Rummenigge              ##    -, Internazionale 
+(19)  FW  Klaus Allofs                       ##    -, Köln 
+(20)  FW  Dieter Hoeneß                      ##    -, Bayern Munich 
+

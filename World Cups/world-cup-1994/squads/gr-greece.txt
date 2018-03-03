@@ -1,0 +1,30 @@
+##############################
+# Greece (GRE) 
+#   - 22 players
+
+ (1)  GK  Antonis Minou                      ##    -, Apollon Smyrnis 
+(15)  GK  Christos Karkamanis                ##    -, Aris Thessaloniki 
+(20)  GK  Elias Atmatsidis                   ##    -, AEK 
+
+ (2)  DF  Stratos Apostolakis                ##    -, Panathinaikos 
+ (3)  DF  Thanasis Kolitsidakis              ##    -, Panathinaikos 
+ (4)  DF  Stelios Manolas                    ##    -, AEK 
+ (5)  DF  Ioannis Kalitzakis                 ##    -, Panathinaikos 
+(13)  DF  Vaios Karagiannis                  ##    -, AEK 
+(18)  DF  Kiriakos Karataidis                ##    -, Olympiacos 
+(22)  DF  Alexis Alexiou                     ##    -, PAOK 
+
+ (6)  MF  Giotis Tsalouchidis                ##    -, Olympiacos 
+ (8)  MF  Nikos Nioplias                     ##    -, Panathinaikos 
+(10)  MF  Tasos Mitropoulos                  ##    -, AEK 
+(11)  MF  Nikos Tsiantakis                   ##    -, Olympiacos 
+(12)  MF  Spiros Marangos                    ##    -, Panathinaikos 
+(17)  MF  Minas Hantzidis                    ##    -, Olympiacos 
+(19)  MF  Savvas Kofidis                     ##    -, Aris Thessaloniki 
+
+ (7)  FW  Dimitris Saravakos                 ##    -, Panathinaikos 
+ (9)  FW  Nikos Machlas                      ##    -, OFI 
+(14)  FW  Vasilis Dimitriadis                ##    -, AEK 
+(16)  FW  Alexis Alexoudis                   ##    -, OFI 
+(21)  FW  Alekos Alexandris                  ##    -, Olympiacos 
+

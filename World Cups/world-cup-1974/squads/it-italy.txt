@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Dino Zoff                          ##   32, Juventus 
+(12)  GK  Enrico Albertosi                   ##   34, Cagliari 
+(22)  GK  Luciano Castellini                 ##    0, Torino 
+
+ (2)  DF  Luciano Spinosi                    ##   16, Juventus 
+ (3)  DF  Giacinto Facchetti                 ##   73, Internazionale 
+ (5)  DF  Francesco Morini                   ##    6, Juventus 
+ (6)  DF  Tarcisio Burgnich                  ##   63, Internazionale 
+(13)  DF  Giuseppe Sabadini                  ##    4, Milan 
+(14)  DF  Mauro Bellugi                      ##    7, Internazionale 
+(15)  DF  Giuseppe Wilson                    ##    1, Lazio 
+
+ (4)  MF  Romeo Benetti                      ##   15, Milan 
+ (7)  MF  Sandro Mazzola                     ##   67, Internazionale 
+ (8)  MF  Fabio Capello                      ##   16, Juventus 
+(10)  MF  Gianni Rivera                      ##   58, Milan 
+(16)  MF  Antonio Juliano                    ##   17, Napoli 
+(17)  MF  Luciano Re Cecconi                 ##    0, Lazio 
+(18)  MF  Franco Causio                      ##   10, Juventus 
+
+ (9)  FW  Giorgio Chinaglia                  ##    9, Lazio 
+(11)  FW  Luigi Riva                         ##   40, Cagliari 
+(19)  FW  Pietro Anastasi                    ##   20, Juventus 
+(20)  FW  Roberto Boninsegna                 ##   18, Internazionale 
+(21)  FW  Paolo Pulici                       ##    3, Torino 
+

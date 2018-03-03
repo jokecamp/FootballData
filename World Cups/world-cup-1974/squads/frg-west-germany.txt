@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Sepp Maier                         ##   50, Bayern Munich 
+(21)  GK  Norbert Nigbur                     ##    2, Schalke 
+(22)  GK  Wolfgang Kleff                     ##    6, Borussia M'gladbach 
+
+ (2)  DF  Berti Vogts                        ##   24, Borussia M'gladbach 
+ (3)  DF  Paul Breitner                      ##   19, Bayern Munich 
+ (4)  DF  Hans-Georg Schwarzenbeck           ##   23, Bayern Munich 
+ (5)  DF  Franz Beckenbauer                  ##   78, Bayern Munich 
+ (6)  DF  Horst-Dieter Höttges               ##   65, Werder Bremen 
+(20)  DF  Helmut Kremers                     ##    5, Schalke 
+
+ (7)  MF  Herbert Wimmer                     ##   23, Borussia M'gladbach 
+ (8)  MF  Bernhard Cullmann                  ##   12, FC Köln 
+(10)  MF  Günter Netzer                      ##   34, Real Madrid 
+(12)  MF  Wolfgang Overath                   ##   74, FC Köln 
+(15)  MF  Heinz Flohe                        ##   14, FC Köln 
+(16)  MF  Rainer Bonhof                      ##    4, Borussia M'gladbach 
+(19)  MF  Jupp Kapellmann                    ##    3, Bayern Munich 
+
+ (9)  FW  Jürgen Grabowski                   ##   38, Eintracht Frankfurt 
+(11)  FW  Jupp Heynckes                      ##   28, Borussia M'gladbach 
+(13)  FW  Gerd Müller                        ##   55, Bayern Munich 
+(14)  FW  Uli Hoeneß                         ##   23, Bayern Munich 
+(17)  FW  Bernd Hölzenbein                   ##    4, Eintracht Frankfurt 
+(18)  FW  Dieter Herzog                      ##    2, Fortuna Düsseldorf 
+

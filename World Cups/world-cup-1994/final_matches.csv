@@ -1,0 +1,17 @@
+match_num,round/group,date,stadium,where,home,penalties,extra_time_score,fulltime_score,away
+37,Round of 16,2 July,Soldier Field,Chicago,Germany,,,3-2,Belgium
+38,Round of 16,2 July,RFK Stadium,Washington,Spain,,,3-0,Switzerland
+39,Round of 16,3 July,Cotton Bowl,Dallas,Saudi Arabia,,,1-3,Sweden
+40,Round of 16,3 July,Rose Bowl,Pasadena,Romania,,,3-2,Argentina
+41,Round of 16,4 July,Citrus Bowl,Orlando,Netherlands,,,2-0,Ireland
+42,Round of 16,4 July,Stanford Stadium,Stanford,Brazil,,,1-0,United States
+43,Round of 16,5 July,Foxboro Stadium,Foxborough,Nigeria,,,1-1,Italy
+44,Round of 16,5 July,Giants Stadium,East Rutherford,Mexico,1-3,,1-1,Bulgaria
+45,Quarter-finals,9 July,Foxboro Stadium,Foxborough,Italy,,,2-1,Spain
+46,Quarter-finals,9 July,Cotton Bowl,Dallas,Netherlands,,,2-3,Brazil
+47,Quarter-finals,10 July,Giants Stadium,East Rutherford,Bulgaria,,,2-1,Germany
+48,Quarter-finals,10 July,Stanford Stadium,Stanford,Romania,4-5,2-2,1-1,Sweden
+49,Semi-finals,13 July,Giants Stadium,East Rutherford,Bulgaria,,,1-2,Italy
+50,Semi-finals,13 July,Rose Bowl,Pasadena,Sweden,,,0-1,Brazil
+51,Third-place match,16 July,Rose Bowl,Pasadena,Sweden,,,4-0,Bulgaria
+52,Final,17 July,Rose Bowl,Pasadena,Brazil,3-2,0-0,0-0,Italy

@@ -1,0 +1,29 @@
+##############################
+# England (ENG) 
+#   - 21 players
+
+   -  GK  Bert Williams                      ##    7, Wolverhampton Wanderers 
+   -  GK  Ted Ditchburn                      ##    2, Tottenham Hotspur 
+
+   -  DF  Laurie Scott                       ##   17, Arsenal 
+   -  DF  Jim Taylor                         ##    0, Fulham 
+   -  DF  Alf Ramsey                         ##    5, Tottenham Hotspur 
+   -  DF  John Aston                         ##   14, Manchester United 
+   -  DF  Bill Eckersley                     ##    0, Blackburn Rovers 
+   -  DF  Billy Wright                       ##   29, Wolverhampton Wanderers 
+
+   -  MF  Laurie Hughes                      ##    0, Liverpool 
+   -  MF  Eddie Baily                        ##    0, Tottenham Hotspur 
+   -  MF  Willie Watson                      ##    2, Sunderland 
+   -  MF  Henry Cockburn                     ##   10, Manchester United 
+   -  MF  Jimmy Dickinson                    ##    7, Portsmouth 
+   -  MF  Bill Nicholson                     ##    0, Tottenham Hotspur 
+
+   -  FW  Jimmy Mullen                       ##    4, Wolverhampton Wanderers 
+   -  FW  Stan Mortensen                     ##   18, Blackpool 
+   -  FW  Jackie Milburn                     ##    7, Newcastle United 
+   -  FW  Roy Bentley                        ##    4, Chelsea 
+   -  FW  Tom Finney                         ##   25, Preston North End 
+   -  FW  Wilf Mannion                       ##   19, Middlesbrough 
+   -  FW  Stanley Matthews                   ##   30, Blackpool 
+

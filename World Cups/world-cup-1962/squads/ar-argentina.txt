@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Antonio Roma                       ##    -, Boca Juniors 
+(12)  GK  Rogelio Domínguez                  ##    -, River Plate 
+
+ (2)  DF  José Ramos Delgado                 ##    -, River Plate 
+ (3)  DF  Silvio Marzolini                   ##    -, Boca Juniors 
+ (4)  DF  Alberto Sainz                      ##    -, River Plate 
+ (6)  DF  Raúl Páez                          ##    -, San Lorenzo 
+(14)  DF  Alberto Mariotti                   ##    -, San Lorenzo 
+(15)  DF  Rubén Navarro                      ##    -, Independiente 
+(17)  DF  Rafael Albrecht                    ##    -, Estudiantes de La Plata 
+(18)  DF  Vladislao Cap                      ##    -, River Plate 
+
+ (5)  MF  Federico Sacchi                    ##    -, Racing 
+(13)  MF  Oscar Rossi                        ##    -, San Lorenzo 
+(16)  MF  Antonio Rattín                     ##    -, Boca Juniors 
+(21)  MF  Ramón Abeledo                      ##    -, Independiente 
+
+ (7)  FW  Héctor Facundo                     ##    -, San Lorenzo 
+ (8)  FW  Martín Pando                       ##    -, River Plate 
+ (9)  FW  Marcelo Pagani                     ##    -, River Plate 
+(10)  FW  José Sanfilippo                    ##    -, San Lorenzo 
+(11)  FW  Raúl Belén                         ##    -, Racing 
+(19)  FW  Rubén Sosa                         ##    -, Racing 
+(20)  FW  Juan Carlos Oleniak                ##    -, Argentinos Juniors 
+(22)  FW  Alberto González                   ##    -, Boca Juniors 
+

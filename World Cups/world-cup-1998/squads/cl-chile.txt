@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+ (1)  GK  Nelson Tapia                       ##   34, Universidad Católica 
+(12)  GK  Marcelo Ramírez                    ##   19, Colo-Colo 
+(22)  GK  Carlos Tejas                       ##    0, Coquimbo Unido 
+
+ (2)  DF  Cristián Castañeda                 ##   24, Universidad de Chile 
+ (3)  DF  Ronald Fuentes                     ##   41, Universidad de Chile 
+ (4)  DF  Francisco Rojas                    ##   12, Colo-Colo 
+ (5)  DF  Javier Margas                      ##   52, Universidad Católica 
+ (6)  DF  Pedro Reyes                        ##   24, Colo-Colo 
+(14)  DF  Miguel Ramírez                     ##   38, Universidad Católica 
+(15)  DF  Moisés Villarroel                  ##   10, Santiago Wanderers 
+(16)  DF  Mauricio Aros                      ##    4, Universidad de Chile 
+
+ (7)  MF  Nelson Parraguez                   ##   37, Universidad Católica 
+ (8)  MF  Clarence Acuña                     ##   28, Universidad de Chile 
+(10)  MF  José Luis Sierra                   ##   31, Colo-Colo 
+(17)  MF  Marcelo Vega                       ##   29, MetroStars (USA)
+(18)  MF  Luis Musrri                        ##   27, Universidad de Chile 
+(19)  MF  Fernando Cornejo                   ##   27, Cobreloa 
+(20)  MF  Fabián Estay                       ##   48, Toluca 
+
+ (9)  FW  Iván Zamorano                      ##   42, Internazionale 
+(11)  FW  Marcelo Salas                      ##   39, River Plate 
+(13)  FW  Manuel Neira                       ##    5, Colo-Colo 
+(21)  FW  Rodrigo Barrera                    ##   22, Universidad de Chile 
+

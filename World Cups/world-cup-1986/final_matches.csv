@@ -1,0 +1,17 @@
+match_num,round/group,date,stadium,where,home,penalties,extra_time_score,fulltime_score,away
+37,Round of 16,15 June,Estadio Azteca,Mexico City,Mexico,,,2-0,Bulgaria
+38,Round of 16,15 June,Estadio Nou Camp,León,Soviet Union,,3-4,2-2,Belgium
+39,Round of 16,16 June,Estadio Cuauhtémoc,Puebla,Argentina,,,1-0,Uruguay
+40,Round of 16,16 June,Estadio Jalisco,Guadalajara,Brazil,,,4-0,Poland
+41,Round of 16,17 June,Estadio Olímpico Universitario,Mexico City,Italy,,,0-2,France
+42,Round of 16,17 June,Estadio Universitario,Monterrey,Morocco,,,0-1,West Germany
+43,Round of 16,18 June,Estadio Azteca,Mexico City,England,,,3-0,Paraguay
+44,Round of 16,18 June,Estadio La Corregidora,Querétaro,Denmark,,,1-5,Spain
+45,Quarter-finals,21 June,Estadio Jalisco,Guadalajara,Brazil,3-4,1-1,1-1,France
+46,Quarter-finals,21 June,Estadio Universitario,Monterrey,West Germany,4-1,0-0,0-0,Mexico
+47,Quarter-finals,22 June,Estadio Cuauhtémoc,Puebla,Spain,4-5,1-1,1-1,Belgium
+48,Quarter-finals,22 June,Estadio Azteca,Mexico City,Argentina,,,2-1,England
+49,Semi-finals,25 June,Estadio Azteca,Mexico City,Argentina,,,2-0,Belgium
+50,Semi-finals,25 June,Estadio Jalisco,Guadalajara,France,,,0-2,West Germany
+51,Semi-finals,28 June,Estadio Cuauhtémoc,Puebla,France,,4-2,2-2,Belgium
+52,Final,29 June,Estadio Azteca,Mexico City,Argentina,,,3-2,West Germany

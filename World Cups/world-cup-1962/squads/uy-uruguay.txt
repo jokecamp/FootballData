@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+ (1)  GK  Roberto Sosa                       ##   11, Nacional 
+(12)  GK  Luis Maidana                       ##    9, Peñarol 
+
+ (2)  DF  Horacio Troche                     ##   16, Nacional 
+ (3)  DF  Emilio Álvarez                     ##    5, Nacional 
+ (4)  DF  Omar Méndez                        ##    -, Nacional 
+(14)  DF  William Martínez                   ##   44, Peñarol 
+(15)  DF  Rubén Soria                        ##    2, Cerro 
+(17)  DF  Rubén González                     ##   10, Nacional 
+(18)  DF  Eliseo Álvarez                     ##    0, Nacional 
+
+ (5)  MF  Néstor Gonçalves                   ##   25, Peñarol 
+ (6)  MF  Pedro Cubilla                      ##    6, Rampla Juniors 
+ (8)  MF  Julio César Cortés                 ##    1, Sud América 
+(10)  MF  Pedro Rocha                        ##    3, Peñarol 
+(16)  MF  Edgardo González                   ##   21, Peñarol 
+(19)  MF  Ronald Langón                      ##    5, Defensor 
+
+ (7)  FW  Domingo Pérez                      ##    9, Nacional 
+ (9)  FW  José Sasía                         ##   35, Peñarol 
+(11)  FW  Luis Cubilla                       ##   12, Peñarol 
+(20)  FW  Mario Ludovico Bergara             ##   12, Nacional 
+(21)  FW  Héctor Silva                       ##    6, Danubio 
+(22)  FW  Ángel Cabrera                      ##    3, Peñarol 
+(23)  FW  Guillermo Escalada                 ##   29, Nacional 
+

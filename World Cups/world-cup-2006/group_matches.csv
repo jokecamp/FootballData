@@ -1,0 +1,49 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,half_time_score,away
+1,Group A,Jun 9,Allianz Arena,München,Germany,4,2,2-1,Costa Rica
+2,Group A,Jun 9,Veltins-Arena,Gelsenkirchen,Poland,0,2,0-1,Ecuador
+17,Group A,Jun 14,Signal Iduna Park,Dortmund,Germany,1,0,0-0,Poland
+18,Group A,Jun 15,AOL Arena,Hamburg,Ecuador,3,0,1-0,Costa Rica
+33,Group A,Jun 20,Olympiastadion,Berlin,Ecuador,0,3,0-2,Germany
+34,Group A,Jun 20,AWD-Arena,Hannover,Costa Rica,1,2,1-1,Poland
+3,Group B,Jun 10,Commerzbank-Arena,Frankfurt,England,1,0,1-0,Paraguay
+4,Group B,Jun 10,Signal Iduna Park,Dortmund,Trinidad and Tobago,0,0,,Sweden
+19,Group B,Jun 15,Frankenstadion,Nürnberg,England,2,0,0-0,Trinidad and Tobago
+20,Group B,Jun 15,Olympiastadion,Berlin,Sweden,1,0,0-0,Paraguay
+35,Group B,Jun 20,RheinEnergieStadion,Köln,Sweden,2,2,0-1,England
+36,Group B,Jun 20,Fritz-Walter-Stadion,Kaiserslautern,Paraguay,2,0,1-0,Trinidad and Tobago
+5,Group C,Jun 10,AOL Arena,Hamburg,Argentina,2,1,2-0,Côte d'Ivoire
+6,Group C,Jun 11,Zentralstadion,Leipzig,Serbia and Montenegro,0,1,0-1,Netherlands
+21,Group C,Jun 16,Veltins-Arena,Gelsenkirchen,Argentina,6,0,3-0,Serbia and Montenegro
+22,Group C,Jun 16,Gottlieb-Daimler-Stadion,Stuttgart,Netherlands,2,1,2-1,Côte d'Ivoire
+37,Group C,Jun 21,Commerzbank-Arena,Frankfurt,Netherlands,0,0,,Argentina
+38,Group C,Jun 21,Allianz Arena,München,Côte d'Ivoire,3,2,1-2,Serbia and Montenegro
+7,Group D,Jun 11,Frankenstadion,Nürnberg,Mexico,3,1,1-1,Iran
+8,Group D,Jun 11,RheinEnergieStadion,Köln,Angola,0,1,0-1,Portugal
+23,Group D,Jun 16,AWD-Arena,Hannover,Mexico,0,0,,Angola
+24,Group D,Jun 17,Commerzbank-Arena,Frankfurt,Portugal,2,0,0-0,Iran
+39,Group D,Jun 21,Veltins-Arena,Gelsenkirchen,Portugal,2,1,2-1,Mexico
+40,Group D,Jun 21,Zentralstadion,Leipzig,Iran,1,1,0-0,Angola
+9,Group E,Jun 12,AWD-Arena,Hannover,Italy,2,0,1-0,Ghana
+10,Group E,Jun 12,Veltins-Arena,Gelsenkirchen,United States,0,3,0-2,Czech Republic
+25,Group E,Jun 17,Fritz-Walter-Stadion,Kaiserslautern,Italy,1,1,1-1,United States
+26,Group E,Jun 17,RheinEnergieStadion,Köln,Czech Republic,0,2,0-1,Ghana
+41,Group E,Jun 22,AOL Arena,Hamburg,Czech Republic,0,2,0-1,Italy
+42,Group E,Jun 22,Frankenstadion,Nürnberg,Ghana,2,1,2-1,United States
+11,Group F,Jun 13,Olympiastadion,Berlin,Brazil,1,0,1-0,Croatia
+12,Group F,Jun 12,Fritz-Walter-Stadion,Kaiserslautern,Australia,3,1,0-1,Japan
+27,Group F,Jun 18,Allianz Arena,München,Brazil,2,0,0-0,Australia
+28,Group F,Jun 18,Frankenstadion,Nürnberg,Japan,0,0,,Croatia
+43,Group F,Jun 22,Signal Iduna Park,Dortmund,Japan,1,4,1-1,Brazil
+44,Group F,Jun 22,Gottlieb-Daimler-Stadion,Stuttgart,Croatia,2,2,1-1,Australia
+13,Group G,Jun 13,Gottlieb-Daimler-Stadion,Stuttgart,France,0,0,,Switzerland
+14,Group G,Jun 13,Commerzbank-Arena,Frankfurt,South Korea,2,1,0-1,Togo
+29,Group G,Jun 18,Zentralstadion,Leipzig,France,1,1,1-0,South Korea
+30,Group G,Jun 19,Signal Iduna Park,Dortmund,Togo,0,2,0-1,Switzerland
+45,Group G,Jun 23,RheinEnergieStadion,Köln,Togo,0,2,0-0,France
+46,Group G,Jun 23,AWD-Arena,Hannover,Switzerland,2,0,1-0,South Korea
+15,Group H,Jun 14,Zentralstadion,Leipzig,Spain,4,0,2-0,Ukraine
+16,Group H,Jun 14,Allianz Arena,München,Tunisia,2,2,1-0,Saudi Arabia
+31,Group H,Jun 19,Gottlieb-Daimler-Stadion,Stuttgart,Spain,3,1,0-1,Tunisia
+32,Group H,Jun 19,AOL Arena,Hamburg,Saudi Arabia,0,4,0-2,Ukraine
+47,Group H,Jun 23,Fritz-Walter-Stadion,Kaiserslautern,Saudi Arabia,0,1,0-1,Spain
+48,Group H,Jun 23,Olympiastadion,Berlin,Ukraine,1,0,0-0,Tunisia

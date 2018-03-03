@@ -1,0 +1,31 @@
+##############################
+# Deutschland (GER) 
+#   - 23 players
+
+ (1)  GK  Oliver Kahn                        ##   45, Bayern Munich 
+(12)  GK  Jens Lehmann                       ##   14, Borussia Dortmund 
+(23)  GK  Hans-Jörg Butt                     ##    2, Bayer Leverkusen 
+
+ (2)  DF  Thomas Linke                       ##   34, Bayern Munich 
+ (3)  DF  Marko Rehmer                       ##   27, Hertha BSC 
+ (4)  DF  Frank Baumann                      ##   11, Werder Bremen 
+ (6)  DF  Christian Ziege                    ##   66, Tottenham Hotspur 
+(15)  DF  Sebastian Kehl                     ##    8, Borussia Dortmund 
+(21)  DF  Christoph Metzelder                ##    6, Borussia Dortmund 
+
+ (5)  MF  Carsten Ramelow                    ##   25, Bayer Leverkusen 
+ (8)  MF  Dietmar Hamann                     ##   40, Liverpool 
+(10)  MF  Lars Ricken                        ##   16, Borussia Dortmund 
+(13)  MF  Michael Ballack                    ##   22, Bayer Leverkusen 
+(16)  MF  Jens Jeremies                      ##   33, Bayern Munich 
+(17)  MF  Marco Bode                         ##   34, Werder Bremen 
+(18)  MF  Jörg Böhme                         ##    6, Schalke 04 
+(19)  MF  Bernd Schneider                    ##    9, Bayer Leverkusen 
+(22)  MF  Torsten Frings                     ##    8, Werder Bremen 
+
+ (7)  FW  Oliver Neuville                    ##   30, Bayer Leverkusen 
+ (9)  FW  Carsten Jancker                    ##   26, Bayern Munich 
+(11)  FW  Miroslav Klose                     ##   12, 1. FC Kaiserslautern 
+(14)  FW  Gerald Asamoah                     ##   11, Schalke 04 
+(20)  FW  Oliver Bierhoff                    ##   65, AS Monaco 
+

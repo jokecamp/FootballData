@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Friedrich Koncilia                 ##   60, Austria Wien 
+(21)  GK  Herbert Feurer                     ##    7, Rapid Wien 
+(22)  GK  Klaus Lindenberger                 ##    1, Linzer ASK 
+
+ (2)  DF  Bernd Krauss                       ##    5, Rapid Wien 
+ (3)  DF  Erich Obermayer                    ##   35, Austria Wien 
+ (4)  DF  Josef Degeorgi                     ##    3, Admira/Wacker 
+ (5)  DF  Bruno Pezzey                       ##   53, Eintracht Frankfurt 
+(14)  DF  Ernst Baumeister                   ##   11, Austria Wien 
+(16)  DF  Gerald Messlender                  ##    0, Admira/Wacker 
+(17)  DF  Johann Pregesbauer                 ##    4, Rapid Wien 
+(19)  DF  Heribert Weber                     ##   27, Rapid Wien 
+
+ (6)  MF  Roland Hattenberger                ##   47, SSW Innsbruck 
+ (8)  MF  Herbert Prohaska                   ##   57, Inter Milan 
+(10)  MF  Reinhold Hintermaier               ##   10, Nuremberg 
+(12)  MF  Anton Pichler                      ##    5, Sturm Graz 
+(15)  MF  Johann Dihanich                    ##    8, Austria Wien 
+
+ (7)  FW  Walter Schachner                   ##   33, Cesena 
+ (9)  FW  Hans Krankl                        ##   61, Rapid Wien 
+(11)  FW  Kurt Jara                          ##   55, Grasshopper-Club 
+(13)  FW  Max Hagmayr                        ##    6, VÖEST Linz 
+(18)  FW  Gernot Jurtin                      ##    5, Sturm Graz 
+(20)  FW  Kurt Welzl                         ##   19, Valencia 
+

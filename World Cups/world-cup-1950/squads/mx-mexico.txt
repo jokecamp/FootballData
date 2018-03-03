@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+   -  GK  Antonio Carbajal                   ##    -, España FC 
+   -  GK  Raúl Córdoba                       ##    -, San Sebastian Leon 
+
+   -  DF  José Antonio Roca                  ##    -, Necaxa 
+   -  DF  Felipe Zetter                      ##    -, Atlas 
+   -  DF  Rodrígo Ruíz                       ##    -, Deportivo Guadalajara 
+   -  DF  Alfonso Montemayor                 ##    -, FC Leon 
+   -  DF  Gregorio Gómez                     ##    -, Deportivo Guadalajara 
+   -  DF  Manuel Gutiérrez                   ##    -, Club América 
+
+   -  MF  Carlos Guevara                     ##    -, Asturias F.C. 
+   -  MF  Francisco Hernández                ##    -, Asturias F.C. 
+   -  MF  Antonio Flores                     ##    -, Atlas 
+   -  MF  Samuel Cuburu                      ##    -, FC Puebla 
+   -  MF  Mario Pérez                        ##    -, CD Marte 
+   -  MF  Mario Ochoa                        ##    -, Club América 
+   -  MF  Héctor Ortiz                       ##    -, CD Marte 
+
+   -  FW  José Naranjo                       ##    -, Oro Guadalajara 
+   -  FW  Max Prieto                         ##    -, Deportivo Guadalajara 
+   -  FW  Leonardo Navarro                   ##    -, FC Atlante 
+   -  FW  Horacio Casarín                    ##    -, España FC 
+   -  FW  Carlos Septién                     ##    -, España FC 
+   -  FW  José Velázquez                     ##    -, FC Veracruz 
+   -  FW  José Luis Borbolla                 ##    -, Club América 
+

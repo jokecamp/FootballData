@@ -1,0 +1,30 @@
+##############################
+# Cameroon (CMR) 
+#   - 22 players
+
+ (1)  GK  Jacques Songo'o                    ##    -, Deportivo La Coruña 
+(16)  GK  Bassey William Andem               ##    -, Boavista 
+(22)  GK  Alioum Boukar                      ##    -, Samsunspor 
+
+ (3)  DF  Pierre Wome                        ##    -, Lucchese 
+ (4)  DF  Rigobert Song                      ##    -, Metz 
+ (5)  DF  Raymond Kalla                      ##    -, Panahaiki 
+ (6)  DF  Pierre Njanka                      ##    -, Olympic Mvolyé 
+(12)  DF  Lauren Etame Mayer                 ##    -, Levante 
+(13)  DF  Patrice Abanda                     ##    -, Tonnerre Yaoundé 
+(17)  DF  Michel Pensée                      ##    -, Cheonan Ilhwa Chunma 
+
+ (2)  MF  Joseph Elanga                      ##    -, Tonnerre Yaoundé 
+ (8)  MF  Didier Angibeaud                   ##    -, Nice 
+(14)  MF  Augustine Simo                     ##    -, Saint-Étienne 
+(15)  MF  Joseph N'Do                        ##    -, Cottonsport Garoua 
+(19)  MF  Marcel Mahouvé                     ##    -, Montpellier 
+(20)  MF  Salomon Olembé                     ##    -, Nantes 
+
+ (7)  FW  François Omam-Biyik                ##    -, Sampdoria 
+ (9)  FW  Alphonse Tchami                    ##    -, Hertha BSC 
+(10)  FW  Patrick M'Boma                     ##    -, Gamba Osaka 
+(11)  FW  Samuel Eto'o                       ##    -, Leganés 
+(18)  FW  Samuel Ipoua                       ##    -, Rapid Wien 
+(21)  FW  Joseph-Désiré Job                  ##    -, Lyon 
+

@@ -1,0 +1,30 @@
+##############################
+# El Salvador (SLV) 
+#   - 22 players
+
+ (1)  GK  Raúl Magaña                        ##    -, CD FAS 
+(13)  GK  Tomas Pineda                       ##    -, Alianza FC 
+(20)  GK  Gualberto Fernández                ##    -, Atlante 
+
+ (2)  DF  Roberto Rivas                      ##    -, Alianza FC 
+ (3)  DF  Salvador Mariona                   ##    -, Alianza FC 
+ (4)  DF  Santiago Cortés                    ##    -, Atlético Marte 
+ (5)  DF  Saturnino Osorio                   ##    -, Águila 
+(14)  DF  Mauricio Manzano                   ##    -, CD FAS 
+(18)  DF  Guillermo Castro                   ##    -, Atlético Marte 
+
+ (6)  MF  José Quintanilla                   ##    -, Atlético Marte 
+ (7)  MF  Mauricio Rodríguez                 ##    -, Universidad 
+ (8)  MF  Jorge Vásquez                      ##    -, Universidad 
+ (9)  MF  Juan Ramón Martínez                ##    -, Águila 
+(16)  MF  Genaro Sarmeno                     ##    -, CD FAS 
+(19)  MF  Sergio Méndez                      ##    -, Atlético Marte 
+(22)  MF  Alberto Villalta                   ##    -, Atlético Marte 
+
+(10)  FW  Salvador Cabezas                   ##    -, Adler San Nicolas 
+(11)  FW  Ernesto Aparicio                   ##    -, Atlético Marte 
+(12)  FW  Mario Monge                        ##    -, CD FAS 
+(15)  FW  David Cabrera                      ##    -, CD FAS 
+(17)  FW  Jaime Portillo                     ##    -, Alianza FC 
+(21)  FW  Elmer Acevedo                      ##    -, CD FAS 
+

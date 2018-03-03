@@ -1,0 +1,30 @@
+##############################
+# Poland (POL) 
+#   - 22 players
+
+ (1)  GK  Jan Tomaszewski                    ##    -, ŁKS Łódź 
+(21)  GK  Zygmunt Kukla                      ##    -, Stal Mielec 
+(22)  GK  Zdzisław Kostrzewa                 ##    -, Zagłębie Sosnowiec 
+
+ (3)  DF  Henryk Maculewicz                  ##    -, Wisła Kraków 
+ (4)  DF  Antoni Szymanowski                 ##    -, Wisła Kraków 
+ (6)  DF  Jerzy Gorgoń                       ##    -, Górnik Zabrze 
+ (9)  DF  Władysław Żmuda                    ##    -, Śląsk Wrocław 
+(10)  DF  Wojciech Rudy                      ##    -, Zagłębie Sosnowiec 
+(13)  DF  Janusz Kupcewicz                   ##    -, Arka Gdynia 
+(14)  DF  Mirosław Justek                    ##    -, Lech Poznań 
+(20)  DF  Roman Wójcicki                     ##    -, Odra Opole 
+
+ (5)  MF  Adam Nawałka                       ##    -, Wisła Kraków 
+ (8)  MF  Henryk Kasperczak                  ##    -, Stal Mielec 
+(11)  MF  Bohdan Masztaler                   ##    -, ŁKS Łódź 
+(12)  MF  Kazimierz Deyna                    ##    -, Legia Warszawa 
+(15)  MF  Marek Kusto                        ##    -, Legia Warszawa 
+(18)  MF  Zbigniew Boniek                    ##    -, Widzew Łódź 
+
+ (2)  FW  Włodzimierz Mazur                  ##    -, Zagłębie Sosnowiec 
+ (7)  FW  Andrzej Iwan                       ##    -, Wisła Kraków 
+(16)  FW  Grzegorz Lato                      ##    -, Stal Mielec 
+(17)  FW  Andrzej Szarmach                   ##    -, Stal Mielec 
+(19)  FW  Włodzimierz Lubański               ##    -, KSC Lokeren 
+

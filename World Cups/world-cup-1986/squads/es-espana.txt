@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  Andoni Zubizarreta                 ##    -, Athletic Bilbao 
+(13)  GK  Urruti                             ##    -, Barcelona 
+(22)  GK  Juan Carlos Ablanedo               ##    -, Sporting Gijón 
+
+ (2)  DF  Tomás                              ##    -, Atlético Madrid 
+ (3)  DF  José Antonio Camacho               ##    -, Real Madrid 
+ (4)  DF  Antonio Maceda                     ##    -, Real Madrid 
+ (5)  DF  Víctor                             ##    -, Barcelona 
+ (8)  DF  Andoni Goikoetxea                  ##    -, Athletic Bilbao 
+(15)  DF  Chendo                             ##    -, Real Madrid 
+
+ (6)  MF  Rafael Gordillo                    ##    -, Real Madrid 
+ (7)  MF  Juan Antonio Señor                 ##    -, Real Zaragoza 
+(11)  MF  Julio Alberto                      ##    -, Barcelona 
+(14)  MF  Ricardo Gallego                    ##    -, Real Madrid 
+(17)  MF  Francisco                          ##    -, Sevilla 
+(18)  MF  Ramón Calderé                      ##    -, Barcelona 
+(21)  MF  Míchel                             ##    -, Real Madrid 
+
+ (9)  FW  Emilio Butragueño                  ##    -, Real Madrid 
+(10)  FW  Francisco José Carrasco            ##    -, Barcelona 
+(12)  FW  Quique Setién                      ##    -, Atlético Madrid 
+(16)  FW  Hipólito Rincón                    ##    -, Real Betis 
+(19)  FW  Julio Salinas                      ##    -, Athletic Bilbao 
+(20)  FW  Eloy                               ##    -, Sporting Gijón 
+

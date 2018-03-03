@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Carlos Roa                         ##    -, Mallorca 
+(12)  GK  Germán Burgos                      ##    -, River Plate 
+(17)  GK  Pablo Cavallero                    ##    -, Vélez Sársfield 
+
+ (2)  DF  Roberto Ayala                      ##    -, Napoli 
+ (3)  DF  José Chamot                        ##    -, Lazio 
+ (4)  DF  Mauricio Pineda                    ##    -, Udinese 
+ (6)  DF  Roberto Néstor Sensini             ##    -, Parma 
+(13)  DF  Pablo Paz                          ##    -, Tenerife 
+(14)  DF  Nelson Vivas                       ##    -, Lugano 
+(22)  DF  Javier Zanetti                     ##    -, Internazionale 
+
+ (5)  MF  Matías Almeyda                     ##    -, Lazio 
+ (8)  MF  Diego Simeone                      ##    -, Internazionale 
+(10)  MF  Ariel Ortega                       ##    -, Valencia 
+(11)  MF  Juan Sebastián Verón               ##    -, Sampdoria 
+(15)  MF  Leonardo Astrada                   ##    -, River Plate 
+(16)  MF  Sergio Berti                       ##    -, River Plate 
+(20)  MF  Marcelo Gallardo                   ##    -, River Plate 
+
+ (7)  FW  Claudio López                      ##    -, Valencia 
+ (9)  FW  Gabriel Batistuta                  ##    -, Fiorentina 
+(18)  FW  Abel Balbo                         ##    -, Roma 
+(19)  FW  Hernán Crespo                      ##    -, Parma 
+(21)  FW  Marcelo Delgado                    ##    -, Racing 
+

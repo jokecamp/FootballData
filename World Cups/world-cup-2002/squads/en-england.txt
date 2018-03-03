@@ -1,0 +1,31 @@
+##############################
+# England (ENG) 
+#   - 23 players
+
+ (1)  GK  David Seaman                       ##   68, Arsenal 
+(13)  GK  Nigel Martyn                       ##   22, Leeds United 
+(22)  GK  David James                        ##    9, West Ham United 
+
+ (2)  DF  Danny Mills                        ##    7, Leeds United 
+ (3)  DF  Ashley Cole                        ##    8, Arsenal 
+ (5)  DF  Rio Ferdinand                      ##   21, Leeds United 
+ (6)  DF  Sol Campbell                       ##   45, Arsenal 
+(12)  DF  Wes Brown                          ##    6, Manchester United 
+(14)  DF  Wayne Bridge                       ##    5, Southampton 
+(15)  DF  Martin Keown                       ##   42, Arsenal 
+(16)  DF  Gareth Southgate                   ##   48, Middlesbrough 
+
+ (4)  MF  Trevor Sinclair                    ##    5, West Ham United 
+ (7)  MF  David Beckham                      ##   49, Manchester United 
+ (8)  MF  Paul Scholes                       ##   43, Manchester United 
+(18)  MF  Owen Hargreaves                    ##    6, Bayern Munich 
+(19)  MF  Joe Cole                           ##    6, West Ham United 
+(21)  MF  Nicky Butt                         ##   18, Manchester United 
+(23)  MF  Kieron Dyer                        ##    9, Newcastle United 
+
+ (9)  FW  Robbie Fowler                      ##   24, Leeds United 
+(10)  FW  Michael Owen                       ##   35, Liverpool 
+(11)  FW  Emile Heskey                       ##   23, Liverpool 
+(17)  FW  Teddy Sheringham                   ##   46, Tottenham Hotspur 
+(20)  FW  Darius Vassell                     ##    5, Aston Villa 
+

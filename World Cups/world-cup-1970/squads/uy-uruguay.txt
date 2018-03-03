@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+ (1)  GK  Ladislao Mazurkiewicz              ##    -, Peñarol 
+(12)  GK  Héctor Santos                      ##    -, Bella Vista 
+(22)  GK  Walter Corbo                       ##    -, Peñarol 
+
+ (2)  DF  Atilio Ancheta                     ##    -, Nacional 
+ (3)  DF  Roberto Matosas                    ##    -, Peñarol 
+ (4)  DF  Luis Ubiñas                        ##    -, Nacional 
+ (6)  DF  Juan Mujica                        ##    -, Nacional 
+(14)  DF  Francisco Cámera                   ##    -, Bella Vista 
+(16)  DF  Omar Caetano                       ##    -, Peñarol 
+(18)  DF  Alberto Gómez                      ##    -, Liverpool 
+(19)  DF  Oscar Zubia                        ##    -, River Plate 
+
+ (5)  MF  Julio Montero Castillo             ##    -, Nacional 
+ (7)  MF  Luis Cubilla                       ##    -, Nacional 
+ (8)  MF  Pedro Rocha                        ##    -, Peñarol 
+ (9)  MF  Víctor Espárrago                   ##    -, Nacional 
+(10)  MF  Ildo Maneiro                       ##    -, Nacional 
+(13)  MF  Rodolfo Sandoval                   ##    -, Peñarol 
+
+(11)  FW  Julio Morales                      ##    -, Nacional 
+(15)  FW  Dagoberto Fontes                   ##    -, Defensor 
+(17)  FW  Rúben Bareño                       ##    -, Cerro 
+(20)  FW  Julio César Cortés                 ##    -, Peñarol 
+(21)  FW  Julio Losada                       ##    -, Peñarol 
+

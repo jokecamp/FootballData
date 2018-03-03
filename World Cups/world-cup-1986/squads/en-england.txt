@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Peter Shilton                      ##    -, Southampton 
+(13)  GK  Chris Woods                        ##    -, Norwich City 
+(22)  GK  Gary Bailey                        ##    -, Manchester United 
+
+ (2)  DF  Gary Stevens                       ##    -, Everton 
+ (3)  DF  Kenny Sansom                       ##    -, Arsenal 
+ (5)  DF  Alvin Martin                       ##    -, West Ham United 
+ (6)  DF  Terry Butcher                      ##    -, Ipswich Town 
+(12)  DF  Viv Anderson                       ##    -, Arsenal 
+(14)  DF  Terry Fenwick                      ##    -, Queens Park Rangers 
+(15)  DF  Gary A. Stevens                    ##    -, Tottenham Hotspur 
+
+ (4)  MF  Glenn Hoddle                       ##    -, Tottenham Hotspur 
+ (7)  MF  Bryan Robson                       ##    -, Manchester United 
+ (8)  MF  Ray Wilkins                        ##    -, Milan 
+(11)  MF  Chris Waddle                       ##    -, Tottenham Hotspur 
+(16)  MF  Peter Reid                         ##    -, Everton 
+(17)  MF  Trevor Steven                      ##    -, Everton 
+(18)  MF  Steve Hodge                        ##    -, Aston Villa 
+(19)  MF  John Barnes                        ##    -, Watford 
+
+ (9)  FW  Mark Hateley                       ##    -, Milan 
+(10)  FW  Gary Lineker                       ##    -, Everton 
+(20)  FW  Peter Beardsley                    ##    -, Newcastle United 
+(21)  FW  Kerry Dixon                        ##    -, Chelsea 
+

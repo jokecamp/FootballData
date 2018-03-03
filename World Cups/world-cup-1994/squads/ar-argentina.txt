@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Sergio Goycochea                   ##    -, River Plate 
+(12)  GK  Luis Islas                         ##    -, Independiente 
+(22)  GK  Norberto Scoponi                   ##    -, Newell's Old Boys 
+
+ (2)  DF  Sergio Vázquez                     ##    -, Universidad Católica 
+ (3)  DF  José Chamot                        ##    -, Foggia 
+ (4)  DF  Roberto Néstor Sensini             ##    -, Parma 
+ (6)  DF  Oscar Ruggeri                      ##    -, San Lorenzo 
+(13)  DF  Fernando Cáceres                   ##    -, Real Zaragoza 
+(15)  DF  Jorge Borelli                      ##    -, Racing 
+(16)  DF  Hernán Díaz                        ##    -, River Plate 
+
+ (5)  MF  Fernando Redondo                   ##    -, Tenerife 
+ (8)  MF  José Basualdo                      ##    -, Vélez Sársfield 
+(10)  MF  Diego Maradona                     ##    -, Newell's Old Boys 
+(14)  MF  Diego Simeone                      ##    -, Sevilla 
+(17)  MF  Ariel Ortega                       ##    -, River Plate 
+(18)  MF  Hugo Pérez                         ##    -, Independiente 
+(20)  MF  Leonardo Rodríguez                 ##    -, Borussia Dortmund 
+(21)  MF  Alejandro Mancuso                  ##    -, Boca Juniors 
+
+ (7)  FW  Claudio Caniggia                   ##    -, Roma 
+ (9)  FW  Gabriel Batistuta                  ##    -, Fiorentina 
+(11)  FW  Ramón Medina Bello                 ##    -, Yokohama Marinos 
+(19)  FW  Abel Balbo                         ##    -, Roma 
+

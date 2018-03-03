@@ -1,0 +1,31 @@
+##############################
+# Spain (ESP) 
+#   - 23 players
+
+ (1)  GK  Iker Casillas                      ##   13, Real Madrid 
+(13)  GK  Ricardo                            ##    1, Real Valladolid 
+(23)  GK  Pedro Contreras                    ##    0, Málaga 
+
+ (2)  DF  Curro Torres                       ##    4, Valencia 
+ (3)  DF  Juanfran                           ##    7, Celta Vigo 
+ (5)  DF  Carles Puyol                       ##    8, Barcelona 
+ (6)  DF  Fernando Hierro                    ##   85, Real Madrid 
+(15)  DF  Enrique Romero                     ##    3, Deportivo La Coruña 
+(20)  DF  Miguel Ángel Nadal                 ##   59, Mallorca 
+
+ (4)  MF  Iván Helguera                      ##   22, Real Madrid 
+ (8)  MF  Rubén Baraja                       ##    9, Valencia 
+(14)  MF  David Albelda                      ##    2, Valencia 
+(16)  MF  Gaizka Mendieta                    ##   32, Lazio 
+(17)  MF  Juan Carlos Valerón                ##   20, Deportivo La Coruña 
+(18)  MF  Sergio                             ##    5, Deportivo La Coruña 
+(19)  MF  Xavi                               ##    3, Barcelona 
+(21)  MF  Luis Enrique                       ##   57, Barcelona 
+(22)  MF  Joaquín                            ##    3, Real Betis 
+
+ (7)  FW  Raúl                               ##   51, Real Madrid 
+ (9)  FW  Fernando Morientes                 ##   19, Real Madrid 
+(10)  FW  Diego Tristán                      ##    7, Deportivo La Coruña 
+(11)  FW  Javier de Pedro                    ##    5, Real Sociedad 
+(12)  FW  Albert Luque                       ##    0, Mallorca 
+

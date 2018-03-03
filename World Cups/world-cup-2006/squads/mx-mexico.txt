@@ -1,0 +1,31 @@
+##############################
+# Mexico (MEX) 
+#   - 23 players
+
+ (1)  GK  Oswaldo Sánchez                    ##   70, Guadalajara (MEX)
+(12)  GK  José de Jesús Corona               ##    6, UAG (MEX)
+(13)  GK  Guillermo Ochoa                    ##    1, América (MEX)
+
+ (2)  DF  Claudio Suárez                     ##  178, Chivas USA (USA)
+ (3)  DF  Carlos Salcido                     ##   32, Guadalajara (MEX)
+ (4)  DF  Rafael Márquez                     ##   65, Barcelona (ESP)
+ (5)  DF  Ricardo Osorio                     ##   39, Cruz Azul (MEX)
+(14)  DF  Gonzalo Pineda                     ##   30, Guadalajara (MEX)
+(15)  DF  José Antonio Castro                ##   12, América (MEX)
+(16)  DF  Mario Méndez                       ##   32, Monterrey (MEX)
+(22)  DF  Francisco Javier Rodríguez         ##   32, Guadalajara (MEX)
+
+ (6)  MF  Gerardo Torrado                    ##   56, Cruz Azul (MEX)
+ (7)  MF  Sinha                              ##   32, Toluca (MEX)
+ (8)  MF  Pável Pardo                        ##  125, América (MEX)
+(11)  MF  Ramón Morales                      ##   46, Guadalajara (MEX)
+(18)  MF  Andrés Guardado                    ##    7, Atlas (MEX)
+(20)  MF  Rafael García                      ##   52, Atlas (MEX)
+(21)  MF  Jesús Arellano                     ##   69, Monterrey (MEX)
+(23)  MF  Luis Ernesto Pérez                 ##   52, Monterrey (MEX)
+
+ (9)  FW  Jared Borgetti                     ##   75, Bolton Wanderers (ENG)
+(10)  FW  Guillermo Franco                   ##    7, Villarreal (ESP)
+(17)  FW  Francisco Fonseca                  ##   29, Cruz Azul (MEX)
+(19)  FW  Omar Bravo                         ##   33, Guadalajara (MEX)
+

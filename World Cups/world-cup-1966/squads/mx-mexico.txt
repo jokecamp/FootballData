@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Antonio Carbajal                   ##    -, Leon 
+(12)  GK  Ignacio Calderón                   ##    -, Guadalajara 
+(22)  GK  Javier Vargas                      ##    -, Atlas 
+
+ (2)  DF  Arturo Chaires                     ##    -, Guadalajara 
+ (3)  DF  Gustavo Peña                       ##    -, Oro 
+ (4)  DF  Jesús del Muro                     ##    -, Veracruz 
+(14)  DF  Gabriel Núñez                      ##    -, Zacatepec 
+
+ (5)  MF  Ignacio Jáuregui                   ##    -, Monterrey 
+ (6)  MF  Isidoro Díaz                       ##    -, Guadalajara 
+ (9)  MF  Ernesto Cisneros                   ##    -, Atlas 
+(13)  MF  José Luis González                 ##    -, Necaxa 
+(15)  MF  Guillermo Hernández                ##    -, Atlas 
+(16)  MF  Luis Regueiro                      ##    -, UNAM 
+(17)  MF  Magdaleno Mercado                  ##    -, Atlas 
+
+ (7)  FW  Felipe Ruvalcaba                   ##    -, Oro 
+ (8)  FW  Aarón Padilla                      ##    -, UNAM 
+(10)  FW  Javier Fragoso                     ##    -, América 
+(11)  FW  Francisco Jara                     ##    -, Universidad Nuevo León 
+(18)  FW  Elías Muñoz                        ##    -, Universidad Nuevo León 
+(19)  FW  Salvador Reyes                     ##    -, Guadalajara 
+(20)  FW  Enrique Borja                      ##    -, UNAM 
+(21)  FW  Ramiro Navarro                     ##    -, Oro 
+

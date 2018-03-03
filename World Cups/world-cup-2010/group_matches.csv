@@ -1,0 +1,49 @@
+match_num,round/group,date,time,stadium,where,home,home_score,away_score,away
+1,Group A,Jun 11,16:00,Soccer City,Johannesburg,South Africa,1,1,Mexico
+2,Group A,Jun 11,20:30,Cape Town Stadium,Cape Town,Uruguay,0,0,France
+17,Group A,Jun 16,20:30,Loftus Versfeld Stadium,Pretoria,South Africa,0,3,Uruguay
+18,Group A,Jun 17,20:30,Peter Mokaba Stadium,Polokwane,France,0,2,Mexico
+33,Group A,Jun 22,16:00,Royal Bafokeng Stadium,Rustenburg,Mexico,0,1,Uruguay
+34,Group A,Jun 22,16:00,Free State Stadium,Bloemfontein,France,1,2,South Africa
+4,Group B,Jun 12,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,South Korea,2,0,Greece
+3,Group B,Jun 12,16:00,Ellis Park Stadium,Johannesburg,Argentina,1,0,Nigeria
+20,Group B,Jun 17,13:30,Soccer City,Johannesburg,Argentina,4,1,South Korea
+19,Group B,Jun 17,16:00,Free State Stadium,Bloemfontein,Greece,2,1,Nigeria
+35,Group B,Jun 22,20:30,Moses Mabhida Stadium,Durban,Nigeria,2,2,South Korea
+36,Group B,Jun 22,20:30,Peter Mokaba Stadium,Polokwane,Greece,0,2,Argentina
+5,Group C,Jun 12,20:30,Royal Bafokeng Stadium,Rustenburg,England,1,1,United States
+6,Group C,Jun 13,13:30,Peter Mokaba Stadium,Polokwane,Algeria,0,1,Slovenia
+22,Group C,Jun 18,16:00,Ellis Park Stadium,Johannesburg,Slovenia,2,2,United States
+23,Group C,Jun 18,20:30,Cape Town Stadium,Cape Town,England,0,0,Algeria
+38,Group C,Jun 23,16:00,Loftus Versfeld Stadium,Pretoria,United States,1,0,Algeria
+37,Group C,Jun 23,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Slovenia,0,1,England
+8,Group D,Jun 13,16:00,Loftus Versfeld Stadium,Pretoria,Serbia,0,1,Ghana
+7,Group D,Jun 13,20:30,Moses Mabhida Stadium,Durban,Germany,4,0,Australia
+21,Group D,Jun 18,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,Germany,0,1,Serbia
+24,Group D,Jun 19,16:00,Royal Bafokeng Stadium,Rustenburg,Ghana,1,1,Australia
+40,Group D,Jun 23,20:30,Mbombela Stadium,Nelspruit,Australia,2,1,Serbia
+39,Group D,Jun 23,20:30,Soccer City,Johannesburg,Ghana,0,1,Germany
+9,Group E,Jun 14,13:30,Soccer City,Johannesburg,Netherlands,2,0,Denmark
+10,Group E,Jun 14,16:00,Free State Stadium,Bloemfontein,Japan,1,0,Cameroon
+25,Group E,Jun 19,13:30,Moses Mabhida Stadium,Durban,Netherlands,1,0,Japan
+26,Group E,Jun 19,20:30,Loftus Versfeld Stadium,Pretoria,Cameroon,1,2,Denmark
+43,Group E,Jun 24,20:30,Royal Bafokeng Stadium,Rustenburg,Denmark,1,3,Japan
+44,Group E,Jun 24,20:30,Cape Town Stadium,Cape Town,Cameroon,1,2,Netherlands
+11,Group F,Jun 14,20:30,Cape Town Stadium,Cape Town,Italy,1,1,Paraguay
+12,Group F,Jun 15,13:30,Royal Bafokeng Stadium,Rustenburg,New Zealand,1,1,Slovakia
+27,Group F,Jun 20,13:30,Free State Stadium,Bloemfontein,Slovakia,0,2,Paraguay
+28,Group F,Jun 20,16:00,Mbombela Stadium,Nelspruit,Italy,1,1,New Zealand
+41,Group F,Jun 24,16:00,Ellis Park Stadium,Johannesburg,Slovakia,3,2,Italy
+42,Group F,Jun 24,16:00,Peter Mokaba Stadium,Polokwane,Paraguay,0,0,New Zealand
+13,Group G,Jun 15,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Côte d'Ivoire,0,0,Portugal
+14,Group G,Jun 15,20:30,Ellis Park Stadium,Johannesburg,Brazil,2,1,North Korea
+29,Group G,Jun 20,20:30,Soccer City,Johannesburg,Brazil,3,1,Côte d'Ivoire
+30,Group G,Jun 21,13:30,Cape Town Stadium,Cape Town,Portugal,7,0,North Korea
+45,Group G,Jun 25,16:00,Moses Mabhida Stadium,Durban,Portugal,0,0,Brazil
+46,Group G,Jun 25,16:00,Mbombela Stadium,Nelspruit,North Korea,0,3,Côte d'Ivoire
+15,Group H,Jun 16,13:30,Mbombela Stadium,Nelspruit,Honduras,0,1,Chile
+16,Group H,Jun 16,16:00,Moses Mabhida Stadium,Durban,Spain,0,1,Switzerland
+31,Group H,Jun 21,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Chile,1,0,Switzerland
+32,Group H,Jun 21,20:30,Ellis Park Stadium,Johannesburg,Spain,2,0,Honduras
+47,Group H,Jun 25,20:30,Loftus Versfeld Stadium,Pretoria,Chile,1,2,Spain
+48,Group H,Jun 25,20:30,Free State Stadium,Bloemfontein,Switzerland,0,0,Honduras

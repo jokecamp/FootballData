@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Taffarel                           ##    -, Internacional 
+(12)  GK  Acácio                             ##    -, Vasco da Gama 
+(22)  GK  Zé Carlos                          ##    -, Flamengo 
+
+ (2)  DF  Jorginho                           ##    -, Bayer Leverkusen 
+ (3)  DF  Ricardo Gomes                      ##    -, Benfica 
+ (6)  DF  Branco                             ##    -, Porto 
+(13)  DF  Carlos Mozer                       ##    -, Marseille 
+(14)  DF  Aldair                             ##    -, Benfica 
+(19)  DF  Ricardo Rocha                      ##    -, São Paulo 
+(21)  DF  Mauro Galvão                       ##    -, Botafogo 
+
+ (4)  MF  Dunga                              ##    -, Fiorentina 
+ (5)  MF  Alemão                             ##    -, Napoli 
+ (7)  MF  Bismarck                           ##    -, Vasco da Gama 
+ (8)  MF  Valdo                              ##    -, Benfica 
+(10)  MF  Silas                              ##    -, Central Español 
+(18)  MF  Mazinho                            ##    -, Vasco da Gama 
+
+ (9)  FW  Careca                             ##    -, Napoli 
+(11)  FW  Romário                            ##    -, PSV 
+(15)  FW  Müller                             ##    -, Torino 
+(16)  FW  Bebeto                             ##    -, Vasco da Gama 
+(17)  FW  Renato Gaúcho                      ##    -, Flamengo 
+(20)  FW  Tita                               ##    -, Vasco da Gama 
+

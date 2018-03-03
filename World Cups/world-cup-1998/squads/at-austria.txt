@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Michael Konsel                     ##    -, Roma 
+(16)  GK  Franz Wohlfahrt                    ##    -, VfB Stuttgart 
+(21)  GK  Wolfgang Knaller                   ##    -, Austria Wien 
+
+ (3)  DF  Peter Schöttel                     ##    -, Rapid Wien 
+ (4)  DF  Anton Pfeffer                      ##    -, Austria Wien 
+ (5)  DF  Wolfgang Feiersinger               ##    -, Borussia Dortmund 
+ (6)  DF  Walter Kogler                      ##    -, Cannes 
+(12)  DF  Martin Hiden                       ##    -, Leeds United 
+
+ (2)  MF  Markus Schopp                      ##    -, Sturm Graz 
+ (8)  MF  Heimo Pfeifenberger                ##    -, Werder Bremen 
+(10)  MF  Andreas Herzog                     ##    -, Werder Bremen 
+(11)  MF  Martin Amerhauser                  ##    -, Austria Salzburg 
+(13)  MF  Harald Cerny                       ##    -, 1860 Munich 
+(15)  MF  Arnold Wetl                        ##    -, Rapid Wien 
+(17)  MF  Roman Mählich                      ##    -, Sturm Graz 
+(18)  MF  Peter Stöger                       ##    -, LASK Linz 
+(20)  MF  Andreas Heraf                      ##    -, Rapid Wien 
+(22)  MF  Dietmar Kühbauer                   ##    -, Real Sociedad 
+
+ (7)  FW  Mario Haas                         ##    -, Sturm Graz 
+ (9)  FW  Ivica Vastić                       ##    -, Sturm Graz 
+(14)  FW  Hannes Reinmayr                    ##    -, Sturm Graz 
+(19)  FW  Toni Polster                       ##    -, 1. FC Köln 
+

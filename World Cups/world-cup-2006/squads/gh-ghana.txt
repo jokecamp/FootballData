@@ -1,0 +1,31 @@
+##############################
+# Ghana (GHA) 
+#   - 23 players
+
+ (1)  GK  Sammy Adjei                        ##   31, Ashdod (ISR)
+(16)  GK  George Owu                         ##    6, Ashanti Gold (GHA)
+(22)  GK  Richard Kingson                    ##   33, Ankaraspor (TUR)
+
+ (4)  DF  Samuel Kuffour                     ##   58, Roma (ITA)
+ (5)  DF  John Mensah                        ##   33, Rennes (FRA)
+ (6)  DF  Emmanuel Pappoe                    ##   27, Hapoel Kfar Saba (ISR)
+ (7)  DF  Illiasu Shilla                     ##    2, Asante Kotoko (GHA)
+(13)  DF  Habib Mohamed                      ##    1, King Faisal Babes (GHA)
+(17)  DF  Daniel Quaye                       ##    7, Hearts of Oak (GHA)
+(18)  DF  Eric Addo                          ##    6, PSV Eindhoven (NED)
+(21)  DF  Issah Ahmed                        ##   10, Randers (DEN)
+
+ (2)  MF  Hans Sarpei                        ##    7, Wolfsburg (GER)
+ (8)  MF  Michael Essien                     ##   17, Chelsea (ENG)
+ (9)  MF  Derek Boateng                      ##   11, AIK (SWE)
+(10)  MF  Stephen Appiah                     ##   42, Fenerbahçe (TUR)
+(11)  MF  Sulley Muntari                     ##   16, Udinese (ITA)
+(15)  MF  John Paintsil                      ##   21, Hapoel Tel Aviv (ISR)
+(23)  MF  Haminu Dramani                     ##    7, Red Star Belgrade (SRB)
+
+ (3)  FW  Asamoah Gyan                       ##   13, Udinese (ITA)
+(12)  FW  Alex Tachie-Mensah                 ##    5, St. Gallen (SUI)
+(14)  FW  Matthew Amoah                      ##   16, Borussia Dortmund (GER)
+(19)  FW  Razak Pimpong                      ##    4, Copenhagen (DEN)
+(20)  FW  Otto Addo                          ##   13, Mainz 05 (GER)
+

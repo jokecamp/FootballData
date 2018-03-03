@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Bodo Illgner                       ##   15, 1. FC Köln 
+(12)  GK  Raimond Aumann                     ##    3, Bayern Munich 
+(22)  GK  Andreas Köpke                      ##    1, 1. FC Nürnberg 
+
+ (2)  DF  Stefan Reuter                      ##   16, Bayern Munich 
+ (3)  DF  Andreas Brehme                     ##   51, Internazionale 
+ (4)  DF  Jürgen Kohler                      ##   27, Bayern Munich 
+ (5)  DF  Klaus Augenthaler                  ##   20, Bayern Munich 
+ (6)  DF  Guido Buchwald                     ##   32, VfB Stuttgart 
+(14)  DF  Thomas Berthold                    ##   35, Roma 
+(16)  DF  Paul Steiner                       ##    1, 1. FC Köln 
+(19)  DF  Hans Pflügler                      ##   10, Bayern Munich 
+
+ (7)  MF  Pierre Littbarski                  ##   67, 1. FC Köln 
+ (8)  MF  Thomas Häßler                      ##   12, 1. FC Köln 
+(10)  MF  Lothar Matthäus                    ##   74, Internazionale 
+(15)  MF  Uwe Bein                           ##    6, Eintracht Frankfurt 
+(17)  MF  Andreas Möller                     ##   10, Borussia Dortmund 
+(20)  MF  Olaf Thon                          ##   33, Bayern Munich 
+(21)  MF  Günter Hermann                     ##    2, Werder Bremen 
+
+ (9)  FW  Rudi Völler                        ##   63, Roma 
+(11)  FW  Frank Mill                         ##   17, Borussia Dortmund 
+(13)  FW  Karl-Heinz Riedle                  ##    6, Werder Bremen 
+(18)  FW  Jürgen Klinsmann                   ##   18, Internazionale 
+

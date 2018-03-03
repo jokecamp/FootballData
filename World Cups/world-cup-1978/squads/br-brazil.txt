@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Leão                               ##   50, Palmeiras 
+(12)  GK  Carlos                             ##    0, Ponte Preta 
+(22)  GK  Valdir Peres                       ##    5, São Paulo 
+
+ (2)  DF  Toninho                            ##    4, Flamengo 
+ (3)  DF  Oscar                              ##    4, Ponte Preta 
+ (4)  DF  Amaral                             ##   22, Corinthians 
+ (6)  DF  Edinho                             ##   12, Fluminense 
+(13)  DF  Nelinho                            ##   13, Cruzeiro 
+(14)  DF  Abel                               ##    1, Vasco da Gama 
+(15)  DF  Polozzi                            ##    0, Ponte Preta 
+(16)  DF  Rodrigues Neto                     ##    7, Botafogo 
+
+ (5)  MF  Toninho Cerezo                     ##   16, Atlético Mineiro 
+ (8)  MF  Zico                               ##   21, Flamengo 
+(11)  MF  Dirceu                             ##   14, Vasco da Gama 
+(17)  MF  Batista                            ##    4, Internacional 
+(21)  MF  Chicão                             ##    5, São Paulo 
+
+ (7)  FW  Zé Sérgio                          ##    2, São Paulo 
+ (9)  FW  Reinaldo                           ##   12, Atlético Mineiro 
+(10)  FW  Rivelino                           ##   88, Fluminense 
+(18)  FW  Gil                                ##   22, Botafogo 
+(19)  FW  Jorge Mendonça                     ##    0, Palmeiras 
+(20)  FW  Roberto Dinamite                   ##   20, Vasco da Gama 
+

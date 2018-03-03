@@ -1,0 +1,30 @@
+##############################
+# Israel (ISR) 
+#   - 22 players
+
+ (1)  GK  Yitzchak Vissoker                  ##   17, Hapoel Petah Tikva 
+(21)  GK  Yechiel Hameiri                    ##    1, Hapoel Haifa 
+(22)  GK  Yair Nossovsky                     ##    3, Hapoel Kfar Saba 
+
+ (2)  DF  Shraga Bar                         ##   13, Maccabi Netanya 
+ (3)  DF  Menachem Bello                     ##   25, Maccabi Tel Aviv 
+ (5)  DF  Zvi Rosen                          ##   16, Maccabi Tel Aviv 
+ (6)  DF  Shmuel Rosenthal                   ##   23, Hapoel Petah Tikva 
+(16)  DF  Yochanan Vollach                   ##    4, Hapoel Haifa 
+(20)  DF  David Karako                       ##    6, Maccabi Tel Aviv 
+
+ (4)  MF  David Primo                        ##   18, Hapoel Tel Aviv 
+ (7)  MF  Itzhak Shum                        ##    8, Hapoel Kfar Saba 
+(11)  MF  George Borba                       ##   10, Hapoel Tel Aviv 
+(12)  MF  Yisha'ayahu Schwager               ##    6, Maccabi Haifa 
+(14)  MF  Dani Shmulevich-Rom                ##   24, Maccabi Haifa 
+(18)  MF  Moshe Romano                       ##    6, Shimshon Tel Aviv 
+(19)  MF  Roni Shuruk                        ##    8, Hakoah Maccabi Ramat Gan 
+
+ (8)  FW  Giora Spiegel                      ##   19, Maccabi Tel Aviv 
+ (9)  FW  Yehoshua Feigenbaum                ##   15, Hapoel Tel Aviv 
+(10)  FW  Mordechai Spiegler                 ##   36, Maccabi Netanya 
+(13)  FW  Yechezekel Chazom                  ##    4, Hapoel Tel Aviv 
+(15)  FW  Rachamim Talbi                     ##   25, Maccabi Tel Aviv 
+(17)  FW  Eli Ben Rimoz                      ##    2, Hapoel Jerusalem 
+

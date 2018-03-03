@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+ (1)  GK  Stanislav Seman                    ##    -, Lokomotiva Košice 
+(21)  GK  Zdeněk Hruška                      ##    -, Bohemians Praha 
+(22)  GK  Karel Stromšík                     ##    -, Dukla Prague 
+
+ (2)  DF  František Jakubec                  ##    -, Bohemians Praha 
+ (3)  DF  Jan Fiala                          ##    -, Dukla Prague 
+ (4)  DF  Ladislav Jurkemik                  ##    -, Inter Bratislava 
+ (5)  DF  Jozef Barmoš                       ##    -, Inter Bratislava 
+ (6)  DF  Rostislav Vojáček                  ##    -, Baník Ostrava 
+(14)  DF  Libor Radimec                      ##    -, Baník Ostrava 
+(15)  DF  Jozef Kukučka                      ##    -, Plastika Nitra 
+
+ (7)  MF  Ján Kozák                          ##    -, Dukla Prague 
+ (8)  MF  Antonín Panenka                    ##    -, Rapid Wien 
+(12)  MF  Přemysl Bičovský                   ##    -, Bohemians Praha 
+(13)  MF  Jan Berger                         ##    -, AC Sparta Prague 
+(16)  MF  Pavel Chaloupka                    ##    -, Bohemians Praha 
+(17)  MF  František Štambachr                ##    -, Dukla Prague 
+
+ (9)  FW  Ladislav Vízek                     ##    -, Dukla Prague 
+(10)  FW  Tomáš Kříž                         ##    -, Dukla Prague 
+(11)  FW  Zdeněk Nehoda                      ##    -, Dukla Prague 
+(18)  FW  Petr Janečka                       ##    -, Zbrojovka Brno 
+(19)  FW  Marián Masný                       ##    -, Slovan Bratislava 
+(20)  FW  Vlastimil Petržela                 ##    -, SK Slavia Praha 
+

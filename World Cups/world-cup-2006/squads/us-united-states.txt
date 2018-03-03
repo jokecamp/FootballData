@@ -1,0 +1,31 @@
+##############################
+# United States (USA) 
+#   - 23 players
+
+ (1)  GK  Tim Howard                         ##   16, Manchester United (ENG)
+(18)  GK  Kasey Keller                       ##   93, Borussia Mönchengladbach (GER)
+(19)  GK  Marcus Hahnemann                   ##    6, Reading (ENG)
+
+ (2)  DF  Chris Albright                     ##   20, LA Galaxy (USA)
+ (3)  DF  Carlos Bocanegra                   ##   40, Fulham (ENG)
+ (6)  DF  Steve Cherundolo                   ##   35, Hannover 96 (GER)
+(12)  DF  Gregg Berhalter                    ##   44, Energie Cottbus (GER)
+(13)  DF  Jimmy Conrad                       ##   15, Kansas City Wizards (USA)
+(22)  DF  Oguchi Onyewu                      ##   14, Standard Liège (BEL)
+(23)  DF  Eddie Pope                         ##   80, Real Salt Lake (USA)
+
+ (4)  MF  Pablo Mastroeni                    ##   48, Colorado Rapids (USA)
+ (5)  MF  John O'Brien                       ##   31, Chivas USA (USA)
+ (7)  MF  Eddie Lewis                        ##   69, Leeds United (ENG)
+ (8)  MF  Clint Dempsey                      ##   21, New England Revolution (USA)
+(10)  MF  Claudio Reyna                      ##  109, Manchester City (ENG)
+(14)  MF  Ben Olsen                          ##   34, D.C. United (USA)
+(15)  MF  Bobby Convey                       ##   39, Reading (ENG)
+(17)  MF  DaMarcus Beasley                   ##   58, PSV Eindhoven (NED)
+
+ (9)  FW  Eddie Johnson                      ##   18, Kansas City Wizards (USA)
+(11)  FW  Brian Ching                        ##   20, Houston Dynamo (USA)
+(16)  FW  Josh Wolff                         ##   47, Kansas City Wizards (USA)
+(20)  FW  Brian McBride                      ##   92, Fulham (ENG)
+(21)  FW  Landon Donovan                     ##   81, LA Galaxy (USA)
+

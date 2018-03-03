@@ -1,0 +1,31 @@
+##############################
+# England (ENG) 
+#   - 23 players
+
+ (1)  GK  Paul Robinson                      ##   21, Tottenham Hotspur (ENG)
+(13)  GK  David James                        ##   34, Manchester City (ENG)
+(22)  GK  Scott Carson                       ##    0, Liverpool (ENG)
+
+ (2)  DF  Gary Neville                       ##   79, Manchester United (ENG)
+ (3)  DF  Ashley Cole                        ##   46, Arsenal (ENG)
+ (5)  DF  Rio Ferdinand                      ##   47, Manchester United (ENG)
+ (6)  DF  John Terry                         ##   24, Chelsea (ENG)
+(12)  DF  Sol Campbell                       ##   68, Arsenal (ENG)
+(14)  DF  Wayne Bridge                       ##   23, Chelsea (ENG)
+(15)  DF  Jamie Carragher                    ##   25, Liverpool (ENG)
+
+ (4)  MF  Steven Gerrard                     ##   42, Liverpool (ENG)
+ (7)  MF  David Beckham                      ##   89, Real Madrid (ESP)
+ (8)  MF  Frank Lampard                      ##   40, Chelsea (ENG)
+(11)  MF  Joe Cole                           ##   32, Chelsea (ENG)
+(16)  MF  Owen Hargreaves                    ##   30, Bayern Munich (GER)
+(17)  MF  Jermaine Jenas                     ##   15, Tottenham Hotspur (ENG)
+(18)  MF  Michael Carrick                    ##    6, Tottenham Hotspur (ENG)
+(19)  MF  Aaron Lennon                       ##    1, Tottenham Hotspur (ENG)
+(20)  MF  Stewart Downing                    ##    2, Middlesbrough (ENG)
+
+ (9)  FW  Wayne Rooney                       ##   29, Manchester United (ENG)
+(10)  FW  Michael Owen                       ##   77, Newcastle United (ENG)
+(21)  FW  Peter Crouch                       ##    7, Liverpool (ENG)
+(23)  FW  Theo Walcott                       ##    1, Arsenal (ENG)
+

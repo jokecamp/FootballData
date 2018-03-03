@@ -1,0 +1,31 @@
+##############################
+# South Korea (KOR) 
+#   - 23 players
+
+ (1)  GK  Lee Woon-Jae                       ##   97, Suwon Samsung Bluewings (KOR)
+(20)  GK  Kim Yong-Dae                       ##   15, Seongnam Ilhwa Chunma (KOR)
+(21)  GK  Kim Young-Kwang                    ##    6, Chunnam Dragons (KOR)
+
+ (2)  DF  Kim Young-Chul                     ##   12, Seongnam Ilhwa Chunma (KOR)
+ (3)  DF  Kim Dong-Jin                       ##   34, FC Seoul (KOR)
+ (4)  DF  Choi Jin-Cheul                     ##   62, Jeonbuk Hyundai Motors (KOR)
+ (6)  DF  Kim Jin-Kyu                        ##   23, Júbilo Iwata (JPN)
+(12)  DF  Lee Young-Pyo                      ##   85, Tottenham Hotspur (ENG)
+(18)  DF  Kim Sang-Sik                       ##   42, Seongnam Ilhwa Chunma (KOR)
+(22)  DF  Song Chong-Gug                     ##   51, Suwon Samsung Bluewings (KOR)
+(23)  DF  Cho Won-Hee                        ##   13, Suwon Samsung Bluewings (KOR)
+
+ (5)  MF  Kim Nam-Il                         ##   66, Suwon Samsung Bluewings (KOR)
+ (7)  MF  Park Ji-Sung                       ##   60, Manchester United (ENG)
+ (8)  MF  Kim Do-Heon                        ##   75, Seongnam Ilhwa Chunma (KOR)
+(13)  MF  Lee Eul-Yong                       ##   47, Trabzonspor (TUR)
+(15)  MF  Baek Ji-Hoon                       ##   12, FC Seoul (KOR)
+(17)  MF  Lee Ho                             ##   11, Ulsan Hyundai Horangi (KOR)
+
+ (9)  FW  Ahn Jung-Hwan                      ##   61, MSV Duisburg (GER)
+(10)  FW  Park Chu-Young                     ##   18, FC Seoul (KOR)
+(11)  FW  Seol Ki-Hyeon                      ##   67, Wolverhampton Wanderers (ENG)
+(14)  FW  Lee Chun-Soo                       ##   62, Ulsan Hyundai Horangi (KOR)
+(16)  FW  Chung Kyung-Ho                     ##   40, Gwangju Sangmu Phoenix (KOR)
+(19)  FW  Cho Jae-Jin                        ##   21, Shimizu S-Pulse (JPN)
+

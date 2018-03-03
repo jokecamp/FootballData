@@ -1,0 +1,30 @@
+##############################
+# Russia (RUS) 
+#   - 22 players
+
+ (1)  GK  Stanislav Cherchesov               ##   19, Dynamo Dresden 
+(16)  GK  Dmitri Kharine                     ##   22, Chelsea 
+
+ (2)  DF  Dmitri Kuznetsov                   ##   26, Espanyol 
+ (3)  DF  Sergei Gorlukovich                 ##   32, Bayer Uerdingen 
+ (4)  DF  Dmitri Galiamin                    ##   18, Espanyol 
+ (5)  DF  Yuri Nikiforov                     ##    8, Spartak Moscow 
+ (6)  DF  Vladislav Ternavski                ##    2, Spartak Moscow 
+(12)  DF  Omari Tetradze                     ##    9, Dynamo Moscow 
+(18)  DF  Viktor Onopko                      ##   21, Spartak Moscow 
+(21)  DF  Dmitri Khlestov                    ##   12, Spartak Moscow 
+
+ (7)  MF  Andrei Piatnitski                  ##    9, Spartak Moscow 
+ (8)  MF  Dmitri Popov                       ##   11, Racing Santander 
+(10)  MF  Valeri Karpin                      ##   10, Spartak Moscow 
+(17)  MF  Ilia Tsymbalar                     ##    2, Spartak Moscow 
+(19)  MF  Aleksandr Mostovoi                 ##   20, Caen 
+(20)  MF  Igor Lediakhov                     ##   15, Spartak Moscow 
+
+ (9)  FW  Oleg Salenko                       ##    5, Logroñés 
+(11)  FW  Vladimir Beschastnykh              ##    6, Spartak Moscow 
+(13)  FW  Aleksandr Borodyuk                 ##   13, Freiburg 
+(14)  FW  Igor Korneev                       ##   13, Espanyol 
+(15)  FW  Dmitri Radchenko                   ##   14, Racing Santander 
+(22)  FW  Sergei Yuran                       ##   26, Benfica 
+

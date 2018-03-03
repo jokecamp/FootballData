@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Hans Tilkowski                     ##   32, Borussia Dortmund 
+(21)  GK  Günter Bernard                     ##    4, Werder Bremen 
+(22)  GK  Sepp Maier                         ##    1, Bayern Munich 
+
+ (2)  DF  Horst-Dieter Höttges               ##   13, Werder Bremen 
+ (3)  DF  Karl-Heinz Schnellinger            ##   31, Milan 
+ (5)  DF  Willi Schulz                       ##   31, Hamburg 
+ (6)  DF  Wolfgang Weber                     ##   12, Köln 
+(14)  DF  Friedel Lutz                       ##   11, Eintracht Frankfurt 
+(15)  DF  Bernd Patzke                       ##    2, 1860 Munich 
+(17)  DF  Wolfgang Paul                      ##    0, Borussia Dortmund 
+(18)  DF  Klaus-Dieter Sieloff               ##    8, Stuttgart 
+
+ (4)  MF  Franz Beckenbauer                  ##    8, Bayern Munich 
+ (7)  MF  Albert Brülls                      ##   23, Brescia 
+(12)  MF  Wolfgang Overath                   ##   16, Köln 
+(16)  MF  Max Lorenz                         ##    7, Werder Bremen 
+
+ (8)  FW  Helmut Haller                      ##   22, Bologna 
+ (9)  FW  Uwe Seeler                         ##   48, Hamburg 
+(10)  FW  Sigfried Held                      ##    4, Borussia Dortmund 
+(11)  FW  Lothar Emmerich                    ##    1, Borussia Dortmund 
+(13)  FW  Heinz Hornig                       ##    7, Köln 
+(19)  FW  Werner Krämer                      ##   11, Meidericher 
+(20)  FW  Jürgen Grabowski                   ##    3, Eintracht Frankfurt 
+

@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Jorge Campos                       ##  106, Chicago Fire (USA)
+(12)  GK  Oswaldo Sánchez                    ##    9, América 
+(22)  GK  Óscar Pérez                        ##    8, Cruz Azul 
+
+ (2)  DF  Claudio Suárez                     ##  121, Guadalajara 
+ (3)  DF  Joel Sánchez                       ##   20, Guadalajara 
+ (5)  DF  Duilio Davino                      ##   48, América 
+(16)  DF  Isaac Terrazas                     ##    7, América 
+(18)  DF  Salvador Carmona                   ##   16, Toluca 
+
+ (4)  MF  Germán Villa                       ##   36, América 
+ (6)  MF  Marcelino Bernal                   ##   72, Monterrey 
+ (7)  MF  Ramón Ramírez                      ##   92, Guadalajara 
+ (8)  MF  Alberto García Aspe                ##   82, América 
+(13)  MF  Pável Pardo                        ##   43, Atlas 
+(14)  MF  Raúl Lara                          ##   24, América 
+(19)  MF  Braulio Luna                       ##   15, UNAM Pumas 
+(20)  MF  Jaime Ordiales                     ##   21, Toluca 
+(21)  MF  Jesús Arellano                     ##    7, Guadalajara 
+
+ (9)  FW  Ricardo Peláez                     ##   41, América 
+(10)  FW  Luis García                        ##   89, Atlante 
+(11)  FW  Cuauhtémoc Blanco                  ##   42, Necaxa 
+(15)  FW  Luis Hernández                     ##   46, Necaxa 
+(17)  FW  Francisco Palencia                 ##   27, Cruz Azul 
+

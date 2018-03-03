@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Klaus Lindenberger                 ##    -, Swarovski Tirol 
+(21)  GK  Michael Konsel                     ##    -, Rapid Vienna 
+(22)  GK  Otto Konrad                        ##    -, Sturm Graz 
+
+ (2)  DF  Ernst Aigner                       ##    -, Austria Vienna 
+ (3)  DF  Robert Pecl                        ##    -, Rapid Vienna 
+ (5)  DF  Peter Schöttel                     ##    -, Rapid Vienna 
+ (8)  DF  Peter Artner                       ##    -, Admira Wacker 
+(16)  DF  Andreas Reisinger                  ##    -, Rapid Vienna 
+(18)  DF  Michael Streiter                   ##    -, Swarovski Tirol 
+
+ (4)  MF  Anton Pfeffer                      ##    -, Austria Vienna 
+ (6)  MF  Manfred Zsak                       ##    -, Austria Vienna 
+ (7)  MF  Kurt Russ                          ##    -, First Vienna FC 
+(10)  MF  Manfred Linzmaier                  ##    -, Swarovski Tirol 
+(11)  MF  Alfred Hörtnagl                    ##    -, Swarovski Tirol 
+(12)  MF  Michael Baur                       ##    -, Swarovski Tirol 
+(13)  MF  Andreas Ogris                      ##    -, Austria Vienna 
+(17)  MF  Heimo Pfeifenberger                ##    -, Rapid Vienna 
+(20)  MF  Andreas Herzog                     ##    -, Rapid Vienna 
+
+ (9)  FW  Toni Polster                       ##    -, Sevilla 
+(14)  FW  Gerhard Rodax                      ##    -, Admira Wacker 
+(15)  FW  Christian Keglevits                ##    -, Rapid Vienna 
+(19)  FW  Gerald Glatzmayer                  ##    -, First Vienna FC 
+

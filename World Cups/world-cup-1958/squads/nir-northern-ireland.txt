@@ -1,0 +1,30 @@
+##############################
+# Northern Ireland (NIR) 
+#   - 22 players
+
+ (1)  GK  Harry Gregg                        ##    -, Manchester United 
+(12)  GK  Norman Uprichard                   ##    -, Portsmouth 
+(18)  GK  Roy Rea                            ##    -, Glenavon 
+
+ (2)  DF  Willie Cunningham                  ##    -, Leicester City 
+ (3)  DF  Alf McMichael                      ##    -, Newcastle United 
+ (5)  DF  Dick Keith                         ##    -, Newcastle United 
+(19)  DF  Len Graham                         ##    -, Doncaster Rovers 
+(21)  DF  Tommy Hamill                       ##    -, Linfield 
+
+ (4)  MF  Danny Blanchflower                 ##    -, Tottenham Hotspur 
+ (6)  MF  Bertie Peacock                     ##    -, Celtic 
+(20)  MF  Sammy Chapman                      ##    -, Mansfield Town 
+
+ (7)  FW  Billy Bingham                      ##    -, Sunderland 
+ (8)  FW  Wilbur Cush                        ##    -, Leeds United 
+ (9)  FW  Billy Simpson                      ##    -, Rangers 
+(10)  FW  Jimmy McIlroy                      ##    -, Burnley 
+(11)  FW  Peter McParland                    ##    -, Aston Villa 
+(13)  FW  Tommy Casey                        ##    -, Newcastle United 
+(14)  FW  Jackie Scott                       ##    -, Grimsby Town 
+(15)  FW  Sammy McCrory                      ##    -, Southend United 
+(16)  FW  Derek Dougan                       ##    -, Portsmouth 
+(17)  FW  Fay Coyle                          ##    -, Nottingham Forest 
+(22)  FW  Bobby Trainor                      ##    -, Coleraine 
+
