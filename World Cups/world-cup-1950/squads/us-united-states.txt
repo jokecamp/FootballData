@@ -1,0 +1,27 @@
+##############################
+# United States (USA) 
+#   - 19 players
+
+   -  GK  Frank Borghi                       ##    4, St. Louis Simpkins-Ford 
+   -  GK  Gino Gardassanich                  ##    0, Chicago Slovaks 
+
+   -  DF  Robert Annis                       ##    1, St. Louis Simpkins-Ford 
+   -  DF  Joe Maca                           ##    0, Brooklyn Hispano 
+   -  DF  Geoff Coombes                      ##    0, Chicago Vikings 
+   -  DF  Harry Keough                       ##    3, St. Louis McMahon 
+
+   -  MF  Charlie Colombo                    ##    7, St. Louis Simpkins-Ford 
+   -  MF  Ed McIlvenny                       ##    0, Philadelphia Nationals 
+   -  MF  Walter Bahr                        ##    7, Philadelphia Nationals 
+
+   -  FW  Benny McLaughlin                   ##    0, Philadelphia Nationals 
+   -  FW  Robert Craddock                    ##    0, Pittsburgh Harmarville S.C. 
+   -  FW  Joe Gaetjens                       ##    0, Brookhattan 
+   -  FW  Nicholas DiOrio                    ##    0, Pittsburgh Harmarville S.C. 
+   -  FW  Frank Moniz                        ##    0, Ponta Delgada S.C. 
+   -  FW  Gino Pariani                       ##    2, St. Louis Simpkins-Ford 
+   -  FW  Ed Souza                           ##    2, Ponta Delgada S.C. 
+   -  FW  John Souza                         ##    9, Ponta Delgada S.C. 
+   -  FW  Frank Wallace                      ##    4, St. Louis Simpkins-Ford 
+   -  FW  Adam Wolanin                       ##    0, Chicago Eagles 
+

@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Dragan Pantelić                    ##    -, Girondins Bordeaux 
+(12)  GK  Ivan Pudar                         ##    -, Hajduk Split (SFR)
+(22)  GK  Ratko Svilar                       ##    -, Antwerp 
+
+ (2)  DF  Ive Jerolimov                      ##    -, Rijeka (SFR)
+ (4)  DF  Velimir Zajec                      ##    -, Dinamo Zagreb (SFR)
+ (5)  DF  Nenad Stojković                    ##    -, Partizan Belgrade (SFR)
+ (6)  DF  Zlatko Krmpotić                    ##    -, Red Star Belgrade (SFR)
+ (9)  DF  Zoran Vujović                      ##    -, Hajduk Split (SFR)
+(14)  DF  Nikola Jovanović                   ##    -, Buducnost Titograd (SFR)
+(15)  DF  Miloš Hrstić                       ##    -, NK Rijeka (SFR)
+
+ (3)  MF  Ivan Gudelj                        ##    -, Hajduk Split (SFR)
+ (8)  MF  Edhem Šljivo                       ##    -, Nice 
+(10)  MF  Zvonko Živković                    ##    -, Partizan Belgrade (SFR)
+(13)  MF  Safet Sušić                        ##    -, FK Sarajevo (SFR)
+(17)  MF  Jurica Jerković                    ##    -, FC Zürich 
+
+ (7)  FW  Vladimir Petrović                  ##    -, Red Star Belgrade (SFR)
+(11)  FW  Zlatko Vujović                     ##    -, Hajduk Split (SFR)
+(16)  FW  Miloš Šestić                       ##    -, Red Star Belgrade (SFR)
+(18)  FW  Stjepan Deverić                    ##    -, Dinamo Zagreb (SFR)
+(19)  FW  Vahid Halilhodžić                  ##    -, FC Nantes 
+(20)  FW  Ivica Šurjak                       ##    -, PSG 
+(21)  FW  Predrag Pašić                      ##    -, FK Sarajevo (SFR)
+

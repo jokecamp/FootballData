@@ -1,0 +1,30 @@
+##############################
+# Soviet Union (URS) 
+#   - 22 players
+
+ (1)  GK  Lev Yashin                         ##   42, Dynamo Moscow 
+ (2)  GK  Vladimir Maslachenko               ##    8, Lokomotiv Moscow 
+ (3)  GK  Sergey Kotrikadze                  ##    0, Dinamo Tbilisi 
+
+ (4)  DF  Eduard Dubinski                    ##    9, CSKA Moscow 
+ (5)  DF  Givi Chokheli                      ##   16, Dinamo Tbilisi 
+ (6)  DF  Leonid Ostrovskiy                  ##    3, Torpedo Moscow 
+ (7)  DF  Anatoli Maslyonkin                 ##   29, Spartak Moscow 
+(12)  DF  Valery Voronin                     ##   14, Torpedo Moscow 
+
+ (8)  MF  Albert Shesternyov                 ##    1, CSKA Moscow 
+ (9)  MF  Nikolai Manoshin                   ##    8, Torpedo Moscow 
+(10)  MF  Igor Netto                         ##   48, Spartak Moscow 
+(11)  MF  Yozhef Sabo                        ##    0, Dynamo Kyiv 
+(18)  MF  Slava Metreveli                    ##   19, Torpedo Moscow 
+(21)  MF  Galimzyan Khusainov                ##    3, Spartak Moscow 
+(22)  MF  Igor Chislenko                     ##    5, Dynamo Moscow 
+
+(13)  FW  Gennadi Gusarov                    ##    5, Torpedo Moscow 
+(14)  FW  Valentin Ivanov                    ##   39, Torpedo Moscow 
+(15)  FW  Viktor Kanevski                    ##    3, Dynamo Kyiv 
+(16)  FW  Aleksei Mamykin                    ##    7, CSKA Moscow 
+(17)  FW  Mikhail Meskhi                     ##   18, Dinamo Tbilisi 
+(19)  FW  Viktor Ponedelnik                  ##   15, SKA Rostov 
+(20)  FW  Viktor Serebryanikov               ##    0, Dynamo Kyiv 
+

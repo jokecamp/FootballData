@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Rudolf Szanwald                    ##    2, Wiener SC 
+(12)  GK  Kurt Schmied                       ##   23, First Vienna FC 
+(22)  GK  Bruno Engelmeier                   ##    7, 1. Simmeringer SC 
+
+ (2)  DF  Paul Halla                         ##   20, SK Rapid Wien 
+ (3)  DF  Ernst Happel                       ##   47, SK Rapid Wien 
+ (4)  DF  Franz Swoboda                      ##   13, Austria Wien 
+ (5)  DF  Gerhard Hanappi                    ##   67, SK Rapid Wien 
+(15)  DF  Walter Kollmann                    ##   14, Wacker Wien 
+(18)  DF  Leopold Barschandt                 ##   20, Wiener SC 
+
+ (6)  MF  Karl Koller                        ##   38, First Vienna FC 
+(16)  MF  Karl Stotz                         ##   19, Austria Wien 
+(17)  MF  Ernst Kozlicek                     ##    7, Wacker Wien 
+(21)  MF  Ignaz Puschnik                     ##    1, Kapfenberger SV 
+
+ (7)  FW  Walter Horak                       ##    2, Wiener SC 
+ (8)  FW  Paul Kozlicek                      ##    5, Wacker Wien 
+ (9)  FW  Hans Buzek                         ##   10, First Vienna FC 
+(10)  FW  Alfred Körner                      ##    -, SK Rapid Wien 
+(11)  FW  Helmut Senekowitsch                ##    4, SK Sturm Graz 
+(13)  FW  Walter Schleger                    ##   17, Austria Wien 
+(14)  FW  Josef Hamerl                       ##    2, Wiener SC 
+(19)  FW  Robert Dienst                      ##   26, SK Rapid Wien 
+(20)  FW  Herbert Ninaus                     ##    0, Grazer AK 
+

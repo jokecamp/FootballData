@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Claude Abbes                       ##    3, Saint-Ètienne 
+ (2)  GK  Dominique Colonna                  ##    3, Stade de Reims 
+ (3)  GK  François Remetter                  ##   23, Girondins de Bordeaux 
+
+ (4)  DF  Raymond Kaelbel                    ##   17, AS Monaco 
+ (5)  DF  André Lerond                       ##    4, Olympique de Lyon 
+ (6)  DF  Roger Marche                       ##   55, RC Paris 
+ (7)  DF  Robert Mouynet                     ##    0, Olympique de Lyon 
+(13)  DF  Armand Penverne                    ##   26, Stade de Reims 
+
+ (8)  MF  Bernard Chiarelli                  ##    1, Valenciennes 
+ (9)  MF  Kazimir Hnatow                     ##    0, Angers 
+(10)  MF  Robert Jonquet                     ##   46, Stade de Reims 
+(11)  MF  Maurice Lafont                     ##    0, Nimes 
+(12)  MF  Jean-Jacques Marcel                ##   25, Marseille 
+(14)  MF  Raymond Bellot                     ##    0, AS Monaco 
+(18)  MF  Raymond Kopa                       ##   24, Real Madrid 
+(19)  MF  Célestin Oliver                    ##    5, UA Sedan-Torcy 
+
+(15)  FW  Stéphane Bruey                     ##    2, Angers 
+(16)  FW  Yvon Douis                         ##    3, Lille 
+(17)  FW  Just Fontaine                      ##    5, Stade de Reims 
+(20)  FW  Roger Piantoni                     ##   25, Stade de Reims 
+(21)  FW  Jean Vincent                       ##   22, Stade de Reims 
+(22)  FW  Maryan Wisnieski                   ##    9, Lens 
+

@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+ (1)  GK  Ivo Viktor                         ##   19, VTJ Dukla Praha 
+(13)  GK  Anton Flešár                       ##    1, Lokomotíva Košice 
+(22)  GK  Alexander Vencel                   ##   12, TJ Slovan CHZJD 
+
+ (2)  DF  Karol Dobiaš                       ##    9, Spartak TAZ Trnava 
+ (3)  DF  Václav Migas                       ##    4, TJ Sparta ČKD Praha 
+ (4)  DF  Vladimír Hagara                    ##   10, Spartak TAZ Trnava 
+ (5)  DF  Alexander Horváth                  ##   24, TJ Slovan CHZJD 
+(12)  DF  Ján Pivarník                       ##    6, VSS Košice 
+(14)  DF  Vladimír Hrivnák                   ##    4, TJ Slovan CHZJD 
+(15)  DF  Ján Zlocha                         ##    3, TJ Slovan CHZJD 
+
+ (7)  MF  Bohumil Veselý                     ##   13, TJ Sparta ČKD Praha 
+ (9)  MF  Ladislav Kuna                      ##   22, Spartak TAZ Trnava 
+(16)  MF  Ivan Hrdlička                      ##   13, TJ Slovan CHZJD 
+(17)  MF  Jaroslav Pollák                    ##    5, VSS Košice 
+(18)  MF  František Veselý                   ##   16, Slavia Prague 
+(19)  MF  Josef Jurkanin                     ##    8, TJ Sparta ČKD Praha 
+
+ (6)  FW  Andrej Kvašňák                     ##   49, RFC Malinois 
+ (8)  FW  Ladislav Petráš                    ##    1, TJ Internacionál Slovnaft 
+(10)  FW  Jozef Adamec                       ##   30, Spartak TAZ Trnava 
+(11)  FW  Karol Jokl                         ##   18, TJ Slovan CHZJD 
+(20)  FW  Milan Albrecht                     ##    2, Jednota Trenčín 
+(21)  FW  Ján Čapkovič                       ##    4, TJ Slovan CHZJD 
+

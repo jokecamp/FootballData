@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+ (8)  GK  Jan Jongbloed                      ##    2, F.C. Amsterdam 
+(18)  GK  Piet Schrijvers                    ##    5, F.C. Twente 
+(21)  GK  Eddy Treijtel                      ##    4, SC Feyenoord 
+
+ (4)  DF  Kees van Ierssel                   ##    4, F.C. Twente 
+ (5)  DF  Rinus Israël                       ##   44, SC Feyenoord 
+ (6)  DF  Wim Jansen                         ##   25, SC Feyenoord 
+(12)  DF  Ruud Krol                          ##   20, Ajax Amsterdam 
+(17)  DF  Wim Rijsbergen                     ##    1, SC Feyenoord 
+(19)  DF  Pleun Strik                        ##    8, PSV Eindhoven 
+(20)  DF  Wim Suurbier                       ##   27, Ajax Amsterdam 
+(22)  DF  Harry Vos                          ##    0, SC Feyenoord 
+
+ (1)  MF  Ruud Geels                         ##    3, Club Brugge 
+ (2)  MF  Arie Haan                          ##   10, Ajax Amsterdam 
+ (3)  MF  Willem van Hanegem                 ##   29, SC Feyenoord 
+ (7)  MF  Theo de Jong                       ##    8, SC Feyenoord 
+(10)  MF  René van de Kerkhof                ##    5, PSV Eindhoven 
+(11)  MF  Willy van de Kerkhof               ##    1, PSV Eindhoven 
+(13)  MF  Johan Neeskens                     ##   17, Ajax Amsterdam 
+(14)  MF  Johan Cruyff                       ##   28, CF Barcelona 
+
+ (9)  FW  Piet Keizer                        ##   33, Ajax Amsterdam 
+(15)  FW  Rob Rensenbrink                    ##   13, RSC Anderlechtois 
+(16)  FW  Johnny Rep                         ##    5, Ajax Amsterdam 
+

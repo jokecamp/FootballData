@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Marcel Aubour                      ##   11, Lyon 
+(21)  GK  Georges Carnus                     ##    1, Stade Français 
+(22)  GK  Johnny Schuth                      ##    0, Strasbourg 
+
+ (2)  DF  Marcel Artelesa                    ##   17, AS Monaco 
+ (5)  DF  Bernard Bosquier                   ##    9, Sochaux 
+ (6)  DF  Robert Budzynski                   ##    4, Nantes 
+ (7)  DF  André Chorda                       ##   20, Bordeaux 
+(10)  DF  Héctor De Bourgoing                ##    2, Bordeaux 
+(11)  DF  Gabriel De Michele                 ##    0, Nantes 
+(12)  DF  Jean Djorkaeff                     ##    7, Lyon 
+(18)  DF  Jean-Claude Piumi                  ##    2, Valenciennes 
+
+ (4)  MF  Joseph Bonnel                      ##   18, Valenciennes 
+(15)  MF  Yves Herbet                        ##    4, Sedan 
+(16)  MF  Robert Herbin                      ##   17, Saint-Etienne 
+(17)  MF  Lucien Muller                      ##   16, Barcelona 
+(20)  MF  Jacques Simon                      ##    5, Nantes 
+
+ (3)  FW  Edmond Baraffe                     ##    3, Toulouse 
+ (8)  FW  Nestor Combin                      ##    6, Varese 
+ (9)  FW  Didier Couécou                     ##    0, Bordeaux 
+(13)  FW  Philippe Gondet                    ##    -,  
+(14)  FW  Gérard Hausser                     ##    9, Strasbourg 
+(19)  FW  Laurent Robuschi                   ##    4, Bordeaux 
+

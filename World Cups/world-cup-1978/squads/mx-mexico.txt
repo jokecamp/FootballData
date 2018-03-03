@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  José Pilar Reyes                   ##    -, UANL Tigres 
+(22)  GK  Pedro Soto                         ##    -, Club América 
+
+ (2)  DF  Manuel Nájera                      ##    -, Leones Negros 
+ (3)  DF  Alfredo Tena                       ##    -, Club América 
+ (4)  DF  Eduardo Ramos                      ##    -, CD Guadalajara 
+ (5)  DF  Arturo Vázquez Ayala               ##    -, Club UNAM 
+(12)  DF  Jesús Martínez                     ##    -, Club América 
+(13)  DF  Rigoberto Cisneros                 ##    -, CD Toluca 
+(14)  DF  Carlos Gómez                       ##    -, CSD León 
+(15)  DF  Ignacio Flores Ocaranza            ##    -, Cruz Azul 
+
+ (6)  MF  Guillermo Mendizábal               ##    -, Cruz Azul 
+ (7)  MF  Antonio de la Torre                ##    -, Club América 
+(10)  MF  Cristóbal Ortega                   ##    -, Club América 
+(16)  MF  Javier Cárdenas                    ##    -, CD Toluca 
+(17)  MF  Leonardo Cuéllar                   ##    -, Club UNAM 
+(18)  MF  Gerardo Lugo                       ##    -, Atlante F.C. 
+
+ (8)  FW  Enrique López Zarza                ##    -, Club UNAM 
+ (9)  FW  Víctor Rangel                      ##    -, CD Guadalajara 
+(11)  FW  Hugo Sánchez                       ##    -, Club UNAM 
+(19)  FW  Hugo René Rodríguez                ##    -, Santos Laguna 
+(20)  FW  Mario Medina                       ##    -, CD Toluca 
+(21)  FW  Raúl Isiordia                      ##    -, Atlético Español 
+

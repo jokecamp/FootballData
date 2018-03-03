@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Antonio Carbajal                   ##    -, Club León 
+(12)  GK  Manuel Camacho                     ##    -, Club Toluca 
+(13)  GK  Jaime Gómez                        ##    -, CD Guadalajara 
+
+ (2)  DF  Jesús del Muro                     ##    -, CF Atlas 
+ (4)  DF  José Villegas                      ##    -, CD Guadalajara 
+ (5)  DF  Alfonso Portugal                   ##    -, Necaxa 
+(16)  DF  José Antonio Roca                  ##    -, CD Zacatepec 
+(17)  DF  Raúl Cárdenas                      ##    -, CD Zacatepec 
+(19)  DF  Jaime Belmonte                     ##    -, CD Cuautla 
+
+ (3)  MF  Jorge Romo                         ##    -, Club Toluca 
+ (6)  MF  Francisco Flores                   ##    -, CD Guadalajara 
+ (7)  MF  Alfredo Hernández                  ##    -, Club León 
+(15)  MF  Guillermo Sepúlveda                ##    -, CD Guadalajara 
+(18)  MF  Jaime Salazar                      ##    -, Necaxa 
+
+ (8)  FW  Salvador Reyes                     ##    -, CD Guadalajara 
+ (9)  FW  Carlos Calderón de la Barca        ##    -, Atlante F.C. 
+(10)  FW  Crescencio Gutiérrez               ##    -, CD Guadalajara 
+(11)  FW  Enrique Sesma                      ##    -, Club Toluca 
+(14)  FW  Miguel Gutiérrez                   ##    -, CF Atlas 
+(20)  FW  Carlos Blanco                      ##    -, Club Toluca 
+(21)  FW  Ligorio López                      ##    -, Club Irapuato 
+(22)  FW  Carlos González                    ##    -, CF Atlas 
+

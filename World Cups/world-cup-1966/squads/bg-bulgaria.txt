@@ -1,0 +1,30 @@
+##############################
+# Bulgaria (BUL) 
+#   - 22 players
+
+ (1)  GK  Georgi Naydenov                    ##   44, CSKA Sofia 
+(21)  GK  Simeon Simeonov                    ##    4, Slavia Sofia 
+(22)  GK  Ivan Deyanov                       ##    8, Lokomotiv Sofia 
+
+ (2)  DF  Aleksandar Shalamanov              ##   12, Slavia Sofia 
+ (3)  DF  Ivan Vutsov                        ##   18, Levski Sofia 
+ (4)  DF  Boris Gaganelov                    ##   20, CSKA Sofia 
+ (5)  DF  Dimitar Penev                      ##   16, CSKA Sofia 
+(10)  DF  Dobromir Zhechev                   ##   13, Spartak Sofia 
+(15)  DF  Dimitar Largov                     ##   17, Slavia Sofia 
+(19)  DF  Vidin Apostolov                    ##   12, Botev Plovdiv 
+
+ (7)  MF  Dinko Dermendzhiev                 ##    6, Botev Plovdiv 
+ (8)  MF  Stoyan Kitov                       ##   18, Spartak Sofia 
+(12)  MF  Vasil Metodiev                     ##   17, Lokomotiv Sofia 
+(18)  MF  Evgeni Yanchovski                  ##    8, Beroe Stara Zagora 
+(20)  MF  Ivan Davidov                       ##    0, Slavia Sofia 
+
+ (6)  FW  Petar Zhekov                       ##    4, Beroe Stara Zagora 
+ (9)  FW  Georgi Asparuhov                   ##   26, Levski Sofia 
+(11)  FW  Ivan Kolev                         ##   67, CSKA Sofia 
+(13)  FW  Dimitar Yakimov                    ##   34, CSKA Sofia 
+(14)  FW  Nikola Kotkov                      ##   16, Lokomotiv Sofia 
+(16)  FW  Aleksandar Kostov                  ##    7, Levski Sofia 
+(17)  FW  Stefan Abadzhiev                   ##   25, Levski Sofia 
+

@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Enrico Albertosi                   ##   10, Fiorentina 
+ (2)  GK  Roberto Anzolin                    ##    1, Juventus 
+(18)  GK  Pierluigi Pizzaballa               ##    1, Atalanta 
+
+ (5)  DF  Tarcisio Burgnich                  ##   12, Internazionale 
+ (6)  DF  Giacinto Facchetti                 ##   21, Internazionale 
+ (8)  DF  Aristide Guarneri                  ##   12, Internazionale 
+ (9)  DF  Francesco Janich                   ##    5, Bologna 
+(11)  DF  Spartaco Landini                   ##    1, Internazionale 
+(21)  DF  Roberto Rosato                     ##   12, Torino 
+(22)  DF  Sandro Salvadore                   ##   27, Juventus 
+
+ (3)  MF  Paolo Barison                      ##    7, Roma 
+ (4)  MF  Giacomo Bulgarelli                 ##   24, Bologna 
+ (7)  MF  Romano Fogli                       ##   11, Bologna 
+(12)  MF  Gianfranco Leoncini                ##    1, Juventus 
+(13)  MF  Giovanni Lodetti                   ##   12, Milan 
+(17)  MF  Marino Perani                      ##    2, Bologna 
+
+(10)  FW  Antonio Juliano                    ##    1, Napoli 
+(14)  FW  Sandro Mazzola                     ##   19, Internazionale 
+(15)  FW  Luigi Meroni                       ##    5, Torino 
+(16)  FW  Ezio Pascutti                      ##   15, Bologna 
+(19)  FW  Gianni Rivera                      ##   23, Milan 
+(20)  FW  Francesco Rizzo                    ##    2, Cagliari 
+

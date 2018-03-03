@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+ (1)  GK  Roque Máspoli                      ##   35, Peñarol 
+(12)  GK  Julio Maceiras                     ##    1, Danubio 
+
+ (2)  DF  José Santamaría                    ##    3, Nacional 
+ (3)  DF  William Martínez                   ##   11, Rampla Juniors 
+ (4)  DF  Víctor Rodríguez Andrade           ##   20, Peñarol 
+(13)  DF  Mirto Davoine                      ##    1, Peñarol 
+(14)  DF  Eusebio Tejera                     ##   31, Defensor 
+
+ (5)  MF  Obdulio Varela                     ##   43, Peñarol 
+ (6)  MF  Roberto Leopardi                   ##    3, Nacional 
+(15)  MF  Urbano Rivera                      ##    8, Danubio 
+(16)  MF  Néstor Carballo                    ##   10, Nacional 
+(17)  MF  Luis Cruz                          ##    7, Nacional 
+
+ (7)  FW  Julio Abbadie                      ##    9, Peñarol 
+ (8)  FW  Juan Hohberg                       ##    3, Peñarol 
+ (9)  FW  Oscar Míguez                       ##   14, Peñarol 
+(10)  FW  Juan Alberto Schiaffino            ##   14, Peñarol 
+(11)  FW  Carlos Borges                      ##    2, Peñarol 
+(18)  FW  Rafael Souto                       ##    4, Nacional 
+(19)  FW  Javier Ambrois                     ##    7, Nacional 
+(20)  FW  Omar Méndez                        ##    3, Nacional 
+(21)  FW  Julio Pérez                        ##   14, Nacional 
+(22)  FW  Luis Castro                        ##    1, Defensor 
+

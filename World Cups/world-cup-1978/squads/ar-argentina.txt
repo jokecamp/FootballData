@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (3)  GK  Héctor Baley                       ##    -, Huracán 
+ (5)  GK  Ubaldo Fillol                      ##    -, River Plate 
+(13)  GK  Ricardo La Volpe                   ##    -, San Lorenzo 
+
+ (7)  DF  Luis Galván                        ##    -, Talleres de Córdoba 
+(11)  DF  Daniel Killer                      ##    -, Racing Club 
+(15)  DF  Jorge Olguín                       ##    -, San Lorenzo 
+(18)  DF  Rubén Pagnanini                    ##    -, Independiente 
+(19)  DF  Daniel Passarella                  ##    -, River Plate 
+(20)  DF  Alberto Tarantini                  ##    -, Boca Juniors 
+
+ (1)  MF  Norberto Alonso                    ##    -, River Plate 
+ (2)  MF  Osvaldo Ardiles                    ##    -, Huracán 
+ (4)  MF  Daniel Bertoni                     ##    -, Independiente 
+ (6)  MF  Américo Gallego                    ##    -, Newell's Old Boys 
+ (8)  MF  Rubén Galván                       ##    -, Independiente 
+ (9)  MF  René Houseman                      ##    -, Huracán 
+(12)  MF  Omar Larrosa                       ##    -, Independiente 
+(16)  MF  Oscar Ortiz                        ##    -, River Plate 
+(17)  MF  Miguel Oviedo                      ##    -, Talleres de Córdoba 
+(21)  MF  José Daniel Valencia               ##    -, Talleres de Córdoba 
+(22)  MF  Ricardo Villa                      ##    -, Racing Club 
+
+(10)  FW  Mario Kempes                       ##    -, Valencia 
+(14)  FW  Leopoldo Luque                     ##    -, River Plate 
+

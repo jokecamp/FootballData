@@ -1,0 +1,30 @@
+##############################
+# Zaire (ZAI) 
+#   - 22 players
+
+ (1)  GK  Kazadi Mwamba                      ##    -, TP Mazembe 
+(12)  GK  Tubilandu Ndimbi                   ##    -, AS Vita Club 
+(22)  GK  Kalambay Otepa                     ##    -, TP Mazembe 
+
+ (2)  DF  Mwepu Ilunga                       ##    -, TP Mazembe 
+ (3)  DF  Mwanza Mukombo                     ##    -, TP Mazembe 
+ (4)  DF  Bwanga Tshimen                     ##    -, TP Mazembe 
+ (5)  DF  Lobilo Boba                        ##    -, AS Vita Club 
+(11)  DF  Kabasu Babo                        ##    -, AS Bilima 
+(16)  DF  Mwape Mialo                        ##    -, Nyiki Lubumbashi 
+
+ (6)  MF  Kilasu Massamba                    ##    -, AS Bilima 
+ (7)  MF  Tshinabu Wa Munda                  ##    -, TP Mazembe 
+ (8)  MF  Mana Mamuwene                      ##    -, CS Imana 
+ (9)  MF  Kembo Uba Kembo                    ##    -, AS Vita Club 
+(10)  MF  Kidumu Mantantu                    ##    -, CS Imana 
+(13)  MF  Ndaye Mulamba                      ##    -, AS Vita Club 
+(15)  MF  Kibonge Mafu                       ##    -, AS Vita Club 
+(17)  MF  Kafula Ngoie                       ##    -, TP Mazembe 
+
+(14)  FW  Mayanga Maku                       ##    -, AS Vita Club 
+(18)  FW  Mavuba Mafuila                     ##    -, AS Vita Club 
+(19)  FW  Mbungu Ekofa                       ##    -, CS Imana 
+(20)  FW  Jean Kalala N'Tumba                ##    -, AS Vita Club 
+(21)  FW  Kakoko Etepé                       ##    -, CS Imana 
+

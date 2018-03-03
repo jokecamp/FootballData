@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Antonio Roma                       ##    -, Boca Juniors 
+ (2)  GK  Rolando Irusta                     ##    -, Lanús 
+ (3)  GK  Hugo Gatti                         ##    -, River Plate 
+
+ (4)  DF  Roberto Perfumo                    ##    -, Racing Club 
+ (7)  DF  Silvio Marzolini                   ##    -, Boca Juniors 
+ (8)  DF  Roberto Ferreiro                   ##    -, Independiente 
+(13)  DF  Nelson López                       ##    -, Banfield 
+
+ (5)  MF  José Varacka                       ##    -, San Lorenzo 
+ (6)  MF  Oscar Calics                       ##    -, San Lorenzo 
+ (9)  MF  Carmelo Simeone                    ##    -, Boca Juniors 
+(10)  MF  Antonio Rattín                     ##    -, Boca Juniors 
+(11)  MF  José Omar Pastoriza                ##    -, Independiente 
+(12)  MF  Rafael Albrecht                    ##    -, San Lorenzo 
+(15)  MF  Jorge Solari                       ##    -, River Plate 
+(17)  MF  Juan Carlos Sarnari                ##    -, River Plate 
+(19)  MF  Luis Artime                        ##    -, Independiente 
+
+(14)  FW  Mario Chaldú                       ##    -, San Lorenzo 
+(16)  FW  Alberto González                   ##    -, Boca Juniors 
+(18)  FW  Alfredo Rojas                      ##    -, Boca Juniors 
+(20)  FW  Ermindo Onega                      ##    -, River Plate 
+(21)  FW  Oscar Más                          ##    -, River Plate 
+(22)  FW  Aníbal Tarabini                    ##    -, Independiente 
+

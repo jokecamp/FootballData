@@ -1,0 +1,30 @@
+##############################
+# Portugal (POR) 
+#   - 22 players
+
+ (1)  GK  Américo                            ##    -, Porto 
+ (2)  GK  Joaquim Carvalho                   ##    -, Sporting CP 
+ (3)  GK  José Pereira                       ##    -, Belenenses 
+
+ (4)  DF  Vicente                            ##    -, Belenenses 
+ (5)  DF  Germano                            ##    -, Benfica 
+(17)  DF  João Morais                        ##    -, Sporting CP 
+(20)  DF  Alexandre Baptista                 ##    -, Sporting CP 
+(21)  DF  José Carlos                        ##    -, Sporting CP 
+(22)  DF  Alberto Festa                      ##    -, Porto 
+
+ (6)  MF  Fernando Peres                     ##    -, Sporting CP 
+ (9)  MF  Hilário                            ##    -, Sporting CP 
+(10)  MF  Mário Coluna                       ##    -, Benfica 
+(11)  MF  António Simões                     ##    -, Benfica 
+(12)  MF  José Augusto                       ##    -, Benfica 
+(14)  MF  Fernando Cruz                      ##    -, Benfica 
+(16)  MF  Jaime Graça                        ##    -, Vitória Setúbal 
+(19)  MF  Custódio Pinto                     ##    -, Porto 
+
+ (7)  FW  Ernesto Figueiredo                 ##    -, Sporting CP 
+ (8)  FW  João Lourenço                      ##    -, Sporting CP 
+(13)  FW  Eusébio                            ##    -, Benfica 
+(15)  FW  Manuel Duarte                      ##    -, Leixões 
+(18)  FW  José Torres                        ##    -, Benfica 
+

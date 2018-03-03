@@ -1,0 +1,30 @@
+##############################
+# New Zealand (NZL) 
+#   - 22 players
+
+ (1)  GK  Richard Wilson                     ##    -, Preston Macedonia 
+(21)  GK  Barry Pickering                    ##    -, Miramar Rangers 
+(22)  GK  Frank van Hattum                   ##    -, Manurewa AFC 
+
+ (2)  DF  Glenn Dods                         ##    -, Adelaide City 
+ (3)  DF  Ricki Herbert                      ##    -, Mount Wellington 
+ (5)  DF  Dave Bright                        ##    -, Manurewa AFC 
+ (6)  DF  Bobby Almond                       ##    -, Invercargill Thistle 
+(14)  DF  Adrian Elrick                      ##    -, Hanimex United 
+(15)  DF  John Hill                          ##    -, Gisborne City 
+(16)  DF  Glen Adam                          ##    -, Mount Wellington 
+
+ (4)  MF  Brian Turner                       ##    -, Gisborne City 
+ (8)  MF  Duncan Cole                        ##    -, Hanimex United 
+(10)  MF  Steve Sumner                       ##    -, West Adelaide Hellas 
+(11)  MF  Sam Malcolmson                     ##    -, East Coast Bays AFC 
+(12)  MF  Keith MacKay                       ##    -, Gisborne City 
+(13)  MF  Kenny Cresswell                    ##    -, Gisborne City 
+(17)  MF  Allan Boath                        ##    -, West Adelaide Hellas 
+(18)  MF  Peter Simonsen                     ##    -, Manurewa AFC 
+(19)  MF  Billy McClure                      ##    -, Mount Wellington 
+
+ (7)  FW  Wynton Rufer                       ##    -, Miramar Rangers 
+ (9)  FW  Steve Wooddin                      ##    -, South Melbourne FC 
+(20)  FW  Grant Turner                       ##    -, Gisborne City 
+

@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+ (1)  GK  Ronnie Hellström                   ##    -, Hammarby 
+(12)  GK  Sven-Gunnar Larsson                ##    -, Örebro 
+(17)  GK  Göran Hagberg                      ##    -,  
+
+ (2)  DF  Jan Olsson                         ##    -, Åtvidaberg 
+ (3)  DF  Kent Karlsson                      ##    -, Åtvidaberg 
+ (4)  DF  Björn Nordqvist                    ##    -, PSV Eindhoven 
+ (5)  DF  Björn Andersson                    ##    -,  
+(13)  DF  Roland Grip                        ##    -, AIK 
+(18)  DF  Jörgen Augustsson                  ##    -, Åtvidaberg 
+
+ (6)  MF  Ove Grahn                          ##    -, Grasshoppers 
+ (7)  MF  Bo Larsson                         ##    -, Malmö 
+ (8)  MF  Conny Torstensson                  ##    -, Bayern Munich 
+(14)  MF  Staffan Tapper                     ##    -, Malmö 
+(15)  MF  Benno Magnusson                    ##    -, Kaiserslautern 
+(16)  MF  Inge Ejderstedt                    ##    -,  
+(19)  MF  Claes Cronqvist                    ##    -, Landskrona BoIS 
+(20)  MF  Sven Lindman                       ##    -, Djurgården 
+(21)  MF  Örjan Persson                      ##    -, Örgryte 
+
+ (9)  FW  Ove Kindvall                       ##    -, IFK Norrköping 
+(10)  FW  Ralf Edström                       ##    -, PSV Eindhoven 
+(11)  FW  Roland Sandberg                    ##    -, Kaiserslautern 
+(22)  FW  Thomas Ahlström                    ##    -, Elfsborg 
+

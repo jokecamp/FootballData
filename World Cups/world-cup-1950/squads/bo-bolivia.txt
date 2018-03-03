@@ -1,0 +1,30 @@
+##############################
+# Bolivia (BOL) 
+#   - 22 players
+
+   -  GK  Vicente Arraya                     ##   26, Ferroviario La Paz 
+   -  GK  Eduardo Gutiérrez                  ##   12, CD Ingavi 
+
+   -  DF  José Bustamante                    ##   31, Club Litoral 
+   -  DF  Alberto Figueroa de Acha           ##   23, The Strongest 
+   -  DF  Antonio Greco                      ##    0, Club Litoral 
+
+   -  MF  Juan Arricio                       ##    0, Ayacucho La Paz 
+   -  MF  Duberty Aráoz                      ##   10, Club Litoral 
+   -  MF  Alberto Aparicio                   ##    0, Ferroviario La Paz 
+   -  MF  René Cabrera                       ##    8, Club Jorge Wilstermann 
+   -  MF  Eulogio Sandoval                   ##    0, Club Litoral 
+   -  MF  Leonardo Ferrel                    ##   18, The Strongest 
+   -  MF  Humberto Saavedra                  ##    0, The Strongest 
+   -  MF  Antonio Valencia                   ##    9, Club Bolívar 
+
+   -  FW  Juan Guerra                        ##    9, Ferroviario La Paz 
+   -  FW  Benigno Gutiérrez                  ##   15, Club Litoral 
+   -  FW  Roberto Capparelli                 ##    0, The Strongest 
+   -  FW  Benjamin Maldonado                 ##    4, San Jose de Oruro 
+   -  FW  Mario Mena                         ##    9, Club Bolívar 
+   -  FW  Víctor Brown                       ##    2, Club Litoral 
+   -  FW  Víctor Celestino Algarañaz         ##    8, Club Litoral 
+   -  FW  Víctor Agustín Ugarte              ##   16, Club Bolívar 
+   -  FW  Benedicto Godoy Véizaga            ##    9, Ferroviario La Paz 
+

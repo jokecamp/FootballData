@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Alan Rough                         ##    -, Partick Thistle 
+(12)  GK  Jim Blyth                          ##    -, Coventry City 
+(20)  GK  Bobby Clark                        ##    -, Aberdeen 
+
+ (2)  DF  Sandy Jardine                      ##    -, Rangers 
+ (3)  DF  Willie Donachie                    ##    -, Manchester City 
+ (4)  DF  Martin Buchan                      ##    -, Manchester United 
+ (5)  DF  Gordon McQueen                     ##    -, Manchester United 
+(13)  DF  Stuart Kennedy                     ##    -, Aberdeen 
+(14)  DF  Tom Forsyth                        ##    -, Rangers 
+(22)  DF  Kenny Burns                        ##    -, Nottingham Forest 
+
+ (6)  MF  Bruce Rioch                        ##    -, Derby County 
+ (7)  MF  Don Masson                         ##    -, Derby County 
+(10)  MF  Asa Hartford                       ##    -, Manchester City 
+(11)  MF  Willie Johnston                    ##    -, West Bromwich 
+(15)  MF  Archie Gemmill                     ##    -, Nottingham Forest 
+(18)  MF  Graeme Souness                     ##    -, Liverpool 
+
+ (8)  FW  Kenny Dalglish                     ##    -, Liverpool 
+ (9)  FW  Joe Jordan                         ##    -, Manchester United 
+(16)  FW  Lou Macari                         ##    -, Manchester United 
+(17)  FW  Derek Johnstone                    ##    -, Rangers 
+(19)  FW  John Robertson                     ##    -, Nottingham Forest 
+(21)  FW  Joe Harper                         ##    -, Aberdeen 
+

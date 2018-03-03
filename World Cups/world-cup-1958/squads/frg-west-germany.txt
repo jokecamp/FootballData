@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Fritz Herkenrath                   ##   15, Rot-Weiss Essen 
+(21)  GK  Günter Sawitzki                    ##    4, VfB Stuttgart 
+(22)  GK  Heinz Kwiatkowski                  ##    3, BV Borussia Dortmund 
+
+ (2)  DF  Herbert Erhardt                    ##   17, SpVgg Fürth 
+ (3)  DF  Erich Juskowiak                    ##   20, Fortuna Düsseldorf 
+ (5)  DF  Heinz Wewers                       ##   11, Rot-Weiss Essen 
+ (7)  DF  Georg Stollenwerk                  ##    8, 1. FC Köln 
+(17)  DF  Karl-Heinz Schnellinger            ##    1, SG Düren 99 
+(20)  DF  Hermann Nuber                      ##    0, Kickers Offenbach 
+
+ (4)  MF  Horst Eckel                        ##   27, 1. FC Kaiserslautern 
+ (6)  MF  Horst Szymaniak                    ##    9, Wuppertaler SV 
+ (9)  MF  Fritz Walter                       ##   56, 1. FC Kaiserslautern 
+(18)  MF  Rudi Hoffmann                      ##    1, VfB Stuttgart 
+(19)  MF  Wolfgang Peters                    ##    1, BV Borussia Dortmund 
+
+ (8)  FW  Helmut Rahn                        ##   22, Rot-Weiss Essen 
+(10)  FW  Aki Schmidt                        ##    7, BV Borussia Dortmund 
+(11)  FW  Hans Schäfer                       ##   27, 1. FC Köln 
+(12)  FW  Uwe Seeler                         ##    4, Hamburger SV 
+(13)  FW  Bernhard Klodt                     ##   16, FC Schalke 04 
+(14)  FW  Hans Cieslarczyk                   ##    3, SV Sodingen 
+(15)  FW  Alfred Kelbassa                    ##    5, BV Borussia Dortmund 
+(16)  FW  Hans Sturm                         ##    1, 1. FC Köln 
+

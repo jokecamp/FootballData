@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Sepp Maier                         ##    -, Bayern Munich 
+(21)  GK  Rudolf Kargus                      ##    -, Hamburger SV 
+(22)  GK  Dieter Burdenski                   ##    -, Werder Bremen 
+
+ (2)  DF  Berti Vogts                        ##    -, Borussia Mönchengladbach 
+ (3)  DF  Bernard Dietz                      ##    -, MSV Duisburg 
+ (5)  DF  Manfred Kaltz                      ##    -, Hamburger SV 
+(12)  DF  Hans-Georg Schwarzenbeck           ##    -, Bayern Munich 
+(13)  DF  Harald Konopka                     ##    -, FC Köln 
+
+ (4)  MF  Rolf Rüssmann                      ##    -, Schalke 04 
+ (6)  MF  Rainer Bonhof                      ##    -, Borussia Mönchengladbach 
+(10)  MF  Heinz Flohe                        ##    -, FC Köln 
+(15)  MF  Erich Beer                         ##    -, Hertha Berlin 
+(16)  MF  Bernhard Cullmann                  ##    -, FC Köln 
+(18)  MF  Gerd Zewe                          ##    -, Fortuna Düsseldorf 
+(20)  MF  Hansi Müller                       ##    -, VfB Stuttgart 
+
+ (7)  FW  Rüdiger Abramczik                  ##    -, Schalke 04 
+ (8)  FW  Herbert Zimmermann                 ##    -, FC Köln 
+ (9)  FW  Klaus Fischer                      ##    -, Schalke 04 
+(11)  FW  Karl-Heinz Rummenigge              ##    -, Bayern Munich 
+(14)  FW  Dieter Müller                      ##    -, FC Köln 
+(17)  FW  Bernd Hölzenbein                   ##    -, Eintracht Frankfurt 
+(19)  FW  Ronald Worm                        ##    -, MSV Duisburg 
+

@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  François Remetter                  ##    4, FC Metz 
+ (2)  GK  César Ruminski                     ##    7, Lille OSC 
+ (3)  GK  Claude Abbes                       ##    0, AS Saint-Étienne 
+
+ (4)  DF  Lazare Gianessi                    ##   12, AS Monaco 
+ (5)  DF  Jacques Grimonpon                  ##    0, FC Girondins de Bordeaux 
+ (6)  DF  Raymond Kaelbel                    ##    0, RC Strasbourg 
+ (7)  DF  Roger Marche                       ##   37, Stade de Reims 
+(14)  DF  Armand Penverne                    ##   11, Stade de Reims 
+
+ (8)  MF  Guillaume Bieganski                ##    1, Lille OSC 
+ (9)  MF  Antoine Cuissard                   ##   27, OGC Nice 
+(10)  MF  Robert Jonquet                     ##   26, Stade de Reims 
+(11)  MF  Xercès Louis                       ##    0, RC Lens 
+(12)  MF  Jean-Jacques Marcel                ##    8, FC Sochaux 
+(15)  MF  Abdelaziz Ben Tifour               ##    1, AS Troyes 
+(19)  MF  Michel Leblond                     ##    1, Stade de Reims 
+
+(13)  FW  Abderrahmane Mahjoub               ##    2, OGC Nice 
+(16)  FW  René Dereuddre                     ##    1, Toulouse FC 
+(17)  FW  Léon Glovacki                      ##    3, Stade de Reims 
+(18)  FW  Raymond Kopa                       ##   13, Stade de Reims 
+(20)  FW  Ernest Schultz                     ##    0, Olympique de Lyon 
+(21)  FW  André Strappe                      ##   23, Lille OSC 
+(22)  FW  Jean Vincent                       ##    2, Lille OSC 
+

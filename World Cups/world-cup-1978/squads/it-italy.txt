@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Dino Zoff                          ##    -, Juventus 
+(12)  GK  Paolo Conti                        ##    -, Roma 
+(22)  GK  Ivano Bordon                       ##    -, Internazionale 
+
+ (2)  DF  Mauro Bellugi                      ##    -, Bologna 
+ (3)  DF  Antonio Cabrini                    ##    -, Juventus 
+ (4)  DF  Antonello Cuccureddu               ##    -, Juventus 
+ (5)  DF  Claudio Gentile                    ##    -, Juventus 
+ (6)  DF  Aldo Maldera                       ##    -, Milan 
+ (7)  DF  Lionello Manfredonia               ##    -, Lazio 
+ (8)  DF  Gaetano Scirea                     ##    -, Juventus 
+
+ (9)  MF  Giancarlo Antognoni                ##    -, Fiorentina 
+(10)  MF  Romeo Benetti                      ##    -, Juventus 
+(11)  MF  Eraldo Pecci                       ##    -, Torino 
+(13)  MF  Patrizio Sala                      ##    -, Torino 
+(14)  MF  Marco Tardelli                     ##    -, Juventus 
+(15)  MF  Renato Zaccarelli                  ##    -, Torino 
+(16)  MF  Franco Causio                      ##    -, Juventus 
+(17)  MF  Claudio Sala                       ##    -, Torino 
+
+(18)  FW  Roberto Bettega                    ##    -, Juventus 
+(19)  FW  Francesco Graziani                 ##    -, Torino 
+(20)  FW  Paolo Pulici                       ##    -, Torino 
+(21)  FW  Paolo Rossi                        ##    -, Vicenza 
+

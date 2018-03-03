@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Vladimir Beara                     ##   53, Crvena zvezda 
+(15)  GK  Srboljub Krivokuća                 ##    4, Crvena zvezda 
+(21)  GK  Gordan Irović                      ##    0, Dinamo Zagreb 
+
+ (3)  DF  Vasilije Šijaković                 ##    3, OFK Beograd 
+ (5)  DF  Novak Tomić                        ##    0, Crvena zvezda 
+ (6)  DF  Branko Zebec                       ##   48, FK Partizan Belgrade 
+(11)  DF  Vladimir Popović                   ##    1, Crvena zvezda 
+(14)  DF  Milorad Milutinović                ##    -, FK Partizan 
+(20)  DF  Nikola Radović                     ##    3, Crvena zvezda 
+
+ (2)  MF  Dragoslav Šekularac                ##    5, Crvena zvezda 
+ (4)  MF  Tomislav Crnković                  ##   38, Dinamo Zagreb 
+ (8)  MF  Dobrosav Krstić                    ##   22, Vojvodina Novi Sad 
+ (9)  MF  Vujadin Boškov                     ##   53, Vojvodina Novi Sad 
+(10)  MF  Ivan Šantek                        ##    5, Dinamo Zagreb 
+(17)  MF  Zdravko Rajkov                     ##   24, Vojvodina Novi Sad 
+
+ (7)  FW  Miloš Milutinović                  ##   30, FK Partizan 
+(12)  FW  Aleksandar Petaković               ##   11, Radnicki Belgrade 
+(13)  FW  Todor Veselinović                  ##   26, Vojvodina Novi Sad 
+(16)  FW  Ilijas Pašić                       ##    7, Zeljeznicar Sarajevo 
+(18)  FW  Luka Lipošinović                   ##    6, Dinamo Zagreb 
+(19)  FW  Radivoje Ognjanović                ##    1, Radnicki Belgrade 
+(22)  FW  Dražan Jerković                    ##    0, Dinamo Zagreb 
+

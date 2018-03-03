@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Lorenzo Buffon                     ##   13, Internazionale 
+(12)  GK  Carlo Mattrel                      ##    1, Palermo 
+(13)  GK  Enrico Albertosi                   ##    1, Fiorentina 
+
+ (2)  DF  Giacomo Losi                       ##    9, Roma 
+ (4)  DF  Sandro Salvadore                   ##    5, Milan 
+ (5)  DF  Cesare Maldini                     ##    6, Milan 
+(16)  DF  Enzo Robotti                       ##    6, Fiorentina 
+(18)  DF  Mario David                        ##    2, Milan 
+(19)  DF  Francesco Janich                   ##    0, Bologna 
+
+ (3)  MF  Luigi Radice                       ##    2, Milan 
+ (6)  MF  Giovanni Trapattoni                ##    7, Milan 
+(20)  MF  Paride Tumburus                    ##    0, Bologna 
+(21)  MF  Giorgio Ferrini                    ##    1, Torino 
+
+ (7)  FW  Bruno Mora                         ##    9, Juventus 
+ (8)  FW  Humberto Maschio                   ##    1, Atalanta 
+ (9)  FW  José Altafini                      ##    4, Milan 
+(10)  FW  Omar Sívori                        ##    7, Juventus 
+(11)  FW  Giampaolo Menichelli               ##    2, Roma 
+(14)  FW  Gianni Rivera                      ##    1, Milan 
+(15)  FW  Angelo Sormani                     ##    0, Mantova 
+(17)  FW  Ezio Pascutti                      ##    1, Bologna 
+(22)  FW  Giacomo Bulgarelli                 ##    0, Bologna 
+

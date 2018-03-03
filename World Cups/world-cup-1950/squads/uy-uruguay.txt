@@ -1,0 +1,30 @@
+##############################
+# Uruguay (URU) 
+#   - 22 players
+
+   -  GK  Aníbal Paz                         ##   23, Nacional 
+   -  GK  Roque Máspoli                      ##   27, Peñarol 
+
+   -  DF  Schubert Gambetta                  ##   39, Nacional 
+   -  DF  Eusebio Tejera                     ##   28, Nacional 
+   -  DF  Juan Carlos González               ##    3, Peñarol 
+   -  DF  Matías González                    ##    7, Cerro 
+   -  DF  William Martínez                   ##    3, Rampla Juniors 
+   -  DF  Héctor Vilches                     ##    5, Cerro 
+
+   -  MF  Víctor Rodríguez Andrade           ##   11, Central 
+   -  MF  Obdulio Varela                     ##   39, Peñarol 
+   -  MF  Washington Ortuño                  ##    0, Peñarol 
+   -  MF  Rodolfo Pini                       ##    6, Nacional 
+
+   -  FW  Oscar Míguez                       ##    5, Peñarol 
+   -  FW  Alcides Ghiggia                    ##    3, Peñarol 
+   -  FW  Luis Rijo                          ##    0, Central 
+   -  FW  Julio Pérez                        ##    7, Nacional 
+   -  FW  Carlos Romero                      ##    3, Danubio 
+   -  FW  Juan Alberto Schiaffino            ##    9, Peñarol 
+   -  FW  Juan Burgueño                      ##    4, Danubio 
+   -  FW  Rubén Morán                        ##    2, Cerro 
+   -  FW  Ernesto Vidal                      ##    0, Peñarol 
+   -  FW  Julio César Britos                 ##   10, Peñarol 
+

@@ -1,0 +1,30 @@
+##############################
+# Soviet Union (URS) 
+#   - 22 players
+
+ (1)  GK  Leonid Shmuts                      ##    0, CSKA Moscow 
+ (2)  GK  Anzor Kavazashvili                 ##   25, Spartak Moscow 
+(13)  GK  Lev Yashin                         ##   74, Dynamo Moscow 
+
+ (3)  DF  Valentin Afonin                    ##   38, SKA Rostov 
+ (4)  DF  Revaz Dzodzuashvili                ##   10, Dynamo Tblisi 
+ (5)  DF  Vladimir Kaplichny                 ##   22, CSKA Moscow 
+ (6)  DF  Evgeny Lovchev                     ##   10, Spartak Moscow 
+ (7)  DF  Gennady Logofet                    ##   15, Spartak Moscow 
+ (8)  DF  Murtaz Khurtsilava                 ##   39, Dynamo Tblisi 
+ (9)  DF  Albert Shesternyov                 ##   74, CSKA Moscow 
+
+(10)  MF  Valery Zikov                       ##    1, Dynamo Moscow 
+(11)  MF  Kakhi Asatiani                     ##   10, Dynamo Tblisi 
+(12)  MF  Nikolay Kiselyov                   ##    8, Spartak Moscow 
+(14)  MF  Vladimir Muntyan                   ##   13, Dynamo Kiev 
+(15)  MF  Viktor Serebryanikov               ##   19, Dynamo Kiev 
+
+(16)  FW  Anatoliy Byshovets                 ##   29, Dynamo Kiev 
+(17)  FW  Gennady Yevriuzhikin               ##   13, Dynamo Moscow 
+(18)  FW  Slava Metreveli                    ##   48, Dynamo Tblisi 
+(19)  FW  Givi Nodia                         ##   10, Dynamo Tblisi 
+(20)  FW  Anatoliy Puzach                    ##   10, Dynamo Kiev 
+(21)  FW  Vitaly Khmelnitsky                 ##   13, Dynamo Kiev 
+(22)  FW  Valeriy Porkujan                   ##    8, Chornomorets Odessa 
+

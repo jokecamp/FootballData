@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Hans Tilkowski                     ##   18, Westfalia Herne 
+(21)  GK  Günter Sawitzki                    ##    9, VfB Stuttgart 
+(22)  GK  Wolfgang Fahrian                   ##    1, TSG Ulm 1846 
+
+ (2)  DF  Herbert Erhardt                    ##   45, Greuther Fürth 
+ (3)  DF  Karl-Heinz Schnellinger            ##   19, 1. FC Köln 
+ (4)  DF  Willi Schulz                       ##    8, FC Schalke 04 
+ (5)  DF  Leo Wilden                         ##    6, 1. FC Köln 
+(12)  DF  Hans Nowak                         ##    3, FC Schalke 04 
+(13)  DF  Jürgen Kurbjuhn                    ##    1, Hamburger SV 
+(14)  DF  Jürgen Werner                      ##    2, Hamburger SV 
+
+ (6)  MF  Horst Szymaniak                    ##   33, Calcio Catania 
+ (7)  MF  Willi Koslowski                    ##    1, FC Schalke 04 
+(10)  MF  Albert Brülls                      ##   18, Borussia Mönchengladbach 
+(15)  MF  Willi Giesemann                    ##    9, Bayern Munich 
+(16)  MF  Hans Sturm                         ##    2, 1. FC Köln 
+(18)  MF  Günther Herrmann                   ##    7, Karlsruher SC 
+
+ (8)  FW  Helmut Haller                      ##   16, BC Augsburg 
+ (9)  FW  Uwe Seeler                         ##   30, Hamburger SV 
+(11)  FW  Hans Schäfer                       ##   35, 1. FC Köln 
+(17)  FW  Engelbert Kraus                    ##    5, Kickers Offenbach 
+(19)  FW  Heinz Strehl                       ##    0, 1. FC Nuremberg 
+(20)  FW  Heinz Vollmar                      ##   12, 1. FC Saarbrücken 
+

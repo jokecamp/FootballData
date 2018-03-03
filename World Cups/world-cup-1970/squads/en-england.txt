@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Gordon Banks                       ##   59, Stoke City 
+(12)  GK  Peter Bonetti                      ##    6, Chelsea 
+(13)  GK  Alex Stepney                       ##    1, Manchester United 
+
+ (2)  DF  Keith Newton                       ##   24, Everton 
+ (3)  DF  Terry Cooper                       ##    8, Leeds United 
+ (5)  DF  Brian Labone                       ##   23, Everton 
+ (6)  DF  Bobby Moore                        ##   80, West Ham United 
+(14)  DF  Tommy Wright                       ##    9, Everton 
+(15)  DF  Nobby Stiles                       ##   28, Manchester United 
+(17)  DF  Jack Charlton                      ##   34, Leeds United 
+(18)  DF  Norman Hunter                      ##   13, Leeds United 
+
+ (4)  MF  Alan Mullery                       ##   27, Tottenham Hotspur 
+ (8)  MF  Alan Ball                          ##   41, Everton 
+ (9)  MF  Bobby Charlton                     ##  102, Manchester United 
+(11)  MF  Martin Peters                      ##   38, Tottenham Hotspur 
+(16)  MF  Emlyn Hughes                       ##    6, Liverpool 
+(19)  MF  Colin Bell                         ##   11, Manchester City 
+
+ (7)  FW  Francis Lee                        ##   14, Manchester City 
+(10)  FW  Geoff Hurst                        ##   38, West Ham United 
+(20)  FW  Peter Osgood                       ##    1, Chelsea 
+(21)  FW  Allan Clarke                       ##    0, Leeds United 
+(22)  FW  Jeff Astle                         ##    3, West Bromwich Albion 
+

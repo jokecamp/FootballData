@@ -1,0 +1,30 @@
+##############################
+# Haiti (HAI) 
+#   - 22 players
+
+ (1)  GK  Henri Françillon                   ##    -, Victory FC 
+(21)  GK  Wilner Piquant                     ##    -, Violette 
+(22)  GK  Gérard Joseph                      ##    -, Racing Club Haïtien 
+
+ (2)  DF  Wilfried Louis                     ##    -, Don Bosco 
+ (3)  DF  Arsène Auguste                     ##    -, Racing Club Haïtien 
+ (4)  DF  Fritz André                        ##    -, Violette 
+ (5)  DF  Serge Ducosté                      ##    -, Aigle Noir AC 
+ (6)  DF  Pierre Bayonne                     ##    -, Violette 
+(13)  DF  Serge Racine                       ##    -, Aigle Noir AC 
+(14)  DF  Wilner Nazaire                     ##    -, Valenciennes 
+(19)  DF  Jean-Herbert Austin                ##    -, Violette 
+
+ (7)  MF  Philippe Vorbe                     ##    -, Violette 
+ (8)  MF  Jean-Claude Désir                  ##    -, Aigle Noir AC 
+ (9)  MF  Eddy Antoine                       ##    -, Racing Club Haïtien 
+(10)  MF  Guy François                       ##    -, Violette 
+(12)  MF  Ernst Jean-Joseph                  ##    -, Violette 
+(17)  MF  Joseph-Marion Leandré              ##    -, Racing Club Haïtien 
+
+(11)  FW  Guy Saint-Vil                      ##    -, Racing Club Haïtien 
+(15)  FW  Roger Saint-Vil                    ##    -, Archibald FC 
+(16)  FW  Fritz Leandré                      ##    -, Racing Club Haïtien 
+(18)  FW  Claude Barthélemy                  ##    -, Racing Club Haïtien 
+(20)  FW  Emmanuel Sanon                     ##    -, Don Bosco 
+

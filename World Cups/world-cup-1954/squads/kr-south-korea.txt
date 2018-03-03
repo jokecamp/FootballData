@@ -1,0 +1,28 @@
+##############################
+# Korea (KOR) 
+#   - 20 players
+
+ (1)  GK  Hong Deok-Young                    ##    -, Joseon Textile FC 
+(12)  GK  Ham Heung-Chul                     ##    -, Provost Marshal Office 
+
+ (2)  DF  Park Kyu-Chung                     ##    -, Quartermaster Corps 
+ (3)  DF  Park Jae-Seung                     ##    -, CIC 
+ (6)  DF  Min Byung-Dae                      ##    -, CIC 
+(13)  DF  Lee Chong-Kap                      ##    -, CIC 
+(14)  DF  Han Chang-Wha                      ##    -, CIC 
+
+ (4)  MF  Kang Chang-Gi                      ##    -, Joseon Textile FC 
+ (5)  MF  Lee Sang-Yi                        ##    -, Joseon Textile FC                     
+(11)  MF  Chung Nam-Sik                      ##    -, Intelligence Corps 
+(15)  MF  Kim Ji-Sung                        ##    -, CIC 
+(16)  MF  Chu Yung-Kwang                     ##    -, Naval Forces 
+
+ (7)  FW  Lee Soo-Nam                        ##    -, CIC 
+ (8)  FW  Choi Chung-Min                     ##    -, CIC 
+ (9)  FW  Woo Sang-Kwon                      ##    -, Provost Marshal Office 
+(10)  FW  Sung Nak-Woon                      ##    -, Quartermaster Corps 
+(17)  FW  Park Il-Kap                        ##    -, CIC 
+(18)  FW  Choi Yung-Keun                     ##    -, Naval Forces 
+(19)  FW  Li Ki-Joo                          ##    -, Joseon Textile FC 
+(20)  FW  Chung Kook-Chin                    ##    -, Naval Forces 
+

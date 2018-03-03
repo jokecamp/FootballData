@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+ (1)  GK  Jean-Marie Pfaff                   ##    -, Beveren 
+(12)  GK  Theo Custers                       ##    -, Espanyol 
+(22)  GK  Jacky Munaron                      ##    -, Anderlecht 
+
+ (2)  DF  Eric Gerets                        ##    -, Standard Liège 
+ (3)  DF  Luc Millecamps                     ##    -, K.S.V. Waregem 
+ (4)  DF  Walter Meeuws                      ##    -, Standard Liège 
+ (5)  DF  Michel Renquin                     ##    -, Anderlecht 
+(14)  DF  Marc Baecke                        ##    -, Beveren 
+(15)  DF  Maurits De Schrijver               ##    -, K.S.C. Lokeren 
+(16)  DF  Gerard Plessers                    ##    -, Standard Liège 
+
+ (6)  MF  Franky Vercauteren                 ##    -, Anderlecht 
+ (7)  MF  Jos Daerden                        ##    -, Standard Liège 
+ (8)  MF  Wilfried Van Moer                  ##    -, Beveren 
+(10)  MF  Ludo Coeck                         ##    -, Anderlecht 
+(11)  MF  Jan Ceulemans                      ##    -, Club Brugge 
+(17)  MF  René Verheyen                      ##    -, K.S.C. Lokeren 
+(18)  MF  Raymond Mommens                    ##    -, K.S.C. Lokeren 
+(20)  MF  Guy Vandersmissen                  ##    -, Standard Liège 
+
+ (9)  FW  Erwin Vandenbergh                  ##    -, Lierse 
+(13)  FW  François Van Der Elst              ##    -, West Ham United 
+(19)  FW  Marc Millecamps                    ##    -, K.S.V. Waregem 
+(21)  FW  Alexandre Czerniatynski            ##    -, Antwerp 
+

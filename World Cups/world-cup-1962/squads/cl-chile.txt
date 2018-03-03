@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+ (1)  GK  Misael Escuti                      ##   31, Colo-Colo 
+(12)  GK  Adán Godoy                         ##    0, Santiago Morning 
+(22)  GK  Manuel Astorga                     ##    5, Universidad de Chile 
+
+ (2)  DF  Luis Eyzaguirre                    ##   19, Universidad de Chile 
+ (3)  DF  Raúl Sánchez                       ##   21, Santiago Wanderers 
+ (4)  DF  Sergio Navarro                     ##   26, Universidad de Chile 
+ (5)  DF  Carlos Contreras                   ##    6, Universidad de Chile 
+(13)  DF  Sergio Valdés                      ##   16, Universidad Católica 
+(14)  DF  Hugo Lepe                          ##    1, Santiago Morning 
+(15)  DF  Manuel Rodríguez                   ##    2, Unión Española 
+(16)  DF  Humberto Cruz                      ##    2, Santiago Morning 
+
+ (6)  MF  Eladio Rojas                       ##   11, Everton 
+ (8)  MF  Jorge Toro                         ##   15, Colo-Colo 
+(17)  MF  Mario Ortiz                        ##   12, Colo-Colo 
+
+ (7)  FW  Jaime Ramírez                      ##   39, Universidad de Chile 
+ (9)  FW  Honorino Landa                     ##    4, Unión Española 
+(10)  FW  Alberto Fouilloux                  ##   15, Universidad Católica 
+(11)  FW  Leonel Sánchez                     ##   45, Universidad de Chile 
+(18)  FW  Mario Moreno                       ##   24, Colo-Colo 
+(19)  FW  Braulio Musso                      ##   14, Universidad de Chile 
+(20)  FW  Carlos Campos                      ##    2, Universidad de Chile 
+(21)  FW  Armando Tobar                      ##   17, Universidad Católica 
+

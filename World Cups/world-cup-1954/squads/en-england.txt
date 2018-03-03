@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Gil Merrick                        ##   20, Birmingham City 
+(12)  GK  Ted Burgin                         ##    0, Sheffield United 
+
+ (2)  DF  Ron Staniforth                     ##    3, Huddersfield Town 
+ (3)  DF  Roger Byrne                        ##    3, Manchester United 
+ (4)  DF  Billy Wright                       ##   58, Wolverhampton Wanderers 
+(13)  DF  Ken Green                          ##    0, Birmingham City 
+(18)  DF  Allenby Chilton                    ##    2, Manchester United 
+
+ (5)  MF  Syd Owen                           ##    2, Luton Town 
+ (6)  MF  Jimmy Dickinson                    ##   35, Portsmouth 
+(14)  MF  Bill McGarry                       ##    0, Huddersfield Town 
+(16)  MF  Albert Quixall                     ##    3, Sheffield Wednesday 
+(19)  MF  Ken Armstrong                      ##    0, Chelsea 
+(20)  MF  Bedford Jezzard                    ##    1, Fulham 
+(21)  MF  Johnny Haynes                      ##    0, Fulham 
+
+ (7)  FW  Stanley Matthews                   ##   36, Blackpool 
+ (8)  FW  Ivor Broadis                       ##   11, Newcastle United 
+ (9)  FW  Nat Lofthouse                      ##   19, Bolton Wanderers 
+(10)  FW  Tommy Taylor                       ##    3, Manchester United 
+(11)  FW  Tom Finney                         ##   51, Preston North End 
+(15)  FW  Dennis Wilshaw                     ##    1, Wolverhampton Wanderers 
+(17)  FW  Jimmy Mullen                       ##   11, Wolverhampton Wanderers 
+(22)  FW  Harry Hooper                       ##    0, West Ham United 
+

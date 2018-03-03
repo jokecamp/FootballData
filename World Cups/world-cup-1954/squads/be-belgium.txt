@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+ (1)  GK  Léopold Gernaey                    ##    7, A.S.V. Oostende K.M. 
+(12)  GK  Charles Geerts                     ##    0, Royal Beerschot AC 
+(17)  GK  Raymond Ausloos                    ##    0, White Star 
+
+ (2)  DF  Marcel Dries                       ##    7, Berchem Sport 
+ (3)  DF  Alfons Van Brandt                  ##   18, Lierse 
+ (4)  DF  Constant Huysmans                  ##    5, Royal Beerschot AC 
+(13)  DF  Henri Dirickx                      ##   13, Union St. Gilloise 
+(18)  DF  Jef Van Der Linden                 ##    0, Royal Antwerp FC 
+
+ (5)  MF  Louis Carré                        ##   39, Royal FC Liegeois 
+ (6)  MF  Victor Mees                        ##   31, Royal Antwerp FC 
+ (7)  MF  Jozef Vliers                       ##    0, Royal Beerschot AC 
+(14)  MF  Robert Van Kerkhoven               ##    5, Daring Club 
+(19)  MF  Jo Backaert                        ##    0, Charleroi SC 
+(20)  MF  Robert Maertens                    ##   11, Royal Antwerp FC 
+(21)  MF  Jean Van Steen                     ##    5, RSC Anderlechtois 
+
+ (8)  FW  Denis Houf                         ##    0, Standard Liège 
+ (9)  FW  Henri Coppens                      ##   32, Royal Beerschot AC 
+(10)  FW  Léopold Anoul                      ##   45, Royal FC Liegeois 
+(11)  FW  Joseph Mermans                     ##   45, RSC Anderlechtois 
+(15)  FW  Hippolyte Van Den Bosch            ##    2, RSC Anderlechtois 
+(16)  FW  Pieter Van Den Bosch               ##    0, RSC Anderlechtois 
+(22)  FW  Luc Van Hoyweghen                  ##    0, Daring Club 
+

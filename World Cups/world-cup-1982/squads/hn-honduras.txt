@@ -1,0 +1,30 @@
+##############################
+# Honduras (HON) 
+#   - 22 players
+
+ (1)  GK  Salomón Nazar                      ##    -, Universidad (HON)
+(21)  GK  Julio César Arzú                   ##    -, Real España (HON)
+(22)  GK  Jimmy Steward                      ##    -, Real España (HON)
+
+ (2)  DF  Efraín Gutiérrez                   ##    -, Universidad (HON)
+ (3)  DF  Jaime Villegas                     ##    -, Real España (HON)
+ (4)  DF  Fernando Bulnes                    ##    -, Olimpia (HON)
+ (5)  DF  Anthony Costly                     ##    -, Real España (HON)
+(12)  DF  Domingo Droumond                   ##    -, Platense (HON)
+(17)  DF  José Cruz                          ##    -, Motagua (HON)
+
+ (6)  MF  Ramón Maradiaga                    ##    -, Motagua (HON)
+ (8)  MF  Francisco Javier Toledo            ##    -, Marathón (HON)
+(11)  MF  David Buezo                        ##    -, Motagua (HON)
+(13)  MF  Prudencio Norales                  ##    -, Olimpia (HON)
+(14)  MF  Juan Cruz                          ##    -, Universidad (HON)
+(15)  MF  Héctor Zelaya                      ##    -, Motagua (HON)
+(18)  MF  Carlos Caballero                   ##    -, Real España (HON)
+(20)  MF  Gilberto Yearwood                  ##    -, Valladolid (ESP)
+
+ (7)  FW  Antonio Laing                      ##    -, Platense (HON)
+ (9)  FW  Porfirio Betancourt                ##    -, RC Strasbourg (FRA)
+(10)  FW  Roberto Figueroa                   ##    -, Vida (HON)
+(16)  FW  Roberto Bailey                     ##    -, Marathón (HON)
+(19)  FW  Celso Güity                        ##    -, Marathón (HON)
+

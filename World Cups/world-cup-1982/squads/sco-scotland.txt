@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Alan Rough                         ##   48, Partick Thistle 
+(12)  GK  George Wood                        ##    4, Arsenal 
+(22)  GK  Jim Leighton                       ##    0, Aberdeen 
+
+ (2)  DF  Danny McGrain                      ##   60, Celtic 
+ (3)  DF  Frank Gray                         ##   22, Leeds United 
+ (5)  DF  Alan Hansen                        ##   14, Liverpool 
+ (6)  DF  Willie Miller                      ##   17, Aberdeen 
+(13)  DF  Alex McLeish                       ##   15, Aberdeen 
+(14)  DF  David Narey                        ##   13, Dundee United 
+(17)  DF  Allan Evans                        ##    3, Aston Villa 
+(21)  DF  George Burley                      ##   11, Ipswich Town 
+
+ (4)  MF  Graeme Souness                     ##   25, Liverpool 
+ (7)  MF  Gordon Strachan                    ##   11, Aberdeen 
+(10)  MF  John Wark                          ##   15, Ipswich Town 
+(16)  MF  Asa Hartford                       ##   49, Manchester City 
+(20)  MF  Davie Provan                       ##   10, Celtic 
+
+ (8)  FW  Kenny Dalglish                     ##   86, Liverpool 
+ (9)  FW  Alan Brazil                        ##    7, Ipswich Town 
+(11)  FW  John Robertson                     ##   21, Nottingham Forest 
+(15)  FW  Joe Jordan                         ##   51, A.C. Milan 
+(18)  FW  Steve Archibald                    ##   14, Tottenham Hotspur 
+(19)  FW  Paul Sturrock                      ##    7, Dundee United 
+

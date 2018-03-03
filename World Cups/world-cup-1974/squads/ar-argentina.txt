@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (1)  GK  Daniel Carnevali                   ##    -, Las Palmas 
+(12)  GK  Ubaldo Fillol                      ##    -, River Plate 
+(21)  GK  Miguel Ángel Santoro               ##    -, Independiente 
+
+ (5)  DF  Ángel Bargas                       ##    -, Nantes 
+ (7)  DF  Jorge Carrascosa                   ##    -, Huracán 
+ (9)  DF  Rubén Glaria                       ##    -, San Lorenzo 
+(10)  DF  Ramón Heredia                      ##    -, Atlético Madrid 
+(14)  DF  Roberto Perfumo                    ##    -, Cruzeiro 
+(16)  DF  Francisco Sá                       ##    -, Independiente 
+(20)  DF  Enrique Wolff                      ##    -, River Plate 
+
+ (3)  MF  Carlos Babington                   ##    -, Huracán 
+ (6)  MF  Miguel Ángel Brindisi              ##    -, Huracán 
+ (8)  MF  Enrique Chazarreta                 ##    -, San Lorenzo 
+(11)  MF  René Houseman                      ##    -, Huracán 
+(17)  MF  Carlos Squeo                       ##    -, Racing 
+(18)  MF  Roberto Telch                      ##    -, San Lorenzo 
+(19)  MF  Néstor Togneri                     ##    -, Estudiantes 
+
+ (2)  FW  Rubén Ayala                        ##    -, Atlético Madrid 
+ (4)  FW  Agustín Balbuena                   ##    -, Independiente 
+(13)  FW  Mario Kempes                       ##    -, Rosario Central 
+(15)  FW  Aldo Poy                           ##    -, Rosario Central 
+(22)  FW  Héctor Yazalde                     ##    -, Sporting CP 
+
