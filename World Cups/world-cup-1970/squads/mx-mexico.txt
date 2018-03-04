@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Ignacio Calderón                   ##    -, Guadalajara 
+(12)  GK  Antonio Mota                       ##    -, Necaxa 
+(22)  GK  Francisco Castrejón                ##    -, UNAM 
+
+ (2)  DF  Juan Manuel Alejandrez             ##    -, Cruz Azul 
+ (3)  DF  Gustavo Peña                       ##    -, Cruz Azul 
+ (4)  DF  Francisco Montes                   ##    -, Veracruz 
+ (5)  DF  Mario Pérez                        ##    -, América 
+ (6)  DF  Guillermo Hernández                ##    -, América 
+(13)  DF  José Vantolrá                      ##    -, Toluca 
+(14)  DF  Javier Guzmán                      ##    -, Cruz Azul 
+
+ (7)  MF  Marcos Rivas                       ##    -, Atlante 
+ (8)  MF  Antonio Munguía                    ##    -, Cruz Azul 
+ (9)  MF  Enrique Borja                      ##    -, América 
+(15)  MF  Héctor Pulido                      ##    -, Cruz Azul 
+(17)  MF  José Luis González                 ##    -, UNAM 
+(18)  MF  Mario Velarde                      ##    -, UNAM 
+(20)  MF  Juan Ignacio Basaguren             ##    -, Atlante 
+
+(10)  FW  Horacio López Salgado              ##    -, América 
+(11)  FW  Aarón Padilla                      ##    -, UNAM 
+(16)  FW  Isidoro Díaz                       ##    -, León 
+(19)  FW  Javier Valdivia                    ##    -, Guadalajara 
+(21)  FW  Javier Fragoso                     ##    -, América 
+

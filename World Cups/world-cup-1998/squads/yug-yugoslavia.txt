@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Ivica Kralj                        ##   15, Partizan 
+(12)  GK  Dragoje Leković                    ##   13, Sporting Gijón 
+
+ (2)  DF  Zoran Mirković                     ##   28, Atalanta 
+ (3)  DF  Goran Đorović                      ##   26, Celta Vigo 
+ (5)  DF  Miroslav Đukić                     ##   23, Valencia 
+ (6)  DF  Branko Brnović                     ##   22, Espanyol 
+(11)  DF  Siniša Mihajlović                  ##   30, Sampdoria 
+(13)  DF  Slobodan Komljenović               ##    8, MSV Duisburg 
+(14)  DF  Niša Saveljić                      ##   20, Bordeaux 
+
+ (4)  MF  Slaviša Jokanović                  ##   33, Tenerife 
+ (7)  MF  Vladimir Jugović                   ##   24, Lazio 
+(10)  MF  Dragan Stojković                   ##   64, Nagoya Grampus Eight 
+(15)  MF  Ljubinko Drulović                  ##   16, Porto 
+(16)  MF  Željko Petrović                    ##   12, Urawa Red Diamonds 
+(18)  MF  Dejan Govedarica                   ##   20, Lecce 
+(19)  MF  Miroslav Stević                    ##    5, 1860 Munich 
+(20)  MF  Dejan Stanković                    ##    3, Crvena Zvezda 
+
+ (8)  FW  Dejan Savićević                    ##   49, Milan 
+ (9)  FW  Predrag Mijatović                  ##   28, Real Madrid 
+(17)  FW  Savo Milošević                     ##   28, Aston Villa 
+(21)  FW  Perica Ognjenović                  ##    5, Crvena Zvezda 
+(22)  FW  Darko Kovačević                    ##   19, Real Sociedad 
+

@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+   -  GK  Adolphe Hug                        ##    -, Urania Genf 
+   -  GK  Georges Stuber                     ##    -, Lausanne-Sport 
+   -  GK  Eugen Corrodi                      ##    -, FC Lugano 
+
+   -  DF  Roger Bocquet                      ##    -, Lausanne-Sport 
+   -  DF  Kurt Rey                           ##    -, SC Young Fellows 
+   -  DF  Willi Steffen                      ##    -, Cantonal Neuchâtel 
+   -  DF  André Neury                        ##    -, FC Locarno 
+   -  DF  Rudolf Gyger                       ##    -, Cantonal Neuchâtel 
+   -  DF  Willy Kernen                       ##    -, FC La Chaux-de-Fonds 
+
+   -  MF  Roger Quinche                      ##    -, Young Boys Bern 
+   -  MF  Robert Hasler                      ##    -, FC Lugano 
+   -  MF  Oliver Eggimann                    ##    -, Servette FC 
+
+   -  FW  Charles Antenen                    ##    -, FC La Chaux-de-Fonds 
+   -  FW  Gerhard Lusenti                    ##    -, AC Bellinzona 
+   -  FW  Hans-Peter Friedländer             ##    -, Lausanne-Sport 
+   -  FW  Jacques Fatton                     ##    -, Servette FC 
+   -  FW  Alfred Bickel                      ##    -, Grasshoppers Club Zurich 
+   -  FW  Walter Schneiter                   ##    -, FC Zurich 
+   -  FW  Hans Siegenthaler                  ##    -, SC Young Fellows 
+   -  FW  Walter Beerli                      ##    -, Young Boys Bern 
+   -  FW  René Bader                         ##    -, FC Basel 
+   -  FW  Jean Tamini                        ##    -, Servette FC 
+

@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Taffarel                           ##    -, Reggiana 
+(12)  GK  Zetti                              ##    -, São Paulo 
+(22)  GK  Gilmar                             ##    -, Flamengo 
+
+ (2)  DF  Jorginho                           ##    -, Bayern Munich 
+ (3)  DF  Ricardo Rocha                      ##    -, Vasco da Gama 
+ (4)  DF  Ronaldão                           ##    -, Shimizu S-Pulse 
+ (6)  DF  Branco                             ##    -, Fluminense 
+(13)  DF  Aldair                             ##    -, Roma 
+(14)  DF  Cafu                               ##    -, São Paulo 
+(15)  DF  Márcio Santos                      ##    -, Bordeaux 
+
+ (5)  MF  Mauro Silva                        ##    -, Deportivo La Coruña 
+ (8)  MF  Dunga                              ##    -, VfB Stuttgart 
+ (9)  MF  Zinho                              ##    -, Palmeiras 
+(10)  MF  Raí                                ##    -, Paris Saint-Germain 
+(16)  MF  Leonardo                           ##    -, São Paulo 
+(17)  MF  Mazinho                            ##    -, Palmeiras 
+
+ (7)  FW  Bebeto                             ##    -, Deportivo La Coruña 
+(11)  FW  Romário                            ##    -, Barcelona 
+(18)  FW  Paulo Sérgio                       ##    -, Bayer Leverkusen 
+(19)  FW  Müller                             ##    -, São Paulo 
+(20)  FW  Ronaldo                            ##    -, Cruzeiro 
+(21)  FW  Viola                              ##    -, Corinthians 
+

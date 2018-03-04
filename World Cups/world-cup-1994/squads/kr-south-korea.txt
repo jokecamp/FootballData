@@ -1,0 +1,30 @@
+##############################
+# South Korea (KOR) 
+#   - 22 players
+
+ (1)  GK  Choi In-Young                      ##    -, Hyundai Horangi 
+(21)  GK  Park Chul-Woo                      ##    -, LG Cheetahs 
+(22)  GK  Lee Woon-Jae                       ##    -, Kyung Hee University 
+
+ (2)  DF  Chung Jong-Son                     ##    -, Hyundai Horangi 
+ (3)  DF  Lee Jong-Hwa                       ##    -, Ilhwa Chunma 
+ (4)  DF  Kim Pan-Keun                       ##    -, LG Cheetahs 
+ (5)  DF  Park Jung-bae                      ##    -, Daewoo Royals 
+ (7)  DF  Shin Hong-Gi                       ##    -, Hyundai Horangi 
+(12)  DF  Choi Young-Il                      ##    -, Hyundai Horangi 
+(13)  DF  An Ik-Soo                          ##    -, Ilhwa Chunma 
+(17)  DF  Gu Sang-Bum                        ##    -, Daewoo Royals 
+(20)  DF  Hong Myung-Bo                      ##    -, POSCO Atoms 
+
+ (6)  MF  Lee Young-jin                      ##    -, LG Cheetahs 
+ (8)  MF  Noh Jung-Yoon                      ##    -, Sanfrecce Hiroshima 
+ (9)  MF  Kim Joo-Sung                       ##    -, VfL Bochum 
+(10)  MF  Ko Jeong-Woon                      ##    -, Ilhwa Chunma 
+(14)  MF  Choi Dae-Shik                      ##    -, LG Cheetahs 
+(15)  MF  Cho Jin-Ho                         ##    -, POSCO Atoms 
+(16)  MF  Ha Seok-Ju                         ##    -, Daewoo Royals 
+(19)  MF  Choi Moon-Sik                      ##    -, POSCO Atoms 
+
+(11)  FW  Seo Jung-Won                       ##    -, Sangmu FC 
+(18)  FW  Hwang Sun-Hong                     ##    -, POSCO Atoms 
+

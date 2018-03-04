@@ -1,0 +1,31 @@
+##############################
+# Paraguay (PAR) 
+#   - 23 players
+
+ (1)  GK  José Luis Chilavert                ##   69, Strasbourg 
+(12)  GK  Justo Villar                       ##    8, Libertad 
+(22)  GK  Ricardo Tavarelli                  ##   20, Olimpia 
+
+ (2)  DF  Francisco Arce                     ##   51, Palmeiras 
+ (3)  DF  Pedro Sarabia                      ##   40, River Plate 
+ (4)  DF  Carlos Gamarra                     ##   76, AEK Athens 
+ (5)  DF  Celso Ayala                        ##   76, River Plate 
+(17)  DF  Juan Carlos Franco                 ##    3, Olimpia 
+(18)  DF  Julio César Cáceres                ##    1, Olimpia 
+(19)  DF  Daniel Sanabria                    ##    6, Libertad 
+(21)  DF  Denis Caniza                       ##   49, Santos Laguna 
+
+ (6)  MF  Estanislao Struway                 ##   69, Libertad 
+ (8)  MF  Guido Alvarenga                    ##   18, Léon 
+(10)  MF  Roberto Acuña                      ##   77, Real Zaragoza 
+(13)  MF  Carlos Paredes                     ##   41, Porto 
+(14)  MF  Diego Gavilán                      ##   21, Tecos 
+(15)  MF  Carlos Bonet                       ##    3, Libertad 
+(16)  MF  Gustavo Morínigo                   ##   11, Libertad 
+
+ (7)  FW  Richard Báez                       ##   25, Olimpia 
+ (9)  FW  Roque Santa Cruz                   ##   24, Bayern Munich 
+(11)  FW  Jorge Campos                       ##   31, Universidad Católica 
+(20)  FW  José Cardozo                       ##   57, Toluca 
+(23)  FW  Nelson Cuevas                      ##   11, River Plate 
+

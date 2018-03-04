@@ -1,0 +1,31 @@
+##############################
+# China (CHN) 
+#   - 23 players
+
+ (1)  GK  An Qi                              ##    5, Dalian Shide 
+(22)  GK  Jiang Jin                          ##   52, Tianjin Teda FC 
+(23)  GK  Ou Chuliang                        ##   74, Yunnan Hongta 
+
+ (2)  DF  Zhang Enhua                        ##   65, Dalian Shide 
+ (3)  DF  Yang Pu                            ##   14, Beijing Guoan 
+ (4)  DF  Wu Chengying                       ##   53, Shanghai Shenhua 
+ (5)  DF  Fan Zhiyi                          ##  105, Dundee 
+ (7)  DF  Sun Jihai                          ##   59, Manchester City 
+(14)  DF  Li Weifeng                         ##   55, Shenzhen Pingan 
+(17)  DF  Du Wei                             ##    7, Shanghai Shenhua 
+(21)  DF  Xu Yunlong                         ##   20, Beijing Guoan 
+
+ (6)  MF  Shao Jiayi                         ##   18, Beijing Guoan 
+ (8)  MF  Li Tie                             ##   76, Liaoning 
+ (9)  MF  Ma Mingyu                          ##   91, Sichuan Guancheng 
+(11)  MF  Yu Genwei                          ##   17, Tianjin Teda FC 
+(13)  MF  Gao Yao                            ##    4, Shandong Luneng 
+(15)  MF  Zhao Junzhe                        ##   13, Liaoning 
+(18)  MF  Li Xiaopeng                        ##   26, Shandong Luneng 
+(19)  MF  Qi Hong                            ##   36, Shanghai Zhongyuan 
+
+(10)  FW  Hao Haidong                        ##   95, Dalian Shide 
+(12)  FW  Su Maozhen                         ##   43, Shandong Luneng 
+(16)  FW  Qu Bo                              ##   16, Qingdao Hainiu 
+(20)  FW  Yang Chen                          ##   26, Eintracht Frankfurt 
+

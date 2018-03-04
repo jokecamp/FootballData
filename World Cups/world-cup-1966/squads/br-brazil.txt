@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Gilmar                             ##    -, Santos 
+(12)  GK  Manga                              ##    -, Botafogo 
+
+ (2)  DF  Djalma Santos                      ##    -, Palmeiras 
+ (3)  DF  Fidélis                            ##    -, Bangu 
+ (4)  DF  Bellini                            ##    -, São Paulo 
+ (5)  DF  Brito                              ##    -, Vasco da Gama 
+ (6)  DF  Altair                             ##    -, Fluminense 
+ (7)  DF  Orlando                            ##    -, Santos 
+ (8)  DF  Paulo Henrique                     ##    -, Flamengo 
+ (9)  DF  Rildo                              ##    -, Botafogo 
+
+(11)  MF  Gérson                             ##    -, Botafogo 
+(13)  MF  Denílson                           ##    -, Fluminense 
+(14)  MF  Lima                               ##    -, Santos 
+(15)  MF  Zito                               ##    -, Santos 
+(17)  MF  Jairzinho                          ##    -, Botafogo 
+(20)  MF  Tostão                             ##    -, Cruzeiro 
+
+(10)  FW  Pelé                               ##    -, Santos 
+(16)  FW  Garrincha                          ##    -, Corinthians 
+(18)  FW  Alcindo                            ##    -, Grêmio 
+(19)  FW  Silva                              ##    -, Flamengo 
+(21)  FW  Paraná                             ##    -, São Paulo 
+(22)  FW  Edu                                ##    -, Santos 
+

@@ -1,0 +1,31 @@
+##############################
+# Portugal (POR) 
+#   - 23 players
+
+ (1)  GK  Ricardo                            ##   49, Sporting CP (POR)
+(12)  GK  Quim                               ##   24, Benfica (POR)
+(22)  GK  Paulo Santos                       ##    1, Braga (POR)
+
+ (2)  DF  Paulo Ferreira                     ##   30, Chelsea (ENG)
+ (3)  DF  Marco Caneira                      ##   14, Valencia (ESP)
+ (4)  DF  Ricardo Costa                      ##    3, Porto (POR)
+ (5)  DF  Fernando Meira                     ##   30, Stuttgart (GER)
+(13)  DF  Miguel                             ##   28, Valencia (ESP)
+(14)  DF  Nuno Valente                       ##   23, Everton (ENG)
+(16)  DF  Ricardo Carvalho                   ##   24, Chelsea (ENG)
+
+ (6)  MF  Costinha                           ##   44, Dynamo Moscow (RUS)
+ (7)  MF  Luís Figo                          ##  120, Internazionale (ITA)
+ (8)  MF  Petit                              ##   36, Benfica (POR)
+(10)  MF  Hugo Viana                         ##   21, Valencia (ESP)
+(18)  MF  Maniche                            ##   31, Dynamo Moscow (RUS)
+(19)  MF  Tiago                              ##   22, Lyon (FRA)
+(20)  MF  Deco                               ##   35, Barcelona (ESP)
+
+ (9)  FW  Pauleta                            ##   82, Paris Saint-Germain (FRA)
+(11)  FW  Simão                              ##   43, Benfica (POR)
+(15)  FW  Luís Boa Morte                     ##   24, Fulham (ENG)
+(17)  FW  Cristiano Ronaldo                  ##   32, Manchester United (ENG)
+(21)  FW  Nuno Gomes                         ##   53, Benfica (POR)
+(23)  FW  Hélder Postiga                     ##   24, Porto (POR)
+

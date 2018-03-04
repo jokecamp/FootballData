@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Giovanni Galli                     ##    -, Milan 
+(12)  GK  Franco Tancredi                    ##    -, Roma 
+(22)  GK  Walter Zenga                       ##    -, Internazionale 
+
+ (2)  DF  Giuseppe Bergomi                   ##    -, Internazionale 
+ (3)  DF  Antonio Cabrini                    ##    -, Juventus 
+ (4)  DF  Fulvio Collovati                   ##    -, Internazionale 
+ (5)  DF  Sebastiano Nela                    ##    -, Roma 
+ (6)  DF  Gaetano Scirea                     ##    -, Juventus 
+ (7)  DF  Roberto Tricella                   ##    -, Verona 
+ (8)  DF  Pietro Vierchowod                  ##    -, Sampdoria 
+
+ (9)  MF  Carlo Ancelotti                    ##    -, Roma 
+(10)  MF  Salvatore Bagni                    ##    -, Napoli 
+(11)  MF  Giuseppe Baresi                    ##    -, Internazionale 
+(13)  MF  Fernando De Napoli                 ##    -, Avellino 
+(14)  MF  Antonio Di Gennaro                 ##    -, Verona 
+(15)  MF  Marco Tardelli                     ##    -, Internazionale 
+(16)  MF  Bruno Conti                        ##    -, Roma 
+
+(17)  FW  Gianluca Vialli                    ##    -, Sampdoria 
+(18)  FW  Alessandro Altobelli               ##    -, Internazionale 
+(19)  FW  Giuseppe Galderisi                 ##    -, Milan 
+(20)  FW  Paolo Rossi                        ##    -, Milan 
+(21)  FW  Aldo Serena                        ##    -, Juventus 
+

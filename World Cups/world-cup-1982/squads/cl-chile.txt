@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+ (1)  GK  Oscar Wirth                        ##    5, Cobreloa 
+(12)  GK  Marco Cornez                       ##    0, Palestino 
+(22)  GK  Mario Osbén                        ##   26, Colo-Colo 
+
+ (2)  DF  Lizardo Garrido                    ##   15, Colo-Colo 
+ (3)  DF  René Valenzuela                    ##   23, Universidad Católica 
+ (4)  DF  Vladimir Bigorra                   ##   17, Universidad de Chile 
+ (5)  DF  Elías Figueroa                     ##   44, Fort Lauderdale Strikers 
+(17)  DF  Oscar Rojas                        ##    1, Colo-Colo 
+(18)  DF  Mario Galindo                      ##   28, Colo-Colo 
+(19)  DF  Enzo Escobar                       ##   26, Cobreloa 
+
+ (6)  MF  Rodolfo Dubó                       ##   27, Palestino 
+ (7)  MF  Eduardo Bonvallet                  ##   21, Universidad Católica 
+ (8)  MF  Carlos Rivas                       ##   24, Colo-Colo 
+(10)  MF  Mario Soto                         ##   34, Cobreloa 
+(11)  MF  Gustavo Moscoso                    ##   18, Universidad Católica 
+(14)  MF  Raúl Ormeño                        ##    1, Colo-Colo 
+(16)  MF  Manuel Rojas                       ##   27, Universidad Católica 
+(20)  MF  Miguel Ángel Neira                 ##   23, Universidad Católica 
+
+ (9)  FW  Juan Carlos Letelier               ##    5, Cobreloa 
+(13)  FW  Carlos Caszely                     ##   42, Colo-Colo 
+(15)  FW  Patricio Yáñez                     ##   23, San Luis 
+(21)  FW  Miguel Ángel Gamboa                ##   14, Universidad de Chile 
+

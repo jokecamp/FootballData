@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+ (1)  GK  Piet Schrijvers                    ##   16, Ajax 
+ (8)  GK  Jan Jongbloed                      ##   19, Roda JC 
+(19)  GK  Pim Doesburg                       ##    2, Sparta Rotterdam 
+
+ (2)  DF  Jan Poortvliet                     ##    1, PSV Eindhoven 
+ (4)  DF  Adrie van Kraay                    ##   13, PSV Eindhoven 
+ (5)  DF  Ruud Krol                          ##   52, Ajax 
+ (7)  DF  Piet Wildschut                     ##    1, Twente 
+(15)  DF  Hugo Hovenkamp                     ##    7, AZ 
+(17)  DF  Wim Rijsbergen                     ##   25, Feyenoord 
+(20)  DF  Wim Suurbier                       ##   56, Schalke 04 
+(22)  DF  Ernie Brandts                      ##    1, PSV Eindhoven 
+
+ (3)  MF  Dick Schoenaker                    ##    0, Ajax 
+ (6)  MF  Wim Jansen                         ##   50, Feyenoord 
+ (9)  MF  Arie Haan                          ##   24, Anderlecht 
+(10)  MF  René van de Kerkhof                ##   20, PSV Eindhoven 
+(11)  MF  Willy van de Kerkhof               ##   18, PSV Eindhoven 
+(13)  MF  Johan Neeskens                     ##   38, Barcelona 
+(14)  MF  Johan Boskamp                      ##    1, Molenbeek 
+
+(12)  FW  Rob Rensenbrink                    ##   34, Anderlecht 
+(16)  FW  Johnny Rep                         ##   23, SEC Bastia 
+(18)  FW  Dick Nanninga                      ##    1, Roda JC 
+(21)  FW  Harry Lubse                        ##    1, PSV Eindhoven 
+

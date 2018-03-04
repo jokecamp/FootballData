@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Enver Marić                        ##    -, Velež Mostar (SFR)
+(21)  GK  Ognjen Petrović                    ##    -, Red Star Belgrade (SFR)
+(22)  GK  Rizah Mešković                     ##    -, Hajduk Split (SFR)
+
+ (2)  DF  Ivan Buljan                        ##    -, Hajduk Split (SFR)
+ (3)  DF  Enver Hadžiabdić                   ##    -, FK Željezničar (SFR)
+ (5)  DF  Josip Katalinski                   ##    -, FK Željezničar (SFR)
+ (6)  DF  Vladislav Bogićević                ##    -, Red Star Belgrade (SFR)
+(14)  DF  Luka Peruzović                     ##    -, Hajduk Split (SFR)
+(15)  DF  Kiril Dojčinovski                  ##    -, Red Star Belgrade (SFR)
+
+ (4)  MF  Dražen Mužinić                     ##    -, Hajduk Split (SFR)
+ (8)  MF  Branko Oblak                       ##    -, Hajduk Split (SFR)
+(10)  MF  Jovan Aćimović                     ##    -, Red Star Belgrade (SFR)
+(12)  MF  Jurica Jerković                    ##    -, Hajduk Split (SFR)
+(13)  MF  Miroslav Pavlović                  ##    -, Red Star Belgrade (SFR)
+(16)  MF  Franjo Vladić                      ##    -, Velež Mostar (SFR)
+
+ (7)  FW  Ilija Petković                     ##    -, Troyes 
+ (9)  FW  Ivica Šurjak                       ##    -, Hajduk Split (SFR)
+(11)  FW  Dragan Džajić                      ##    -, Red Star Belgrade (SFR)
+(17)  FW  Danilo Popivoda                    ##    -, Olimpija Ljubljana (SFR)
+(18)  FW  Stanislav Karasi                   ##    -, Red Star Belgrade (SFR)
+(19)  FW  Dušan Bajević                      ##    -, Velež Mostar (SFR)
+(20)  FW  Vladimir Petrović                  ##    -, Red Star Belgrade (SFR)
+

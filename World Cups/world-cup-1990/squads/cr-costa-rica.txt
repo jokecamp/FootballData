@@ -1,0 +1,30 @@
+##############################
+# Costa Rica (CRC) 
+#   - 22 players
+
+ (1)  GK  Luis Gabelo Conejo                 ##    -, AD Ramonense 
+(21)  GK  Hermidio Barrantes                 ##    -, Municipal Puntarenas 
+(22)  GK  Miguel Segura                      ##    -, Deportivo Saprissa 
+
+ (2)  DF  Vladimir Quesada                   ##    -, Deportivo Saprissa 
+ (3)  DF  Róger Flores                       ##    -, Deportivo Saprissa 
+ (4)  DF  Rónald González Brenes             ##    -, Deportivo Saprissa 
+ (5)  DF  Marvin Obando                      ##    -, CS Herediano 
+(13)  DF  Miguel Davis                       ##    -, Alajuelense 
+(15)  DF  Rónald Marín                       ##    -, CS Herediano 
+(18)  DF  Geovanny Jara                      ##    -, CS Herediano 
+(20)  DF  Mauricio Montero                   ##    -, Alajuelense 
+
+ (6)  MF  José Carlos Chaves                 ##    -, LD Alajuelense 
+ (8)  MF  Germán Chavarría                   ##    -, CS Herediano 
+(10)  MF  Oscar Ramírez                      ##    -, Alajuelense 
+(12)  MF  Róger Gómez                        ##    -, CS Cartaginés 
+(14)  MF  Juan Cayasso                       ##    -, Deportivo Saprissa 
+(16)  MF  José Jaikel                        ##    -, Deportivo Saprissa 
+(19)  MF  Héctor Marchena                    ##    -, CS Cartaginés 
+
+ (7)  FW  Hernán Medford                     ##    -, Deportivo Saprissa 
+ (9)  FW  Alexandre Guimarães                ##    -, Deportivo Saprissa 
+(11)  FW  Claudio Jara                       ##    -, CS Herediano 
+(17)  FW  Roy Myers                          ##    -, AS Limonense 
+

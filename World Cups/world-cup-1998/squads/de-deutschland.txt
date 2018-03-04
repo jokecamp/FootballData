@@ -1,0 +1,30 @@
+##############################
+# Deutschland (GER) 
+#   - 22 players
+
+ (1)  GK  Andreas Köpke                      ##   54, Marseille 
+(12)  GK  Oliver Kahn                        ##   10, Bayern Munich 
+(22)  GK  Jens Lehmann                       ##    2, Schalke 04 
+
+ (2)  DF  Christian Wörns                    ##   17, Bayer Leverkusen 
+ (3)  DF  Jörg Heinrich                      ##   15, Borussia Dortmund 
+ (4)  DF  Jürgen Kohler                      ##  101, Borussia Dortmund 
+ (5)  DF  Thomas Helmer                      ##   66, Bayern Munich 
+ (6)  DF  Olaf Thon                          ##   48, Schalke 04 
+ (8)  DF  Lothar Matthäus                    ##  125, Bayern Munich 
+(14)  DF  Markus Babbel                      ##   30, Bayern Munich 
+(17)  DF  Christian Ziege                    ##   37, Milan 
+(19)  DF  Stefan Reuter                      ##   68, Borussia Dortmund 
+(21)  DF  Michael Tarnat                     ##   12, Bayern Munich 
+
+ (7)  MF  Andreas Möller                     ##   79, Borussia Dortmund 
+(10)  MF  Thomas Häßler                      ##   93, Karlsruher SC 
+(13)  MF  Jens Jeremies                      ##    5, 1860 Munich 
+(15)  MF  Steffen Freund                     ##   21, Borussia Dortmund 
+(16)  MF  Dietmar Hamann                     ##    7, Bayern Munich 
+
+ (9)  FW  Ulf Kirsten                        ##   32, Bayer Leverkusen 
+(11)  FW  Olaf Marschall                     ##    7, 1. FC Kaiserslautern 
+(18)  FW  Jürgen Klinsmann                   ##  103, Tottenham Hotspur 
+(20)  FW  Oliver Bierhoff                    ##   26, Udinese 
+

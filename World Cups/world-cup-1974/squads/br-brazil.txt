@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Leão                               ##   19, Palmeiras 
+(12)  GK  Renato                             ##    2, Flamengo 
+(22)  GK  Waldir Peres                       ##    0, São Paulo 
+
+ (2)  DF  Luís Pereira                       ##   15, Palmeiras 
+ (3)  DF  Marinho Peres                      ##    5, Santos 
+ (6)  DF  Marinho Chagas                     ##    9, Botafogo 
+(14)  DF  Nelinho                            ##    2, Cruzeiro 
+(15)  DF  Alfredo                            ##    1, Palmeiras 
+(16)  DF  Marco Antônio                      ##   27, Fluminense 
+
+ (4)  MF  Zé Maria                           ##   28, Corinthians 
+ (5)  MF  Piazza                             ##   44, Cruzeiro 
+ (7)  MF  Jairzinho                          ##   73, Botafogo 
+(10)  MF  Rivellino                          ##   55, Corinthians 
+(11)  MF  Paulo Cézar                        ##   42, Flamengo 
+(17)  MF  Carpegiani                         ##    5, Internacional 
+(18)  MF  Ademir da Guia                     ##    8, Palmeiras 
+(21)  MF  Dirceu                             ##    4, Botafogo 
+
+ (8)  FW  Leivinha                           ##   18, Palmeiras 
+ (9)  FW  César                              ##    8, Palmeiras 
+(13)  FW  Valdomiro                          ##    9, Internacional 
+(19)  FW  Mirandinha                         ##    3, São Paulo 
+(20)  FW  Edu                                ##   41, Santos 
+

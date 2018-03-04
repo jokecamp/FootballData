@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Gilmar                             ##    -, Santos 
+(22)  GK  Castilho                           ##    -, Fluminense 
+
+ (2)  DF  Djalma Santos                      ##    -, Palmeiras 
+ (3)  DF  Mauro                              ##    -, Santos 
+ (5)  DF  Zózimo                             ##    -, Bangu 
+ (6)  DF  Nílton Santos                      ##    -, Botafogo 
+(12)  DF  Jair Marinho                       ##    -, Fluminense 
+(13)  DF  Bellini                            ##    -, São Paulo 
+(14)  DF  Jurandir                           ##    -, São Paulo 
+(15)  DF  Altair                             ##    -, Fluminense 
+
+ (4)  MF  Zito                               ##    -, Santos 
+ (8)  MF  Didi                               ##    -, Botafogo 
+(16)  MF  Zequinha                           ##    -, Palmeiras 
+(17)  MF  Mengálvio                          ##    -, Santos 
+
+ (7)  FW  Garrincha                          ##    -, Botafogo 
+ (9)  FW  Coutinho                           ##    -, Santos 
+(10)  FW  Pelé                               ##    -, Santos 
+(11)  FW  Pepe                               ##    -, Santos 
+(18)  FW  Jair da Costa                      ##    -, Portuguesa 
+(19)  FW  Vavá                               ##    -, Palmeiras 
+(20)  FW  Amarildo                           ##    -, Botafogo 
+(21)  FW  Zagallo                            ##    -, Botafogo 
+

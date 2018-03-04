@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+ (1)  GK  Hans van Breukelen                 ##   52, PSV 
+(16)  GK  Joop Hiele                         ##    6, Feyenoord 
+(22)  GK  Stanley Menzo                      ##    1, Ajax 
+
+ (2)  DF  Berry van Aerle                    ##   22, PSV 
+ (4)  DF  Ronald Koeman                      ##   43, Barcelona 
+ (5)  DF  Adri van Tiggelen                  ##   40, Anderlecht 
+(13)  DF  Graeme Rutjes                      ##    7, Mechelen 
+(18)  DF  Henk Fräser                        ##    2, Roda JC 
+(21)  DF  Danny Blind                        ##    5, Ajax 
+
+ (3)  MF  Frank Rijkaard                     ##   42, Milan 
+ (6)  MF  Jan Wouters                        ##   30, Ajax 
+ (7)  MF  Erwin Koeman                       ##   23, Mechelen 
+ (8)  MF  Gerald Vanenburg                   ##   36, PSV 
+(10)  MF  Ruud Gullit                        ##   44, Milan 
+(11)  MF  Richard Witschge                   ##    4, Ajax 
+(14)  MF  John van 't Schip                  ##   22, Ajax 
+(15)  MF  Bryan Roy                          ##    2, Ajax 
+(20)  MF  Aron Winter                        ##   11, Ajax 
+
+ (9)  FW  Marco van Basten                   ##   35, Milan 
+(12)  FW  Wim Kieft                          ##   27, PSV 
+(17)  FW  Hans Gillhaus                      ##    2, Aberdeen 
+(19)  FW  John van Loen                      ##    6, Roda JC 
+

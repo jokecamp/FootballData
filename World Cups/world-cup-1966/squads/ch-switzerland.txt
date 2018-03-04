@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+ (1)  GK  Karl Elsener                       ##   32, Lausanne 
+(12)  GK  Léo Eichmann                       ##    1, La Chaux-de-Fonds 
+(22)  GK  Mario Prosperi                     ##    3, Lugano 
+
+ (2)  DF  Willy Allemann                     ##    1, Grenchen 
+ (3)  DF  Kurt Armbruster                    ##    3, Lausanne 
+ (5)  DF  René Brodmann                      ##    3, Zürich 
+(14)  DF  Werner Leimgruber                  ##    9, Zürich 
+(18)  DF  Heinz Schneiter                    ##   43, Young Boys 
+(20)  DF  Ely Tacchella                      ##   26, Lausanne 
+
+ (4)  MF  Heinz Bäni                         ##    7, Zürich 
+ (6)  MF  Richard Dürr                       ##   17, Lausanne 
+ (7)  MF  Hansruedi Führer                   ##    6, Young Boys 
+ (8)  MF  Vittore Gottardi                   ##    0, Lugano 
+ (9)  MF  André Grobéty                      ##   39, Lausanne 
+(15)  MF  Karl Odermatt                      ##    6, Basel 
+(19)  MF  Xavier Stierli                     ##    7, Zürich 
+(21)  MF  Georges Vuilleumier                ##    5, Lausanne 
+
+(10)  FW  Robert Hosp                        ##   11, Lausanne 
+(11)  FW  Köbi Kuhn                          ##   18, Zürich 
+(13)  FW  Fritz Künzli                       ##    2, Zürich 
+(16)  FW  René-Pierre Quentin                ##    7, Sion 
+(17)  FW  Jean-Claude Schindelholz           ##   10, Servette 
+

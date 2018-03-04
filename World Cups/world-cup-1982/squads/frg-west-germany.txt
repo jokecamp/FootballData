@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Harald Schumacher                  ##    -, FC Köln 
+(21)  GK  Bernd Franke                       ##    -, Eintracht Braunschweig 
+(22)  GK  Eike Immel                         ##    -, Borussia Dortmund 
+
+ (4)  DF  Karlheinz Förster                  ##    -, Stuttgart 
+ (5)  DF  Bernd Förster                      ##    -, Stuttgart 
+(12)  DF  Wilfried Hannes                    ##    -, Borussia Mönchengladbach 
+(19)  DF  Holger Hieronymus                  ##    -, Hamburg 
+(20)  DF  Manfred Kaltz                      ##    -, Hamburg 
+
+ (2)  MF  Hans-Peter Briegel                 ##    -, Kaiserslautern 
+ (3)  MF  Paul Breitner                      ##    -, Bayern Munich 
+ (6)  MF  Wolfgang Dremmler                  ##    -, Bayern Munich 
+ (7)  MF  Pierre Littbarski                  ##    -, FC Köln 
+(10)  MF  Hansi Müller                       ##    -, Stuttgart 
+(14)  MF  Felix Magath                       ##    -, Hamburg 
+(15)  MF  Uli Stielike                       ##    -, Real Madrid 
+(17)  MF  Stephan Engels                     ##    -, FC Köln 
+(18)  MF  Lothar Matthäus                    ##    -, Borussia Mönchengladbach 
+
+ (8)  FW  Klaus Fischer                      ##    -, FC Köln 
+ (9)  FW  Horst Hrubesch                     ##    -, Hamburg 
+(11)  FW  Karl-Heinz Rummenigge              ##    -, Bayern Munich 
+(13)  FW  Uwe Reinders                       ##    -, Werder Bremen 
+(16)  FW  Thomas Allofs                      ##    -, Fortuna Düsseldorf 
+

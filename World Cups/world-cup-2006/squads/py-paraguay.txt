@@ -1,0 +1,31 @@
+##############################
+# Paraguay (PAR) 
+#   - 23 players
+
+ (1)  GK  Justo Villar                       ##   39, Newell's Old Boys (ARG)
+(12)  GK  Derlis Gómez                       ##    5, Sportivo Luqueño (PAR)
+(22)  GK  Aldo Bobadilla                     ##    5, Libertad (PAR)
+
+ (2)  DF  Jorge Núñez                        ##   15, Estudiantes de La Plata (ARG)
+ (3)  DF  Delio Toledo                       ##   30, Real Zaragoza (ESP)
+ (4)  DF  Carlos Gamarra                     ##  106, Palmeiras (BRA)
+ (5)  DF  Julio César Cáceres                ##   32, River Plate (ARG)
+(14)  DF  Paulo da Silva                     ##   33, Toluca (MEX)
+(15)  DF  Julio César Manzur                 ##   13, Santos (BRA)
+(21)  DF  Denis Caniza                       ##   74, Cruz Azul (MEX)
+
+ (6)  MF  Carlos Bonet                       ##   29, Libertad (PRY)
+ (8)  MF  Edgar Barreto                      ##   15, NEC (NED)
+(10)  MF  Roberto Acuña                      ##   93, Deportivo La Coruña (ESP)
+(11)  MF  Diego Gavilán                      ##   39, Newell's Old Boys (ARG)
+(13)  MF  Carlos Paredes                     ##   68, Reggina (ITA)
+(16)  MF  Cristian Riveros                   ##    9, Libertad (PAR)
+(17)  MF  José Montiel                       ##    6, Olimpia (PAR)
+(19)  MF  Julio dos Santos                   ##   17, Bayern Munich (GER)
+
+ (7)  FW  Salvador Cabañas                   ##   15, Jaguares (MEX)
+ (9)  FW  Roque Santa Cruz                   ##   42, Bayern Munich (GER)
+(18)  FW  Nelson Valdez                      ##   11, Werder Bremen (GER)
+(20)  FW  Dante López                        ##    7, Genoa (ITA)
+(23)  FW  Nelson Cuevas                      ##   35, Pachuca (MEX)
+

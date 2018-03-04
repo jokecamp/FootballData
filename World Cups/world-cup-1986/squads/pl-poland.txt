@@ -1,0 +1,30 @@
+##############################
+# Poland (POL) 
+#   - 22 players
+
+ (1)  GK  Józef Młynarczyk                   ##    -, Porto 
+(12)  GK  Jacek Kazimierski                  ##    -, Legia Warszawa 
+(19)  GK  Józef Wandzik                      ##    -, Górnik Zabrze 
+
+ (2)  DF  Kazimierz Przybyś                  ##    -, Widzew Łódź 
+ (3)  DF  Władysław Żmuda                    ##    -, Cremonese 
+ (4)  DF  Marek Ostrowski                    ##    -, Pogoń Szczecin 
+ (5)  DF  Roman Wójcicki                     ##    -, Widzew Łódź 
+(10)  DF  Stefan Majewski                    ##    -, Kaiserslautern 
+(14)  DF  Dariusz Kubicki                    ##    -, Legia Warszawa 
+(18)  DF  Krzysztof Pawlak                   ##    -, Lech Poznań 
+
+ (6)  MF  Waldemar Matysik                   ##    -, Górnik Zabrze 
+ (7)  MF  Ryszard Tarasiewicz                ##    -, Śląsk Wrocław 
+ (9)  MF  Jan Karaś                          ##    -, Legia Warszawa 
+(13)  MF  Ryszard Komornicki                 ##    -, Górnik Zabrze 
+(15)  MF  Andrzej Buncol                     ##    -, Legia Warszawa 
+(20)  MF  Zbigniew Boniek                    ##    -, Roma 
+(21)  MF  Dariusz Dziekanowski               ##    -, Legia Warszawa 
+
+ (8)  FW  Jan Urban                          ##    -, Górnik Zabrze 
+(11)  FW  Włodzimierz Smolarek               ##    -, Widzew Łódź 
+(16)  FW  Andrzej Pałasz                     ##    -, Górnik Zabrze 
+(17)  FW  Andrzej Zgutczyński                ##    -, Górnik Zabrze 
+(22)  FW  Jan Furtok                         ##    -, GKS Katowice 
+

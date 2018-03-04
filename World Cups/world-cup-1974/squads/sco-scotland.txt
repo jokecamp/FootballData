@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  David Harvey                       ##    7, Leeds United 
+(12)  GK  Thomson Allan                      ##    2, Dundee 
+(13)  GK  Jim Stewart                        ##    0, Kilmarnock 
+
+ (2)  DF  Sandy Jardine                      ##   16, Rangers 
+ (3)  DF  Danny McGrain                      ##   12, Celtic 
+ (5)  DF  Jim Holton                         ##   11, Manchester United 
+ (6)  DF  John Blackley                      ##    3, Hibernian 
+(14)  DF  Martin Buchan                      ##   13, Manchester United 
+(16)  DF  Willie Donachie                    ##   11, Manchester City 
+(21)  DF  Gordon McQueen                     ##    1, Leeds United 
+(22)  DF  Erich Schaedler                    ##    1, Hibernian 
+
+ (4)  MF  Billy Bremner                      ##   48, Leeds United 
+ (7)  MF  Jimmy Johnstone                    ##   21, Celtic 
+(10)  MF  David Hay                          ##   24, Celtic 
+(15)  MF  Peter Cormack                      ##    9, Liverpool 
+(17)  MF  Donald Ford                        ##    3, Hearts 
+(18)  MF  Tommy Hutchison                    ##    8, Coventry City 
+
+ (8)  FW  Kenny Dalglish                     ##   19, Celtic 
+ (9)  FW  Joe Jordan                         ##   11, Leeds United 
+(11)  FW  Peter Lorimer                      ##   14, Leeds United 
+(19)  FW  Denis Law                          ##   54, Manchester City 
+(20)  FW  Willie Morgan                      ##   19, Manchester United 
+

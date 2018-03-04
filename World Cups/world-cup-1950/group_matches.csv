@@ -1,0 +1,17 @@
+match_num,group,date,stadium,where,home,home_score,away_score,extra_time_score,away
+1,Group 1,24 June,Estádio do Maracanã,Rio de Janeiro,Brazil,4,0,,Mexico
+5,Group 1,25 June,Estádio Independência,Belo Horizonte,Yugoslavia,3,0,,Switzerland
+6,Group 1,28 June,Estádio do Pacaembu,São Paulo,Brazil,2,2,,Switzerland
+7,Group 1,28 June,Estádio dos Eucaliptos,Porto Alegre,Yugoslavia,4,1,,Mexico
+11,Group 1,1 July,Estádio do Maracanã,Rio de Janeiro,Brazil,2,0,,Yugoslavia
+14,Group 1,2 July,Estádio dos Eucaliptos,Porto Alegre,Switzerland,2,1,,Mexico
+2,Group 2,25 June,Estádio do Maracanã,Rio de Janeiro,England,2,0,,Chile
+3,Group 2,25 June,Estádio Durival de Britto,Curitiba,Spain,3,1,,United States
+8,Group 2,29 June,Estádio do Maracanã,Rio de Janeiro,Spain,2,0,,Chile
+10,Group 2,29 June,Estádio Independência,Belo Horizonte,United States,1,0,,England
+12,Group 2,2 July,Estádio do Maracanã,Rio de Janeiro,Spain,1,0,,England
+15,Group 2,2 July,Estádio Ilha do Retiro,Recife,Chile,5,2,,United States
+4,Group 3,25 June,Estádio do Pacaembu,São Paulo,Sweden,3,2,,Italy
+9,Group 3,29 June,Estádio Durival Britto,Curitiba,Sweden,2,2,,Paraguay
+13,Group 3,2 July,Estádio do Pacaembu,São Paulo,Italy,2,0,,Paraguay
+16,Group 4,2 July,Estádio Independência,Belo Horizonte,Uruguay,8,0,,Bolivia

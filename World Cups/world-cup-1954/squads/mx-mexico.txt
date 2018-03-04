@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Antonio Carbajal                   ##   11, FC León 
+(12)  GK  Salvador Mota                      ##    0, Atlante F.C. 
+
+ (2)  DF  Narciso López                      ##    3, CD Oro 
+ (4)  DF  Saturnino Martínez                 ##    6, Necaxa 
+ (5)  DF  Raúl Cárdenas                      ##    4, Puebla F.C. 
+(13)  DF  Sergio Bravo                       ##    6, FC León 
+
+ (3)  MF  Jorge Romo                         ##    5, Club Deportivo Marte 
+ (6)  MF  Rafael Avalos                      ##    3, Atlante F.C. 
+(14)  MF  Juan Gómez                         ##    0, Atlas 
+(16)  MF  Pedro Nájera                       ##    0, Club América 
+(21)  MF  Mario Ochoa                        ##    5, Club Deportivo Marte 
+
+ (7)  FW  Alfredo Torres                     ##    3, Atlas 
+ (8)  FW  José Naranjo                       ##   12, CD Oro 
+ (9)  FW  José Luis Lamadrid                 ##    5, Necaxa 
+(10)  FW  Tomás Balcázar                     ##    9, CD Guadalajara 
+(11)  FW  Raúl Arellano                      ##    0, CD Guadalajara 
+(15)  FW  Carlos Blanco                      ##    4, Necaxa 
+(17)  FW  Carlos Septién                     ##   11, CD Tampico 
+(18)  FW  Carlos Carus                       ##    0, Club Toluca 
+(19)  FW  Moises Jinich                      ##    1, Atlante F.C. 
+(20)  FW  José Antonio Roca                  ##    7, CD Zacatepec 
+(22)  FW  Ranulfo Cortés                     ##    0, CD Oro 
+

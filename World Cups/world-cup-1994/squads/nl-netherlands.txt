@@ -1,0 +1,30 @@
+##############################
+# Netherlands (NED) 
+#   - 22 players
+
+ (1)  GK  Ed de Goeij                        ##   14, Feyenoord 
+(13)  GK  Edwin van der Sar                  ##    0, Ajax 
+(22)  GK  Theo Snelders                      ##    1, Aberdeen 
+
+ (2)  DF  Frank de Boer                      ##   25, Ajax 
+ (4)  DF  Ronald Koeman                      ##   73, Barcelona 
+(14)  DF  Ulrich van Gobbel                  ##    6, Feyenoord 
+(15)  DF  Danny Blind                        ##   24, Ajax 
+(16)  DF  Arthur Numan                       ##    4, PSV 
+(18)  DF  Stan Valckx                        ##    7, Sporting CP 
+(21)  DF  John de Wolf                       ##    6, Feyenoord 
+
+ (3)  MF  Frank Rijkaard                     ##   69, Ajax 
+ (5)  MF  Rob Witschge                       ##   22, Feyenoord 
+ (6)  MF  Jan Wouters                        ##   66, PSV 
+ (7)  MF  Marc Overmars                      ##   13, Ajax 
+ (8)  MF  Wim Jonk                           ##   15, Internazionale 
+ (9)  MF  Ronald de Boer                     ##    9, Ajax 
+(11)  MF  Bryan Roy                          ##   21, Foggia 
+(17)  MF  Gaston Taument                     ##    6, Feyenoord 
+(20)  MF  Aron Winter                        ##   38, Lazio 
+
+(10)  FW  Dennis Bergkamp                    ##   31, Internazionale 
+(12)  FW  John Bosman                        ##   27, Anderlecht 
+(19)  FW  Peter van Vossen                   ##   10, Ajax 
+

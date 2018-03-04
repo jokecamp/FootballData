@@ -1,0 +1,30 @@
+##############################
+# France (FRA) 
+#   - 22 players
+
+ (1)  GK  Dominique Baratelli                ##   18, Nice 
+(21)  GK  Jean-Paul Bertrand-Demanes         ##    9, Nantes 
+(22)  GK  Dominique Dropsy                   ##    0, Strasbourg 
+
+ (2)  DF  Patrick Battiston                  ##    5, Metz 
+ (3)  DF  Maxime Bossis                      ##   11, Nantes 
+ (4)  DF  Gérard Janvion                     ##   15, Saint-Étienne 
+ (5)  DF  François Bracci                    ##   15, Marseille 
+ (6)  DF  Christian Lopez                    ##   12, Saint-Étienne 
+ (7)  DF  Patrice Rio                        ##   15, Nantes 
+ (8)  DF  Marius Trésor                      ##   36, Marseille 
+
+ (9)  MF  Dominique Bathenay                 ##   12, Saint-Étienne 
+(10)  MF  Jean-Marc Guillou                  ##   18, Nice 
+(11)  MF  Henri Michel                       ##   52, Nantes 
+(12)  MF  Claude Papi                        ##    2, Bastia 
+(13)  MF  Jean Petit                         ##    3, AS Monaco 
+(15)  MF  Michel Platini                     ##   15, Nancy 
+(18)  MF  Dominique Rocheteau                ##   10, Saint-Étienne 
+(19)  MF  Didier Six                         ##   15, Lens 
+
+(14)  FW  Marc Berdoll                       ##   10, Marseille 
+(16)  FW  Christian Dalger                   ##    5, AS Monaco 
+(17)  FW  Bernard Lacombe                    ##   14, Lyon 
+(20)  FW  Olivier Rouyer                     ##    9, Nancy 
+

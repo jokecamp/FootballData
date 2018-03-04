@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Gianluca Pagliuca                  ##    -, Sampdoria 
+(12)  GK  Luca Marchegiani                   ##    -, Lazio 
+(22)  GK  Luca Bucci                         ##    -, Parma 
+
+ (2)  DF  Luigi Apolloni                     ##    -, Parma 
+ (3)  DF  Antonio Benarrivo                  ##    -, Parma 
+ (4)  DF  Alessandro Costacurta              ##    -, Milan 
+ (5)  DF  Paolo Maldini                      ##    -, Milan 
+ (6)  DF  Franco Baresi                      ##    -, Milan 
+ (7)  DF  Lorenzo Minotti                    ##    -, Parma 
+ (8)  DF  Roberto Mussi                      ##    -, Torino 
+ (9)  DF  Mauro Tassotti                     ##    -, Milan 
+
+(11)  MF  Demetrio Albertini                 ##    -, Milan 
+(13)  MF  Dino Baggio                        ##    -, Juventus 
+(14)  MF  Nicola Berti                       ##    -, Internazionale 
+(15)  MF  Antonio Conte                      ##    -, Juventus 
+(16)  MF  Roberto Donadoni                   ##    -, Milan 
+(17)  MF  Alberigo Evani                     ##    -, Sampdoria 
+
+(10)  FW  Roberto Baggio                     ##    -, Juventus 
+(18)  FW  Pierluigi Casiraghi                ##    -, Lazio 
+(19)  FW  Daniele Massaro                    ##    -, Milan 
+(20)  FW  Giuseppe Signori                   ##    -, Lazio 
+(21)  FW  Gianfranco Zola                    ##    -, Parma 
+

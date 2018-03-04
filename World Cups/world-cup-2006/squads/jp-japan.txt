@@ -1,0 +1,31 @@
+##############################
+# Japan (JPN) 
+#   - 23 players
+
+ (1)  GK  Seigo Narazaki                     ##   50, Nagoya Grampus Eight (JPN)
+(12)  GK  Yoichi Doi                         ##    4, FC Tokyo (JPN)
+(23)  GK  Yoshikatsu Kawaguchi               ##   89, Júbilo Iwata (JPN)
+
+ (2)  DF  Teruyuki Moniwa                    ##    8, FC Tokyo (JPN)
+ (3)  DF  Yūichi Komano                      ##    8, Sanfrecce Hiroshima (JPN)
+ (5)  DF  Tsuneyasu Miyamoto                 ##   69, Gamba Osaka (JPN)
+ (6)  DF  Kōji Nakata                        ##   55, Basel (SUI)
+(14)  DF  Alex                               ##   72, Urawa Red Diamonds (JPN)
+(19)  DF  Keisuke Tsuboi                     ##   33, Urawa Red Diamonds (JPN)
+(21)  DF  Akira Kaji                         ##   43, Gamba Osaka (JPN)
+(22)  DF  Yuji Nakazawa                      ##   50, Yokohama F. Marinos (JPN)
+
+ (4)  MF  Yasuhito Endo                      ##   40, Gamba Osaka (JPN)
+ (7)  MF  Hidetoshi Nakata                   ##   74, Fiorentina (ITA)
+ (8)  MF  Mitsuo Ogasawara                   ##   51, Kashima Antlers (JPN)
+(10)  MF  Shunsuke Nakamura                  ##   60, Celtic (SCO)
+(15)  MF  Takashi Fukunishi                  ##   62, Júbilo Iwata (JPN)
+(17)  MF  Junichi Inamoto                    ##   63, West Bromwich Albion (ENG)
+(18)  MF  Shinji Ono                         ##   54, Urawa Red Diamonds (JPN)
+
+ (9)  FW  Naohiro Takahara                   ##   41, Hamburg (GER)
+(11)  FW  Seiichiro Maki                     ##   10, JEF United (JPN)
+(13)  FW  Atsushi Yanagisawa                 ##   56, Kashima Antlers (JPN)
+(16)  FW  Masashi Oguro                      ##   18, Grenoble (FRA)
+(20)  FW  Keiji Tamada                       ##   39, Nagoya Grampus Eight (JPN)
+

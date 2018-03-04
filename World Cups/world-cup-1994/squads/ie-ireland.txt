@@ -1,0 +1,30 @@
+##############################
+# Ireland (IRL) 
+#   - 22 players
+
+ (1)  GK  Packie Bonner                      ##   73, Celtic 
+(22)  GK  Alan Kelly                         ##    3, Sheffield United 
+
+ (2)  DF  Denis Irwin                        ##   26, Manchester United 
+ (3)  DF  Terry Phelan                       ##   22, Manchester City 
+ (4)  DF  Kevin Moran                        ##   69, Blackburn Rovers 
+ (5)  DF  Paul McGrath                       ##   65, Aston Villa 
+(11)  DF  Steve Staunton                     ##   47, Aston Villa 
+(12)  DF  Gary Kelly                         ##    5, Leeds United 
+(13)  DF  Alan Kernaghan                     ##   11, Manchester City 
+(14)  DF  Phil Babb                          ##    5, Coventry City 
+
+ (6)  MF  Roy Keane                          ##   22, Manchester United 
+ (7)  MF  Andy Townsend                      ##   45, Aston Villa 
+ (8)  MF  Ray Houghton                       ##   58, Aston Villa 
+(10)  MF  John Sheridan                      ##   19, Sheffield Wednesday 
+(17)  MF  Eddie McGoldrick                   ##   12, Arsenal 
+(18)  MF  Ronnie Whelan                      ##   50, Liverpool 
+(19)  MF  Alan McLoughlin                    ##   17, Portsmouth 
+(21)  MF  Jason McAteer                      ##    5, Bolton Wanderers 
+
+ (9)  FW  John Aldridge                      ##   57, Tranmere Rovers 
+(15)  FW  Tommy Coyne                        ##   14, Motherwell 
+(16)  FW  Tony Cascarino                     ##   50, Chelsea 
+(20)  FW  David Kelly                        ##   16, Wolverhampton 
+

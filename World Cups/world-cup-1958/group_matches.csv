@@ -1,0 +1,28 @@
+match_num,group,date,stadium,where,home,home_score,away_score,extra_time_score,away
+7,Group 1,8 June,Malmö Stadion,Malmö,West Germany,3,1,,Argentina
+8,Group 1,8 June,Örjans Vall,Halmstad,Northern Ireland,1,0,,Czechoslovakia
+15,Group 1,11 June,Örjans Vall,Halmstad,Argentina,3,1,,Northern Ireland
+14,Group 1,11 June,Olympiastadion,Helsingborg,West Germany,2,2,,Czechoslovakia
+23,Group 1,15 June,Malmö Stadion,Malmö,West Germany,2,2,,Northern Ireland
+24,Group 1,15 June,Olympiastadion,Helsingborg,Czechoslovakia,6,1,,Argentina
+35,Group-1 Play-off,17 June,Malmö Stadion,Malmö,Northern Ireland,1,1,2-1,Czechoslovakia
+3,Group 2,8 June,Idrottsparken,Norrköping,France,7,3,,Paraguay
+4,Group 2,8 June,Arosvallen,Västerås,Yugoslavia,1,1,,Scotland
+11,Group 2,11 June,Arosvallen,Västerås,Yugoslavia,3,2,,France
+10,Group 2,11 June,Idrottsparken,Norrköping,Paraguay,3,2,,Scotland
+20,Group 2,15 June,Eyravallen,Örebro,France,2,1,,Scotland
+19,Group 2,15 June,Tunavallen,Eskilstuna,Paraguay,3,3,,Yugoslavia
+1,Group 3,8 June,Råsunda Stadium,Solna,Sweden,3,0,,Mexico
+2,Group 3,8 June,Jernvallen,Sandviken,Hungary,1,1,,Wales
+9,Group 3,11 June,Råsunda Stadium,Solna,Mexico,1,1,,Wales
+16,Group 3,12 June,Råsunda Stadium,Solna,Sweden,2,1,,Hungary
+17,Group 3,15 June,Råsunda Stadium,Solna,Sweden,0,0,,Wales
+18,Group 3,15 June,Jernvallen,Sandviken,Hungary,4,0,,Mexico
+33,Group-3 Play-off,17 June,Råsunda Stadium,Solna,Wales,2,1,,Hungary
+6,Group 4,8 June,Rimnersvallen,Uddevalla,Brazil,3,0,,Austria
+5,Group 4,8 June,Ullevi,Gothenburg,Soviet Union,2,2,,England
+12,Group 4,11 June,Ullevi,Gothenburg,Brazil,0,0,,England
+13,Group 4,11 June,Ryavallen,Borås,Soviet Union,2,0,,Austria
+22,Group 4,15 June,Ryavallen,Borås,England,2,2,,Austria
+21,Group 4,15 June,Ullevi,Gothenburg,Brazil,2,0,,Soviet Union
+34,Group-4 Play-off,17 June,Ullevi,Gothenburg,Soviet Union,1,0,,England

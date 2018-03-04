@@ -1,0 +1,30 @@
+##############################
+# Tunisia (TUN) 
+#   - 22 players
+
+ (1)  GK  Sadok Sassi                        ##    -, Club Africain 
+(21)  GK  Lamine Ben Aziza                   ##    -, Étoile Sportive du Sahel 
+(22)  GK  Mokhtar Naili                      ##    -, Club Africain 
+
+ (2)  DF  Mokhtar Dhouib                     ##    -, CS Sfaxien 
+ (3)  DF  Ali Kaabi                          ##    -, COT Tunis 
+ (5)  DF  Mohsen Labidi                      ##    -, Stade Tunis 
+(17)  DF  Ridha El Louze                     ##    -, Sfax Railways Sports 
+(18)  DF  Kamel Chebli                       ##    -, Club Africain 
+(20)  DF  Amor Jebali                        ##    -, AS Marsa 
+
+ (4)  MF  Khaled Gasmi                       ##    -, Club Bizerta 
+ (6)  MF  Néjib Ghommidh                     ##    -, Club Africain 
+ (8)  MF  Mohamed Ben Rehaiem                ##    -, CS Sfaxien 
+(10)  MF  Tarak Dhiab                        ##    -, Espérance 
+(12)  MF  Khemais Labidi                     ##    -, JS Kairouan 
+
+ (7)  FW  Témime Lahzami                     ##    -, Al-Ittihad 
+ (9)  FW  Mohamed Akid                       ##    -, CS Sfaxien 
+(11)  FW  Abderraouf Ben Aziza               ##    -, Étoile Sportive du Sahel 
+(13)  FW  Néjib Liman                        ##    -, Stade Tunis 
+(14)  FW  Slah Karoui                        ##    -, Étoile Sportive du Sahel 
+(15)  FW  Mohamed Ben Mouza                  ##    -, Club Africain 
+(16)  FW  Ohman Chehaibi                     ##    -, JS Kairouan 
+(19)  FW  Mokhtar Hasni                      ##    -, La Louviére 
+

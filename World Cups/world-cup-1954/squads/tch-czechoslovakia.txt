@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+ (1)  GK  Theodor Reimann                    ##    4, Slovan Bratislava 
+(21)  GK  Imrich Stacho                      ##    6, Tankista Praha 
+(22)  GK  Viliam Schrojf                     ##    1, Křídla vlasti Olomouc 
+
+ (2)  DF  František Šafránek                 ##   10, ÚDA Prague 
+ (4)  DF  Ladislav Novák                     ##   11, ÚDA Prague 
+ (5)  DF  Jiří Trnka                         ##   20, ÚDA Prague 
+(12)  DF  Anton Krásnohorský                 ##    9, Iskra Žilina 
+
+ (3)  MF  Svatopluk Pluskal                  ##    3, ÚDA Prague 
+ (6)  MF  Michal Benedikovič                 ##    7, Slovan Bratislava 
+(13)  MF  Jiří Hledík                        ##    3, Křídla vlasti Olomouc 
+(14)  MF  Jan Hertl                          ##    6, ÚDA Prague 
+(16)  MF  Zdeněk Procházka                   ##    1, Spartak Praha Sokolovo 
+
+ (7)  FW  Ladislav Hlaváček                  ##   13, ÚDA Prague 
+ (8)  FW  Otto Hemele                        ##    8, ÚDA Prague 
+ (9)  FW  Anton Malatinský                   ##   10, Baník Handlová 
+(10)  FW  Emil Pažický                       ##   14, Slovan Bratislava 
+(11)  FW  Jiří Pešek                         ##    4, Spartak Praha Sokolovo 
+(15)  FW  Ladislav Kačáni                    ##    7, CH Bratislava 
+(17)  FW  Tadeáš Kraus                       ##    5, Křídla vlasti Olomouc 
+(18)  FW  Josef Majer                        ##    0, Baník Kladno 
+(19)  FW  Jaroslav Košnar                    ##    1, CH Bratislava 
+(20)  FW  Kazimír Gajdoš                     ##    0, Tatran Prešov 
+

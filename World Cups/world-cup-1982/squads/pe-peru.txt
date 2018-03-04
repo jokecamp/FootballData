@@ -1,0 +1,30 @@
+##############################
+# Peru (PER) 
+#   - 22 players
+
+ (1)  GK  Eusebio Acasuzo                    ##    -, Universitario 
+(12)  GK  José González                      ##    -, Alianza Lima 
+(21)  GK  Ramón Quiroga                      ##    -, Sporting Cristal 
+
+ (2)  DF  Jaime Duarte                       ##    -, Alianza Lima 
+ (3)  DF  Salvador Salguero                  ##    -, Alianza Lima 
+ (4)  DF  Hugo Gastulo                       ##    -, Universitario 
+(15)  DF  Rubén Toribio Díaz                 ##    -, Sporting Cristal 
+(16)  DF  Jorge Olaechea                     ##    -, Alianza Lima 
+(17)  DF  Franco Navarro                     ##    -, Deportivo Municipal 
+
+ (5)  MF  Germán Leguía                      ##    -, Universitario 
+ (6)  MF  José Velásquez                     ##    -, Independiente Medellín 
+ (8)  MF  César Cueto                        ##    -, Atlético Nacional 
+ (9)  MF  Julio César Uribe                  ##    -, Sporting Cristal 
+(13)  MF  Oscar Arizaga                      ##    -, Atlético Chalaco 
+(14)  MF  Miguel Gutiérrez                   ##    -, Sporting Cristal 
+(18)  MF  Eduardo Malásquez                  ##    -, Deportivo Municipal 
+(22)  MF  Luis Reyna                         ##    -, Sporting Cristal 
+
+ (7)  FW  Gerónimo Barbadillo                ##    -, UANL Tigres 
+(10)  FW  Teófilo Cubillas                   ##    -, Fort Lauderdale Strikers (USA)
+(11)  FW  Juan Carlos Oblitas                ##    -, Seraing 
+(19)  FW  Guillermo La Rosa                  ##    -, Atlético Nacional 
+(20)  FW  Percy Rojas                        ##    -, Seraing 
+

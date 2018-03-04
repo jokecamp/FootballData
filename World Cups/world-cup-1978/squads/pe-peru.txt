@@ -1,0 +1,30 @@
+##############################
+# Peru (PER) 
+#   - 22 players
+
+ (1)  GK  Ottorino Sartor                    ##    -, Colegio Nacional de Iquitos 
+(13)  GK  Juan Cáceres                       ##    -, Alianza Lima 
+(21)  GK  Ramón Quiroga                      ##    -, Sporting Cristal 
+
+ (2)  DF  Jaime Duarte                       ##    -, Alianza Lima 
+ (3)  DF  Rodolfo Manzo                      ##    -, Deportivo Municipal 
+ (4)  DF  Héctor Chumpitaz                   ##    -, Sporting Cristal 
+ (5)  DF  Rubén Toribio Díaz                 ##    -, Sporting Cristal 
+(14)  DF  José Navarro                       ##    -, Sporting Cristal 
+(22)  DF  Roberto Rojas                      ##    -, Alianza Lima 
+
+ (6)  MF  José Velásquez                     ##    -, Alianza Lima 
+ (8)  MF  César Cueto                        ##    -, Alianza Lima 
+ (9)  MF  Percy Rojas                        ##    -, Sporting Cristal 
+(10)  MF  Teófilo Cubillas                   ##    -, Alianza Lima 
+(15)  MF  Germán Leguía                      ##    -, Deportivo Municipal 
+(16)  MF  Raúl Gorriti                       ##    -, Sporting Cristal 
+(17)  MF  Alfredo Quesada                    ##    -, Sporting Cristal 
+(18)  MF  Ernesto Labarthe                   ##    -, Sport Boys 
+
+ (7)  FW  Juan Muñante                       ##    -, Club UNAM 
+(11)  FW  Juan Carlos Oblitas                ##    -, Sporting Cristal 
+(12)  FW  Roberto Mosquera                   ##    -, Sporting Cristal 
+(19)  FW  Guillermo La Rosa                  ##    -, Alianza Lima 
+(20)  FW  Hugo Sotil                         ##    -, Alianza Lima 
+

@@ -1,0 +1,17 @@
+match_num,round/group,date,stadium,where,home,penalties,extra_time_score,fulltime_score,half_time_score,away
+49,Round of 16,Jun 24,Allianz Arena,München,Germany,,,2-0,2-0,Sweden
+50,Round of 16,Jun 24,Zentralstadion,Leipzig,Argentina,,2-1,1-1,1-1,Mexico
+51,Round of 16,Jun 25,Gottlieb-Daimler-Stadion,Stuttgart,England,,,1-0,0-0,Ecuador
+52,Round of 16,Jun 25,Frankenstadion,Nürnberg,Portugal,,,1-0,1-0,Netherlands
+53,Round of 16,Jun 26,Fritz-Walter-Stadion,Kaiserslautern,Italy,,,1-0,0-0,Australia
+54,Round of 16,Jun 26,RheinEnergieStadion,Köln,Switzerland,0-3,0-0,0-0,"0,0",Ukraine
+55,Round of 16,Jun 27,Signal Iduna Park,Dortmund,Brazil,,,3-0,2-0,Ghana
+56,Round of 16,Jun 27,AWD-Arena,Hannover,Spain,,,1-3,1-1,France
+57,Quarterfinals,Jun 30,Olympiastadion,Berlin,Germany,4-2,1-1,1-1,0-0,Argentina
+58,Quarterfinals,Jun 30,AOL Arena,Hamburg,Italy,,,3-0,1-0,Ukraine
+59,Quarterfinals,Jul 1,Veltins-Arena,Gelsenkirchen,England,1-3,0-0,0-0,"0,0",Portugal
+60,Quarterfinals,Jul 1,Commerzbank-Arena,Frankfurt,Brazil,,,0-1,0-0,France
+61,Semifinals,Jul 4,Signal Iduna Park,Dortmund,Germany,,0-2,0-0,"0,0",Italy
+62,Semifinals,Jul 5,Allianz Arena,München,Portugal,,,0-1,0-1,France
+63,Third-place play-off,Jul 8,Gottlieb-Daimler-Stadion,Stuttgart,Germany,,,3-1,0-0,Portugal
+64,Final,Jul 9,Olympiastadion,Berlin,Italy,5-3,1-1,1-1,1-1,France

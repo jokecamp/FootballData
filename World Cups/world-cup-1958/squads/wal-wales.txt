@@ -1,0 +1,30 @@
+##############################
+# Wales (WAL) 
+#   - 22 players
+
+ (1)  GK  Jack Kelsey                        ##    -, Arsenal 
+(12)  GK  Ken Jones                          ##    -, Cardiff City 
+(13)  GK  Graham Vearncombe                  ##    -, Cardiff City 
+
+ (2)  DF  Stuart Williams                    ##    -, West Bromwich Albion 
+ (3)  DF  Mel Hopkins                        ##    -, Tottenham Hotspur 
+ (4)  DF  Derrick Sullivan                   ##    -, Cardiff City 
+(14)  DF  Trevor Edwards                     ##    -, Charlton Athletic 
+(15)  DF  Colin Baker                        ##    -, Cardiff City 
+
+ (5)  MF  Mel Charles                        ##    -, Swansea Town 
+ (6)  MF  Dave Bowen                         ##    -, Arsenal 
+(16)  MF  Vic Crowe                          ##    -, Aston Villa 
+(20)  MF  John Elsworthy                     ##    -, Ipswich Town 
+(21)  MF  Len Allchurch                      ##    -, Swansea Town 
+(22)  MF  George Baker                       ##    -, Plymouth Argyle 
+
+ (7)  FW  Terry Medwin                       ##    -, Tottenham Hotspur 
+ (8)  FW  Ron Hewitt                         ##    -, Cardiff City 
+ (9)  FW  John Charles                       ##    -, Juventus 
+(10)  FW  Ivor Allchurch                     ##    -, Swansea Town 
+(11)  FW  Cliff Jones                        ##    -, Tottenham Hotspur 
+(17)  FW  Ken Leek                           ##    -, Leicester City 
+(18)  FW  Roy Vernon                         ##    -, Blackburn Rovers 
+(19)  FW  Colin Webster                      ##    -, Manchester United 
+

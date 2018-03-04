@@ -1,0 +1,31 @@
+##############################
+# Netherlands (NED) 
+#   - 23 players
+
+ (1)  GK  Edwin van der Sar                  ##  109, Manchester United (ENG)
+(22)  GK  Henk Timmer                        ##    2, AZ (NED)
+(23)  GK  Maarten Stekelenburg               ##    2, Ajax (NED)
+
+ (2)  DF  Kew Jaliens                        ##    1, AZ (NED)
+ (3)  DF  Khalid Boulahrouz                  ##   11, Hamburg (GER)
+ (4)  DF  Joris Mathijsen                    ##    8, AZ (NED)
+ (5)  DF  Giovanni van Bronckhorst           ##   57, Barcelona (ESP)
+(12)  DF  Jan Kromkamp                       ##   11, Liverpool (ENG)
+(13)  DF  André Ooijer                       ##   19, PSV Eindhoven (NED)
+(14)  DF  John Heitinga                      ##   18, Ajax (NED)
+(15)  DF  Tim de Cler                        ##    3, AZ (NED)
+
+ (6)  MF  Denny Landzaat                     ##   23, AZ (NED)
+ (8)  MF  Phillip Cocu                       ##   97, PSV Eindhoven (NED)
+(10)  MF  Rafael van der Vaart               ##   35, Hamburg (GER)
+(11)  MF  Arjen Robben                       ##   20, Chelsea (ENG)
+(16)  MF  Hedwiges Maduro                    ##   11, Ajax (NED)
+(18)  MF  Mark van Bommel                    ##   37, Barcelona (ESP)
+(20)  MF  Wesley Sneijder                    ##   23, Ajax (NED)
+
+ (7)  FW  Dirk Kuyt                          ##   19, Feyenoord (NED)
+ (9)  FW  Ruud van Nistelrooy                ##   51, Manchester United (ENG)
+(17)  FW  Robin van Persie                   ##   10, Arsenal (ENG)
+(19)  FW  Jan Vennegoor of Hesselink         ##    7, PSV Eindhoven (NED)
+(21)  FW  Ryan Babel                         ##    6, Ajax (NED)
+

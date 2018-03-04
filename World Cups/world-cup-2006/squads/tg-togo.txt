@@ -1,0 +1,31 @@
+##############################
+# Togo (TOG) 
+#   - 23 players
+
+ (1)  GK  Ouro-Nimini Tchagnirou             ##    9, Djoliba (MLI)
+(16)  GK  Kossi Agassa                       ##   49, Metz (FRA)
+(22)  GK  Kodjovi Obilale                    ##    0, Étoile Filante (TOG)
+
+ (2)  DF  Daré Nibombé                       ##   16, Mons (BEL)
+ (3)  DF  Jean-Paul Abalo                    ##   65, APOEL (CYP)
+ (5)  DF  Massamasso Tchangai                ##   34, Benevento (ITA)
+(12)  DF  Éric Akoto                         ##   32, Admira Wacker (AUT)
+(13)  DF  Richmond Forson                    ##    8, Poiré (FRA)
+(19)  DF  Ludovic Assemoassa                 ##    5, Ciudad de Murcia (ESP)
+(23)  DF  Assimiou Touré                     ##    1, Bayer Leverkusen (GER)
+
+ (6)  MF  Yao Aziawonou                      ##   32, Young Boys (SUI)
+ (8)  MF  Kuami Agboh                        ##    4, Beveren (BEL)
+ (9)  MF  Thomas Dossevi                     ##   10, Valenciennes (FRA)
+(10)  MF  Mamam Cherif Touré                 ##   39, Metz (FRA)
+(14)  MF  Adékambi Olufadé                   ##   24, Al-Siliyah (QAT)
+(15)  MF  Alaixys Romao                      ##   11, Louhans-Cuiseaux (FRA)
+(18)  MF  Yao Junior Sènaya                  ##   16, YF Juventus (SUI)
+(21)  MF  Franck Atsou                       ##   13, Al-Hilal (KSA)
+
+ (4)  FW  Emmanuel Adebayor                  ##   29, Arsenal (ENG)
+ (7)  FW  Moustapha Salifou                  ##   34, Brest (FRA)
+(11)  FW  Robert Malm                        ##    1, Brest (FRA)
+(17)  FW  Mohamed Kader                      ##   46, Guingamp (FRA)
+(20)  FW  Affo Erassa                        ##    6, Moulins (FRA)
+

@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+ (1)  GK  Necula Răducanu                    ##    9, Rapid Bucureşti 
+(21)  GK  Stere Adamache                     ##    2, Steagul Roşu Braşov 
+(22)  GK  Gheorghe Gornea                    ##    4, UTA Arad 
+
+ (2)  DF  Lajos Sătmăreanu                   ##   20, Steaua Bucureşti 
+ (3)  DF  Nicolae Lupescu                    ##    7, Rapid Bucureşti 
+ (4)  DF  Mihai Mocanu                       ##   25, Petrolul Ploieşti 
+(12)  DF  Mihai Ivăncescu                    ##    0, Steagul Roşu Braşov 
+(13)  DF  Augustin Deleanu                   ##   11, Dinamo Bucureşti 
+(14)  DF  Vasile Gergely                     ##   35, Dinamo Bucureşti 
+(15)  DF  Ion Dumitru                        ##    3, Rapid Bucureşti 
+(20)  DF  Nicolae Pescaru                    ##    1, Steagul Roşu Braşov 
+
+ (5)  MF  Cornel Dinu                        ##   16, Dinamo Bucureşti 
+ (6)  MF  Dan Coe                            ##   39, Rapid Bucureşti 
+ (7)  MF  Emerich Dembrovschi                ##   11, Dinamo Bacău 
+(10)  MF  Radu Nunweiller                    ##   14, Dinamo Bucureşti 
+(16)  MF  Alexandru Neagu                    ##    4, Rapid Bucureşti 
+(17)  MF  Gheorghe Tătaru                    ##    0, Steaua Bucureşti 
+
+ (8)  FW  Nicolae Dobrin                     ##   24, FC Argeş Piteşti 
+ (9)  FW  Florea Dumitrache                  ##   13, Dinamo Bucureşti 
+(11)  FW  Mircea Lucescu                     ##   25, Dinamo Bucureşti 
+(18)  FW  Marin Tufan                        ##    2, Farul Constanţa 
+(19)  FW  Flavius Domide                     ##    6, UTA Arad 
+

@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+ (1)  GK  Milutin Šoškić                     ##   29, Partizan 
+(12)  GK  Srboljub Krivokuća                 ##    7, OFK Belgrade 
+(19)  GK  Mirko Stojanović                   ##    2, Dinamo Zagreb 
+
+ (2)  DF  Vladimir Durković                  ##   33, Red Star 
+ (3)  DF  Fahrudin Jusufi                    ##   29, Partizan 
+ (5)  DF  Vlatko Marković                    ##    7, Dinamo Zagreb 
+ (6)  DF  Vladica Popović                    ##    3, Red Star 
+(13)  DF  Slavko Svinjarević                 ##    1, Vojvodina 
+(14)  DF  Vasilije Šijaković                 ##   10, OFK Belgrade 
+(20)  DF  Žarko Nikolić                      ##    9, Vojvodina 
+
+ (4)  MF  Petar Radaković                    ##    9, Rijeka 
+ (8)  MF  Dragoslav Šekularac                ##   29, Red Star 
+(10)  MF  Milan Galić                        ##   28, Partizan 
+(15)  MF  Željko Matuš                       ##    9, Dinamo Zagreb 
+(17)  MF  Vojislav Melić                     ##    0, Red Star 
+(18)  MF  Vladica Kovačević                  ##    4, Partizan 
+(22)  MF  Aleksandar Ivoš                    ##    0, Sloboda 
+
+ (7)  FW  Andrija Anković                    ##    7, Hajduk Split 
+ (9)  FW  Dražan Jerković                    ##    9, Dinamo Zagreb 
+(11)  FW  Josip Skoblar                      ##    2, OFK Belgrade 
+(16)  FW  Muhamed Mujić                      ##   31, Velež 
+(21)  FW  Nikola Stipić                      ##    0, Red Star 
+

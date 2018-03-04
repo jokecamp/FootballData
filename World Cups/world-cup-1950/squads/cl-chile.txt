@@ -1,0 +1,30 @@
+##############################
+# Chile (CHI) 
+#   - 22 players
+
+   -  GK  René Quitral                       ##    0, Santiago Wanderers 
+   -  GK  Sergio Livingstone                 ##   31, Universidad Católica 
+
+   -  DF  Manuel Álvarez Jiménez             ##    3, Universidad Católica 
+   -  DF  Fernando Roldán                    ##    0, Universidad Católica 
+   -  DF  Miguel Flores                      ##    0, Universidad de Chile 
+   -  DF  Francisco Urroz                    ##   10, Colo-Colo 
+   -  DF  Arturo Farías                      ##    4, Colo-Colo 
+   -  DF  Manuel Machuca                     ##    -,  
+
+   -  MF  Miguel Busquets                    ##   15, Universidad de Chile 
+   -  MF  Osvaldo Saez                       ##   11, Colo-Colo 
+   -  MF  Fernando Campos                    ##    5, Colo-Colo 
+   -  MF  Carlos Rojas                       ##    5, Unión Española 
+   -  MF  Hernán Carvallo                    ##    5, Universidad Católica 
+
+   -  FW  Manuel Muñoz                       ##    0, Colo-Colo 
+   -  FW  Andrés Prieto                      ##    9, Universidad Católica 
+   -  FW  Luis Mayanés                       ##    0, Universidad de Chile 
+   -  FW  Fernando Riera                     ##   16, Universidad Católica 
+   -  FW  George Robledo                     ##    0, Newcastle United 
+   -  FW  Atilio Cremaschi                   ##   10, Unión Española 
+   -  FW  Guillermo Díaz                     ##    4, Santiago Wanderers 
+   -  FW  Raimundo Infante                   ##   13, Universidad Católica 
+   -  FW  Carlos Ibáñez                      ##    0, Magallanes 
+

@@ -1,0 +1,31 @@
+##############################
+# Ecuador (ECU) 
+#   - 23 players
+
+ (1)  GK  Edwin Villafuerte                  ##   15, Deportivo Quito (ECU)
+(12)  GK  Cristian Mora                      ##    8, LDU Quito (ECU)
+(22)  GK  Damián Lanza                       ##    5, Aucas (ECU)
+
+ (2)  DF  Jorge Guagua                       ##   18, El Nacional (ECU)
+ (3)  DF  Iván Hurtado                       ##  130, Al-Arabi (QAT)
+ (4)  DF  Ulises de la Cruz                  ##   84, Aston Villa (ENG)
+ (5)  DF  José Luis Perlaza                  ##    3, Olmedo (ECU)
+(13)  DF  Paul Ambrosi                       ##   24, LDU Quito (ECU)
+(17)  DF  Giovanny Espinoza                  ##   56, LDU Quito (ECU)
+(18)  DF  Néicer Reasco                      ##   31, LDU Quito (ECU)
+
+ (6)  MF  Patricio Urrutia                   ##    6, LDU Quito (ECU)
+ (7)  MF  Christian Lara                     ##   19, El Nacional (ECU)
+ (8)  MF  Edison Méndez                      ##   64, LDU Quito (ECU)
+(14)  MF  Segundo Castillo                   ##   11, El Nacional (ECU)
+(15)  MF  Marlon Ayoví                       ##   74, Deportivo Quito (ECU)
+(16)  MF  Antonio Valencia                   ##   17, Recreativo (ESP)
+(19)  MF  Luis Saritama                      ##   15, Deportivo Quito (ECU)
+(20)  MF  Edwin Tenorio                      ##   68, Barcelona (ECU)
+
+ (9)  FW  Félix Borja                        ##    6, El Nacional (ECU)
+(10)  FW  Iván Kaviedes                      ##   44, Argentinos Juniors (ARG)
+(11)  FW  Agustín Delgado                    ##   68, LDU Quito (ECU)
+(21)  FW  Carlos Tenorio                     ##   29, Al-Sadd (QAT)
+(23)  FW  Christian Benítez                  ##    5, El Nacional (ECU)
+

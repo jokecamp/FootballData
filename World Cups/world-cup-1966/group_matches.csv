@@ -1,0 +1,25 @@
+match_num,group,date,stadium,where,home,home_score,away_score,away
+1,Group 1,11 July,Wembley Stadium,London,England,0,0,Uruguay
+5,Group 1,13 July,Wembley Stadium,London,France,1,1,Mexico
+9,Group 1,15 July,White City Stadium,London,Uruguay,2,1,France
+13,Group 1,16 July,Wembley Stadium,London,England,2,0,Mexico
+17,Group 1,19 July,Wembley Stadium,London,Mexico,0,0,Uruguay
+21,Group 1,20 July,Wembley Stadium,London,England,2,0,France
+2,Group 2,12 July,Hillsborough Stadium,Sheffield,West Germany,5,0,Switzerland
+6,Group 2,13 July,Villa Park,Birmingham,Argentina,2,1,Spain
+10,Group 2,15 July,Hillsborough Stadium,Sheffield,Spain,2,1,Switzerland
+14,Group 2,16 July,Villa Park,Birmingham,Argentina,0,0,West Germany
+18,Group 2,19 July,Hillsborough Stadium,Sheffield,Argentina,2,0,Switzerland
+22,Group 2,20 July,Villa Park,Birmingham,West Germany,2,1,Spain
+3,Group 3,12 July,Goodison Park,Liverpool,Brazil,2,0,Bulgaria
+7,Group 3,13 July,Old Trafford,Manchester,Portugal,3,1,Hungary
+11,Group 3,15 July,Goodison Park,Liverpool,Hungary,3,1,Brazil
+15,Group 3,16 July,Old Trafford,Manchester,Portugal,3,0,Bulgaria
+19,Group 3,19 July,Goodison Park,Liverpool,Portugal,3,1,Brazil
+23,Group 3,20 July,Old Trafford,Manchester,Hungary,3,1,Bulgaria
+4,Group 4,12 July,Ayresome Park,Middlesbrough,Soviet Union,3,0,North Korea
+8,Group 4,13 July,Roker Park,Sunderland,Italy,2,0,Chile
+12,Group 4,15 July,Ayresome Park,Middlesbrough,Chile,1,1,North Korea
+16,Group 4,16 July,Roker Park,Sunderland,Soviet Union,1,0,Italy
+20,Group 4,19 July,Ayresome Park,Middlesbrough,North Korea,1,0,Italy
+24,Group 4,20 July,Roker Park,Sunderland,Soviet Union,2,1,Chile

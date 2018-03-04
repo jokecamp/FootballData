@@ -1,0 +1,31 @@
+##############################
+# Cameroon (CMR) 
+#   - 23 players
+
+ (1)  GK  Alioum Boukar                      ##   46, Samsunspor 
+(16)  GK  Jacques Songo'o                    ##   66, Metz 
+(22)  GK  Idriss Carlos Kameni               ##    1, Le Havre 
+
+ (3)  DF  Pierre Womé                        ##   46, Bologna 
+ (4)  DF  Rigobert Song                      ##   59, 1. FC Köln 
+ (5)  DF  Raymond Kalla                      ##   47, Extremadura 
+ (6)  DF  Pierre Njanka                      ##   31, Strasbourg 
+ (8)  DF  Geremi Njitap                      ##   38, Real Madrid 
+(13)  DF  Lucien Mettomo                     ##   17, Manchester City 
+
+ (2)  MF  Bill Tchato                        ##   12, Montpellier 
+ (7)  MF  Joseph N'Do                        ##   16, Al-Khaleej 
+(12)  MF  Lauren Etame Mayer                 ##   15, Arsenal 
+(14)  MF  Joël Epalle                        ##   22, Panathinaikos 
+(15)  MF  Nicolas Alnoudji                   ##   15, Rizespor 
+(17)  MF  Marc-Vivien Foé                    ##   47, Lyon 
+(19)  MF  Eric Djemba-Djemba                 ##    0, Nantes 
+(20)  MF  Salomon Olembé                     ##   39, Marseille 
+(23)  MF  Daniel N'Gom Kome                  ##    4, Numancia 
+
+ (9)  FW  Samuel Eto'o                       ##   27, Mallorca 
+(10)  FW  Patrick M'Boma                     ##   42, Sunderland 
+(11)  FW  Pius N'Diefi                       ##   13, Sedan 
+(18)  FW  Patrick Suffo                      ##   18, Sheffield United 
+(21)  FW  Joseph-Désiré Job                  ##   34, Metz 
+

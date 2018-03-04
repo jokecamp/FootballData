@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Enrico Albertosi                   ##   21, Cagliari 
+(12)  GK  Dino Zoff                          ##   10, Napoli 
+(17)  GK  Lido Vieri                         ##    4, Internazionale 
+
+ (2)  DF  Tarcisio Burgnich                  ##   33, Internazionale 
+ (3)  DF  Giacinto Facchetti                 ##   46, Internazionale 
+ (4)  DF  Fabrizio Poletti                   ##    4, Torino 
+ (5)  DF  Pierluigi Cera                     ##    2, Cagliari 
+(10)  DF  Mario Bertini                      ##    9, Internazionale 
+(18)  DF  Antonio Juliano                    ##   14, Napoli 
+(21)  DF  Giuseppe Furino                    ##    0, Juventus 
+
+ (6)  MF  Ugo Ferrante                       ##    1, Fiorentina 
+ (7)  MF  Comunardo Niccolai                 ##    1, Cagliari 
+ (8)  MF  Roberto Rosato                     ##   18, Milan 
+ (9)  MF  Giorgio Puia                       ##    7, Torino 
+(14)  MF  Gianni Rivera                      ##   38, Milan 
+(15)  MF  Sandro Mazzola                     ##   37, Internazionale 
+(16)  MF  Giancarlo De Sisti                 ##   12, Fiorentina 
+
+(11)  FW  Luigi Riva                         ##   16, Cagliari 
+(13)  FW  Angelo Domenghini                  ##   22, Cagliari 
+(19)  FW  Sergio Gori                        ##    0, Cagliari 
+(20)  FW  Roberto Boninsegna                 ##    1, Internazionale 
+(22)  FW  Pierino Prati                      ##    6, Milan 
+

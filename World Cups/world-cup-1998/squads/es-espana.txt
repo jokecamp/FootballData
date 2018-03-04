@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  Andoni Zubizarreta                 ##  123, Valencia 
+(13)  GK  Santiago Cañizares                 ##   10, Real Madrid 
+(22)  GK  José Molina                        ##    1, Atlético Madrid 
+
+ (2)  DF  Albert Ferrer                      ##   34, Barcelona 
+ (3)  DF  Agustín Aranzábal                  ##    6, Real Sociedad 
+ (4)  DF  Rafael Alkorta                     ##   48, Athletic Bilbao 
+ (5)  DF  Abelardo                           ##   40, Barcelona 
+ (6)  DF  Fernando Hierro                    ##   55, Real Madrid 
+(12)  DF  Sergi                              ##   33, Barcelona 
+(14)  DF  Iván Campo                         ##    2, Mallorca 
+(15)  DF  Carlos Aguilera                    ##    4, Atlético Madrid 
+(20)  DF  Miguel Ángel Nadal                 ##   43, Barcelona 
+
+ (8)  MF  Julen Guerrero                     ##   31, Athletic Bilbao 
+(16)  MF  Albert Celades                     ##    1, Barcelona 
+(17)  MF  Joseba Etxeberria                  ##    4, Athletic Bilbao 
+(18)  MF  Guillermo Amor                     ##   33, Barcelona 
+(21)  MF  Luis Enrique                       ##   35, Barcelona 
+
+ (7)  FW  Fernando Morientes                 ##    2, Real Madrid 
+ (9)  FW  Juan Antonio Pizzi                 ##   21, Barcelona 
+(10)  FW  Raúl                               ##   13, Real Madrid 
+(11)  FW  Alfonso                            ##   26, Real Betis 
+(19)  FW  Kiko                               ##   21, Atlético Madrid 
+

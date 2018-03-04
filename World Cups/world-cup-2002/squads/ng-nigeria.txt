@@ -1,0 +1,31 @@
+##############################
+# Nigeria (NGA) 
+#   - 23 players
+
+ (1)  GK  Ike Shorunmu                       ##   34, Lucerne 
+(12)  GK  Austin Ejide                       ##    3, Gabros International 
+(22)  GK  Vincent Enyeama                    ##    2, Enyimba 
+
+ (2)  DF  Joseph Yobo                        ##   14, Marseille 
+ (3)  DF  Celestine Babayaro                 ##   24, Chelsea 
+ (5)  DF  Isaac Okoronkwo                    ##   12, Shakhtar Donetsk 
+ (6)  DF  Taribo West                        ##   38, 1. FC Kaiserslautern 
+(13)  DF  Rabiu Afolabi                      ##    5, Standard Liège 
+(14)  DF  Ifeanyi Udeze                      ##   15, PAOK 
+(16)  DF  Efe Sodje                          ##    7, Crewe Alexandra 
+(19)  DF  Eric Ejiofor                       ##   12, Maccabi Haifa 
+
+ (7)  MF  Pius Ikedia                        ##    9, Ajax 
+ (8)  MF  Mutiu Adepoju                      ##   49, Salamanca 
+(10)  MF  Jay-Jay Okocha                     ##   56, Paris Saint-Germain 
+(11)  MF  Garba Lawal                        ##   34, Roda JC 
+(15)  MF  Justice Christopher                ##    7, Royal Antwerp 
+(20)  MF  James Obiorah                      ##    2, Lokomotiv Moscow 
+
+ (4)  FW  Nwankwo Kanu                       ##   33, Arsenal 
+ (9)  FW  Bartholomew Ogbeche                ##    4, Paris Saint-Germain 
+(17)  FW  Julius Aghahowa                    ##   17, Shakhtar Donetsk 
+(18)  FW  Benedict Akwuegbu                  ##   16, Shenyang Haishi 
+(21)  FW  John Utaka                         ##    4, Al-Sadd 
+(23)  FW  Femi Opabunmi                      ##    2, Ibadan 
+

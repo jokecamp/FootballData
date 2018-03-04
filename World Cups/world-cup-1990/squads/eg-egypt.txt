@@ -1,0 +1,30 @@
+##############################
+# Egypt (EGY) 
+#   - 22 players
+
+ (1)  GK  Ahmed Shobair                      ##    -, Al-Ahly 
+(21)  GK  Ayman Taher                        ##    -, Zamalek 
+(22)  GK  Thabet El-Batal                    ##    -, Al-Ahly 
+
+ (2)  DF  Ibrahim Hassan                     ##    -, Al-Ahly 
+ (3)  DF  Rabie Yassin                       ##    -, Al-Ahly 
+ (4)  DF  Hany Ramzy                         ##    -, Al-Ahly 
+ (5)  DF  Hesham Yakan                       ##    -, Zamalek 
+ (6)  DF  Ashraf Kasem                       ##    -, Zamalek 
+(13)  DF  Ahmed Ramzy                        ##    -, Zamalek 
+
+ (8)  MF  Magdi Abdelghani                   ##    -, Beira-Mar 
+(10)  MF  Gamal Abdelhamid                   ##    -, Zamalek 
+(12)  MF  Taher Abouzaid                     ##    -, Al-Ahly 
+(14)  MF  Alaa Maihoub                       ##    -, Al-Ahly 
+(15)  MF  Saber Eid                          ##    -, Ghazl El-Mehalla 
+(16)  MF  Magdy Tolba                        ##    -, PAOK 
+(18)  MF  Osama Oraby                        ##    -, Al-Ahly 
+(20)  MF  Ahmed El-Kass                      ##    -, El-Olympi Alexandria 
+
+ (7)  FW  Ismail Youssef                     ##    -, Zamalek 
+ (9)  FW  Hossam Hassan                      ##    -, Al-Ahly 
+(11)  FW  Tarek Soliman                      ##    -, Al-Masry 
+(17)  FW  Ayman Shawky                       ##    -, Al-Ahly 
+(19)  FW  Adel Abdelrahman                   ##    -, Al-Ahly 
+

@@ -1,0 +1,30 @@
+##############################
+# Northern Ireland (NIR) 
+#   - 22 players
+
+ (1)  GK  Pat Jennings                       ##    -, Tottenham Hotspur 
+(12)  GK  Jim Platt                          ##    -, Coleraine 
+(13)  GK  Philip Hughes                      ##    -, Bury 
+
+ (2)  DF  Jimmy Nicholl                      ##    -, West Bromwich Albion 
+ (3)  DF  Mal Donaghy                        ##    -, Luton Town 
+ (4)  DF  John O'Neill                       ##    -, Leicester City 
+ (5)  DF  Alan McDonald                      ##    -, Queens Park Rangers 
+(18)  DF  John McClelland                    ##    -, Watford 
+(20)  DF  Bernard McNally                    ##    -, Shrewsbury Town 
+
+ (6)  MF  David McCreery                     ##    -, Newcastle United 
+ (7)  MF  Steve Penney                       ##    -, Brighton 
+ (8)  MF  Sammy McIlroy                      ##    -, Manchester City 
+(10)  MF  Norman Whiteside                   ##    -, Manchester United 
+(15)  MF  Nigel Worthington                  ##    -, Sheffield Wednesday 
+(16)  MF  Paul Ramsey                        ##    -, Leicester City 
+(21)  MF  David Campbell                     ##    -, Nottingham Forest 
+
+ (9)  FW  Jimmy Quinn                        ##    -, Blackburn Rovers 
+(11)  FW  Ian Stewart                        ##    -, Newcastle United 
+(14)  FW  Gerry Armstrong                    ##    -, Chesterfield 
+(17)  FW  Colin Clarke                       ##    -, Bournemouth 
+(19)  FW  Billy Hamilton                     ##    -, Oxford United 
+(22)  FW  Mark Caughey                       ##    -, Linfield 
+

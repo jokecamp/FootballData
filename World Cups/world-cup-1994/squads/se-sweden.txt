@@ -1,0 +1,30 @@
+##############################
+# Sweden (SWE) 
+#   - 22 players
+
+ (1)  GK  Thomas Ravelli                     ##  110,  
+(12)  GK  Lars Eriksson                      ##   14,  
+(22)  GK  Magnus Hedman                      ##    0,  
+
+ (2)  DF  Roland Nilsson                     ##   62,  
+ (3)  DF  Patrik Andersson                   ##   23, Borussia Mönchengladbach 
+ (4)  DF  Joachim Björklund                  ##   22,  
+ (5)  DF  Roger Ljung                        ##   46,  
+(13)  DF  Mikael Nilsson                     ##   12,  
+(14)  DF  Pontus Kåmark                      ##   12,  
+(15)  DF  Teddy Lucic                        ##    0,  
+(20)  DF  Magnus Erlingmark                  ##   24,  
+
+ (6)  MF  Stefan Schwarz                     ##   29,  
+ (8)  MF  Klas Ingesson                      ##   42,  
+ (9)  MF  Jonas Thern                        ##   47,  
+(16)  MF  Anders Limpar                      ##   51,  
+(17)  MF  Stefan Rehn                        ##   38,  
+(18)  MF  Håkan Mild                         ##   12,  
+(21)  MF  Jesper Blomqvist                   ##    8,  
+
+ (7)  FW  Henrik Larsson                     ##    7,  
+(10)  FW  Martin Dahlin                      ##   29, Borussia Mönchengladbach 
+(11)  FW  Tomas Brolin                       ##   31,  
+(19)  FW  Kennet Andersson                   ##   24,  
+

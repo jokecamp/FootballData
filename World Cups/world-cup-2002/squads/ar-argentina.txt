@@ -1,0 +1,31 @@
+##############################
+# Argentina (ARG) 
+#   - 23 players
+
+ (1)  GK  Germán Burgos                      ##   35, Atlético Madrid 
+(12)  GK  Pablo Cavallero                    ##    8, Celta Vigo 
+(23)  GK  Roberto Bonano                     ##   13, Barcelona 
+
+ (2)  DF  Roberto Ayala                      ##   74, Valencia 
+ (3)  DF  Juan Pablo Sorín                   ##   35, Cruzeiro 
+ (4)  DF  Mauricio Pochettino                ##   16, Paris Saint-Germain 
+ (6)  DF  Walter Samuel                      ##   30, Roma 
+ (8)  DF  Javier Zanetti                     ##   66, Internazionale 
+(13)  DF  Diego Placente                     ##    6, Bayer Leverkusen 
+(22)  DF  José Chamot                        ##   42, Milan 
+
+ (5)  MF  Matías Almeyda                     ##   33, Parma 
+(10)  MF  Ariel Ortega                       ##   81, River Plate 
+(11)  MF  Juan Sebastián Verón               ##   47, Manchester United 
+(14)  MF  Diego Simeone                      ##  104, Lazio 
+(15)  MF  Claudio Husaín                     ##   14, River Plate 
+(16)  MF  Pablo Aimar                        ##   18, Valencia 
+(17)  MF  Gustavo López                      ##   31, Celta Vigo 
+(18)  MF  Kily González                      ##   30, Valencia 
+(20)  MF  Marcelo Gallardo                   ##   42, AS Monaco 
+
+ (7)  FW  Claudio López                      ##   49, Lazio 
+ (9)  FW  Gabriel Batistuta                  ##   75, Roma 
+(19)  FW  Hernán Crespo                      ##   33, Lazio 
+(21)  FW  Claudio Caniggia                   ##   50, Rangers 
+

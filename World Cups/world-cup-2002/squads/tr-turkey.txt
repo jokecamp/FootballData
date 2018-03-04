@@ -1,0 +1,30 @@
+##############################
+# Turkey (TUR) 
+#   - 22 players
+
+ (1)  GK  Rüştü Reçber                       ##   64, Fenerbahçe 
+(12)  GK  Ömer Çatkıç                        ##    6, Gaziantepspor 
+(23)  GK  Zafer Özgültekin                   ##    1, Ankaragücü 
+
+ (2)  DF  Emre Aşık                          ##   16, Galatasaray 
+ (3)  DF  Bülent Korkmaz                     ##   68, Galatasaray 
+ (4)  DF  Fatih Akyel                        ##   36, Fenerbahçe 
+ (5)  DF  Alpay Özalan                       ##   62, Aston Villa 
+(16)  DF  Ümit Özat                          ##   14, Fenerbahçe 
+(20)  DF  Hakan Ünsal                        ##   25, Galatasaray 
+
+ (7)  MF  Okan Buruk                         ##   26, Internazionale 
+ (8)  MF  Tugay Kerimoğlu                    ##   69, Blackburn Rovers 
+(10)  MF  Yıldıray Baştürk                   ##   13, Bayer Leverkusen 
+(13)  MF  Mustafa İzzet                      ##    7, Leicester City 
+(14)  MF  Tayfur Havutçu                     ##   39, Beşiktaş 
+(18)  MF  Ergün Penbe                        ##   21, Galatasaray 
+(19)  MF  Abdullah Ercan                     ##   70, Fenerbahçe 
+(21)  MF  Emre Belözoğlu                     ##   11, Internazionale 
+
+ (6)  FW  Arif Erdem                         ##   50, Galatasaray 
+ (9)  FW  Hakan Şükür                        ##   73, Parma 
+(11)  FW  Hasan Şaş                          ##   14, Galatasaray 
+(15)  FW  Nihat Kahveci                      ##   11, Real Sociedad 
+(17)  FW  İlhan Mansız                       ##    6, Beşiktaş 
+

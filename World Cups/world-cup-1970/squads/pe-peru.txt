@@ -1,0 +1,30 @@
+##############################
+# Peru (PER) 
+#   - 22 players
+
+ (1)  GK  Luis Rubiños                       ##    -, Sporting Cristal 
+(12)  GK  Rubén Correa                       ##    -, Universitario 
+(21)  GK  Jesus Goyzueta                     ##    -, Universitario 
+
+ (2)  DF  Eloy Campos                        ##    -, Sporting Cristal 
+ (3)  DF  Orlando de la Torre                ##    -, Sporting Cristal 
+ (4)  DF  Héctor Chumpitaz                   ##    -, Universitario 
+ (5)  DF  Nicolás Fuentes                    ##    -, Universitario 
+(14)  DF  José Fernández                     ##    -, Sporting Cristal 
+(16)  DF  Félix Salinas                      ##    -, Universitario 
+(19)  DF  Eladio Reyes                       ##    -, Alianza Lima 
+
+ (6)  MF  Ramón Mifflin                      ##    -, Sporting Cristal 
+ (7)  MF  Roberto Challe                     ##    -, Universitario 
+ (8)  MF  Julio Baylón                       ##    -, Alianza Lima 
+(11)  MF  Alberto Gallardo                   ##    -, Sporting Cristal 
+(13)  MF  Pedro González                     ##    -, Universitario 
+(15)  MF  Javier González                    ##    -, Alianza Lima 
+(17)  MF  Luis Cruzado                       ##    -, Universitario 
+
+ (9)  FW  Pedro Pablo León                   ##    -, Alianza Lima 
+(10)  FW  Teófilo Cubillas                   ##    -, Alianza Lima 
+(18)  FW  José del Castillo                  ##    -, Sporting Cristal 
+(20)  FW  Hugo Sotil                         ##    -, Deportivo Municipal 
+(22)  FW  Oswaldo Ramírez                    ##    -, Sport Boys 
+

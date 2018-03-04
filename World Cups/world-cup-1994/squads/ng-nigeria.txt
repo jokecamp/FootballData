@@ -1,0 +1,30 @@
+##############################
+# Nigeria (NGA) 
+#   - 22 players
+
+ (1)  GK  Peter Rufai                        ##    -, Go Ahead Eagles 
+(16)  GK  Alloysius Agu                      ##    -, FC Liège 
+(22)  GK  Wilfred Agbonavbare                ##    -, Rayo Vallecano 
+
+ (2)  DF  Augustine Eguavoen                 ##    -, Kortrijk 
+ (3)  DF  Benedict Iroha                     ##    -, Vitesse 
+ (4)  DF  Stephen Keshi                      ##    -, Molenbeek 
+ (5)  DF  Uche Okechukwu                     ##    -, Fenerbahçe 
+ (6)  DF  Chidi Nwanu                        ##    -, Anderlecht 
+(13)  DF  Emeka Ezeugo                       ##    -, Budapest Honvéd 
+(19)  DF  Michael Emenalo                    ##    -, Eintracht Trier 
+(20)  DF  Uche Okafor                        ##    -, Hannover 96 
+
+ (7)  MF  Finidi George                      ##    -, Ajax 
+ (8)  MF  Thompson Oliha                     ##    -, Africa Sports 
+(10)  MF  Jay-Jay Okocha                     ##    -, Eintracht Frankfurt 
+(11)  MF  Emmanuel Amuneke                   ##    -, Zamalek 
+(15)  MF  Sunday Oliseh                      ##    -, FC Liège 
+(21)  MF  Mutiu Adepoju                      ##    -, Racing Santander 
+
+ (9)  FW  Rashidi Yekini                     ##    -, Vitória de Setúbal 
+(12)  FW  Samson Siasia                      ##    -, Nantes 
+(14)  FW  Daniel Amokachi                    ##    -, Club Brugge 
+(17)  FW  Victor Ikpeba                      ##    -, AS Monaco 
+(18)  FW  Efan Ekoku                         ##    -, Norwich City 
+

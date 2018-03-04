@@ -1,0 +1,30 @@
+##############################
+# Hungary (HUN) 
+#   - 22 players
+
+ (1)  GK  Péter Disztl                       ##   12, Videoton 
+(18)  GK  József Szendrei                    ##    1, Újpesti Dózsa 
+(22)  GK  József Andrusch                    ##    5, Budapest Honvéd 
+
+ (2)  DF  Sándor Sallai                      ##   30, Videoton 
+ (3)  DF  Antal Róth                         ##   18, Pécsi Munkás 
+ (4)  DF  József Varga                       ##   29, Denizlispor 
+ (5)  DF  József Kardos                      ##   25, Újpesti Dózsa 
+ (6)  DF  Imre Garaba                        ##   51, Budapest Honvéd 
+(12)  DF  József Csuhay                      ##    9, Videoton 
+(13)  DF  László Disztl                      ##    4, Videoton 
+(14)  DF  Zoltán Péter                       ##   19, Zalaegerszegi TE 
+(16)  DF  József Nagy                        ##    1, Szombathelyi Haladás 
+
+ (8)  MF  Antal Nagy                         ##   23, Budapest Hovnéd 
+ (9)  MF  László Dajka                       ##   17, Budapest Honvéd 
+(10)  MF  Lajos Détári                       ##   15, Budapest Honvéd 
+(15)  MF  Péter Hannich                      ##   21, Rába ETO Győr 
+(17)  MF  Győző Burcsa                       ##   11, Auxerre 
+(21)  MF  Gyula Hajszán                      ##   20, Rába ETO Győr 
+
+ (7)  FW  József Kiprich                     ##   12, Tatabányai Bányász 
+(11)  FW  Márton Esterházy                   ##   20, AEK Athens 
+(19)  FW  György Bognár                      ##    5, MTK Hungária 
+(20)  FW  Kálmán Kovács                      ##    6, Budapest-Honvéd 
+

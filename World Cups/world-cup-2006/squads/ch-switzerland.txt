@@ -1,0 +1,31 @@
+##############################
+# Switzerland (SUI) 
+#   - 23 players
+
+ (1)  GK  Pascal Zuberbühler                 ##   40, Basel (SUI)
+(12)  GK  Diego Benaglio                     ##    1, Nacional (POR)
+(21)  GK  Fabio Coltorti                     ##    2, Grasshopper (SUI)
+
+ (3)  DF  Ludovic Magnin                     ##   30, Stuttgart (GER)
+ (4)  DF  Philippe Senderos                  ##   12, Arsenal (ENG)
+ (8)  DF  Raphaël Wicky                      ##   67, Hamburg (GER)
+(13)  DF  Stéphane Grichting                 ##    6, Auxerre (FRA)
+(17)  DF  Christoph Spycher                  ##   21, Eintracht Frankfurt (GER)
+(20)  DF  Patrick Müller                     ##   64, Lyon (FRA)
+(23)  DF  Philipp Degen                      ##   15, Borussia Dortmund (GER)
+
+ (2)  MF  Johan Djourou                      ##    2, Arsenal (ENG)
+ (5)  MF  Xavier Margairaz                   ##    3, Zürich (SUI)
+ (6)  MF  Johann Vogel                       ##   85, Milan (ITA)
+ (7)  MF  Ricardo Cabanas                    ##   37, Köln (GER)
+(14)  MF  David Degen                        ##    3, Basel (SUI)
+(15)  MF  Blerim Džemaili                    ##    3, Zürich (SUI)
+(16)  MF  Tranquillo Barnetta                ##   13, Bayer Leverkusen (GER)
+(19)  MF  Valon Behrami                      ##    6, Lazio (ITA)
+
+ (9)  FW  Alexander Frei                     ##   45, Rennes (FRA)
+(10)  FW  Daniel Gygax                       ##   22, Lille (FRA)
+(11)  FW  Marco Streller                     ##   10, Köln (GER)
+(18)  FW  Mauro Lustrinelli                  ##    5, Sparta Prague (CZE)
+(22)  FW  Hakan Yakın                        ##   46, Young Boys (SUI)
+

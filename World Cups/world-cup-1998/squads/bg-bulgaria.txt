@@ -1,0 +1,30 @@
+##############################
+# Bulgaria (BUL) 
+#   - 22 players
+
+ (1)  GK  Zdravko Zdravkov                   ##   16, Istanbulspor 
+(12)  GK  Borislav Mikhailov                 ##   96, Slavia Sofia 
+
+ (2)  DF  Radostin Kishishev                 ##   22, Litex Lovech 
+ (3)  DF  Trifon Ivanov                      ##   72, CSKA Sofia 
+ (4)  DF  Ivaylo Petkov                      ##   10, Litex Lovech 
+(13)  DF  Gosho Ginchev                      ##   15, Antalyaspor 
+(15)  DF  Adalbert Zafirov                   ##    6, Arminia Bielefeld 
+(21)  DF  Rosen Kirilov                      ##    3, Litex Lovech 
+
+ (5)  MF  Ivaylo Yordanov                    ##   38, Sporting CP 
+ (6)  MF  Zlatko Yankov                      ##   67, Beşiktaş 
+(10)  MF  Krassimir Balakov                  ##   66, VfB Stuttgart 
+(11)  MF  Ilian Iliev                        ##   15, Bursaspor 
+(14)  MF  Marian Hristov                     ##    9, 1. FC Kaiserslautern 
+(16)  MF  Anatoli Nankov                     ##   15, Lokomotiv Sofia 
+(17)  MF  Stoycho Stoilov                    ##    1, Litex Lovech 
+(18)  MF  Daniel Borimirov                   ##   36, 1860 Munich 
+(22)  MF  Milen Petkov                       ##    5, CSKA Sofia 
+
+ (7)  FW  Emil Kostadinov                    ##   67, CSKA Sofia 
+ (8)  FW  Hristo Stoichkov                   ##   70, CSKA Sofia 
+ (9)  FW  Lyuboslav Penev                    ##   58, Compostela 
+(19)  FW  Georgi Bachev                      ##    4, Slavia Sofia 
+(20)  FW  Georgi Ivanov                      ##    4, Levski Sofia 
+

@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  Ron Springett                      ##   21, Sheffield Wednesday F.C. 
+(12)  GK  Alan Hodgkinson                    ##    5, Sheffield United F.C. 
+
+ (2)  DF  Jimmy Armfield                     ##   25, Blackpool F.C. 
+ (3)  DF  Ray Wilson                         ##   11, Huddersfield Town F.C. 
+(15)  DF  Maurice Norman                     ##    1, Tottenham Hotspur F.C. 
+(16)  DF  Bobby Moore                        ##    1, West Ham United F.C. 
+(21)  DF  Don Howe                           ##   23, West Bromwich Albion F.C. 
+
+ (5)  MF  Peter Swan                         ##   19, Sheffield Wednesday F.C. 
+ (6)  MF  Ron Flowers                        ##   32, Wolverhampton Wanderers F.C. 
+ (7)  MF  John Connelly                      ##    8, Burnley F.C. 
+(14)  MF  Stan Anderson                      ##    2, Sunderland F.C. 
+(17)  MF  Bryan Douglas                      ##   29, Blackburn Rovers F.C. 
+(20)  MF  George Eastham                     ##    0, Arsenal F.C. 
+(22)  MF  Jimmy Adamson                      ##    0, Burnley F.C. 
+
+ (4)  FW  Bobby Robson                       ##   20, West Bromwich Albion F.C. 
+ (8)  FW  Jimmy Greaves                      ##   18, Tottenham Hotspur F.C. 
+ (9)  FW  Gerry Hitchens                     ##    5, Internazionale Milano F.C. 
+(10)  FW  Johnny Haynes                      ##   52, Fulham F.C. 
+(11)  FW  Bobby Charlton                     ##   35, Manchester United F.C. 
+(13)  FW  Derek Kevan                        ##   14, West Bromwich Albion F.C. 
+(18)  FW  Roger Hunt                         ##    1, Liverpool F.C. 
+(19)  FW  Alan Peacock                       ##    0, Middlesbrough F.C. 
+

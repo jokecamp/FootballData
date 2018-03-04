@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+ (1)  GK  Imrich Stacho                      ##   13, FC Spartak Trnava 
+(19)  GK  Břetislav Dolejší                  ##   13, Dynamo Praha 
+(22)  GK  Viliam Schrojf                     ##    7, ŠK Slovan Bratislava 
+
+ (2)  DF  Gustav Mráz                        ##    2, CH Bratislava 
+ (4)  DF  Ladislav Novák                     ##   33, Dukla Prague 
+ (6)  DF  Svatopluk Pluskal                  ##   19, Dukla Prague 
+(16)  DF  Ján Popluhár                       ##    0, ŠK Slovan Bratislava 
+(17)  DF  Titus Buberník                     ##    0, CH Bratislava 
+(21)  DF  František Šafránek                 ##   13, Dukla Prague 
+
+ (3)  MF  Jiří Čadek                         ##    2, Dukla Prague 
+ (5)  MF  Josef Masopust                     ##   18, Dukla Prague 
+(18)  MF  Adolf Scherer                      ##    0, CH Bratislava 
+(20)  MF  Anton Moravčík                     ##   19, ŠK Slovan Bratislava 
+
+ (7)  FW  Kazimír Gajdoš                     ##    4, CH Bratislava 
+ (8)  FW  Milan Dvořák                       ##    6, Dukla Prague 
+ (9)  FW  Pavol Molnár                       ##    7, CH Bratislava 
+(10)  FW  Jaroslav Borovička                 ##   15, Dukla Prague 
+(11)  FW  Tadeáš Kraus                       ##   21, Spartak Praha Sokolovo 
+(12)  FW  Zdeněk Zikán                       ##    1, Dukla Pardubice 
+(13)  FW  Václav Hovorka                     ##    1, Dynamo Praha 
+(14)  FW  Jiří Feureisl                      ##    8, Slavia Karlovy Vary 
+(15)  FW  Jan Hertl                          ##   22, Spartak Praha Sokolovo 
+

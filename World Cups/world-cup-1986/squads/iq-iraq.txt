@@ -1,0 +1,30 @@
+##############################
+# Iraq (IRQ) 
+#   - 22 players
+
+ (1)  GK  Raad Hammoudi Salman               ##    -, Al-Shurta 
+(20)  GK  Abdul-Fatah Nasif Jassim           ##    -, Al-Jaish 
+(21)  GK  Ahmad Jassim Mohammed              ##    -, Al-Rasheed 
+
+ (2)  DF  Maad Ibrahim Majid                 ##    -, Al-Rasheed 
+ (3)  DF  Khalil Mohammed Allawi             ##    -, Al-Rasheed 
+ (4)  DF  Nadhim Shaker Salim                ##    -, Al-Tayaran 
+ (5)  DF  Samir Shaker Mahmoud               ##    -, Al-Rasheed 
+(15)  DF  Natiq Hashim Abidoun               ##    -, Al-Tayaran 
+(22)  DF  Ghanim Oraibi Jassim               ##    -, Al-Shabab 
+
+ (6)  MF  Ali Hussein Shihab                 ##    -, Talaba 
+ (7)  MF  Haris Mohammed Hassan              ##    -, Al-Rasheed 
+(12)  MF  Jamal Ali Hamza                    ##    -, Talaba 
+(13)  MF  Karim Mohammed Allawi              ##    -, Al-Rasheed 
+(14)  MF  Basil Gorgis Hanna                 ##    -, Al-Shabab 
+(16)  MF  Shaker Mahmoud Hamza               ##    -, Al-Shabab 
+(17)  MF  Anad Abid Tweresh                  ##    -, Al-Rasheed 
+(18)  MF  Ismail Mohammed Sharif             ##    -, Al-Shabab 
+(19)  MF  Basim Qasim Hamdan                 ##    -, Al-Shurta 
+
+ (8)  FW  Ahmad Radhi Amaiesh                ##    -, Al-Rasheed 
+ (9)  FW  Karim Saddam Minshid               ##    -, Al-Jaish 
+(10)  FW  Hussein Saeed Mohammed             ##    -, Talaba 
+(11)  FW  Abdul-Rahim Hamed Aufi             ##    -, Al-Jaish 
+

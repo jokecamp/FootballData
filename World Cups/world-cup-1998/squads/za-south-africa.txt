@@ -1,0 +1,31 @@
+##############################
+# South Africa (RSA) 
+#   - 23 players
+
+ (1)  GK  Hans Vonk                          ##    0, Heerenveen 
+(16)  GK  Brian Baloyi                       ##    8, Kaizer Chiefs 
+(22)  GK  Paul Evans                         ##    0, Supersport United 
+(23)  GK  Simon Gopane                       ##    1, Bloemfontein Celtic 
+
+ (2)  DF  Themba Mnguni                      ##    3, Mamelodi Sundowns 
+ (3)  DF  David Nyathi                       ##   35, St. Gallen 
+ (4)  DF  Willem Jackson                     ##   12, Orlando Pirates 
+ (5)  DF  Mark Fish                          ##   37, Bolton Wanderers 
+(19)  DF  Lucas Radebe                       ##   41, Leeds United 
+(21)  DF  Pierre Issa                        ##    1, Marseille 
+
+ (7)  MF  Quinton Fortune                    ##    6, Atlético Madrid 
+ (8)  MF  Alfred Phiri                       ##    2, Vanspor 
+(10)  MF  John Moshoeu                       ##   44, Fenerbahçe 
+(11)  MF  Helman Mkhalele                    ##   35, Kayserispor 
+(15)  MF  Doctor Khumalo                     ##   43, Kaizer Chiefs 
+(18)  MF  Lebohang Morula                    ##    0, Vanspor 
+(20)  MF  William Mokoena                    ##    0, Manning Rangers 
+
+ (6)  FW  Phil Masinga                       ##   41, Bari 
+ (9)  FW  Shaun Bartlett                     ##   29, Cape Town Spurs 
+(12)  FW  Brendan Augustine                  ##   26, LASK Linz 
+(13)  FW  Delron Buckley                     ##    0, VfL Bochum 
+(14)  FW  Jerry Sikhosana                    ##    9, Orlando Pirates 
+(17)  FW  Benni McCarthy                     ##   10, Ajax 
+

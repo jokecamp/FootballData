@@ -1,0 +1,30 @@
+##############################
+# Hungary (HUN) 
+#   - 22 players
+
+ (1)  GK  Gyula Grosics                      ##   81, Tatabányai Bányász 
+(21)  GK  Antal Szentmihályi                 ##    1, Vasas SC 
+(22)  GK  István Ilku                        ##    6, Dorogi AC 
+
+ (2)  DF  Sándor Mátrai                      ##   41, Ferencvárosi TC 
+ (3)  DF  Kálmán Mészöly                     ##    4, Vasas SC 
+ (4)  DF  László Sárosi                      ##   25, Vasas SC 
+ (5)  DF  Ernő Solymosi                      ##   16, Újpesti Dózsa SC 
+(12)  DF  Kálmán Sóvári                      ##    7, Újpesti Dózsa SC 
+(13)  DF  Kálmán Ihász                       ##    0, Vasas SC 
+
+ (6)  MF  Ferenc Sipos                       ##   44, MTK 
+(10)  MF  Lajos Tichy                        ##   53, Budapest Honvéd FC 
+(14)  MF  István Nagy                        ##    1, MTK 
+(15)  MF  János Mencel                       ##    0, Salgótarjáni BTC 
+
+ (7)  FW  Károly Sándor                      ##   58, MTK 
+ (8)  FW  János Göröcs                       ##   32, Újpesti Dozsa SC 
+ (9)  FW  Flórián Albert                     ##   23, Ferencvárosi TC 
+(11)  FW  Máté Fenyvesi                      ##   42, Ferencvárosi TC 
+(16)  FW  János Farkas                       ##    4, Vasas SC 
+(17)  FW  Gyula Rákosi                       ##    3, Ferencvárosi TC 
+(18)  FW  Tivadar Monostori                  ##    5, Dorogi AC 
+(19)  FW  Béla Kuharszki                     ##    5, Újpesti Dózsa SC 
+(20)  FW  László Bödör                       ##    1, MTK 
+

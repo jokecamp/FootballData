@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+(15)  GK  Luis Islas                         ##    -, Estudiantes de La Plata 
+(18)  GK  Nery Pumpido                       ##    -, River Plate 
+(22)  GK  Héctor Zelada                      ##    -, América 
+
+ (5)  DF  José Luis Brown                    ##    -, Boca Juniors 
+ (6)  DF  Daniel Passarella                  ##    -, Fiorentina 
+ (8)  DF  Néstor Clausen                     ##    -, Independiente 
+ (9)  DF  José Luis Cuciuffo                 ##    -, Vélez Sársfield 
+(13)  DF  Oscar Garré                        ##    -, Ferro Carril Oeste 
+(16)  DF  Julio Olarticoechea                ##    -, Boca Juniors 
+(19)  DF  Oscar Ruggeri                      ##    -, River Plate 
+
+ (2)  MF  Sergio Batista                     ##    -, Argentinos Juniors 
+ (3)  MF  Ricardo Bochini                    ##    -, Independiente 
+ (4)  MF  Claudio Borghi                     ##    -, Argentinos Juniors 
+ (7)  MF  Jorge Burruchaga                   ##    -, Nantes 
+(10)  MF  Diego Maradona                     ##    -, Napoli 
+(12)  MF  Héctor Enrique                     ##    -, River Plate 
+(14)  MF  Ricardo Giusti                     ##    -, Independiente 
+(20)  MF  Carlos Tapia                       ##    -, Boca Juniors 
+(21)  MF  Marcelo Trobbiani                  ##    -, Elche 
+
+ (1)  FW  Sergio Almirón                     ##    -, Newell's Old Boys 
+(11)  FW  Jorge Valdano                      ##    -, Real Madrid 
+(17)  FW  Pedro Pasculli                     ##    -, Lecce 
+

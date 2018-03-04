@@ -1,0 +1,30 @@
+##############################
+# Mexico (MEX) 
+#   - 22 players
+
+ (1)  GK  Jorge Campos                       ##   54, Pumas de la UNAM 
+(12)  GK  Félix Fernández                    ##    -, Atlante 
+(22)  GK  Adrián Chávez                      ##    -, Club América 
+
+ (2)  DF  Claudio Suárez                     ##   41, Pumas de la UNAM 
+ (3)  DF  Juan de Dios Ramírez Perales       ##   42, Pumas de la UNAM 
+ (4)  DF  Ignacio Ambríz                     ##    -, Necaxa 
+ (5)  DF  Ramón Ramírez                      ##    -, Santos 
+(18)  DF  José Luis Salgado                  ##    -, Tecos 
+(21)  DF  Raúl Gutiérrez                     ##    -, Atlante 
+
+ (6)  MF  Marcelino Bernal                   ##    -, Toluca 
+ (8)  MF  Alberto García Aspe                ##    -, Necaxa 
+(13)  MF  Juan Carlos Chávez                 ##    -, Atlas 
+(14)  MF  Joaquín del Olmo                   ##    -, Veracruz 
+(15)  MF  Missael Espinoza                   ##    -, Guadalajara 
+(16)  MF  Luis Antonio Valdéz                ##    -, León 
+(17)  MF  Benjamín Galindo                   ##    -, Guadalajara 
+(20)  MF  Jorge Rodríguez                    ##    -, Toluca 
+
+ (7)  FW  Carlos Hermosillo                  ##    -, Cruz Azul 
+ (9)  FW  Hugo Sánchez                       ##    -, Rayo Vallecano 
+(10)  FW  Luis García                        ##    -, Atlético Madrid 
+(11)  FW  Luis Roberto Alves                 ##    -, Club América 
+(19)  FW  Luis Miguel Salvador               ##    -, Atlante 
+

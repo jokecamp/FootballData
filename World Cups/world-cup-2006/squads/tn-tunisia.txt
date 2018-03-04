@@ -1,0 +1,31 @@
+##############################
+# Tunisia (TUN) 
+#   - 23 players
+
+ (1)  GK  Ali Boumnijel                      ##   48, Club Africain (TUN)
+(16)  GK  Adel Nefzi                         ##    0, Monastir (TUN)
+(22)  GK  Hamdi Kasraoui                     ##    6, Espérance de Tunis (TUN)
+
+ (2)  DF  Karim Essediri                     ##    7, Rosenborg (NOR)
+ (3)  DF  Karim Haggui                       ##   26, Strasbourg (FRA)
+ (4)  DF  Alaeddine Yahia                    ##   13, Saint-Étienne (FRA)
+ (6)  DF  Hatem Trabelsi                     ##   56, Ajax (NED)
+(15)  DF  Radhi Jaïdi                        ##   89, Bolton Wanderers (ENG)
+(18)  DF  David Jemmali                      ##    2, Bordeaux (FRA)
+(19)  DF  Anis Ayari                         ##   24, Samsunspor (TUR)
+(21)  DF  Karim Saidi                        ##   15, Feyenoord (NED)
+
+ (8)  MF  Mehdi Nafti                        ##   29, Birmingham City (ENG)
+(10)  MF  Kaies Ghodhbane                    ##   89, Konyaspor (TUR)
+(12)  MF  Jawhar Mnari                       ##   37, Nuremberg (GER)
+(13)  MF  Riadh Bouazizi                     ##   85, Kayseri Erciyesspor (TUR)
+(14)  MF  Adel Chedli                        ##   38, Nuremberg (GER)
+(20)  MF  Hamed Namouchi                     ##   14, Rangers (SCO)
+(23)  MF  Sofiane Melliti                    ##   14, Gaziantepspor (TUR)
+
+ (5)  FW  Ziad Jaziri                        ##   61, Troyes (FRA)
+ (7)  FW  Haykel Guemamdia                   ##   13, Strasbourg (FRA)
+ (9)  FW  Yassine Chikhaoui                  ##    1, Étoile du Sahel (TUN)
+(11)  FW  Francileudo Santos                 ##   28, Toulouse (FRA)
+(17)  FW  Chaouki Ben Saada                  ##   11, Bastia (FRA)
+

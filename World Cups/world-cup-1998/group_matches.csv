@@ -1,0 +1,49 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,away
+1,Group A,10 June,Stade de France,Saint-Denis,Brazil,2,1,Scotland
+2,Group A,10 June,Stade de la Mosson,Montpellier,Morocco,2,2,Norway
+17,Group A,16 June,Parc Lescure,Bordeaux,Scotland,1,1,Norway
+18,Group A,16 June,Stade de la Beaujoire,Nantes,Brazil,3,0,Morocco
+34,Group A,23 June,Stade Geoffroy-Guichard,Saint-Étienne,Scotland,0,3,Morocco
+35,Group A,23 June,Stade Vélodrome,Marseille,Brazil,1,2,Norway
+3,Group B,11 June,Stade de Toulouse,Toulouse,Cameroon,1,1,Austria
+4,Group B,11 June,Parc Lescure,Bordeaux,Italy,2,2,Chile
+19,Group B,17 June,Stade Geoffroy-Guichard,Saint-Étienne,Chile,1,1,Austria
+20,Group B,17 June,Stade de la Mosson,Montpellier,Italy,3,0,Cameroon
+33,Group B,23 June,Stade de France,Saint-Denis,Italy,2,1,Austria
+36,Group B,23 June,Stade de la Beaujoire,Nantes,Chile,1,1,Cameroon
+5,Group C,12 June,Stade Félix Bollaert,Lens,Saudi Arabia,0,1,Denmark
+6,Group C,12 June,Stade Vélodrome,Marseille,France,3,0,South Africa
+21,Group C,18 June,Stade de France,Saint-Denis,France,4,0,Saudi Arabia
+22,Group C,18 June,Stade de Toulouse,Toulouse,South Africa,1,1,Denmark
+38,Group C,24 June,Stade Gerland,Lyon,France,2,1,Denmark
+40,Group C,24 June,Parc Lescure,Bordeaux,South Africa,2,2,Saudi Arabia
+7,Group D,12 June,Stade de la Mosson,Montpellier,Paraguay,0,0,Bulgaria
+10,Group D,13 June,Stade de la Beaujoire,Nantes,Spain,2,3,Nigeria
+23,Group D,19 June,Parc des Princes,Paris,Nigeria,1,0,Bulgaria
+24,Group D,19 June,Stade Geoffroy-Guichard,Saint-Étienne,Spain,0,0,Paraguay
+37,Group D,24 June,Stade Félix Bollaert,Lens,Spain,6,1,Bulgaria
+39,Group D,24 June,Stade de Toulouse,Toulouse,Nigeria,1,3,Paraguay
+8,Group E,13 June,Stade de France,Saint-Denis,Netherlands,0,0,Belgium
+9,Group E,13 June,Stade Gerland,Lyon,South Korea,1,3,Mexico
+25,Group E,20 June,Stade Vélodrome,Marseille,Netherlands,5,0,South Korea
+26,Group E,20 June,Parc Lescure,Bordeaux,Belgium,2,2,Mexico
+41,Group E,25 June,Parc des Princes,Paris,Belgium,1,1,South Korea
+42,Group E,25 June,Stade Geoffroy-Guichard,Saint-Étienne,Netherlands,2,2,Mexico
+12,Group F,14 June,Stade Geoffroy-Guichard,Saint-Étienne,Yugoslavia,1,0,Iran
+14,Group F,15 June,Parc des Princes,Paris,Germany,2,0,United States
+29,Group F,21 June,Stade Félix Bollaert,Lens,Germany,2,2,Yugoslavia
+30,Group F,21 June,Stade Gerland,Lyon,United States,1,2,Iran
+43,Group F,25 June,Stade de la Mosson,Montpellier,Germany,2,0,Iran
+44,Group F,25 June,Stade de la Beaujoire,Nantes,United States,0,1,Yugoslavia
+15,Group G,15 June,Stade Gerland,Lyon,Romania,1,0,Colombia
+16,Group G,15 June,Stade Vélodrome,Marseille,England,2,0,Tunisia
+31,Group G,22 June,Stade de la Mosson,Montpellier,Colombia,1,0,Tunisia
+32,Group G,22 June,Stade de Toulouse,Toulouse,Romania,2,1,England
+45,Group G,26 June,Stade de France,Saint-Denis,Romania,1,1,Tunisia
+46,Group G,26 June,Stade Félix Bollaert,Lens,Colombia,0,2,England
+11,Group H,14 June,Stade Félix Bollaert,Lens,Jamaica,1,3,Croatia
+13,Group H,14 June,Stade de Toulouse,Toulouse,Argentina,1,0,Japan
+27,Group H,20 June,Stade de la Beaujoire,Nantes,Japan,0,1,Croatia
+28,Group H,21 June,Parc des Princes,Paris,Argentina,5,0,Jamaica
+47,Group H,26 June,Stade Gerland,Lyon,Japan,1,2,Jamaica
+48,Group H,26 June,Parc Lescure,Bordeaux,Argentina,1,0,Croatia

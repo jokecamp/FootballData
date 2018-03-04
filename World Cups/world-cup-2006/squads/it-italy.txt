@@ -1,0 +1,31 @@
+##############################
+# Italy (ITA) 
+#   - 23 players
+
+ (1)  GK  Gianluigi Buffon                   ##   60, Juventus (ITA)
+(12)  GK  Angelo Peruzzi                     ##   31, Lazio (ITA)
+(14)  GK  Marco Amelia                       ##    1, Livorno (ITA)
+
+ (2)  DF  Cristian Zaccardo                  ##   12, Palermo (ITA)
+ (3)  DF  Fabio Grosso                       ##   17, Palermo (ITA)
+ (5)  DF  Fabio Cannavaro                    ##   93, Juventus (ITA)
+ (6)  DF  Andrea Barzagli                    ##    8, Palermo (ITA)
+(13)  DF  Alessandro Nesta                   ##   74, Milan (ITA)
+(19)  DF  Gianluca Zambrotta                 ##   52, Juventus (ITA)
+(22)  DF  Massimo Oddo                       ##   20, Lazio (ITA)
+(23)  DF  Marco Materazzi                    ##   28, Internazionale (ITA)
+
+ (4)  MF  Daniele De Rossi                   ##   17, Roma (ITA)
+ (8)  MF  Gennaro Gattuso                    ##   43, Milan (ITA)
+(16)  MF  Mauro Camoranesi                   ##   21, Juventus (ITA)
+(17)  MF  Simone Barone                      ##   13, Palermo (ITA)
+(20)  MF  Simone Perrotta                    ##   24, Roma (ITA)
+(21)  MF  Andrea Pirlo                       ##   24, Milan (ITA)
+
+ (7)  FW  Alessandro Del Piero               ##   74, Juventus (ITA)
+ (9)  FW  Luca Toni                          ##   18, Fiorentina (ITA)
+(10)  FW  Francesco Totti                    ##   51, Roma (ITA)
+(11)  FW  Alberto Gilardino                  ##   15, Milan (ITA)
+(15)  FW  Vincenzo Iaquinta                  ##   12, Udinese (ITA)
+(18)  FW  Filippo Inzaghi                    ##   49, Milan (ITA)
+

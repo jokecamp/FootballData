@@ -1,0 +1,30 @@
+##############################
+# Iran (IRN) 
+#   - 22 players
+
+ (1)  GK  Nasser Hejazi                      ##    -, Shahbaz 
+(12)  GK  Bahram Mavaddat                    ##    -, Sepahan 
+(22)  GK  Rasoul Korbekandi                  ##    -, Zob Ahan 
+
+ (5)  DF  Javad Allahverdi                   ##    -, Persepolis 
+(11)  DF  Ali Reza Ghesghayan                ##    -, Bargh Shiraz 
+(14)  DF  Hassan Nazari                      ##    -, Taj 
+(15)  DF  Andranik Eskandarian               ##    -, Taj 
+(20)  DF  Nasrollah Abdollahi                ##    -, Shahbaz 
+(21)  DF  Hossein Kazerani                   ##    -, Pas 
+
+ (2)  MF  Iraj Danaeifard                    ##    -, Taj 
+ (6)  MF  Hassan Nayebagha                   ##    -, Homa 
+ (7)  MF  Ali Parvin                         ##    -, Persepolis 
+ (8)  MF  Ebrahim Ghasempour                 ##    -, Shahbaz 
+ (9)  MF  Mohammad Sadeghi                   ##    -, Pas 
+(19)  MF  Ali Shojaei                        ##    -, Sepahan 
+
+ (3)  FW  Behtash Fariba                     ##    -, Pas 
+ (4)  FW  Majid Bishkar                      ##    -, Shahbaz 
+(10)  FW  Hassan Roshan                      ##    -, Taj 
+(13)  FW  Hamid Majd Teymouri                ##    -, Shahbaz 
+(16)  FW  Nasser Nouraei                     ##    -, Homa 
+(17)  FW  Ghafour Jahani                     ##    -, Malavan 
+(18)  FW  Hossein Faraki                     ##    -, Pas 
+

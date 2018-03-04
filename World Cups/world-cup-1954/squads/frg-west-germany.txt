@@ -1,0 +1,30 @@
+##############################
+# West Germany (FRG) 
+#   - 22 players
+
+ (1)  GK  Toni Turek                         ##   13, Fortuna Düsseldorf 
+(21)  GK  Heinz Kubsch                       ##    1, FK Pirmasens 
+(22)  GK  Heinz Kwiatkowski                  ##    0, Borussia Dortmund 
+
+ (2)  DF  Fritz Laband                       ##    1, Hamburger SV 
+ (3)  DF  Werner Kohlmeyer                   ##   12, 1. FC Kaiserslautern 
+ (4)  DF  Hans Bauer                         ##    2, Bayern Munich 
+ (5)  DF  Herbert Erhardt                    ##    1, SpVgg Fürth 
+ (7)  DF  Josef Posipal                      ##   15, Hamburger SV 
+(10)  DF  Werner Liebrich                    ##    2, 1. FC Kaiserslautern 
+
+ (6)  MF  Horst Eckel                        ##    8, 1. FC Kaiserslautern 
+ (8)  MF  Karl Mai                           ##    3, SpVgg Fürth 
+ (9)  MF  Paul Mebus                         ##    5, 1. FC Köln 
+(11)  MF  Karl-Heinz Metzner                 ##    2, KSV Hessen Kassel 
+(19)  MF  Alfred Pfaff                       ##    1, Eintracht Frankfurt 
+
+(12)  FW  Helmut Rahn                        ##    9, Rot-Weiss Essen 
+(13)  FW  Max Morlock                        ##   12, 1. FC Nuremberg 
+(14)  FW  Bernhard Klodt                     ##    6, FC Schalke 04 
+(15)  FW  Ottmar Walter                      ##   11, 1. FC Kaiserslautern 
+(16)  FW  Fritz Walter                       ##   38, 1. FC Kaiserslautern 
+(17)  FW  Richard Herrmann                   ##    7, FSV Frankfurt 
+(18)  FW  Ulrich Biesinger                   ##    0, BC Augsburg 
+(20)  FW  Hans Schäfer                       ##    5, 1. FC Köln 
+

@@ -1,0 +1,30 @@
+##############################
+# Argentina (ARG) 
+#   - 22 players
+
+ (2)  GK  Héctor Baley                       ##    -, Talleres de Córdoba 
+ (7)  GK  Ubaldo Fillol                      ##    -, River Plate 
+(16)  GK  Nery Pumpido                       ##    -, Veléz Sársfield 
+
+ (8)  DF  Luis Galván                        ##    -, Talleres de Córdoba 
+(13)  DF  Julio Olarticoechea                ##    -, River Plate 
+(14)  DF  Jorge Olguín                       ##    -, Independiente 
+(15)  DF  Daniel Passarella                  ##    -, River Plate 
+(18)  DF  Alberto Tarantini                  ##    -, River Plate 
+(19)  DF  Enzo Trossero                      ##    -, Independiente 
+(22)  DF  José Van Tuyne                     ##    -, Racing 
+
+ (1)  MF  Osvaldo Ardiles                    ##    -, Tottenham Hotspur 
+ (3)  MF  Juan Barbas                        ##    -, Racing 
+ (4)  MF  Daniel Bertoni                     ##    -, Fiorentina 
+ (5)  MF  Gabriel Calderón                   ##    -, Independiente 
+ (9)  MF  Américo Gallego                    ##    -, River Plate 
+(10)  MF  Diego Maradona                     ##    -, Boca Juniors 
+(12)  MF  Patricio Hernández                 ##    -, Estudiantes 
+(21)  MF  José Daniel Valencia               ##    -, Talleres de Córdoba 
+
+ (6)  FW  Ramón Díaz                         ##    -, River Plate 
+(11)  FW  Mario Kempes                       ##    -, River Plate 
+(17)  FW  Santiago Santamaría                ##    -, Newell's Old Boys 
+(20)  FW  Jorge Valdano                      ##    -, Real Zaragoza 
+

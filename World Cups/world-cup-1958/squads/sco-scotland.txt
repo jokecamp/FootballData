@@ -1,0 +1,30 @@
+##############################
+# Scotland (SCO) 
+#   - 22 players
+
+ (1)  GK  Tommy Younger                      ##   22, Liverpool 
+(12)  GK  Bill Brown                         ##    0, Dundee 
+
+ (2)  DF  Tommy Docherty                     ##   22, Preston North End 
+ (3)  DF  Alex Parker                        ##   14, Everton 
+ (4)  DF  Eric Caldow                        ##   10, Rangers 
+ (5)  DF  John Hewie                         ##   12, Charlton Athletic 
+ (7)  DF  Ian McColl                         ##   14, Rangers 
+(13)  DF  Sammy Baird                        ##    6, Rangers 
+(14)  DF  Graham Leggat                      ##    5, Aberdeen 
+
+ (6)  MF  Harry Haddock                      ##    6, Clyde 
+ (9)  MF  Bobby Evans                        ##   34, Celtic 
+(10)  MF  Doug Cowie                         ##   18, Dundee 
+(11)  MF  Dave Mackay                        ##    1, Heart of Midlothian 
+(17)  MF  Jackie Mudie                       ##   14, Blackpool 
+(19)  MF  Bobby Collins                      ##   19, Celtic 
+(21)  MF  Stewart Imlach                     ##    2, Nottingham Forest 
+
+ (8)  FW  Eddie Turnbull                     ##    5, Hibernian 
+(15)  FW  Alex Scott                         ##    5, Rangers 
+(16)  FW  Jimmy Murray                       ##    3, Heart of Midlothian 
+(18)  FW  John Coyle                         ##    0, Clyde 
+(20)  FW  Archie Robertson                   ##    4, Clyde 
+(22)  FW  Willie Fernie                      ##   11, Celtic 
+

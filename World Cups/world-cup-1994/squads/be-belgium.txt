@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+ (1)  GK  Michel Preud'homme                 ##    -, KV Mechelen 
+(12)  GK  Filip De Wilde                     ##    -, Anderlecht 
+(20)  GK  Dany Verlinden                     ##    -, Club Brugge 
+
+ (2)  DF  Dirk Medved                        ##    -, Club Brugge 
+ (3)  DF  Vital Borkelmans                   ##    -, Club Brugge 
+ (4)  DF  Philippe Albert                    ##    -, Anderlecht 
+ (5)  DF  Rudi Smidts                        ##    -, Royal Antwerp 
+ (6)  DF  Lorenzo Staelens                   ##    -, Club Brugge 
+(13)  DF  Georges Grün                       ##    -, Parma 
+(14)  DF  Michel De Wolf                     ##    -, Anderlecht 
+(19)  DF  Eric Van Meir                      ##    -, Charleroi 
+(22)  DF  Pascal Renier                      ##    -, Club Brugge 
+
+ (7)  MF  Franky Van Der Elst                ##    -, Club Brugge 
+(10)  MF  Enzo Scifo                         ##    -, AS Monaco 
+(15)  MF  Marc Emmers                        ##    -, Anderlecht 
+(16)  MF  Danny Boffin                       ##    -, Anderlecht 
+(18)  MF  Marc Wilmots                       ##    -, Standard Liège 
+(21)  MF  Stéphane Van Der Heyden            ##    -, Club Brugge 
+
+ (8)  FW  Luc Nilis                          ##    -, Anderlecht 
+ (9)  FW  Marc Degryse                       ##    -, Anderlecht 
+(11)  FW  Alexandre Czerniatynski            ##    -, KV Mechelen 
+(17)  FW  Josip Weber                        ##    -, Cercle Brugge 
+

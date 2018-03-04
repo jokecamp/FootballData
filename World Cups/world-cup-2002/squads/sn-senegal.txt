@@ -1,0 +1,31 @@
+##############################
+# Senegal (SEN) 
+#   - 23 players
+
+ (1)  GK  Tony Sylva                         ##   15, AS Monaco 
+(16)  GK  Omar Diallo                        ##   42, Olympique Khouribga 
+(22)  GK  Kalidou Cissokho                   ##    0, ASC Jeanne d'Arc 
+
+ (2)  DF  Omar Daf                           ##   31, Sochaux 
+ (4)  DF  Papa Malick Diop                   ##   25, Lorient 
+ (5)  DF  Alassane N'Dour                    ##    7, Saint-Étienne 
+ (6)  DF  Aliou Cissé                        ##   20, Montpellier 
+(13)  DF  Lamine Diatta                      ##   19, Rennes 
+(17)  DF  Ferdinand Coly                     ##   16, Lens 
+(21)  DF  Habib Beye                         ##    6, Strasbourg 
+
+ (3)  MF  Pape Sarr                          ##   22, Lens 
+(10)  MF  Khalilou Fadiga                    ##   25, Auxerre 
+(12)  MF  Amdy Faye                          ##    6, Auxerre 
+(14)  MF  Moussa N'Diaye                     ##   38, Sedan 
+(15)  MF  Salif Diao                         ##   20, Sedan 
+(19)  MF  Papa Bouba Diop                    ##   12, Lens 
+(20)  MF  Sylvain N'Diaye                    ##    6, Lille 
+(23)  MF  Makhtar N'Diaye                    ##   11, Rennes 
+
+ (7)  FW  Henri Camara                       ##   34, Sedan 
+ (8)  FW  Amara Traoré                       ##   12, Gueugnon 
+ (9)  FW  Souleymane Camara                  ##    9, AS Monaco 
+(11)  FW  El Hadji Diouf                     ##   21, Lens 
+(18)  FW  Pape Thiaw                         ##   13, Strasbourg 
+

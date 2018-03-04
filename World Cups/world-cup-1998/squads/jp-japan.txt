@@ -1,0 +1,30 @@
+##############################
+# Japan (JPN) 
+#   - 22 players
+
+ (1)  GK  Nobuyuki Kojima                    ##    5, Bellmare Hiratsuka 
+(20)  GK  Yoshikatsu Kawaguchi               ##   27, Yokohama Marinos 
+(21)  GK  Seigo Narazaki                     ##    2, Yokohama Marinos 
+
+ (2)  DF  Akira Narahashi                    ##   29, Kashima Antlers 
+ (3)  DF  Naoki Soma                         ##   50, Kashima Antlers 
+ (4)  DF  Masami Ihara                       ##  116, Yokohama Marinos 
+ (5)  DF  Norio Omura                        ##   31, Yokohama Marinos 
+(16)  DF  Toshihide Saito                    ##   14, Shimizu S-Pulse 
+(17)  DF  Yutaka Akita                       ##   27, Kashima Antlers 
+(19)  DF  Eisuke Nakanishi                   ##    7, JEF United Ichihara 
+
+ (6)  MF  Motohiro Yamaguchi                 ##   56, Yokohama Marinos 
+ (7)  MF  Teruyoshi Ito                      ##    2, Shimizu S-Pulse 
+ (8)  MF  Hidetoshi Nakata                   ##   21, Bellmare Hiratsuka 
+(10)  MF  Hiroshi Nanami                     ##   44, Jubilo Iwata 
+(11)  MF  Shinji Ono                         ##    2, Urawa Red Diamonds 
+(13)  MF  Toshihiro Hattori                  ##    6, Jubilo Iwata 
+(15)  MF  Hiroaki Morishima                  ##   36, Cerezo Osaka 
+(22)  MF  Takashi Hirano                     ##   10, Nagoya Grampus Eight 
+
+ (9)  FW  Masashi Nakayama                   ##   27, Jubilo Iwata 
+(12)  FW  Wagner Lopes                       ##   10, Bellmare Hiratsuka 
+(14)  FW  Masayuki Okano                     ##   25, Urawa Red Diamonds 
+(18)  FW  Shoji Jo                           ##   24, Yokohama Marinos 
+

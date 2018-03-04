@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+   -  GK  Barbosa                            ##   13, Vasco da Gama 
+   -  GK  Castilho                           ##    2, Fluminense 
+
+   -  DF  Nílton Santos                      ##    5, Botafogo 
+   -  DF  Ely                                ##    8, Vasco da Gama 
+   -  DF  Juvenal                            ##    4, Flamengo 
+   -  DF  Augusto                            ##   12, Vasco da Gama 
+   -  DF  Nena                               ##    5, Internacional 
+
+   -  MF  Noronha                            ##   15, São Paulo 
+   -  MF  Danilo                             ##   15, Vasco da Gama 
+   -  MF  Bauer                              ##    6, São Paulo 
+   -  MF  Bigode                             ##    5, Flamengo 
+   -  MF  Rui                                ##   27, São Paulo 
+
+   -  FW  Alfredo                            ##    0, Vasco da Gama 
+   -  FW  Baltazar                           ##    4, Corinthians 
+   -  FW  Chico                              ##   15, Vasco da Gama 
+   -  FW  Jair                               ##   32, Palmeiras 
+   -  FW  Ademir                             ##   25, Vasco da Gama 
+   -  FW  Maneca                             ##    3, Vasco da Gama 
+   -  FW  Zizinho                            ##   30, Bangu 
+   -  FW  Friaça                             ##    6, São Paulo 
+   -  FW  Rodrigues                          ##    2, Fluminense 
+   -  FW  Adãozinho                          ##    2, Internacional 
+

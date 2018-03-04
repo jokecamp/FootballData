@@ -1,0 +1,32 @@
+##############################
+# Canada (CAN) 
+#   - 23 players
+
+ (1)  GK  Tino Lettieri                      ##    -, Minnesota Strikers (USA)
+(21)  GK  Sven Habermann                     ##    -,  
+(22)  GK  Paul Dolan                         ##    -, Edmonton Brickmen 
+
+ (2)  DF  Bob Lenarduzzi                     ##    -, Tacoma Stars (USA)
+ (3)  DF  Bruce Wilson                       ##    -,  
+ (5)  DF  Terry Moore                        ##    -, Glentoran 
+ (6)  DF  Ian Bridge                         ##    -, La Chaux-de-Fonds 
+(12)  DF  Randy Samuel                       ##    -,  
+(20)  DF  Colin Miller                       ##    -, Rangers 
+
+ (4)  MF  Randy Ragan                        ##    -,  
+ (8)  MF  Gerry Gray                         ##    -, Chicago Sting (USA)
+(11)  MF  Mike Sweeney                       ##    -, Cleveland Force (USA)
+(13)  MF  George Pakos                       ##    -,  
+(15)  MF  Paul James                         ##    -, CF Monterrey (MEX)
+(16)  MF  Greg Ion                           ##    -,  
+(17)  MF  David Norman                       ##    -, Tacoma Stars (USA)
+(18)  MF  Jamie Lowery                       ##    -,  
+(19)  MF  Pasquale De Luca                   ##    -, Cleveland Force (USA)
+
+ (7)  FW  Carl Valentine                     ##    -, Cleveland Force (USA)
+ (9)  FW  Branko Segota                      ##    -, San Diego Sockers (USA)
+(10)  FW  Igor Vrablic                       ##    -, Seraing 
+(14)  FW  Dale Mitchell                      ##    -, Tacoma Stars (USA)
+
+(23)                                         ##    -, Vancouver Whitecaps FC 
+

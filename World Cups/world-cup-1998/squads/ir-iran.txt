@@ -1,0 +1,30 @@
+##############################
+# Iran (IRN) 
+#   - 22 players
+
+ (1)  GK  Ahmad Reza Abedzadeh               ##   66, Persepolis 
+(12)  GK  Nima Nakisa                        ##    6, Persepolis 
+(22)  GK  Parviz Broumand                    ##    0, Esteghlal 
+
+ (3)  DF  Naeim Saadavi                      ##    8, Persepolis 
+ (4)  DF  Mohammad Khakpour                  ##   37, Bahman 
+ (5)  DF  Afshin Peyrovani                   ##   37, Persepolis 
+(14)  DF  Nader Mohammadkhani                ##   16, Polyacryl 
+(15)  DF  Ali Akbar Ostad-Asadi              ##   29, Zob Ahan 
+(16)  DF  Reza Shahroudi                     ##   34, Persepolis 
+(17)  DF  Javad Zarincheh                    ##   55, Esteghlal 
+(20)  DF  Mehdi Pashazadeh                   ##    4, Esteghlal 
+
+ (2)  MF  Mehdi Mahdavikia                   ##   24, Persepolis 
+ (6)  MF  Karim Bagheri                      ##   44, Arminia Bielefeld 
+ (7)  MF  Alireza Mansourian                 ##   33, Esteghlal 
+ (8)  MF  Sirous Dinmohammadi                ##   16, Shahrdari Tabriz 
+ (9)  MF  Hamid Estili                       ##   44, Bahman 
+(18)  MF  Sattar Hamedani                    ##    3, Bahman 
+(21)  MF  Mehrdad Minavand                   ##   23, Persepolis 
+
+(10)  FW  Ali Daei                           ##   50, Arminia Bielefeld 
+(11)  FW  Khodadad Azizi                     ##   27, 1. FC Köln 
+(13)  FW  Ali Latifi                         ##    0, Bahman 
+(19)  FW  Behnam Seraj                       ##    0, Sanat Naft 
+

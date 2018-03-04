@@ -1,0 +1,37 @@
+match_num,group,date,stadium,where,home,home_score,away_score,away
+1,Group 1,14 June,Olympiastadion,West Berlin,West Germany,1,0,Chile
+2,Group 1,14 June,Volksparkstadion,Hamburg,East Germany,2,0,Australia
+9,Group 1,18 June,Olympiastadion,West Berlin,Chile,1,1,East Germany
+10,Group 1,18 June,Volksparkstadion,Hamburg,Australia,0,3,West Germany
+17,Group 1,22 June,Olympiastadion,West Berlin,Australia,0,0,Chile
+18,Group 1,22 June,Volksparkstadion,Hamburg,East Germany,1,0,West Germany
+3,Group 2,13 June,Waldstadion,Frankfurt,Brazil,0,0,Yugoslavia
+4,Group 2,14 June,Westfalenstadion,Dortmund,Zaire,0,2,Scotland
+11,Group 2,18 June,Parkstadion,Gelsenkirchen,Yugoslavia,9,0,Zaire
+12,Group 2,18 June,Waldstadion,Frankfurt,Scotland,0,0,Brazil
+19,Group 2,22 June,Waldstadion,Frankfurt,Scotland,1,1,Yugoslavia
+20,Group 2,22 June,Parkstadion,Gelsenkirchen,Zaire,0,3,Brazil
+5,Group 3,15 June,Niedersachsenstadion,Hanover,Uruguay,0,2,Netherlands
+6,Group 3,15 June,Rheinstadion,Düsseldorf,Sweden,0,0,Bulgaria
+13,Group 3,19 June,Westfalenstadion,Dortmund,Netherlands,0,0,Sweden
+14,Group 3,19 June,Niedersachsenstadion,Hanover,Uruguay,1,1,Bulgaria
+21,Group 3,23 June,Westfalenstadion,Dortmund,Netherlands,4,1,Bulgaria
+22,Group 3,23 June,Rheinstadion,Düsseldorf,Sweden,3,0,Uruguay
+7,Group 4,15 June,Olympiastadion,Munich,Italy,3,1,Haiti
+8,Group 4,15 June,Neckarstadion,Stuttgart,Poland,3,2,Argentina
+15,Group 4,19 June,Olympiastadion,Munich,Haiti,0,7,Poland
+16,Group 4,19 June,Neckarstadion,Stuttgart,Argentina,1,1,Italy
+23,Group 4,23 June,Olympiastadion,Munich,Argentina,4,1,Haiti
+24,Group 4,23 June,Neckarstadion,Stuttgart,Poland,2,1,Italy
+25,Group I,26 June,Niedersachsenstadion,Hanover,Brazil,1,0,East Germany
+26,Group I,26 June,Parkstadion,Gelsenkirchen,Netherlands,4,0,Argentina
+29,Group I,30 June,Parkstadion,Gelsenkirchen,East Germany,0,2,Netherlands
+30,Group I,30 June,Niedersachsenstadion,Hanover,Argentina,1,2,Brazil
+33,Group I,3 July,Parkstadion,Gelsenkirchen,Argentina,1,1,East Germany
+34,Group I,3 July,Westfalenstadion,Dortmund,Netherlands,2,0,Brazil
+27,Group J,26 June,Rheinstadion,Düsseldorf,Yugoslavia,0,2,West Germany
+28,Group J,26 June,Neckarstadion,Stuttgart,Sweden,0,1,Poland
+31,Group J,30 June,Rheinstadion,Düsseldorf,West Germany,4,2,Sweden
+32,Group J,30 June,Waldstadion,Frankfurt,Poland,2,1,Yugoslavia
+35,Group J,3 July,Waldstadion,Frankfurt,Poland,0,1,West Germany
+36,Group J,3 July,Rheinstadion,Düsseldorf,Sweden,2,1,Yugoslavia

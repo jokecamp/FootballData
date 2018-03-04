@@ -1,0 +1,30 @@
+##############################
+# Poland (POL) 
+#   - 22 players
+
+ (1)  GK  Andrzej Fischer                    ##    1, Górnik Zabrze 
+ (2)  GK  Jan Tomaszewski                    ##   14, ŁKS Łódź 
+ (3)  GK  Zygmunt Kalinowski                 ##    4, Śląsk Wrocław 
+
+ (4)  DF  Antoni Szymanowski                 ##   28, Wisła Kraków 
+ (5)  DF  Zbigniew Gut                       ##    9, Odra Opole 
+ (6)  DF  Jerzy Gorgoń                       ##   31, Górnik Zabrze 
+ (8)  DF  Mirosław Bulzacki                  ##   16, ŁKS Łódź 
+ (9)  DF  Władysław Żmuda                    ##    2, Gwardia Warszawa 
+(10)  DF  Adam Musiał                        ##   25, Wisła Kraków 
+
+ (7)  MF  Henryk Wieczorek                   ##    3, Górnik Zabrze 
+(11)  MF  Lesław Ćmikiewicz                  ##   32, Legia Warszawa 
+(12)  MF  Kazimierz Deyna                    ##   49, Legia Warszawa 
+(13)  MF  Henryk Kasperczak                  ##   17, Stal Mielec 
+(14)  MF  Zygmunt Maszczyk                   ##   16, Ruch Chorzów 
+
+(15)  FW  Roman Jakóbczak                    ##    1, Lech Poznań 
+(16)  FW  Grzegorz Lato                      ##   13, Stal Mielec 
+(17)  FW  Andrzej Szarmach                   ##    6, Górnik Zabrze 
+(18)  FW  Robert Gadocha                     ##   49, Legia Warszawa 
+(19)  FW  Jan Domarski                       ##   13, Stal Mielec 
+(20)  FW  Zdzisław Kapka                     ##    2, Wisła Kraków 
+(21)  FW  Kazimierz Kmiecik                  ##    9, Wisła Kraków 
+(22)  FW  Marek Kusto                        ##    1, Wisła Kraków 
+

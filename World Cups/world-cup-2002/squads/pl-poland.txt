@@ -1,0 +1,31 @@
+##############################
+# Poland (POL) 
+#   - 23 players
+
+ (1)  GK  Jerzy Dudek                        ##   21, Liverpool 
+(12)  GK  Radosław Majdan                    ##    5, Göztepe 
+(22)  GK  Adam Matysek                       ##   34, RKS Radomsko 
+
+ (2)  DF  Tomasz Kłos                        ##   37, 1. FC Kaiserslautern 
+ (3)  DF  Jacek Zieliński                    ##   52, Legia Warszawa 
+ (6)  DF  Tomasz Hajto                       ##   44, Schalke 04 
+(13)  DF  Arkadiusz Głowacki                 ##    2, Wisła Kraków 
+(15)  DF  Tomasz Wałdoch                     ##   71, Schalke 04 
+(16)  DF  Maciej Murawski                    ##    4, Legia Warszawa 
+(20)  DF  Jacek Bąk                          ##   36, Lens 
+
+ (4)  MF  Michał Żewłakow                    ##   25, Mouscron 
+ (5)  MF  Tomasz Rząsa                       ##    9, Feyenoord 
+ (7)  MF  Piotr Świerczewski                 ##   65, Marseille 
+(10)  MF  Radosław Kałużny                   ##   30, Energie Cottbus 
+(17)  MF  Arkadiusz Bąk                      ##   12, Widzew Łódź 
+(18)  MF  Jacek Krzynówek                    ##   23, 1. FC Nürnberg 
+(21)  MF  Marek Koźmiński                    ##   42, Ancona 
+(23)  MF  Paweł Sibik                        ##    2, Odra Wodzisław 
+
+ (8)  FW  Cezary Kucharski                   ##   15, Legia Warszawa 
+ (9)  FW  Paweł Kryszałowicz                 ##   23, Eintracht Frankfurt 
+(11)  FW  Emmanuel Olisadebe                 ##   16, Panathinaikos 
+(14)  FW  Marcin Żewłakow                    ##   17, Mouscron 
+(19)  FW  Maciej Żurawski                    ##    9, Wisła Kraków 
+

@@ -1,0 +1,37 @@
+match_num,group,date,stadium,where,home,home_score,away_score,away
+2,Group 1,2 June,Estadio Monumental,Buenos Aires,Argentina,2,1,Hungary
+3,Group 1,2 June,Estadio José María Minella,Mar del Plata,Italy,2,1,France
+9,Group 1,6 June,Estadio Monumental,Buenos Aires,Argentina,2,1,France
+10,Group 1,6 June,Estadio José María Minella,Mar del Plata,Italy,3,1,Hungary
+17,Group 1,10 June,Estadio Monumental,Buenos Aires,Argentina,0,1,Italy
+18,Group 1,10 June,Estadio José María Minella,Mar del Plata,France,3,1,Hungary
+1,Group 2,1 June,Estadio Monumental,Buenos Aires,West Germany,0,0,Poland
+4,Group 2,2 June,Estadio Gigante de Arroyito,Rosario,Tunisia,3,1,Mexico
+11,Group 2,6 June,Estadio Gigante de Arroyito,Rosario,Poland,1,0,Tunisia
+12,Group 2,6 June,Estadio Chateau Carreras,Córdoba,West Germany,6,0,Mexico
+19,Group 2,10 June,Estadio Gigante de Arroyito,Rosario,Poland,3,1,Mexico
+20,Group 2,10 June,Estadio Olímpico Chateau Carreras,Córdoba,West Germany,0,0,Tunisia
+5,Group 3,3 June,Estadio José Amalfitani,Buenos Aires,Austria,2,1,Spain
+6,Group 3,3 June,Estadio José Maria Minella,Mar del Plata,Brazil,1,1,Sweden
+13,Group 3,7 June,Estadio José Amalfitani,Buenos Aires,Austria,1,0,Sweden
+14,Group 3,7 June,Estadio José Maria Minella,Mar del Plata,Brazil,0,0,Spain
+21,Group 3,11 June,Estadio José Amalfitani,Buenos Aires,Spain,1,0,Sweden
+22,Group 3,11 June,Estadio José Maria Minella,Mar del Plata,Brazil,1,0,Austria
+7,Group 4,3 June,Estadio Chateau Carreras,Córdoba,Peru,3,1,Scotland
+8,Group 4,3 June,Estadio Ciudad de Mendoza,Mendoza,Netherlands,3,0,Iran
+15,Group 4,7 June,Estadio Chateau Carreras,Córdoba,Scotland,1,1,Iran
+16,Group 4,7 June,Estadio Ciudad de Mendoza,Mendoza,Netherlands,0,0,Peru
+23,Group 4,11 June,Estadio Chateau Carreras,Córdoba,Peru,4,1,Iran
+24,Group 4,11 June,Estadio Ciudad de Mendoza,Mendoza,Scotland,3,2,Netherlands
+25,Group I,14 June,Estadio Monumental,Buenos Aires,Italy,0,0,West Germany
+27,Group I,14 June,Estadio Chateau Carreras,Córdoba,Austria,1,5,Netherlands
+29,Group I,18 June,Estadio Monumental,Buenos Aires,Italy,1,0,Austria
+31,Group I,18 June,Estadio Chateau Carreras,Córdoba,Netherlands,2,2,West Germany
+33,Group I,21 June,Estadio Monumental,Buenos Aires,Italy,1,2,Netherlands
+35,Group I,21 June,Estadio Chateau Carreras,Córdoba,Austria,3,2,West Germany
+26,Group J,14 June,Estadio Gigante de Arroyito,Rosario,Argentina,2,0,Poland
+28,Group J,14 June,Estadio Ciudad de Mendoza,Mendoza,Peru,0,3,Brazil
+30,Group J,18 June,Estadio Gigante de Arroyito,Rosario,Argentina,0,0,Brazil
+32,Group J,18 June,Estadio Ciudad de Mendoza,Mendoza,Peru,0,1,Poland
+34,Group J,21 June,Estadio Gigante de Arroyito,Rosario,Argentina,6,0,Peru
+36,Group J,21 June,Estadio Ciudad de Mendoza,Mendoza,Poland,1,3,Brazil

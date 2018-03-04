@@ -1,0 +1,25 @@
+match_num,group,date,stadium,where,home,home_score,away_score,away
+1,Group 1,30 May,Estadio Carlos Dittborn,Arica,Uruguay,2,1,Colombia
+5,Group 1,31 May,Estadio Carlos Dittborn,Arica,Soviet Union,2,0,Yugoslavia
+9,Group 1,2 June,Estadio Carlos Dittborn,Arica,Yugoslavia,3,1,Uruguay
+13,Group 1,3 June,Estadio Carlos Dittborn,Arica,Soviet Union,4,4,Colombia
+17,Group 1,6 June,Estadio Carlos Dittborn,Arica,Soviet Union,2,1,Uruguay
+21,Group 1,7 June,Estadio Carlos Dittborn,Arica,Yugoslavia,5,0,Colombia
+2,Group 2,30 May,Estadio Nacional,Santiago,Chile,3,1,Switzerland
+6,Group 2,31 May,Estadio Nacional,Santiago,West Germany,0,0,Italy
+10,Group 2,2 June,Estadio Nacional,Santiago,Chile,2,0,Italy
+14,Group 2,3 June,Estadio Nacional,Santiago,West Germany,2,1,Switzerland
+18,Group 2,6 June,Estadio Nacional,Santiago,West Germany,2,0,Chile
+22,Group 2,7 June,Estadio Nacional,Santiago,Italy,3,0,Switzerland
+3,Group 3,30 May,Estadio Sausalito,Viña del Mar,Brazil,2,0,Mexico
+7,Group 3,31 May,Estadio Sausalito,Viña del Mar,Czechoslovakia,1,0,Spain
+11,Group 3,2 June,Estadio Sausalito,Viña del Mar,Brazil,0,0,Czechoslovakia
+15,Group 3,3 June,Estadio Sausalito,Viña del Mar,Spain,1,0,Mexico
+19,Group 3,6 June,Estadio Sausalito,Viña del Mar,Brazil,2,1,Spain
+23,Group 3,7 June,Estadio Sausalito,Viña del Mar,Mexico,3,1,Czechoslovakia
+4,Group 4,30 May,Estadio El Teniente,Rancagua,Argentina,1,0,Bulgaria
+8,Group 4,31 May,Estadio El Teniente,Rancagua,Hungary,2,1,England
+12,Group 4,2 June,Estadio El Teniente,Rancagua,England,3,1,Argentina
+16,Group 4,3 June,Estadio El Teniente,Rancagua,Hungary,6,1,Bulgaria
+20,Group 4,6 June,Estadio El Teniente,Rancagua,Hungary,0,0,Argentina
+24,Group 4,7 June,Estadio El Teniente,Rancagua,England,0,0,Bulgaria

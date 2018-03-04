@@ -1,0 +1,30 @@
+##############################
+# Yuguslavia (YUG) 
+#   - 22 players
+
+   -  GK  Srđan Mrkušić                      ##    4, Red Star Belgrade (SFR)
+   -  GK  Vladimir Beara                     ##    0, Hajduk Split (SFR)
+
+   -  DF  Siniša Zlatković                   ##    -, Nasa Krila (SFR)
+   -  DF  Božo Broketa                       ##    3, Hajduk Split (SFR)
+   -  DF  Branko Stanković                   ##   19, Red Star Belgrade (SFR)
+   -  DF  Miodrag Jovanović                  ##   18, Partizan Belgrade (SFR)
+   -  DF  Ratko Čolić                        ##    6, Partizan Belgrade (SFR)
+   -  DF  Ivica Horvat                       ##   13, Dinamo Zagreb (SFR)
+   -  DF  Vladimir Firm                      ##    3, Partizan Belgrade (SFR)
+
+   -  MF  Ervin Katnić                       ##    -, Hajduk Split (SFR)
+   -  MF  Zlatko Čajkovski                   ##   25, Partizan Belgrade (SFR)
+   -  MF  Predrag Đajić                      ##    5, Red Star Belgrade (SFR)
+   -  MF  Aleksandar Atanacković             ##   15, Partizan Belgrade (SFR)
+   -  MF  Ivo Radovniković                   ##    -, Hajduk Split (SFR)
+   -  MF  Bela Palfi                         ##    1, Red Star Belgrade (SFR)
+
+   -  FW  Tihomir Ognjanov                   ##    2, Red Star Belgrade (SFR)
+   -  FW  Željko Čajkovski                   ##   16, Dinamo Zagreb (SFR)
+   -  FW  Rajko Mitić                        ##   19, Red Star Belgrade (SFR)
+   -  FW  Stjepan Bobek                      ##   26, Partizan Belgrade (SFR)
+   -  FW  Kosta Tomašević                    ##    6, Red Star Belgrade (SFR)
+   -  FW  Bernard Vukas                      ##    6, Hajduk Split (SFR)
+   -  FW  Prvoslav Mihajlović                ##   12, Partizan Belgrade (SFR)
+

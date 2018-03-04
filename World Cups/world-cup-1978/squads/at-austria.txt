@@ -1,0 +1,30 @@
+##############################
+# Austria (AUT) 
+#   - 22 players
+
+ (1)  GK  Friedrich Koncilia                 ##   37, SSW Innsbruck 
+(21)  GK  Erwin Fuchsbichler                 ##    2, VÖEST Linz 
+(22)  GK  Hubert Baumgartner                 ##    1, Austria Wien 
+
+ (2)  DF  Robert Sara                        ##   37, Austria Wien 
+ (3)  DF  Erich Obermayer                    ##   10, Austria Wien 
+ (4)  DF  Gerhard Breitenberger              ##   11, VÖEST Linz 
+ (5)  DF  Bruno Pezzey                       ##   25, SSW Innsbruck 
+(14)  DF  Heinrich Strasser                  ##   20, Admira/Wacker 
+(15)  DF  Heribert Weber                     ##    7, SK Sturm Graz 
+(16)  DF  Peter Persidis                     ##    7, Rapid Wien 
+
+ (6)  MF  Roland Hattenberger                ##   23, VfB Stuttgart 
+ (7)  MF  Josef Hickersberger                ##   33, Fortuna Düsseldorf 
+ (8)  MF  Herbert Prohaska                   ##   27, Austria Wien 
+(11)  MF  Kurt Jara                          ##   29, MSV Duisburg 
+(12)  MF  Eduard Krieger                     ##   20, Club Brugge 
+(13)  MF  Günther Happich                    ##    4, Wiener Sportclub 
+(20)  MF  Ernst Baumeister                   ##    1, Austria Wien 
+
+ (9)  FW  Hans Krankl                        ##   34, Rapid Wien 
+(10)  FW  Wilhelm Kreuz                      ##   35, Feyenoord 
+(17)  FW  Franz Oberacher                    ##    3, SSW Innsbruck 
+(18)  FW  Walter Schachner                   ##    6, DSV Alpine Donawitz 
+(19)  FW  Hans Pirkner                       ##   18, Austria Wien 
+

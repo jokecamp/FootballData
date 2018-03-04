@@ -1,0 +1,37 @@
+match_num,round/group,date,stadium,where,home,home_score,away_score,away
+3,Group A,9 June,Stadio Olimpico,Rome,Italy,1,0,Austria
+5,Group A,10 June,Stadio Comunale,Florence,United States,1,5,Czechoslovakia
+15,Group A,14 June,Stadio Olimpico,Rome,Italy,1,0,United States
+17,Group A,15 June,Stadio Comunale,Florence,Austria,0,1,Czechoslovakia
+29,Group A,19 June,Stadio Olimpico,Rome,Italy,2,0,Czechoslovakia
+30,Group A,19 June,Stadio Comunale,Florence,Austria,2,1,United States
+1,Group B,8 June,San Siro,Milan,Argentina,0,1,Cameroon
+2,Group B,9 June,Stadio San Nicola,Bari,Soviet Union,0,2,Romania
+13,Group B,13 June,Stadio San Paolo,Naples,Argentina,2,0,Soviet Union
+16,Group B,14 June,Stadio San Nicola,Bari,Cameroon,2,1,Romania
+25,Group B,18 June,Stadio San Paolo,Naples,Argentina,1,1,Romania
+26,Group B,18 June,Stadio San Nicola,Bari,Cameroon,0,4,Soviet Union
+6,Group C,10 June,Stadio Delle Alpi,Turin,Brazil,2,1,Sweden
+8,Group C,11 June,Stadio Luigi Ferraris,Genoa,Costa Rica,1,0,Scotland
+19,Group C,16 June,Stadio Delle Alpi,Turin,Brazil,1,0,Costa Rica
+20,Group C,16 June,Stadio Luigi Ferraris,Genoa,Sweden,1,2,Scotland
+31,Group C,20 June,Stadio Delle Alpi,Turin,Brazil,1,0,Scotland
+32,Group C,20 June,Stadio Luigi Ferraris,Genoa,Sweden,1,2,Costa Rica
+4,Group D,9 June,Stadio Renato Dall'Ara,Bologna,United Arab Emirates,0,2,Colombia
+7,Group D,10 June,San Siro,Milan,West Germany,4,1,Yugoslavia
+14,Group D,14 June,Stadio Renato Dall'Ara,Bologna,Yugoslavia,1,0,Colombia
+18,Group D,15 June,San Siro,Milan,West Germany,5,1,United Arab Emirates
+27,Group D,19 June,San Siro,Milan,West Germany,1,1,Colombia
+28,Group D,19 June,Stadio Renato Dall'Ara,Bologna,Yugoslavia,4,1,United Arab Emirates
+10,Group E,12 June,Stadio Marc'Antonio Bentegodi,Verona,Belgium,2,0,South Korea
+12,Group E,13 June,Stadio Friuli,Udine,Uruguay,0,0,Spain
+23,Group E,17 June,Stadio Marc'Antonio Bentegodi,Verona,Belgium,3,1,Uruguay
+24,Group E,17 June,Stadio Friuli,Udine,South Korea,1,3,Spain
+33,Group E,21 June,Stadio Marc'Antonio Bentegodi,Verona,Belgium,1,2,Spain
+34,Group E,21 June,Stadio Friuli,Udine,South Korea,0,1,Uruguay
+9,Group F,11 June,Stadio Sant'Elia,Cagliari,England,1,1,Ireland
+11,Group F,12 June,Stadio La Favorita,Palermo,Netherlands,1,1,Egypt
+21,Group F,16 June,Stadio Sant'Elia,Cagliari,England,0,0,Netherlands
+22,Group F,17 June,Stadio La Favorita,Palermo,Ireland,0,0,Egypt
+35,Group F,21 June,Stadio Sant'Elia,Cagliari,England,1,0,Egypt
+36,Group F,21 June,Stadio La Favorita,Palermo,Ireland,1,1,Netherlands

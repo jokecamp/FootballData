@@ -1,0 +1,30 @@
+##############################
+# Australia (AUS) 
+#   - 22 players
+
+ (1)  GK  Jack Reilly                        ##   15, Melbourne Hakoah 
+(21)  GK  Jim Milisavljevic                  ##    0, Footscray JUST 
+(22)  GK  Allan Maher                        ##    0, Sutherland Shire 
+
+ (2)  DF  Doug Utjesenovic                   ##   19, St George-Budapest 
+ (3)  DF  Peter Wilson                       ##   34, Safeway United 
+ (4)  DF  Manfred Schäfer                    ##   49, St George-Budapest 
+ (5)  DF  Colin Curran                       ##   13, Western Suburbs SC (NSW) 
+(15)  DF  Harry Williams                     ##    3, St George-Budapest 
+(16)  DF  Ivo Rudic                          ##    0, Pan-Hellenic 
+(17)  DF  Dave Harding                       ##    1, Pan-Hellenic 
+
+ (6)  MF  Ray Richards                       ##   31, Marconi Fairfield 
+ (7)  MF  Jimmy Rooney                       ##   20, APIA Leichhardt 
+ (8)  MF  Jimmy Mackay                       ##   30, Sydney Hakoah 
+ (9)  MF  Johnny Warren                      ##   44, St George-Budapest 
+(13)  MF  Peter Ollerton                     ##    4, APIA Leichhardt 
+(14)  MF  Max Tolson                         ##   16, Safeway United 
+(18)  MF  Johnny Watkiss                     ##   23, Sydney Hakoah 
+(19)  MF  Ernie Campbell                     ##    8, Marconi Fairfield 
+
+(10)  FW  Gary Manuel                        ##    4, Pan-Hellenic 
+(11)  FW  Attila Abonyi                      ##   39, St George-Budapest 
+(12)  FW  Adrian Alston                      ##   34, Safeway United 
+(20)  FW  Branko Buljevic                    ##   19, Footscray JUST 
+

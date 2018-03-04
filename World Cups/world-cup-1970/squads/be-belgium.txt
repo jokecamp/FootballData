@@ -1,0 +1,30 @@
+##############################
+# Belgium (BEL) 
+#   - 22 players
+
+ (1)  GK  Christian Piot                     ##    2, Standard Liège 
+(12)  GK  Jean-Marie Trappeniers             ##   15, Anderlecht 
+(22)  GK  Jacques Duquesne                   ##    0, Olympic Charleroi 
+
+ (2)  DF  Georges Heylens                    ##   48, Anderlecht 
+ (3)  DF  Jean Thissen                       ##   12, Standard Liège 
+ (4)  DF  Nicolas Dewalque                   ##   12, Standard Liège 
+ (5)  DF  Léon Jeck                          ##   10, Standard Liège 
+ (6)  DF  Jean Dockx                         ##   11, Anderlecht 
+(13)  DF  Jacques Beurlet                    ##    7, Standard Liège 
+
+ (7)  MF  Léon Semmeling                     ##   21, Standard Liège 
+ (8)  MF  Wilfried Van Moer                  ##   16, Standard Liège 
+(14)  MF  Maurice Martens                    ##    0, Anderlecht 
+(15)  MF  Erwin Vandendaele                  ##    1, Club Brugge 
+(16)  MF  Odilon Polleunis                   ##   12, St Truiden 
+(17)  MF  Jan Verheyen                       ##   21, Beerschot 
+(20)  MF  Alfons Peeters                     ##    6, Anderlecht 
+
+ (9)  FW  Johan Devrindt                     ##   16, Anderlecht 
+(10)  FW  Paul Van Himst                     ##   55, Anderlecht 
+(11)  FW  Wilfried Puis                      ##   41, Anderlecht 
+(18)  FW  Raoul Lambert                      ##    7, Club Brugge 
+(19)  FW  Pierre Carteus                     ##    0, Club Brugge 
+(21)  FW  Frans Janssens                     ##    0, Lierse 
+

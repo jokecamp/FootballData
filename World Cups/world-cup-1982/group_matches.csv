@@ -1,0 +1,49 @@
+match_num,group,date,stadium,where,home,home_score,away_score,away
+2,Group 1,14 June,Balaídos,Vigo,Italy,0,0,Poland
+4,Group 1,15 June,Estadio de Riazor,A Coruña,Peru,0,0,Cameroon
+13,Group 1,18 June,Balaídos,Vigo,Italy,1,1,Peru
+16,Group 1,19 June,Estadio de Riazor,A Coruña,Poland,0,0,Cameroon
+25,Group 1,22 June,Estadio de Riazor,A Coruña,Poland,5,1,Peru
+28,Group 1,23 June,Balaídos,Vigo,Italy,1,1,Cameroon
+7,Group 2,16 June,El Molinón,Gijón,West Germany,1,2,Algeria
+10,Group 2,17 June,Estadio Carlos Tartiere,Oviedo,Chile,0,1,Austria
+19,Group 2,20 June,El Molinón,Gijón,West Germany,4,1,Chile
+22,Group 2,21 June,Estadio Carlos Tartiere,Oviedo,Algeria,0,2,Austria
+31,Group 2,24 June,Estadio Carlos Tartiere,Oviedo,Algeria,3,2,Chile
+34,Group 2,25 June,El Molinón,Gijón,West Germany,1,0,Austria
+1,Group 3,13 June,Camp Nou,Barcelona,Argentina,0,1,Belgium
+5,Group 3,15 June,Nuevo Estadio,Elche,Hungary,10,1,El Salvador
+14,Group 3,18 June,Estadio José Rico Pérez,Alicante,Argentina,4,1,Hungary
+17,Group 3,19 June,Nuevo Estadio,Elche,Belgium,1,0,El Salvador
+26,Group 3,22 June,Nuevo Estadio,Elche,Belgium,1,1,Hungary
+29,Group 3,23 June,Estadio José Rico Pérez,Alicante,Argentina,2,0,El Salvador
+8,Group 4,16 June,Estadio San Mamés,Bilbao,England,3,1,France
+11,Group 4,17 June,Estadio José Zorrilla,Valladolid,Czechoslovakia,1,1,Kuwait
+20,Group 4,20 June,Estadio San Mamés,Bilbao,England,2,0,Czechoslovakia
+23,Group 4,21 June,Estadio José Zorrilla,Valladolid,France,4,1,Kuwait
+32,Group 4,24 June,Estadio José Zorrilla,Valladolid,France,1,1,Czechoslovakia
+35,Group 4,25 June,Estadio San Mamés,Bilbao,England,1,0,Kuwait
+9,Group 5,16 June,Estadio Luis Casanova,Valencia,Spain,1,1,Honduras
+12,Group 5,17 June,La Romareda,Zaragoza,Yugoslavia,0,0,Northern Ireland
+21,Group 5,20 June,Estadio Luis Casanova,Valencia,Spain,2,1,Yugoslavia
+24,Group 5,21 June,La Romareda,Zaragoza,Honduras,1,1,Northern Ireland
+33,Group 5,24 June,La Romareda,Zaragoza,Honduras,0,1,Yugoslavia
+36,Group 5,25 June,Estadio Luis Casanova,Valencia,Spain,0,1,Northern Ireland
+3,Group 6,14 June,Estadio Ramón Sánchez Pizjuán,Seville,Brazil,2,1,Soviet Union
+6,Group 6,15 June,Estadio La Rosaleda,Málaga,Scotland,5,2,New Zealand
+15,Group 6,18 June,Estadio Benito Villamarín,Seville,Brazil,4,1,Scotland
+18,Group 6,19 June,Estadio La Rosaleda,Málaga,Soviet Union,3,0,New Zealand
+27,Group 6,22 June,Estadio La Rosaleda,Málaga,Soviet Union,2,2,Scotland
+30,Group 6,23 June,Estadio Benito Villamarín,Seville,Brazil,4,0,New Zealand
+38,Group I,28 June,Camp Nou,Barcelona,Poland,3,0,Belgium
+42,Group I,1 July,Camp Nou,Barcelona,Belgium,0,1,Soviet Union
+46,Group I,4 July,Camp Nou,Barcelona,Soviet Union,0,0,Poland
+40,Group J,29 June,Estadio Santiago Bernabéu,Madrid,West Germany,0,0,England
+44,Group J,2 July,Estadio Santiago Bernabéu,Madrid,West Germany,2,1,Spain
+48,Group J,5 July,Estadio Santiago Bernabéu,Madrid,Spain,0,0,England
+39,Group K,29 June,Estadio Sarriá,Barcelona,Italy,2,1,Argentina
+43,Group K,2 July,Estadio Sarriá,Barcelona,Argentina,1,3,Brazil
+47,Group K,5 July,Estadio Sarriá,Barcelona,Italy,3,2,Brazil
+37,Group L,28 June,Estadio Vicente Calderón,Madrid,Austria,0,1,France
+41,Group L,1 July,Estadio Vicente Calderón,Madrid,Austria,2,2,Northern Ireland
+45,Group L,4 July,Estadio Vicente Calderón,Madrid,Northern Ireland,1,4,France

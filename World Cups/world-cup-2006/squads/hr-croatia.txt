@@ -1,0 +1,31 @@
+##############################
+# Croatia (CRO) 
+#   - 23 players
+
+ (1)  GK  Stipe Pletikosa                    ##   50, Shakhtar Donetsk (UKR)
+(12)  GK  Joey Didulica                      ##    4, Austria Wien (AUT)
+(23)  GK  Tomislav Butina                    ##   28, Club Brugge (BEL)
+
+ (3)  DF  Josip Šimunić                      ##   42, Hertha BSC (GER)
+ (4)  DF  Robert Kovač                       ##   56, Juventus (ITA)
+ (5)  DF  Igor Tudor                         ##   52, Juventus (ITA)
+ (7)  DF  Dario Šimić                        ##   80, Milan (ITA)
+(11)  DF  Mario Tokić                        ##   28, Austria Wien (AUT)
+(13)  DF  Stjepan Tomas                      ##   48, Galatasaray (TUR)
+
+ (2)  MF  Darijo Srna                        ##   36, Shakhtar Donetsk (UKR)
+ (6)  MF  Jurica Vranješ                     ##   24, Werder Bremen (GER)
+ (8)  MF  Marko Babić                        ##   33, Bayer Leverkusen (GER)
+(10)  MF  Niko Kovač                         ##   58, Hertha BSC (GER)
+(14)  MF  Luka Modrić                        ##    5, Dinamo Zagreb (CRO)
+(15)  MF  Ivan Leko                          ##   13, Club Brugge (BEL)
+(16)  MF  Jerko Leko                         ##   36, Dynamo Kyiv (UKR)
+(19)  MF  Niko Kranjčar                      ##   21, Hajduk Split (CRO)
+(20)  MF  Anthony Šerić                      ##   14, Panathinaikos (GRE)
+
+ (9)  FW  Dado Pršo                          ##   29, Rangers (SCO)
+(17)  FW  Ivan Klasnić                       ##   20, Werder Bremen (GER)
+(18)  FW  Ivica Olić                         ##   36, CSKA Moscow (RUS)
+(21)  FW  Boško Balaban                      ##   27, Club Brugge (BEL)
+(22)  FW  Ivan Bošnjak                       ##   13, Dinamo Zagreb (CRO)
+

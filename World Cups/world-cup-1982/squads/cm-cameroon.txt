@@ -1,0 +1,30 @@
+##############################
+# Cameroon (CMR) 
+#   - 22 players
+
+ (1)  GK  Thomas N'Kono                      ##    -, Canon Yaoundé 
+(12)  GK  Joseph-Antoine Bell                ##    -, Africa Sports 
+(22)  GK  Simon Tchobang                     ##    -,  
+
+ (2)  DF  Michel Kaham                       ##    -, Stade Quimperois 
+ (3)  DF  Edmond Enoka                       ##    -,  
+ (4)  DF  René N'Djeya                       ##    -, Union Douala 
+ (5)  DF  Elie Onana                         ##    -,  
+(15)  DF  François N'Doumbé                  ##    -, Union Douala 
+(16)  DF  Ibrahim Aoudou                     ##    -, Cannes 
+
+ (6)  MF  Emmanuel Kundé                     ##    -, Canon Yaoundé 
+ (7)  MF  Ephrem M'Bom                       ##    -, Canon Yaoundé 
+ (8)  MF  Grégoire M'Bida                    ##    -, Canon Yaoundé 
+(11)  MF  Charles Toubé                      ##    -, Tonnerre Yaoundé 
+(14)  MF  Théophile Abega                    ##    -, Canon Yaoundé 
+(17)  MF  Joseph Kamga                       ##    -, Union Douala 
+(19)  MF  Joseph Enanga                      ##    -, Union Douala 
+
+ (9)  FW  Roger Milla                        ##    -, Bastia 
+(10)  FW  Jean-Pierre Tokoto                 ##    -, Jacksonville Tea Men (USA)
+(13)  FW  Paul Bahoken                       ##    -, Cannes 
+(18)  FW  Jacques N'Guea                     ##    -, Canon Yaoundé 
+(20)  FW  Oscar Eyobo                        ##    -,  
+(21)  FW  Ernest Ebongué                     ##    -, Tonnerre Yaoundé 
+

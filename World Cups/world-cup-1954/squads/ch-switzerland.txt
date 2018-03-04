@@ -1,0 +1,30 @@
+##############################
+# Switzerland (SUI) 
+#   - 22 players
+
+ (1)  GK  Walter Eich                        ##    -, Young Boys Bern 
+ (2)  GK  Eugene Parlier                     ##    -, Servette FC 
+ (3)  GK  Georges Stuber                     ##    -, Lausanne Sports 
+
+ (5)  DF  Marcel Flückiger                   ##    -, Young Boys Bern 
+ (6)  DF  Roger Mathis                       ##    -, Lausanne Sports 
+ (7)  DF  André Neury                        ##    -, Servette FC 
+(10)  DF  Oliver Eggimann                    ##    -, FC La Chaux-de-Fonds 
+(14)  DF  Willy Kernen                       ##    -, FC La Chaux-de-Fonds 
+
+ (4)  MF  Roger Bocquet                      ##    -, Lausanne Sports 
+ (8)  MF  Heinz Bigler                       ##    -, Young Boys Bern 
+ (9)  MF  Charles Casali                     ##    -, Young Boys Bern 
+(12)  MF  Gilbert Fesselet                   ##    -, FC La Chaux-de-Fonds 
+(13)  MF  Ivo Frosio                         ##    -, Grasshopper Club Zürich 
+
+(11)  FW  Norbert Eschmann                   ##    -, Lausanne Sports 
+(15)  FW  Charles Antenen                    ##    -, FC La Chaux-de-Fonds 
+(16)  FW  Robert Ballaman                    ##    -, Grasshopper Club Zürich 
+(17)  FW  Jacques Fatton                     ##    -, Servette FC 
+(18)  FW  Josef Hügi                         ##    -, FC Basel 
+(19)  FW  Marcel Mauron                      ##    -, FC La Chaux-de-Fonds 
+(20)  FW  Eugen Meier                        ##    -, Young Boys Bern 
+(21)  FW  Ferdinando Riva                    ##    -, FC Chiasso 
+(22)  FW  Roger Vonlanthen                   ##    -, Grasshopper Club Zürich 
+

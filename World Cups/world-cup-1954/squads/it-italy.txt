@@ -1,0 +1,30 @@
+##############################
+# Italy (ITA) 
+#   - 22 players
+
+ (1)  GK  Giorgio Ghezzi                     ##    1, Internazionale 
+(12)  GK  Giovanni Viola                     ##    0, Juventus 
+(22)  GK  Leonardo Costagliola               ##    3, Fiorentina 
+
+ (2)  DF  Guido Vincenzi                     ##    1, Internazionale 
+ (3)  DF  Giovanni Giacomazzi                ##    1, Internazionale 
+ (4)  DF  Maino Neri                         ##    6, Internazionale 
+(13)  DF  Ardico Magnini                     ##    4, Fiorentina 
+(14)  DF  Sergio Cervato                     ##   11, Fiorentina 
+(15)  DF  Giacomo Mari                       ##    7, Juventus 
+
+ (5)  MF  Omero Tognon                       ##   11, Milan 
+ (6)  MF  Fulvio Nesti                       ##    2, Internazionale 
+(16)  MF  Rino Ferrario                      ##    1, Juventus 
+(18)  MF  Gino Pivatelli                     ##    0, Bologna 
+(20)  MF  Guido Gratton                      ##    1, Fiorentina 
+
+ (7)  FW  Ermes Muccinelli                   ##    9, Juventus 
+ (8)  FW  Egisto Pandolfini                  ##   14, Roma 
+ (9)  FW  Carlo Galli                        ##    2, Roma 
+(10)  FW  Gino Cappello                      ##   10, Bologna 
+(11)  FW  Benito Lorenzi                     ##   11, Internazionale 
+(17)  FW  Armando Segato                     ##    3, Fiorentina 
+(19)  FW  Giampiero Boniperti                ##   22, Juventus 
+(21)  FW  Amleto Frignani                    ##    6, Milan 
+

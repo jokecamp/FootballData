@@ -1,0 +1,28 @@
+##############################
+# El Salvador (SLV) 
+#   - 20 players
+
+ (1)  GK  Luis Guevara Mora                  ##    -, Platense Municipal 
+(19)  GK  Eduardo Hernández                  ##    -, Santiagueño 
+(20)  GK  José Luis Munguía                  ##    -, FAS 
+
+ (2)  DF  Mario Castillo                     ##    -, Santiagueño 
+ (3)  DF  José Francisco Jovel               ##    -, Águila 
+ (4)  DF  Carlos Recinos                     ##    -, FAS 
+ (5)  DF  Ramón Fagoaga                      ##    -, Atlético Marte 
+(12)  DF  Francisco Osorto                   ##    -, Santiagueño 
+(15)  DF  Jaime Rodríguez                    ##    -, Bayer Uerdingen 
+(18)  DF  Miguel Ángel Díaz                  ##    -, Atlético Marte 
+
+ (6)  MF  Joaquín Ventura                    ##    -, Santiagueño 
+ (7)  MF  Silvio Aquino                      ##    -, Alianza 
+ (8)  MF  José Luis Rugamas                  ##    -, Atlético Marte 
+(10)  MF                                     ##    -, Palencia 
+(16)  MF  Mauricio Alfaro                    ##    -, Platense Municipal 
+
+ (9)  FW  Ever Hernández                     ##    -, Santiagueño 
+(11)  FW  Mágico González                    ##    -, Cadiz 
+(13)  FW  José María Rivas                   ##    -, Alianza 
+(14)  FW  Luis Ramírez                       ##    -, Atlético Marte 
+(17)  FW  Guillermo Ragazzone                ##    -, Atlético Marte 
+

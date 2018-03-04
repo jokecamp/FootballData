@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+   -  GK  Juan Acuña                         ##    1, Deportivo de La Coruña 
+   -  GK  Antoni Ramallets                   ##    0, CF Barcelona 
+   -  GK  Ignacio Eizaguirre                 ##   14, Valencia CF 
+
+   -  DF  Vicente Asensi                     ##    5, Valencia CF 
+   -  DF  Alfonso Silva                      ##    3, Atlético Madrid 
+   -  DF  Gabriel Alonso                     ##    4, Celta de Vigo 
+   -  DF  Francisco Antúnez                  ##    2, CF Sevilla 
+   -  DF  Josep Gonzalvo                     ##    3, CF Barcelona 
+   -  DF  José Parra                         ##    1, RCD Espanyol 
+   -  DF  Rafael Lesmes                      ##    0, Valladolid 
+
+   -  MF  Nando                              ##    5, Atlético Bilbao 
+   -  MF  Antonio Puchades                   ##    6, Valencia CF 
+   -  MF  Marià Gonzalvo                     ##    8, CF Barcelona 
+
+   -  FW  José Juncosa                       ##    1, Atlético Madrid 
+   -  FW  Luis Molowny                       ##    2, Real Madrid 
+   -  FW  Silvestre Igoa                     ##    5, Valencia CF 
+   -  FW  José Luis Panizo                   ##    6, Atlético Bilbao 
+   -  FW  Rosendo Hernández                  ##    2, RCD Espanyol 
+   -  FW  Agustín Gaínza                     ##   14, Atlético Bilbao 
+   -  FW  César                              ##    8, CF Barcelona 
+   -  FW  Estanislao Basora                  ##    4, CF Barcelona 
+   -  FW  Zarra                              ##   11, Atlético Bilbao 
+

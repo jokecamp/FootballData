@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Félix                              ##   23, Fluminense 
+(12)  GK  Ado                                ##    2, Corinthians 
+(22)  GK  Leão                               ##    2, Palmeiras 
+
+ (2)  DF  Brito                              ##   28, Flamengo 
+ (4)  DF  Carlos Alberto                     ##   40, Santos 
+ (6)  DF  Marco Antônio                      ##    7, Fluminense 
+(14)  DF  Baldocchi                          ##    1, Palmeiras 
+(15)  DF  Fontana                            ##    6, Cruzeiro 
+(16)  DF  Everaldo                           ##    8, Grêmio 
+(17)  DF  Joel                               ##   26, Santos 
+(21)  DF  Zé Maria                           ##    1, Portuguesa 
+
+ (3)  MF  Piazza                             ##   16, Cruzeiro 
+ (5)  MF  Clodoaldo                          ##    7, Santos 
+ (7)  MF  Jairzinho                          ##   45, Botafogo 
+ (8)  MF  Gérson                             ##   54, São Paulo 
+(11)  MF  Rivellino                          ##   21, Corinthians 
+(18)  MF  Paulo Cézar                        ##   14, Botafogo 
+
+ (9)  FW  Tostão                             ##   36, Cruzeiro 
+(10)  FW  Pelé                               ##   81, Santos 
+(13)  FW  Roberto                            ##    9, Botafogo 
+(19)  FW  Edu                                ##   29, Santos 
+(20)  FW  Dario                              ##    3, Atlético Mineiro 
+

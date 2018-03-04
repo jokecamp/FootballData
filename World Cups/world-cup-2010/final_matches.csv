@@ -1,0 +1,17 @@
+match_num,round/group,date,time,stadium,where,home,score,away
+49,Round of 16,Jun 26,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,2-1,South Korea
+50,Round of 16,Jun 26,20:30,Royal Bafokeng Stadium,Rustenburg,United States,1-1 1-2nV,Ghana
+51,Round of 16,Jun 27,16:00,Free State Stadium,Bloemfontein,Germany,4-1,England
+52,Round of 16,Jun 27,20:30,Soccer City,Johannesburg,Argentina,3-1,Mexico
+53,Round of 16,Jun 28,16:00,Moses Mabhida Stadium,Durban,Netherlands,2-1,Slovakia
+54,Round of 16,Jun 28,20:30,Ellis Park Stadium,Johannesburg,Brazil,3-0,Chile
+55,Round of 16,Jun 29,16:00,Loftus Versfeld Stadium,Pretoria,Paraguay,0-0 0-0nV 5-3iE,Japan
+56,Round of 16,Jun 29,20:30,Cape Town Stadium,Cape Town,Spain,1-0,Portugal
+57,Quarterfinals,Jul 2,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Netherlands,2-1,Brazil
+58,Quarterfinals,Jul 2,20:30,Soccer City,Johannesburg,Uruguay,1-1 1-1nV 4-2iE,Ghana
+59,Quarterfinals,Jul 3,16:00,Cape Town Stadium,Cape Town,Argentina,0-4,Germany
+60,Quarterfinals,Jul 3,20:30,Ellis Park Stadium,Johannesburg,Paraguay,0-1,Spain
+61,Semifinals,Jul 6,20:30,Cape Town Stadium,Cape Town,Uruguay,2-3,Netherlands
+62,Semifinals,Jul 7,20:30,Moses Mabhida Stadium,Durban,Germany,0-1,Spain
+63,Third-place play-off,Jul 10,20:30,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,2-3,Germany
+64,Final,Jul 11,20:30,Soccer City,Johannesburg,Netherlands,0-0 0-1nV,Spain

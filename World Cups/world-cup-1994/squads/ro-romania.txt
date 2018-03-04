@@ -1,0 +1,30 @@
+##############################
+# Romania (ROU) 
+#   - 22 players
+
+ (1)  GK  Florin Prunea                      ##    -, Dinamo Bucharest 
+(12)  GK  Bogdan Stelea                      ##    -, Rapid Bucureşti 
+(22)  GK  Ştefan Preda                       ##    -, Petrolul Ploieşti 
+
+ (2)  DF  Dan Petrescu                       ##    -, Genoa 
+ (3)  DF  Daniel Prodan                      ##    -, Steaua Bucharest 
+ (4)  DF  Miodrag Belodedici                 ##    -, Valencia 
+ (6)  DF  Gheorghe Popescu                   ##    -, PSV 
+(13)  DF  Tibor Selymes                      ##    -, Cercle Brugge 
+(14)  DF  Gheorghe Mihali                    ##    -, Dinamo Bucureşti 
+(19)  DF  Corneliu Papură                    ##    -, Universitatea Craiova 
+
+ (5)  MF  Ioan Lupescu                       ##    -, Bayer Leverkusen 
+ (7)  MF  Dorinel Munteanu                   ##    -, Cercle Brugge 
+ (8)  MF  Iulian Chiriţă                     ##    -, Rapid Bucureşti 
+(10)  MF  Gheorghe Hagi                      ##    -, Brescia 
+(15)  MF  Basarab Panduru                    ##    -, Steaua Bucureşti 
+(18)  MF  Constantin Gâlcă                   ##    -, Steaua Bucureşti 
+(20)  MF  Ovidiu Stîngă                      ##    -, Universitatea Craiova 
+
+ (9)  FW  Florin Răducioiu                   ##    -, Milan 
+(11)  FW  Ilie Dumitrescu                    ##    -, Steaua Bucureşti 
+(16)  FW  Ion Vlădoiu                        ##    -, Rapid Bucureşti 
+(17)  FW  Viorel Moldovan                    ##    -, Dinamo Bucureşti 
+(21)  FW  Marian Ivan                        ##    -, Braşov 
+

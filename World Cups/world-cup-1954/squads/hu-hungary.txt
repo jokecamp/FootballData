@@ -1,0 +1,30 @@
+##############################
+# Hungary (HUN) 
+#   - 22 players
+
+ (1)  GK  Gyula Grosics                      ##   31, Budapesti Honvéd SE 
+(21)  GK  Sándor Gellér                      ##    5, Budapesti Vörös Lobogó 
+(22)  GK  Géza Gulyás                        ##    0, Budapesti Kinizsi 
+
+ (2)  DF  Jenő Buzánszky                     ##   23, Dorogi Bányász 
+ (3)  DF  Gyula Lóránt                       ##   24, Budapesti Honvéd SE 
+ (4)  DF  Mihály Lantos                      ##   30, Budapesti Vörös Lobogó 
+(12)  DF  Béla Kárpáti                       ##    1, Győri Vasas SE 
+(13)  DF  Pál Várhidi                        ##    0, Budapesti Dózsa 
+
+ (5)  MF  József Bozsik                      ##   48, Budapesti Honvéd SE 
+(14)  MF  Imre Kovács                        ##    8, Budapesti Vörös Lobogó 
+(15)  MF  Ferenc Szojka                      ##    0, Salgótarjáni BTC 
+(16)  MF  László Budai                       ##   21, Budapesti Honvéd SE 
+
+ (6)  FW  József Zakariás                    ##   31, Budapesti Vörös Lobogó 
+ (7)  FW  József Tóth                        ##    2, Csepeli Vasas 
+ (8)  FW  Sándor Kocsis                      ##   36, Budapesti Honvéd SE 
+ (9)  FW  Nándor Hidegkuti                   ##   36, Budapesti Vörös Lobogó 
+(10)  FW  Ferenc Puskás                      ##   55, Budapesti Honvéd SE 
+(11)  FW  Zoltán Czibor                      ##   26, Budapesti Honvéd SE 
+(17)  FW  Ferenc Machos                      ##    0, Budapesti Honvéd SE 
+(18)  FW  Lajos Csordás                      ##    7, Budapesti Vasas SE 
+(19)  FW  Péter Palotás                      ##   16, Budapesti Vörös Lobogó 
+(20)  FW  Mihály Tóth                        ##    3, Budapesti Dózsa 
+

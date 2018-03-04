@@ -1,0 +1,30 @@
+##############################
+# Spain (ESP) 
+#   - 22 players
+
+ (1)  GK  José Ángel Iribar                  ##    9, Athletic Bilbao 
+(12)  GK  Antonio Betancort                  ##    2, Real Madrid 
+(13)  GK  Miguel Reina                       ##    0, Córdoba 
+
+ (2)  DF  Manuel Sanchís                     ##    2, Real Madrid 
+ (3)  DF  Eladio                             ##    1, Barcelona 
+ (6)  DF  Jesús Glaría                       ##    7, Atlético Madrid 
+(14)  DF  Feliciano Rivilla                  ##   26, Atlético Madrid 
+(15)  DF  Severino Reija                     ##   11, Real Zaragoza 
+(16)  DF  Ferran Olivella                    ##   18, Barcelona 
+
+ (4)  MF  Luis del Sol                       ##   14, Juventus 
+ (5)  MF  Ignacio Zoco                       ##   19, Real Madrid 
+ (7)  MF  José Ufarte                        ##    6, Atlético Madrid 
+ (8)  MF  Amancio                            ##    9, Real Madrid 
+(17)  MF  Gallego                            ##    0, Barcelona 
+(18)  MF  Pirri                              ##    0, Real Madrid 
+(20)  MF  Joaquín Peiró                      ##   10, Internazionale Milano 
+(21)  MF  Adelardo                           ##   10, Atlético Madrid 
+
+ (9)  FW  Marcelino                          ##   12, Real Zaragoza 
+(10)  FW  Luis Suárez                        ##   29, Internazionale Milano 
+(11)  FW  Francisco Gento                    ##   36, Real Madrid 
+(19)  FW  Josep Maria Fusté                  ##    5, Barcelona 
+(22)  FW  Carlos Lapetra                     ##   12, Real Zaragoza 
+

@@ -1,0 +1,30 @@
+##############################
+# England (ENG) 
+#   - 22 players
+
+ (1)  GK  David Seaman                       ##   40, Arsenal 
+(13)  GK  Nigel Martyn                       ##    7, Leeds United 
+(22)  GK  Tim Flowers                        ##   11, Blackburn Rovers 
+
+ (2)  DF  Sol Campbell                       ##   16, Tottenham Hotspur 
+ (3)  DF  Graeme Le Saux                     ##   25, Chelsea 
+ (5)  DF  Tony Adams                         ##   51, Arsenal 
+ (6)  DF  Gareth Southgate                   ##   25, Aston Villa 
+(12)  DF  Gary Neville                       ##   27, Manchester United 
+(18)  DF  Martin Keown                       ##   18, Arsenal 
+(21)  DF  Rio Ferdinand                      ##    3, West Ham United 
+
+ (4)  MF  Paul Ince                          ##   39, Liverpool 
+ (7)  MF  David Beckham                      ##   15, Manchester United 
+ (8)  MF  David Batty                        ##   31, Newcastle United 
+(11)  MF  Steve McManaman                    ##   21, Liverpool 
+(14)  MF  Darren Anderton                    ##   18, Tottenham Hotspur 
+(15)  MF  Paul Merson                        ##   18, Middlesbrough 
+(16)  MF  Paul Scholes                       ##    7, Manchester United 
+(17)  MF  Rob Lee                            ##   17, Newcastle United 
+
+ (9)  FW  Alan Shearer                       ##   39, Newcastle United 
+(10)  FW  Teddy Sheringham                   ##   33, Manchester United 
+(19)  FW  Les Ferdinand                      ##   17, Tottenham Hotspur 
+(20)  FW  Michael Owen                       ##    5, Liverpool 
+

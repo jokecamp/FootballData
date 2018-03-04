@@ -1,0 +1,30 @@
+##############################
+# Bolivia (BOL) 
+#   - 22 players
+
+ (1)  GK  Carlos Trucco                      ##   44, Bolivar 
+(12)  GK  Darío Rojas                        ##    -, Oriente Petrolero 
+(19)  GK  Marcelo Torrico                    ##    -, The Strongest 
+
+ (2)  DF  Juan Manuel Peña                   ##    -, Santa Fe 
+ (3)  DF  Marco Sandy                        ##    -, Bolívar 
+ (4)  DF  Miguel Rimba                       ##    -, Bolívar 
+ (5)  DF  Gustavo Quinteros                  ##    -, The Strongest 
+(13)  DF  Modesto Soruco                     ##    -, Once Caldas 
+(16)  DF  Luis Cristaldo                     ##    -, Bolivar 
+(17)  DF  Óscar Sánchez                      ##    -, The Strongest 
+
+ (6)  MF  Carlos Borja                       ##    -, Bolívar 
+ (7)  MF  Mario Pinedo                       ##    -, Oriente Petrolero 
+ (8)  MF  José Milton Melgar                 ##    -, The Strongest 
+(10)  MF  Marco Etcheverry                   ##    -, Colo Colo 
+(14)  MF  Mauricio Ramos                     ##    -, Destroyers 
+(15)  MF  Vladimir Soria                     ##    -, Bolívar 
+(20)  MF  Ramiro Castillo                    ##    -, Platense 
+(21)  MF  Erwin Sánchez                      ##    -, Boavista 
+(22)  MF  Julio César Baldivieso             ##    -, Bolívar 
+
+ (9)  FW  Álvaro Peña                        ##    -, Deportes Temuco 
+(11)  FW  Jaime Moreno                       ##    -, Blooming 
+(18)  FW  Luis Ramallo                       ##    -, Oriente Petrolero 
+

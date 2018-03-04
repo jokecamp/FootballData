@@ -1,0 +1,30 @@
+##############################
+# Deutschland (GER) 
+#   - 22 players
+
+ (1)  GK  Bodo Illgner                       ##    -, 1. FC Köln 
+(12)  GK  Andreas Köpke                      ##    -, 1. FC Nürnberg 
+(22)  GK  Oliver Kahn                        ##    -, Karlsruher SC 
+
+ (3)  DF  Andreas Brehme                     ##    -, 1. FC Kaiserslautern 
+ (4)  DF  Jürgen Kohler                      ##    -, Juventus 
+ (5)  DF  Thomas Helmer                      ##    -, Bayern München 
+ (6)  DF  Guido Buchwald                     ##    -, VfB Stuttgart 
+(14)  DF  Thomas Berthold                    ##    -, VfB Stuttgart 
+
+ (2)  MF  Thomas Strunz                      ##    -, VfB Stuttgart 
+ (7)  MF  Andreas Möller                     ##    -, Juventus 
+ (8)  MF  Thomas Häßler                      ##    -, Roma 
+(10)  MF  Lothar Matthäus                    ##    -, Bayern München 
+(15)  MF  Maurizio Gaudino                   ##    -, Eintracht Frankfurt 
+(16)  MF  Matthias Sammer                    ##    -, Borussia Dortmund 
+(17)  MF  Martin Wagner                      ##    -, 1. FC Kaiserslautern 
+(20)  MF  Stefan Effenberg                   ##    -, Fiorentina 
+(21)  MF  Mario Basler                       ##    -, Werder Bremen 
+
+ (9)  FW  Karl-Heinz Riedle                  ##    -, Borussia Dortmund 
+(11)  FW  Stefan Kuntz                       ##    -, 1. FC Kaiserslautern 
+(13)  FW  Rudi Völler                        ##    -, Marseille 
+(18)  FW  Jürgen Klinsmann                   ##    -, AS Monaco 
+(19)  FW  Ulf Kirsten                        ##    -, Bayer Leverkusen 
+

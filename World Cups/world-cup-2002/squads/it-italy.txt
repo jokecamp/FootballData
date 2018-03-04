@@ -1,0 +1,31 @@
+##############################
+# Italy (ITA) 
+#   - 23 players
+
+ (1)  GK  Gianluigi Buffon                   ##   26, Juventus 
+(12)  GK  Christian Abbiati                  ##    0, Milan 
+(22)  GK  Francesco Toldo                    ##   22, Internazionale 
+
+ (2)  DF  Christian Panucci                  ##   24, Roma 
+ (3)  DF  Paolo Maldini                      ##  122, Milan 
+ (4)  DF  Francesco Coco                     ##   13, Barcelona 
+ (5)  DF  Fabio Cannavaro                    ##   58, Parma 
+(13)  DF  Alessandro Nesta                   ##   43, Lazio 
+(15)  DF  Mark Iuliano                       ##   16, Juventus 
+(23)  DF  Marco Materazzi                    ##    7, Internazionale 
+
+ (6)  MF  Cristiano Zanetti                  ##    4, Internazionale 
+ (8)  MF  Gennaro Gattuso                    ##   13, Milan 
+(11)  MF  Cristiano Doni                     ##    3, Atalanta 
+(14)  MF  Luigi Di Biagio                    ##   28, Internazionale 
+(16)  MF  Angelo Di Livio                    ##   38, Fiorentina 
+(17)  MF  Damiano Tommasi                    ##   14, Roma 
+(19)  MF  Gianluca Zambrotta                 ##   23, Juventus 
+
+ (7)  FW  Alessandro Del Piero               ##   49, Juventus 
+ (9)  FW  Filippo Inzaghi                    ##   38, Milan 
+(10)  FW  Francesco Totti                    ##   29, Roma 
+(18)  FW  Marco Delvecchio                   ##   16, Roma 
+(20)  FW  Vincenzo Montella                  ##   14, Roma 
+(21)  FW  Christian Vieri                    ##   24, Internazionale 
+

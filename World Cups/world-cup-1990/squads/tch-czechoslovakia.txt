@@ -1,0 +1,30 @@
+##############################
+# Czechoslovakia (TCH) 
+#   - 22 players
+
+ (1)  GK  Jan Stejskal                       ##    -, Sparta Prague 
+(21)  GK  Luděk Mikloško                     ##    -, West Ham United 
+(22)  GK  Peter Palúch                       ##    -, Plastika Nitra 
+
+ (2)  DF  Július Bielik                      ##    -, Sparta Prague 
+ (3)  DF  Miroslav Kadlec                    ##    -, TJ Vítkovice 
+ (5)  DF  Ján Kocian                         ##    -, FC St. Pauli 
+ (6)  DF  František Straka                   ##    -, Borussia Mönchengladbach 
+(14)  DF  Vladimír Weiss                     ##    -, Inter Bratislava 
+(15)  DF  Vladimír Kinier                    ##    -, Slovan Bratislava 
+
+ (4)  MF  Ivan Hašek                         ##    -, Sparta Prague 
+ (7)  MF  Michal Bílek                       ##    -, Sparta Prague 
+ (8)  MF  Jozef Chovanec                     ##    -, PSV 
+ (9)  MF  Luboš Kubík                        ##    -, Fiorentina 
+(11)  MF  Ľubomír Moravčík                   ##    -, Plastika Nitra 
+(12)  MF  Peter Fieber                       ##    -, Dunajská Streda 
+(13)  MF  Jiří Němec                         ##    -, Dukla Prague 
+(16)  MF  Viliam Hýravý                      ##    -, Baník Ostrava 
+(20)  MF  Václav Němeček                     ##    -, Sparta Prague 
+
+(10)  FW  Tomáš Skuhravý                     ##    -, Sparta Prague 
+(17)  FW  Ivo Knoflíček                      ##    -, FC St. Pauli 
+(18)  FW  Milan Luhový                       ##    -, Sporting Gijón 
+(19)  FW  Stanislav Griga                    ##    -, Feyenoord 
+

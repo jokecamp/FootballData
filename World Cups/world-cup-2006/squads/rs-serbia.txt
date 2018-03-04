@@ -1,0 +1,31 @@
+##############################
+# Serbia (SRB) 
+#   - 23 players
+
+ (1)  GK  Dragoslav Jevrić                   ##   40, Ankaraspor (TUR)
+(12)  GK  Oliver Kovačević                   ##    3, CSKA Sofia (BUL)
+(23)  GK  Vladimir Stojković                 ##    0, Red Star Belgrade (SRB)
+
+ (3)  DF  Ivica Dragutinović                 ##   26, Sevilla (ESP)
+ (5)  DF  Nemanja Vidić                      ##   20, Manchester United (ENG)
+ (6)  DF  Goran Gavrančić                    ##   25, Dynamo Kyiv (UKR)
+(13)  DF  Dušan Basta                        ##    2, Red Star Belgrade (SRB)
+(14)  DF  Nenad Đorđević                     ##   15, Partizan (SRB)
+(15)  DF  Milan Dudić                        ##   11, Red Star Belgrade (SRB)
+(16)  DF  Dušan Petković                     ##   12, OFK Beograd (SRB)
+(20)  DF  Mladen Krstajić                    ##   45, Schalke 04 (GER)
+
+ (2)  MF  Ivan Ergić                         ##    1, Basel (SUI)
+ (4)  MF  Igor Duljaj                        ##   37, Shakhtar Donetsk (UKR)
+ (7)  MF  Ognjen Koroman                     ##   25, Portsmouth (ENG)
+(10)  MF  Dejan Stanković                    ##   58, Internazionale (ITA)
+(11)  MF  Predrag Đorđević                   ##   34, Olympiacos (GRE)
+(17)  MF  Albert Nađ                         ##   42, Partizan (SRB)
+(18)  MF  Zvonimir Vukić                     ##   25, Shakhtar Donetsk (UKR)
+(22)  MF  Saša Ilić                          ##   32, Galatasaray (TUR)
+
+ (8)  FW  Mateja Kežman                      ##   47, Atlético Madrid (ESP)
+ (9)  FW  Savo Milošević                     ##   98, Osasuna (ESP)
+(19)  FW  Nikola Žigić                       ##   11, Red Star Belgrade (SRB)
+(21)  FW  Danijel Ljuboja                    ##   15, Paris Saint-Germain (FRA)
+

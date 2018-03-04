@@ -1,0 +1,30 @@
+##############################
+# Brazil (BRA) 
+#   - 22 players
+
+ (1)  GK  Valdir Peres                       ##   23, São Paulo 
+(12)  GK  Paulo Sérgio                       ##    3, Botafogo 
+(22)  GK  Carlos                             ##    6, Ponte Preta 
+
+ (2)  DF  Leandro                            ##    6, Flamengo 
+ (3)  DF  Oscar                              ##   36, São Paulo 
+ (4)  DF  Luizinho                           ##   24, Atlético Mineiro 
+ (6)  DF  Júnior                             ##   35, Flamengo 
+(13)  DF  Edevaldo                           ##   17, Internacional 
+(14)  DF  Juninho                            ##    4, Ponte Preta 
+(16)  DF  Edinho                             ##   34, Fluminense 
+(17)  DF  Pedrinho                           ##    8, Vasco da Gama 
+
+ (5)  MF  Toninho Cerezo                     ##   49, Atlético Mineiro 
+ (8)  MF  Sócrates                           ##   33, Corinthians 
+(10)  MF  Zico                               ##   56, Flamengo 
+(15)  MF  Falcão                             ##   17, Roma 
+(18)  MF  Batista                            ##   32, Grêmio 
+(19)  MF  Renato                             ##   13, São Paulo 
+(21)  MF  Dirceu                             ##   23, Atlético Madrid 
+
+ (7)  FW  Paulo Isidoro                      ##   28, Grêmio 
+ (9)  FW  Serginho                           ##   15, São Paulo 
+(11)  FW  Éder                               ##   24, Atlético Mineiro 
+(20)  FW  Roberto Dinamite                   ##   32, Vasco da Gama 
+

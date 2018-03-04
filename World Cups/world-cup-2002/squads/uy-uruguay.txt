@@ -1,0 +1,31 @@
+##############################
+# Uruguay (URU) 
+#   - 23 players
+
+ (1)  GK  Fabián Carini                      ##   35, Juventus 
+(12)  GK  Gustavo Munúa                      ##    9, Nacional 
+(23)  GK  Federico Elduayen                  ##    1, Peñarol 
+
+ (2)  DF  Gustavo Méndez                     ##   45, Nacional 
+ (3)  DF  Alejandro Lembo                    ##   31, Nacional 
+ (4)  DF  Paolo Montero                      ##   45, Juventus 
+ (6)  DF  Darío Rodríguez                    ##   21, Peñarol 
+(14)  DF  Gonzalo Sorondo                    ##   18, Internazionale 
+(19)  DF  Joe Bizera                         ##    9, Peñarol 
+
+ (5)  MF  Pablo García                       ##   36, Venezia 
+ (7)  MF  Gianni Guigou                      ##   36, Roma 
+(10)  MF  Fabián O'Neill                     ##   19, Perugia 
+(16)  MF  Marcelo Romero                     ##   22, Málaga 
+(17)  MF  Mario Regueiro                     ##   14, Racing de Santander 
+(22)  MF  Gonzalo de los Santos              ##   28, Valencia 
+
+ (8)  FW  Gustavo Varela                     ##    7, Nacional 
+ (9)  FW  Darío Silva                        ##   36, Málaga 
+(11)  FW  Federico Magallanes                ##   24, Venezia 
+(13)  FW  Sebastián Abreu                    ##   13, Cruz Azul 
+(15)  FW  Nicolás Olivera                    ##   26, Sevilla 
+(18)  FW  Richard Morales                    ##   12, Nacional 
+(20)  FW  Álvaro Recoba                      ##   43, Internazionale 
+(21)  FW  Diego Forlán                       ##    4, Manchester United 
+

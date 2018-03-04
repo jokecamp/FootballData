@@ -1,0 +1,49 @@
+match_num,round/group,date,time,stadium,where,home,home_score,away_score,away,home_scorers,away_scorers
+1,Group A,Jun 12,17:00, Arena de São Paulo,São Paulo,Brazil,3,1,Croatia,"Neymar 29', 71' (pen.) Oscar 90+1'", Marcelo 11' (o.g.)
+2,Group A,Jun 13,13:00, Estádio das Dunas,Natal,Mexico,1,0,Cameroon,Oribe Peralta 61',
+17,Group A,Jun 17,16:00, Estádio Castelão,Fortaleza,Brazil,0,0,Mexico,,
+18,Group A,Jun 18,18:00, Arena Amazônia,Manaus,Cameroon,0,4,Croatia,," Ivica Olić 11' Ivan Perišić 48' Mario Mandžukić 61', 73'"
+33,Group A,Jun 23,17:00, Estádio Nacional Mané Garrincha,Brasília,Cameroon,1,4,Brazil,Joel Matip 26'," Neymar 17', 35' Fred 49' Fernandinho 84'"
+34,Group A,Jun 23,17:00, Arena Pernambuco,Recife,Croatia,1,3,Mexico,Ivan Perišić 87', Rafael Márquez 72' Andres Guardado 75' Javier Hernández 82'
+3,Group B,Jun 13,16:00, Arena Fonte Nova,Salvador,Spain,1,5,Netherlands,Xabi Alonso 27' (pen.)," Robin Van Persie 44', 72' Arjen Robben 53', 80' Stefan De Vrij 65'"
+4,Group B,Jun 13,18:00, Arena Pantanal,Cuiabá,Chile,3,1,Australia,Alexis Sánchez 12' Jorge Valdívia 14' Jean Beausejour 90+2', Cahill 35'
+19,Group B,Jun 18,16:00, Estádio do Maracanã,Rio de Janeiro,Spain,0,2,Chile,, Eduardo Vargas 20' Charles Aránguiz 43'
+20,Group B,Jun 18,13:00, Estádio Beira-Rio,Porto Alegre,Australia,2,3,Netherlands,Tim Cahill 21' Mile Jedinak 54' (pen.), Arjen Robben 20' Robin Van Persie 58' Memphis Depay 68'
+35,Group B,Jun 23,13:00, Arena da Baixada,Curitiba,Australia,0,3,Spain,, David Villa 36' Fernando Torres 69' Juan Mata 82'
+36,Group B,Jun 23,13:00, Arena de São Paulo,São Paulo,Netherlands,2,0,Chile,Leroy Fer 77' Memphis Depay 90+2',
+5,Group C,Jun 14,13:00, Estádio Mineirão,Belo Horizonte,Colombia,3,0,Greece,Pablo Armero 5' Teofilo Gutiérrez 58' James Rodríguez 90+3',
+6,Group C,Jun 14,22:00, Arena Pernambuco,Recife,Côte d'Ivoire,2,1,Japan,Wilfried Bony 64' Gervinho 66', Keisuke Honda 16'
+21,Group C,Jun 19,13:00, Estádio Nacional Mané Garrincha,Brasília,Colombia,2,1,Côte d'Ivoire,"James Rodríguez 64', Juan Quintero 70'", Gervinho 73'
+22,Group C,Jun 19,19:00, Estádio das Dunas,Natal,Japan,0,0,Greece,,
+37,Group C,Jun 24,16:00, Arena Pantanal,Cuiabá,Japan,1,4,Colombia,Shinji Okazaki 45+1'," Juan Cuadrado 17' (pen.) Jackson Martínez 55', 82' James Rodríguez 90'"
+38,Group C,Jun 24,17:00, Estádio Castelão,Fortaleza,Greece,2,1,Côte d'Ivoire,Andreas Samaris 42' Georgios Samaras 90+3' (pen.), Wilfried Bony 74'
+7,Group D,Jun 14,16:00, Estádio Castelão,Fortaleza,Uruguay,1,3,Costa Rica,Edinson Cavani 24' (pen.), Joel Campbell 54' Oscar Duarte 57' Marcos Ureña 84'
+8,Group D,Jun 14,18:00, Arena Amazônia,Manaus,England,1,2,Italy,Daniel Sturridge 37', Claudio Marchisio 35' Mario Balotelli 50'
+23,Group D,Jun 19,16:00, Arena de São Paulo,São Paulo,Uruguay,2,1,England,"Luis Suárez 39', 85'", Wayne Rooney 75'
+24,Group D,Jun 20,13:00, Arena Pernambuco,Recife,Italy,0,1,Costa Rica,, Bryan Ruiz 44'
+39,Group D,Jun 24,13:00, Estádio das Dunas,Natal,Italy,0,1,Uruguay,, Diego Godín 81'
+40,Group D,Jun 24,13:00, Estádio Mineirão,Belo Horizonte,Costa Rica,0,0,England,,
+9,Group E,Jun 15,13:00, Estádio Nacional Mané Garrincha,Brasília,Switzerland,2,1,Ecuador,Admir Mehmedi 48' Haris Seferović 90+3', Enner Valencia 22'
+10,Group E,Jun 15,16:00, Estádio Beira-Rio,Porto Alegre,France,3,0,Honduras,"Noel Valladares 48' (o.g.) Karim Benzema 45' (pen.), 72'",
+25,Group E,Jun 20,16:00, Arena Fonte Nova,Salvador,Switzerland,2,5,France,Blerim Džemaili 81' Granit Xhaka 87', Olivier Giroud 17' Blaise Matuidi 18' Mathieu Valbuena 40' Karim Benzema 67' Moussa Sissoko 73'
+26,Group E,Jun 20,19:00, Arena da Baixada,Curitiba,Honduras,1,2,Ecuador,Carlo Costly 31'," Enner Valencia 34', 65'"
+41,Group E,Jun 25,16:00, Arena Amazônia,Manaus,Honduras,0,3,Switzerland,," Xherdan Shaqiri 6', 31', 71'"
+42,Group E,Jun 25,17:00, Estádio do Maracanã,Rio de Janeiro,Ecuador,0,0,France,,
+11,Group F,Jun 15,19:00, Estádio do Maracanã,Rio de Janeiro,Argentina,2,1,Bosnia-Herzegovina,Sead Kolašinac 3' (o.g.) Lionel Messi 65', Vedad Ibišević 85'
+12,Group F,Jun 16,16:00, Arena da Baixada,Curitiba,Iran,0,0,Nigeria,,
+27,Group F,Jun 21,13:00, Estádio Mineirão,Belo Horizonte,Argentina,1,0,Iran,Lionel Messi 90',
+28,Group F,Jun 21,18:00, Arena Pantanal,Cuiabá,Nigeria,1,0,Bosnia-Herzegovina,Peter Odemwingie 29',
+43,Group F,Jun 25,13:00, Estádio Beira-Rio,Porto Alegre,Nigeria,2,3,Argentina,"Ahmed Musa 4', 47'"," Lionel Messi 3', 45+1' Marcos Rojo 50'"
+44,Group F,Jun 25,13:00, Arena Fonte Nova,Salvador,Bosnia-Herzegovina,3,1,Iran,Edin Džeko 23' Miralem Pjanić 59' Avdija Vršajević 83', Reza Ghoochannejhad 82'
+13,Group G,Jun 16,13:00, Arena Fonte Nova,Salvador,Germany,4,0,Portugal,"Thomas Müller 12' (pen.), 45+1', 78', Mats Hummels 32'",
+14,Group G,Jun 16,19:00, Estádio das Dunas,Natal,Ghana,1,2,United States,André Ayew 82'," Clint Dempsey 1', John Brooks 86'"
+29,Group G,Jun 21,16:00, Estádio Castelão,Fortaleza,Germany,2,2,Ghana,54' Asamoah Gyan 63',
+30,Group G,Jun 22,18:00, Arena Amazônia,Manaus,United States,2,2,Portugal,"Jermaine Jones 64', Clint Dempsey 81'"," Nani 5', Varela 90+5'"
+45,Group G,Jun 26,13:00, Arena Pernambuco,Recife,United States,0,1,Germany,, Thomas Müller 55'
+46,Group G,Jun 26,13:00, Estádio Nacional Mané Garrincha,Brasília,Portugal,2,1,Ghana,John Boye 31' (o.g.) Cristiano Ronaldo 80', Asamoah Gyan 57'
+15,Group H,Jun 17,13:00, Estádio Mineirão,Belo Horizonte,Belgium,2,1,Algeria,Marouane Fellaini 70' Dries Mertens 80', Sofiane Feghouli 25' (pen.)
+16,Group H,Jun 17,18:00, Arena Pantanal,Cuiabá,Russia,1,1,South Korea,Alexander Kerzhakov 74', Lee Keunho 68'
+31,Group H,Jun 22,13:00, Estádio do Maracanã,Rio de Janeiro,Belgium,1,0,Russia,Divock Origi 88',
+32,Group H,Jun 22,16:00, Estádio Beira-Rio,Porto Alegre,South Korea,2,4,Algeria,Son Heung Min 50' Koo Jacheol 72', Islam Slimani 26' Rafik Halliche 28' Abdelmoumene Djabou 38' Yacine Brahimi 62'
+47,Group H,Jun 26,17:00, Arena de São Paulo,São Paulo,South Korea,0,1,Belgium,, Jan Vertonghen 78'
+48,Group H,Jun 26,17:00, Arena da Baixada,Curitiba,Algeria,1,1,Russia,Islam Slimani 60', Alexander Kokorin 6'
