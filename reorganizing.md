@@ -9,3 +9,7 @@
 	- Fixed typos in 1950 - 2010 format
 3/4/2018
 	- Added MLS results from 1996 to 2017
+3/5/2018
+	- Add MLS stats from 1996 to 2017
+3/6/2018
+	- Add Bundesliga results from 1964 to 2009 from http://www.rsssf.com/
