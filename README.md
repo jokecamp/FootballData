@@ -70,6 +70,8 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - <http://overlays.nbcsports.com/services/midttl/pl.asmx>
 - <http://www.theguardian.com/football/ng-interactive/2016/jun/01/euro-2016-the-complete-guide-to-every-squad-and-every-player-in-france>
 - <https://amj2012.shinyapps.io/wosostats/> Women's soccer online stats
+- http://www.rsssf.com/  The Rec.Sport.Soccer Statistics Foundation
+- https://www.mlssoccer.com/stats/ Major League Soccer (United States)
 
 ### Worth Investigating
 
