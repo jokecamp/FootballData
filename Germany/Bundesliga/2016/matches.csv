@@ -1,0 +1,154 @@
+round,home_team,home_score,away_score,away_team,notes
+1,Bayern,5,0,Hamburg,[Aug 15]
+1,Mainz,0,1,Ingolstadt,
+1,Leverkusen,2,1,Hoffenheim,
+1,Augsburg,0,1,Hertha,
+1,Darmstadt,2,2,Hannover,
+1,Bremen,0,3,Schalke,
+1,Dortmund,4,0,Mönchengladbach [Aug 16],
+1,Wolfsburg,2,1,Frankfurt,
+1,Stuttgart,1,3,Köln,
+2,Hertha,1,1,Bremen,[Aug 22]
+2,Köln,1,1,Wolfsburg,
+2,Frankfurt,1,1,Augsburg,
+2,Hannover,0,1,Leverkusen,
+2,Hoffenheim,1,2,Bayern,
+2,Schalke,1,1,Darmstadt,
+2,Hamburg,3,2,Stuttgart,[Aug 23]
+2,Ingolstadt,0,4,Dortmund,
+2,Mönchengladbach,1,2,Mainz,
+3,Wolfsburg,3,0,Schalke,[Aug 29]
+3,Köln,2,1,Hamburg,
+3,Mainz,3,0,Hannover,
+3,Augsburg,0,1,Ingolstadt,
+3,Darmstadt,0,0,Hoffenheim,
+3,Stuttgart,1,4,Frankfurt,
+3,Bayern,3,0,Leverkusen,[Aug 30]
+3,Dortmund,3,1,Hertha,
+3,Bremen,2,1,Mönchengladbach,
+4,Mönchengladbach,0,3,Hamburg,[Sep 12]
+4,Leverkusen,0,1,Darmstadt,
+4,Bayern,2,1,Augsburg,
+4,Ingolstadt,0,0,Wolfsburg,
+4,Hannover,2,4,Dortmund,
+4,Hertha,2,1,Stuttgart,
+4,Frankfurt,6,2,Köln,[Sep 13]
+4,Hoffenheim,1,3,Bremen,
+4,Schalke,2,1,Mainz,
+5,Mainz,3,1,Hoffenheim,[Sep 19]
+5,Köln,1,0,Mönchengladbach,
+5,Hamburg,0,0,Frankfurt,
+5,Darmstadt,0,3,Bayern,
+5,Wolfsburg,2,0,Hertha,
+5,Bremen,0,1,Ingolstadt,[Sep 20]
+5,Stuttgart,0,1,Schalke,
+5,Dortmund,3,0,Leverkusen,
+5,Augsburg,2,0,Hannover,
+6,Bayern,5,1,Wolfsburg,
+6,Ingolstadt,0,1,Hamburg,
+6,Hertha,2,0,Köln,
+6,Darmstadt,2,1,Bremen,[Sep 23]
+6,Leverkusen,1,0,Mainz,
+6,Mönchengladbach,4,2,Augsburg,
+6,Hannover,1,3,Stuttgart,
+6,Hoffenheim,1,1,Dortmund,
+6,Schalke,2,0,Frankfurt,
+7,Köln,1,1,Ingolstadt,[Sep 26]
+7,Mainz,0,3,Bayern,
+7,Augsburg,1,3,Hoffenheim,
+7,Stuttgart,1,3,Mönchengladbach,
+7,Wolfsburg,1,1,Hannover,
+7,Bremen,0,3,Leverkusen,
+7,Hamburg,0,1,Schalke,[Sep 27]
+7,Frankfurt,1,1,Hertha,
+7,Dortmund,2,2,Darmstadt,
+8,Darmstadt,2,3,Mainz,[Oct 3]
+8,Mönchengladbach,2,0,Wolfsburg,
+8,Ingolstadt,2,0,Frankfurt,
+8,Hannover,1,0,Bremen,
+8,Hertha,3,0,Hamburg,
+8,Hoffenheim,2,2,Stuttgart,[Oct 4]
+8,Schalke,0,3,Köln,
+8,Leverkusen,1,1,Augsburg,
+8,Bayern,5,1,Dortmund,
+9,Mainz,0,2,Dortmund,[Oct 17]
+9,Augsburg,0,2,Darmstadt,
+9,Hamburg,0,0,Leverkusen,
+9,Schalke,2,1,Hertha,
+9,Wolfsburg,4,2,Hoffenheim,
+9,Bremen,0,1,Bayern,
+9,Frankfurt,1,5,Mönchengladbach [Oct 18],
+9,Köln,0,1,Hannover,
+9,Stuttgart,1,0,Ingolstadt,
+10,Hoffenheim,0,1,Hamburg,[Oct 24]
+10,Mainz,1,3,Bremen,
+10,Leverkusen,4,3,Stuttgart,
+10,Bayern,4,0,Köln,
+10,Hannover,1,2,Frankfurt,
+10,Darmstadt,0,1,Wolfsburg,
+10,Ingolstadt,0,1,Hertha,[Oct 25]
+10,Dortmund,5,1,Augsburg,
+10,Mönchengladbach,3,1,Schalke,
+11,Frankfurt,0,0,Bayern,[Oct 31]
+11,Köln,0,0,Hoffenheim,
+11,Augsburg,3,3,Mainz,
+11,Hertha,1,4,Mönchengladbach,
+11,Schalke,1,1,Ingolstadt,
+11,Bremen,1,3,Dortmund,
+11,Wolfsburg,2,1,Leverkusen,[Nov 1]
+11,Stuttgart,2,0,Darmstadt,
+11,Hamburg,1,2,Hannover,
+12,Hannover,1,3,Hertha,[Nov 7]
+12,Mainz,2,0,Wolfsburg,
+12,Leverkusen,1,2,Köln,
+12,Bayern,4,0,Stuttgart,
+12,Mönchengladbach,0,0,Ingolstadt,
+12,Hoffenheim,0,0,Frankfurt,
+12,Darmstadt,1,1,Hamburg,[Nov 8]
+12,Dortmund,3,2,Schalke,
+12,Augsburg,1,2,Bremen,
+13,Hamburg,3,1,Dortmund,[Nov 21]
+13,Köln,0,0,Mainz,
+13,Mönchengladbach,2,1,Hannover,
+13,Frankfurt,1,3,Leverkusen,
+13,Wolfsburg,6,0,Bremen,
+13,Stuttgart,0,4,Augsburg,
+13,Schalke,1,3,Bayern,[Nov 22]
+13,Hertha,1,0,Hoffenheim,
+13,Ingolstadt,3,1,Darmstadt,
+14,Darmstadt,0,0,Köln,[Nov 28]
+14,Bayern,2,0,Hertha,
+14,Hannover,4,0,Ingolstadt,
+14,Hoffenheim,3,3,Mönchengladbach,
+14,Bremen,1,3,Hamburg,
+14,Mainz,2,1,Frankfurt,[Nov 29]
+14,Dortmund,4,1,Stuttgart,
+14,Leverkusen,1,1,Schalke,
+14,Augsburg,0,0,Wolfsburg,
+15,Schalke,3,1,Hannover,[Dec 5]
+15,Köln,0,1,Augsburg,
+15,Mönchengladbach,3,1,Bayern,
+15,Ingolstadt,1,1,Hoffenheim,
+15,Hamburg,1,3,Mainz,
+15,Hertha,2,1,Leverkusen,
+15,Wolfsburg,1,2,Dortmund,[Dec 6]
+15,Stuttgart,1,1,Bremen,
+15,Frankfurt,0,1,Darmstadt,
+16,Mainz,0,0,Stuttgart,[Dec 12]
+16,Bayern,2,0,Ingolstadt,
+16,Hoffenheim,1,0,Hannover,
+16,Darmstadt,0,4,Hertha,
+16,Wolfsburg,1,1,Hamburg,
+16,Bremen,1,1,Köln,
+16,Leverkusen,5,0,Mönchengladbach [Dec 13],
+16,Augsburg,2,1,Schalke,
+16,Dortmund,4,1,Frankfurt,
+17,Schalke,1,0,Hoffenheim,[Dec 19]
+17,Köln,2,1,Dortmund,
+17,Frankfurt,2,1,Bremen,
+17,Ingolstadt,0,1,Leverkusen,
+17,Hamburg,0,1,Augsburg,
+17,Hannover,0,1,Bayern,
+17,Stuttgart,3,1,Wolfsburg,[Dec 20]
+17,Hertha,2,0,Mainz,
+17,Mönchengladbach,3,2,Darmstadt,

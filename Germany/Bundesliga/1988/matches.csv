@@ -1,241 +1,307 @@
 round,home_team,home_score,away_score,away_team,notes
-1,Werder,3,2,Dortmund,"(Soya 34, Schütz 36, Klöckner 50 - Konietzka 1, 90)"
-1,Hertha,1,1,Nürnberg,(Schimmöller 63 p - Morlock 40)
-1,Münster,1,1,Hamburger,(Dörr 70 - Dörfel 86)
-1,Frankfurt,1,1,K'lautern,(Schämer 40 p - Neumann 38 p)
-1,Karlsruher,1,4,Meidericher,"(Metzger 83 - Krämer 29, 88, Cichy 33, Rahn 37)"
-1,S'brücken,0,2,1. FC Köln,"(Overath 22, C.Müller 43)"
-1,TSV 1860,1,1,B'schweig,(Brunnenmeier 17 - Gerwien 74)
-1,Schalke,2,0,Stuttgart,"(Koslowski 37, Gerhardt 42)"
-2,Dortmund,3,3,TSV 1860,"(Sturm 16, 80, Cyliax 27 - Grosser 49, 63,Küppers 9) [66 Stemmer (TSV) m/pen]"
-2,Nürnberg,3,0,Werder,"(H.Müller 41, Morlock 45, Strehl 75)"
-2,Hamburger,4,2,S'brücken,"(Dörfel 45, 55, 78, U.Seeler 70 - Krafczyk 29, 37)"
-2,K'lautern,2,3,Schalke,"(Schulz 28 o, Reitgaßl 87 - Berz 4, 69, Herrmann 58)"
-2,Meidericher,3,1,Frankfurt,"(Rahn 6, Heidemann 43, Krämer 57 - Trimhold 62)"
-2,1. FC Köln,4,0,Karlsruher,"(Sturm 16, 77, Overath 10, Hornig 68)"
-2,B'schweig,1,0,Münster,(Moll 15)
-2,Stuttgart,2,0,Hertha,"(Geiger 8, Waldner 30)"
-3,Werder,2,2,Stuttgart,"(Meyer 2, Zebrowski 63 - Wanner 10, Höller 11)"
-3,Hertha,2,2,K'lautern,"(Rühl 73, Faeder 79 - Richter 13, Prins 36)"
-3,Münster,4,2,Meidericher,"(Lulka 17, 30, 52, Tybussek 72 - Rahn 85,Versteeg 89)"
-3,Frankfurt,2,3,Nürnberg,"(Stein 8, Huberts 82 p - H.Müller 14, 77, Morlock 46)"
-3,Karlsruher,0,4,Hamburger,"(Dörfel 12, 44, U.Seeler 17, Giesemann 53)"
-3,S'brücken,2,2,B'schweig,"(Schönwälder 48, 57 - Gerwien 43, Moll 72 p)"
-3,TSV 1860,1,3,1. FC Köln,"(Auernhammer 55 p - Overath 48, Sturm 66 p,Schäfer 77)"
-3,Schalke,3,1,Dortmund,"(Berz 44, Gerhardt 51, Geisler 55 o - Wosab 6)"
-4,Dortmund,2,1,S'brücken,"(Wosab 78, Konietzka 82 - Krafczyk 18)"
-4,Nürnberg,2,2,Münster,"(Reisch 2 p, Morlock 54 - Lulka 32, Rummel 37)"
-4,Hamburger,3,0,Frankfurt,"(U.Seeler 3, 53, Dörfel 57)"
-4,K'lautern,3,0,Werder,"(Reitgaßl 27, 84, Richter 63)"
-4,Meidericher,1,3,Hertha,"(Sabath 75 - Beyer 73, 83, Faeder 15)(sent off: Rahn (Meidericher, 77))"
-4,Köln,2,2,Schalke,"(Hornig 1, Sturm 68 - Gerhardt 5, Libuda 32)"
-4,B'schweig,2,0,Karlsruher,"(Dulz 37, Gerwien 68)"
-4,Stuttgart,1,1,TSV 1860,(Arnold 24 - Küppers 17)
-5,Werder,1,1,Meidericher,(Schütz 80 - Versteeg 15)
-5,Hertha,0,3,1. FC Köln,"(C.Müller 2, 86, Sturm 71)"
-5,Münster,4,2,Stuttgart,"(Kiß 57, 68, Lulka 16, Langwitz 60 - Sieloff 6,Geiger 14)"
-5,Frankfurt,3,0,B'schweig,"(Solz 29, 87, Trimhold 8)"
-5,Karlsruher,1,3,Dortmund,"(Madl 46 - Kurrat 3, Rylewicz 11, Cyliax 83)"
-5,S'brücken,3,5,Nürnberg,"(Meng 16, Krafczyk 35, Hesse 78 - Strehl 43, 63,T.Wild 42, H.Müller 83, Dachlauer 90)"
-5,TSV 1860,3,0,K'lautern,"(Stemmer 50 p, Brunnenmeier 63, Küppers 76)[38 Küppers (TSV) m/pen]"
-5,Schalke,1,0,Hamburger,(Herrmann 26)
-6,Dortmund,3,0,Frankfurt,"(Emmerich 10, Redder 30, Konietzka 37)"
-6,Nürnberg,2,4,Karlsruher,"(H.Müller 3, Morlock 45 - Geisert 55, 65, 90,Madl 33)"
-6,Hamburger,5,1,Hertha,"(Tillich 24 o, U.Seeler 57, D.Seeler 60, Giesemann 61, Dörfel 70 - Faeder 45)"
-6,K'lautern,0,0,Münster,
-6,Meidericher,3,0,TSV 1860,"(Kubek 40, 82, Krämer 64)"
-6,1. FC Köln,4,3,Werder,"(Schäfer 66, 77, C.Müller 74, 79 - Klöckner 19, Meyer 59, Zebrowski 84)"
-6,Frankfurt,4,3,Schalke,"(Hosung 21, Wuttich 26, 68, Brase 55 - Gerhardt 28,Koslowski 57, Berz 73)"
-6,Stuttgart,3,1,S'brücken,"(Höller 12, 60, Zipperer 89 - Schönwälder 71)"
-7,Werder,4,2,Hamburger,"(Schütz 14, 47, 79, Zebrowski 10 - Dörfel 25,U.Seeler 55)"
-7,Hertha,1,2,B'schweig,"(Klimaschewski 44 - Wuttich 34, 36)"
-7,Münster,1,2,Dortmund,"(Pohlschmidt 42 - Brungs 65, Emmerich 82)"
-7,Frankfurt,2,1,Köln,"(Huberts 20, Trimhold 33 - C.Müller 41)"
-7,Karlsruher,0,3,Stuttgart,"(Arnold 22, Hoffmann 32, Höller 63)"
-7,S'brücken,2,4,K'lautern,"(Rinas 11, Vollmar 42 - Reitgaßl 38, 62, Richter 66, Prins 69)"
-7,TSV 1860,5,0,Nürnberg,"(Brunnenmeier 1, 27, 55, Kohlars 43, 46)"
-7,Schalke,2,2,Meidericher,"(Gerhardt 13, Libuda 42 - Lotz 38, Versteeg 55)"
-8,Dortmund,7,2,Hertha,"(Konietzka 44, 75, Emmerich 22, 60, Rylewicz 16 p,A.Schmidt 29, Sturm 52 - Rühl 25, Altendorff 88)"
-8,Nürnberg,0,2,Schalke,"(Matischak 25, 64)"
-8,Hamburger,5,0,TSV 1860,"(U.Seeler 19 p, 22, 76, Dörfel 38, Giesemann 72)"
-8,K'lautern,1,0,Karlsruher,(Gawletta 16)
-8,Meidericher,3,1,S'brücken,"(Krämer 33, 58, Versteeg 72 - Schönwälder 21)"
-8,1. FC Köln,3,0,Münster,"(Overath 22, 80, C.Müller 90)"
-8,B'schweig,1,1,Werder,(Wuttich 31 - Schütz 44)
-8,Stuttgart,0,0,Frankfurt,
-9,Nürnberg,0,5,K'lautern,"(Meier 36, 50, Richter 13, Prins 32, Schneider 47)[50 von Kummant (Nürnberg) m/pen]"
-9,Hertha,1,3,Frankfurt,"(Faeder 36 - Huberts 53, 60, Solz 85) [37Schimmöller (Hertha) m/pen]"
-9,Hamburger,2,1,B'schweig,"(Giesemann 21, 72, Wuttich 33)"
-9,Münster,0,0,TSV 1860,
-9,1. FC Köln,3,3,Meidericher,"(Overath 8, 88, C.Müller 68 - Krämer 30,Walenciak 32, Versteeg 80)"
-9,S'brücken,1,3,Karlsruher,"(Krafczyk 87 - Geisert 42, Stark 51, 86) [45Krafczyk (S'brücken) m/pen]"
-9,Stuttgart,2,1,Dortmund,"(Geiger 12, 80 - Sturm 61)"
-9,Schalke,2,3,Werder,"(Matischak 20, 54 - Ferner 31, 87, Schütz 79)"
-10,Dortmund,3,1,Nürnberg,"(Emmerich 26, 86, Wenauer 81 o - Albrecht 6)"
-10,Werder,2,2,Hertha,"(Hänel 22, Schimmöller 76 o - Klimaschewski 64,Beyer 85) [50 Schütz (Werder) m/pen]"
-10,K'lautern,1,3,Stuttgart,"(Entemann 19 o - Pulter 20 o, 31 o, Hoffmann 80)"
-10,Frankfurt,4,2,Schalke,"(Kreß 45, Solz 55, Trimhold 58, Huberts 73 p -Berz 7, Herrmann 74)"
-10,Meidericher,4,0,Hamburger,"(Walenciak 58, 70, Nolden 61, Sabath 67)"
-10,Karlsruher,4,2,Münster,"(Kentschke 8, Marx 9, Stark 41, Witlatschil 44 p -Rummel 12, 56)"
-10,B'schweig,1,1,1. FC Köln,(Moll 2 - Thielen 45)
-10,TSV 1860,7,1,S'brücken,"(E.Kraus 42, 72, 84, Küppers 65, Grosser 66,Heiß 75, Brunnenmeier 78 - Rinas 37)"
-11,Dortmund,9,3,K'lautern,"(A.Schmidt 18, 55, 86, Brungs 8, Emmerich 28, 85,Wosab 74, Konietzka 44, Strich 17 o - Gawletta35, 61, Meier 58)(sent off: Prins (K'lautern, 31))"
-11,Werder,4,1,Frankfurt,"(Meyer 5, 44, 78, Schütz 48 p - Stein 19)"
-11,1. FC Köln,4,1,Hamburger,"(Thielen 24, 74, C.Müller 52, 55 - Dörfel 18)"
-11,S'brücken,1,1,Münster,(Krafczyk 38 - Rummel 18)
-11,B'schweig,0,0,Meidericher,
-11,TSV 1860,1,0,Karlsruher,(Heiß 89)
-11,Stuttgart,1,0,Nürnberg,(Ferschl 37 o)
-11,Schalke,1,0,Hertha,"(Matischek 52)(sent off: Karnhof (Schalke, 40), Rehhagel(Hertha, 40))"
-12,Nürnberg,2,2,Köln,"(Albrecht 12, 32 - Sturm 4, C.Müller 67)"
-12,Hertha,3,2,Saarbrücken,"(Beyer 22, Faeder 53, Rühl 88 - Reuther 11, Rinas 38)"
-12,Hamburger,1,1,Stuttgart,(Boyens 52 - Hoffmann 5)
-12,Münster,2,2,Schalke,"(Kiß 29, Lulka 59 - Gerhardt 58, Koslowski 67)"
-12,K'lautern,2,1,B'schweig,"(Meier 41, 63 - Kaack 70)"
-12,Frankfurt,5,2,TSV 1860,"(H.Kraus 11, Horn 17, Stein 57, 62, Kreß 72 - E.Kraus 14, Stemmer 69 p)"
-12,Meidericher,3,3,Dortmund,"(Nolden 23 p, Walenciak 52, Lotz 76 - Konietzka4, 32, Emmerich 20)"
-12,Karlsruher,1,1,Werder,(H.Wild 9 - Zebrowski 55)
-13,Dortmund,2,3,1. FC Köln,"(Konietzka 7, 14 - Sturm 23, 33, Schäfer 36)[73 Emmerich (Dortmund) m/pen]"
-13,Werder,0,3,S'brücken,"(Krafczyk 12, 85, Schönwälder 52)"
-13,Nürnberg,2,0,Meidericher,"(Strehl 25, 64) [44 H.Müller (Nürnberg) m/pen,24 Reisch (Nürnberg) m/pen]"
-13,Hertha,2,3,Karlsruher,"(Beyer 20, Groß 55 - Saida 15, Stark 45,Geisert 76)"
-13,K'lautern,3,2,Hamburger,"(Richter 4, 84, Meier 32 - D.Seeler 78, U.Seeler 83)"
-13,Frankfurt,3,0,Münster,"(Solz 73, Bockish 80 o, Horn 83)"
-13,Stuttgart,5,0,B'schweig,"(Höller 41, 82, Waldner 23, Hoffmann 34 p,Arnold 87)"
-13,Schalke,2,1,TSV 1860,"(Libuda 17, Matischak 28 - Brunnenmeier 87)"
-14,Münster,1,3,Werder,"(Rummel 67 - Ferner 23, Meyer 28, Zebrowski 90)"
-14,Meidericher,3,0,Stuttgart,"(Krämer 4, Rahn 49, Versteeg 68)"
-14,Karlsruher,1,1,Schalke,(H.Wild 80 - Herrmann 70)
-14,1. FC Köln,5,1,K'lautern,"(Thielen 33, 49, 62, 67, 73 - Meier 69)"
-14,S'brücken,0,4,Frankfurt,"(Solz 4, 72, 80, Trimhold 30)"
-14,B'schweig,2,0,Nürnberg,"(Moll 46, 79 p)"
-14,TSV 1860,1,2,Hertha,"(Rebele 71 - Waclawiak 48, Klimaschewski 79)"
-15,Dortmund,3,0,B'schweig,"(Brungs 27, Konietzka 58, Wosab 82)"
-15,Werder,4,1,TSV 1860,"(Meyer 44, 86, Thun 57, Soya 64 - Brunnenmeier 26)"
-15,Nürnberg,3,2,Hamburger,"(Strehl 10, Morlock 67, Flachenecker 78 -U.Seeler 35, Kreuz 52)"
-15,Hertha,2,0,Münster,"(Steinert 35, 88)"
-15,K'lautern,1,1,Meidericher,(Neumann 58 - Nolden 75 p)
-15,Frankfurt,0,3,Karlsruher,"(Geisert 33, Madl 53, Kentschke 73)"
-15,Stuttgart,0,1,1. FC Köln,(Hornig 70)
-15,Schalke,4,1,S'brücken,"(Matischek 48, 55, 56, Berz 74 - Hölzenbein 84)[Dec 21]"
-15,Hamburger,2,1,Dortmund,"(U.Seeler 51, 85 - Wosab 7) [56 Rylewicz (Dortmund)m/pen]"
-16,Dortmund,4,3,Werder,"(Brungs 14, 19, Konietzka 16, 35 - Hänel 63,Zebrowski 75, Schütz 84 p) [81 Wosab (Dortmund)m/pen]"
-16,Nürnberg,2,3,Hertha,"(Flachenecker 28, Strehl 39 - Waclawiak 2, 21, 49)"
-16,Hamburger,5,0,Münster,"(U.Seeler 24, 71, 84, Piechowiak 36, Giesemann 46)"
-16,K'lautern,1,1,Frankfurt,(Reitgaßl 13 - Stein 40)
-16,Meidericher,2,0,Karlsruher,"(Lotz 7, Rahn 35)"
-16,1. FC Köln,1,3,S'brücken,"(C.Müller 14 - Schönwälder 27, 32, Meng 38)"
-16,B'schweig,0,1,TSV 1860,(Kohlars 22)
-17,Werder,2,1,Nürnberg,"(Thun 1, Hänel 67 - T.Wild 14)"
-17,Hertha,0,2,Stuttgart,"(Höller 54, Waldner 84) [17 Altendorff (Hertha)m/pen]"
-17,Münster,0,2,B'schweig,"(Hosung 83, Dulz 87)"
-17,Karlsruher,2,2,1. FC Köln,"(Netzger 76, Saida 89 - C.Müller 9, Schäfer 82)"
-17,TSV 1860,6,1,Dortmund,"(E.Kraus 31, 39, Brunnenmeier 43, 47, Kohlars 27,Küppers 67 - Brungs 3)(sent off: E.Kraus (TSV, 88))"
-17,Schalke,4,0,K'lautern,"(Matischak 9, 20, 86, Berz 51)"
-18,Dortmund,3,0,Schalke,"(Emmerich 51, 89, Konietzka 54)"
-18,Nürnberg,1,0,Frankfurt,(Dachlauer 12)
-18,Hamburger,1,1,Karlsruher,(U.Seeler 58 - Netzger 28)
-18,Meidericher,0,0,Münster,
-18,1. FC Köln,2,2,TSV 1860,"(Sturm 35 p, Schäfer 64 - Kohlars 14, 57)"
-19,Werder,2,0,K'lautern,"(Schimeczek 8, Thun 73)"
-19,Karlsruher,3,1,B'schweig,"(Geisert 3, Kentschke 56, Witlatschil 65 p -Hosung 87)"
-19,Münster,0,1,Nürnberg,(T.Wild 46)
-19,Schalke,2,3,1. FC Köln,"(Koslowski 49, Gerhardt 79 - Overath 28, C.Müller 30, Schäfer 73)[Feb 8]"
-19,Frankfurt,2,2,Meidericher,"(Lindner 32, Stein 82 - Krämer 2, Lotz 65)"
-19,S'brücken,1,1,Hamburger,(Krafczyk 54 - U.Seeler 78)
-19,K'lautern,3,0,Hertha,"(Neumann 3, Meier 49, Reitgaßl 55)"
-19,Stuttgart,2,0,Schalke,"(Höller 6, Waldner 70)"
-20,Dortmund,3,2,Karlsruher,"(Rylewicz 27, 48, Konietzka 40 - Kentschke 69)"
-20,Nürnberg,2,0,S'brücken,(Strehl 29 p - T.Wild 72)
-20,Hamburger,3,1,Schalke,"(Wulf 61, U.Seeler 73, Dörfel 80 - Libuda 81)"
-20,K'lautern,2,1,TSV 1860,"(Neumann 15, Prins 60 - Brunnenmeier 51 p)"
-20,Meidericher,1,0,Werder,(Nolden 70 p)
-20,1. FC Köln,3,1,Hertha,"(C.Müller 17, Schäfer 38, Thielen 84 - Altendorff 50)"
-20,B'schweig,0,3,Frankfurt,"(Huberts 28 p, 50, Solz 35)"
-20,Stuttgart,0,3,Münster,"(Pohlschmidt 17, Rummel 78, Lungwitz 86)"
-21,Werder,1,1,1. FC Köln,(Schütz 45 p - Pott 68)
-21,Hertha,1,2,Hamburger,"(Faeder 77 - Bähre 11, Dörfel 76)"
-21,Münster,1,0,K'lautern,(Bockish 47 p)
-21,Frankfurt,2,1,Dortmund,"(Huberts 26, Solz 72 - Konietzka 70)"
-21,Karlsruher,1,3,Nürnberg,"(H.Wild 16 - Strehl 31, 68, T.Wild 24)"
-21,S'brücken,0,1,Stuttgart,(Höller 83) [48 Vollmar (Stuttgart) m/pen]
-21,Schalke,2,0,B'schweig,"(Matischak 22, Gerhardt 53)"
-22,Dortmund,0,0,Münster,
-22,Nürnberg,2,2,TSV 1860,"(Strehl 22, Billmann 87 - Brunnenmeier 32, Heiß 60)"
-22,K'lautern,2,4,S'brücken,"(Reitgaßl 2, Neumann 56 - Schönwälder 17, 57,Krafczyk 38, Gawletta 82 o)"
-22,Meidericher,3,0,Schalke,"(Krämer 8, Rahn 18, Versteeg 57)"
-22,1. FC Köln,1,1,Frankfurt,"(Benthaus 12 - Huberts 81)(sent off: C.Müller (Köln, 88))"
-22,Stuttgart,4,1,Karlsruher,"(Geiger 11, 42, Eisele 33, Höller 55 - H.Wild 72)"
-23,Werder,2,3,B'schweig,"(Zebrowski 68, Schütz 85 p - Schrader 8, 14,Dulz 80)[Mar 7]"
-23,Hertha,0,0,Dortmund,[38 Wosab (Dortmund) m/pen]
-23,Münster,0,2,1. FC Köln,"(Thielen 29, 36)"
-23,Frankfurt,3,2,Stuttgart,"(Schämer 21, 38, Horn 49 - Eisele 24, Höller 85)"
-23,Karlsruher,5,1,K'lautern,"(Thimm 36, 86, 88, Witlatschil 14 p, Kentschke 66 -Reitgaßl 61)"
-23,S'brücken,0,2,Meidericher,"(Lotz 18, Versteeg 82)"
-23,TSV 1860,9,2,Hamburger,"(Heiß 4, 8, Brunnenmeier 16, 57, 80, Küppers 59, 75, Kohlars 49, 89 - Dörfel 9, U.Seeler 71)"
-23,Schalke,4,1,Nürnberg,"(Matischak 25, 70, 87, Gerhardt 42 - H.Müller 38)"
-24,Dortmund,7,1,Stuttgart,"(Konietzka 8, 55, 59, 88, Emmerich 70, 74, Brungs26 - Geiger 15)"
-24,Werder,1,0,Schalke,(Zebrowski 28) [28 Schütz (Werder) m/pen]
-24,K'lautern,3,1,Nürnberg,"(Neumann 7 p, Prins 26, Meier 29 - Strehl 57)(sent off: Gawletta (K'lautern, 90))"
-24,Frankfurt,4,0,Hertha,"(Huberts 56, 64, 49 o, Solz 84)"
-24,Meidericher,2,2,1. FC Köln,"(Krämer 3, Nolden 17 p - Sturm 61, Weber 67)[25 Sturm (Köln) m/pen]"
-24,Karlsruher,2,2,S'brücken,"(Stark 66, H.Wild 83 - Schönwälder 14, 22)(sent off: Hesse (S'brücken, 41))"
-24,B'schweig,2,1,Hamburger,"(Wuttich 60, Schrader 80 - Dörfel 86)"
-24,TSV 1860,3,1,Münster,"(Luttrop 51, Brunnenmeier 60, E.Kraus 80 -Pohlschmidt 35)"
-25,S'brücken,1,2,TSV 1860,"(Vollmar 51 - Auernhammer 8, Luttrop 81)"
-25,Stuttgart,4,0,K'lautern,"(Höller 7, Geiger 41, Wanner 57, Hoffmann 66)[Mar 25]"
-25,TSV 1860,1,1,Stuttgart,(Kohlars 27 - Waldner 64)
-25,Nürnberg,4,0,Dortmund,"(Strehl 24, 39, 76, Morlock 55)"
-25,Hamburger,3,3,Meidericher,"(Vogler 74, Boyens 80, Dörfel 89 - Gecks 26, 56, 73)"
-25,Münster,0,0,Karlsruher,
-25,1. FC Köln,4,1,B'schweig,"(Thielen 60, 62, Overath 28, Hornig 79 - Hosung 58)"
-25,Schalke,1,2,Eintracht,"(Karnhof 89 - Schämer 48, Huberts 81)[Mar 26]"
-25,B'schweig,3,1,Saarbrücken,"(Wuttich 5, Moll 55 p, 72 p - Vollmar 2)"
-25,Hamburger,1,1,Werder,(U.Seeler 2 - Jung 13)[Mar 27]
-25,Hertha,5,2,Meidericher,"(Steinert 1, 4, Altendorff 39, 78, Rühl 46 -Lotz 9, Walenciak 90) [78 Rühl (Hertha) m/pen][Mar 30]"
-25,Stuttgart,2,0,Werder,"(Höller 13, Zipperer 71)"
-25,Frankfurt,2,2,Hamburger,"(Huberts 41, Lindner 83 - U.Seeler 44, 54)[58 U.Seeler (Hamburger) m/pen]"
-25,B'schweig,1,1,Hertha,(K.Meyer 44 - Faeder 28)
-25,S'brücken,2,1,Dortmund,"(Rinas 78, Krafczyk 81 - Emmerich 62) [64Steinmann (S'brücken) m/pen][Mar 31]"
-25,TSV 1860,0,0,Meidericher,
-26,Nürnberg,0,0,Stuttgart,[17 Strehl (Nürnberg) m/pen]
-26,Hertha,1,0,Schalke,(Rühl 41) [78 Beyer (Hertha) m/pen]
-26,Hamburger,1,1,1. FC Köln,(Kreuz 41 p - Weber 83)
-26,Münster,2,1,S'brücken,"(Bockish 33, Rummel 46 - Krafczyk 25)"
-26,K'lautern,0,1,Dortmund,(Konietzka 42)
-26,Frankfurt,7,0,Werder,"(Huberts 4, 55, 86 p, 87, Stein 8, 54, 66)"
-26,Meidericher,5,1,B'schweig,"(Gecks 4, 53, Walenciak 8, 65, Versteeg 23 -W.Schmidt 6)"
-26,Karlsruher,1,0,TSV 1860,(Netzger 20)
-27,Dortmund,0,0,Meidericher,
-27,Werder,0,0,Karlsruher,[76 Witlatschil (Karlsruher) m/pen]
-27,1. FC Köln,5,0,Nürnberg,"(Schäfer 18, 47, Sturm 22, Weber 82, Thielen 88)"
-27,S'brücken,3,0,Hertha,"(Schönwälder 11, Krafczyk 29, Maas 38)"
-27,B'schweig,0,1,K'lautern,(Meier 24)
-27,TSV 1860,1,1,Frankfurt,(Grosser 53 - H.Kraus 50)
-27,Stuttgart,2,2,Hamburger,"(Höller 44, Geiger 65 - U.Seeler 23, Kreuz 71)"
-27,Schalke,1,2,Münster,"(Gerhardt 52 - Lulka 30, Rummel 62)[Apr 14]"
-27,Hertha,5,2,Werder,"(Borchert 8, 44, 62, Faeder 48, Klimaschewski 49 - Klöckner 11, Hänel 74)"
-28,Hamburger,7,3,K'lautern,"(U.Seeler 68, 78, 86, Dehn 35, 52, Meier 85,Kreuz 88, Boyens 90 - Wrenger 50, Richter 53)"
-28,Münster,1,3,Frankfurt,"(Lulka 26 - Solz 13, 87, Trimhold 38)"
-28,Meidericher,0,0,Nürnberg,
-28,Karlsruher,1,1,Hertha,(Witlatschil 64 - Altendorff 53)
-28,1. FC Köln,5,2,Dortmund,"(Sturm 44, Thielen 61, 70, Hornig 63, Wilden 86 -A.Schmidt 22, Brungs 54)"
-28,S'brücken,3,2,Werder,"(Hesse 43 p, Steinmann 78, Reuthel 85 - Soya 73, 87)"
-28,B'schweig,2,0,Stuttgart,"(Moll 3, Schrader 11)"
-28,TSV 1860,7,1,Schalke,"(Luttrop 10, 79, Kohlars 56, 76, E.Kraus 41,Grosser 44, Heiß 53 - Berz 38)"
-29,Werder,4,2,Münster,"(Meyer 7, Soya 22, Klöckner 72, Thun 90 - Pohlschmidt 12, Bockish 73)"
-29,Nürnberg,1,0,B'schweig,(Strehl 54)
-29,Hertha,3,1,TSV 1860,"(Rühl 23, Altendorff 58, Steinert 80 - Brunnenmeier 3)"
-29,K'lautern,3,3,1. FC Köln,"(Prins 17, Richter 23, Wrenger 58 - Hornig 10,Sturm 27 p, Schäfer 36)"
-29,Frankfurt,3,1,S'brücken,"(H.Kraus 42, 43, Solz 7 - Krafczyk 35)"
-29,Stuttgart,1,2,Meidericher,"(Wanner 17 - Rahn 26, Versteeg 44)"
-29,Schalke,2,1,Karlsruher,"(Rausch 73, Koslowski 78 - Kentschke 21)[May 5]"
-29,Dortmund,5,2,Hamburger,"(Emmerich 38, 64, Rylewicz 31, Brungs 55, Redder 85 - U.Seeler 56, 86)"
-30,Hamburger,2,2,Nürnberg,"(U.Seeler 31, Dehn 55 - T.Wild 10, Morlock 53)"
-30,Münster,4,2,Hertha,"(Pohlschmidt 6, 75, Lulka 40, Eder 70 o -Faeder 24, Steinert 27)"
-30,Meidericher,3,0,K'lautern,"(Rahn 3, Nolden 8 p, Lotz 86)"
-30,Karlsruher,1,2,Frankfurt,"(Kahn 86 - Schämer 40, Huberts 78)"
-30,1. FC Köln,2,1,Stuttgart,"(Schäfer 55, Hornig 84 - Höller 4)"
-30,S'brücken,1,1,Schalke,(Meng 45 - Matinschak 80)
-30,B'schweig,2,0,Dortmund,"(Dulz 46, W.Schmidt 68)"
-30,TSV 1860,3,2,Werder,"(Thun 45, 77, Luttrop 4 - Brunnenmeier 56, 79 p)"
+1,Leverkusen,1,0,Mannheim,(Schreier 37)
+1,Uerdingen,0,2,Nürnberg,"(Eckstein 31, Stenzel 88)"
+1,Bochum,1,2,M'gladbach,"(Leifeld 88 - H-G.Bruns 31, Rahn 39)[Aug 1]"
+1,Dortmund,1,3,Bayern,"(Mill 52 - Rummenigge 35, Wohlfahrt 50, Lunde 78)"
+1,Stuttgart,2,1,Homburg,"(Walter 44, Sigurvinsson 48 - Westerbeek 61)"
+1,K'lautern,2,2,Frankfurt,"(Kohr 16, 45 - M.Schulz 71, Turowski 73)"
+1,Karlsruher,1,1,1. FC Köln,(Harforth 11 p - Geilenkirchen 50)
+1,Hannover,0,1,Werder,(Schaaf 17)
+1,Hamburger,5,2,Schalke,"(Kastl 58, 61, 77, Hinz 64, Labbadia 88 - Bistram 69, Thon 84)"
+2,Mannheim,1,0,Dortmund,(Klotz 74)[Aug 7]
+2,1. FC Köln,2,1,K'lautern,"(T.Allofs 37, Janßen 87 p - Kohr 68)(sent off: Kohr (Köln, 86))"
+2,Frankfurt,0,1,Bochum,(Leifeld 54)[Aug 8]
+2,Werder,2,0,Karlsruher,"(Ordenewitz 36, Meier 85)"
+2,M'gladbach,2,1,Uerdingen,"(Criens 52, Frontzeck 80 - Mathy 31)"
+2,Nürnberg,0,0,Stuttgart,
+2,Homburg,1,1,Leverkusen,(W.Schäfer 27 - de Keyser 75)
+2,Bayern,6,0,Hamburger,"(Matthäus 25, 87, J.Wegmann 45, 84, Rummenigge 54,Wohlfahrt 78)"
+2,Schalke,0,2,Hannover,"(Drews 47, Dierßen 65)"
+3,Dortmund,2,0,Homburg,"(Dickel 21, 27)"
+3,Uerdingen,3,0,Frankfurt,"(Mathy 61, 68, Prytz 77)[Aug 15]"
+3,Bayern,2,1,Mannheim,"(J.Wegmann 10, Wohlfahrt 25 - Trieb 69)"
+3,Leverkusen,1,1,Nürnberg,(Schreier 51 - Schwabl 22)
+3,Stuttgart,6,0,M'gladbach,"(Sigurvinsson 2, 86, Klinsmann 24, 50, 57, Walter 88)"
+3,Bochum,0,0,1. FC Köln,
+3,K'lautern,0,0,Werder,
+3,Karlsruher,4,1,Schalke,"(Glesius 8, Süß 38, Patzke 49, Pilipovic 50 -Hermann 90)(sent off: Marquardt (Schalke, 75))[Aug 18]"
+3,Hamburger,3,3,Hannover,"(Labbadia 8, Kaltz 31 p, Bein 72 - Kohn 50,Drews 14, 69)"
+4,Frankfurt,0,2,Stuttgart,"(Walter 66, 76)[Aug 21]"
+4,M'gladbach,2,1,Leverkusen,"(Willaarts 68, Rahn 76 - Täuber 44)"
+4,Nürnberg,0,0,Dortmund[Aug 22],
+4,Werder,0,0,Bochum,
+4,1. FC Köln,2,0,Uerdingen,"(Povlsen 47, Littbarski 63)"
+4,Homburg,3,2,Bayern,"(Freiler 30, W.Schäfer 67, 77 - Matthäus 49,J.Wegmann 87)"
+4,Mannheim,2,2,Hamburger,"(Lux 73, Trieb 88 - Okonski 59, 68)"
+4,Hannover,3,2,Karlsruher,"(Reich 25 p, 72 p, Willmer 90 - Glesius 12, 69)"
+4,Schalke,5,0,K'lautern,"(Edelmann 23, 78, Thon 48, 58, Wollitz 79)"
+5,Mannheim,0,0,Homburg,
+5,Leverkusen,1,3,Frankfurt,"(Buncol 4 - Möller 55, 76, Smolarek 80)"
+5,Stuttgart,0,2,1. FC Köln,"(Povlsen 19, T.Allofs 71)"
+5,Uerdingen,1,2,Werder,"(Kuntz 69 - Riedle 74, 80) [85 Ordenewitz (Köln)m/pen]"
+5,Bochum,1,3,Schalke,"(Kree 80 - Patzke 57, Thon 75, Wollitz 82)(sent off: Jackisch (Bochum, 34))[Aug 26]"
+5,Bayern,1,0,Nürnberg,(Pflügler 31)
+5,Dortmund,1,1,M'gladbach,(Zorc 46 - Willaarts 17)
+5,K'lautern,4,1,Hannover,"(Hartmann 20, 87, Wuttke 64, Foda 75 - Hobday 35)"
+5,Hamburger,0,4,Karlsruher,"(Glesius 30, 38, Hermann 68, 82)"
+6,Frankfurt,0,0,Dortmund,
+6,Homburg,0,2,Hamburger,"(Bein 33, Okonski 78)"
+6,Karlsruher,1,0,K'lautern,(Pilipovic 33)
+6,Hannover,1,0,Bochum,(Reich 39)
+6,Schalke,2,1,Uerdingen,"(Götz 14, 58 - Kuntz 30)[Sep 2]"
+6,Werder,5,1,Stuttgart,"(Meier 11, Ordenewitz 45, 61, 85 p, Buchwald 51 o -Allgöwer 83 p)"
+6,1. FC Köln,0,0,Leverkusen,
+6,M'gladbach,2,0,Bayern,"(Rahn 37, 45 p)"
+6,Nürnberg,1,1,Mannheim,(Andersen 27 - Neun 28)
+7,Bochum,5,0,Karlsruher,"(Leifeld 12, 77, Nehl 28, 62, Reekers 33)"
+7,Hamburger,5,1,K'lautern,"(Dittmer 14, Kroth 59, Labbadia 63, 73, Laubinger83 - Kohr 71)[Sep 5]"
+7,Homburg,0,4,Nürnberg,"(Andersen 29, 42, Dittwar 80, Schwabl 89)"
+7,Mannheim,0,3,M'gladbach,"(Thiele 12, Criens 25, Hochstätter 51)"
+7,Bayern,3,2,Frankfurt,"(Nachtweih 44, Augenthaler 54, Wohlfahrt 62 -Smolarek 2, F.Schulz 37)"
+7,Dortmund,1,2,1. FC Köln,"(Dickel 88 - Povlsen 48, T.Allofs 73)"
+7,Leverkusen,1,3,Werder,"(Schreier 25 - Ordenewitz 53, 90, Burgsmüller 67)"
+7,Stuttgart,4,0,Schalke,"(Walter 36, 71 p, 73, Klinsmann 84)"
+7,Uerdingen,1,0,Hannover,(Kuntz 63)
+8,Werder,4,0,Dortmund,"(Burgsmüller 18, 25, Riedle 33, Ordenewitz 53 p)"
+8,Frankfurt,5,1,Mannheim,"(Möller 12, Klepper 25, Balzis 56, Smolarek 58, Körbel 84 - Bockenfeld 69) [28 Neun (Mannheim) m/pen]"
+8,K'lautern,4,2,Bochum,"(Kohr 19, M.Schulz 52, Kree 60 o, Wuttke 89 -Leifeld 11, Epp 20)[Sep 12]"
+8,1. FC Köln,3,1,Bayern,"(T.Allofs 16, Engels 27, Povlsen 45 - Brehme 13)(sent off: Augenthaler (Bayern, 67))"
+8,M'gladbach,2,0,Homburg,"(Bakalorz 10, Hochstätter 33)"
+8,Nürnberg,2,2,Hamburger,"(Eckstein 51, Jakobs 72 o - Labbadia 56,von Heesen 64)"
+8,Karlsruher,1,0,Uerdingen,(Hermann 47)
+8,Hannover,3,3,Stuttgart,"(A.Müller 13, Reich 34, Kohn 52 - Geils 48 o,Schütterle 50, Schröder 80)"
+8,Schalke,2,2,Leverkusen,"(Thon 24, Falkenmayer 92 - Patzke 30, Täuber 45)"
+9,Homburg,5,2,Frankfurt,"(Keim 47, Westerbeek 52, Kruszynski 55, Blättel59, 67 - Detari 43, Smolarek 80)[Sep 18]"
+9,Mannheim,0,0,1. FC Köln,"(sent off: Povlsen (Köln, 45))"
+9,Uerdingen,3,1,K'lautern,"(Kuntz 10, Prytz 57, Funkel 87 - Friedmann 26)[Sep 19]"
+9,Nürnberg,3,0,M'gladbach,"(Andersen 39, Grahammer 52, Eckstein 80)"
+9,Bayern,2,1,Werder,"(Pflügler 75, Rummenigge 82 - Meier 88)"
+9,Dortmund,4,1,Schalke,"(Dickel 17, Zorc 26, 28, Mill 66 - Goldbaek 61)"
+9,Leverkusen,2,0,Hannover,"(Falkenmayer 1, Schreier 24)"
+9,Stuttgart,2,2,Karlsruher,"(Allgöwer 5, Klinsmann 35 - Spies 48, Heisig 82)"
+9,Hamburger,2,2,Bochum,"(von Heesen 8, Dittmer 62 - Knäbel 24, Kree 53)"
+10,Werder,3,1,Mannheim,"(Riedle 25, Meier 66, Burgsmüller 69 - Bührer 18)"
+10,Hannover,2,3,Dortmund,"(Hobday 57, Reich 66 - Kleppinger 34, Mill 53,Zorc 76)[Sep 26]"
+10,1. FC Köln,3,0,Homburg,"(Steiner 35, 73, Povlsen 67)"
+10,Frankfurt,3,1,Nürnberg,"(Smolarek 26, F.Schulz 84, Binz 88 - Eckstein 33)"
+10,M'gladbach,8,2,Hamburger,"(Rahn 20, 51, Hochstätter 21, Beiersdorfer 24 o,Criens 74, 76, Frontzeck 86, Thiele 88 - Labbadia 8,Kaltz 47 p)"
+10,K'lautern,2,1,Stuttgart,"(Hartmann 26, Lelle 49 - Klinsmann 83)"
+10,Karlsruher,1,1,Leverkusen,(Kreuzer 3 - Rolff 54)
+10,Schalke,1,4,Bayern,"(Götz 87 - Pflügler 9, Rummenigge 20, 79, Kögl 25)[Sep 28]"
+10,Bochum,1,4,Uerdingen,"(Heinemann 87 - Kuntz 9, 84, Bommer 74 p, 80)"
+11,M'gladbach,3,1,Frankfurt,"(Hochstätter 19, Bakalorz 35, Dreßen 74 -F.Schulz 16)"
+11,Nürnberg,1,2,1. FC Köln,"(Schwabl 53 - T.Allofs 39, Häßler 83)"
+11,Homburg,1,1,Werder,(Freiler 41 - Burgsmüller 80)
+11,Mannheim,2,0,Schalke,"(Bockenfeld 17, Heck 90)"
+11,Bayern,4,1,Hannover,"(Wohlfahrt 13, 42, Nachtweih 26, Brehme 75 - Reich 64)"
+11,Dortmund,0,2,Karlsruher,"(Glesius 44, Raab 80)"
+11,Leverkusen,2,0,K'lautern,"(Götz 26, Falkenmayer 74 p) [54 Schreier(Leverkusen) m/pen]"
+11,Stuttgart,3,0,Bochum,"(Klinsmann 36, Walter 62, 77)"
+11,Hamburger,3,1,Uerdingen,"(Kaltz 42, Spörl 47, Okonski 52 - Prytz 76)"
+12,Uerdingen,2,5,Stuttgart,"(Herget 32, Kirchhoff 54 - Perfetto 11, 84,Schütterle 51, Klinsmann 78, Mirwald 88)"
+12,Bochum,3,1,Leverkusen,"(Nehl 17, 52, Leifeld 28 - Cha 55)"
+12,K'lautern,3,1,Dortmund,"(Hartmann 21, Kohr 41, Emmerling 64 - Wolf 88 o)[Oct 10]"
+12,Werder,1,0,Nürnberg,(Ordenewitz 54) [40 Ordenewitz (Werder) m/pen]
+12,1. FC Köln,4,1,M'gladbach,"(Povlsen 10, 27, Herbst 68 o, Häßler 80 - Rahn 37)"
+12,Frankfurt,3,0,Hamburger,"(Schulz 15, Balzis 49, Kraaz 70)"
+12,Karlsruher,0,1,Bayern,(Rummenigge 64)
+12,Hannover,3,1,Mannheim,"(Hartmann 6, Surmann 80, Finke 90 o - Dickgießer 7)"
+12,Schalke,3,0,Homburg,"(Götz 44, 75, Goldbaek 90)"
+13,Frankfurt,1,1,1. FC Köln,(Olsen 18 o - Görtz 46) [12 Engels (Köln) m/pen]
+13,M'gladbach,1,2,Werder,"(Bakalorz 11 - Ordenewitz 17, Sauer 48)"
+13,Nürnberg,1,1,Schalke,(Stenzel 28 - Giesel 75)
+13,Homburg,1,1,Hannover,(Jambo 37 - Surmann 20)
+13,Mannheim,4,1,Karlsruher,"(Bührer 17, 45, 60, Lux 72 - Kreuzer 68)(sent off: Schön (Mannheim, 90))"
+13,Bayern,4,2,K'lautern,"(J.Wegmann 7, 36, Wohlfahrt 14, Dorfner 30 -Kohr 35, 52)"
+13,Leverkusen,0,0,Uerdingen,
+13,Hamburger,3,0,Stuttgart,"(Kroth 19, von Heesen 35, Okonski 80)"
+14,Werder,2,0,Frankfurt,"(Votava 44, Schlindwein 45 o)(sent off: Sauer (Werder, 75))[Oct 31]"
+14,1. FC Köln,1,0,Hamburger,(T.Allofs 6)
+14,Stuttgart,4,1,Leverkusen,"(Klinsmann 16, 20, Schröder 51, 84 - Cha 8)"
+14,Uerdingen,2,1,Dortmund,"(Mathy 35, Prytz 71 p - Pagelsdorf 51 p)(sent off: Thommessen (Uerdingen, 72))"
+14,Bochum,0,2,Bayern,"(Flick 69, J.Wegmann 89) [17 Woelk (Bochum) m/pen]"
+14,K'lautern,2,2,Mannheim,"(Roos 71, Kohr 88 - Bührer 23, 52)"
+14,Karlsruher,2,1,Homburg,"(Hermann 50, Heisig 75 - Freiler 26)"
+14,Hannover,1,2,Nürnberg,"(Reich 68 p - Philipkowski 25, Reuter 30 p)"
+14,Schalke,0,3,M'gladbach,"(Dreßen 25, Hochstätter 70, Thiele 73)"
+15,Mannheim,1,1,Bochum,(Klotz 44 - Epp 64)[Nov 7]
+15,Werder,2,1,1. FC Köln,"(Neubarth 15, Votava 71 - Kohler 5)(sent off: Engels (Köln, 83))"
+15,Frankfurt,2,0,Schalke,"(Möller 2, Balzis 60)"
+15,M'gladbach,1,2,Hannover,"(Dreßen 52 - A.Müller 75, Palasz 87)"
+15,Nürnberg,4,0,Karlsruher,"(Dittwar 9, Schwabl 30, Stenzel 59, Grahammer 73)[54 Reuter (Nürnberg) m/pen]"
+15,Homburg,3,2,K'lautern,"(Stickroth 7, Dooley 44, Freiler 88 - Allievi 14,Roos 52)"
+15,Bayern,3,0,Uerdingen,"(Hughes 30, Matthäus 81, J.Wegmann 87)"
+15,Dortmund,2,2,Stuttgart,"(Helmer 48, 80 - Allgöwer 36, Zietsch 88)"
+15,Leverkusen,2,0,Hamburger,"(Täuber 78, Schreier 86)"
+16,Leverkusen,2,2,Dortmund,"(Schreier 2 p, Cha 45 - Banach 44, MacLeod 85)[Nov 14]"
+16,Stuttgart,3,0,Bayern,"(Klinsmann 18, Walter 71, Hartmann 90)"
+16,Uerdingen,1,1,Mannheim,(Kirchhoff 7 - Lippmann 85)
+16,K'lautern,1,2,Nürnberg,"(Allievi 20 - Stenzel 77, Eckstein 82)"
+16,Karlsruher,2,2,M'gladbach,"(Glesius 60, Hermann 70 - Criens 33, H-G.Bruns 82 p)(sent off: Thiele (Karlsruher, 71))"
+16,Hannover,1,2,Frankfurt,"(Grillemeier 25 p - Detari 17 p, Smolarek 58)"
+16,Schalke,2,2,1. FC Köln,"(Thon 3, Goldbaek 5 - Kohler 10, Görtz 29)"
+16,Hamburger,0,0,Werder[Nov 17],
+16,Bochum,4,4,Homburg,"(Epp 6, 61, Legat 64, Kree 67 - Westerbeek 5,Jambo 40 p, W.Schäfer 87, 90)"
+17,1. FC Köln,2,0,Hannover,"(Baranowski 54, 70)"
+17,Frankfurt,4,0,Karlsruher,"(Körbel 35, Detari 36, F.Schulz 76, Smolarek 83 p)[90 F.Schulz (Frankfurt) m/pen]"
+17,M'gladbach,1,0,K'lautern,(Frontzeck 31)
+17,Nürnberg,2,1,Bochum,"(Stenzel 9, Grahammer 18 - Hantzidis 85)"
+17,Homburg,2,2,Uerdingen,"(W.Schäfer 14, Funkel 18 o - Kirchhoff 1,Bierhoff 48)(sent off: Herget (Uerdingen, 84))"
+17,Mannheim,2,1,Stuttgart,"(Güttler 18, Bührer 22 - Sigurvinsson 30)"
+17,Bayern,3,2,Leverkusen,"(Augenthaler 17, Wohlfahrt 41, Rummenigge 69 -Tita 79, Rolff 90)"
+17,Dortmund,2,3,Hamburger,"(Dickel 11, Pagelsdorf 41 p - Beiersdorfer 6, Kaltz 34 p, Labbadia 43)"
+17,Werder,5,0,Schalke,"(Riedle 18, 69, Ordenewitz 52 p, 89 p, Meier 55)"
+18,1. FC Köln,4,0,Karlsruher,"(Olsen 28, Görtz 68, Baranowski 78, Littbarski 89 p)[Nov 28]"
+18,Werder,1,0,Hannover,"(Riedle 84)(sent off: Knüwe (Hannover, 38))"
+18,Frankfurt,0,2,K'lautern,"(Hartmann 52, Lutz 72)"
+18,M'gladbach,3,0,Bochum,"(Hochstätter 3, 32, Krauss 57)"
+18,Nürnberg,3,1,Uerdingen,"(Eckstein 10, 24, 56 - Kuntz 5)(sent off: Kubik (Uerdingen, 60))"
+18,Homburg,2,2,Stuttgart,"(Stickroth 30, Blättel 87 - Walter 37, Gaudino 54)"
+18,Mannheim,1,4,Leverkusen,"(Bührer 43 - Schreier 31, Tita 45, 55, 83)"
+18,Bayern,1,3,Dortmund,"(Augenthaler 45 - Simmes 20, 88, Anderbrügge 39)"
+18,Schalke,1,0,Hamburger,(Hannes 80)
+19,Leverkusen,2,1,Homburg,"(Tita 25, Götz 29 - Wojcicki 64)"
+19,Hannover,3,1,Schalke,"(Grillemeier 18, 90, Reich 88 - Patzke 26)[Dec 5]"
+19,Dortmund,0,1,Mannheim,(Klotz 54)
+19,Stuttgart,0,1,Nürnberg,(Eckstein 20)
+19,Uerdingen,2,4,M'gladbach,"(W.Funkel 33, F.Funkel 86 - Criens 20, 46, Rahn44, 78)"
+19,Bochum,1,0,Frankfurt,(Kempe 52)
+19,K'lautern,3,0,1. FC Köln,"(Kohr 30, Hartmann 65, Allievi 70)"
+19,Karlsruher,0,2,Werder,"(Neubarth 17, 84)"
+19,Hamburger,2,2,Bayern,"(von Heesen 52, Kroth 66 - Augenthaler 23,Matthäus 75)[Feb 17]"
+19,Dortmund,1,2,Bochum,"(Möller 42 - Riechmann 89, Rzehaczek 90)"
+20,Werder,0,0,K'lautern,
+20,1. FC Köln,2,2,Bochum,"(Engels 9, Woodcock 81 - Woelk 14, Leifeld 53)"
+20,Frankfurt,3,1,Uerdingen,"(Smolarek 50, Turowski 52, Detari 84 - Fach 57)"
+20,M'gladbach,0,1,Stuttgart,(Gaudino 83)
+20,Nürnberg,2,1,Leverkusen,"(Andersen 25, 63 - Schreier 55)"
+20,Homburg,0,3,Dortmund,"(Storck 21, Mill 23, Hupe 55)"
+20,Mannheim,1,2,Bayern,"(Bockenfeld 9 - Pflügler 41, Rummenigge 83)[90 Matthäus (Bayern) m/pen]"
+20,Hannover,3,1,Hamburger,"(Dierßen 60, 82, Reich 69 - Kaltz 73 p)"
+20,Schalke,3,1,Karlsruher,"(Hannes 2, 65 p, Tschiskale 58 - Harforth 90)"
+21,Bayern,6,0,Homburg,"(Wohlfahrt 8, 77, Brehme 54, Matthäus 58 p,Pflügler 72, Rummenigge 79)"
+21,Uerdingen,1,1,1. FC Köln,(Prytz 15 p - Littbarski 11 p)
+21,Bochum,0,1,Werder,"(Ordenewitz 1)(sent off: Sauer (Werder, 90))"
+21,K'lautern,5,2,Schalke,"(Roos 52, Wuttke 55, 81, 83, Kohr 90 - Marquardt 10,Wollitz 71)"
+22,Werder,5,1,Uerdingen,"(Riedle 34, 90, Neubarth 64, 68, Meier 87 -Kuntz 16)"
+22,1. FC Köln,1,1,Stuttgart,(Engels 77 - Sigurvinsson 73)
+22,Frankfurt,3,2,Leverkusen,"(Detari 25, 80, Falkenmayer 37 - Klepper 14,Tita 40)"
+22,M'gladbach,0,3,Dortmund,"(Mill 26, Dickel 38, Möller 76)"
+22,Nürnberg,0,3,Bayern,"(Eck 9, Hughes 45, Matthäus 67 p)"
+22,Homburg,1,1,Mannheim,(Wojcicki 28 - Bockenfeld 6)
+22,Karlsruher,0,0,Hamburger,
+22,Hannover,1,0,K'lautern,(Dammeier 25)
+22,Schalke,2,1,Bochum,"(Tschiskale 51, Thon 73 p - Rzehaczek 67)(sent off: Nehl (Bochum, 90))[Mar 8]"
+22,Leverkusen,2,1,M'gladbach,"(Tita 46, 63 - H-G. Bruns 87)"
+23,Leverkusen,1,1,1. FC Köln,(Cha 27 - Görtz 26)
+23,K'lautern,1,1,Karlsruher,(Foda 87 - Raab 45)
+23,Mannheim,0,1,Nürnberg,(Eckstein 32)
+23,Bayern,1,0,M'gladbach,(Matthäus 79)
+23,Dortmund,3,1,Frankfurt,"(Helmer 46, Hupe 78, Mill 90 - F.Schulz 35)"
+23,Stuttgart,1,0,Werder,"(Walter 73)(sent off: Reck (Werder, 74))"
+23,Hamburger,2,1,Homburg,"(Kastl 45, Plessers 88 - Kelsch 41)[Mar 15]"
+23,Stuttgart,1,0,Frankfurt,(Schütterle 68)
+23,Karlsruher,2,1,Hannover,"(Harforth 83, Pilipovic 85 - Grillemeier 58)"
+24,M'gladbach,0,1,Mannheim,(Bockenfeld 63)[Mar 19]
+24,Werder,3,3,Leverkusen,"(Riedle 62, 89, Burgsmüller 86 - Schreier 30, 37,Tita 90)"
+24,1. FC Köln,2,0,Dortmund,"(Häßler 45, Povlsen 52)"
+24,Frankfurt,1,1,Bayern,(Turowski 71 - Matthäus 73 p)
+24,Nürnberg,2,0,Homburg,"(Eckstein 21, Giske 32)"
+24,K'lautern,0,3,Hamburger,"(Beiersdorfer 21, Okonski 84, 87)"
+24,Karlsruher,1,0,Bochum,(Hermann 70)
+24,Hannover,0,0,Uerdingen,
+24,Schalke,3,4,Stuttgart,"(Klinkert 8, Thon 36, 59 p - Allgöwer 1, Klinsmann3, 13, G.Schäfer 24)"
+25,Homburg,0,0,M'gladbach,
+25,Leverkusen,3,2,Schalke,"(Schreier 31, Täuber 56, Seckler 71 - Thon 8,Klinkert 33, ) [8 Thon (Schalke) m/pen]"
+25,Stuttgart,3,1,Hannover,"(Walter 25, Klinsmann 75, 77 - Reich 76)"
+25,Bochum,1,1,K'lautern,(Leifeld 10 - Allievi 23)[Mar 23]
+25,Mannheim,2,2,Frankfurt,"(Roscher 72, Lux 88 - Turowski 31, Detari 46)"
+25,Bayern,2,2,1. FC Köln,"(Dorfner 26, Hughes 52 - Geilenkirchen 58, 75)"
+25,Dortmund,0,0,Werder,
+25,Uerdingen,4,2,Karlsruher,"(Kuntz 20, 59, Funkel 67, Fach 86 - Glesius 30,Spies 77)"
+25,Hamburger,2,2,Nürnberg,"(Möhlmann 35, Labbadia 69 - Eckstein 33, 40)"
+26,Werder,3,1,Bayern,"(Ordenewitz 26 p, Riedle 40, 85 - Matthäus 25 p)"
+26,1. FC Köln,3,0,Mannheim,"(Dickgießer 63 o, Engels 77 p, Littbarski 85 p)"
+26,Frankfurt,1,2,Homburg,"(Freiler 8, 47, Detari 61)"
+26,M'gladbach,3,0,Nürnberg,"(Hochstätter 41, 44, Criens 65)"
+26,Bochum,4,0,Hamburger,"(Iwan 13, Leifeld 24, 55, Nehl 73)"
+26,K'lautern,2,2,Uerdingen,"(Herget 22 o, Roos 90 - Fach 4, 40)"
+26,Karlsruher,0,2,Stuttgart,"(Allgöwer 21, Klinsmann 86)"
+26,Hannover,6,1,Leverkusen,"(Surmann 13, Dierßen 15, Reich 30 p, 65, Drews 59,Hellberg 88 - Täuber 27)"
+26,Schalke,3,0,Dortmund,"(Wollitz 13, Marquardt 73, Thon 81) [87 Pagelsdorf(Dortmund) m/pen](sent off: A.Möller (Dortmund, 90))[Mar 29]"
+26,Hamburger,1,1,Mannheim,(Beiersdorfer 53 - Lux 48)[Apr 5]
+26,Dortmund,1,1,Nürnberg,(Hupe 63 - Andersen 57)
+27,Hamburger,2,1,M'gladbach,"(von Heesen 44, Bein 84 - Rahn 65)[Apr 9]"
+27,Nürnberg,1,1,Frankfurt,(Brunner 55 - Smolarek 51)
+27,Homburg,1,0,1. FC Köln,(Dooley 45)
+27,Mannheim,0,1,Werder,(Borowka 46)
+27,Bayern,8,1,Schalke,"(Matthäus 22 p, 39, 42, Rummenigge 25, J.Wegmann31, 80, Dorfner 79, Augenthaler 90 - Schipper 11)"
+27,Dortmund,3,3,Hannover,"(Storck 8, Mill 52, Zorc 61 - Drews 22, Reich 56,Surmann 77)"
+27,Leverkusen,0,0,Karlsruher,
+27,Stuttgart,3,0,K'lautern,"(Schütterle 59, Allgöwer 83 p, Walter 85)"
+27,Uerdingen,3,1,Bochum,"(Fach 30, Mathy 32, Prytz 77 - Leifeld 7)"
+28,K'lautern,1,3,Leverkusen,"(Kohr 51 p - Waas 59, Täuber 72, Götz 89)[Apr 16]"
+28,Werder,3,0,Homburg,"(Neubarth 36, Sauer 60, Riedle 76)"
+28,1. FC Köln,3,1,Nürnberg,"(Povlsen 15, 42, Janßen 40 - Reuter 17)(sent off: Philipkowski (Nürnberg, 67))"
+28,Frankfurt,2,0,M'gladbach,"(Binz 33, Turowski 69)(sent off: Dreßen (M'gladbach, 90))"
+28,Uerdingen,1,1,Hamburger,(Prytz 24 p - Bein 41)
+28,Bochum,5,1,Stuttgart,"(Iwan 4, Kree 19, G.Schäfer 22 o, Leifeld 70,Nehl 73 - Buchwald 61)"
+28,Karlsruher,0,0,Dortmund,
+28,Hannover,2,1,Bayern,"(Hobday 58, Grillemeier 76 - Pflügler 6)"
+28,Schalke,1,1,Mannheim,(Thon 83 - Bührer 81)[Apr 19]
+28,Uerdingen,5,2,Schalke,"(Fach 14, Witeczek 31, Herget 44, Mathy 60, 65 -Thon 19, 90 p)"
+28,Bochum,1,1,Hannover,(Leifeld 77 - Kohn 87)
+29,Dortmund,3,0,K'lautern,"(Zorc 20 p, Helmer 45, Möller 90)(sent off: Allievi (K'lautern, 62))[Apr 23]"
+29,M'gladbach,0,1,1. FC Köln,(Povlsen 61)
+29,Nürnberg,0,0,Werder,
+29,Homburg,3,1,Schalke,"(W.Schäfer 54, Kelsch 72, Kruszynski 90 -Tschiskale 77)"
+29,Mannheim,2,1,Hannover,"(Dais 44, Bührer 86 - Dammeier 57) [30 Güttler(Mannheim) m/pen]"
+29,Bayern,2,1,Karlsruher,"(Matthäus 24, J.Wegmann 90 p - Süß 23)"
+29,Leverkusen,0,0,Bochum,"(sent off: de Keyser (Leverkusen, 90))"
+29,Stuttgart,1,3,Uerdingen,"(Allgöwer 8 - Klinger 24, Mathy 51, Fach 61)"
+29,Hamburger,2,2,Frankfurt,"(Kastl 12, 66 - Schlindwein 73, Balzis 83)"
+30,Karlsruher,1,1,Mannheim,(Spies 23 - Dais 40 p)[Apr 30]
+30,Werder,2,0,M'gladbach,"(Kutzop 76, Riedle 81)"
+30,1. FC Köln,1,1,Frankfurt,(Littbarski 65 - Detari 23)
+30,Stuttgart,5,1,Hamburger,"(von Heesen 7, Kober 16 o, G.Schäfer 24, Allgöwer50, 72 - Walter 1)"
+30,Uerdingen,4,1,Leverkusen,"(Prytz 3 p, Funkel 48, Fach 53, Kuntz 77 - Götz 85)(sent off: Tita (Leverkusen, 39))"
+30,Bochum,2,0,Dortmund,"(Kree 37 p, 80)"
+30,K'lautern,3,1,Bayern,"(Lelle 44, Kohr 55, 62 - Wohlfahrt 81)"
+30,Hannover,5,1,Homburg,"(Dierßen 6, Reich 13, Grillemeier 66, Drews 74,Kohn 85 - W.Schäfer 31)"
+30,Schalke,0,0,Nürnberg,
+31,Frankfurt,0,1,Werder,"(Riedle 70)(sent off: Neubarth (Werder, 90))"
+31,M'gladbach,1,1,Schalke,(H-G.Bruns 69 - Wollitz 32)
+31,Nürnberg,1,3,Hannover,"(Eckstein 60 - Surmann 7, Kohn 83, Reich 90)"
+31,Homburg,1,0,Karlsruher,(Keim 61)
+31,Mannheim,0,2,K'lautern,"(Kohr 48, Foda 82)"
+31,Bayern,5,0,Bochum,"(Hughes 51, 62, 68, Eder 61, Dorfner 83)"
+31,Dortmund,4,2,Uerdingen,"(Zorc 32 p, 37, 81, 90 p - Fach 10, Prytz 52 p)"
+31,Hamburger,3,0,1. FC Köln,"(Spörl 11, Spörl 35, Labbadia 89)"
+32,Bochum,1,0,Mannheim,(Kree 27)
+32,K'lautern,1,0,Homburg,(Schupp 57)[May 7]
+32,1. FC Köln,2,0,Werder,"(Povlsen 3, Littbarski 50 p)"
+32,Stuttgart,2,2,Dortmund,"(Klinsmann 66, 90 - Zorc 13 p, Mill 46)"
+32,Uerdingen,0,0,Bayern,[53 Prytz (Uerdingen) m/pen]
+32,Karlsruher,2,0,Nürnberg,"(Spies 27, 83)(sent off: Eckstein (Nürnberg, 79))"
+32,Hannover,2,4,M'gladbach,"(Grillemeier 2, Hobday 48 - Effenberg 7, Hochstätter40, Criens 85, Rahn 89)"
+32,Schalke,0,0,Frankfurt,
+32,Hamburger,3,2,Leverkusen,"(Kastl 7, Bein 12, 79 - Götz 46, Falkenmayer 82 p)[May 10]"
+32,Leverkusen,2,1,Stuttgart,"(Falkenmayer 31 p, Götz 88 - Strehmel 15)"
+33,Werder,1,4,Hamburger,"(Meier 37 - Möhlmann 39, Bein 70, Labbadia 77, 87)"
+33,1. FC Köln,3,1,Schalke,"(Häßler 70, Littbarski 74 p, Janßen 84 - D.Götz 34)"
+33,Frankfurt,3,3,Hannover,"(Detari 5, 84, Friz 22 - Reich 51, 87,Grillemeier 69)"
+33,M'gladbach,2,2,Karlsruher,"(Rahn 8, Criens 45 - Heisig 75, Hermann 83)"
+33,Nürnberg,3,2,K'lautern,"(Eckstein 11, Andersen 32, 34 - Wuttke 25, Roos 50)(sent off: Moser (K'lautern, 77))"
+33,Homburg,1,1,Bochum,(Freiler 62 - Knäbel 50) [19 Kree (Bochum) m/pen]
+33,Mannheim,2,2,Uerdingen,"(Cvetkovic 20 p, Trieb 42 - Witeczek 51,Edvaldsson 85)"
+33,Bayern,2,1,Stuttgart,"(Matthäus 9, 49 - Klinsmann 80)(sent off: Hughes (Bayern, 90))"
+33,Dortmund,2,2,Leverkusen,"(Götz 50, Helmer 59, Reinhardt 74, Zorc 84 p)"
+34,Leverkusen,3,4,Bayern,"(Hausmann 3, Tita 8, Götz 18 - Matthäus 20,Bayerschmidt 50, J.Wegmann 72, 81)"
+34,Stuttgart,1,1,Mannheim,(Walter 42 - Bührer 86)
+34,Uerdingen,5,1,Homburg,"(Kuntz 28, 71, Witeczek 52, Thommessen 79, 89 -W.Schäfer 43)"
+34,Bochum,3,0,Nürnberg,"(Reekers 28, Kempe 65, Zumdick 88 p)"
+34,K'lautern,5,2,M'gladbach,"(Kohr 5, Roos 56, Friedmann 59, Allievi 72,Wuttke 82 - Wolf 2 o, Hochstätter 16)(sent off: Krisp (M'gladbach, 90))"
+34,Karlsruher,1,1,Frankfurt,(Schulz 17 - Glesius 88)
+34,Hannover,0,3,1. FC Köln,"(Povlsen 42, Littbarski 55 p, Häßler 89)"
+34,Schalke,1,4,Werder,"(Tschiskale 59 - Riedle 6, 17, Ordenewitz 26, 44)"
+34,Hamburger,4,3,Dortmund,"(Kaltz 66 p, 81 p, von Heesen 75, Jakobs 89 -Storck 54, Zorc 58, Mill 74)"
