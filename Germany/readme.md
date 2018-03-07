@@ -1,0 +1,1 @@
+Bundesliga data from 1964 - 2017 EXCEPT 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1986, 1987, 1989, 1990, 1991, 1992, 1993, 1994, 1996, 1998, 1999, 2014 because of formatting issues in source. Will update by End of Week
