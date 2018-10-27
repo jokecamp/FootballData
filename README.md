@@ -55,6 +55,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 #### Contributor Resources
 
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - readable JSON is preferred.
+- [JSONLint](https://jsonlint.com/) - another JSON validator.
 
 ## Data Sources
 
