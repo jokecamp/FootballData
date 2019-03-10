@@ -74,6 +74,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - <https://amj2012.shinyapps.io/wosostats/> Women's soccer online stats
 - http://www.rsssf.com/  The Rec.Sport.Soccer Statistics Foundation
 - https://www.mlssoccer.com/stats/ Major League Soccer (United States)
+- <https://github.com/statsbomb/open-data> - data is provided as JSON files exported from the StatsBomb Data API, 
 
 ### Worth Investigating
 
