@@ -14,7 +14,7 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - [Euro 2016] - teams and rosters
 - [FA English Premier League (EPL) 1992 to 2015](EPL%201992%20-%202015)
 - Germany
- - [Bundesliga 2015-2016 Roster/Players](Germany/bundesliga-2015-2016-rosters.json)
+- [Bundesliga 2015-2016 Roster/Players](Germany/bundesliga-2015-2016-rosters.json)
 - [ESPN Player Data](espn/)
 - [Euro 2012](Euro 2012/)
 - [football-data.co.uk](football-data.co.uk) - massive dump of csv files for historical results and betting odds Data
@@ -29,6 +29,7 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
 - Video Game data
  -  [FIFA 2012 Ultimate Team Player Data](video-game-data/fifa-soccer-12-ultimate-team-data-player-database.csv)
 - [Huge set of 22 countries](https://github.com/jokecamp/FootballData/tree/master/Football-results%20(22%20countries)) - sqlite db file, csv and xls files
+- [Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000)
 
 ## Contributors
 
@@ -81,3 +82,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - https://github.com/fivethirtyeight/data/tree/master/womens-world-cup-predictions
 - https://github.com/fivethirtyeight/data/tree/master/world-cup-predictions
 - https://public.tableau.com/profile/jurijfedorov#!/
+
+### Apps
+
+- [Football Passing Networks](https://grafos-da-bola.netlify.app/)
