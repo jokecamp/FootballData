@@ -1,16 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+}
 table{
     table-layout:fixed;
      width: 100%;
 border: 10px blue;
 background-color: white ;
+color: white;
 }
 caption  {
 background-color: #F2055C;
 background-size:  100%;
-color: white;
-}
-p{
- 
 }
 tbody tr:nth-child(1) {
     background-color: grey;
