@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+    color:white;
+}
+table{
+    table-layout:fixed;
+     width: 100%;
+border: 10px blue;
+background-color: white ;
+color: white;
+}
+caption  {
+background-color: #F2055C;
+background-size:  100%;
+}
+tbody tr:nth-child(1) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(2) {
+    background-color: #3562A6;
+    color: black; 
+}
+tbody tr:nth-child(3) {
+    background-color: #3562A6;
+    color: black; 
+}
+tbody tr:nth-child(4) {
+    background-color: #3562A6;
+    color: black; 
+}
+tbody tr:nth-child(5) {
+    background-color: #3562A6;
+    color: black; 
+}
+tbody tr:nth-child(6) {
+    background-color: orange;
+    color: black; 
+}
+tbody tr:nth-child(7) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(8) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(9) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(10) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(11) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(12) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(13) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(14) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(15) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(16) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(17) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(18) {
+    background-color: grey;
+    color: black; 
+}
+tbody tr:nth-child(19) {
+    background-color: #de0a0a;
+    color: black; 
+}
+tbody tr:nth-child(20) {
+    background-color: #de0a0a;
+    color: black; 
+}
+tbody tr:nth-child(21) {
+    background-color: #de0a0a;
+    color: black; 
+}
+
+
+table td:nth-child(2) {
+    background-color: #F2055C;
+    color: black; 
+}
+table td:nth-child(3) {
+    background-color: #340040;
+    color: white; 
+}tbody td:nth-child(4) {
+    background-color: #07F2F2;
+    color: black; 
+}
+tbody td:nth-child(5) {
+    background-color: #05F26C;
+    color: black; 
+}
+tbody td:nth-child(6) {
+    background-color: #EAF205;
+    color: black; 
+}
