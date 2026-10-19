@@ -76,6 +76,7 @@ If you use and clean up a file. Please re-add it so everyone can benefit.
 - http://www.rsssf.com/  The Rec.Sport.Soccer Statistics Foundation
 - https://www.mlssoccer.com/stats/ Major League Soccer (United States)
 - <https://github.com/statsbomb/open-data> - data is provided as JSON files exported from the StatsBomb Data API, 
+- <https://github.com/FootInsights/footinsights-data> - FootInsights settled predictions: every pre-match probability published since Aug 2026 (1X2, over/under 2.5, BTTS) settled against the final score, append-only, CC BY 4.0 CSV refreshed weekly
 
 ### Worth Investigating
 
